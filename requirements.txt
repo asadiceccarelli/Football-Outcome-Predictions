@@ -1,20 +1,9 @@
-# packages in environment at /Users/asadiceccarelli/opt/anaconda3/envs/football-env:
-#
-# Name                    Version                   Build  Channel
-bzip2                     1.0.8                h1de35cc_0  
-ca-certificates           2022.07.19           hecd8cb5_0  
-certifi                   2022.6.15       py310hecd8cb5_0  
-libcxx                    12.0.0               h2f01273_0  
-libffi                    3.3                  hb1e8313_2  
-ncurses                   6.3                  hca72f7f_3  
-openssl                   1.1.1q               hca72f7f_0  
-pip                       22.1.2          py310hecd8cb5_0  
-python                    3.10.4               hdfd78df_0  
-readline                  8.1.2                hca72f7f_1  
-setuptools                61.2.0          py310hecd8cb5_0  
-sqlite                    3.39.2               h707629a_0  
-tk                        8.6.12               h5d9f67b_0  
-tzdata                    2022a                hda174b7_0  
-wheel                     0.37.1             pyhd3eb1b0_0  
-xz                        5.2.5                hca72f7f_1  
-zlib                      1.2.12               h4dc903c_2  
+certifi==2022.6.15
+numpy==1.23.1
+pandas==1.4.3
+pip==22.1.2
+python-dateutil==2.8.2
+pytz==2022.1
+setuptools==61.2.0
+six==1.16.0
+wheel==0.37.1

@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Real Madrid,Deportivo,3-2,https://www.besoccer.com/match/real-madrid/deportivo/2010761,2010,1,primera_division
+Real Zaragoza,Tenerife,1-0,https://www.besoccer.com/match/real-zaragoza/tenerife/2010765,2010,1,primera_division
+Athletic,Espanyol,1-0,https://www.besoccer.com/match/athletic-bilbao/espanyol/2010762,2010,1,primera_division
+Mallorca,Xerez,2-0,https://www.besoccer.com/match/mallorca/xerez/2010763,2010,1,primera_division
+Osasuna,Villarreal,1-1,https://www.besoccer.com/match/osasuna/villarreal/2010764,2010,1,primera_division
+Racing,Getafe,1-4,https://www.besoccer.com/match/racing/getafe/2010769,2010,1,primera_division
+Málaga,Atlético,3-0,https://www.besoccer.com/match/malaga/atletico-madrid/2010770,2010,1,primera_division
+Valencia,Sevilla,2-0,https://www.besoccer.com/match/valencia-cf/sevilla/2010766,2010,1,primera_division
+Almería,Real Valladolid,0-0,https://www.besoccer.com/match/almeria/valladolid/2010767,2010,1,primera_division
+Barcelona,Real Sporting,3-0,https://www.besoccer.com/match/barcelona/sporting-gijon/2010768,2010,1,primera_division
+Getafe,Barcelona,0-2,https://www.besoccer.com/match/getafe/barcelona/2010779,2010,2,primera_division
+Atlético,Racing,1-1,https://www.besoccer.com/match/atletico-madrid/racing/2010780,2010,2,primera_division
+Espanyol,Real Madrid,0-3,https://www.besoccer.com/match/espanyol/real-madrid/2010772,2010,2,primera_division
+Sevilla,Real Zaragoza,4-1,https://www.besoccer.com/match/sevilla/real-zaragoza/2010776,2010,2,primera_division
+Deportivo,Málaga,1-0,https://www.besoccer.com/match/deportivo/malaga/2010771,2010,2,primera_division
+Villarreal,Mallorca,1-1,https://www.besoccer.com/match/villarreal/mallorca/2010774,2010,2,primera_division
+Tenerife,Osasuna,2-1,https://www.besoccer.com/match/tenerife/osasuna/2010775,2010,2,primera_division
+Real Sporting,Almería,1-0,https://www.besoccer.com/match/sporting-gijon/almeria/2010778,2010,2,primera_division
+Real Valladolid,Valencia,2-4,https://www.besoccer.com/match/valladolid/valencia-cf/2010777,2010,2,primera_division
+Xerez,Athletic,0-1,https://www.besoccer.com/match/xerez/athletic-bilbao/2010773,2010,2,primera_division
+Deportivo,Espanyol,2-3,https://www.besoccer.com/match/deportivo/espanyol/2010781,2010,3,primera_division
+Mallorca,Tenerife,4-0,https://www.besoccer.com/match/mallorca/tenerife/2010784,2010,3,primera_division
+Osasuna,Sevilla,0-2,https://www.besoccer.com/match/osasuna/sevilla/2010785,2010,3,primera_division
+Málaga,Racing,1-2,https://www.besoccer.com/match/malaga/racing/2010790,2010,3,primera_division
+Barcelona,Atlético,5-2,https://www.besoccer.com/match/barcelona/atletico-madrid/2010789,2010,3,primera_division
+Athletic,Villarreal,3-2,https://www.besoccer.com/match/athletic-bilbao/villarreal/2010783,2010,3,primera_division
+Real Zaragoza,Real Valladolid,1-2,https://www.besoccer.com/match/real-zaragoza/valladolid/2010786,2010,3,primera_division
+Almería,Getafe,1-0,https://www.besoccer.com/match/almeria/getafe/2010788,2010,3,primera_division
+Real Madrid,Xerez,5-0,https://www.besoccer.com/match/real-madrid/xerez/2010782,2010,3,primera_division
+Valencia,Real Sporting,2-2,https://www.besoccer.com/match/valencia-cf/sporting-gijon/2010787,2010,3,primera_division
+Sevilla,Mallorca,2-0,https://www.besoccer.com/match/sevilla/mallorca/2010795,2010,4,primera_division
+Racing,Barcelona,1-4,https://www.besoccer.com/match/racing/barcelona/2010800,2010,4,primera_division
+Espanyol,Málaga,2-1,https://www.besoccer.com/match/espanyol/malaga/2010791,2010,4,primera_division
+Xerez,Deportivo,0-3,https://www.besoccer.com/match/xerez/deportivo/2010792,2010,4,primera_division
+Villarreal,Real Madrid,0-2,https://www.besoccer.com/match/villarreal/real-madrid/2010793,2010,4,primera_division
+Real Valladolid,Osasuna,1-2,https://www.besoccer.com/match/valladolid/osasuna/2010796,2010,4,primera_division
+Atlético,Almería,2-2,https://www.besoccer.com/match/atletico-madrid/almeria/2010799,2010,4,primera_division
+Tenerife,Athletic,1-0,https://www.besoccer.com/match/tenerife/athletic-bilbao/2010794,2010,4,primera_division
+Getafe,Valencia,3-1,https://www.besoccer.com/match/getafe/valencia-cf/2010798,2010,4,primera_division
+Real Sporting,Real Zaragoza,1-1,https://www.besoccer.com/match/sporting-gijon/real-zaragoza/2010797,2010,4,primera_division
+Real Madrid,Tenerife,3-0,https://www.besoccer.com/match/real-madrid/tenerife/2010803,2010,5,primera_division
+Athletic,Sevilla,0-4,https://www.besoccer.com/match/athletic-bilbao/sevilla/2010804,2010,5,primera_division
+Málaga,Barcelona,0-2,https://www.besoccer.com/match/malaga/barcelona/2010810,2010,5,primera_division
+Valencia,Atlético,2-2,https://www.besoccer.com/match/valencia-cf/atletico-madrid/2010808,2010,5,primera_division
+Espanyol,Xerez,0-0,https://www.besoccer.com/match/espanyol/xerez/2010801,2010,5,primera_division
+Mallorca,Real Valladolid,3-0,https://www.besoccer.com/match/mallorca/valladolid/2010805,2010,5,primera_division
+Osasuna,Real Sporting,1-0,https://www.besoccer.com/match/osasuna/sporting-gijon/2010806,2010,5,primera_division
+Almería,Racing,2-2,https://www.besoccer.com/match/almeria/racing/2010809,2010,5,primera_division
+Real Zaragoza,Getafe,3-0,https://www.besoccer.com/match/real-zaragoza/getafe/2010807,2010,5,primera_division
+Deportivo,Villarreal,1-0,https://www.besoccer.com/match/deportivo/villarreal/2010802,2010,5,primera_division
+Tenerife,Deportivo,0-1,https://www.besoccer.com/match/tenerife/deportivo/2010813,2010,6,primera_division
+Barcelona,Almería,1-0,https://www.besoccer.com/match/barcelona/almeria/2010820,2010,6,primera_division
+Atlético,Real Zaragoza,2-1,https://www.besoccer.com/match/atletico-madrid/real-zaragoza/2010818,2010,6,primera_division
+Xerez,Málaga,1-1,https://www.besoccer.com/match/xerez/malaga/2010811,2010,6,primera_division
+Villarreal,Espanyol,0-0,https://www.besoccer.com/match/villarreal/espanyol/2010812,2010,6,primera_division
+Real Valladolid,Athletic,2-2,https://www.besoccer.com/match/valladolid/athletic-bilbao/2010815,2010,6,primera_division
+Real Sporting,Mallorca,4-1,https://www.besoccer.com/match/sporting-gijon/mallorca/2010816,2010,6,primera_division
+Getafe,Osasuna,2-1,https://www.besoccer.com/match/getafe/osasuna/2010817,2010,6,primera_division
+Racing,Valencia,0-1,https://www.besoccer.com/match/racing/valencia-cf/2010819,2010,6,primera_division
+Sevilla,Real Madrid,2-1,https://www.besoccer.com/match/sevilla/real-madrid/2010814,2010,6,primera_division
+Deportivo,Sevilla,1-0,https://www.besoccer.com/match/deportivo/sevilla/2010823,2010,7,primera_division
+Real Madrid,Real Valladolid,4-2,https://www.besoccer.com/match/real-madrid/valladolid/2010824,2010,7,primera_division
+Valencia,Barcelona,0-0,https://www.besoccer.com/match/valencia-cf/barcelona/2010829,2010,7,primera_division
+Xerez,Villarreal,2-1,https://www.besoccer.com/match/xerez/villarreal/2010821,2010,7,primera_division
+Espanyol,Tenerife,2-1,https://www.besoccer.com/match/espanyol/tenerife/2010822,2010,7,primera_division
+Mallorca,Getafe,3-1,https://www.besoccer.com/match/mallorca/getafe/2010826,2010,7,primera_division
+Real Zaragoza,Racing,2-2,https://www.besoccer.com/match/real-zaragoza/racing/2010828,2010,7,primera_division
+Málaga,Almería,1-2,https://www.besoccer.com/match/malaga/almeria/2010830,2010,7,primera_division
+Athletic,Real Sporting,1-2,https://www.besoccer.com/match/athletic-bilbao/sporting-gijon/2010825,2010,7,primera_division
+Osasuna,Atlético,3-0,https://www.besoccer.com/match/osasuna/atletico-madrid/2010827,2010,7,primera_division
+Atlético,Mallorca,1-1,https://www.besoccer.com/match/atletico-madrid/mallorca/2010837,2010,8,primera_division
+Real Sporting,Real Madrid,0-0,https://www.besoccer.com/match/sporting-gijon/real-madrid/2010835,2010,8,primera_division
+Sevilla,Espanyol,0-0,https://www.besoccer.com/match/sevilla/espanyol/2010833,2010,8,primera_division
+Villarreal,Málaga,2-1,https://www.besoccer.com/match/villarreal/malaga/2010831,2010,8,primera_division
+Tenerife,Xerez,1-0,https://www.besoccer.com/match/tenerife/xerez/2010832,2010,8,primera_division
+Real Valladolid,Deportivo,4-0,https://www.besoccer.com/match/valladolid/deportivo/2010834,2010,8,primera_division
+Getafe,Athletic,2-0,https://www.besoccer.com/match/getafe/athletic-bilbao/2010836,2010,8,primera_division
+Racing,Osasuna,1-1,https://www.besoccer.com/match/racing/osasuna/2010838,2010,8,primera_division
+Almería,Valencia,0-3,https://www.besoccer.com/match/almeria/valencia-cf/2010840,2010,8,primera_division
+Barcelona,Real Zaragoza,6-1,https://www.besoccer.com/match/barcelona/real-zaragoza/2010839,2010,8,primera_division
+Real Madrid,Getafe,2-0,https://www.besoccer.com/match/real-madrid/getafe/2010845,2010,9,primera_division
+Xerez,Sevilla,0-2,https://www.besoccer.com/match/xerez/sevilla/2010842,2010,9,primera_division
+Osasuna,Barcelona,1-1,https://www.besoccer.com/match/osasuna/barcelona/2010848,2010,9,primera_division
+Athletic,Atlético,1-0,https://www.besoccer.com/match/athletic-bilbao/atletico-madrid/2010846,2010,9,primera_division
+Villarreal,Tenerife,5-0,https://www.besoccer.com/match/villarreal/tenerife/2010841,2010,9,primera_division
+Espanyol,Real Valladolid,1-1,https://www.besoccer.com/match/espanyol/valladolid/2010843,2010,9,primera_division
+Mallorca,Racing,1-0,https://www.besoccer.com/match/mallorca/racing/2010847,2010,9,primera_division
+Real Zaragoza,Almería,2-1,https://www.besoccer.com/match/real-zaragoza/almeria/2010849,2010,9,primera_division
+Málaga,Valencia,0-1,https://www.besoccer.com/match/malaga/valencia-cf/2010850,2010,9,primera_division
+Deportivo,Real Sporting,1-1,https://www.besoccer.com/match/deportivo/sporting-gijon/2010844,2010,9,primera_division
+Tenerife,Málaga,2-2,https://www.besoccer.com/match/tenerife/malaga/2010851,2010,10,primera_division
+Getafe,Deportivo,0-2,https://www.besoccer.com/match/getafe/deportivo/2010855,2010,10,primera_division
+Barcelona,Mallorca,4-2,https://www.besoccer.com/match/barcelona/mallorca/2010858,2010,10,primera_division
+Atlético,Real Madrid,2-3,https://www.besoccer.com/match/atletico-madrid/real-madrid/2010856,2010,10,primera_division
+Real Valladolid,Xerez,0-0,https://www.besoccer.com/match/valladolid/xerez/2010853,2010,10,primera_division
+Real Sporting,Espanyol,1-0,https://www.besoccer.com/match/sporting-gijon/espanyol/2010854,2010,10,primera_division
+Racing,Athletic,0-2,https://www.besoccer.com/match/racing/athletic-bilbao/2010857,2010,10,primera_division
+Almería,Osasuna,2-0,https://www.besoccer.com/match/almeria/osasuna/2010859,2010,10,primera_division
+Valencia,Real Zaragoza,3-1,https://www.besoccer.com/match/valencia-cf/real-zaragoza/2010860,2010,10,primera_division
+Sevilla,Villarreal,3-2,https://www.besoccer.com/match/sevilla/villarreal/2010852,2010,10,primera_division
+Tenerife,Sevilla,1-2,https://www.besoccer.com/match/tenerife/sevilla/2010861,2010,11,primera_division
+Deportivo,Atlético,2-1,https://www.besoccer.com/match/deportivo/atletico-madrid/2010865,2010,11,primera_division
+Real Madrid,Racing,1-0,https://www.besoccer.com/match/real-madrid/racing/2010866,2010,11,primera_division
+Athletic,Barcelona,1-1,https://www.besoccer.com/match/athletic-bilbao/barcelona/2010867,2010,11,primera_division
+Villarreal,Real Valladolid,3-1,https://www.besoccer.com/match/villarreal/valladolid/2010862,2010,11,primera_division
+Xerez,Real Sporting,0-0,https://www.besoccer.com/match/xerez/sporting-gijon/2010863,2010,11,primera_division
+Espanyol,Getafe,0-2,https://www.besoccer.com/match/espanyol/getafe/2010864,2010,11,primera_division
+Mallorca,Almería,3-1,https://www.besoccer.com/match/mallorca/almeria/2010868,2010,11,primera_division
+Málaga,Real Zaragoza,1-1,https://www.besoccer.com/match/malaga/real-zaragoza/2010870,2010,11,primera_division
+Osasuna,Valencia,1-3,https://www.besoccer.com/match/osasuna/valencia-cf/2010869,2010,11,primera_division
+Real Sporting,Villarreal,1-0,https://www.besoccer.com/match/sporting-gijon/villarreal/2010873,2010,12,primera_division
+Valencia,Mallorca,1-1,https://www.besoccer.com/match/valencia-cf/mallorca/2010879,2010,12,primera_division
+Sevilla,Málaga,2-2,https://www.besoccer.com/match/sevilla/malaga/2010871,2010,12,primera_division
+Real Valladolid,Tenerife,3-3,https://www.besoccer.com/match/valladolid/tenerife/2010872,2010,12,primera_division
+Getafe,Xerez,5-1,https://www.besoccer.com/match/getafe/xerez/2010874,2010,12,primera_division
+Racing,Deportivo,0-1,https://www.besoccer.com/match/racing/deportivo/2010876,2010,12,primera_division
+Almería,Athletic,1-4,https://www.besoccer.com/match/almeria/athletic-bilbao/2010878,2010,12,primera_division
+Real Zaragoza,Osasuna,0-1,https://www.besoccer.com/match/real-zaragoza/osasuna/2010880,2010,12,primera_division
+Barcelona,Real Madrid,1-0,https://www.besoccer.com/match/barcelona/real-madrid/2010877,2010,12,primera_division
+Atlético,Espanyol,4-0,https://www.besoccer.com/match/atletico-madrid/espanyol/2010875,2010,12,primera_division
+Sevilla,Real Valladolid,1-1,https://www.besoccer.com/match/sevilla/valladolid/2010881,2010,13,primera_division
+Xerez,Atlético,0-2,https://www.besoccer.com/match/xerez/atletico-madrid/2010884,2010,13,primera_division
+Real Madrid,Almería,4-2,https://www.besoccer.com/match/real-madrid/almeria/2010887,2010,13,primera_division
+Deportivo,Barcelona,1-3,https://www.besoccer.com/match/deportivo/barcelona/2010886,2010,13,primera_division
+Tenerife,Real Sporting,2-1,https://www.besoccer.com/match/tenerife/sporting-gijon/2010882,2010,13,primera_division
+Espanyol,Racing,0-4,https://www.besoccer.com/match/espanyol/racing/2010885,2010,13,primera_division
+Mallorca,Real Zaragoza,4-1,https://www.besoccer.com/match/mallorca/real-zaragoza/2010889,2010,13,primera_division
+Málaga,Osasuna,1-1,https://www.besoccer.com/match/malaga/osasuna/2010890,2010,13,primera_division
+Villarreal,Getafe,3-2,https://www.besoccer.com/match/villarreal/getafe/2010883,2010,13,primera_division
+Athletic,Valencia,1-2,https://www.besoccer.com/match/athletic-bilbao/valencia-cf/2010888,2010,13,primera_division
+Real Zaragoza,Athletic,1-2,https://www.besoccer.com/match/real-zaragoza/athletic-bilbao/2010899,2010,14,primera_division
+Barcelona,Espanyol,1-0,https://www.besoccer.com/match/barcelona/espanyol/2010896,2010,14,primera_division
+Valencia,Real Madrid,2-3,https://www.besoccer.com/match/valencia-cf/real-madrid/2010898,2010,14,primera_division
+Real Valladolid,Málaga,1-1,https://www.besoccer.com/match/valladolid/malaga/2010891,2010,14,primera_division
+Getafe,Tenerife,2-1,https://www.besoccer.com/match/getafe/tenerife/2010893,2010,14,primera_division
+Racing,Xerez,3-2,https://www.besoccer.com/match/racing/xerez/2010895,2010,14,primera_division
+Almería,Deportivo,1-1,https://www.besoccer.com/match/almeria/deportivo/2010897,2010,14,primera_division
+Osasuna,Mallorca,0-1,https://www.besoccer.com/match/osasuna/mallorca/2010900,2010,14,primera_division
+Atlético,Villarreal,1-2,https://www.besoccer.com/match/atletico-madrid/villarreal/2010894,2010,14,primera_division
+Real Sporting,Sevilla,0-1,https://www.besoccer.com/match/sporting-gijon/sevilla/2010892,2010,14,primera_division
+Xerez,Barcelona,0-2,https://www.besoccer.com/match/xerez/barcelona/2010905,2010,15,primera_division
+Athletic,Osasuna,2-0,https://www.besoccer.com/match/athletic-bilbao/osasuna/2010909,2010,15,primera_division
+Sevilla,Getafe,1-2,https://www.besoccer.com/match/sevilla/getafe/2010902,2010,15,primera_division
+Real Madrid,Real Zaragoza,6-0,https://www.besoccer.com/match/real-madrid/real-zaragoza/2010908,2010,15,primera_division
+Real Valladolid,Real Sporting,2-1,https://www.besoccer.com/match/valladolid/sporting-gijon/2010901,2010,15,primera_division
+Villarreal,Racing,2-0,https://www.besoccer.com/match/villarreal/racing/2010904,2010,15,primera_division
+Espanyol,Almería,2-0,https://www.besoccer.com/match/espanyol/almeria/2010906,2010,15,primera_division
+Málaga,Mallorca,2-1,https://www.besoccer.com/match/malaga/mallorca/2010910,2010,15,primera_division
+Tenerife,Atlético,1-1,https://www.besoccer.com/match/tenerife/atletico-madrid/2010903,2010,15,primera_division
+Deportivo,Valencia,0-0,https://www.besoccer.com/match/deportivo/valencia-cf/2010907,2010,15,primera_division
+Valencia,Espanyol,1-0,https://www.besoccer.com/match/valencia-cf/espanyol/2010917,2010,16,primera_division
+Barcelona,Villarreal,1-1,https://www.besoccer.com/match/barcelona/villarreal/2010915,2010,16,primera_division
+Atlético,Sevilla,2-1,https://www.besoccer.com/match/atletico-madrid/sevilla/2010913,2010,16,primera_division
+Real Sporting,Málaga,2-2,https://www.besoccer.com/match/sporting-gijon/malaga/2010911,2010,16,primera_division
+Getafe,Real Valladolid,1-0,https://www.besoccer.com/match/getafe/valladolid/2010912,2010,16,primera_division
+Racing,Tenerife,2-0,https://www.besoccer.com/match/racing/tenerife/2010914,2010,16,primera_division
+Almería,Xerez,1-0,https://www.besoccer.com/match/almeria/xerez/2010916,2010,16,primera_division
+Real Zaragoza,Deportivo,0-0,https://www.besoccer.com/match/real-zaragoza/deportivo/2010918,2010,16,primera_division
+Mallorca,Athletic,2-0,https://www.besoccer.com/match/mallorca/athletic-bilbao/2010920,2010,16,primera_division
+Osasuna,Real Madrid,0-0,https://www.besoccer.com/match/osasuna/real-madrid/2010919,2010,16,primera_division
+Real Valladolid,Atlético,0-4,https://www.besoccer.com/match/valladolid/atletico-madrid/2010922,2010,17,primera_division
+Sevilla,Racing,1-2,https://www.besoccer.com/match/sevilla/racing/2010923,2010,17,primera_division
+Villarreal,Almería,1-1,https://www.besoccer.com/match/villarreal/almeria/2010925,2010,17,primera_division
+Real Sporting,Getafe,1-0,https://www.besoccer.com/match/sporting-gijon/getafe/2010921,2010,17,primera_division
+Xerez,Valencia,1-3,https://www.besoccer.com/match/xerez/valencia-cf/2010926,2010,17,primera_division
+Espanyol,Real Zaragoza,2-1,https://www.besoccer.com/match/espanyol/real-zaragoza/2010927,2010,17,primera_division
+Deportivo,Osasuna,1-0,https://www.besoccer.com/match/deportivo/osasuna/2010928,2010,17,primera_division
+Málaga,Athletic,1-1,https://www.besoccer.com/match/malaga/athletic-bilbao/2010930,2010,17,primera_division
+Real Madrid,Mallorca,2-0,https://www.besoccer.com/match/real-madrid/mallorca/2010929,2010,17,primera_division
+Tenerife,Barcelona,0-5,https://www.besoccer.com/match/tenerife/barcelona/2010924,2010,17,primera_division
+Osasuna,Espanyol,2-0,https://www.besoccer.com/match/osasuna/espanyol/2010938,2010,18,primera_division
+Athletic,Real Madrid,1-0,https://www.besoccer.com/match/athletic-bilbao/real-madrid/2010940,2010,18,primera_division
+Barcelona,Sevilla,4-0,https://www.besoccer.com/match/barcelona/sevilla/2010934,2010,18,primera_division
+Málaga,Getafe,1-0,https://www.besoccer.com/match/malaga/getafe/2010931,2010,18,primera_division
+Racing,Real Valladolid,1-1,https://www.besoccer.com/match/racing/valladolid/2010933,2010,18,primera_division
+Almería,Tenerife,1-1,https://www.besoccer.com/match/almeria/tenerife/2010935,2010,18,primera_division
+Real Zaragoza,Xerez,0-0,https://www.besoccer.com/match/real-zaragoza/xerez/2010937,2010,18,primera_division
+Mallorca,Deportivo,2-0,https://www.besoccer.com/match/mallorca/deportivo/2010939,2010,18,primera_division
+Atlético,Real Sporting,3-2,https://www.besoccer.com/match/atletico-madrid/sporting-gijon/2010932,2010,18,primera_division
+Valencia,Villarreal,4-1,https://www.besoccer.com/match/valencia-cf/villarreal/2010936,2010,18,primera_division
+Sevilla,Almería,1-0,https://www.besoccer.com/match/sevilla/almeria/2010944,2010,19,primera_division
+Real Valladolid,Barcelona,0-3,https://www.besoccer.com/match/valladolid/barcelona/2010943,2010,19,primera_division
+Deportivo,Athletic,3-1,https://www.besoccer.com/match/deportivo/athletic-bilbao/2010949,2010,19,primera_division
+Real Sporting,Racing,0-1,https://www.besoccer.com/match/sporting-gijon/racing/2010942,2010,19,primera_division
+Tenerife,Valencia,0-0,https://www.besoccer.com/match/tenerife/valencia-cf/2010945,2010,19,primera_division
+Villarreal,Real Zaragoza,4-2,https://www.besoccer.com/match/villarreal/real-zaragoza/2010946,2010,19,primera_division
+Xerez,Osasuna,1-2,https://www.besoccer.com/match/xerez/osasuna/2010947,2010,19,primera_division
+Espanyol,Mallorca,1-1,https://www.besoccer.com/match/espanyol/mallorca/2010948,2010,19,primera_division
+Getafe,Atlético,1-0,https://www.besoccer.com/match/getafe/atletico-madrid/2010941,2010,19,primera_division
+Real Madrid,Málaga,2-0,https://www.besoccer.com/match/real-madrid/malaga/2010950,2010,19,primera_division
+Espanyol,Athletic,1-0,https://www.besoccer.com/match/espanyol/athletic-bilbao/2010952,2010,20,primera_division
+Real Sporting,Barcelona,0-1,https://www.besoccer.com/match/sporting-gijon/barcelona/2010958,2010,20,primera_division
+Deportivo,Real Madrid,1-3,https://www.besoccer.com/match/deportivo/real-madrid/2010951,2010,20,primera_division
+Xerez,Mallorca,2-1,https://www.besoccer.com/match/xerez/mallorca/2010953,2010,20,primera_division
+Villarreal,Osasuna,0-2,https://www.besoccer.com/match/villarreal/osasuna/2010954,2010,20,primera_division
+Tenerife,Real Zaragoza,1-3,https://www.besoccer.com/match/tenerife/real-zaragoza/2010955,2010,20,primera_division
+Real Valladolid,Almería,1-1,https://www.besoccer.com/match/valladolid/almeria/2010957,2010,20,primera_division
+Getafe,Racing,0-0,https://www.besoccer.com/match/getafe/racing/2010959,2010,20,primera_division
+Atlético,Málaga,0-2,https://www.besoccer.com/match/atletico-madrid/malaga/2010960,2010,20,primera_division
+Sevilla,Valencia,2-1,https://www.besoccer.com/match/sevilla/valencia-cf/2010956,2010,20,primera_division
+Valencia,Real Valladolid,2-0,https://www.besoccer.com/match/valencia-cf/valladolid/2010967,2010,21,primera_division
+Barcelona,Getafe,2-1,https://www.besoccer.com/match/barcelona/getafe/2010969,2010,21,primera_division
+Real Madrid,Espanyol,3-0,https://www.besoccer.com/match/real-madrid/espanyol/2010962,2010,21,primera_division
+Málaga,Deportivo,0-0,https://www.besoccer.com/match/malaga/deportivo/2010961,2010,21,primera_division
+Athletic,Xerez,3-2,https://www.besoccer.com/match/athletic-bilbao/xerez/2010963,2010,21,primera_division
+Mallorca,Villarreal,1-0,https://www.besoccer.com/match/mallorca/villarreal/2010964,2010,21,primera_division
+Osasuna,Tenerife,1-0,https://www.besoccer.com/match/osasuna/tenerife/2010965,2010,21,primera_division
+Almería,Real Sporting,3-1,https://www.besoccer.com/match/almeria/sporting-gijon/2010968,2010,21,primera_division
+Real Zaragoza,Sevilla,2-1,https://www.besoccer.com/match/real-zaragoza/sevilla/2010966,2010,21,primera_division
+Racing,Atlético,1-1,https://www.besoccer.com/match/racing/atletico-madrid/2010970,2010,21,primera_division
+Real Sporting,Valencia,1-1,https://www.besoccer.com/match/sporting-gijon/valencia-cf/2010977,2010,22,primera_division
+Xerez,Real Madrid,0-3,https://www.besoccer.com/match/xerez/real-madrid/2010972,2010,22,primera_division
+Villarreal,Athletic,2-1,https://www.besoccer.com/match/villarreal/athletic-bilbao/2010973,2010,22,primera_division
+Espanyol,Deportivo,2-0,https://www.besoccer.com/match/espanyol/deportivo/2010971,2010,22,primera_division
+Real Valladolid,Real Zaragoza,1-1,https://www.besoccer.com/match/valladolid/real-zaragoza/2010976,2010,22,primera_division
+Getafe,Almería,2-2,https://www.besoccer.com/match/getafe/almeria/2010978,2010,22,primera_division
+Racing,Málaga,0-3,https://www.besoccer.com/match/racing/malaga/2010980,2010,22,primera_division
+Sevilla,Osasuna,1-0,https://www.besoccer.com/match/sevilla/osasuna/2010975,2010,22,primera_division
+Atlético,Barcelona,2-1,https://www.besoccer.com/match/atletico-madrid/barcelona/2010979,2010,22,primera_division
+Tenerife,Mallorca,1-0,https://www.besoccer.com/match/tenerife/mallorca/2010974,2010,22,primera_division
+Deportivo,Xerez,2-1,https://www.besoccer.com/match/deportivo/xerez/2010982,2010,23,primera_division
+Barcelona,Racing,4-0,https://www.besoccer.com/match/barcelona/racing/2010990,2010,23,primera_division
+Mallorca,Sevilla,1-3,https://www.besoccer.com/match/mallorca/sevilla/2010985,2010,23,primera_division
+Málaga,Espanyol,2-1,https://www.besoccer.com/match/malaga/espanyol/2010981,2010,23,primera_division
+Athletic,Tenerife,4-1,https://www.besoccer.com/match/athletic-bilbao/tenerife/2010984,2010,23,primera_division
+Osasuna,Real Valladolid,1-1,https://www.besoccer.com/match/osasuna/valladolid/2010986,2010,23,primera_division
+Real Zaragoza,Real Sporting,1-3,https://www.besoccer.com/match/real-zaragoza/sporting-gijon/2010987,2010,23,primera_division
+Almería,Atlético,1-0,https://www.besoccer.com/match/almeria/atletico-madrid/2010989,2010,23,primera_division
+Real Madrid,Villarreal,6-2,https://www.besoccer.com/match/real-madrid/villarreal/2010983,2010,23,primera_division
+Valencia,Getafe,2-1,https://www.besoccer.com/match/valencia-cf/getafe/2010988,2010,23,primera_division
+Getafe,Real Zaragoza,0-2,https://www.besoccer.com/match/getafe/real-zaragoza/2010997,2010,24,primera_division
+Tenerife,Real Madrid,1-5,https://www.besoccer.com/match/tenerife/real-madrid/2010993,2010,24,primera_division
+Barcelona,Málaga,2-1,https://www.besoccer.com/match/barcelona/malaga/20101000,2010,24,primera_division
+Xerez,Espanyol,1-1,https://www.besoccer.com/match/xerez/espanyol/2010991,2010,24,primera_division
+Villarreal,Deportivo,1-0,https://www.besoccer.com/match/villarreal/deportivo/2010992,2010,24,primera_division
+Real Valladolid,Mallorca,1-2,https://www.besoccer.com/match/valladolid/mallorca/2010995,2010,24,primera_division
+Real Sporting,Osasuna,3-2,https://www.besoccer.com/match/sporting-gijon/osasuna/2010996,2010,24,primera_division
+Racing,Almería,0-2,https://www.besoccer.com/match/racing/almeria/2010999,2010,24,primera_division
+Sevilla,Athletic,0-0,https://www.besoccer.com/match/sevilla/athletic-bilbao/2010994,2010,24,primera_division
+Atlético,Valencia,4-1,https://www.besoccer.com/match/atletico-madrid/valencia-cf/2010998,2010,24,primera_division
+Deportivo,Tenerife,3-1,https://www.besoccer.com/match/deportivo/tenerife/20101003,2010,25,primera_division
+Almería,Barcelona,2-2,https://www.besoccer.com/match/almeria/barcelona/20101010,2010,25,primera_division
+Real Madrid,Sevilla,3-2,https://www.besoccer.com/match/real-madrid/sevilla/20101004,2010,25,primera_division
+Málaga,Xerez,2-4,https://www.besoccer.com/match/malaga/xerez/20101001,2010,25,primera_division
+Espanyol,Villarreal,0-0,https://www.besoccer.com/match/espanyol/villarreal/20101002,2010,25,primera_division
+Mallorca,Real Sporting,3-0,https://www.besoccer.com/match/mallorca/sporting-gijon/20101006,2010,25,primera_division
+Osasuna,Getafe,0-0,https://www.besoccer.com/match/osasuna/getafe/20101007,2010,25,primera_division
+Athletic,Real Valladolid,2-0,https://www.besoccer.com/match/athletic-bilbao/valladolid/20101005,2010,25,primera_division
+Real Zaragoza,Atlético,1-1,https://www.besoccer.com/match/real-zaragoza/atletico-madrid/20101008,2010,25,primera_division
+Valencia,Racing,0-0,https://www.besoccer.com/match/valencia-cf/racing/20101009,2010,25,primera_division
+Getafe,Mallorca,3-0,https://www.besoccer.com/match/getafe/mallorca/20101016,2010,26,primera_division
+Real Sporting,Athletic,0-0,https://www.besoccer.com/match/sporting-gijon/athletic-bilbao/20101015,2010,26,primera_division
+Sevilla,Deportivo,1-1,https://www.besoccer.com/match/sevilla/deportivo/20101013,2010,26,primera_division
+Villarreal,Xerez,2-0,https://www.besoccer.com/match/villarreal/xerez/20101011,2010,26,primera_division
+Tenerife,Espanyol,4-1,https://www.besoccer.com/match/tenerife/espanyol/20101012,2010,26,primera_division
+Racing,Real Zaragoza,0-0,https://www.besoccer.com/match/racing/real-zaragoza/20101018,2010,26,primera_division
+Almería,Málaga,1-0,https://www.besoccer.com/match/almeria/malaga/20101020,2010,26,primera_division
+Barcelona,Valencia,3-0,https://www.besoccer.com/match/barcelona/valencia-cf/20101019,2010,26,primera_division
+Real Valladolid,Real Madrid,1-4,https://www.besoccer.com/match/valladolid/real-madrid/20101014,2010,26,primera_division
+Atlético,Osasuna,1-0,https://www.besoccer.com/match/atletico-madrid/osasuna/20101017,2010,26,primera_division
+Xerez,Tenerife,2-1,https://www.besoccer.com/match/xerez/tenerife/20101022,2010,27,primera_division
+Deportivo,Real Valladolid,0-2,https://www.besoccer.com/match/deportivo/valladolid/20101024,2010,27,primera_division
+Athletic,Getafe,2-2,https://www.besoccer.com/match/athletic-bilbao/getafe/20101026,2010,27,primera_division
+Real Madrid,Real Sporting,3-1,https://www.besoccer.com/match/real-madrid/sporting-gijon/20101025,2010,27,primera_division
+Espanyol,Sevilla,2-0,https://www.besoccer.com/match/espanyol/sevilla/20101023,2010,27,primera_division
+Málaga,Villarreal,2-0,https://www.besoccer.com/match/malaga/villarreal/20101021,2010,27,primera_division
+Mallorca,Atlético,4-1,https://www.besoccer.com/match/mallorca/atletico-madrid/20101027,2010,27,primera_division
+Osasuna,Racing,1-3,https://www.besoccer.com/match/osasuna/racing/20101028,2010,27,primera_division
+Valencia,Almería,2-0,https://www.besoccer.com/match/valencia-cf/almeria/20101030,2010,27,primera_division
+Real Zaragoza,Barcelona,2-4,https://www.besoccer.com/match/real-zaragoza/barcelona/20101029,2010,27,primera_division
+Real Sporting,Deportivo,2-1,https://www.besoccer.com/match/sporting-gijon/deportivo/20101034,2010,28,primera_division
+Sevilla,Xerez,1-1,https://www.besoccer.com/match/sevilla/xerez/20101032,2010,28,primera_division
+Tenerife,Villarreal,2-2,https://www.besoccer.com/match/tenerife/villarreal/20101031,2010,28,primera_division
+Real Valladolid,Espanyol,0-0,https://www.besoccer.com/match/valladolid/espanyol/20101033,2010,28,primera_division
+Racing,Mallorca,0-0,https://www.besoccer.com/match/racing/mallorca/20101037,2010,28,primera_division
+Barcelona,Osasuna,2-0,https://www.besoccer.com/match/barcelona/osasuna/20101038,2010,28,primera_division
+Almería,Real Zaragoza,1-0,https://www.besoccer.com/match/almeria/real-zaragoza/20101039,2010,28,primera_division
+Valencia,Málaga,1-0,https://www.besoccer.com/match/valencia-cf/malaga/20101040,2010,28,primera_division
+Getafe,Real Madrid,2-4,https://www.besoccer.com/match/getafe/real-madrid/20101035,2010,28,primera_division
+Atlético,Athletic,2-0,https://www.besoccer.com/match/atletico-madrid/athletic-bilbao/20101036,2010,28,primera_division
+Málaga,Tenerife,1-1,https://www.besoccer.com/match/malaga/tenerife/20101041,2010,29,primera_division
+Mallorca,Barcelona,0-1,https://www.besoccer.com/match/mallorca/barcelona/20101048,2010,29,primera_division
+Real Zaragoza,Valencia,3-0,https://www.besoccer.com/match/real-zaragoza/valencia-cf/20101050,2010,29,primera_division
+Xerez,Real Valladolid,3-0,https://www.besoccer.com/match/xerez/valladolid/20101043,2010,29,primera_division
+Espanyol,Real Sporting,0-0,https://www.besoccer.com/match/espanyol/sporting-gijon/20101044,2010,29,primera_division
+Deportivo,Getafe,1-3,https://www.besoccer.com/match/deportivo/getafe/20101045,2010,29,primera_division
+Osasuna,Almería,1-0,https://www.besoccer.com/match/osasuna/almeria/20101049,2010,29,primera_division
+Villarreal,Sevilla,3-0,https://www.besoccer.com/match/villarreal/sevilla/20101042,2010,29,primera_division
+Real Madrid,Atlético,3-2,https://www.besoccer.com/match/real-madrid/atletico-madrid/20101046,2010,29,primera_division
+Athletic,Racing,4-3,https://www.besoccer.com/match/athletic-bilbao/racing/20101047,2010,29,primera_division
+Real Zaragoza,Málaga,2-0,https://www.besoccer.com/match/real-zaragoza/malaga/20101060,2010,30,primera_division
+Barcelona,Athletic,4-1,https://www.besoccer.com/match/barcelona/athletic-bilbao/20101057,2010,30,primera_division
+Sevilla,Tenerife,3-0,https://www.besoccer.com/match/sevilla/tenerife/20101051,2010,30,primera_division
+Real Valladolid,Villarreal,0-2,https://www.besoccer.com/match/valladolid/villarreal/20101052,2010,30,primera_division
+Real Sporting,Xerez,2-2,https://www.besoccer.com/match/sporting-gijon/xerez/20101053,2010,30,primera_division
+Getafe,Espanyol,1-1,https://www.besoccer.com/match/getafe/espanyol/20101054,2010,30,primera_division
+Almería,Mallorca,1-1,https://www.besoccer.com/match/almeria/mallorca/20101058,2010,30,primera_division
+Valencia,Osasuna,3-0,https://www.besoccer.com/match/valencia-cf/osasuna/20101059,2010,30,primera_division
+Racing,Real Madrid,0-2,https://www.besoccer.com/match/racing/real-madrid/20101056,2010,30,primera_division
+Atlético,Deportivo,3-0,https://www.besoccer.com/match/atletico-madrid/deportivo/20101055,2010,30,primera_division
+Málaga,Sevilla,1-2,https://www.besoccer.com/match/malaga/sevilla/20101061,2010,31,primera_division
+Tenerife,Real Valladolid,0-0,https://www.besoccer.com/match/tenerife/valladolid/20101062,2010,31,primera_division
+Villarreal,Real Sporting,1-0,https://www.besoccer.com/match/villarreal/sporting-gijon/20101063,2010,31,primera_division
+Xerez,Getafe,0-1,https://www.besoccer.com/match/xerez/getafe/20101064,2010,31,primera_division
+Real Madrid,Barcelona,0-2,https://www.besoccer.com/match/real-madrid/barcelona/20101067,2010,31,primera_division
+Deportivo,Racing,1-1,https://www.besoccer.com/match/deportivo/racing/20101066,2010,31,primera_division
+Athletic,Almería,4-1,https://www.besoccer.com/match/athletic-bilbao/almeria/20101068,2010,31,primera_division
+Osasuna,Real Zaragoza,2-0,https://www.besoccer.com/match/osasuna/real-zaragoza/20101070,2010,31,primera_division
+Espanyol,Atlético,3-0,https://www.besoccer.com/match/espanyol/atletico-madrid/20101065,2010,31,primera_division
+Mallorca,Valencia,3-2,https://www.besoccer.com/match/mallorca/valencia-cf/20101069,2010,31,primera_division
+Real Valladolid,Sevilla,2-1,https://www.besoccer.com/match/valladolid/sevilla/20101071,2010,32,primera_division
+Real Sporting,Tenerife,0-2,https://www.besoccer.com/match/sporting-gijon/tenerife/20101072,2010,32,primera_division
+Getafe,Villarreal,3-0,https://www.besoccer.com/match/getafe/villarreal/20101073,2010,32,primera_division
+Atlético,Xerez,1-2,https://www.besoccer.com/match/atletico-madrid/xerez/20101074,2010,32,primera_division
+Racing,Espanyol,3-1,https://www.besoccer.com/match/racing/espanyol/20101075,2010,32,primera_division
+Real Zaragoza,Mallorca,1-1,https://www.besoccer.com/match/real-zaragoza/mallorca/20101079,2010,32,primera_division
+Osasuna,Málaga,2-2,https://www.besoccer.com/match/osasuna/malaga/20101080,2010,32,primera_division
+Barcelona,Deportivo,3-0,https://www.besoccer.com/match/barcelona/deportivo/20101076,2010,32,primera_division
+Almería,Real Madrid,1-2,https://www.besoccer.com/match/almeria/real-madrid/20101077,2010,32,primera_division
+Valencia,Athletic,2-0,https://www.besoccer.com/match/valencia-cf/athletic-bilbao/20101078,2010,32,primera_division
+Sevilla,Real Sporting,3-0,https://www.besoccer.com/match/sevilla/sporting-gijon/20101082,2010,33,primera_division
+Espanyol,Barcelona,0-0,https://www.besoccer.com/match/espanyol/barcelona/20101086,2010,33,primera_division
+Villarreal,Atlético,2-1,https://www.besoccer.com/match/villarreal/atletico-madrid/20101084,2010,33,primera_division
+Málaga,Real Valladolid,0-0,https://www.besoccer.com/match/malaga/valladolid/20101081,2010,33,primera_division
+Tenerife,Getafe,3-2,https://www.besoccer.com/match/tenerife/getafe/20101083,2010,33,primera_division
+Xerez,Racing,2-2,https://www.besoccer.com/match/xerez/racing/20101085,2010,33,primera_division
+Deportivo,Almería,0-0,https://www.besoccer.com/match/deportivo/almeria/20101087,2010,33,primera_division
+Athletic,Real Zaragoza,0-0,https://www.besoccer.com/match/athletic-bilbao/real-zaragoza/20101089,2010,33,primera_division
+Real Madrid,Valencia,2-0,https://www.besoccer.com/match/real-madrid/valencia-cf/20101088,2010,33,primera_division
+Mallorca,Osasuna,2-0,https://www.besoccer.com/match/mallorca/osasuna/20101090,2010,33,primera_division
+Barcelona,Xerez,3-1,https://www.besoccer.com/match/barcelona/xerez/20101095,2010,34,primera_division
+Real Zaragoza,Real Madrid,1-2,https://www.besoccer.com/match/real-zaragoza/real-madrid/20101098,2010,34,primera_division
+Valencia,Deportivo,1-0,https://www.besoccer.com/match/valencia-cf/deportivo/20101097,2010,34,primera_division
+Real Sporting,Real Valladolid,0-2,https://www.besoccer.com/match/sporting-gijon/valladolid/20101091,2010,34,primera_division
+Racing,Villarreal,1-2,https://www.besoccer.com/match/racing/villarreal/20101094,2010,34,primera_division
+Almería,Espanyol,0-1,https://www.besoccer.com/match/almeria/espanyol/20101096,2010,34,primera_division
+Mallorca,Málaga,1-1,https://www.besoccer.com/match/mallorca/malaga/20101100,2010,34,primera_division
+Atlético,Tenerife,3-1,https://www.besoccer.com/match/atletico-madrid/tenerife/20101093,2010,34,primera_division
+Getafe,Sevilla,4-3,https://www.besoccer.com/match/getafe/sevilla/20101092,2010,34,primera_division
+Osasuna,Athletic,0-0,https://www.besoccer.com/match/osasuna/athletic-bilbao/20101099,2010,34,primera_division
+Málaga,Real Sporting,1-1,https://www.besoccer.com/match/malaga/sporting-gijon/20101101,2010,35,primera_division
+Real Valladolid,Getafe,0-0,https://www.besoccer.com/match/valladolid/getafe/20101102,2010,35,primera_division
+Tenerife,Racing,2-1,https://www.besoccer.com/match/tenerife/racing/20101104,2010,35,primera_division
+Xerez,Almería,2-1,https://www.besoccer.com/match/xerez/almeria/20101106,2010,35,primera_division
+Deportivo,Real Zaragoza,0-1,https://www.besoccer.com/match/deportivo/real-zaragoza/20101108,2010,35,primera_division
+Espanyol,Valencia,0-2,https://www.besoccer.com/match/espanyol/valencia-cf/20101107,2010,35,primera_division
+Villarreal,Barcelona,1-4,https://www.besoccer.com/match/villarreal/barcelona/20101105,2010,35,primera_division
+Sevilla,Atlético,3-1,https://www.besoccer.com/match/sevilla/atletico-madrid/20101103,2010,35,primera_division
+Real Madrid,Osasuna,3-2,https://www.besoccer.com/match/real-madrid/osasuna/20101109,2010,35,primera_division
+Athletic,Mallorca,1-3,https://www.besoccer.com/match/athletic-bilbao/mallorca/20101110,2010,35,primera_division
+Getafe,Real Sporting,1-1,https://www.besoccer.com/match/getafe/sporting-gijon/20101111,2010,36,primera_division
+Barcelona,Tenerife,4-1,https://www.besoccer.com/match/barcelona/tenerife/20101114,2010,36,primera_division
+Almería,Villarreal,4-2,https://www.besoccer.com/match/almeria/villarreal/20101115,2010,36,primera_division
+Valencia,Xerez,3-1,https://www.besoccer.com/match/valencia-cf/xerez/20101116,2010,36,primera_division
+Atlético,Real Valladolid,3-1,https://www.besoccer.com/match/atletico-madrid/valladolid/20101112,2010,36,primera_division
+Racing,Sevilla,1-5,https://www.besoccer.com/match/racing/sevilla/20101113,2010,36,primera_division
+Real Zaragoza,Espanyol,1-0,https://www.besoccer.com/match/real-zaragoza/espanyol/20101117,2010,36,primera_division
+Osasuna,Deportivo,3-1,https://www.besoccer.com/match/osasuna/deportivo/20101118,2010,36,primera_division
+Athletic,Málaga,1-1,https://www.besoccer.com/match/athletic-bilbao/malaga/20101120,2010,36,primera_division
+Mallorca,Real Madrid,1-4,https://www.besoccer.com/match/mallorca/real-madrid/20101119,2010,36,primera_division
+Getafe,Málaga,2-1,https://www.besoccer.com/match/getafe/malaga/20101121,2010,37,primera_division
+Real Sporting,Atlético,1-1,https://www.besoccer.com/match/sporting-gijon/atletico-madrid/20101122,2010,37,primera_division
+Real Valladolid,Racing,2-1,https://www.besoccer.com/match/valladolid/racing/20101123,2010,37,primera_division
+Sevilla,Barcelona,2-3,https://www.besoccer.com/match/sevilla/barcelona/20101124,2010,37,primera_division
+Tenerife,Almería,2-2,https://www.besoccer.com/match/tenerife/almeria/20101125,2010,37,primera_division
+Villarreal,Valencia,2-0,https://www.besoccer.com/match/villarreal/valencia-cf/20101126,2010,37,primera_division
+Xerez,Real Zaragoza,3-2,https://www.besoccer.com/match/xerez/real-zaragoza/20101127,2010,37,primera_division
+Espanyol,Osasuna,2-1,https://www.besoccer.com/match/espanyol/osasuna/20101128,2010,37,primera_division
+Deportivo,Mallorca,1-0,https://www.besoccer.com/match/deportivo/mallorca/20101129,2010,37,primera_division
+Real Madrid,Athletic,5-1,https://www.besoccer.com/match/real-madrid/athletic-bilbao/20101130,2010,37,primera_division
+Athletic,Deportivo,2-0,https://www.besoccer.com/match/athletic-bilbao/deportivo/20101139,2010,38,primera_division
+Atlético,Getafe,0-3,https://www.besoccer.com/match/atletico-madrid/getafe/20101131,2010,38,primera_division
+Real Zaragoza,Villarreal,3-3,https://www.besoccer.com/match/real-zaragoza/villarreal/20101136,2010,38,primera_division
+Almería,Sevilla,2-3,https://www.besoccer.com/match/almeria/sevilla/20101134,2010,38,primera_division
+Mallorca,Espanyol,2-0,https://www.besoccer.com/match/mallorca/espanyol/20101138,2010,38,primera_division
+Racing,Real Sporting,2-0,https://www.besoccer.com/match/racing/sporting-gijon/20101132,2010,38,primera_division
+Barcelona,Real Valladolid,4-0,https://www.besoccer.com/match/barcelona/valladolid/20101133,2010,38,primera_division
+Valencia,Tenerife,1-0,https://www.besoccer.com/match/valencia-cf/tenerife/20101135,2010,38,primera_division
+Osasuna,Xerez,1-1,https://www.besoccer.com/match/osasuna/xerez/20101137,2010,38,primera_division
+Málaga,Real Madrid,1-1,https://www.besoccer.com/match/malaga/real-madrid/20101140,2010,38,primera_division

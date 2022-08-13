@@ -1,0 +1,281 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Monaco,Olympique Lyonnais,0-3,https://www.besoccer.com/match/monaco/olympique-lyonnais/202010056,2020,1,ligue_1
+Olympique Marseille,Stade de Reims,0-2,https://www.besoccer.com/match/olympique-marsella/stade-reims/202010055,2020,1,ligue_1
+Angers SCO,Girondins Bordeaux,3-1,https://www.besoccer.com/match/angers-sco/bordeaux/202010051,2020,1,ligue_1
+Stade Brestois,Toulouse,1-1,https://www.besoccer.com/match/stade-brestois-29/toulouse-fc/202010052,2020,1,ligue_1
+Dijon FCO,Saint-Étienne,1-2,https://www.besoccer.com/match/dijon-fco/saint-etienne/202010053,2020,1,ligue_1
+Montpellier,Stade Rennais,0-1,https://www.besoccer.com/match/montpellier-hsc/stade-rennes/202010057,2020,1,ligue_1
+Nice,Amiens SC,2-1,https://www.besoccer.com/match/nice/amiens-sc/202010058,2020,1,ligue_1
+Lille,Nantes,2-1,https://www.besoccer.com/match/lillestrom/nantes/202010054,2020,1,ligue_1
+Strasbourg,Metz,1-1,https://www.besoccer.com/match/strasbourg/metz/202010060,2020,1,ligue_1
+PSG,Nîmes,3-0,https://www.besoccer.com/match/paris-saint-germain-fc/nimes-olympique/202010059,2020,1,ligue_1
+Olympique Lyonnais,Angers SCO,6-0,https://www.besoccer.com/match/olympique-lyonnais/angers-sco/202010063,2020,2,ligue_1
+Nantes,Olympique Marseille,0-0,https://www.besoccer.com/match/nantes/olympique-marsella/202010065,2020,2,ligue_1
+Amiens SC,Lille,1-0,https://www.besoccer.com/match/amiens-sc/lillestrom/202010061,2020,2,ligue_1
+Girondins Bordeaux,Montpellier,1-1,https://www.besoccer.com/match/bordeaux/montpellier-hsc/202010062,2020,2,ligue_1
+Metz,Monaco,3-0,https://www.besoccer.com/match/metz/monaco/202010064,2020,2,ligue_1
+Nîmes,Nice,1-2,https://www.besoccer.com/match/nimes-olympique/nice/202010066,2020,2,ligue_1
+Toulouse,Dijon FCO,1-0,https://www.besoccer.com/match/toulouse-fc/dijon-fco/202010070,2020,2,ligue_1
+Saint-Étienne,Stade Brestois,1-1,https://www.besoccer.com/match/saint-etienne/stade-brestois-29/202010069,2020,2,ligue_1
+Stade de Reims,Strasbourg,0-0,https://www.besoccer.com/match/stade-reims/strasbourg/202010067,2020,2,ligue_1
+Stade Rennais,PSG,2-1,https://www.besoccer.com/match/stade-rennes/paris-saint-germain-fc/202010068,2020,2,ligue_1
+Amiens SC,Nantes,1-2,https://www.besoccer.com/match/amiens-sc/nantes/202010071,2020,3,ligue_1
+Angers SCO,Metz,3-0,https://www.besoccer.com/match/angers-sco/metz/202010072,2020,3,ligue_1
+Stade Brestois,Stade de Reims,1-0,https://www.besoccer.com/match/stade-brestois-29/stade-reims/202010073,2020,3,ligue_1
+Dijon FCO,Girondins Bordeaux,0-2,https://www.besoccer.com/match/dijon-fco/bordeaux/202010074,2020,3,ligue_1
+Monaco,Nîmes,2-2,https://www.besoccer.com/match/monaco/nimes-olympique/202010076,2020,3,ligue_1
+Strasbourg,Stade Rennais,0-2,https://www.besoccer.com/match/strasbourg/stade-rennes/202010080,2020,3,ligue_1
+PSG,Toulouse,4-0,https://www.besoccer.com/match/paris-saint-germain-fc/toulouse-fc/202010079,2020,3,ligue_1
+Montpellier,Olympique Lyonnais,1-0,https://www.besoccer.com/match/montpellier-hsc/olympique-lyonnais/202010077,2020,3,ligue_1
+Lille,Saint-Étienne,3-0,https://www.besoccer.com/match/lillestrom/saint-etienne/202010075,2020,3,ligue_1
+Nice,Olympique Marseille,1-2,https://www.besoccer.com/match/nice/olympique-marsella/202010078,2020,3,ligue_1
+Metz,PSG,0-2,https://www.besoccer.com/match/metz/paris-saint-germain-fc/202010083,2020,4,ligue_1
+Olympique Lyonnais,Girondins Bordeaux,1-1,https://www.besoccer.com/match/olympique-lyonnais/bordeaux/202010082,2020,4,ligue_1
+Angers SCO,Dijon FCO,2-0,https://www.besoccer.com/match/angers-sco/dijon-fco/202010081,2020,4,ligue_1
+Nantes,Montpellier,1-0,https://www.besoccer.com/match/nantes/montpellier-hsc/202010084,2020,4,ligue_1
+Nîmes,Stade Brestois,3-0,https://www.besoccer.com/match/nimes-olympique/stade-brestois-29/202010085,2020,4,ligue_1
+Toulouse,Amiens SC,2-0,https://www.besoccer.com/match/toulouse-fc/amiens-sc/202010089,2020,4,ligue_1
+Stade de Reims,Lille,2-0,https://www.besoccer.com/match/stade-reims/lillestrom/202010086,2020,4,ligue_1
+Stade Rennais,Nice,1-2,https://www.besoccer.com/match/stade-rennes/nice/202010087,2020,4,ligue_1
+Strasbourg,Monaco,2-2,https://www.besoccer.com/match/strasbourg/monaco/202010088,2020,4,ligue_1
+Olympique Marseille,Saint-Étienne,1-0,https://www.besoccer.com/match/olympique-marsella/saint-etienne/202010090,2020,4,ligue_1
+Lille,Angers SCO,2-1,https://www.besoccer.com/match/lillestrom/angers-sco/202010095,2020,5,ligue_1
+Amiens SC,Olympique Lyonnais,2-2,https://www.besoccer.com/match/amiens-sc/olympique-lyonnais/202010091,2020,5,ligue_1
+PSG,Strasbourg,1-0,https://www.besoccer.com/match/paris-saint-germain-fc/strasbourg/202010099,2020,5,ligue_1
+Girondins Bordeaux,Metz,2-0,https://www.besoccer.com/match/bordeaux/metz/202010092,2020,5,ligue_1
+Stade Brestois,Stade Rennais,0-0,https://www.besoccer.com/match/stade-brestois-29/stade-rennes/202010093,2020,5,ligue_1
+Dijon FCO,Nîmes,0-0,https://www.besoccer.com/match/dijon-fco/nimes-olympique/202010094,2020,5,ligue_1
+Montpellier,Nice,2-1,https://www.besoccer.com/match/montpellier-hsc/nice/202010097,2020,5,ligue_1
+Nantes,Stade de Reims,1-0,https://www.besoccer.com/match/nantes/stade-reims/202010098,2020,5,ligue_1
+Saint-Étienne,Toulouse,2-2,https://www.besoccer.com/match/saint-etienne/toulouse-fc/202010100,2020,5,ligue_1
+Monaco,Olympique Marseille,3-4,https://www.besoccer.com/match/monaco/olympique-marsella/202010096,2020,5,ligue_1
+Strasbourg,Nantes,2-1,https://www.besoccer.com/match/strasbourg/nantes/202010109,2020,6,ligue_1
+Olympique Marseille,Montpellier,1-1,https://www.besoccer.com/match/olympique-marsella/montpellier-hsc/202010103,2020,6,ligue_1
+Girondins Bordeaux,Stade Brestois,2-2,https://www.besoccer.com/match/bordeaux/stade-brestois-29/202010102,2020,6,ligue_1
+Metz,Amiens SC,1-2,https://www.besoccer.com/match/metz/amiens-sc/202010104,2020,6,ligue_1
+Nice,Dijon FCO,2-1,https://www.besoccer.com/match/nice/dijon-fco/202010105,2020,6,ligue_1
+Nîmes,Toulouse,1-0,https://www.besoccer.com/match/nimes-olympique/toulouse-fc/202010106,2020,6,ligue_1
+Stade de Reims,Monaco,0-0,https://www.besoccer.com/match/stade-reims/monaco/202010107,2020,6,ligue_1
+Stade Rennais,Lille,1-1,https://www.besoccer.com/match/stade-rennes/lillestrom/202010108,2020,6,ligue_1
+Angers SCO,Saint-Étienne,4-1,https://www.besoccer.com/match/angers-sco/saint-etienne/202010101,2020,6,ligue_1
+Olympique Lyonnais,PSG,0-1,https://www.besoccer.com/match/olympique-lyonnais/paris-saint-germain-fc/202010110,2020,6,ligue_1
+Dijon FCO,Olympique Marseille,0-0,https://www.besoccer.com/match/dijon-fco/olympique-marsella/202010113,2020,7,ligue_1
+Monaco,Nice,3-1,https://www.besoccer.com/match/monaco/nice/202010115,2020,7,ligue_1
+Amiens SC,Girondins Bordeaux,1-3,https://www.besoccer.com/match/amiens-sc/bordeaux/202010111,2020,7,ligue_1
+Stade Brestois,Olympique Lyonnais,2-2,https://www.besoccer.com/match/stade-brestois-29/olympique-lyonnais/202010112,2020,7,ligue_1
+Lille,Strasbourg,2-0,https://www.besoccer.com/match/lillestrom/strasbourg/202010114,2020,7,ligue_1
+Montpellier,Nîmes,1-0,https://www.besoccer.com/match/montpellier-hsc/nimes-olympique/202010116,2020,7,ligue_1
+Nantes,Stade Rennais,1-0,https://www.besoccer.com/match/nantes/stade-rennes/202010117,2020,7,ligue_1
+Saint-Étienne,Metz,0-1,https://www.besoccer.com/match/saint-etienne/metz/202010119,2020,7,ligue_1
+Toulouse,Angers SCO,0-2,https://www.besoccer.com/match/toulouse-fc/angers-sco/202010120,2020,7,ligue_1
+PSG,Stade de Reims,0-2,https://www.besoccer.com/match/paris-saint-germain-fc/stade-reims/202010118,2020,7,ligue_1
+Olympique Lyonnais,Nantes,0-1,https://www.besoccer.com/match/olympique-lyonnais/nantes/202010123,2020,8,ligue_1
+Girondins Bordeaux,PSG,0-1,https://www.besoccer.com/match/bordeaux/paris-saint-germain-fc/202010122,2020,8,ligue_1
+Angers SCO,Amiens SC,1-1,https://www.besoccer.com/match/angers-sco/amiens-sc/202010121,2020,8,ligue_1
+Metz,Toulouse,2-2,https://www.besoccer.com/match/metz/toulouse-fc/202010125,2020,8,ligue_1
+Monaco,Stade Brestois,4-1,https://www.besoccer.com/match/monaco/stade-brestois-29/202010126,2020,8,ligue_1
+Nice,Lille,1-1,https://www.besoccer.com/match/nice/lillestrom/202010127,2020,8,ligue_1
+Stade de Reims,Dijon FCO,1-2,https://www.besoccer.com/match/stade-reims/dijon-fco/202010129,2020,8,ligue_1
+Strasbourg,Montpellier,1-0,https://www.besoccer.com/match/strasbourg/montpellier-hsc/202010130,2020,8,ligue_1
+Nîmes,Saint-Étienne,0-1,https://www.besoccer.com/match/nimes-olympique/saint-etienne/202010128,2020,8,ligue_1
+Olympique Marseille,Stade Rennais,1-1,https://www.besoccer.com/match/olympique-marsella/stade-rennes/202010124,2020,8,ligue_1
+Amiens SC,Olympique Marseille,3-1,https://www.besoccer.com/match/amiens-sc/olympique-marsella/202010131,2020,9,ligue_1
+PSG,Angers SCO,4-0,https://www.besoccer.com/match/paris-saint-germain-fc/angers-sco/202010137,2020,9,ligue_1
+Stade Brestois,Metz,2-0,https://www.besoccer.com/match/stade-brestois-29/metz/202010132,2020,9,ligue_1
+Dijon FCO,Strasbourg,1-0,https://www.besoccer.com/match/dijon-fco/strasbourg/202010133,2020,9,ligue_1
+Montpellier,Monaco,3-1,https://www.besoccer.com/match/montpellier-hsc/monaco/202010135,2020,9,ligue_1
+Nantes,Nice,1-0,https://www.besoccer.com/match/nantes/nice/202010136,2020,9,ligue_1
+Toulouse,Girondins Bordeaux,1-3,https://www.besoccer.com/match/toulouse-fc/bordeaux/202010139,2020,9,ligue_1
+Lille,Nîmes,2-2,https://www.besoccer.com/match/lillestrom/nimes-olympique/202010134,2020,9,ligue_1
+Stade Rennais,Stade de Reims,0-1,https://www.besoccer.com/match/stade-rennes/stade-reims/202010138,2020,9,ligue_1
+Saint-Étienne,Olympique Lyonnais,1-0,https://www.besoccer.com/match/saint-etienne/olympique-lyonnais/202010140,2020,9,ligue_1
+Nice,PSG,1-4,https://www.besoccer.com/match/nice/paris-saint-germain-fc/202010147,2020,10,ligue_1
+Olympique Lyonnais,Dijon FCO,0-0,https://www.besoccer.com/match/olympique-lyonnais/dijon-fco/202010143,2020,10,ligue_1
+Angers SCO,Stade Brestois,0-1,https://www.besoccer.com/match/angers-sco/stade-brestois-29/202010141,2020,10,ligue_1
+Metz,Nantes,1-0,https://www.besoccer.com/match/metz/nantes/202010145,2020,10,ligue_1
+Nîmes,Amiens SC,1-1,https://www.besoccer.com/match/nimes-olympique/amiens-sc/202010148,2020,10,ligue_1
+Stade de Reims,Montpellier,1-0,https://www.besoccer.com/match/stade-reims/montpellier-hsc/202010149,2020,10,ligue_1
+Toulouse,Lille,2-1,https://www.besoccer.com/match/toulouse-fc/lillestrom/202010150,2020,10,ligue_1
+Girondins Bordeaux,Saint-Étienne,0-1,https://www.besoccer.com/match/bordeaux/saint-etienne/202010142,2020,10,ligue_1
+Monaco,Stade Rennais,3-2,https://www.besoccer.com/match/monaco/stade-rennes/202010146,2020,10,ligue_1
+Olympique Marseille,Strasbourg,2-0,https://www.besoccer.com/match/olympique-marsella/strasbourg/202010144,2020,10,ligue_1
+Nantes,Monaco,0-1,https://www.besoccer.com/match/nantes/monaco/202010155,2020,11,ligue_1
+Lille,Girondins Bordeaux,3-0,https://www.besoccer.com/match/lillestrom/bordeaux/202010152,2020,11,ligue_1
+Stade Brestois,Dijon FCO,2-0,https://www.besoccer.com/match/stade-brestois-29/dijon-fco/202010151,2020,11,ligue_1
+Olympique Lyonnais,Metz,2-0,https://www.besoccer.com/match/olympique-lyonnais/metz/202010153,2020,11,ligue_1
+Montpellier,Angers SCO,0-0,https://www.besoccer.com/match/montpellier-hsc/angers-sco/202010154,2020,11,ligue_1
+Stade de Reims,Nîmes,0-0,https://www.besoccer.com/match/stade-reims/nimes-olympique/202010156,2020,11,ligue_1
+Strasbourg,Nice,1-0,https://www.besoccer.com/match/strasbourg/nice/202010159,2020,11,ligue_1
+Stade Rennais,Toulouse,3-2,https://www.besoccer.com/match/stade-rennes/toulouse-fc/202010157,2020,11,ligue_1
+Saint-Étienne,Amiens SC,2-2,https://www.besoccer.com/match/saint-etienne/amiens-sc/202010158,2020,11,ligue_1
+PSG,Olympique Marseille,4-0,https://www.besoccer.com/match/paris-saint-germain-fc/olympique-marsella/202010160,2020,11,ligue_1
+Dijon FCO,PSG,2-1,https://www.besoccer.com/match/dijon-fco/paris-saint-germain-fc/202010164,2020,12,ligue_1
+Olympique Marseille,Lille,2-1,https://www.besoccer.com/match/olympique-marsella/lillestrom/202010165,2020,12,ligue_1
+Amiens SC,Stade Brestois,1-0,https://www.besoccer.com/match/amiens-sc/stade-brestois-29/202010161,2020,12,ligue_1
+Angers SCO,Strasbourg,1-0,https://www.besoccer.com/match/angers-sco/strasbourg/202010162,2020,12,ligue_1
+Metz,Montpellier,2-2,https://www.besoccer.com/match/metz/montpellier-hsc/202010166,2020,12,ligue_1
+Toulouse,Olympique Lyonnais,2-3,https://www.besoccer.com/match/toulouse-fc/olympique-lyonnais/202010170,2020,12,ligue_1
+Girondins Bordeaux,Nantes,2-0,https://www.besoccer.com/match/bordeaux/nantes/202010163,2020,12,ligue_1
+Nice,Stade de Reims,2-0,https://www.besoccer.com/match/nice/stade-reims/202010167,2020,12,ligue_1
+Saint-Étienne,Monaco,1-0,https://www.besoccer.com/match/saint-etienne/monaco/202010169,2020,12,ligue_1
+Nîmes,Stade Rennais,0-1,https://www.besoccer.com/match/nimes-olympique/stade-rennes/202010168,2020,12,ligue_1
+Nice,Girondins Bordeaux,1-1,https://www.besoccer.com/match/nice/bordeaux/202010176,2020,13,ligue_1
+Stade Brestois,PSG,1-2,https://www.besoccer.com/match/stade-brestois-29/paris-saint-germain-fc/202010171,2020,13,ligue_1
+Lille,Metz,0-0,https://www.besoccer.com/match/lillestrom/metz/202010172,2020,13,ligue_1
+Monaco,Dijon FCO,1-0,https://www.besoccer.com/match/monaco/dijon-fco/202010173,2020,13,ligue_1
+Stade de Reims,Angers SCO,0-0,https://www.besoccer.com/match/stade-reims/angers-sco/202010177,2020,13,ligue_1
+Strasbourg,Nîmes,4-1,https://www.besoccer.com/match/strasbourg/nimes-olympique/202010179,2020,13,ligue_1
+Stade Rennais,Amiens SC,3-1,https://www.besoccer.com/match/stade-rennes/amiens-sc/202010178,2020,13,ligue_1
+Montpellier,Toulouse,3-0,https://www.besoccer.com/match/montpellier-hsc/toulouse-fc/202010174,2020,13,ligue_1
+Nantes,Saint-Étienne,2-3,https://www.besoccer.com/match/nantes/saint-etienne/202010175,2020,13,ligue_1
+Olympique Marseille,Olympique Lyonnais,2-1,https://www.besoccer.com/match/olympique-marsella/olympique-lyonnais/202010180,2020,13,ligue_1
+PSG,Lille,2-0,https://www.besoccer.com/match/paris-saint-germain-fc/lillestrom/202010188,2020,14,ligue_1
+Olympique Lyonnais,Nice,2-1,https://www.besoccer.com/match/olympique-lyonnais/nice/202010186,2020,14,ligue_1
+Amiens SC,Strasbourg,0-4,https://www.besoccer.com/match/amiens-sc/strasbourg/202010181,2020,14,ligue_1
+Angers SCO,Nîmes,1-0,https://www.besoccer.com/match/angers-sco/nimes-olympique/202010182,2020,14,ligue_1
+Stade Brestois,Nantes,1-1,https://www.besoccer.com/match/stade-brestois-29/nantes/202010184,2020,14,ligue_1
+Dijon FCO,Stade Rennais,2-1,https://www.besoccer.com/match/dijon-fco/stade-rennes/202010185,2020,14,ligue_1
+Metz,Stade de Reims,1-1,https://www.besoccer.com/match/metz/stade-reims/202010187,2020,14,ligue_1
+Girondins Bordeaux,Monaco,2-1,https://www.besoccer.com/match/bordeaux/monaco/202010183,2020,14,ligue_1
+Saint-Étienne,Montpellier,0-0,https://www.besoccer.com/match/saint-etienne/montpellier-hsc/202010189,2020,14,ligue_1
+Toulouse,Olympique Marseille,0-2,https://www.besoccer.com/match/toulouse-fc/olympique-marsella/202010190,2020,14,ligue_1
+Olympique Marseille,Stade Brestois,2-1,https://www.besoccer.com/match/olympique-marsella/stade-brestois-29/202010192,2020,15,ligue_1
+Strasbourg,Olympique Lyonnais,1-2,https://www.besoccer.com/match/strasbourg/olympique-lyonnais/202010200,2020,15,ligue_1
+Lille,Dijon FCO,1-0,https://www.besoccer.com/match/lillestrom/dijon-fco/202010191,2020,15,ligue_1
+Montpellier,Amiens SC,4-2,https://www.besoccer.com/match/montpellier-hsc/amiens-sc/202010194,2020,15,ligue_1
+Nice,Angers SCO,3-1,https://www.besoccer.com/match/nice/angers-sco/202010196,2020,15,ligue_1
+Nîmes,Metz,1-1,https://www.besoccer.com/match/nimes-olympique/metz/202010197,2020,15,ligue_1
+Stade de Reims,Girondins Bordeaux,1-1,https://www.besoccer.com/match/stade-reims/bordeaux/202010198,2020,15,ligue_1
+Nantes,Toulouse,2-1,https://www.besoccer.com/match/nantes/toulouse-fc/202010195,2020,15,ligue_1
+Stade Rennais,Saint-Étienne,2-1,https://www.besoccer.com/match/stade-rennes/saint-etienne/202010199,2020,15,ligue_1
+Monaco,PSG,1-4,https://www.besoccer.com/match/monaco/paris-saint-germain-fc/202010193,2020,15,ligue_1
+Angers SCO,Olympique Marseille,0-2,https://www.besoccer.com/match/angers-sco/olympique-marsella/202010202,2020,16,ligue_1
+Girondins Bordeaux,Nîmes,6-0,https://www.besoccer.com/match/bordeaux/nimes-olympique/202010203,2020,16,ligue_1
+Stade Brestois,Strasbourg,5-0,https://www.besoccer.com/match/stade-brestois-29/strasbourg/202010204,2020,16,ligue_1
+Olympique Lyonnais,Lille,0-1,https://www.besoccer.com/match/olympique-lyonnais/lillestrom/202010206,2020,16,ligue_1
+Dijon FCO,Montpellier,2-2,https://www.besoccer.com/match/dijon-fco/montpellier-hsc/202010205,2020,16,ligue_1
+Metz,Stade Rennais,0-1,https://www.besoccer.com/match/metz/stade-rennes/202010207,2020,16,ligue_1
+Saint-Étienne,Nice,4-1,https://www.besoccer.com/match/saint-etienne/nice/202010209,2020,16,ligue_1
+Toulouse,Monaco,1-2,https://www.besoccer.com/match/toulouse-fc/monaco/202010210,2020,16,ligue_1
+PSG,Nantes,2-0,https://www.besoccer.com/match/paris-saint-germain-fc/nantes/202010208,2020,16,ligue_1
+Amiens SC,Stade de Reims,1-1,https://www.besoccer.com/match/amiens-sc/stade-reims/202010201,2020,16,ligue_1
+Lille,Stade Brestois,1-0,https://www.besoccer.com/match/lillestrom/stade-brestois-29/202010211,2020,17,ligue_1
+Nîmes,Olympique Lyonnais,0-4,https://www.besoccer.com/match/nimes-olympique/olympique-lyonnais/202010217,2020,17,ligue_1
+Montpellier,PSG,1-3,https://www.besoccer.com/match/montpellier-hsc/paris-saint-germain-fc/202010214,2020,17,ligue_1
+Monaco,Amiens SC,3-0,https://www.besoccer.com/match/monaco/amiens-sc/202010213,2020,17,ligue_1
+Nice,Metz,4-1,https://www.besoccer.com/match/nice/metz/202010216,2020,17,ligue_1
+Stade Rennais,Angers SCO,2-1,https://www.besoccer.com/match/stade-rennes/angers-sco/202010219,2020,17,ligue_1
+Strasbourg,Toulouse,4-2,https://www.besoccer.com/match/strasbourg/toulouse-fc/202010220,2020,17,ligue_1
+Stade de Reims,Saint-Étienne,3-1,https://www.besoccer.com/match/stade-reims/saint-etienne/202010218,2020,17,ligue_1
+Nantes,Dijon FCO,1-0,https://www.besoccer.com/match/nantes/dijon-fco/202010215,2020,17,ligue_1
+Olympique Marseille,Girondins Bordeaux,3-1,https://www.besoccer.com/match/olympique-marsella/bordeaux/202010212,2020,17,ligue_1
+Lille,Montpellier,2-1,https://www.besoccer.com/match/lillestrom/montpellier-hsc/202010225,2020,18,ligue_1
+Metz,Olympique Marseille,1-1,https://www.besoccer.com/match/metz/olympique-marsella/202010227,2020,18,ligue_1
+Amiens SC,Dijon FCO,1-1,https://www.besoccer.com/match/amiens-sc/dijon-fco/202010221,2020,18,ligue_1
+Angers SCO,Monaco,0-0,https://www.besoccer.com/match/angers-sco/monaco/202010222,2020,18,ligue_1
+Stade Brestois,Nice,0-0,https://www.besoccer.com/match/stade-brestois-29/nice/202010224,2020,18,ligue_1
+Nîmes,Nantes,0-1,https://www.besoccer.com/match/nimes-olympique/nantes/202010228,2020,18,ligue_1
+Toulouse,Stade de Reims,0-1,https://www.besoccer.com/match/toulouse-fc/stade-reims/202010229,2020,18,ligue_1
+Girondins Bordeaux,Strasbourg,0-1,https://www.besoccer.com/match/bordeaux/strasbourg/202010223,2020,18,ligue_1
+Olympique Lyonnais,Stade Rennais,0-1,https://www.besoccer.com/match/olympique-lyonnais/stade-rennes/202010226,2020,18,ligue_1
+Saint-Étienne,PSG,0-4,https://www.besoccer.com/match/saint-etienne/paris-saint-germain-fc/202010230,2020,18,ligue_1
+Dijon FCO,Metz,2-2,https://www.besoccer.com/match/dijon-fco/metz/202010231,2020,19,ligue_1
+Olympique Marseille,Nîmes,3-1,https://www.besoccer.com/match/olympique-marsella/nimes-olympique/202010232,2020,19,ligue_1
+Monaco,Lille,5-1,https://www.besoccer.com/match/monaco/lillestrom/202010233,2020,19,ligue_1
+Montpellier,Stade Brestois,4-0,https://www.besoccer.com/match/montpellier-hsc/stade-brestois-29/202010234,2020,19,ligue_1
+Nantes,Angers SCO,1-2,https://www.besoccer.com/match/nantes/angers-sco/202010235,2020,19,ligue_1
+Nice,Toulouse,3-0,https://www.besoccer.com/match/nice/toulouse-fc/202010236,2020,19,ligue_1
+PSG,Amiens SC,4-1,https://www.besoccer.com/match/paris-saint-germain-fc/amiens-sc/202010237,2020,19,ligue_1
+Stade de Reims,Olympique Lyonnais,1-1,https://www.besoccer.com/match/stade-reims/olympique-lyonnais/202010238,2020,19,ligue_1
+Stade Rennais,Girondins Bordeaux,1-0,https://www.besoccer.com/match/stade-rennes/bordeaux/202010239,2020,19,ligue_1
+Strasbourg,Saint-Étienne,2-1,https://www.besoccer.com/match/strasbourg/saint-etienne/202010240,2020,19,ligue_1
+Stade Rennais,Olympique Marseille,0-1,https://www.besoccer.com/match/stade-rennes/olympique-marsella/202010247,2020,20,ligue_1
+Girondins Bordeaux,Olympique Lyonnais,1-2,https://www.besoccer.com/match/bordeaux/olympique-lyonnais/202010243,2020,20,ligue_1
+Amiens SC,Montpellier,1-2,https://www.besoccer.com/match/amiens-sc/montpellier-hsc/202010241,2020,20,ligue_1
+Angers SCO,Nice,1-1,https://www.besoccer.com/match/angers-sco/nice/202010242,2020,20,ligue_1
+Metz,Strasbourg,1-0,https://www.besoccer.com/match/metz/strasbourg/202010245,2020,20,ligue_1
+Nîmes,Stade de Reims,2-0,https://www.besoccer.com/match/nimes-olympique/stade-reims/202010246,2020,20,ligue_1
+Toulouse,Stade Brestois,2-5,https://www.besoccer.com/match/toulouse-fc/stade-brestois-29/202010249,2020,20,ligue_1
+Saint-Étienne,Nantes,0-2,https://www.besoccer.com/match/saint-etienne/nantes/202010248,2020,20,ligue_1
+Dijon FCO,Lille,1-0,https://www.besoccer.com/match/dijon-fco/lillestrom/202010244,2020,20,ligue_1
+PSG,Monaco,3-3,https://www.besoccer.com/match/paris-saint-germain-fc/monaco/202010250,2020,20,ligue_1
+Nice,Stade Rennais,1-1,https://www.besoccer.com/match/nice/stade-rennes/202010257,2020,21,ligue_1
+Olympique Marseille,Angers SCO,0-0,https://www.besoccer.com/match/olympique-marsella/angers-sco/202010253,2020,21,ligue_1
+Stade Brestois,Amiens SC,2-1,https://www.besoccer.com/match/stade-brestois-29/amiens-sc/202010251,2020,21,ligue_1
+Monaco,Strasbourg,1-3,https://www.besoccer.com/match/monaco/strasbourg/202010254,2020,21,ligue_1
+Montpellier,Dijon FCO,2-1,https://www.besoccer.com/match/montpellier-hsc/dijon-fco/202010255,2020,21,ligue_1
+Stade de Reims,Metz,0-1,https://www.besoccer.com/match/stade-reims/metz/202010258,2020,21,ligue_1
+Saint-Étienne,Nîmes,2-1,https://www.besoccer.com/match/saint-etienne/nimes-olympique/202010259,2020,21,ligue_1
+Olympique Lyonnais,Toulouse,3-0,https://www.besoccer.com/match/olympique-lyonnais/toulouse-fc/202010252,2020,21,ligue_1
+Nantes,Girondins Bordeaux,0-1,https://www.besoccer.com/match/nantes/bordeaux/202010256,2020,21,ligue_1
+Lille,PSG,0-2,https://www.besoccer.com/match/lillestrom/paris-saint-germain-fc/202010260,2020,21,ligue_1
+Stade Rennais,Nantes,3-2,https://www.besoccer.com/match/stade-rennes/nantes/202010269,2020,22,ligue_1
+PSG,Montpellier,5-0,https://www.besoccer.com/match/paris-saint-germain-fc/montpellier-hsc/202010268,2020,22,ligue_1
+Amiens SC,Toulouse,0-0,https://www.besoccer.com/match/amiens-sc/toulouse-fc/202010261,2020,22,ligue_1
+Angers SCO,Stade de Reims,1-4,https://www.besoccer.com/match/angers-sco/stade-reims/202010262,2020,22,ligue_1
+Dijon FCO,Stade Brestois,3-0,https://www.besoccer.com/match/dijon-fco/stade-brestois-29/202010264,2020,22,ligue_1
+Nîmes,Monaco,3-1,https://www.besoccer.com/match/nimes-olympique/monaco/202010267,2020,22,ligue_1
+Strasbourg,Lille,1-2,https://www.besoccer.com/match/strasbourg/lillestrom/202010270,2020,22,ligue_1
+Nice,Olympique Lyonnais,2-1,https://www.besoccer.com/match/nice/olympique-lyonnais/202010266,2020,22,ligue_1
+Metz,Saint-Étienne,3-1,https://www.besoccer.com/match/metz/saint-etienne/202010265,2020,22,ligue_1
+Girondins Bordeaux,Olympique Marseille,0-0,https://www.besoccer.com/match/bordeaux/olympique-marsella/202010263,2020,22,ligue_1
+Lille,Stade Rennais,1-0,https://www.besoccer.com/match/lillestrom/stade-rennes/202010272,2020,23,ligue_1
+Monaco,Angers SCO,1-0,https://www.besoccer.com/match/monaco/angers-sco/202010274,2020,23,ligue_1
+Nantes,PSG,1-2,https://www.besoccer.com/match/nantes/paris-saint-germain-fc/202010276,2020,23,ligue_1
+Stade Brestois,Girondins Bordeaux,1-1,https://www.besoccer.com/match/stade-brestois-29/bordeaux/202010271,2020,23,ligue_1
+Olympique Lyonnais,Amiens SC,0-0,https://www.besoccer.com/match/olympique-lyonnais/amiens-sc/202010273,2020,23,ligue_1
+Montpellier,Metz,1-1,https://www.besoccer.com/match/montpellier-hsc/metz/202010275,2020,23,ligue_1
+Nîmes,Dijon FCO,2-0,https://www.besoccer.com/match/nimes-olympique/dijon-fco/202010277,2020,23,ligue_1
+Stade de Reims,Nice,1-1,https://www.besoccer.com/match/stade-reims/nice/202010278,2020,23,ligue_1
+Toulouse,Strasbourg,0-1,https://www.besoccer.com/match/toulouse-fc/strasbourg/202010280,2020,23,ligue_1
+Saint-Étienne,Olympique Marseille,0-2,https://www.besoccer.com/match/saint-etienne/olympique-marsella/202010279,2020,23,ligue_1
+Angers SCO,Lille,0-2,https://www.besoccer.com/match/angers-sco/lillestrom/202010282,2020,24,ligue_1
+Olympique Marseille,Toulouse,1-0,https://www.besoccer.com/match/olympique-marsella/toulouse-fc/202010284,2020,24,ligue_1
+Amiens SC,Monaco,1-2,https://www.besoccer.com/match/amiens-sc/monaco/202010281,2020,24,ligue_1
+Dijon FCO,Nantes,3-3,https://www.besoccer.com/match/dijon-fco/nantes/202010283,2020,24,ligue_1
+Metz,Girondins Bordeaux,1-2,https://www.besoccer.com/match/metz/bordeaux/202010285,2020,24,ligue_1
+Nice,Nîmes,1-3,https://www.besoccer.com/match/nice/nimes-olympique/202010287,2020,24,ligue_1
+Stade Rennais,Stade Brestois,0-0,https://www.besoccer.com/match/stade-rennes/stade-brestois-29/202010288,2020,24,ligue_1
+Montpellier,Saint-Étienne,1-0,https://www.besoccer.com/match/montpellier-hsc/saint-etienne/202010286,2020,24,ligue_1
+Strasbourg,Stade de Reims,3-0,https://www.besoccer.com/match/strasbourg/stade-reims/202010289,2020,24,ligue_1
+PSG,Olympique Lyonnais,4-2,https://www.besoccer.com/match/paris-saint-germain-fc/olympique-lyonnais/202010290,2020,24,ligue_1
+Monaco,Montpellier,1-0,https://www.besoccer.com/match/monaco/montpellier-hsc/202010296,2020,25,ligue_1
+Amiens SC,PSG,4-4,https://www.besoccer.com/match/amiens-sc/paris-saint-germain-fc/202010291,2020,25,ligue_1
+Girondins Bordeaux,Dijon FCO,2-2,https://www.besoccer.com/match/bordeaux/dijon-fco/202010292,2020,25,ligue_1
+Nantes,Metz,0-0,https://www.besoccer.com/match/nantes/metz/202010297,2020,25,ligue_1
+Nîmes,Angers SCO,1-0,https://www.besoccer.com/match/nimes-olympique/angers-sco/202010298,2020,25,ligue_1
+Toulouse,Nice,0-2,https://www.besoccer.com/match/toulouse-fc/nice/202010300,2020,25,ligue_1
+Olympique Lyonnais,Strasbourg,1-1,https://www.besoccer.com/match/olympique-lyonnais/strasbourg/202010295,2020,25,ligue_1
+Stade Brestois,Saint-Étienne,3-2,https://www.besoccer.com/match/stade-brestois-29/saint-etienne/202010293,2020,25,ligue_1
+Stade de Reims,Stade Rennais,1-0,https://www.besoccer.com/match/stade-reims/stade-rennes/202010299,2020,25,ligue_1
+Lille,Olympique Marseille,1-2,https://www.besoccer.com/match/lillestrom/olympique-marsella/202010294,2020,25,ligue_1
+Nice,Stade Brestois,2-2,https://www.besoccer.com/match/nice/stade-brestois-29/202010306,2020,26,ligue_1
+Metz,Olympique Lyonnais,0-2,https://www.besoccer.com/match/metz/olympique-lyonnais/202010305,2020,26,ligue_1
+Olympique Marseille,Nantes,1-3,https://www.besoccer.com/match/olympique-marsella/nantes/202010304,2020,26,ligue_1
+Angers SCO,Montpellier,1-0,https://www.besoccer.com/match/angers-sco/montpellier-hsc/202010301,2020,26,ligue_1
+Dijon FCO,Monaco,1-1,https://www.besoccer.com/match/dijon-fco/monaco/202010302,2020,26,ligue_1
+Lille,Toulouse,3-0,https://www.besoccer.com/match/lillestrom/toulouse-fc/202010303,2020,26,ligue_1
+Strasbourg,Amiens SC,0-0,https://www.besoccer.com/match/strasbourg/amiens-sc/202010310,2020,26,ligue_1
+Saint-Étienne,Stade de Reims,1-1,https://www.besoccer.com/match/saint-etienne/stade-reims/202010309,2020,26,ligue_1
+Stade Rennais,Nîmes,2-1,https://www.besoccer.com/match/stade-rennes/nimes-olympique/202010308,2020,26,ligue_1
+PSG,Girondins Bordeaux,4-3,https://www.besoccer.com/match/paris-saint-germain-fc/bordeaux/202010307,2020,26,ligue_1
+Nîmes,Olympique Marseille,2-3,https://www.besoccer.com/match/nimes-olympique/olympique-marsella/202010317,2020,27,ligue_1
+PSG,Dijon FCO,4-0,https://www.besoccer.com/match/paris-saint-germain-fc/dijon-fco/202010318,2020,27,ligue_1
+Amiens SC,Metz,0-1,https://www.besoccer.com/match/amiens-sc/metz/202010311,2020,27,ligue_1
+Stade Brestois,Angers SCO,0-1,https://www.besoccer.com/match/stade-brestois-29/angers-sco/202010313,2020,27,ligue_1
+Monaco,Stade de Reims,1-1,https://www.besoccer.com/match/monaco/stade-reims/202010314,2020,27,ligue_1
+Montpellier,Strasbourg,3-0,https://www.besoccer.com/match/montpellier-hsc/strasbourg/202010315,2020,27,ligue_1
+Toulouse,Stade Rennais,0-2,https://www.besoccer.com/match/toulouse-fc/stade-rennes/202010319,2020,27,ligue_1
+Nantes,Lille,0-1,https://www.besoccer.com/match/nantes/lillestrom/202010316,2020,27,ligue_1
+Girondins Bordeaux,Nice,1-1,https://www.besoccer.com/match/bordeaux/nice/202010312,2020,27,ligue_1
+Olympique Lyonnais,Saint-Étienne,2-0,https://www.besoccer.com/match/olympique-lyonnais/saint-etienne/202010320,2020,27,ligue_1
+Olympique Marseille,Amiens SC,2-2,https://www.besoccer.com/match/olympique-marsella/amiens-sc/202010324,2020,28,ligue_1
+Angers SCO,Nantes,2-0,https://www.besoccer.com/match/angers-sco/nantes/202010321,2020,28,ligue_1
+Dijon FCO,Toulouse,2-1,https://www.besoccer.com/match/dijon-fco/toulouse-fc/202010322,2020,28,ligue_1
+Metz,Nîmes,2-1,https://www.besoccer.com/match/metz/nimes-olympique/202010325,2020,28,ligue_1
+Nice,Monaco,2-1,https://www.besoccer.com/match/nice/monaco/202010326,2020,28,ligue_1
+Stade de Reims,Stade Brestois,1-0,https://www.besoccer.com/match/stade-reims/stade-brestois-29/202010327,2020,28,ligue_1
+Saint-Étienne,Girondins Bordeaux,1-1,https://www.besoccer.com/match/saint-etienne/bordeaux/202010329,2020,28,ligue_1
+Stade Rennais,Montpellier,5-0,https://www.besoccer.com/match/stade-rennes/montpellier-hsc/202010328,2020,28,ligue_1
+Lille,Olympique Lyonnais,1-0,https://www.besoccer.com/match/lillestrom/olympique-lyonnais/202010323,2020,28,ligue_1
+Strasbourg,PSG,18 MAR,https://www.besoccer.com/match/strasbourg/paris-saint-germain-fc/202010330,2020,28,ligue_1

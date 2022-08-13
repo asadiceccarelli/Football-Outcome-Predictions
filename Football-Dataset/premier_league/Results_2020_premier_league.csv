@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Liverpool,Norwich City,4-1,https://www.besoccer.com/match/liverpool/norwich-city-fc/20208888,2020,1,premier_league
+West Ham,Man. City,0-5,https://www.besoccer.com/match/west-ham-united/manchester-city-fc/20208889,2020,1,premier_league
+AFC Bournemouth,Sheffield United,1-1,https://www.besoccer.com/match/afc-bournemouth/sheffield-united/20208890,2020,1,premier_league
+Burnley,Southampton,3-0,https://www.besoccer.com/match/burnley-fc/southampton-fc/20208891,2020,1,premier_league
+Crystal Palace,Everton,0-0,https://www.besoccer.com/match/crystal-palace-fc/everton-fc/20208892,2020,1,premier_league
+Watford,Brighton & Hove Albion,0-3,https://www.besoccer.com/match/watford-fc/brighton-amp-hov/20208899,2020,1,premier_league
+Tottenham Hotspur,Aston Villa,3-1,https://www.besoccer.com/match/tottenham-hotspur-fc/aston-villa-fc/20208900,2020,1,premier_league
+Leicester,Wolves,0-0,https://www.besoccer.com/match/leicester-city-fc/wolverhampton/20208898,2020,1,premier_league
+Newcastle,Arsenal,0-1,https://www.besoccer.com/match/newcastle-united-fc/arsenal/20208901,2020,1,premier_league
+Man. Utd,Chelsea,4-0,https://www.besoccer.com/match/manchester-united-fc/chelsea-fc/20208902,2020,1,premier_league
+Arsenal,Burnley,2-1,https://www.besoccer.com/match/arsenal/burnley-fc/20208913,2020,2,premier_league
+Aston Villa,AFC Bournemouth,1-2,https://www.besoccer.com/match/aston-villa-fc/afc-bournemouth/20208914,2020,2,premier_league
+Brighton & Hove Albion,West Ham,1-1,https://www.besoccer.com/match/brighton-amp-hov/west-ham-united/20208915,2020,2,premier_league
+Everton,Watford,1-0,https://www.besoccer.com/match/everton-fc/watford-fc/20208917,2020,2,premier_league
+Norwich City,Newcastle,3-1,https://www.besoccer.com/match/norwich-city-fc/newcastle-united-fc/20208919,2020,2,premier_league
+Southampton,Liverpool,1-2,https://www.besoccer.com/match/southampton-fc/liverpool/20208921,2020,2,premier_league
+Man. City,Tottenham Hotspur,2-2,https://www.besoccer.com/match/manchester-city-fc/tottenham-hotspur-fc/20208918,2020,2,premier_league
+Sheffield United,Crystal Palace,1-0,https://www.besoccer.com/match/sheffield-united/crystal-palace-fc/20208920,2020,2,premier_league
+Chelsea,Leicester,1-1,https://www.besoccer.com/match/chelsea-fc/leicester-city-fc/20208916,2020,2,premier_league
+Wolves,Man. Utd,1-1,https://www.besoccer.com/match/wolverhampton/manchester-united-fc/20208922,2020,2,premier_league
+Aston Villa,Everton,2-0,https://www.besoccer.com/match/aston-villa-fc/everton-fc/20208923,2020,3,premier_league
+Norwich City,Chelsea,2-3,https://www.besoccer.com/match/norwich-city-fc/chelsea-fc/20208928,2020,3,premier_league
+Brighton & Hove Albion,Southampton,0-2,https://www.besoccer.com/match/brighton-amp-hov/southampton-fc/20208925,2020,3,premier_league
+Man. Utd,Crystal Palace,1-2,https://www.besoccer.com/match/manchester-united-fc/crystal-palace-fc/20208927,2020,3,premier_league
+Sheffield United,Leicester,1-2,https://www.besoccer.com/match/sheffield-united/leicester-city-fc/20208929,2020,3,premier_league
+Watford,West Ham,1-3,https://www.besoccer.com/match/watford-fc/west-ham-united/20208931,2020,3,premier_league
+Liverpool,Arsenal,3-1,https://www.besoccer.com/match/liverpool/arsenal/20208926,2020,3,premier_league
+AFC Bournemouth,Man. City,1-3,https://www.besoccer.com/match/afc-bournemouth/manchester-city-fc/20208924,2020,3,premier_league
+Tottenham Hotspur,Newcastle,0-1,https://www.besoccer.com/match/tottenham-hotspur-fc/newcastle-united-fc/20208930,2020,3,premier_league
+Wolves,Burnley,1-1,https://www.besoccer.com/match/wolverhampton/burnley-fc/20208932,2020,3,premier_league
+Southampton,Man. Utd,1-1,https://www.besoccer.com/match/southampton-fc/manchester-united-fc/20208941,2020,4,premier_league
+Chelsea,Sheffield United,2-2,https://www.besoccer.com/match/chelsea-fc/sheffield-united/20208935,2020,4,premier_league
+Crystal Palace,Aston Villa,1-0,https://www.besoccer.com/match/crystal-palace-fc/aston-villa-fc/20208936,2020,4,premier_league
+Leicester,AFC Bournemouth,3-1,https://www.besoccer.com/match/leicester-city-fc/afc-bournemouth/20208938,2020,4,premier_league
+Man. City,Brighton & Hove Albion,4-0,https://www.besoccer.com/match/manchester-city-fc/brighton-amp-hov/20208939,2020,4,premier_league
+Newcastle,Watford,1-1,https://www.besoccer.com/match/newcastle-united-fc/watford-fc/20208940,2020,4,premier_league
+West Ham,Norwich City,2-0,https://www.besoccer.com/match/west-ham-united/norwich-city-fc/20208942,2020,4,premier_league
+Burnley,Liverpool,0-3,https://www.besoccer.com/match/burnley-fc/liverpool/20208934,2020,4,premier_league
+Everton,Wolves,3-2,https://www.besoccer.com/match/everton-fc/wolverhampton/20208937,2020,4,premier_league
+Arsenal,Tottenham Hotspur,2-2,https://www.besoccer.com/match/arsenal/tottenham-hotspur-fc/20208933,2020,4,premier_league
+Liverpool,Newcastle,3-1,https://www.besoccer.com/match/liverpool/newcastle-united-fc/20208946,2020,5,premier_league
+Brighton & Hove Albion,Burnley,1-1,https://www.besoccer.com/match/brighton-amp-hov/burnley-fc/20208945,2020,5,premier_league
+Man. Utd,Leicester,1-0,https://www.besoccer.com/match/manchester-united-fc/leicester-city-fc/20208947,2020,5,premier_league
+Sheffield United,Southampton,0-1,https://www.besoccer.com/match/sheffield-united/southampton-fc/20208949,2020,5,premier_league
+Tottenham Hotspur,Crystal Palace,4-0,https://www.besoccer.com/match/tottenham-hotspur-fc/crystal-palace-fc/20208950,2020,5,premier_league
+Wolves,Chelsea,2-5,https://www.besoccer.com/match/wolverhampton/chelsea-fc/20208952,2020,5,premier_league
+Norwich City,Man. City,3-2,https://www.besoccer.com/match/norwich-city-fc/manchester-city-fc/20208948,2020,5,premier_league
+AFC Bournemouth,Everton,3-1,https://www.besoccer.com/match/afc-bournemouth/everton-fc/20208944,2020,5,premier_league
+Watford,Arsenal,2-2,https://www.besoccer.com/match/watford-fc/arsenal/20208951,2020,5,premier_league
+Aston Villa,West Ham,0-0,https://www.besoccer.com/match/aston-villa-fc/west-ham-united/20208943,2020,5,premier_league
+Southampton,AFC Bournemouth,1-3,https://www.besoccer.com/match/southampton-fc/afc-bournemouth/20208961,2020,6,premier_league
+Leicester,Tottenham Hotspur,2-1,https://www.besoccer.com/match/leicester-city-fc/tottenham-hotspur-fc/20208958,2020,6,premier_league
+Burnley,Norwich City,2-0,https://www.besoccer.com/match/burnley-fc/norwich-city-fc/20208954,2020,6,premier_league
+Everton,Sheffield United,0-2,https://www.besoccer.com/match/everton-fc/sheffield-united/20208957,2020,6,premier_league
+Man. City,Watford,8-0,https://www.besoccer.com/match/manchester-city-fc/watford-fc/20208959,2020,6,premier_league
+Newcastle,Brighton & Hove Albion,0-0,https://www.besoccer.com/match/newcastle-united-fc/brighton-amp-hov/20208960,2020,6,premier_league
+Crystal Palace,Wolves,1-1,https://www.besoccer.com/match/crystal-palace-fc/wolverhampton/20208956,2020,6,premier_league
+West Ham,Man. Utd,2-0,https://www.besoccer.com/match/west-ham-united/manchester-united-fc/20208962,2020,6,premier_league
+Arsenal,Aston Villa,3-2,https://www.besoccer.com/match/arsenal/aston-villa-fc/20208953,2020,6,premier_league
+Chelsea,Liverpool,1-2,https://www.besoccer.com/match/chelsea-fc/liverpool/20208955,2020,6,premier_league
+Sheffield United,Liverpool,0-1,https://www.besoccer.com/match/sheffield-united/liverpool/20208970,2020,7,premier_league
+Aston Villa,Burnley,2-2,https://www.besoccer.com/match/aston-villa-fc/burnley-fc/20208963,2020,7,premier_league
+AFC Bournemouth,West Ham,2-2,https://www.besoccer.com/match/afc-bournemouth/west-ham-united/20208964,2020,7,premier_league
+Chelsea,Brighton & Hove Albion,2-0,https://www.besoccer.com/match/chelsea-fc/brighton-amp-hov/20208965,2020,7,premier_league
+Crystal Palace,Norwich City,2-0,https://www.besoccer.com/match/crystal-palace-fc/norwich-city-fc/20208966,2020,7,premier_league
+Tottenham Hotspur,Southampton,2-1,https://www.besoccer.com/match/tottenham-hotspur-fc/southampton-fc/20208971,2020,7,premier_league
+Wolves,Watford,2-0,https://www.besoccer.com/match/wolverhampton/watford-fc/20208972,2020,7,premier_league
+Everton,Man. City,1-3,https://www.besoccer.com/match/everton-fc/manchester-city-fc/20208967,2020,7,premier_league
+Leicester,Newcastle,5-0,https://www.besoccer.com/match/leicester-city-fc/newcastle-united-fc/20208968,2020,7,premier_league
+Man. Utd,Arsenal,1-1,https://www.besoccer.com/match/manchester-united-fc/arsenal/20208969,2020,7,premier_league
+Brighton & Hove Albion,Tottenham Hotspur,3-0,https://www.besoccer.com/match/brighton-amp-hov/tottenham-hotspur-fc/20208974,2020,8,premier_league
+Burnley,Everton,1-0,https://www.besoccer.com/match/burnley-fc/everton-fc/20208975,2020,8,premier_league
+Liverpool,Leicester,2-1,https://www.besoccer.com/match/liverpool/leicester-city-fc/20208976,2020,8,premier_league
+Norwich City,Aston Villa,1-5,https://www.besoccer.com/match/norwich-city-fc/aston-villa-fc/20208979,2020,8,premier_league
+Watford,Sheffield United,0-0,https://www.besoccer.com/match/watford-fc/sheffield-united/20208981,2020,8,premier_league
+West Ham,Crystal Palace,1-2,https://www.besoccer.com/match/west-ham-united/crystal-palace-fc/20208982,2020,8,premier_league
+Arsenal,AFC Bournemouth,1-0,https://www.besoccer.com/match/arsenal/afc-bournemouth/20208973,2020,8,premier_league
+Man. City,Wolves,0-2,https://www.besoccer.com/match/manchester-city-fc/wolverhampton/20208977,2020,8,premier_league
+Southampton,Chelsea,1-4,https://www.besoccer.com/match/southampton-fc/chelsea-fc/20208980,2020,8,premier_league
+Newcastle,Man. Utd,1-0,https://www.besoccer.com/match/newcastle-united-fc/manchester-united-fc/20208978,2020,8,premier_league
+Everton,West Ham,2-0,https://www.besoccer.com/match/everton-fc/west-ham-united/20208987,2020,9,premier_league
+Aston Villa,Brighton & Hove Albion,2-1,https://www.besoccer.com/match/aston-villa-fc/brighton-amp-hov/20208983,2020,9,premier_league
+AFC Bournemouth,Norwich City,0-0,https://www.besoccer.com/match/afc-bournemouth/norwich-city-fc/20208984,2020,9,premier_league
+Chelsea,Newcastle,1-0,https://www.besoccer.com/match/chelsea-fc/newcastle-united-fc/20208985,2020,9,premier_league
+Leicester,Burnley,2-1,https://www.besoccer.com/match/leicester-city-fc/burnley-fc/20208988,2020,9,premier_league
+Tottenham Hotspur,Watford,1-1,https://www.besoccer.com/match/tottenham-hotspur-fc/watford-fc/20208991,2020,9,premier_league
+Wolves,Southampton,1-1,https://www.besoccer.com/match/wolverhampton/southampton-fc/20208992,2020,9,premier_league
+Crystal Palace,Man. City,0-2,https://www.besoccer.com/match/crystal-palace-fc/manchester-city-fc/20208986,2020,9,premier_league
+Man. Utd,Liverpool,1-1,https://www.besoccer.com/match/manchester-united-fc/liverpool/20208989,2020,9,premier_league
+Sheffield United,Arsenal,1-0,https://www.besoccer.com/match/sheffield-united/arsenal/20208990,2020,9,premier_league
+Southampton,Leicester,0-9,https://www.besoccer.com/match/southampton-fc/leicester-city-fc/20209000,2020,10,premier_league
+Man. City,Aston Villa,3-0,https://www.besoccer.com/match/manchester-city-fc/aston-villa-fc/20208997,2020,10,premier_league
+Brighton & Hove Albion,Everton,3-2,https://www.besoccer.com/match/brighton-amp-hov/everton-fc/20208994,2020,10,premier_league
+Watford,AFC Bournemouth,0-0,https://www.besoccer.com/match/watford-fc/afc-bournemouth/20209001,2020,10,premier_league
+West Ham,Sheffield United,1-1,https://www.besoccer.com/match/west-ham-united/sheffield-united/20209002,2020,10,premier_league
+Burnley,Chelsea,2-4,https://www.besoccer.com/match/burnley-fc/chelsea-fc/20208995,2020,10,premier_league
+Newcastle,Wolves,1-1,https://www.besoccer.com/match/newcastle-united-fc/wolverhampton/20208998,2020,10,premier_league
+Arsenal,Crystal Palace,2-2,https://www.besoccer.com/match/arsenal/crystal-palace-fc/20208993,2020,10,premier_league
+Liverpool,Tottenham Hotspur,2-1,https://www.besoccer.com/match/liverpool/tottenham-hotspur-fc/20208996,2020,10,premier_league
+Norwich City,Man. Utd,1-3,https://www.besoccer.com/match/norwich-city-fc/manchester-united-fc/20208999,2020,10,premier_league
+AFC Bournemouth,Man. Utd,1-0,https://www.besoccer.com/match/afc-bournemouth/manchester-united-fc/20209005,2020,11,premier_league
+Arsenal,Wolves,1-1,https://www.besoccer.com/match/arsenal/wolverhampton/20209003,2020,11,premier_league
+Aston Villa,Liverpool,1-2,https://www.besoccer.com/match/aston-villa-fc/liverpool/20209004,2020,11,premier_league
+Brighton & Hove Albion,Norwich City,2-0,https://www.besoccer.com/match/brighton-amp-hov/norwich-city-fc/20209006,2020,11,premier_league
+Man. City,Southampton,2-1,https://www.besoccer.com/match/manchester-city-fc/southampton-fc/20209009,2020,11,premier_league
+Sheffield United,Burnley,3-0,https://www.besoccer.com/match/sheffield-united/burnley-fc/20209010,2020,11,premier_league
+West Ham,Newcastle,2-3,https://www.besoccer.com/match/west-ham-united/newcastle-united-fc/20209012,2020,11,premier_league
+Watford,Chelsea,1-2,https://www.besoccer.com/match/watford-fc/chelsea-fc/20209011,2020,11,premier_league
+Crystal Palace,Leicester,0-2,https://www.besoccer.com/match/crystal-palace-fc/leicester-city-fc/20209007,2020,11,premier_league
+Everton,Tottenham Hotspur,1-1,https://www.besoccer.com/match/everton-fc/tottenham-hotspur-fc/20209008,2020,11,premier_league
+Norwich City,Watford,0-2,https://www.besoccer.com/match/norwich-city-fc/watford-fc/20209019,2020,12,premier_league
+Chelsea,Crystal Palace,2-0,https://www.besoccer.com/match/chelsea-fc/crystal-palace-fc/20209014,2020,12,premier_league
+Burnley,West Ham,3-0,https://www.besoccer.com/match/burnley-fc/west-ham-united/20209013,2020,12,premier_league
+Newcastle,AFC Bournemouth,2-1,https://www.besoccer.com/match/newcastle-united-fc/afc-bournemouth/20209018,2020,12,premier_league
+Southampton,Everton,1-2,https://www.besoccer.com/match/southampton-fc/everton-fc/20209020,2020,12,premier_league
+Tottenham Hotspur,Sheffield United,1-1,https://www.besoccer.com/match/tottenham-hotspur-fc/sheffield-united/20209021,2020,12,premier_league
+Leicester,Arsenal,2-0,https://www.besoccer.com/match/leicester-city-fc/arsenal/20209015,2020,12,premier_league
+Man. Utd,Brighton & Hove Albion,3-1,https://www.besoccer.com/match/manchester-united-fc/brighton-amp-hov/20209017,2020,12,premier_league
+Wolves,Aston Villa,2-1,https://www.besoccer.com/match/wolverhampton/aston-villa-fc/20209022,2020,12,premier_league
+Liverpool,Man. City,3-1,https://www.besoccer.com/match/liverpool/manchester-city-fc/20209016,2020,12,premier_league
+West Ham,Tottenham Hotspur,2-3,https://www.besoccer.com/match/west-ham-united/tottenham-hotspur-fc/20209032,2020,13,premier_league
+Arsenal,Southampton,2-2,https://www.besoccer.com/match/arsenal/southampton-fc/20209023,2020,13,premier_league
+AFC Bournemouth,Wolves,1-2,https://www.besoccer.com/match/afc-bournemouth/wolverhampton/20209025,2020,13,premier_league
+Brighton & Hove Albion,Leicester,0-2,https://www.besoccer.com/match/brighton-amp-hov/leicester-city-fc/20209026,2020,13,premier_league
+Crystal Palace,Liverpool,1-2,https://www.besoccer.com/match/crystal-palace-fc/liverpool/20209027,2020,13,premier_league
+Everton,Norwich City,0-2,https://www.besoccer.com/match/everton-fc/norwich-city-fc/20209028,2020,13,premier_league
+Watford,Burnley,0-3,https://www.besoccer.com/match/watford-fc/burnley-fc/20209031,2020,13,premier_league
+Man. City,Chelsea,2-1,https://www.besoccer.com/match/manchester-city-fc/chelsea-fc/20209029,2020,13,premier_league
+Sheffield United,Man. Utd,3-3,https://www.besoccer.com/match/sheffield-united/manchester-united-fc/20209030,2020,13,premier_league
+Aston Villa,Newcastle,2-0,https://www.besoccer.com/match/aston-villa-fc/newcastle-united-fc/20209024,2020,13,premier_league
+Newcastle,Man. City,2-2,https://www.besoccer.com/match/newcastle-united-fc/manchester-city-fc/20209038,2020,14,premier_league
+Burnley,Crystal Palace,0-2,https://www.besoccer.com/match/burnley-fc/crystal-palace-fc/20209033,2020,14,premier_league
+Chelsea,West Ham,0-1,https://www.besoccer.com/match/chelsea-fc/west-ham-united/20209034,2020,14,premier_league
+Liverpool,Brighton & Hove Albion,2-1,https://www.besoccer.com/match/liverpool/brighton-amp-hov/20209036,2020,14,premier_league
+Tottenham Hotspur,AFC Bournemouth,3-2,https://www.besoccer.com/match/tottenham-hotspur-fc/afc-bournemouth/20209041,2020,14,premier_league
+Southampton,Watford,2-1,https://www.besoccer.com/match/southampton-fc/watford-fc/20209040,2020,14,premier_league
+Norwich City,Arsenal,2-2,https://www.besoccer.com/match/norwich-city-fc/arsenal/20209039,2020,14,premier_league
+Wolves,Sheffield United,1-1,https://www.besoccer.com/match/wolverhampton/sheffield-united/20209042,2020,14,premier_league
+Leicester,Everton,2-1,https://www.besoccer.com/match/leicester-city-fc/everton-fc/20209035,2020,14,premier_league
+Man. Utd,Aston Villa,2-2,https://www.besoccer.com/match/manchester-united-fc/aston-villa-fc/20209037,2020,14,premier_league
+Crystal Palace,AFC Bournemouth,1-0,https://www.besoccer.com/match/crystal-palace-fc/afc-bournemouth/20209191,2020,15,premier_league
+Burnley,Man. City,1-4,https://www.besoccer.com/match/burnley-fc/manchester-city-fc/20209184,2020,15,premier_league
+Leicester,Watford,2-0,https://www.besoccer.com/match/leicester-city-fc/watford-fc/20209185,2020,15,premier_league
+Wolves,West Ham,2-0,https://www.besoccer.com/match/wolverhampton/west-ham-united/20209187,2020,15,premier_league
+Man. Utd,Tottenham Hotspur,2-1,https://www.besoccer.com/match/manchester-united-fc/tottenham-hotspur-fc/20209188,2020,15,premier_league
+Chelsea,Aston Villa,2-1,https://www.besoccer.com/match/chelsea-fc/aston-villa-fc/20209189,2020,15,premier_league
+Southampton,Norwich City,2-1,https://www.besoccer.com/match/southampton-fc/norwich-city-fc/20209190,2020,15,premier_league
+Liverpool,Everton,5-2,https://www.besoccer.com/match/liverpool/everton-fc/20209192,2020,15,premier_league
+Sheffield United,Newcastle,0-2,https://www.besoccer.com/match/sheffield-united/newcastle-united-fc/20209186,2020,15,premier_league
+Arsenal,Brighton & Hove Albion,1-2,https://www.besoccer.com/match/arsenal/brighton-amp-hov/20209183,2020,15,premier_league
+Everton,Chelsea,3-1,https://www.besoccer.com/match/everton-fc/chelsea-fc/20209196,2020,16,premier_league
+AFC Bournemouth,Liverpool,0-3,https://www.besoccer.com/match/afc-bournemouth/liverpool/20209194,2020,16,premier_league
+Tottenham Hotspur,Burnley,5-0,https://www.besoccer.com/match/tottenham-hotspur-fc/burnley-fc/20209200,2020,16,premier_league
+Watford,Crystal Palace,0-0,https://www.besoccer.com/match/watford-fc/crystal-palace-fc/20209201,2020,16,premier_league
+Man. City,Man. Utd,1-2,https://www.besoccer.com/match/manchester-city-fc/manchester-united-fc/20209197,2020,16,premier_league
+Aston Villa,Leicester,1-4,https://www.besoccer.com/match/aston-villa-fc/leicester-city-fc/20209193,2020,16,premier_league
+Newcastle,Southampton,2-1,https://www.besoccer.com/match/newcastle-united-fc/southampton-fc/20209198,2020,16,premier_league
+Norwich City,Sheffield United,1-2,https://www.besoccer.com/match/norwich-city-fc/sheffield-united/20209199,2020,16,premier_league
+Brighton & Hove Albion,Wolves,2-2,https://www.besoccer.com/match/brighton-amp-hov/wolverhampton/20209195,2020,16,premier_league
+West Ham,Arsenal,1-3,https://www.besoccer.com/match/west-ham-united/arsenal/20209202,2020,16,premier_league
+Liverpool,Watford,2-0,https://www.besoccer.com/match/liverpool/watford-fc/20209208,2020,17,premier_league
+Burnley,Newcastle,1-0,https://www.besoccer.com/match/burnley-fc/newcastle-united-fc/20209204,2020,17,premier_league
+Chelsea,AFC Bournemouth,0-1,https://www.besoccer.com/match/chelsea-fc/afc-bournemouth/20209205,2020,17,premier_league
+Leicester,Norwich City,1-1,https://www.besoccer.com/match/leicester-city-fc/norwich-city-fc/20209207,2020,17,premier_league
+Sheffield United,Aston Villa,2-0,https://www.besoccer.com/match/sheffield-united/aston-villa-fc/20209210,2020,17,premier_league
+Southampton,West Ham,0-1,https://www.besoccer.com/match/southampton-fc/west-ham-united/20209211,2020,17,premier_league
+Man. Utd,Everton,1-1,https://www.besoccer.com/match/manchester-united-fc/everton-fc/20209209,2020,17,premier_league
+Wolves,Tottenham Hotspur,1-2,https://www.besoccer.com/match/wolverhampton/tottenham-hotspur-fc/20209212,2020,17,premier_league
+Arsenal,Man. City,0-3,https://www.besoccer.com/match/arsenal/manchester-city-fc/20209203,2020,17,premier_league
+Crystal Palace,Brighton & Hove Albion,1-1,https://www.besoccer.com/match/crystal-palace-fc/brighton-amp-hov/20209206,2020,17,premier_league
+Everton,Arsenal,0-0,https://www.besoccer.com/match/everton-fc/arsenal/20209216,2020,18,premier_league
+Aston Villa,Southampton,1-3,https://www.besoccer.com/match/aston-villa-fc/southampton-fc/20209213,2020,18,premier_league
+AFC Bournemouth,Burnley,0-1,https://www.besoccer.com/match/afc-bournemouth/burnley-fc/20209214,2020,18,premier_league
+Brighton & Hove Albion,Sheffield United,0-1,https://www.besoccer.com/match/brighton-amp-hov/sheffield-united/20209215,2020,18,premier_league
+Newcastle,Crystal Palace,1-0,https://www.besoccer.com/match/newcastle-united-fc/crystal-palace-fc/20209218,2020,18,premier_league
+Norwich City,Wolves,1-2,https://www.besoccer.com/match/norwich-city-fc/wolverhampton/20209219,2020,18,premier_league
+Man. City,Leicester,3-1,https://www.besoccer.com/match/manchester-city-fc/leicester-city-fc/20209217,2020,18,premier_league
+Watford,Man. Utd,2-0,https://www.besoccer.com/match/watford-fc/manchester-united-fc/20209221,2020,18,premier_league
+Tottenham Hotspur,Chelsea,0-2,https://www.besoccer.com/match/tottenham-hotspur-fc/chelsea-fc/20209220,2020,18,premier_league
+West Ham,Liverpool,0-2,https://www.besoccer.com/match/west-ham-united/liverpool/20209222,2020,18,premier_league
+Tottenham Hotspur,Brighton & Hove Albion,2-1,https://www.besoccer.com/match/tottenham-hotspur-fc/brighton-amp-hov/20209231,2020,19,premier_league
+Aston Villa,Norwich City,1-0,https://www.besoccer.com/match/aston-villa-fc/norwich-city-fc/20209223,2020,19,premier_league
+AFC Bournemouth,Arsenal,1-1,https://www.besoccer.com/match/afc-bournemouth/arsenal/20209224,2020,19,premier_league
+Chelsea,Southampton,0-2,https://www.besoccer.com/match/chelsea-fc/southampton-fc/20209225,2020,19,premier_league
+Crystal Palace,West Ham,2-1,https://www.besoccer.com/match/crystal-palace-fc/west-ham-united/20209226,2020,19,premier_league
+Everton,Burnley,1-0,https://www.besoccer.com/match/everton-fc/burnley-fc/20209227,2020,19,premier_league
+Sheffield United,Watford,1-1,https://www.besoccer.com/match/sheffield-united/watford-fc/20209230,2020,19,premier_league
+Man. Utd,Newcastle,4-1,https://www.besoccer.com/match/manchester-united-fc/newcastle-united-fc/20209229,2020,19,premier_league
+Leicester,Liverpool,0-4,https://www.besoccer.com/match/leicester-city-fc/liverpool/20209228,2020,19,premier_league
+Wolves,Man. City,3-2,https://www.besoccer.com/match/wolverhampton/manchester-city-fc/20209232,2020,19,premier_league
+Brighton & Hove Albion,AFC Bournemouth,2-0,https://www.besoccer.com/match/brighton-amp-hov/afc-bournemouth/20209234,2020,20,premier_league
+Newcastle,Everton,1-2,https://www.besoccer.com/match/newcastle-united-fc/everton-fc/20209238,2020,20,premier_league
+Southampton,Crystal Palace,1-1,https://www.besoccer.com/match/southampton-fc/crystal-palace-fc/20209240,2020,20,premier_league
+Watford,Aston Villa,3-0,https://www.besoccer.com/match/watford-fc/aston-villa-fc/20209241,2020,20,premier_league
+Norwich City,Tottenham Hotspur,2-2,https://www.besoccer.com/match/norwich-city-fc/tottenham-hotspur-fc/20209239,2020,20,premier_league
+West Ham,Leicester,1-2,https://www.besoccer.com/match/west-ham-united/leicester-city-fc/20209242,2020,20,premier_league
+Burnley,Man. Utd,0-2,https://www.besoccer.com/match/burnley-fc/manchester-united-fc/20209235,2020,20,premier_league
+Arsenal,Chelsea,1-2,https://www.besoccer.com/match/arsenal/chelsea-fc/20209233,2020,20,premier_league
+Liverpool,Wolves,1-0,https://www.besoccer.com/match/liverpool/wolverhampton/20209236,2020,20,premier_league
+Man. City,Sheffield United,2-0,https://www.besoccer.com/match/manchester-city-fc/sheffield-united/20209237,2020,20,premier_league
+Brighton & Hove Albion,Chelsea,1-1,https://www.besoccer.com/match/brighton-amp-hov/chelsea-fc/20209244,2020,21,premier_league
+Burnley,Aston Villa,1-2,https://www.besoccer.com/match/burnley-fc/aston-villa-fc/20209245,2020,21,premier_league
+Newcastle,Leicester,0-3,https://www.besoccer.com/match/newcastle-united-fc/leicester-city-fc/20209248,2020,21,premier_league
+Southampton,Tottenham Hotspur,1-0,https://www.besoccer.com/match/southampton-fc/tottenham-hotspur-fc/20209250,2020,21,premier_league
+Watford,Wolves,2-1,https://www.besoccer.com/match/watford-fc/wolverhampton/20209251,2020,21,premier_league
+Man. City,Everton,2-1,https://www.besoccer.com/match/manchester-city-fc/everton-fc/20209247,2020,21,premier_league
+Norwich City,Crystal Palace,1-1,https://www.besoccer.com/match/norwich-city-fc/crystal-palace-fc/20209249,2020,21,premier_league
+West Ham,AFC Bournemouth,4-0,https://www.besoccer.com/match/west-ham-united/afc-bournemouth/20209252,2020,21,premier_league
+Arsenal,Man. Utd,2-0,https://www.besoccer.com/match/arsenal/manchester-united-fc/20209243,2020,21,premier_league
+Liverpool,Sheffield United,2-0,https://www.besoccer.com/match/liverpool/sheffield-united/20209246,2020,21,premier_league
+Sheffield United,West Ham,1-0,https://www.besoccer.com/match/sheffield-united/west-ham-united/20209260,2020,22,premier_league
+Crystal Palace,Arsenal,1-1,https://www.besoccer.com/match/crystal-palace-fc/arsenal/20209256,2020,22,premier_league
+Chelsea,Burnley,3-0,https://www.besoccer.com/match/chelsea-fc/burnley-fc/20209255,2020,22,premier_league
+Everton,Brighton & Hove Albion,1-0,https://www.besoccer.com/match/everton-fc/brighton-amp-hov/20209257,2020,22,premier_league
+Leicester,Southampton,1-2,https://www.besoccer.com/match/leicester-city-fc/southampton-fc/20209258,2020,22,premier_league
+Man. Utd,Norwich City,4-0,https://www.besoccer.com/match/manchester-united-fc/norwich-city-fc/20209259,2020,22,premier_league
+Wolves,Newcastle,1-1,https://www.besoccer.com/match/wolverhampton/newcastle-united-fc/20209262,2020,22,premier_league
+Tottenham Hotspur,Liverpool,0-1,https://www.besoccer.com/match/tottenham-hotspur-fc/liverpool/20209261,2020,22,premier_league
+AFC Bournemouth,Watford,0-3,https://www.besoccer.com/match/afc-bournemouth/watford-fc/20209254,2020,22,premier_league
+Aston Villa,Man. City,1-6,https://www.besoccer.com/match/aston-villa-fc/manchester-city-fc/20209253,2020,22,premier_league
+Watford,Tottenham Hotspur,0-0,https://www.besoccer.com/match/watford-fc/tottenham-hotspur-fc/20209271,2020,23,premier_league
+Arsenal,Sheffield United,1-1,https://www.besoccer.com/match/arsenal/sheffield-united/20209263,2020,23,premier_league
+Brighton & Hove Albion,Aston Villa,1-1,https://www.besoccer.com/match/brighton-amp-hov/aston-villa-fc/20209264,2020,23,premier_league
+Man. City,Crystal Palace,2-2,https://www.besoccer.com/match/manchester-city-fc/crystal-palace-fc/20209267,2020,23,premier_league
+Norwich City,AFC Bournemouth,1-0,https://www.besoccer.com/match/norwich-city-fc/afc-bournemouth/20209269,2020,23,premier_league
+Southampton,Wolves,2-3,https://www.besoccer.com/match/southampton-fc/wolverhampton/20209270,2020,23,premier_league
+West Ham,Everton,1-1,https://www.besoccer.com/match/west-ham-united/everton-fc/20209272,2020,23,premier_league
+Newcastle,Chelsea,1-0,https://www.besoccer.com/match/newcastle-united-fc/chelsea-fc/20209268,2020,23,premier_league
+Burnley,Leicester,2-1,https://www.besoccer.com/match/burnley-fc/leicester-city-fc/20209265,2020,23,premier_league
+Liverpool,Man. Utd,2-0,https://www.besoccer.com/match/liverpool/manchester-united-fc/20209266,2020,23,premier_league
+Aston Villa,Watford,2-1,https://www.besoccer.com/match/aston-villa-fc/watford-fc/20209273,2020,24,premier_league
+AFC Bournemouth,Brighton & Hove Albion,3-1,https://www.besoccer.com/match/afc-bournemouth/brighton-amp-hov/20209274,2020,24,premier_league
+Everton,Newcastle,2-2,https://www.besoccer.com/match/everton-fc/newcastle-united-fc/20209275,2020,24,premier_league
+Sheffield United,Man. City,0-1,https://www.besoccer.com/match/sheffield-united/manchester-city-fc/20209277,2020,24,premier_league
+Crystal Palace,Southampton,0-2,https://www.besoccer.com/match/crystal-palace-fc/southampton-fc/20209282,2020,24,premier_league
+Chelsea,Arsenal,2-2,https://www.besoccer.com/match/chelsea-fc/arsenal/20209280,2020,24,premier_league
+Leicester,West Ham,4-1,https://www.besoccer.com/match/leicester-city-fc/west-ham-united/20209276,2020,24,premier_league
+Tottenham Hotspur,Norwich City,2-1,https://www.besoccer.com/match/tottenham-hotspur-fc/norwich-city-fc/20209281,2020,24,premier_league
+Man. Utd,Burnley,0-2,https://www.besoccer.com/match/manchester-united-fc/burnley-fc/20209279,2020,24,premier_league
+Wolves,Liverpool,1-2,https://www.besoccer.com/match/wolverhampton/liverpool/20209278,2020,24,premier_league
+Leicester,Chelsea,2-2,https://www.besoccer.com/match/leicester-city-fc/chelsea-fc/20209286,2020,25,premier_league
+AFC Bournemouth,Aston Villa,2-1,https://www.besoccer.com/match/afc-bournemouth/aston-villa-fc/20209283,2020,25,premier_league
+Crystal Palace,Sheffield United,0-1,https://www.besoccer.com/match/crystal-palace-fc/sheffield-united/20209285,2020,25,premier_league
+Liverpool,Southampton,4-0,https://www.besoccer.com/match/liverpool/southampton-fc/20209287,2020,25,premier_league
+Newcastle,Norwich City,0-0,https://www.besoccer.com/match/newcastle-united-fc/norwich-city-fc/20209289,2020,25,premier_league
+Watford,Everton,2-3,https://www.besoccer.com/match/watford-fc/everton-fc/20209291,2020,25,premier_league
+West Ham,Brighton & Hove Albion,3-3,https://www.besoccer.com/match/west-ham-united/brighton-amp-hov/20209292,2020,25,premier_league
+Man. Utd,Wolves,0-0,https://www.besoccer.com/match/manchester-united-fc/wolverhampton/20209288,2020,25,premier_league
+Burnley,Arsenal,0-0,https://www.besoccer.com/match/burnley-fc/arsenal/20209284,2020,25,premier_league
+Tottenham Hotspur,Man. City,2-0,https://www.besoccer.com/match/tottenham-hotspur-fc/manchester-city-fc/20209290,2020,25,premier_league
+Everton,Crystal Palace,3-1,https://www.besoccer.com/match/everton-fc/crystal-palace-fc/20209297,2020,26,premier_league
+Brighton & Hove Albion,Watford,1-1,https://www.besoccer.com/match/brighton-amp-hov/watford-fc/20209295,2020,26,premier_league
+Sheffield United,AFC Bournemouth,2-1,https://www.besoccer.com/match/sheffield-united/afc-bournemouth/20209300,2020,26,premier_league
+Wolves,Leicester,0-0,https://www.besoccer.com/match/wolverhampton/leicester-city-fc/20209302,2020,26,premier_league
+Southampton,Burnley,1-2,https://www.besoccer.com/match/southampton-fc/burnley-fc/20209301,2020,26,premier_league
+Norwich City,Liverpool,0-1,https://www.besoccer.com/match/norwich-city-fc/liverpool/20209299,2020,26,premier_league
+Aston Villa,Tottenham Hotspur,2-3,https://www.besoccer.com/match/aston-villa-fc/tottenham-hotspur-fc/20209294,2020,26,premier_league
+Arsenal,Newcastle,4-0,https://www.besoccer.com/match/arsenal/newcastle-united-fc/20209293,2020,26,premier_league
+Chelsea,Man. Utd,0-2,https://www.besoccer.com/match/chelsea-fc/manchester-united-fc/20209296,2020,26,premier_league
+Man. City,West Ham,2-0,https://www.besoccer.com/match/manchester-city-fc/west-ham-united/20209298,2020,26,premier_league
+Chelsea,Tottenham Hotspur,2-1,https://www.besoccer.com/match/chelsea-fc/tottenham-hotspur-fc/20209305,2020,27,premier_league
+Burnley,AFC Bournemouth,3-0,https://www.besoccer.com/match/burnley-fc/afc-bournemouth/20209304,2020,27,premier_league
+Crystal Palace,Newcastle,1-0,https://www.besoccer.com/match/crystal-palace-fc/newcastle-united-fc/20209306,2020,27,premier_league
+Sheffield United,Brighton & Hove Albion,1-1,https://www.besoccer.com/match/sheffield-united/brighton-amp-hov/20209310,2020,27,premier_league
+Southampton,Aston Villa,2-0,https://www.besoccer.com/match/southampton-fc/aston-villa-fc/20209311,2020,27,premier_league
+Leicester,Man. City,0-1,https://www.besoccer.com/match/leicester-city-fc/manchester-city-fc/20209307,2020,27,premier_league
+Man. Utd,Watford,3-0,https://www.besoccer.com/match/manchester-united-fc/watford-fc/20209309,2020,27,premier_league
+Wolves,Norwich City,3-0,https://www.besoccer.com/match/wolverhampton/norwich-city-fc/20209312,2020,27,premier_league
+Arsenal,Everton,3-2,https://www.besoccer.com/match/arsenal/everton-fc/20209303,2020,27,premier_league
+Liverpool,West Ham,3-2,https://www.besoccer.com/match/liverpool/west-ham-united/20209308,2020,27,premier_league
+Norwich City,Leicester,1-0,https://www.besoccer.com/match/norwich-city-fc/leicester-city-fc/20209319,2020,28,premier_league
+Brighton & Hove Albion,Crystal Palace,0-1,https://www.besoccer.com/match/brighton-amp-hov/crystal-palace-fc/20209315,2020,28,premier_league
+AFC Bournemouth,Chelsea,2-2,https://www.besoccer.com/match/afc-bournemouth/chelsea-fc/20209314,2020,28,premier_league
+Newcastle,Burnley,0-0,https://www.besoccer.com/match/newcastle-united-fc/burnley-fc/20209318,2020,28,premier_league
+West Ham,Southampton,3-1,https://www.besoccer.com/match/west-ham-united/southampton-fc/20209322,2020,28,premier_league
+Watford,Liverpool,3-0,https://www.besoccer.com/match/watford-fc/liverpool/20209321,2020,28,premier_league
+Everton,Man. Utd,1-1,https://www.besoccer.com/match/everton-fc/manchester-united-fc/20209316,2020,28,premier_league
+Tottenham Hotspur,Wolves,2-3,https://www.besoccer.com/match/tottenham-hotspur-fc/wolverhampton/20209320,2020,28,premier_league
+Aston Villa,Sheffield United,0-0,https://www.besoccer.com/match/aston-villa-fc/sheffield-united/20209313,2020,28,premier_league
+Man. City,Arsenal,3-0,https://www.besoccer.com/match/manchester-city-fc/arsenal/20209317,2020,28,premier_league
+Liverpool,AFC Bournemouth,2-1,https://www.besoccer.com/match/liverpool/afc-bournemouth/20209328,2020,29,premier_league
+Arsenal,West Ham,1-0,https://www.besoccer.com/match/arsenal/west-ham-united/20209323,2020,29,premier_league
+Crystal Palace,Watford,1-0,https://www.besoccer.com/match/crystal-palace-fc/watford-fc/20209326,2020,29,premier_league
+Sheffield United,Norwich City,1-0,https://www.besoccer.com/match/sheffield-united/norwich-city-fc/20209330,2020,29,premier_league
+Southampton,Newcastle,0-1,https://www.besoccer.com/match/southampton-fc/newcastle-united-fc/20209331,2020,29,premier_league
+Wolves,Brighton & Hove Albion,0-0,https://www.besoccer.com/match/wolverhampton/brighton-amp-hov/20209332,2020,29,premier_league
+Burnley,Tottenham Hotspur,1-1,https://www.besoccer.com/match/burnley-fc/tottenham-hotspur-fc/20209324,2020,29,premier_league
+Chelsea,Everton,4-0,https://www.besoccer.com/match/chelsea-fc/everton-fc/20209325,2020,29,premier_league
+Man. Utd,Man. City,2-0,https://www.besoccer.com/match/manchester-united-fc/manchester-city-fc/20209329,2020,29,premier_league
+Leicester,Aston Villa,4-0,https://www.besoccer.com/match/leicester-city-fc/aston-villa-fc/20209327,2020,29,premier_league
+Norwich City,Southampton,0-3,https://www.besoccer.com/match/norwich-city-fc/southampton-fc/20209339,2020,30,premier_league
+Tottenham Hotspur,Man. Utd,1-1,https://www.besoccer.com/match/tottenham-hotspur-fc/manchester-united-fc/20209340,2020,30,premier_league
+Watford,Leicester,1-1,https://www.besoccer.com/match/watford-fc/leicester-city-fc/20209341,2020,30,premier_league
+Brighton & Hove Albion,Arsenal,2-1,https://www.besoccer.com/match/brighton-amp-hov/arsenal/20209335,2020,30,premier_league
+West Ham,Wolves,0-2,https://www.besoccer.com/match/west-ham-united/wolverhampton/20209342,2020,30,premier_league
+AFC Bournemouth,Crystal Palace,0-2,https://www.besoccer.com/match/afc-bournemouth/crystal-palace-fc/20209334,2020,30,premier_league
+Newcastle,Sheffield United,3-0,https://www.besoccer.com/match/newcastle-united-fc/sheffield-united/20209338,2020,30,premier_league
+Aston Villa,Chelsea,1-2,https://www.besoccer.com/match/aston-villa-fc/chelsea-fc/20209333,2020,30,premier_league
+Everton,Liverpool,0-0,https://www.besoccer.com/match/everton-fc/liverpool/20209336,2020,30,premier_league
+Man. City,Burnley,5-0,https://www.besoccer.com/match/manchester-city-fc/burnley-fc/20209337,2020,30,premier_league
+Leicester,Brighton & Hove Albion,0-0,https://www.besoccer.com/match/leicester-city-fc/brighton-amp-hov/20209345,2020,31,premier_league
+Tottenham Hotspur,West Ham,2-0,https://www.besoccer.com/match/tottenham-hotspur-fc/west-ham-united/20209351,2020,31,premier_league
+Man. Utd,Sheffield United,3-0,https://www.besoccer.com/match/manchester-united-fc/sheffield-united/20209347,2020,31,premier_league
+Newcastle,Aston Villa,1-1,https://www.besoccer.com/match/newcastle-united-fc/aston-villa-fc/20209348,2020,31,premier_league
+Norwich City,Everton,0-1,https://www.besoccer.com/match/norwich-city-fc/everton-fc/20209349,2020,31,premier_league
+Wolves,AFC Bournemouth,1-0,https://www.besoccer.com/match/wolverhampton/afc-bournemouth/20209352,2020,31,premier_league
+Liverpool,Crystal Palace,4-0,https://www.besoccer.com/match/liverpool/crystal-palace-fc/20209346,2020,31,premier_league
+Burnley,Watford,1-0,https://www.besoccer.com/match/burnley-fc/watford-fc/20209343,2020,31,premier_league
+Southampton,Arsenal,0-2,https://www.besoccer.com/match/southampton-fc/arsenal/20209350,2020,31,premier_league
+Chelsea,Man. City,2-1,https://www.besoccer.com/match/chelsea-fc/manchester-city-fc/20209344,2020,31,premier_league
+Aston Villa,Wolves,0-1,https://www.besoccer.com/match/aston-villa-fc/wolverhampton/20209354,2020,32,premier_league
+Watford,Southampton,1-3,https://www.besoccer.com/match/watford-fc/southampton-fc/20209361,2020,32,premier_league
+Crystal Palace,Burnley,0-1,https://www.besoccer.com/match/crystal-palace-fc/burnley-fc/20209357,2020,32,premier_league
+Brighton & Hove Albion,Man. Utd,0-3,https://www.besoccer.com/match/brighton-amp-hov/manchester-united-fc/20209356,2020,32,premier_league
+Arsenal,Norwich City,4-0,https://www.besoccer.com/match/arsenal/norwich-city-fc/20209353,2020,32,premier_league
+AFC Bournemouth,Newcastle,1-4,https://www.besoccer.com/match/afc-bournemouth/newcastle-united-fc/20209355,2020,32,premier_league
+Everton,Leicester,2-1,https://www.besoccer.com/match/everton-fc/leicester-city-fc/20209358,2020,32,premier_league
+West Ham,Chelsea,3-2,https://www.besoccer.com/match/west-ham-united/chelsea-fc/20209362,2020,32,premier_league
+Sheffield United,Tottenham Hotspur,3-1,https://www.besoccer.com/match/sheffield-united/tottenham-hotspur-fc/20209360,2020,32,premier_league
+Man. City,Liverpool,4-0,https://www.besoccer.com/match/manchester-city-fc/liverpool/20209359,2020,32,premier_league
+Norwich City,Brighton & Hove Albion,0-1,https://www.besoccer.com/match/norwich-city-fc/brighton-amp-hov/20209369,2020,33,premier_league
+Leicester,Crystal Palace,3-0,https://www.besoccer.com/match/leicester-city-fc/crystal-palace-fc/20209365,2020,33,premier_league
+Man. Utd,AFC Bournemouth,5-2,https://www.besoccer.com/match/manchester-united-fc/afc-bournemouth/20209367,2020,33,premier_league
+Wolves,Arsenal,0-2,https://www.besoccer.com/match/wolverhampton/arsenal/20209372,2020,33,premier_league
+Chelsea,Watford,3-0,https://www.besoccer.com/match/chelsea-fc/watford-fc/20209364,2020,33,premier_league
+Burnley,Sheffield United,1-1,https://www.besoccer.com/match/burnley-fc/sheffield-united/20209363,2020,33,premier_league
+Newcastle,West Ham,2-2,https://www.besoccer.com/match/newcastle-united-fc/west-ham-united/20209368,2020,33,premier_league
+Liverpool,Aston Villa,2-0,https://www.besoccer.com/match/liverpool/aston-villa-fc/20209366,2020,33,premier_league
+Southampton,Man. City,1-0,https://www.besoccer.com/match/southampton-fc/manchester-city-fc/20209370,2020,33,premier_league
+Tottenham Hotspur,Everton,1-0,https://www.besoccer.com/match/tottenham-hotspur-fc/everton-fc/20209371,2020,33,premier_league
+Watford,Norwich City,2-1,https://www.besoccer.com/match/watford-fc/norwich-city-fc/20209381,2020,34,premier_league
+Crystal Palace,Chelsea,2-3,https://www.besoccer.com/match/crystal-palace-fc/chelsea-fc/20209377,2020,34,premier_league
+Arsenal,Leicester,1-1,https://www.besoccer.com/match/arsenal/leicester-city-fc/20209373,2020,34,premier_league
+Man. City,Newcastle,5-0,https://www.besoccer.com/match/manchester-city-fc/newcastle-united-fc/20209379,2020,34,premier_league
+Sheffield United,Wolves,1-0,https://www.besoccer.com/match/sheffield-united/wolverhampton/20209380,2020,34,premier_league
+West Ham,Burnley,0-1,https://www.besoccer.com/match/west-ham-united/burnley-fc/20209382,2020,34,premier_league
+Brighton & Hove Albion,Liverpool,1-3,https://www.besoccer.com/match/brighton-amp-hov/liverpool/20209376,2020,34,premier_league
+AFC Bournemouth,Tottenham Hotspur,0-0,https://www.besoccer.com/match/afc-bournemouth/tottenham-hotspur-fc/20209375,2020,34,premier_league
+Everton,Southampton,1-1,https://www.besoccer.com/match/everton-fc/southampton-fc/20209378,2020,34,premier_league
+Aston Villa,Man. Utd,0-3,https://www.besoccer.com/match/aston-villa-fc/manchester-united-fc/20209374,2020,34,premier_league
+Watford,Newcastle,2-1,https://www.besoccer.com/match/watford-fc/newcastle-united-fc/20209391,2020,35,premier_league
+Norwich City,West Ham,0-4,https://www.besoccer.com/match/norwich-city-fc/west-ham-united/20209388,2020,35,premier_league
+Liverpool,Burnley,1-1,https://www.besoccer.com/match/liverpool/burnley-fc/20209386,2020,35,premier_league
+Sheffield United,Chelsea,3-0,https://www.besoccer.com/match/sheffield-united/chelsea-fc/20209389,2020,35,premier_league
+Brighton & Hove Albion,Man. City,0-5,https://www.besoccer.com/match/brighton-amp-hov/manchester-city-fc/20209385,2020,35,premier_league
+Wolves,Everton,3-0,https://www.besoccer.com/match/wolverhampton/everton-fc/20209392,2020,35,premier_league
+Aston Villa,Crystal Palace,2-0,https://www.besoccer.com/match/aston-villa-fc/crystal-palace-fc/20209383,2020,35,premier_league
+Tottenham Hotspur,Arsenal,2-1,https://www.besoccer.com/match/tottenham-hotspur-fc/arsenal/20209390,2020,35,premier_league
+AFC Bournemouth,Leicester,4-1,https://www.besoccer.com/match/afc-bournemouth/leicester-city-fc/20209384,2020,35,premier_league
+Man. Utd,Southampton,2-2,https://www.besoccer.com/match/manchester-united-fc/southampton-fc/20209387,2020,35,premier_league
+Chelsea,Norwich City,1-0,https://www.besoccer.com/match/chelsea-fc/norwich-city-fc/20209395,2020,36,premier_league
+Burnley,Wolves,1-1,https://www.besoccer.com/match/burnley-fc/wolverhampton/20209394,2020,36,premier_league
+Man. City,AFC Bournemouth,2-1,https://www.besoccer.com/match/manchester-city-fc/afc-bournemouth/20209399,2020,36,premier_league
+Newcastle,Tottenham Hotspur,1-3,https://www.besoccer.com/match/newcastle-united-fc/tottenham-hotspur-fc/20209400,2020,36,premier_league
+Arsenal,Liverpool,2-1,https://www.besoccer.com/match/arsenal/liverpool/20209393,2020,36,premier_league
+Everton,Aston Villa,1-1,https://www.besoccer.com/match/everton-fc/aston-villa-fc/20209397,2020,36,premier_league
+Leicester,Sheffield United,2-0,https://www.besoccer.com/match/leicester-city-fc/sheffield-united/20209398,2020,36,premier_league
+Crystal Palace,Man. Utd,0-2,https://www.besoccer.com/match/crystal-palace-fc/manchester-united-fc/20209396,2020,36,premier_league
+Southampton,Brighton & Hove Albion,1-1,https://www.besoccer.com/match/southampton-fc/brighton-amp-hov/20209401,2020,36,premier_league
+West Ham,Watford,3-1,https://www.besoccer.com/match/west-ham-united/watford-fc/20209402,2020,36,premier_league
+Norwich City,Burnley,0-2,https://www.besoccer.com/match/norwich-city-fc/burnley-fc/20209408,2020,37,premier_league
+AFC Bournemouth,Southampton,0-2,https://www.besoccer.com/match/afc-bournemouth/southampton-fc/20209404,2020,37,premier_league
+Tottenham Hotspur,Leicester,3-0,https://www.besoccer.com/match/tottenham-hotspur-fc/leicester-city-fc/20209410,2020,37,premier_league
+Brighton & Hove Albion,Newcastle,0-0,https://www.besoccer.com/match/brighton-amp-hov/newcastle-united-fc/20209405,2020,37,premier_league
+Sheffield United,Everton,0-1,https://www.besoccer.com/match/sheffield-united/everton-fc/20209409,2020,37,premier_league
+Wolves,Crystal Palace,2-0,https://www.besoccer.com/match/wolverhampton/crystal-palace-fc/20209412,2020,37,premier_league
+Watford,Man. City,0-4,https://www.besoccer.com/match/watford-fc/manchester-city-fc/20209411,2020,37,premier_league
+Aston Villa,Arsenal,1-0,https://www.besoccer.com/match/aston-villa-fc/arsenal/20209403,2020,37,premier_league
+Man. Utd,West Ham,1-1,https://www.besoccer.com/match/manchester-united-fc/west-ham-united/20209407,2020,37,premier_league
+Liverpool,Chelsea,5-3,https://www.besoccer.com/match/liverpool/chelsea-fc/20209406,2020,37,premier_league
+Arsenal,Watford,3-2,https://www.besoccer.com/match/arsenal/watford-fc/20209413,2020,38,premier_league
+Burnley,Brighton & Hove Albion,1-2,https://www.besoccer.com/match/burnley-fc/brighton-amp-hov/20209414,2020,38,premier_league
+Chelsea,Wolves,2-0,https://www.besoccer.com/match/chelsea-fc/wolverhampton/20209415,2020,38,premier_league
+Crystal Palace,Tottenham Hotspur,1-1,https://www.besoccer.com/match/crystal-palace-fc/tottenham-hotspur-fc/20209416,2020,38,premier_league
+Everton,AFC Bournemouth,1-3,https://www.besoccer.com/match/everton-fc/afc-bournemouth/20209417,2020,38,premier_league
+Leicester,Man. Utd,0-2,https://www.besoccer.com/match/leicester-city-fc/manchester-united-fc/20209418,2020,38,premier_league
+Man. City,Norwich City,5-0,https://www.besoccer.com/match/manchester-city-fc/norwich-city-fc/20209419,2020,38,premier_league
+Newcastle,Liverpool,1-3,https://www.besoccer.com/match/newcastle-united-fc/liverpool/20209420,2020,38,premier_league
+Southampton,Sheffield United,3-1,https://www.besoccer.com/match/southampton-fc/sheffield-united/20209421,2020,38,premier_league
+West Ham,Aston Villa,1-1,https://www.besoccer.com/match/west-ham-united/aston-villa-fc/20209422,2020,38,premier_league

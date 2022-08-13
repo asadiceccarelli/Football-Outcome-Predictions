@@ -1,0 +1,553 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Preston North End,West Ham,1-2,https://www.besoccer.com/match/preston-north-end/west-ham-united/20047796,2004,1,championship
+Wimbledon FC,Crewe Alexandra,3-1,https://www.besoccer.com/match/wimbledon-fc/crewe-alexandra/20047787,2004,1,championship
+Bradford City,Norwich City,2-2,https://www.besoccer.com/match/bradford-city/norwich-city-fc/20047788,2004,1,championship
+Walsall,West Bromwich Albion,4-1,https://www.besoccer.com/match/walsall/west-bromwich/20047789,2004,1,championship
+Sheffield United,Gillingham,0-0,https://www.besoccer.com/match/sheffield-united/gillingham/20047790,2004,1,championship
+Rotherham United,Cardiff City,0-0,https://www.besoccer.com/match/rotherham-united/cardiff-city-fc/20047791,2004,1,championship
+Millwall,Wigan Athletic,2-0,https://www.besoccer.com/match/millwall-fc/wigan-athletic/20047792,2004,1,championship
+Ipswich Town,Reading,1-1,https://www.besoccer.com/match/ipswich-town-fc/reading-fc/20047793,2004,1,championship
+Derby County,Stoke City,0-3,https://www.besoccer.com/match/derby-county-fc/stoke-city/20047794,2004,1,championship
+Burnley,Crystal Palace,2-3,https://www.besoccer.com/match/burnley-fc/crystal-palace-fc/20047795,2004,1,championship
+Nottingham Forest,Sunderland,2-0,https://www.besoccer.com/match/nottingham-forest-fc/sunderland-afc/20047786,2004,1,championship
+Watford,Coventry City,1-1,https://www.besoccer.com/match/watford-fc/coventry-city/20047785,2004,1,championship
+West Ham,Sheffield United,0-0,https://www.besoccer.com/match/west-ham-united/sheffield-united/20047774,2004,2,championship
+Sunderland,Millwall,0-1,https://www.besoccer.com/match/sunderland-afc/millwall-fc/20047775,2004,2,championship
+Stoke City,Wimbledon FC,2-1,https://www.besoccer.com/match/stoke-city/wimbledon-fc/20047776,2004,2,championship
+Reading,Nottingham Forest,3-0,https://www.besoccer.com/match/reading-fc/nottingham-forest-fc/20047777,2004,2,championship
+Norwich City,Rotherham United,2-0,https://www.besoccer.com/match/norwich-city-fc/rotherham-united/20047778,2004,2,championship
+Gillingham,Derby County,0-0,https://www.besoccer.com/match/gillingham/derby-county-fc/20047779,2004,2,championship
+Crystal Palace,Watford,1-0,https://www.besoccer.com/match/crystal-palace-fc/watford-fc/20047780,2004,2,championship
+Crewe Alexandra,Ipswich Town,1-0,https://www.besoccer.com/match/crewe-alexandra/ipswich-town-fc/20047781,2004,2,championship
+Coventry City,Walsall,0-0,https://www.besoccer.com/match/coventry-city/walsall/20047782,2004,2,championship
+Wigan Athletic,Preston North End,1-1,https://www.besoccer.com/match/wigan-athletic/preston-north-end/20047783,2004,2,championship
+Cardiff City,Bradford City,0-2,https://www.besoccer.com/match/cardiff-city-fc/bradford-city/20047784,2004,2,championship
+West Bromwich Albion,Burnley,4-1,https://www.besoccer.com/match/west-bromwich/burnley-fc/20047773,2004,2,championship
+Sheffield United,Norwich City,1-0,https://www.besoccer.com/match/sheffield-united/norwich-city-fc/20047762,2004,3,championship
+Rotherham United,West Ham,1-0,https://www.besoccer.com/match/rotherham-united/west-ham-united/20047763,2004,3,championship
+Nottingham Forest,Cardiff City,1-2,https://www.besoccer.com/match/nottingham-forest-fc/cardiff-city-fc/20047764,2004,3,championship
+Millwall,Crewe Alexandra,1-1,https://www.besoccer.com/match/millwall-fc/crewe-alexandra/20047765,2004,3,championship
+Ipswich Town,Coventry City,1-1,https://www.besoccer.com/match/ipswich-town-fc/coventry-city/20047766,2004,3,championship
+Derby County,Reading,2-3,https://www.besoccer.com/match/derby-county-fc/reading-fc/20047767,2004,3,championship
+Burnley,Wigan Athletic,0-2,https://www.besoccer.com/match/burnley-fc/wigan-athletic/20047768,2004,3,championship
+Wimbledon FC,Crystal Palace,1-3,https://www.besoccer.com/match/wimbledon-fc/crystal-palace-fc/20047769,2004,3,championship
+Bradford City,Gillingham,0-1,https://www.besoccer.com/match/bradford-city/gillingham/20047770,2004,3,championship
+Watford,West Bromwich Albion,0-1,https://www.besoccer.com/match/watford-fc/west-bromwich/20047771,2004,3,championship
+Walsall,Stoke City,1-1,https://www.besoccer.com/match/walsall/stoke-city/20047772,2004,3,championship
+Preston North End,Sunderland,0-2,https://www.besoccer.com/match/preston-north-end/sunderland-afc/20047761,2004,3,championship
+Reading,Rotherham United,0-0,https://www.besoccer.com/match/reading-fc/rotherham-united/20047760,2004,4,championship
+Gillingham,Burnley,0-3,https://www.besoccer.com/match/gillingham/burnley-fc/20047757,2004,4,championship
+West Bromwich Albion,Preston North End,1-0,https://www.besoccer.com/match/west-bromwich/preston-north-end/20047758,2004,4,championship
+Sunderland,Watford,2-0,https://www.besoccer.com/match/sunderland-afc/watford-fc/20047759,2004,4,championship
+Cardiff City,Derby County,4-1,https://www.besoccer.com/match/cardiff-city-fc/derby-county-fc/20047756,2004,4,championship
+Crewe Alexandra,Walsall,1-0,https://www.besoccer.com/match/crewe-alexandra/walsall/20047755,2004,4,championship
+West Ham,Bradford City,1-0,https://www.besoccer.com/match/west-ham-united/bradford-city/20047752,2004,4,championship
+Stoke City,Millwall,0-0,https://www.besoccer.com/match/stoke-city/millwall-fc/20047753,2004,4,championship
+Norwich City,Wimbledon FC,3-2,https://www.besoccer.com/match/norwich-city-fc/wimbledon-fc/20047754,2004,4,championship
+Crystal Palace,Sheffield United,1-2,https://www.besoccer.com/match/crystal-palace-fc/sheffield-united/20047750,2004,4,championship
+Wigan Athletic,Ipswich Town,1-0,https://www.besoccer.com/match/wigan-athletic/ipswich-town-fc/20047751,2004,4,championship
+Coventry City,Nottingham Forest,1-3,https://www.besoccer.com/match/coventry-city/nottingham-forest-fc/20047749,2004,4,championship
+Preston North End,Stoke City,1-0,https://www.besoccer.com/match/preston-north-end/stoke-city/20047738,2004,5,championship
+Millwall,Crystal Palace,1-1,https://www.besoccer.com/match/millwall-fc/crystal-palace-fc/20047739,2004,5,championship
+Ipswich Town,West Ham,1-2,https://www.besoccer.com/match/ipswich-town-fc/west-ham-united/20047740,2004,5,championship
+Derby County,West Bromwich Albion,0-1,https://www.besoccer.com/match/derby-county-fc/west-bromwich/20047741,2004,5,championship
+Burnley,Crewe Alexandra,1-0,https://www.besoccer.com/match/burnley-fc/crewe-alexandra/20047742,2004,5,championship
+Wimbledon FC,Reading,0-3,https://www.besoccer.com/match/wimbledon-fc/reading-fc/20047743,2004,5,championship
+Bradford City,Sunderland,0-4,https://www.besoccer.com/match/bradford-city/sunderland-afc/20047744,2004,5,championship
+Watford,Gillingham,2-2,https://www.besoccer.com/match/watford-fc/gillingham/20047745,2004,5,championship
+Walsall,Cardiff City,1-1,https://www.besoccer.com/match/walsall/cardiff-city-fc/20047746,2004,5,championship
+Sheffield United,Coventry City,2-1,https://www.besoccer.com/match/sheffield-united/coventry-city/20047747,2004,5,championship
+Rotherham United,Wigan Athletic,0-3,https://www.besoccer.com/match/rotherham-united/wigan-athletic/20047748,2004,5,championship
+Nottingham Forest,Norwich City,2-0,https://www.besoccer.com/match/nottingham-forest-fc/norwich-city-fc/20047737,2004,5,championship
+Stoke City,Burnley,1-2,https://www.besoccer.com/match/stoke-city/burnley-fc/20047735,2004,6,championship
+Gillingham,Millwall,4-3,https://www.besoccer.com/match/gillingham/millwall-fc/20047736,2004,6,championship
+Norwich City,Derby County,2-1,https://www.besoccer.com/match/norwich-city-fc/derby-county-fc/20047733,2004,6,championship
+West Bromwich Albion,Wimbledon FC,0-1,https://www.besoccer.com/match/west-bromwich/wimbledon-fc/20047732,2004,6,championship
+Crewe Alexandra,Preston North End,2-1,https://www.besoccer.com/match/crewe-alexandra/preston-north-end/20047734,2004,6,championship
+Wigan Athletic,Sheffield United,1-1,https://www.besoccer.com/match/wigan-athletic/sheffield-united/20047728,2004,6,championship
+Sunderland,Rotherham United,0-0,https://www.besoccer.com/match/sunderland-afc/rotherham-united/20047729,2004,6,championship
+Reading,Walsall,0-1,https://www.besoccer.com/match/reading-fc/walsall/20047730,2004,6,championship
+Crystal Palace,Ipswich Town,3-4,https://www.besoccer.com/match/crystal-palace-fc/ipswich-town-fc/20047731,2004,6,championship
+West Ham,Nottingham Forest,1-1,https://www.besoccer.com/match/west-ham-united/nottingham-forest-fc/20047727,2004,6,championship
+Cardiff City,Watford,3-0,https://www.besoccer.com/match/cardiff-city-fc/watford-fc/20047726,2004,6,championship
+Coventry City,Bradford City,0-0,https://www.besoccer.com/match/coventry-city/bradford-city/20047725,2004,6,championship
+Watford,Millwall,3-1,https://www.besoccer.com/match/watford-fc/millwall-fc/20047724,2004,7,championship
+Norwich City,Burnley,2-0,https://www.besoccer.com/match/norwich-city-fc/burnley-fc/20047714,2004,7,championship
+Coventry City,Stoke City,4-2,https://www.besoccer.com/match/coventry-city/stoke-city/20047715,2004,7,championship
+Cardiff City,Gillingham,5-0,https://www.besoccer.com/match/cardiff-city-fc/gillingham/20047716,2004,7,championship
+Wimbledon FC,Wigan Athletic,2-4,https://www.besoccer.com/match/wimbledon-fc/wigan-athletic/20047717,2004,7,championship
+Bradford City,Preston North End,2-1,https://www.besoccer.com/match/bradford-city/preston-north-end/20047718,2004,7,championship
+West Ham,Reading,1-0,https://www.besoccer.com/match/west-ham-united/reading-fc/20047719,2004,7,championship
+West Bromwich Albion,Ipswich Town,4-1,https://www.besoccer.com/match/west-bromwich/ipswich-town-fc/20047720,2004,7,championship
+Walsall,Derby County,0-1,https://www.besoccer.com/match/walsall/derby-county-fc/20047721,2004,7,championship
+Sunderland,Crystal Palace,2-1,https://www.besoccer.com/match/sunderland-afc/crystal-palace-fc/20047722,2004,7,championship
+Nottingham Forest,Sheffield United,3-1,https://www.besoccer.com/match/nottingham-forest-fc/sheffield-united/20047723,2004,7,championship
+Rotherham United,Crewe Alexandra,0-2,https://www.besoccer.com/match/rotherham-united/crewe-alexandra/20047713,2004,7,championship
+Crewe Alexandra,West Ham,0-3,https://www.besoccer.com/match/crewe-alexandra/west-ham-united/20047705,2004,8,championship
+Stoke City,Sunderland,3-1,https://www.besoccer.com/match/stoke-city/sunderland-afc/20047706,2004,8,championship
+Burnley,Nottingham Forest,0-3,https://www.besoccer.com/match/burnley-fc/nottingham-forest-fc/20047707,2004,8,championship
+Sheffield United,Rotherham United,5-0,https://www.besoccer.com/match/sheffield-united/rotherham-united/20047708,2004,8,championship
+Preston North End,Coventry City,4-2,https://www.besoccer.com/match/preston-north-end/coventry-city/20047709,2004,8,championship
+Millwall,Wimbledon FC,2-0,https://www.besoccer.com/match/millwall-fc/wimbledon-fc/20047710,2004,8,championship
+Ipswich Town,Walsall,2-1,https://www.besoccer.com/match/ipswich-town-fc/walsall/20047711,2004,8,championship
+Gillingham,Norwich City,1-2,https://www.besoccer.com/match/gillingham/norwich-city-fc/20047712,2004,8,championship
+Wigan Athletic,West Bromwich Albion,1-0,https://www.besoccer.com/match/wigan-athletic/west-bromwich/20047702,2004,8,championship
+Reading,Cardiff City,2-1,https://www.besoccer.com/match/reading-fc/cardiff-city-fc/20047703,2004,8,championship
+Crystal Palace,Bradford City,0-1,https://www.besoccer.com/match/crystal-palace-fc/bradford-city/20047704,2004,8,championship
+Derby County,Watford,3-2,https://www.besoccer.com/match/derby-county-fc/watford-fc/20047701,2004,8,championship
+Wigan Athletic,Watford,1-0,https://www.besoccer.com/match/wigan-athletic/watford-fc/20047690,2004,9,championship
+Burnley,Bradford City,4-0,https://www.besoccer.com/match/burnley-fc/bradford-city/20047691,2004,9,championship
+Sheffield United,Cardiff City,5-3,https://www.besoccer.com/match/sheffield-united/cardiff-city-fc/20047692,2004,9,championship
+Reading,Coventry City,1-2,https://www.besoccer.com/match/reading-fc/coventry-city/20047693,2004,9,championship
+Preston North End,Rotherham United,4-1,https://www.besoccer.com/match/preston-north-end/rotherham-united/20047694,2004,9,championship
+Millwall,Walsall,2-1,https://www.besoccer.com/match/millwall-fc/walsall/20047695,2004,9,championship
+Ipswich Town,Wimbledon FC,4-1,https://www.besoccer.com/match/ipswich-town-fc/wimbledon-fc/20047696,2004,9,championship
+Gillingham,West Ham,2-0,https://www.besoccer.com/match/gillingham/west-ham-united/20047697,2004,9,championship
+Derby County,Sunderland,1-1,https://www.besoccer.com/match/derby-county-fc/sunderland-afc/20047698,2004,9,championship
+Crystal Palace,West Bromwich Albion,2-2,https://www.besoccer.com/match/crystal-palace-fc/west-bromwich/20047699,2004,9,championship
+Crewe Alexandra,Nottingham Forest,3-1,https://www.besoccer.com/match/crewe-alexandra/nottingham-forest-fc/20047700,2004,9,championship
+Stoke City,Norwich City,1-1,https://www.besoccer.com/match/stoke-city/norwich-city-fc/20047689,2004,9,championship
+Bradford City,Sheffield United,1-2,https://www.besoccer.com/match/bradford-city/sheffield-united/20047688,2004,10,championship
+Nottingham Forest,Derby County,1-1,https://www.besoccer.com/match/nottingham-forest-fc/derby-county-fc/20047687,2004,10,championship
+Wimbledon FC,Burnley,2-2,https://www.besoccer.com/match/wimbledon-fc/burnley-fc/20047679,2004,10,championship
+West Bromwich Albion,Stoke City,1-0,https://www.besoccer.com/match/west-bromwich/stoke-city/20047680,2004,10,championship
+Watford,Ipswich Town,1-2,https://www.besoccer.com/match/watford-fc/ipswich-town-fc/20047681,2004,10,championship
+Walsall,Preston North End,2-1,https://www.besoccer.com/match/walsall/preston-north-end/20047682,2004,10,championship
+Norwich City,Crystal Palace,2-1,https://www.besoccer.com/match/norwich-city-fc/crystal-palace-fc/20047683,2004,10,championship
+Coventry City,Wigan Athletic,1-1,https://www.besoccer.com/match/coventry-city/wigan-athletic/20047684,2004,10,championship
+Cardiff City,Crewe Alexandra,3-0,https://www.besoccer.com/match/cardiff-city-fc/crewe-alexandra/20047685,2004,10,championship
+Rotherham United,Gillingham,1-1,https://www.besoccer.com/match/rotherham-united/gillingham/20047686,2004,10,championship
+Sunderland,Reading,2-0,https://www.besoccer.com/match/sunderland-afc/reading-fc/20047678,2004,10,championship
+West Ham,Millwall,1-1,https://www.besoccer.com/match/west-ham-united/millwall-fc/20047677,2004,10,championship
+Walsall,Gillingham,2-1,https://www.besoccer.com/match/walsall/gillingham/20047676,2004,11,championship
+Wimbledon FC,Sheffield United,1-2,https://www.besoccer.com/match/wimbledon-fc/sheffield-united/20047669,2004,11,championship
+West Bromwich Albion,Millwall,2-1,https://www.besoccer.com/match/west-bromwich/millwall-fc/20047670,2004,11,championship
+Watford,Burnley,1-1,https://www.besoccer.com/match/watford-fc/burnley-fc/20047671,2004,11,championship
+Rotherham United,Stoke City,3-0,https://www.besoccer.com/match/rotherham-united/stoke-city/20047672,2004,11,championship
+Norwich City,Reading,2-1,https://www.besoccer.com/match/norwich-city-fc/reading-fc/20047673,2004,11,championship
+Cardiff City,Wigan Athletic,0-0,https://www.besoccer.com/match/cardiff-city-fc/wigan-athletic/20047674,2004,11,championship
+Bradford City,Derby County,1-2,https://www.besoccer.com/match/bradford-city/derby-county-fc/20047675,2004,11,championship
+Sunderland,Ipswich Town,3-2,https://www.besoccer.com/match/sunderland-afc/ipswich-town-fc/20047668,2004,11,championship
+West Ham,Crystal Palace,3-0,https://www.besoccer.com/match/west-ham-united/crystal-palace-fc/20047665,2004,11,championship
+Nottingham Forest,Preston North End,0-1,https://www.besoccer.com/match/nottingham-forest-fc/preston-north-end/20047666,2004,11,championship
+Coventry City,Crewe Alexandra,2-0,https://www.besoccer.com/match/coventry-city/crewe-alexandra/20047667,2004,11,championship
+Preston North End,Wimbledon FC,1-0,https://www.besoccer.com/match/preston-north-end/wimbledon-fc/20047654,2004,12,championship
+Millwall,Coventry City,2-1,https://www.besoccer.com/match/millwall-fc/coventry-city/20047655,2004,12,championship
+Ipswich Town,Rotherham United,2-1,https://www.besoccer.com/match/ipswich-town-fc/rotherham-united/20047656,2004,12,championship
+Gillingham,West Bromwich Albion,0-2,https://www.besoccer.com/match/gillingham/west-bromwich/20047657,2004,12,championship
+Crystal Palace,Cardiff City,2-1,https://www.besoccer.com/match/crystal-palace-fc/cardiff-city-fc/20047658,2004,12,championship
+Crewe Alexandra,Watford,0-1,https://www.besoccer.com/match/crewe-alexandra/watford-fc/20047659,2004,12,championship
+Wigan Athletic,Norwich City,1-1,https://www.besoccer.com/match/wigan-athletic/norwich-city-fc/20047660,2004,12,championship
+Burnley,Walsall,3-1,https://www.besoccer.com/match/burnley-fc/walsall/20047661,2004,12,championship
+Stoke City,Nottingham Forest,2-1,https://www.besoccer.com/match/stoke-city/nottingham-forest-fc/20047662,2004,12,championship
+Sheffield United,Sunderland,0-1,https://www.besoccer.com/match/sheffield-united/sunderland-afc/20047663,2004,12,championship
+Reading,Bradford City,2-2,https://www.besoccer.com/match/reading-fc/bradford-city/20047664,2004,12,championship
+Derby County,West Ham,0-1,https://www.besoccer.com/match/derby-county-fc/west-ham-united/20047653,2004,12,championship
+Derby County,Wigan Athletic,2-2,https://www.besoccer.com/match/derby-county-fc/wigan-athletic/20047652,2004,13,championship
+Rotherham United,Millwall,0-0,https://www.besoccer.com/match/rotherham-united/millwall-fc/20047651,2004,13,championship
+Bradford City,Ipswich Town,0-1,https://www.besoccer.com/match/bradford-city/ipswich-town-fc/20047650,2004,13,championship
+Sheffield United,Crewe Alexandra,2-0,https://www.besoccer.com/match/sheffield-united/crewe-alexandra/20047647,2004,13,championship
+Walsall,Nottingham Forest,4-1,https://www.besoccer.com/match/walsall/nottingham-forest-fc/20047646,2004,13,championship
+Preston North End,Watford,2-1,https://www.besoccer.com/match/preston-north-end/watford-fc/20047648,2004,13,championship
+Gillingham,Sunderland,1-3,https://www.besoccer.com/match/gillingham/sunderland-afc/20047649,2004,13,championship
+Cardiff City,West Bromwich Albion,1-1,https://www.besoccer.com/match/cardiff-city-fc/west-bromwich/20047641,2004,13,championship
+Burnley,Reading,3-0,https://www.besoccer.com/match/burnley-fc/reading-fc/20047642,2004,13,championship
+Wimbledon FC,West Ham,1-1,https://www.besoccer.com/match/wimbledon-fc/west-ham-united/20047643,2004,13,championship
+Stoke City,Crystal Palace,0-1,https://www.besoccer.com/match/stoke-city/crystal-palace-fc/20047644,2004,13,championship
+Norwich City,Coventry City,1-1,https://www.besoccer.com/match/norwich-city-fc/coventry-city/20047645,2004,13,championship
+Millwall,Preston North End,0-1,https://www.besoccer.com/match/millwall-fc/preston-north-end/20047635,2004,14,championship
+Reading,Gillingham,2-1,https://www.besoccer.com/match/reading-fc/gillingham/20047631,2004,14,championship
+Ipswich Town,Burnley,6-1,https://www.besoccer.com/match/ipswich-town-fc/burnley-fc/20047636,2004,14,championship
+Crewe Alexandra,Bradford City,2-2,https://www.besoccer.com/match/crewe-alexandra/bradford-city/20047637,2004,14,championship
+Nottingham Forest,Rotherham United,2-2,https://www.besoccer.com/match/nottingham-forest-fc/rotherham-united/20047638,2004,14,championship
+West Bromwich Albion,Sheffield United,0-2,https://www.besoccer.com/match/west-bromwich/sheffield-united/20047639,2004,14,championship
+Watford,Walsall,1-1,https://www.besoccer.com/match/watford-fc/walsall/20047640,2004,14,championship
+Crystal Palace,Derby County,1-1,https://www.besoccer.com/match/crystal-palace-fc/derby-county-fc/20047632,2004,14,championship
+Wigan Athletic,Stoke City,2-1,https://www.besoccer.com/match/wigan-athletic/stoke-city/20047633,2004,14,championship
+Sunderland,Cardiff City,0-0,https://www.besoccer.com/match/sunderland-afc/cardiff-city-fc/20047634,2004,14,championship
+West Ham,Norwich City,1-1,https://www.besoccer.com/match/west-ham-united/norwich-city-fc/20047629,2004,14,championship
+Coventry City,Wimbledon FC,1-0,https://www.besoccer.com/match/coventry-city/wimbledon-fc/20047630,2004,14,championship
+Coventry City,Cardiff City,1-3,https://www.besoccer.com/match/coventry-city/cardiff-city-fc/20047628,2004,15,championship
+Crystal Palace,Rotherham United,1-1,https://www.besoccer.com/match/crystal-palace-fc/rotherham-united/20047618,2004,15,championship
+Crewe Alexandra,Derby County,3-0,https://www.besoccer.com/match/crewe-alexandra/derby-county-fc/20047619,2004,15,championship
+Wigan Athletic,Gillingham,1-0,https://www.besoccer.com/match/wigan-athletic/gillingham/20047620,2004,15,championship
+West Ham,Burnley,2-2,https://www.besoccer.com/match/west-ham-united/burnley-fc/20047621,2004,15,championship
+West Bromwich Albion,Norwich City,1-0,https://www.besoccer.com/match/west-bromwich/norwich-city-fc/20047622,2004,15,championship
+Watford,Bradford City,1-0,https://www.besoccer.com/match/watford-fc/bradford-city/20047623,2004,15,championship
+Sunderland,Walsall,1-0,https://www.besoccer.com/match/sunderland-afc/walsall/20047624,2004,15,championship
+Reading,Preston North End,3-2,https://www.besoccer.com/match/reading-fc/preston-north-end/20047625,2004,15,championship
+Nottingham Forest,Wimbledon FC,6-0,https://www.besoccer.com/match/nottingham-forest-fc/wimbledon-fc/20047626,2004,15,championship
+Millwall,Sheffield United,2-0,https://www.besoccer.com/match/millwall-fc/sheffield-united/20047627,2004,15,championship
+Ipswich Town,Stoke City,1-0,https://www.besoccer.com/match/ipswich-town-fc/stoke-city/20047617,2004,15,championship
+Sheffield United,Reading,1-2,https://www.besoccer.com/match/sheffield-united/reading-fc/20047616,2004,16,championship
+Burnley,Millwall,1-1,https://www.besoccer.com/match/burnley-fc/millwall-fc/20047606,2004,16,championship
+Wimbledon FC,Watford,1-3,https://www.besoccer.com/match/wimbledon-fc/watford-fc/20047607,2004,16,championship
+Bradford City,Nottingham Forest,1-2,https://www.besoccer.com/match/bradford-city/nottingham-forest-fc/20047608,2004,16,championship
+Walsall,Wigan Athletic,2-0,https://www.besoccer.com/match/walsall/wigan-athletic/20047609,2004,16,championship
+Stoke City,Crewe Alexandra,1-1,https://www.besoccer.com/match/stoke-city/crewe-alexandra/20047610,2004,16,championship
+Rotherham United,West Bromwich Albion,0-3,https://www.besoccer.com/match/rotherham-united/west-bromwich/20047611,2004,16,championship
+Preston North End,Ipswich Town,1-1,https://www.besoccer.com/match/preston-north-end/ipswich-town-fc/20047612,2004,16,championship
+Norwich City,Sunderland,1-0,https://www.besoccer.com/match/norwich-city-fc/sunderland-afc/20047613,2004,16,championship
+Gillingham,Crystal Palace,1-0,https://www.besoccer.com/match/gillingham/crystal-palace-fc/20047614,2004,16,championship
+Derby County,Coventry City,1-3,https://www.besoccer.com/match/derby-county-fc/coventry-city/20047615,2004,16,championship
+Cardiff City,West Ham,0-0,https://www.besoccer.com/match/cardiff-city-fc/west-ham-united/20047605,2004,16,championship
+Wigan Athletic,Crystal Palace,5-0,https://www.besoccer.com/match/wigan-athletic/crystal-palace-fc/20047604,2004,17,championship
+Burnley,Cardiff City,1-1,https://www.besoccer.com/match/burnley-fc/cardiff-city-fc/20047603,2004,17,championship
+West Bromwich Albion,Sunderland,0-0,https://www.besoccer.com/match/west-bromwich/sunderland-afc/20047594,2004,17,championship
+Watford,Rotherham United,1-0,https://www.besoccer.com/match/watford-fc/rotherham-united/20047595,2004,17,championship
+Walsall,Norwich City,1-3,https://www.besoccer.com/match/walsall/norwich-city-fc/20047596,2004,17,championship
+Stoke City,Sheffield United,2-2,https://www.besoccer.com/match/stoke-city/sheffield-united/20047597,2004,17,championship
+Preston North End,Derby County,3-0,https://www.besoccer.com/match/preston-north-end/derby-county-fc/20047598,2004,17,championship
+Millwall,Nottingham Forest,1-0,https://www.besoccer.com/match/millwall-fc/nottingham-forest-fc/20047599,2004,17,championship
+Ipswich Town,Gillingham,3-4,https://www.besoccer.com/match/ipswich-town-fc/gillingham/20047600,2004,17,championship
+Crewe Alexandra,Reading,1-0,https://www.besoccer.com/match/crewe-alexandra/reading-fc/20047601,2004,17,championship
+Coventry City,West Ham,1-1,https://www.besoccer.com/match/coventry-city/west-ham-united/20047602,2004,17,championship
+Wimbledon FC,Bradford City,2-1,https://www.besoccer.com/match/wimbledon-fc/bradford-city/20047593,2004,17,championship
+Sunderland,Coventry City,0-0,https://www.besoccer.com/match/sunderland-afc/coventry-city/20047581,2004,18,championship
+Sheffield United,Burnley,1-0,https://www.besoccer.com/match/sheffield-united/burnley-fc/20047582,2004,18,championship
+Rotherham United,Wimbledon FC,3-1,https://www.besoccer.com/match/rotherham-united/wimbledon-fc/20047583,2004,18,championship
+Reading,Wigan Athletic,1-0,https://www.besoccer.com/match/reading-fc/wigan-athletic/20047584,2004,18,championship
+Nottingham Forest,Watford,1-1,https://www.besoccer.com/match/nottingham-forest-fc/watford-fc/20047585,2004,18,championship
+Norwich City,Millwall,3-1,https://www.besoccer.com/match/norwich-city-fc/millwall-fc/20047586,2004,18,championship
+Gillingham,Crewe Alexandra,2-0,https://www.besoccer.com/match/gillingham/crewe-alexandra/20047587,2004,18,championship
+Derby County,Ipswich Town,2-2,https://www.besoccer.com/match/derby-county-fc/ipswich-town-fc/20047588,2004,18,championship
+Crystal Palace,Preston North End,1-1,https://www.besoccer.com/match/crystal-palace-fc/preston-north-end/20047589,2004,18,championship
+Cardiff City,Stoke City,3-1,https://www.besoccer.com/match/cardiff-city-fc/stoke-city/20047590,2004,18,championship
+West Ham,West Bromwich Albion,3-4,https://www.besoccer.com/match/west-ham-united/west-bromwich/20047591,2004,18,championship
+Bradford City,Walsall,1-1,https://www.besoccer.com/match/bradford-city/walsall/20047592,2004,18,championship
+Norwich City,Watford,1-2,https://www.besoccer.com/match/norwich-city-fc/watford-fc/20047577,2004,19,championship
+Gillingham,Wimbledon FC,1-2,https://www.besoccer.com/match/gillingham/wimbledon-fc/20047578,2004,19,championship
+Derby County,Burnley,2-0,https://www.besoccer.com/match/derby-county-fc/burnley-fc/20047579,2004,19,championship
+Reading,Millwall,1-0,https://www.besoccer.com/match/reading-fc/millwall-fc/20047580,2004,19,championship
+Rotherham United,Coventry City,2-0,https://www.besoccer.com/match/rotherham-united/coventry-city/20047576,2004,19,championship
+Sunderland,Wigan Athletic,1-1,https://www.besoccer.com/match/sunderland-afc/wigan-athletic/20047575,2004,19,championship
+Nottingham Forest,Ipswich Town,1-1,https://www.besoccer.com/match/nottingham-forest-fc/ipswich-town-fc/20047574,2004,19,championship
+Cardiff City,Preston North End,2-2,https://www.besoccer.com/match/cardiff-city-fc/preston-north-end/20047570,2004,19,championship
+West Ham,Stoke City,0-1,https://www.besoccer.com/match/west-ham-united/stoke-city/20047571,2004,19,championship
+Sheffield United,Walsall,2-0,https://www.besoccer.com/match/sheffield-united/walsall/20047572,2004,19,championship
+Bradford City,West Bromwich Albion,0-1,https://www.besoccer.com/match/bradford-city/west-bromwich/20047573,2004,19,championship
+Crystal Palace,Crewe Alexandra,1-3,https://www.besoccer.com/match/crystal-palace-fc/crewe-alexandra/20047569,2004,19,championship
+Walsall,Crystal Palace,0-0,https://www.besoccer.com/match/walsall/crystal-palace-fc/20047558,2004,20,championship
+Stoke City,Bradford City,1-0,https://www.besoccer.com/match/stoke-city/bradford-city/20047559,2004,20,championship
+Preston North End,Norwich City,0-0,https://www.besoccer.com/match/preston-north-end/norwich-city-fc/20047560,2004,20,championship
+Millwall,Derby County,0-0,https://www.besoccer.com/match/millwall-fc/derby-county-fc/20047561,2004,20,championship
+Ipswich Town,Sheffield United,3-0,https://www.besoccer.com/match/ipswich-town-fc/sheffield-united/20047562,2004,20,championship
+Crewe Alexandra,Sunderland,3-0,https://www.besoccer.com/match/crewe-alexandra/sunderland-afc/20047563,2004,20,championship
+Coventry City,Gillingham,2-2,https://www.besoccer.com/match/coventry-city/gillingham/20047564,2004,20,championship
+Wimbledon FC,Cardiff City,0-1,https://www.besoccer.com/match/wimbledon-fc/cardiff-city-fc/20047565,2004,20,championship
+Burnley,Rotherham United,1-1,https://www.besoccer.com/match/burnley-fc/rotherham-united/20047566,2004,20,championship
+Wigan Athletic,Nottingham Forest,2-2,https://www.besoccer.com/match/wigan-athletic/nottingham-forest-fc/20047567,2004,20,championship
+Watford,West Ham,0-0,https://www.besoccer.com/match/watford-fc/west-ham-united/20047568,2004,20,championship
+West Bromwich Albion,Reading,0-0,https://www.besoccer.com/match/west-bromwich/reading-fc/20047557,2004,20,championship
+Nottingham Forest,West Bromwich Albion,0-3,https://www.besoccer.com/match/nottingham-forest-fc/west-bromwich/20047546,2004,21,championship
+Norwich City,Crewe Alexandra,1-0,https://www.besoccer.com/match/norwich-city-fc/crewe-alexandra/20047547,2004,21,championship
+Gillingham,Stoke City,3-1,https://www.besoccer.com/match/gillingham/stoke-city/20047548,2004,21,championship
+Derby County,Wimbledon FC,3-1,https://www.besoccer.com/match/derby-county-fc/wimbledon-fc/20047549,2004,21,championship
+Crystal Palace,Coventry City,1-1,https://www.besoccer.com/match/crystal-palace-fc/coventry-city/20047550,2004,21,championship
+Cardiff City,Ipswich Town,2-3,https://www.besoccer.com/match/cardiff-city-fc/ipswich-town-fc/20047551,2004,21,championship
+West Ham,Wigan Athletic,4-0,https://www.besoccer.com/match/west-ham-united/wigan-athletic/20047552,2004,21,championship
+Sunderland,Burnley,1-1,https://www.besoccer.com/match/sunderland-afc/burnley-fc/20047553,2004,21,championship
+Sheffield United,Preston North End,2-0,https://www.besoccer.com/match/sheffield-united/preston-north-end/20047554,2004,21,championship
+Rotherham United,Walsall,2-0,https://www.besoccer.com/match/rotherham-united/walsall/20047555,2004,21,championship
+Reading,Watford,2-1,https://www.besoccer.com/match/reading-fc/watford-fc/20047556,2004,21,championship
+Bradford City,Millwall,3-2,https://www.besoccer.com/match/bradford-city/millwall-fc/20047545,2004,21,championship
+Millwall,Norwich City,0-0,https://www.besoccer.com/match/millwall-fc/norwich-city-fc/20047534,2004,22,championship
+Ipswich Town,Derby County,2-1,https://www.besoccer.com/match/ipswich-town-fc/derby-county-fc/20047535,2004,22,championship
+Crewe Alexandra,Gillingham,1-1,https://www.besoccer.com/match/crewe-alexandra/gillingham/20047536,2004,22,championship
+Wimbledon FC,Rotherham United,1-2,https://www.besoccer.com/match/wimbledon-fc/rotherham-united/20047537,2004,22,championship
+Burnley,Sheffield United,3-2,https://www.besoccer.com/match/burnley-fc/sheffield-united/20047538,2004,22,championship
+Wigan Athletic,Reading,0-2,https://www.besoccer.com/match/wigan-athletic/reading-fc/20047539,2004,22,championship
+West Bromwich Albion,West Ham,1-1,https://www.besoccer.com/match/west-bromwich/west-ham-united/20047540,2004,22,championship
+Watford,Nottingham Forest,1-1,https://www.besoccer.com/match/watford-fc/nottingham-forest-fc/20047541,2004,22,championship
+Walsall,Bradford City,1-0,https://www.besoccer.com/match/walsall/bradford-city/20047542,2004,22,championship
+Stoke City,Cardiff City,2-3,https://www.besoccer.com/match/stoke-city/cardiff-city-fc/20047543,2004,22,championship
+Preston North End,Crystal Palace,4-1,https://www.besoccer.com/match/preston-north-end/crystal-palace-fc/20047544,2004,22,championship
+Coventry City,Sunderland,1-1,https://www.besoccer.com/match/coventry-city/sunderland-afc/20047533,2004,22,championship
+Millwall,Ipswich Town,0-0,https://www.besoccer.com/match/millwall-fc/ipswich-town-fc/20047522,2004,23,championship
+Gillingham,Preston North End,0-1,https://www.besoccer.com/match/gillingham/preston-north-end/20047523,2004,23,championship
+Crystal Palace,Nottingham Forest,1-0,https://www.besoccer.com/match/crystal-palace-fc/nottingham-forest-fc/20047524,2004,23,championship
+Wimbledon FC,Walsall,0-1,https://www.besoccer.com/match/wimbledon-fc/walsall/20047525,2004,23,championship
+Burnley,Coventry City,1-2,https://www.besoccer.com/match/burnley-fc/coventry-city/20047526,2004,23,championship
+Wigan Athletic,Bradford City,1-0,https://www.besoccer.com/match/wigan-athletic/bradford-city/20047527,2004,23,championship
+West Ham,Sunderland,3-2,https://www.besoccer.com/match/west-ham-united/sunderland-afc/20047528,2004,23,championship
+West Bromwich Albion,Crewe Alexandra,2-2,https://www.besoccer.com/match/west-bromwich/crewe-alexandra/20047529,2004,23,championship
+Stoke City,Reading,3-0,https://www.besoccer.com/match/stoke-city/reading-fc/20047530,2004,23,championship
+Rotherham United,Derby County,0-0,https://www.besoccer.com/match/rotherham-united/derby-county-fc/20047531,2004,23,championship
+Norwich City,Cardiff City,4-1,https://www.besoccer.com/match/norwich-city-fc/cardiff-city-fc/20047532,2004,23,championship
+Sheffield United,Watford,2-2,https://www.besoccer.com/match/sheffield-united/watford-fc/20047521,2004,23,championship
+Cardiff City,Millwall,1-3,https://www.besoccer.com/match/cardiff-city-fc/millwall-fc/20047519,2004,24,championship
+Preston North End,Burnley,5-3,https://www.besoccer.com/match/preston-north-end/burnley-fc/20047520,2004,24,championship
+Coventry City,West Bromwich Albion,1-0,https://www.besoccer.com/match/coventry-city/west-bromwich/20047513,2004,24,championship
+Watford,Stoke City,1-3,https://www.besoccer.com/match/watford-fc/stoke-city/20047514,2004,24,championship
+Bradford City,Rotherham United,0-2,https://www.besoccer.com/match/bradford-city/rotherham-united/20047515,2004,24,championship
+Walsall,West Ham,1-1,https://www.besoccer.com/match/walsall/west-ham-united/20047516,2004,24,championship
+Sunderland,Wimbledon FC,2-1,https://www.besoccer.com/match/sunderland-afc/wimbledon-fc/20047517,2004,24,championship
+Crewe Alexandra,Wigan Athletic,2-3,https://www.besoccer.com/match/crewe-alexandra/wigan-athletic/20047518,2004,24,championship
+Reading,Crystal Palace,0-3,https://www.besoccer.com/match/reading-fc/crystal-palace-fc/20047512,2004,24,championship
+Ipswich Town,Norwich City,0-2,https://www.besoccer.com/match/ipswich-town-fc/norwich-city-fc/20047511,2004,24,championship
+Derby County,Sheffield United,2-0,https://www.besoccer.com/match/derby-county-fc/sheffield-united/20047510,2004,24,championship
+Nottingham Forest,Gillingham,0-0,https://www.besoccer.com/match/nottingham-forest-fc/gillingham/20047509,2004,24,championship
+West Ham,Ipswich Town,1-2,https://www.besoccer.com/match/west-ham-united/ipswich-town-fc/20047507,2004,25,championship
+Cardiff City,Walsall,0-1,https://www.besoccer.com/match/cardiff-city-fc/walsall/20047506,2004,25,championship
+Crystal Palace,Millwall,0-1,https://www.besoccer.com/match/crystal-palace-fc/millwall-fc/20047508,2004,25,championship
+Wigan Athletic,Rotherham United,1-2,https://www.besoccer.com/match/wigan-athletic/rotherham-united/20047498,2004,25,championship
+West Bromwich Albion,Derby County,1-1,https://www.besoccer.com/match/west-bromwich/derby-county-fc/20047499,2004,25,championship
+Sunderland,Bradford City,3-0,https://www.besoccer.com/match/sunderland-afc/bradford-city/20047500,2004,25,championship
+Stoke City,Preston North End,1-1,https://www.besoccer.com/match/stoke-city/preston-north-end/20047501,2004,25,championship
+Reading,Wimbledon FC,0-3,https://www.besoccer.com/match/reading-fc/wimbledon-fc/20047502,2004,25,championship
+Gillingham,Watford,1-0,https://www.besoccer.com/match/gillingham/watford-fc/20047503,2004,25,championship
+Crewe Alexandra,Burnley,3-1,https://www.besoccer.com/match/crewe-alexandra/burnley-fc/20047504,2004,25,championship
+Coventry City,Sheffield United,0-1,https://www.besoccer.com/match/coventry-city/sheffield-united/20047505,2004,25,championship
+Norwich City,Nottingham Forest,1-0,https://www.besoccer.com/match/norwich-city-fc/nottingham-forest-fc/20047497,2004,25,championship
+Nottingham Forest,West Ham,0-2,https://www.besoccer.com/match/nottingham-forest-fc/west-ham-united/20047496,2004,26,championship
+Watford,Cardiff City,2-1,https://www.besoccer.com/match/watford-fc/cardiff-city-fc/20047495,2004,26,championship
+Walsall,Reading,1-1,https://www.besoccer.com/match/walsall/reading-fc/20047486,2004,26,championship
+Sheffield United,Wigan Athletic,1-1,https://www.besoccer.com/match/sheffield-united/wigan-athletic/20047487,2004,26,championship
+Rotherham United,Sunderland,0-2,https://www.besoccer.com/match/rotherham-united/sunderland-afc/20047488,2004,26,championship
+Preston North End,Crewe Alexandra,0-0,https://www.besoccer.com/match/preston-north-end/crewe-alexandra/20047489,2004,26,championship
+Millwall,Gillingham,1-2,https://www.besoccer.com/match/millwall-fc/gillingham/20047490,2004,26,championship
+Ipswich Town,Crystal Palace,1-3,https://www.besoccer.com/match/ipswich-town-fc/crystal-palace-fc/20047491,2004,26,championship
+Derby County,Norwich City,0-4,https://www.besoccer.com/match/derby-county-fc/norwich-city-fc/20047492,2004,26,championship
+Burnley,Stoke City,0-1,https://www.besoccer.com/match/burnley-fc/stoke-city/20047493,2004,26,championship
+Bradford City,Coventry City,1-0,https://www.besoccer.com/match/bradford-city/coventry-city/20047494,2004,26,championship
+Wimbledon FC,West Bromwich Albion,0-0,https://www.besoccer.com/match/wimbledon-fc/west-bromwich/20047485,2004,26,championship
+West Bromwich Albion,Walsall,2-0,https://www.besoccer.com/match/west-bromwich/walsall/20047484,2004,27,championship
+Sunderland,Nottingham Forest,1-0,https://www.besoccer.com/match/sunderland-afc/nottingham-forest-fc/20047474,2004,27,championship
+Stoke City,Derby County,2-1,https://www.besoccer.com/match/stoke-city/derby-county-fc/20047475,2004,27,championship
+Reading,Ipswich Town,1-1,https://www.besoccer.com/match/reading-fc/ipswich-town-fc/20047476,2004,27,championship
+Norwich City,Bradford City,0-1,https://www.besoccer.com/match/norwich-city-fc/bradford-city/20047477,2004,27,championship
+Crystal Palace,Burnley,0-0,https://www.besoccer.com/match/crystal-palace-fc/burnley-fc/20047478,2004,27,championship
+Crewe Alexandra,Wimbledon FC,1-0,https://www.besoccer.com/match/crewe-alexandra/wimbledon-fc/20047479,2004,27,championship
+Coventry City,Watford,0-0,https://www.besoccer.com/match/coventry-city/watford-fc/20047480,2004,27,championship
+Wigan Athletic,Millwall,0-0,https://www.besoccer.com/match/wigan-athletic/millwall-fc/20047481,2004,27,championship
+Cardiff City,Rotherham United,3-2,https://www.besoccer.com/match/cardiff-city-fc/rotherham-united/20047482,2004,27,championship
+West Ham,Preston North End,1-2,https://www.besoccer.com/match/west-ham-united/preston-north-end/20047483,2004,27,championship
+Gillingham,Sheffield United,0-3,https://www.besoccer.com/match/gillingham/sheffield-united/20047473,2004,27,championship
+Preston North End,Wigan Athletic,2-4,https://www.besoccer.com/match/preston-north-end/wigan-athletic/20047472,2004,28,championship
+Rotherham United,Norwich City,4-4,https://www.besoccer.com/match/rotherham-united/norwich-city-fc/20047462,2004,28,championship
+Nottingham Forest,Reading,0-1,https://www.besoccer.com/match/nottingham-forest-fc/reading-fc/20047463,2004,28,championship
+Millwall,Sunderland,2-1,https://www.besoccer.com/match/millwall-fc/sunderland-afc/20047464,2004,28,championship
+Ipswich Town,Crewe Alexandra,6-4,https://www.besoccer.com/match/ipswich-town-fc/crewe-alexandra/20047465,2004,28,championship
+Derby County,Gillingham,2-1,https://www.besoccer.com/match/derby-county-fc/gillingham/20047466,2004,28,championship
+Burnley,West Bromwich Albion,1-1,https://www.besoccer.com/match/burnley-fc/west-bromwich/20047467,2004,28,championship
+Wimbledon FC,Stoke City,0-1,https://www.besoccer.com/match/wimbledon-fc/stoke-city/20047468,2004,28,championship
+Bradford City,Cardiff City,0-1,https://www.besoccer.com/match/bradford-city/cardiff-city-fc/20047469,2004,28,championship
+Watford,Crystal Palace,1-5,https://www.besoccer.com/match/watford-fc/crystal-palace-fc/20047470,2004,28,championship
+Walsall,Coventry City,1-6,https://www.besoccer.com/match/walsall/coventry-city/20047471,2004,28,championship
+Sheffield United,West Ham,3-3,https://www.besoccer.com/match/sheffield-united/west-ham-united/20047461,2004,28,championship
+Reading,Derby County,3-1,https://www.besoccer.com/match/reading-fc/derby-county-fc/20047450,2004,29,championship
+Norwich City,Sheffield United,1-0,https://www.besoccer.com/match/norwich-city-fc/sheffield-united/20047451,2004,29,championship
+Gillingham,Bradford City,1-0,https://www.besoccer.com/match/gillingham/bradford-city/20047452,2004,29,championship
+Crewe Alexandra,Millwall,1-2,https://www.besoccer.com/match/crewe-alexandra/millwall-fc/20047454,2004,29,championship
+Coventry City,Ipswich Town,1-1,https://www.besoccer.com/match/coventry-city/ipswich-town-fc/20047455,2004,29,championship
+Stoke City,Walsall,3-2,https://www.besoccer.com/match/stoke-city/walsall/20047456,2004,29,championship
+Cardiff City,Nottingham Forest,0-0,https://www.besoccer.com/match/cardiff-city-fc/nottingham-forest-fc/20047457,2004,29,championship
+Wigan Athletic,Burnley,0-0,https://www.besoccer.com/match/wigan-athletic/burnley-fc/20047458,2004,29,championship
+West Ham,Rotherham United,2-1,https://www.besoccer.com/match/west-ham-united/rotherham-united/20047459,2004,29,championship
+West Bromwich Albion,Watford,3-1,https://www.besoccer.com/match/west-bromwich/watford-fc/20047460,2004,29,championship
+Crystal Palace,Wimbledon FC,3-1,https://www.besoccer.com/match/crystal-palace-fc/wimbledon-fc/20047453,2004,29,championship
+Sunderland,Preston North End,3-3,https://www.besoccer.com/match/sunderland-afc/preston-north-end/20047449,2004,29,championship
+Derby County,Cardiff City,2-2,https://www.besoccer.com/match/derby-county-fc/cardiff-city-fc/20047448,2004,30,championship
+Millwall,Stoke City,1-1,https://www.besoccer.com/match/millwall-fc/stoke-city/20047438,2004,30,championship
+Burnley,Gillingham,1-0,https://www.besoccer.com/match/burnley-fc/gillingham/20047439,2004,30,championship
+Wimbledon FC,Norwich City,0-1,https://www.besoccer.com/match/wimbledon-fc/norwich-city-fc/20047440,2004,30,championship
+Bradford City,West Ham,1-2,https://www.besoccer.com/match/bradford-city/west-ham-united/20047441,2004,30,championship
+Watford,Sunderland,2-2,https://www.besoccer.com/match/watford-fc/sunderland-afc/20047442,2004,30,championship
+Walsall,Crewe Alexandra,1-1,https://www.besoccer.com/match/walsall/crewe-alexandra/20047443,2004,30,championship
+Sheffield United,Crystal Palace,0-3,https://www.besoccer.com/match/sheffield-united/crystal-palace-fc/20047444,2004,30,championship
+Rotherham United,Reading,5-1,https://www.besoccer.com/match/rotherham-united/reading-fc/20047445,2004,30,championship
+Preston North End,West Bromwich Albion,3-0,https://www.besoccer.com/match/preston-north-end/west-bromwich/20047446,2004,30,championship
+Nottingham Forest,Coventry City,0-1,https://www.besoccer.com/match/nottingham-forest-fc/coventry-city/20047447,2004,30,championship
+Ipswich Town,Wigan Athletic,1-3,https://www.besoccer.com/match/ipswich-town-fc/wigan-athletic/20047437,2004,30,championship
+West Bromwich Albion,Cardiff City,2-1,https://www.besoccer.com/match/west-bromwich/cardiff-city-fc/20047436,2004,31,championship
+Watford,Preston North End,2-0,https://www.besoccer.com/match/watford-fc/preston-north-end/20047431,2004,31,championship
+Wigan Athletic,Derby County,2-0,https://www.besoccer.com/match/wigan-athletic/derby-county-fc/20047430,2004,31,championship
+Coventry City,Norwich City,0-2,https://www.besoccer.com/match/coventry-city/norwich-city-fc/20047432,2004,31,championship
+Nottingham Forest,Walsall,3-3,https://www.besoccer.com/match/nottingham-forest-fc/walsall/20047433,2004,31,championship
+Ipswich Town,Bradford City,3-1,https://www.besoccer.com/match/ipswich-town-fc/bradford-city/20047434,2004,31,championship
+Crystal Palace,Stoke City,6-3,https://www.besoccer.com/match/crystal-palace-fc/stoke-city/20047435,2004,31,championship
+Millwall,Rotherham United,2-1,https://www.besoccer.com/match/millwall-fc/rotherham-united/20047428,2004,31,championship
+Crewe Alexandra,Sheffield United,0-1,https://www.besoccer.com/match/crewe-alexandra/sheffield-united/20047429,2004,31,championship
+Reading,Burnley,2-2,https://www.besoccer.com/match/reading-fc/burnley-fc/20047427,2004,31,championship
+West Ham,Wimbledon FC,5-0,https://www.besoccer.com/match/west-ham-united/wimbledon-fc/20047426,2004,31,championship
+Sunderland,Gillingham,2-1,https://www.besoccer.com/match/sunderland-afc/gillingham/20047425,2004,31,championship
+Cardiff City,Sunderland,4-0,https://www.besoccer.com/match/cardiff-city-fc/sunderland-afc/20047413,2004,32,championship
+Burnley,Ipswich Town,4-2,https://www.besoccer.com/match/burnley-fc/ipswich-town-fc/20047414,2004,32,championship
+Wimbledon FC,Coventry City,0-3,https://www.besoccer.com/match/wimbledon-fc/coventry-city/20047415,2004,32,championship
+Bradford City,Crewe Alexandra,2-1,https://www.besoccer.com/match/bradford-city/crewe-alexandra/20047416,2004,32,championship
+Walsall,Watford,0-1,https://www.besoccer.com/match/walsall/watford-fc/20047417,2004,32,championship
+Stoke City,Wigan Athletic,1-1,https://www.besoccer.com/match/stoke-city/wigan-athletic/20047418,2004,32,championship
+Sheffield United,West Bromwich Albion,1-2,https://www.besoccer.com/match/sheffield-united/west-bromwich/20047419,2004,32,championship
+Rotherham United,Nottingham Forest,1-1,https://www.besoccer.com/match/rotherham-united/nottingham-forest-fc/20047420,2004,32,championship
+Preston North End,Millwall,1-2,https://www.besoccer.com/match/preston-north-end/millwall-fc/20047421,2004,32,championship
+Norwich City,West Ham,1-1,https://www.besoccer.com/match/norwich-city-fc/west-ham-united/20047422,2004,32,championship
+Gillingham,Reading,0-1,https://www.besoccer.com/match/gillingham/reading-fc/20047423,2004,32,championship
+Derby County,Crystal Palace,2-1,https://www.besoccer.com/match/derby-county-fc/crystal-palace-fc/20047424,2004,32,championship
+Wigan Athletic,Walsall,1-0,https://www.besoccer.com/match/wigan-athletic/walsall/20047403,2004,33,championship
+Coventry City,Derby County,2-0,https://www.besoccer.com/match/coventry-city/derby-county-fc/20047404,2004,33,championship
+West Ham,Cardiff City,1-0,https://www.besoccer.com/match/west-ham-united/cardiff-city-fc/20047405,2004,33,championship
+West Bromwich Albion,Rotherham United,0-1,https://www.besoccer.com/match/west-bromwich/rotherham-united/20047406,2004,33,championship
+Watford,Wimbledon FC,4-0,https://www.besoccer.com/match/watford-fc/wimbledon-fc/20047407,2004,33,championship
+Reading,Sheffield United,2-1,https://www.besoccer.com/match/reading-fc/sheffield-united/20047408,2004,33,championship
+Nottingham Forest,Bradford City,2-1,https://www.besoccer.com/match/nottingham-forest-fc/bradford-city/20047409,2004,33,championship
+Millwall,Burnley,2-0,https://www.besoccer.com/match/millwall-fc/burnley-fc/20047410,2004,33,championship
+Ipswich Town,Preston North End,2-0,https://www.besoccer.com/match/ipswich-town-fc/preston-north-end/20047411,2004,33,championship
+Crystal Palace,Gillingham,1-0,https://www.besoccer.com/match/crystal-palace-fc/gillingham/20047412,2004,33,championship
+Crewe Alexandra,Stoke City,2-0,https://www.besoccer.com/match/crewe-alexandra/stoke-city/20047402,2004,33,championship
+Sunderland,Norwich City,1-0,https://www.besoccer.com/match/sunderland-afc/norwich-city-fc/20047401,2004,33,championship
+Preston North End,Reading,2-1,https://www.besoccer.com/match/preston-north-end/reading-fc/20047395,2004,34,championship
+Sheffield United,Millwall,2-1,https://www.besoccer.com/match/sheffield-united/millwall-fc/20047394,2004,34,championship
+Norwich City,West Bromwich Albion,0-0,https://www.besoccer.com/match/norwich-city-fc/west-bromwich/20047396,2004,34,championship
+Cardiff City,Coventry City,0-1,https://www.besoccer.com/match/cardiff-city-fc/coventry-city/20047397,2004,34,championship
+Burnley,West Ham,1-1,https://www.besoccer.com/match/burnley-fc/west-ham-united/20047398,2004,34,championship
+Wimbledon FC,Nottingham Forest,0-1,https://www.besoccer.com/match/wimbledon-fc/nottingham-forest-fc/20047399,2004,34,championship
+Stoke City,Ipswich Town,2-0,https://www.besoccer.com/match/stoke-city/ipswich-town-fc/20047400,2004,34,championship
+Derby County,Crewe Alexandra,0-0,https://www.besoccer.com/match/derby-county-fc/crewe-alexandra/20047392,2004,34,championship
+Walsall,Sunderland,1-3,https://www.besoccer.com/match/walsall/sunderland-afc/20047393,2004,34,championship
+Bradford City,Watford,2-0,https://www.besoccer.com/match/bradford-city/watford-fc/20047391,2004,34,championship
+Rotherham United,Crystal Palace,1-2,https://www.besoccer.com/match/rotherham-united/crystal-palace-fc/20047389,2004,34,championship
+Gillingham,Wigan Athletic,0-3,https://www.besoccer.com/match/gillingham/wigan-athletic/20047390,2004,34,championship
+Rotherham United,Bradford City,1-2,https://www.besoccer.com/match/rotherham-united/bradford-city/20047381,2004,35,championship
+Gillingham,Nottingham Forest,2-1,https://www.besoccer.com/match/gillingham/nottingham-forest-fc/20047382,2004,35,championship
+Crystal Palace,Reading,2-2,https://www.besoccer.com/match/crystal-palace-fc/reading-fc/20047383,2004,35,championship
+Wigan Athletic,Crewe Alexandra,2-3,https://www.besoccer.com/match/wigan-athletic/crewe-alexandra/20047384,2004,35,championship
+West Ham,Walsall,0-0,https://www.besoccer.com/match/west-ham-united/walsall/20047385,2004,35,championship
+West Bromwich Albion,Coventry City,3-0,https://www.besoccer.com/match/west-bromwich/coventry-city/20047386,2004,35,championship
+Burnley,Preston North End,1-1,https://www.besoccer.com/match/burnley-fc/preston-north-end/20047387,2004,35,championship
+Stoke City,Watford,3-1,https://www.besoccer.com/match/stoke-city/watford-fc/20047388,2004,35,championship
+Norwich City,Ipswich Town,3-1,https://www.besoccer.com/match/norwich-city-fc/ipswich-town-fc/20047380,2004,35,championship
+Sheffield United,Derby County,1-1,https://www.besoccer.com/match/sheffield-united/derby-county-fc/20047379,2004,35,championship
+Wimbledon FC,Sunderland,1-2,https://www.besoccer.com/match/wimbledon-fc/sunderland-afc/20047378,2004,35,championship
+Millwall,Cardiff City,0-0,https://www.besoccer.com/match/millwall-fc/cardiff-city-fc/20047377,2004,35,championship
+Preston North End,Gillingham,0-0,https://www.besoccer.com/match/preston-north-end/gillingham/20047366,2004,36,championship
+Nottingham Forest,Crystal Palace,3-2,https://www.besoccer.com/match/nottingham-forest-fc/crystal-palace-fc/20047367,2004,36,championship
+Ipswich Town,Millwall,1-3,https://www.besoccer.com/match/ipswich-town-fc/millwall-fc/20047368,2004,36,championship
+Derby County,Rotherham United,1-0,https://www.besoccer.com/match/derby-county-fc/rotherham-united/20047369,2004,36,championship
+Coventry City,Burnley,4-0,https://www.besoccer.com/match/coventry-city/burnley-fc/20047370,2004,36,championship
+Cardiff City,Norwich City,2-1,https://www.besoccer.com/match/cardiff-city-fc/norwich-city-fc/20047371,2004,36,championship
+Watford,Sheffield United,0-2,https://www.besoccer.com/match/watford-fc/sheffield-united/20047372,2004,36,championship
+Bradford City,Wigan Athletic,0-0,https://www.besoccer.com/match/bradford-city/wigan-athletic/20047373,2004,36,championship
+Walsall,Wimbledon FC,1-0,https://www.besoccer.com/match/walsall/wimbledon-fc/20047374,2004,36,championship
+Sunderland,West Ham,2-0,https://www.besoccer.com/match/sunderland-afc/west-ham-united/20047375,2004,36,championship
+Reading,Stoke City,0-0,https://www.besoccer.com/match/reading-fc/stoke-city/20047376,2004,36,championship
+Crewe Alexandra,West Bromwich Albion,1-2,https://www.besoccer.com/match/crewe-alexandra/west-bromwich/20047365,2004,36,championship
+Bradford City,Crystal Palace,1-2,https://www.besoccer.com/match/bradford-city/crystal-palace-fc/20047364,2004,37,championship
+Walsall,Ipswich Town,1-3,https://www.besoccer.com/match/walsall/ipswich-town-fc/20047359,2004,37,championship
+Watford,Derby County,2-1,https://www.besoccer.com/match/watford-fc/derby-county-fc/20047358,2004,37,championship
+Rotherham United,Sheffield United,1-1,https://www.besoccer.com/match/rotherham-united/sheffield-united/20047360,2004,37,championship
+Norwich City,Gillingham,3-0,https://www.besoccer.com/match/norwich-city-fc/gillingham/20047361,2004,37,championship
+Cardiff City,Reading,2-3,https://www.besoccer.com/match/cardiff-city-fc/reading-fc/20047362,2004,37,championship
+West Bromwich Albion,Wigan Athletic,2-1,https://www.besoccer.com/match/west-bromwich/wigan-athletic/20047363,2004,37,championship
+Sunderland,Stoke City,1-1,https://www.besoccer.com/match/sunderland-afc/stoke-city/20047357,2004,37,championship
+West Ham,Crewe Alexandra,4-2,https://www.besoccer.com/match/west-ham-united/crewe-alexandra/20047354,2004,37,championship
+Nottingham Forest,Burnley,1-1,https://www.besoccer.com/match/nottingham-forest-fc/burnley-fc/20047355,2004,37,championship
+Coventry City,Preston North End,4-1,https://www.besoccer.com/match/coventry-city/preston-north-end/20047356,2004,37,championship
+Wimbledon FC,Millwall,0-1,https://www.besoccer.com/match/wimbledon-fc/millwall-fc/20047353,2004,37,championship
+Ipswich Town,Watford,4-1,https://www.besoccer.com/match/ipswich-town-fc/watford-fc/20047352,2004,38,championship
+Gillingham,Rotherham United,2-0,https://www.besoccer.com/match/gillingham/rotherham-united/20047344,2004,38,championship
+Derby County,Nottingham Forest,4-2,https://www.besoccer.com/match/derby-county-fc/nottingham-forest-fc/20047345,2004,38,championship
+Crystal Palace,Norwich City,1-0,https://www.besoccer.com/match/crystal-palace-fc/norwich-city-fc/20047346,2004,38,championship
+Crewe Alexandra,Cardiff City,0-1,https://www.besoccer.com/match/crewe-alexandra/cardiff-city-fc/20047347,2004,38,championship
+Wigan Athletic,Coventry City,2-1,https://www.besoccer.com/match/wigan-athletic/coventry-city/20047348,2004,38,championship
+Sheffield United,Bradford City,2-0,https://www.besoccer.com/match/sheffield-united/bradford-city/20047349,2004,38,championship
+Reading,Sunderland,0-2,https://www.besoccer.com/match/reading-fc/sunderland-afc/20047350,2004,38,championship
+Preston North End,Walsall,1-2,https://www.besoccer.com/match/preston-north-end/walsall/20047351,2004,38,championship
+Millwall,West Ham,4-1,https://www.besoccer.com/match/millwall-fc/west-ham-united/20047343,2004,38,championship
+Burnley,Wimbledon FC,2-0,https://www.besoccer.com/match/burnley-fc/wimbledon-fc/20047342,2004,38,championship
+Stoke City,West Bromwich Albion,4-1,https://www.besoccer.com/match/stoke-city/west-bromwich/20047341,2004,38,championship
+Norwich City,Stoke City,1-0,https://www.besoccer.com/match/norwich-city-fc/stoke-city/20047330,2004,39,championship
+Coventry City,Reading,1-2,https://www.besoccer.com/match/coventry-city/reading-fc/20047331,2004,39,championship
+Wimbledon FC,Ipswich Town,1-2,https://www.besoccer.com/match/wimbledon-fc/ipswich-town-fc/20047332,2004,39,championship
+Bradford City,Burnley,1-2,https://www.besoccer.com/match/bradford-city/burnley-fc/20047333,2004,39,championship
+West Ham,Gillingham,2-1,https://www.besoccer.com/match/west-ham-united/gillingham/20047334,2004,39,championship
+West Bromwich Albion,Crystal Palace,2-0,https://www.besoccer.com/match/west-bromwich/crystal-palace-fc/20047335,2004,39,championship
+Watford,Wigan Athletic,1-1,https://www.besoccer.com/match/watford-fc/wigan-athletic/20047336,2004,39,championship
+Walsall,Millwall,1-1,https://www.besoccer.com/match/walsall/millwall-fc/20047337,2004,39,championship
+Sunderland,Derby County,2-1,https://www.besoccer.com/match/sunderland-afc/derby-county-fc/20047338,2004,39,championship
+Rotherham United,Preston North End,1-0,https://www.besoccer.com/match/rotherham-united/preston-north-end/20047339,2004,39,championship
+Nottingham Forest,Crewe Alexandra,2-0,https://www.besoccer.com/match/nottingham-forest-fc/crewe-alexandra/20047340,2004,39,championship
+Cardiff City,Sheffield United,2-1,https://www.besoccer.com/match/cardiff-city-fc/sheffield-united/20047329,2004,39,championship
+Reading,West Ham,2-0,https://www.besoccer.com/match/reading-fc/west-ham-united/20047328,2004,40,championship
+Crewe Alexandra,Rotherham United,0-0,https://www.besoccer.com/match/crewe-alexandra/rotherham-united/20047320,2004,40,championship
+Wigan Athletic,Wimbledon FC,0-1,https://www.besoccer.com/match/wigan-athletic/wimbledon-fc/20047321,2004,40,championship
+Burnley,Norwich City,3-5,https://www.besoccer.com/match/burnley-fc/norwich-city-fc/20047322,2004,40,championship
+Stoke City,Coventry City,1-0,https://www.besoccer.com/match/stoke-city/coventry-city/20047323,2004,40,championship
+Sheffield United,Nottingham Forest,1-2,https://www.besoccer.com/match/sheffield-united/nottingham-forest-fc/20047324,2004,40,championship
+Preston North End,Bradford City,1-0,https://www.besoccer.com/match/preston-north-end/bradford-city/20047325,2004,40,championship
+Gillingham,Cardiff City,1-2,https://www.besoccer.com/match/gillingham/cardiff-city-fc/20047326,2004,40,championship
+Derby County,Walsall,0-1,https://www.besoccer.com/match/derby-county-fc/walsall/20047327,2004,40,championship
+Ipswich Town,West Bromwich Albion,2-3,https://www.besoccer.com/match/ipswich-town-fc/west-bromwich/20047319,2004,40,championship
+Millwall,Watford,1-2,https://www.besoccer.com/match/millwall-fc/watford-fc/20047318,2004,40,championship
+Crystal Palace,Sunderland,3-0,https://www.besoccer.com/match/crystal-palace-fc/sunderland-afc/20047317,2004,40,championship
+Sunderland,Sheffield United,3-0,https://www.besoccer.com/match/sunderland-afc/sheffield-united/20047316,2004,41,championship
+Norwich City,Wigan Athletic,2-0,https://www.besoccer.com/match/norwich-city-fc/wigan-athletic/20047315,2004,41,championship
+West Ham,Derby County,0-0,https://www.besoccer.com/match/west-ham-united/derby-county-fc/20047314,2004,41,championship
+Wimbledon FC,Preston North End,3-3,https://www.besoccer.com/match/wimbledon-fc/preston-north-end/20047305,2004,41,championship
+Bradford City,Reading,2-1,https://www.besoccer.com/match/bradford-city/reading-fc/20047306,2004,41,championship
+West Bromwich Albion,Gillingham,1-0,https://www.besoccer.com/match/west-bromwich/gillingham/20047307,2004,41,championship
+Watford,Crewe Alexandra,2-1,https://www.besoccer.com/match/watford-fc/crewe-alexandra/20047308,2004,41,championship
+Walsall,Burnley,0-1,https://www.besoccer.com/match/walsall/burnley-fc/20047309,2004,41,championship
+Rotherham United,Ipswich Town,1-3,https://www.besoccer.com/match/rotherham-united/ipswich-town-fc/20047310,2004,41,championship
+Nottingham Forest,Stoke City,0-0,https://www.besoccer.com/match/nottingham-forest-fc/stoke-city/20047311,2004,41,championship
+Coventry City,Millwall,4-0,https://www.besoccer.com/match/coventry-city/millwall-fc/20047312,2004,41,championship
+Cardiff City,Crystal Palace,0-2,https://www.besoccer.com/match/cardiff-city-fc/crystal-palace-fc/20047313,2004,41,championship
+Stoke City,Rotherham United,0-2,https://www.besoccer.com/match/stoke-city/rotherham-united/20047295,2004,42,championship
+Sheffield United,Wimbledon FC,2-1,https://www.besoccer.com/match/sheffield-united/wimbledon-fc/20047296,2004,42,championship
+Preston North End,Nottingham Forest,2-2,https://www.besoccer.com/match/preston-north-end/nottingham-forest-fc/20047297,2004,42,championship
+Millwall,West Bromwich Albion,1-1,https://www.besoccer.com/match/millwall-fc/west-bromwich/20047298,2004,42,championship
+Ipswich Town,Sunderland,1-0,https://www.besoccer.com/match/ipswich-town-fc/sunderland-afc/20047299,2004,42,championship
+Gillingham,Walsall,3-0,https://www.besoccer.com/match/gillingham/walsall/20047300,2004,42,championship
+Derby County,Bradford City,3-2,https://www.besoccer.com/match/derby-county-fc/bradford-city/20047301,2004,42,championship
+Crystal Palace,West Ham,1-0,https://www.besoccer.com/match/crystal-palace-fc/west-ham-united/20047302,2004,42,championship
+Crewe Alexandra,Coventry City,3-1,https://www.besoccer.com/match/crewe-alexandra/coventry-city/20047303,2004,42,championship
+Burnley,Watford,2-3,https://www.besoccer.com/match/burnley-fc/watford-fc/20047304,2004,42,championship
+Reading,Norwich City,0-1,https://www.besoccer.com/match/reading-fc/norwich-city-fc/20047294,2004,42,championship
+Wigan Athletic,Cardiff City,3-0,https://www.besoccer.com/match/wigan-athletic/cardiff-city-fc/20047293,2004,42,championship
+Rotherham United,Watford,1-1,https://www.besoccer.com/match/rotherham-united/watford-fc/20047282,2004,43,championship
+Reading,Crewe Alexandra,1-1,https://www.besoccer.com/match/reading-fc/crewe-alexandra/20047283,2004,43,championship
+Nottingham Forest,Millwall,2-2,https://www.besoccer.com/match/nottingham-forest-fc/millwall-fc/20047284,2004,43,championship
+Norwich City,Walsall,5-0,https://www.besoccer.com/match/norwich-city-fc/walsall/20047285,2004,43,championship
+Gillingham,Ipswich Town,1-2,https://www.besoccer.com/match/gillingham/ipswich-town-fc/20047286,2004,43,championship
+Derby County,Preston North End,5-1,https://www.besoccer.com/match/derby-county-fc/preston-north-end/20047287,2004,43,championship
+Crystal Palace,Wigan Athletic,1-1,https://www.besoccer.com/match/crystal-palace-fc/wigan-athletic/20047288,2004,43,championship
+Cardiff City,Burnley,2-0,https://www.besoccer.com/match/cardiff-city-fc/burnley-fc/20047289,2004,43,championship
+West Ham,Coventry City,2-0,https://www.besoccer.com/match/west-ham-united/coventry-city/20047290,2004,43,championship
+Bradford City,Wimbledon FC,2-3,https://www.besoccer.com/match/bradford-city/wimbledon-fc/20047291,2004,43,championship
+Sheffield United,Stoke City,0-1,https://www.besoccer.com/match/sheffield-united/stoke-city/20047292,2004,43,championship
+Sunderland,West Bromwich Albion,0-1,https://www.besoccer.com/match/sunderland-afc/west-bromwich/20047281,2004,43,championship
+Wigan Athletic,Sunderland,0-0,https://www.besoccer.com/match/wigan-athletic/sunderland-afc/20047280,2004,44,championship
+Walsall,Sheffield United,0-1,https://www.besoccer.com/match/walsall/sheffield-united/20047269,2004,44,championship
+Stoke City,West Ham,0-2,https://www.besoccer.com/match/stoke-city/west-ham-united/20047270,2004,44,championship
+Preston North End,Cardiff City,2-2,https://www.besoccer.com/match/preston-north-end/cardiff-city-fc/20047271,2004,44,championship
+Millwall,Reading,0-1,https://www.besoccer.com/match/millwall-fc/reading-fc/20047272,2004,44,championship
+Ipswich Town,Nottingham Forest,1-2,https://www.besoccer.com/match/ipswich-town-fc/nottingham-forest-fc/20047273,2004,44,championship
+Crewe Alexandra,Crystal Palace,2-3,https://www.besoccer.com/match/crewe-alexandra/crystal-palace-fc/20047274,2004,44,championship
+Coventry City,Rotherham United,1-1,https://www.besoccer.com/match/coventry-city/rotherham-united/20047275,2004,44,championship
+Wimbledon FC,Gillingham,1-2,https://www.besoccer.com/match/wimbledon-fc/gillingham/20047276,2004,44,championship
+Burnley,Derby County,1-0,https://www.besoccer.com/match/burnley-fc/derby-county-fc/20047277,2004,44,championship
+West Bromwich Albion,Bradford City,2-0,https://www.besoccer.com/match/west-bromwich/bradford-city/20047278,2004,44,championship
+Watford,Norwich City,1-2,https://www.besoccer.com/match/watford-fc/norwich-city-fc/20047279,2004,44,championship
+Sheffield United,Ipswich Town,1-1,https://www.besoccer.com/match/sheffield-united/ipswich-town-fc/20047268,2004,45,championship
+Nottingham Forest,Wigan Athletic,1-0,https://www.besoccer.com/match/nottingham-forest-fc/wigan-athletic/20047258,2004,45,championship
+Norwich City,Preston North End,3-2,https://www.besoccer.com/match/norwich-city-fc/preston-north-end/20047259,2004,45,championship
+Gillingham,Coventry City,2-5,https://www.besoccer.com/match/gillingham/coventry-city/20047260,2004,45,championship
+Crystal Palace,Walsall,1-0,https://www.besoccer.com/match/crystal-palace-fc/walsall/20047261,2004,45,championship
+Cardiff City,Wimbledon FC,1-1,https://www.besoccer.com/match/cardiff-city-fc/wimbledon-fc/20047262,2004,45,championship
+West Ham,Watford,4-0,https://www.besoccer.com/match/west-ham-united/watford-fc/20047263,2004,45,championship
+Bradford City,Stoke City,0-2,https://www.besoccer.com/match/bradford-city/stoke-city/20047264,2004,45,championship
+Sunderland,Crewe Alexandra,1-1,https://www.besoccer.com/match/sunderland-afc/crewe-alexandra/20047265,2004,45,championship
+Rotherham United,Burnley,3-0,https://www.besoccer.com/match/rotherham-united/burnley-fc/20047266,2004,45,championship
+Reading,West Bromwich Albion,1-0,https://www.besoccer.com/match/reading-fc/west-bromwich/20047267,2004,45,championship
+Derby County,Millwall,2-0,https://www.besoccer.com/match/derby-county-fc/millwall-fc/20047257,2004,45,championship
+Coventry City,Crystal Palace,2-1,https://www.besoccer.com/match/coventry-city/crystal-palace-fc/20047245,2004,46,championship
+Wimbledon FC,Derby County,1-0,https://www.besoccer.com/match/wimbledon-fc/derby-county-fc/20047246,2004,46,championship
+Wigan Athletic,West Ham,1-1,https://www.besoccer.com/match/wigan-athletic/west-ham-united/20047247,2004,46,championship
+West Bromwich Albion,Nottingham Forest,0-2,https://www.besoccer.com/match/west-bromwich/nottingham-forest-fc/20047248,2004,46,championship
+Watford,Reading,1-0,https://www.besoccer.com/match/watford-fc/reading-fc/20047249,2004,46,championship
+Burnley,Sunderland,1-2,https://www.besoccer.com/match/burnley-fc/sunderland-afc/20047250,2004,46,championship
+Walsall,Rotherham United,3-2,https://www.besoccer.com/match/walsall/rotherham-united/20047251,2004,46,championship
+Stoke City,Gillingham,0-0,https://www.besoccer.com/match/stoke-city/gillingham/20047252,2004,46,championship
+Preston North End,Sheffield United,3-3,https://www.besoccer.com/match/preston-north-end/sheffield-united/20047253,2004,46,championship
+Millwall,Bradford City,1-0,https://www.besoccer.com/match/millwall-fc/bradford-city/20047254,2004,46,championship
+Ipswich Town,Cardiff City,1-1,https://www.besoccer.com/match/ipswich-town-fc/cardiff-city-fc/20047255,2004,46,championship
+Crewe Alexandra,Norwich City,1-3,https://www.besoccer.com/match/crewe-alexandra/norwich-city-fc/20047256,2004,46,championship

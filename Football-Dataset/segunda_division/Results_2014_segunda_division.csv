@@ -1,0 +1,463 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Girona,Alavés,1-0,https://www.besoccer.com/match/girona-fc/alaves/201427938,2014,1,segunda_division
+Mirandés,Barcelona B,2-1,https://www.besoccer.com/match/mirandes/barcelona-b/201427930,2014,1,segunda_division
+Hércules,Real Zaragoza,1-1,https://www.besoccer.com/match/hercules/real-zaragoza/201427931,2014,1,segunda_division
+Las Palmas,Deportivo,0-1,https://www.besoccer.com/match/ud-palmas/deportivo/201427937,2014,1,segunda_division
+Córdoba,Ponferradina,1-0,https://www.besoccer.com/match/cordoba/ponferradina-sd/201427936,2014,1,segunda_division
+Lugo,Numancia,0-0,https://www.besoccer.com/match/lugo/numancia/201427940,2014,1,segunda_division
+Alcorcón,Tenerife,1-0,https://www.besoccer.com/match/ad-alcorcon/tenerife/201427933,2014,1,segunda_division
+Real Sporting,RM Castilla,1-0,https://www.besoccer.com/match/sporting-gijon/rm-castilla/201427934,2014,1,segunda_division
+Sabadell,Mallorca,4-0,https://www.besoccer.com/match/sabadell/mallorca/201427935,2014,1,segunda_division
+Real Jaén,Eibar,1-2,https://www.besoccer.com/match/real-jaen/eibar/201427939,2014,1,segunda_division
+Real Murcia,Recreativo,2-3,https://www.besoccer.com/match/real-murcia/recreativo/201444608,2014,1,segunda_division
+Deportivo,Córdoba,0-1,https://www.besoccer.com/match/deportivo/cordoba/201427947,2014,2,segunda_division
+Real Zaragoza,Mirandés,0-0,https://www.besoccer.com/match/real-zaragoza/mirandes/201427942,2014,2,segunda_division
+Alavés,Las Palmas,1-1,https://www.besoccer.com/match/alaves/ud-palmas/201427948,2014,2,segunda_division
+Eibar,Girona,0-3,https://www.besoccer.com/match/eibar/girona-fc/201427949,2014,2,segunda_division
+Barcelona B,Lugo,2-1,https://www.besoccer.com/match/barcelona-b/lugo/201427941,2014,2,segunda_division
+RM Castilla,Alcorcón,0-1,https://www.besoccer.com/match/rm-castilla/ad-alcorcon/201427944,2014,2,segunda_division
+Tenerife,Hércules,0-0,https://www.besoccer.com/match/tenerife/hercules/201427943,2014,2,segunda_division
+Recreativo,Real Sporting,1-1,https://www.besoccer.com/match/recreativo/sporting-gijon/201427945,2014,2,segunda_division
+Ponferradina,Sabadell,2-0,https://www.besoccer.com/match/ponferradina-sd/sabadell/201427946,2014,2,segunda_division
+Numancia,Real Jaén,4-2,https://www.besoccer.com/match/numancia/real-jaen/201427950,2014,2,segunda_division
+Mallorca,Real Murcia,2-4,https://www.besoccer.com/match/mallorca/real-murcia/201444609,2014,2,segunda_division
+Hércules,RM Castilla,2-1,https://www.besoccer.com/match/hercules/rm-castilla/201427953,2014,3,segunda_division
+Las Palmas,Eibar,1-1,https://www.besoccer.com/match/ud-palmas/eibar/201427958,2014,3,segunda_division
+Girona,Numancia,2-2,https://www.besoccer.com/match/girona-fc/numancia/201427959,2014,3,segunda_division
+Barcelona B,Real Zaragoza,1-0,https://www.besoccer.com/match/barcelona-b/real-zaragoza/201427951,2014,3,segunda_division
+Real Sporting,Mallorca,3-0,https://www.besoccer.com/match/sporting-gijon/mallorca/201427955,2014,3,segunda_division
+Sabadell,Deportivo,0-3,https://www.besoccer.com/match/sabadell/deportivo/201427956,2014,3,segunda_division
+Mirandés,Tenerife,2-0,https://www.besoccer.com/match/mirandes/tenerife/201427952,2014,3,segunda_division
+Córdoba,Alavés,1-1,https://www.besoccer.com/match/cordoba/alaves/201427957,2014,3,segunda_division
+Lugo,Real Jaén,4-2,https://www.besoccer.com/match/lugo/real-jaen/201427960,2014,3,segunda_division
+Real Murcia,Ponferradina,2-2,https://www.besoccer.com/match/real-murcia/ponferradina-sd/201444610,2014,3,segunda_division
+Alcorcón,Recreativo,3-0,https://www.besoccer.com/match/ad-alcorcon/recreativo/201427954,2014,3,segunda_division
+Real Zaragoza,Lugo,0-1,https://www.besoccer.com/match/real-zaragoza/lugo/201427961,2014,4,segunda_division
+Mallorca,Alcorcón,2-1,https://www.besoccer.com/match/mallorca/ad-alcorcon/201427965,2014,4,segunda_division
+Alavés,Sabadell,1-1,https://www.besoccer.com/match/alaves/sabadell/201427967,2014,4,segunda_division
+Numancia,Las Palmas,1-1,https://www.besoccer.com/match/numancia/ud-palmas/201427969,2014,4,segunda_division
+Deportivo,Real Murcia,0-1,https://www.besoccer.com/match/deportivo/real-murcia/201444611,2014,4,segunda_division
+Ponferradina,Real Sporting,2-2,https://www.besoccer.com/match/ponferradina-sd/sporting-gijon/201427966,2014,4,segunda_division
+Tenerife,Barcelona B,2-2,https://www.besoccer.com/match/tenerife/barcelona-b/201427962,2014,4,segunda_division
+RM Castilla,Mirandés,0-1,https://www.besoccer.com/match/rm-castilla/mirandes/201427963,2014,4,segunda_division
+Eibar,Córdoba,1-0,https://www.besoccer.com/match/eibar/cordoba/201427968,2014,4,segunda_division
+Real Jaén,Girona,3-1,https://www.besoccer.com/match/real-jaen/girona-fc/201427970,2014,4,segunda_division
+Recreativo,Hércules,2-0,https://www.besoccer.com/match/recreativo/hercules/201427964,2014,4,segunda_division
+Real Zaragoza,Tenerife,3-0,https://www.besoccer.com/match/real-zaragoza/tenerife/201427971,2014,5,segunda_division
+Mirandés,Recreativo,0-3,https://www.besoccer.com/match/mirandes/recreativo/201427973,2014,5,segunda_division
+Córdoba,Numancia,3-1,https://www.besoccer.com/match/cordoba/numancia/201427978,2014,5,segunda_division
+Lugo,Girona,1-2,https://www.besoccer.com/match/lugo/girona-fc/201427980,2014,5,segunda_division
+Sabadell,Eibar,1-0,https://www.besoccer.com/match/sabadell/eibar/201427977,2014,5,segunda_division
+Barcelona B,RM Castilla,2-0,https://www.besoccer.com/match/barcelona-b/rm-castilla/201427972,2014,5,segunda_division
+Real Sporting,Deportivo,2-0,https://www.besoccer.com/match/sporting-gijon/deportivo/201427976,2014,5,segunda_division
+Hércules,Mallorca,2-2,https://www.besoccer.com/match/hercules/mallorca/201427974,2014,5,segunda_division
+Las Palmas,Real Jaén,1-0,https://www.besoccer.com/match/ud-palmas/real-jaen/201427979,2014,5,segunda_division
+Real Murcia,Alavés,2-1,https://www.besoccer.com/match/real-murcia/alaves/201444612,2014,5,segunda_division
+Alcorcón,Ponferradina,0-1,https://www.besoccer.com/match/ad-alcorcon/ponferradina-sd/201427975,2014,5,segunda_division
+Recreativo,Barcelona B,3-0,https://www.besoccer.com/match/recreativo/barcelona-b/201427983,2014,6,segunda_division
+Tenerife,Lugo,0-1,https://www.besoccer.com/match/tenerife/lugo/201427981,2014,6,segunda_division
+Numancia,Sabadell,3-1,https://www.besoccer.com/match/numancia/sabadell/201427988,2014,6,segunda_division
+Eibar,Real Murcia,0-0,https://www.besoccer.com/match/eibar/real-murcia/201444613,2014,6,segunda_division
+RM Castilla,Real Zaragoza,1-2,https://www.besoccer.com/match/rm-castilla/real-zaragoza/201427982,2014,6,segunda_division
+Alavés,Real Sporting,3-0,https://www.besoccer.com/match/alaves/sporting-gijon/201427987,2014,6,segunda_division
+Mallorca,Mirandés,1-0,https://www.besoccer.com/match/mallorca/mirandes/201427984,2014,6,segunda_division
+Ponferradina,Hércules,5-1,https://www.besoccer.com/match/ponferradina-sd/hercules/201427985,2014,6,segunda_division
+Girona,Las Palmas,0-2,https://www.besoccer.com/match/girona-fc/ud-palmas/201427990,2014,6,segunda_division
+Deportivo,Alcorcón,1-0,https://www.besoccer.com/match/deportivo/ad-alcorcon/201427986,2014,6,segunda_division
+Real Jaén,Córdoba,0-0,https://www.besoccer.com/match/real-jaen/cordoba/201427989,2014,6,segunda_division
+Real Sporting,Eibar,3-2,https://www.besoccer.com/match/sporting-gijon/eibar/201427997,2014,7,segunda_division
+Sabadell,Real Jaén,3-0,https://www.besoccer.com/match/sabadell/real-jaen/201427998,2014,7,segunda_division
+Lugo,Las Palmas,3-0,https://www.besoccer.com/match/lugo/ud-palmas/201428000,2014,7,segunda_division
+Alcorcón,Alavés,2-0,https://www.besoccer.com/match/ad-alcorcon/alaves/201427996,2014,7,segunda_division
+Hércules,Deportivo,0-2,https://www.besoccer.com/match/hercules/deportivo/201427995,2014,7,segunda_division
+Barcelona B,Mallorca,0-1,https://www.besoccer.com/match/barcelona-b/mallorca/201427993,2014,7,segunda_division
+Mirandés,Ponferradina,1-0,https://www.besoccer.com/match/mirandes/ponferradina-sd/201427994,2014,7,segunda_division
+Córdoba,Girona,2-0,https://www.besoccer.com/match/cordoba/girona-fc/201427999,2014,7,segunda_division
+Tenerife,RM Castilla,1-0,https://www.besoccer.com/match/tenerife/rm-castilla/201427991,2014,7,segunda_division
+Real Zaragoza,Recreativo,1-2,https://www.besoccer.com/match/real-zaragoza/recreativo/201427992,2014,7,segunda_division
+Real Murcia,Numancia,2-1,https://www.besoccer.com/match/real-murcia/numancia/201444614,2014,7,segunda_division
+Numancia,Real Sporting,0-0,https://www.besoccer.com/match/numancia/sporting-gijon/201428008,2014,8,segunda_division
+Las Palmas,Córdoba,2-0,https://www.besoccer.com/match/ud-palmas/cordoba/201428010,2014,8,segunda_division
+Deportivo,Mirandés,0-0,https://www.besoccer.com/match/deportivo/mirandes/201428005,2014,8,segunda_division
+Mallorca,Real Zaragoza,2-4,https://www.besoccer.com/match/mallorca/real-zaragoza/201428003,2014,8,segunda_division
+Recreativo,Tenerife,2-1,https://www.besoccer.com/match/recreativo/tenerife/201428002,2014,8,segunda_division
+Ponferradina,Barcelona B,1-0,https://www.besoccer.com/match/ponferradina-sd/barcelona-b/201428004,2014,8,segunda_division
+Eibar,Alcorcón,0-0,https://www.besoccer.com/match/eibar/ad-alcorcon/201428007,2014,8,segunda_division
+Girona,Sabadell,1-1,https://www.besoccer.com/match/girona-fc/sabadell/201428009,2014,8,segunda_division
+Real Jaén,Real Murcia,3-2,https://www.besoccer.com/match/real-jaen/real-murcia/201444615,2014,8,segunda_division
+RM Castilla,Lugo,2-0,https://www.besoccer.com/match/rm-castilla/lugo/201428001,2014,8,segunda_division
+Alavés,Hércules,3-1,https://www.besoccer.com/match/alaves/hercules/201428006,2014,8,segunda_division
+Mirandés,Alavés,2-3,https://www.besoccer.com/match/mirandes/alaves/201428015,2014,9,segunda_division
+Lugo,Córdoba,1-0,https://www.besoccer.com/match/lugo/cordoba/201428020,2014,9,segunda_division
+Real Murcia,Girona,1-0,https://www.besoccer.com/match/real-murcia/girona-fc/201444616,2014,9,segunda_division
+RM Castilla,Recreativo,1-2,https://www.besoccer.com/match/rm-castilla/recreativo/201428011,2014,9,segunda_division
+Sabadell,Las Palmas,0-0,https://www.besoccer.com/match/sabadell/ud-palmas/201428019,2014,9,segunda_division
+Barcelona B,Deportivo,0-1,https://www.besoccer.com/match/barcelona-b/deportivo/201428014,2014,9,segunda_division
+Real Sporting,Real Jaén,1-1,https://www.besoccer.com/match/sporting-gijon/real-jaen/201428018,2014,9,segunda_division
+Tenerife,Mallorca,0-1,https://www.besoccer.com/match/tenerife/mallorca/201428012,2014,9,segunda_division
+Hércules,Eibar,0-0,https://www.besoccer.com/match/hercules/eibar/201428016,2014,9,segunda_division
+Real Zaragoza,Ponferradina,2-1,https://www.besoccer.com/match/real-zaragoza/ponferradina-sd/201428013,2014,9,segunda_division
+Alcorcón,Numancia,0-1,https://www.besoccer.com/match/ad-alcorcon/numancia/201428017,2014,9,segunda_division
+Ponferradina,Tenerife,0-1,https://www.besoccer.com/match/ponferradina-sd/tenerife/201428023,2014,10,segunda_division
+Alavés,Barcelona B,2-3,https://www.besoccer.com/match/alaves/barcelona-b/201428025,2014,10,segunda_division
+Córdoba,Sabadell,1-0,https://www.besoccer.com/match/cordoba/sabadell/201428030,2014,10,segunda_division
+Recreativo,Lugo,3-3,https://www.besoccer.com/match/recreativo/lugo/201428021,2014,10,segunda_division
+Deportivo,Real Zaragoza,1-1,https://www.besoccer.com/match/deportivo/real-zaragoza/201428024,2014,10,segunda_division
+Eibar,Mirandés,1-0,https://www.besoccer.com/match/eibar/mirandes/201428026,2014,10,segunda_division
+Real Jaén,Alcorcón,1-0,https://www.besoccer.com/match/real-jaen/ad-alcorcon/201428028,2014,10,segunda_division
+Mallorca,RM Castilla,2-0,https://www.besoccer.com/match/mallorca/rm-castilla/201428022,2014,10,segunda_division
+Girona,Real Sporting,2-1,https://www.besoccer.com/match/girona-fc/sporting-gijon/201428029,2014,10,segunda_division
+Las Palmas,Real Murcia,0-0,https://www.besoccer.com/match/ud-palmas/real-murcia/201444617,2014,10,segunda_division
+Numancia,Hércules,1-1,https://www.besoccer.com/match/numancia/hercules/201428027,2014,10,segunda_division
+Real Zaragoza,Alavés,2-2,https://www.besoccer.com/match/real-zaragoza/alaves/201428034,2014,11,segunda_division
+Tenerife,Deportivo,2-0,https://www.besoccer.com/match/tenerife/deportivo/201428033,2014,11,segunda_division
+Recreativo,Mallorca,3-1,https://www.besoccer.com/match/recreativo/mallorca/201428031,2014,11,segunda_division
+Barcelona B,Eibar,0-2,https://www.besoccer.com/match/barcelona-b/eibar/201428035,2014,11,segunda_division
+Mirandés,Numancia,0-0,https://www.besoccer.com/match/mirandes/numancia/201428036,2014,11,segunda_division
+Hércules,Real Jaén,0-1,https://www.besoccer.com/match/hercules/real-jaen/201428037,2014,11,segunda_division
+Real Sporting,Las Palmas,2-3,https://www.besoccer.com/match/sporting-gijon/ud-palmas/201428039,2014,11,segunda_division
+Lugo,Sabadell,1-0,https://www.besoccer.com/match/lugo/sabadell/201428040,2014,11,segunda_division
+Real Murcia,Córdoba,2-2,https://www.besoccer.com/match/real-murcia/cordoba/201444618,2014,11,segunda_division
+RM Castilla,Ponferradina,1-1,https://www.besoccer.com/match/rm-castilla/ponferradina-sd/201428032,2014,11,segunda_division
+Alcorcón,Girona,0-0,https://www.besoccer.com/match/ad-alcorcon/girona-fc/201428038,2014,11,segunda_division
+Eibar,Real Zaragoza,3-2,https://www.besoccer.com/match/eibar/real-zaragoza/201428046,2014,12,segunda_division
+Numancia,Barcelona B,1-0,https://www.besoccer.com/match/numancia/barcelona-b/201428047,2014,12,segunda_division
+Mallorca,Lugo,0-0,https://www.besoccer.com/match/mallorca/lugo/201428041,2014,12,segunda_division
+Girona,Hércules,2-2,https://www.besoccer.com/match/girona-fc/hercules/201428049,2014,12,segunda_division
+Las Palmas,Alcorcón,1-0,https://www.besoccer.com/match/ud-palmas/ad-alcorcon/201428050,2014,12,segunda_division
+Córdoba,Real Sporting,2-2,https://www.besoccer.com/match/cordoba/sporting-gijon/201428051,2014,12,segunda_division
+Real Jaén,Mirandés,1-2,https://www.besoccer.com/match/real-jaen/mirandes/201428048,2014,12,segunda_division
+Sabadell,Real Murcia,2-1,https://www.besoccer.com/match/sabadell/real-murcia/201444619,2014,12,segunda_division
+Alavés,Tenerife,2-2,https://www.besoccer.com/match/alaves/tenerife/201428044,2014,12,segunda_division
+Deportivo,RM Castilla,2-0,https://www.besoccer.com/match/deportivo/rm-castilla/201428043,2014,12,segunda_division
+Ponferradina,Recreativo,3-1,https://www.besoccer.com/match/ponferradina-sd/recreativo/201428042,2014,12,segunda_division
+Lugo,Real Murcia,1-1,https://www.besoccer.com/match/lugo/real-murcia/201444620,2014,13,segunda_division
+Barcelona B,Real Jaén,0-3,https://www.besoccer.com/match/barcelona-b/real-jaen/201428060,2014,13,segunda_division
+Real Zaragoza,Numancia,1-2,https://www.besoccer.com/match/real-zaragoza/numancia/201428059,2014,13,segunda_division
+Alcorcón,Córdoba,0-0,https://www.besoccer.com/match/ad-alcorcon/cordoba/201428063,2014,13,segunda_division
+Hércules,Las Palmas,2-1,https://www.besoccer.com/match/hercules/ud-palmas/201428062,2014,13,segunda_division
+Recreativo,Deportivo,0-1,https://www.besoccer.com/match/recreativo/deportivo/201428053,2014,13,segunda_division
+Mallorca,Ponferradina,2-2,https://www.besoccer.com/match/mallorca/ponferradina-sd/201428052,2014,13,segunda_division
+Mirandés,Girona,1-2,https://www.besoccer.com/match/mirandes/girona-fc/201428061,2014,13,segunda_division
+Real Sporting,Sabadell,3-1,https://www.besoccer.com/match/sporting-gijon/sabadell/201428064,2014,13,segunda_division
+Tenerife,Eibar,2-0,https://www.besoccer.com/match/tenerife/eibar/201428057,2014,13,segunda_division
+RM Castilla,Alavés,1-0,https://www.besoccer.com/match/rm-castilla/alaves/201428055,2014,13,segunda_division
+Ponferradina,Lugo,0-2,https://www.besoccer.com/match/ponferradina-sd/lugo/201428065,2014,14,segunda_division
+Alavés,Recreativo,3-3,https://www.besoccer.com/match/alaves/recreativo/201428067,2014,14,segunda_division
+Girona,Barcelona B,1-2,https://www.besoccer.com/match/girona-fc/barcelona-b/201428071,2014,14,segunda_division
+Real Murcia,Real Sporting,1-1,https://www.besoccer.com/match/real-murcia/sporting-gijon/201444621,2014,14,segunda_division
+Real Jaén,Real Zaragoza,3-0,https://www.besoccer.com/match/real-jaen/real-zaragoza/201428070,2014,14,segunda_division
+Las Palmas,Mirandés,3-1,https://www.besoccer.com/match/ud-palmas/mirandes/201428072,2014,14,segunda_division
+Sabadell,Alcorcón,1-2,https://www.besoccer.com/match/sabadell/ad-alcorcon/201428074,2014,14,segunda_division
+Deportivo,Mallorca,3-1,https://www.besoccer.com/match/deportivo/mallorca/201428066,2014,14,segunda_division
+Numancia,Tenerife,0-0,https://www.besoccer.com/match/numancia/tenerife/201428069,2014,14,segunda_division
+Eibar,RM Castilla,6-0,https://www.besoccer.com/match/eibar/rm-castilla/201428068,2014,14,segunda_division
+Córdoba,Hércules,4-2,https://www.besoccer.com/match/cordoba/hercules/201428073,2014,14,segunda_division
+Mallorca,Alavés,2-1,https://www.besoccer.com/match/mallorca/alaves/201428077,2014,15,segunda_division
+RM Castilla,Numancia,0-0,https://www.besoccer.com/match/rm-castilla/numancia/201428079,2014,15,segunda_division
+Barcelona B,Las Palmas,1-2,https://www.besoccer.com/match/barcelona-b/ud-palmas/201428082,2014,15,segunda_division
+Lugo,Real Sporting,1-3,https://www.besoccer.com/match/lugo/sporting-gijon/201428085,2014,15,segunda_division
+Recreativo,Eibar,1-2,https://www.besoccer.com/match/recreativo/eibar/201428078,2014,15,segunda_division
+Real Zaragoza,Girona,1-0,https://www.besoccer.com/match/real-zaragoza/girona-fc/201428081,2014,15,segunda_division
+Mirandés,Córdoba,3-1,https://www.besoccer.com/match/mirandes/cordoba/201428083,2014,15,segunda_division
+Hércules,Sabadell,3-0,https://www.besoccer.com/match/hercules/sabadell/201428084,2014,15,segunda_division
+Tenerife,Real Jaén,2-1,https://www.besoccer.com/match/tenerife/real-jaen/201428080,2014,15,segunda_division
+Ponferradina,Deportivo,0-1,https://www.besoccer.com/match/ponferradina-sd/deportivo/201428075,2014,15,segunda_division
+Alcorcón,Real Murcia,0-0,https://www.besoccer.com/match/ad-alcorcon/real-murcia/201444622,2014,15,segunda_division
+Eibar,Mallorca,0-1,https://www.besoccer.com/match/eibar/mallorca/201428088,2014,16,segunda_division
+Córdoba,Barcelona B,1-2,https://www.besoccer.com/match/cordoba/barcelona-b/201428093,2014,16,segunda_division
+Deportivo,Lugo,0-0,https://www.besoccer.com/match/deportivo/lugo/201428086,2014,16,segunda_division
+Las Palmas,Real Zaragoza,0-1,https://www.besoccer.com/match/ud-palmas/real-zaragoza/201428092,2014,16,segunda_division
+Real Murcia,Hércules,1-2,https://www.besoccer.com/match/real-murcia/hercules/201444623,2014,16,segunda_division
+Alavés,Ponferradina,2-2,https://www.besoccer.com/match/alaves/ponferradina-sd/201428087,2014,16,segunda_division
+Girona,Tenerife,2-2,https://www.besoccer.com/match/girona-fc/tenerife/201428091,2014,16,segunda_division
+Sabadell,Mirandés,3-1,https://www.besoccer.com/match/sabadell/mirandes/201428094,2014,16,segunda_division
+Real Sporting,Alcorcón,2-2,https://www.besoccer.com/match/sporting-gijon/ad-alcorcon/201428095,2014,16,segunda_division
+Real Jaén,RM Castilla,0-1,https://www.besoccer.com/match/real-jaen/rm-castilla/201428090,2014,16,segunda_division
+Numancia,Recreativo,2-3,https://www.besoccer.com/match/numancia/recreativo/201428089,2014,16,segunda_division
+RM Castilla,Girona,3-2,https://www.besoccer.com/match/rm-castilla/girona-fc/201428100,2014,17,segunda_division
+Lugo,Alcorcón,1-2,https://www.besoccer.com/match/lugo/ad-alcorcon/201428105,2014,17,segunda_division
+Recreativo,Real Jaén,1-1,https://www.besoccer.com/match/recreativo/real-jaen/201428099,2014,17,segunda_division
+Tenerife,Las Palmas,3-0,https://www.besoccer.com/match/tenerife/ud-palmas/201428101,2014,17,segunda_division
+Barcelona B,Sabadell,2-0,https://www.besoccer.com/match/barcelona-b/sabadell/201428103,2014,17,segunda_division
+Hércules,Real Sporting,0-1,https://www.besoccer.com/match/hercules/sporting-gijon/201428104,2014,17,segunda_division
+Deportivo,Alavés,2-1,https://www.besoccer.com/match/deportivo/alaves/201428096,2014,17,segunda_division
+Mallorca,Numancia,0-0,https://www.besoccer.com/match/mallorca/numancia/201428098,2014,17,segunda_division
+Mirandés,Real Murcia,1-1,https://www.besoccer.com/match/mirandes/real-murcia/201444624,2014,17,segunda_division
+Real Zaragoza,Córdoba,2-1,https://www.besoccer.com/match/real-zaragoza/cordoba/201428102,2014,17,segunda_division
+Ponferradina,Eibar,2-1,https://www.besoccer.com/match/ponferradina-sd/eibar/201428097,2014,17,segunda_division
+Sabadell,Real Zaragoza,1-0,https://www.besoccer.com/match/sabadell/real-zaragoza/201428107,2014,18,segunda_division
+Alavés,Lugo,2-1,https://www.besoccer.com/match/alaves/lugo/201428110,2014,18,segunda_division
+Alcorcón,Hércules,0-2,https://www.besoccer.com/match/ad-alcorcon/hercules/201428109,2014,18,segunda_division
+Girona,Recreativo,1-1,https://www.besoccer.com/match/girona-fc/recreativo/201428114,2014,18,segunda_division
+Las Palmas,RM Castilla,0-2,https://www.besoccer.com/match/ud-palmas/rm-castilla/201428115,2014,18,segunda_division
+Numancia,Ponferradina,2-0,https://www.besoccer.com/match/numancia/ponferradina-sd/201428112,2014,18,segunda_division
+Eibar,Deportivo,2-1,https://www.besoccer.com/match/eibar/deportivo/201428111,2014,18,segunda_division
+Real Sporting,Mirandés,3-2,https://www.besoccer.com/match/sporting-gijon/mirandes/201428108,2014,18,segunda_division
+Real Murcia,Barcelona B,3-1,https://www.besoccer.com/match/real-murcia/barcelona-b/201444625,2014,18,segunda_division
+Córdoba,Tenerife,1-0,https://www.besoccer.com/match/cordoba/tenerife/201428116,2014,18,segunda_division
+Real Jaén,Mallorca,2-1,https://www.besoccer.com/match/real-jaen/mallorca/201428113,2014,18,segunda_division
+Lugo,Hércules,1-3,https://www.besoccer.com/match/lugo/hercules/201428127,2014,19,segunda_division
+Alavés,Eibar,0-2,https://www.besoccer.com/match/alaves/eibar/201428117,2014,19,segunda_division
+Deportivo,Numancia,3-3,https://www.besoccer.com/match/deportivo/numancia/201428118,2014,19,segunda_division
+Barcelona B,Real Sporting,2-2,https://www.besoccer.com/match/barcelona-b/sporting-gijon/201428124,2014,19,segunda_division
+RM Castilla,Córdoba,3-1,https://www.besoccer.com/match/rm-castilla/cordoba/201428122,2014,19,segunda_division
+Tenerife,Sabadell,0-3,https://www.besoccer.com/match/tenerife/sabadell/201428123,2014,19,segunda_division
+Recreativo,Las Palmas,1-3,https://www.besoccer.com/match/recreativo/ud-palmas/201428121,2014,19,segunda_division
+Ponferradina,Real Jaén,1-0,https://www.besoccer.com/match/ponferradina-sd/real-jaen/201428119,2014,19,segunda_division
+Mallorca,Girona,2-0,https://www.besoccer.com/match/mallorca/girona-fc/201428120,2014,19,segunda_division
+Real Zaragoza,Real Murcia,0-0,https://www.besoccer.com/match/real-zaragoza/real-murcia/201444626,2014,19,segunda_division
+Mirandés,Alcorcón,1-1,https://www.besoccer.com/match/mirandes/ad-alcorcon/201428125,2014,19,segunda_division
+Lugo,Eibar,0-0,https://www.besoccer.com/match/lugo/eibar/201428128,2014,20,segunda_division
+Numancia,Alavés,0-2,https://www.besoccer.com/match/numancia/alaves/201428129,2014,20,segunda_division
+Sabadell,RM Castilla,3-2,https://www.besoccer.com/match/sabadell/rm-castilla/201428135,2014,20,segunda_division
+Hércules,Mirandés,1-0,https://www.besoccer.com/match/hercules/mirandes/201428138,2014,20,segunda_division
+Real Murcia,Tenerife,1-2,https://www.besoccer.com/match/real-murcia/tenerife/201444627,2014,20,segunda_division
+Córdoba,Recreativo,2-0,https://www.besoccer.com/match/cordoba/recreativo/201428134,2014,20,segunda_division
+Las Palmas,Mallorca,2-2,https://www.besoccer.com/match/ud-palmas/mallorca/201428133,2014,20,segunda_division
+Real Sporting,Real Zaragoza,2-3,https://www.besoccer.com/match/sporting-gijon/real-zaragoza/201428136,2014,20,segunda_division
+Girona,Ponferradina,1-1,https://www.besoccer.com/match/girona-fc/ponferradina-sd/201428131,2014,20,segunda_division
+Alcorcón,Barcelona B,2-2,https://www.besoccer.com/match/ad-alcorcon/barcelona-b/201428137,2014,20,segunda_division
+Real Jaén,Deportivo,0-0,https://www.besoccer.com/match/real-jaen/deportivo/201428130,2014,20,segunda_division
+Alavés,Real Jaén,1-2,https://www.besoccer.com/match/alaves/real-jaen/201428140,2014,21,segunda_division
+Deportivo,Girona,0-0,https://www.besoccer.com/match/deportivo/girona-fc/201428141,2014,21,segunda_division
+RM Castilla,Real Murcia,2-2,https://www.besoccer.com/match/rm-castilla/real-murcia/201444628,2014,21,segunda_division
+Ponferradina,Las Palmas,0-0,https://www.besoccer.com/match/ponferradina-sd/ud-palmas/201428142,2014,21,segunda_division
+Mallorca,Córdoba,2-2,https://www.besoccer.com/match/mallorca/cordoba/201428143,2014,21,segunda_division
+Eibar,Numancia,1-2,https://www.besoccer.com/match/eibar/numancia/201428139,2014,21,segunda_division
+Recreativo,Sabadell,1-2,https://www.besoccer.com/match/recreativo/sabadell/201428144,2014,21,segunda_division
+Barcelona B,Hércules,5-0,https://www.besoccer.com/match/barcelona-b/hercules/201428147,2014,21,segunda_division
+Tenerife,Real Sporting,0-0,https://www.besoccer.com/match/tenerife/sporting-gijon/201428145,2014,21,segunda_division
+Real Zaragoza,Alcorcón,3-1,https://www.besoccer.com/match/real-zaragoza/ad-alcorcon/201428146,2014,21,segunda_division
+Mirandés,Lugo,2-0,https://www.besoccer.com/match/mirandes/lugo/201428148,2014,21,segunda_division
+RM Castilla,Real Sporting,1-2,https://www.besoccer.com/match/rm-castilla/sporting-gijon/201428150,2014,22,segunda_division
+Alavés,Girona,1-1,https://www.besoccer.com/match/alaves/girona-fc/201428154,2014,22,segunda_division
+Recreativo,Real Murcia,0-0,https://www.besoccer.com/match/recreativo/real-murcia/201444629,2014,22,segunda_division
+Tenerife,Alcorcón,0-4,https://www.besoccer.com/match/tenerife/ad-alcorcon/201428149,2014,22,segunda_division
+Deportivo,Las Palmas,1-2,https://www.besoccer.com/match/deportivo/ud-palmas/201428153,2014,22,segunda_division
+Mallorca,Sabadell,4-1,https://www.besoccer.com/match/mallorca/sabadell/201428151,2014,22,segunda_division
+Eibar,Real Jaén,2-0,https://www.besoccer.com/match/eibar/real-jaen/201428155,2014,22,segunda_division
+Numancia,Lugo,0-1,https://www.besoccer.com/match/numancia/lugo/201428156,2014,22,segunda_division
+Barcelona B,Mirandés,1-1,https://www.besoccer.com/match/barcelona-b/mirandes/201428157,2014,22,segunda_division
+Real Zaragoza,Hércules,0-0,https://www.besoccer.com/match/real-zaragoza/hercules/201428158,2014,22,segunda_division
+Ponferradina,Córdoba,0-1,https://www.besoccer.com/match/ponferradina-sd/cordoba/201428152,2014,22,segunda_division
+Girona,Eibar,1-1,https://www.besoccer.com/match/girona-fc/eibar/201428167,2014,23,segunda_division
+Mirandés,Real Zaragoza,0-1,https://www.besoccer.com/match/mirandes/real-zaragoza/201428160,2014,23,segunda_division
+Córdoba,Deportivo,0-1,https://www.besoccer.com/match/cordoba/deportivo/201428165,2014,23,segunda_division
+Lugo,Barcelona B,1-0,https://www.besoccer.com/match/lugo/barcelona-b/201428159,2014,23,segunda_division
+Las Palmas,Alavés,0-2,https://www.besoccer.com/match/ud-palmas/alaves/201428166,2014,23,segunda_division
+Real Sporting,Recreativo,0-0,https://www.besoccer.com/match/sporting-gijon/recreativo/201428163,2014,23,segunda_division
+Sabadell,Ponferradina,1-1,https://www.besoccer.com/match/sabadell/ponferradina-sd/201428164,2014,23,segunda_division
+Real Jaén,Numancia,0-0,https://www.besoccer.com/match/real-jaen/numancia/201428168,2014,23,segunda_division
+Hércules,Tenerife,2-3,https://www.besoccer.com/match/hercules/tenerife/201428161,2014,23,segunda_division
+Alcorcón,RM Castilla,0-2,https://www.besoccer.com/match/ad-alcorcon/rm-castilla/201428162,2014,23,segunda_division
+Real Murcia,Mallorca,2-2,https://www.besoccer.com/match/real-murcia/mallorca/201444630,2014,23,segunda_division
+RM Castilla,Hércules,4-0,https://www.besoccer.com/match/rm-castilla/hercules/201428171,2014,24,segunda_division
+Deportivo,Sabadell,2-1,https://www.besoccer.com/match/deportivo/sabadell/201428174,2014,24,segunda_division
+Eibar,Las Palmas,1-0,https://www.besoccer.com/match/eibar/ud-palmas/201428176,2014,24,segunda_division
+Ponferradina,Real Murcia,2-0,https://www.besoccer.com/match/ponferradina-sd/real-murcia/201444631,2014,24,segunda_division
+Mallorca,Real Sporting,1-3,https://www.besoccer.com/match/mallorca/sporting-gijon/201428173,2014,24,segunda_division
+Real Zaragoza,Barcelona B,0-2,https://www.besoccer.com/match/real-zaragoza/barcelona-b/201428169,2014,24,segunda_division
+Alavés,Córdoba,1-1,https://www.besoccer.com/match/alaves/cordoba/201428175,2014,24,segunda_division
+Numancia,Girona,0-0,https://www.besoccer.com/match/numancia/girona-fc/201428177,2014,24,segunda_division
+Real Jaén,Lugo,0-0,https://www.besoccer.com/match/real-jaen/lugo/201428178,2014,24,segunda_division
+Tenerife,Mirandés,3-0,https://www.besoccer.com/match/tenerife/mirandes/201428170,2014,24,segunda_division
+Recreativo,Alcorcón,2-1,https://www.besoccer.com/match/recreativo/ad-alcorcon/201428172,2014,24,segunda_division
+Sabadell,Alavés,0-4,https://www.besoccer.com/match/sabadell/alaves/201428185,2014,25,segunda_division
+Lugo,Real Zaragoza,1-0,https://www.besoccer.com/match/lugo/real-zaragoza/201428179,2014,25,segunda_division
+Las Palmas,Numancia,0-0,https://www.besoccer.com/match/ud-palmas/numancia/201428187,2014,25,segunda_division
+Girona,Real Jaén,1-1,https://www.besoccer.com/match/girona-fc/real-jaen/201428188,2014,25,segunda_division
+Hércules,Recreativo,1-2,https://www.besoccer.com/match/hercules/recreativo/201428182,2014,25,segunda_division
+Barcelona B,Tenerife,2-0,https://www.besoccer.com/match/barcelona-b/tenerife/201428180,2014,25,segunda_division
+Mirandés,RM Castilla,2-1,https://www.besoccer.com/match/mirandes/rm-castilla/201428181,2014,25,segunda_division
+Real Sporting,Ponferradina,1-1,https://www.besoccer.com/match/sporting-gijon/ponferradina-sd/201428184,2014,25,segunda_division
+Córdoba,Eibar,0-2,https://www.besoccer.com/match/cordoba/eibar/201428186,2014,25,segunda_division
+Real Murcia,Deportivo,1-0,https://www.besoccer.com/match/real-murcia/deportivo/201444632,2014,25,segunda_division
+Alcorcón,Mallorca,1-1,https://www.besoccer.com/match/ad-alcorcon/mallorca/201428183,2014,25,segunda_division
+Tenerife,Real Zaragoza,1-1,https://www.besoccer.com/match/tenerife/real-zaragoza/201428189,2014,26,segunda_division
+RM Castilla,Barcelona B,3-1,https://www.besoccer.com/match/rm-castilla/barcelona-b/201428190,2014,26,segunda_division
+Eibar,Sabadell,1-0,https://www.besoccer.com/match/eibar/sabadell/201428195,2014,26,segunda_division
+Mallorca,Hércules,0-1,https://www.besoccer.com/match/mallorca/hercules/201428192,2014,26,segunda_division
+Real Jaén,Las Palmas,3-0,https://www.besoccer.com/match/real-jaen/ud-palmas/201428197,2014,26,segunda_division
+Deportivo,Real Sporting,1-1,https://www.besoccer.com/match/deportivo/sporting-gijon/201428194,2014,26,segunda_division
+Ponferradina,Alcorcón,0-2,https://www.besoccer.com/match/ponferradina-sd/ad-alcorcon/201428193,2014,26,segunda_division
+Girona,Lugo,6-0,https://www.besoccer.com/match/girona-fc/lugo/201428198,2014,26,segunda_division
+Alavés,Real Murcia,0-1,https://www.besoccer.com/match/alaves/real-murcia/201444633,2014,26,segunda_division
+Recreativo,Mirandés,1-0,https://www.besoccer.com/match/recreativo/mirandes/201428191,2014,26,segunda_division
+Numancia,Córdoba,3-0,https://www.besoccer.com/match/numancia/cordoba/201428196,2014,26,segunda_division
+Real Sporting,Alavés,2-0,https://www.besoccer.com/match/sporting-gijon/alaves/201428205,2014,27,segunda_division
+Barcelona B,Recreativo,0-1,https://www.besoccer.com/match/barcelona-b/recreativo/201428201,2014,27,segunda_division
+Mirandés,Mallorca,0-0,https://www.besoccer.com/match/mirandes/mallorca/201428202,2014,27,segunda_division
+Las Palmas,Girona,2-1,https://www.besoccer.com/match/ud-palmas/girona-fc/201428208,2014,27,segunda_division
+Alcorcón,Deportivo,1-2,https://www.besoccer.com/match/ad-alcorcon/deportivo/201428204,2014,27,segunda_division
+Sabadell,Numancia,0-0,https://www.besoccer.com/match/sabadell/numancia/201428206,2014,27,segunda_division
+Hércules,Ponferradina,1-0,https://www.besoccer.com/match/hercules/ponferradina-sd/201428203,2014,27,segunda_division
+Córdoba,Real Jaén,0-0,https://www.besoccer.com/match/cordoba/real-jaen/201428207,2014,27,segunda_division
+Lugo,Tenerife,1-3,https://www.besoccer.com/match/lugo/tenerife/201428199,2014,27,segunda_division
+Real Zaragoza,RM Castilla,0-2,https://www.besoccer.com/match/real-zaragoza/rm-castilla/201428200,2014,27,segunda_division
+Real Murcia,Eibar,0-0,https://www.besoccer.com/match/real-murcia/eibar/201444634,2014,27,segunda_division
+Alavés,Alcorcón,1-0,https://www.besoccer.com/match/alaves/ad-alcorcon/201428218,2014,28,segunda_division
+Recreativo,Real Zaragoza,2-2,https://www.besoccer.com/match/recreativo/real-zaragoza/201428214,2014,28,segunda_division
+RM Castilla,Tenerife,2-2,https://www.besoccer.com/match/rm-castilla/tenerife/201428213,2014,28,segunda_division
+Mallorca,Barcelona B,1-2,https://www.besoccer.com/match/mallorca/barcelona-b/201428215,2014,28,segunda_division
+Eibar,Real Sporting,3-0,https://www.besoccer.com/match/eibar/sporting-gijon/201428209,2014,28,segunda_division
+Real Jaén,Sabadell,0-1,https://www.besoccer.com/match/real-jaen/sabadell/201428210,2014,28,segunda_division
+Girona,Córdoba,0-1,https://www.besoccer.com/match/girona-fc/cordoba/201428211,2014,28,segunda_division
+Las Palmas,Lugo,0-0,https://www.besoccer.com/match/ud-palmas/lugo/201428212,2014,28,segunda_division
+Deportivo,Hércules,3-2,https://www.besoccer.com/match/deportivo/hercules/201428217,2014,28,segunda_division
+Ponferradina,Mirandés,1-1,https://www.besoccer.com/match/ponferradina-sd/mirandes/201428216,2014,28,segunda_division
+Numancia,Real Murcia,1-0,https://www.besoccer.com/match/numancia/real-murcia/201444635,2014,28,segunda_division
+Alcorcón,Eibar,0-0,https://www.besoccer.com/match/ad-alcorcon/eibar/201428225,2014,29,segunda_division
+Mirandés,Deportivo,1-0,https://www.besoccer.com/match/mirandes/deportivo/201428223,2014,29,segunda_division
+Sabadell,Girona,4-0,https://www.besoccer.com/match/sabadell/girona-fc/201428227,2014,29,segunda_division
+Córdoba,Las Palmas,0-1,https://www.besoccer.com/match/cordoba/ud-palmas/201428228,2014,29,segunda_division
+Real Zaragoza,Mallorca,1-1,https://www.besoccer.com/match/real-zaragoza/mallorca/201428221,2014,29,segunda_division
+Barcelona B,Ponferradina,1-0,https://www.besoccer.com/match/barcelona-b/ponferradina-sd/201428222,2014,29,segunda_division
+Hércules,Alavés,2-0,https://www.besoccer.com/match/hercules/alaves/201428224,2014,29,segunda_division
+Real Sporting,Numancia,2-2,https://www.besoccer.com/match/sporting-gijon/numancia/201428226,2014,29,segunda_division
+Tenerife,Recreativo,1-0,https://www.besoccer.com/match/tenerife/recreativo/201428220,2014,29,segunda_division
+Lugo,RM Castilla,1-1,https://www.besoccer.com/match/lugo/rm-castilla/201428219,2014,29,segunda_division
+Real Murcia,Real Jaén,2-0,https://www.besoccer.com/match/real-murcia/real-jaen/201444636,2014,29,segunda_division
+Alavés,Mirandés,0-2,https://www.besoccer.com/match/alaves/mirandes/201428233,2014,30,segunda_division
+Real Jaén,Real Sporting,3-2,https://www.besoccer.com/match/real-jaen/sporting-gijon/201428236,2014,30,segunda_division
+Recreativo,RM Castilla,2-3,https://www.besoccer.com/match/recreativo/rm-castilla/201428229,2014,30,segunda_division
+Deportivo,Barcelona B,0-0,https://www.besoccer.com/match/deportivo/barcelona-b/201428232,2014,30,segunda_division
+Las Palmas,Sabadell,5-0,https://www.besoccer.com/match/ud-palmas/sabadell/201428237,2014,30,segunda_division
+Ponferradina,Real Zaragoza,4-2,https://www.besoccer.com/match/ponferradina-sd/real-zaragoza/201428231,2014,30,segunda_division
+Córdoba,Lugo,1-1,https://www.besoccer.com/match/cordoba/lugo/201428238,2014,30,segunda_division
+Girona,Real Murcia,0-1,https://www.besoccer.com/match/girona-fc/real-murcia/201444637,2014,30,segunda_division
+Mallorca,Tenerife,2-0,https://www.besoccer.com/match/mallorca/tenerife/201428230,2014,30,segunda_division
+Eibar,Hércules,1-1,https://www.besoccer.com/match/eibar/hercules/201428234,2014,30,segunda_division
+Numancia,Alcorcón,0-1,https://www.besoccer.com/match/numancia/ad-alcorcon/201428235,2014,30,segunda_division
+Barcelona B,Alavés,2-1,https://www.besoccer.com/match/barcelona-b/alaves/201428243,2014,31,segunda_division
+Mirandés,Eibar,1-4,https://www.besoccer.com/match/mirandes/eibar/201428244,2014,31,segunda_division
+Alcorcón,Real Jaén,0-0,https://www.besoccer.com/match/ad-alcorcon/real-jaen/201428246,2014,31,segunda_division
+Lugo,Recreativo,2-0,https://www.besoccer.com/match/lugo/recreativo/201428239,2014,31,segunda_division
+Sabadell,Córdoba,3-2,https://www.besoccer.com/match/sabadell/cordoba/201428248,2014,31,segunda_division
+Real Murcia,Las Palmas,1-3,https://www.besoccer.com/match/real-murcia/ud-palmas/201444638,2014,31,segunda_division
+Real Zaragoza,Deportivo,0-1,https://www.besoccer.com/match/real-zaragoza/deportivo/201428242,2014,31,segunda_division
+Hércules,Numancia,0-0,https://www.besoccer.com/match/hercules/numancia/201428245,2014,31,segunda_division
+Real Sporting,Girona,3-1,https://www.besoccer.com/match/sporting-gijon/girona-fc/201428247,2014,31,segunda_division
+Tenerife,Ponferradina,5-0,https://www.besoccer.com/match/tenerife/ponferradina-sd/201428241,2014,31,segunda_division
+RM Castilla,Mallorca,1-2,https://www.besoccer.com/match/rm-castilla/mallorca/201428240,2014,31,segunda_division
+Córdoba,Real Murcia,1-1,https://www.besoccer.com/match/cordoba/real-murcia/201444639,2014,32,segunda_division
+Ponferradina,RM Castilla,0-0,https://www.besoccer.com/match/ponferradina-sd/rm-castilla/201428250,2014,32,segunda_division
+Mallorca,Recreativo,0-0,https://www.besoccer.com/match/mallorca/recreativo/201428249,2014,32,segunda_division
+Eibar,Barcelona B,0-0,https://www.besoccer.com/match/eibar/barcelona-b/201428253,2014,32,segunda_division
+Deportivo,Tenerife,1-1,https://www.besoccer.com/match/deportivo/tenerife/201428251,2014,32,segunda_division
+Numancia,Mirandés,0-1,https://www.besoccer.com/match/numancia/mirandes/201428254,2014,32,segunda_division
+Las Palmas,Real Sporting,2-1,https://www.besoccer.com/match/ud-palmas/sporting-gijon/201428257,2014,32,segunda_division
+Real Jaén,Hércules,1-1,https://www.besoccer.com/match/real-jaen/hercules/201428255,2014,32,segunda_division
+Girona,Alcorcón,3-1,https://www.besoccer.com/match/girona-fc/ad-alcorcon/201428256,2014,32,segunda_division
+Sabadell,Lugo,1-0,https://www.besoccer.com/match/sabadell/lugo/201428258,2014,32,segunda_division
+Alavés,Real Zaragoza,2-2,https://www.besoccer.com/match/alaves/real-zaragoza/201428252,2014,32,segunda_division
+Real Murcia,Sabadell,2-0,https://www.besoccer.com/match/real-murcia/sabadell/201444640,2014,33,segunda_division
+RM Castilla,Deportivo,0-2,https://www.besoccer.com/match/rm-castilla/deportivo/201428261,2014,33,segunda_division
+Alcorcón,Las Palmas,2-0,https://www.besoccer.com/match/ad-alcorcon/ud-palmas/201428267,2014,33,segunda_division
+Real Zaragoza,Eibar,1-0,https://www.besoccer.com/match/real-zaragoza/eibar/201428263,2014,33,segunda_division
+Lugo,Mallorca,2-1,https://www.besoccer.com/match/lugo/mallorca/201428259,2014,33,segunda_division
+Barcelona B,Numancia,3-0,https://www.besoccer.com/match/barcelona-b/numancia/201428264,2014,33,segunda_division
+Hércules,Girona,0-0,https://www.besoccer.com/match/hercules/girona-fc/201428266,2014,33,segunda_division
+Real Sporting,Córdoba,1-2,https://www.besoccer.com/match/sporting-gijon/cordoba/201428268,2014,33,segunda_division
+Tenerife,Alavés,2-0,https://www.besoccer.com/match/tenerife/alaves/201428262,2014,33,segunda_division
+Recreativo,Ponferradina,1-0,https://www.besoccer.com/match/recreativo/ponferradina-sd/201428260,2014,33,segunda_division
+Mirandés,Real Jaén,2-1,https://www.besoccer.com/match/mirandes/real-jaen/201428265,2014,33,segunda_division
+Girona,Mirandés,4-0,https://www.besoccer.com/match/girona-fc/mirandes/201428275,2014,34,segunda_division
+Numancia,Real Zaragoza,2-2,https://www.besoccer.com/match/numancia/real-zaragoza/201428273,2014,34,segunda_division
+Las Palmas,Hércules,2-1,https://www.besoccer.com/match/ud-palmas/hercules/201428276,2014,34,segunda_division
+Sabadell,Real Sporting,2-0,https://www.besoccer.com/match/sabadell/sporting-gijon/201428278,2014,34,segunda_division
+Deportivo,Recreativo,2-0,https://www.besoccer.com/match/deportivo/recreativo/201428270,2014,34,segunda_division
+Real Jaén,Barcelona B,0-3,https://www.besoccer.com/match/real-jaen/barcelona-b/201428274,2014,34,segunda_division
+Córdoba,Alcorcón,3-1,https://www.besoccer.com/match/cordoba/ad-alcorcon/201428277,2014,34,segunda_division
+Real Murcia,Lugo,3-1,https://www.besoccer.com/match/real-murcia/lugo/201444641,2014,34,segunda_division
+Eibar,Tenerife,1-2,https://www.besoccer.com/match/eibar/tenerife/201428272,2014,34,segunda_division
+Alavés,RM Castilla,2-2,https://www.besoccer.com/match/alaves/rm-castilla/201428271,2014,34,segunda_division
+Ponferradina,Mallorca,2-0,https://www.besoccer.com/match/ponferradina-sd/mallorca/201428269,2014,34,segunda_division
+Hércules,Córdoba,0-1,https://www.besoccer.com/match/hercules/cordoba/201428287,2014,35,segunda_division
+Lugo,Ponferradina,3-0,https://www.besoccer.com/match/lugo/ponferradina-sd/201428279,2014,35,segunda_division
+RM Castilla,Eibar,0-1,https://www.besoccer.com/match/rm-castilla/eibar/201428282,2014,35,segunda_division
+Barcelona B,Girona,2-1,https://www.besoccer.com/match/barcelona-b/girona-fc/201428285,2014,35,segunda_division
+Mirandés,Las Palmas,2-1,https://www.besoccer.com/match/mirandes/ud-palmas/201428286,2014,35,segunda_division
+Mallorca,Deportivo,0-3,https://www.besoccer.com/match/mallorca/deportivo/201428280,2014,35,segunda_division
+Recreativo,Alavés,0-2,https://www.besoccer.com/match/recreativo/alaves/201428281,2014,35,segunda_division
+Real Sporting,Real Murcia,0-0,https://www.besoccer.com/match/sporting-gijon/real-murcia/201444642,2014,35,segunda_division
+Tenerife,Numancia,3-2,https://www.besoccer.com/match/tenerife/numancia/201428283,2014,35,segunda_division
+Real Zaragoza,Real Jaén,1-0,https://www.besoccer.com/match/real-zaragoza/real-jaen/201428284,2014,35,segunda_division
+Alcorcón,Sabadell,3-1,https://www.besoccer.com/match/ad-alcorcon/sabadell/201428288,2014,35,segunda_division
+Real Sporting,Lugo,2-0,https://www.besoccer.com/match/sporting-gijon/lugo/201428294,2014,36,segunda_division
+Alavés,Mallorca,1-0,https://www.besoccer.com/match/alaves/mallorca/201428296,2014,36,segunda_division
+Deportivo,Ponferradina,0-3,https://www.besoccer.com/match/deportivo/ponferradina-sd/201428295,2014,36,segunda_division
+Córdoba,Mirandés,1-1,https://www.besoccer.com/match/cordoba/mirandes/201428292,2014,36,segunda_division
+Las Palmas,Barcelona B,0-2,https://www.besoccer.com/match/ud-palmas/barcelona-b/201428291,2014,36,segunda_division
+Eibar,Recreativo,0-0,https://www.besoccer.com/match/eibar/recreativo/201428297,2014,36,segunda_division
+Sabadell,Hércules,2-1,https://www.besoccer.com/match/sabadell/hercules/201428293,2014,36,segunda_division
+Real Jaén,Tenerife,1-0,https://www.besoccer.com/match/real-jaen/tenerife/201428289,2014,36,segunda_division
+Numancia,RM Castilla,0-0,https://www.besoccer.com/match/numancia/rm-castilla/201428298,2014,36,segunda_division
+Girona,Real Zaragoza,2-0,https://www.besoccer.com/match/girona-fc/real-zaragoza/201428290,2014,36,segunda_division
+Real Murcia,Alcorcón,1-1,https://www.besoccer.com/match/real-murcia/ad-alcorcon/201444643,2014,36,segunda_division
+Ponferradina,Alavés,2-1,https://www.besoccer.com/match/ponferradina-sd/alaves/201428300,2014,37,segunda_division
+Alcorcón,Real Sporting,1-0,https://www.besoccer.com/match/ad-alcorcon/sporting-gijon/201428308,2014,37,segunda_division
+Lugo,Deportivo,2-2,https://www.besoccer.com/match/lugo/deportivo/201428299,2014,37,segunda_division
+Barcelona B,Córdoba,0-1,https://www.besoccer.com/match/barcelona-b/cordoba/201428306,2014,37,segunda_division
+Hércules,Real Murcia,2-3,https://www.besoccer.com/match/hercules/real-murcia/201444644,2014,37,segunda_division
+Real Zaragoza,Las Palmas,1-2,https://www.besoccer.com/match/real-zaragoza/ud-palmas/201428305,2014,37,segunda_division
+RM Castilla,Real Jaén,1-1,https://www.besoccer.com/match/rm-castilla/real-jaen/201428303,2014,37,segunda_division
+Mallorca,Eibar,0-2,https://www.besoccer.com/match/mallorca/eibar/201428301,2014,37,segunda_division
+Recreativo,Numancia,0-0,https://www.besoccer.com/match/recreativo/numancia/201428302,2014,37,segunda_division
+Tenerife,Girona,0-1,https://www.besoccer.com/match/tenerife/girona-fc/201428304,2014,37,segunda_division
+Mirandés,Sabadell,2-2,https://www.besoccer.com/match/mirandes/sabadell/201428307,2014,37,segunda_division
+Real Sporting,Hércules,2-1,https://www.besoccer.com/match/sporting-gijon/hercules/201428317,2014,38,segunda_division
+Girona,RM Castilla,1-1,https://www.besoccer.com/match/girona-fc/rm-castilla/201428313,2014,38,segunda_division
+Numancia,Mallorca,1-1,https://www.besoccer.com/match/numancia/mallorca/201428311,2014,38,segunda_division
+Sabadell,Barcelona B,2-1,https://www.besoccer.com/match/sabadell/barcelona-b/201428316,2014,38,segunda_division
+Alcorcón,Lugo,1-0,https://www.besoccer.com/match/ad-alcorcon/lugo/201428318,2014,38,segunda_division
+Eibar,Ponferradina,0-0,https://www.besoccer.com/match/eibar/ponferradina-sd/201428310,2014,38,segunda_division
+Las Palmas,Tenerife,1-0,https://www.besoccer.com/match/ud-palmas/tenerife/201428314,2014,38,segunda_division
+Córdoba,Real Zaragoza,1-2,https://www.besoccer.com/match/cordoba/real-zaragoza/201428315,2014,38,segunda_division
+Real Murcia,Mirandés,5-0,https://www.besoccer.com/match/real-murcia/mirandes/201444645,2014,38,segunda_division
+Alavés,Deportivo,1-1,https://www.besoccer.com/match/alaves/deportivo/201428309,2014,38,segunda_division
+Real Jaén,Recreativo,3-1,https://www.besoccer.com/match/real-jaen/recreativo/201428312,2014,38,segunda_division
+Mallorca,Real Jaén,0-0,https://www.besoccer.com/match/mallorca/real-jaen/201428321,2014,39,segunda_division
+Real Zaragoza,Sabadell,2-2,https://www.besoccer.com/match/real-zaragoza/sabadell/201428325,2014,39,segunda_division
+Mirandés,Real Sporting,1-1,https://www.besoccer.com/match/mirandes/sporting-gijon/201428326,2014,39,segunda_division
+Hércules,Alcorcón,1-2,https://www.besoccer.com/match/hercules/ad-alcorcon/201428327,2014,39,segunda_division
+Tenerife,Córdoba,0-1,https://www.besoccer.com/match/tenerife/cordoba/201428324,2014,39,segunda_division
+Barcelona B,Real Murcia,4-0,https://www.besoccer.com/match/barcelona-b/real-murcia/201444646,2014,39,segunda_division
+Deportivo,Eibar,1-1,https://www.besoccer.com/match/deportivo/eibar/201428319,2014,39,segunda_division
+Lugo,Alavés,0-1,https://www.besoccer.com/match/lugo/alaves/201428328,2014,39,segunda_division
+Recreativo,Girona,1-0,https://www.besoccer.com/match/recreativo/girona-fc/201428322,2014,39,segunda_division
+RM Castilla,Las Palmas,3-2,https://www.besoccer.com/match/rm-castilla/ud-palmas/201428323,2014,39,segunda_division
+Ponferradina,Numancia,0-1,https://www.besoccer.com/match/ponferradina-sd/numancia/201428320,2014,39,segunda_division
+Real Sporting,Barcelona B,1-0,https://www.besoccer.com/match/sporting-gijon/barcelona-b/201428336,2014,40,segunda_division
+Córdoba,RM Castilla,2-0,https://www.besoccer.com/match/cordoba/rm-castilla/201428334,2014,40,segunda_division
+Girona,Mallorca,1-1,https://www.besoccer.com/match/girona-fc/mallorca/201428332,2014,40,segunda_division
+Hércules,Lugo,1-1,https://www.besoccer.com/match/hercules/lugo/201428338,2014,40,segunda_division
+Real Murcia,Real Zaragoza,1-1,https://www.besoccer.com/match/real-murcia/real-zaragoza/201444647,2014,40,segunda_division
+Real Jaén,Ponferradina,0-1,https://www.besoccer.com/match/real-jaen/ponferradina-sd/201428331,2014,40,segunda_division
+Sabadell,Tenerife,1-0,https://www.besoccer.com/match/sabadell/tenerife/201428335,2014,40,segunda_division
+Numancia,Deportivo,2-1,https://www.besoccer.com/match/numancia/deportivo/201428330,2014,40,segunda_division
+Eibar,Alavés,1-0,https://www.besoccer.com/match/eibar/alaves/201428329,2014,40,segunda_division
+Las Palmas,Recreativo,2-3,https://www.besoccer.com/match/ud-palmas/recreativo/201428333,2014,40,segunda_division
+Alcorcón,Mirandés,2-0,https://www.besoccer.com/match/ad-alcorcon/mirandes/201428337,2014,40,segunda_division
+Eibar,Lugo,1-0,https://www.besoccer.com/match/eibar/lugo/201428339,2014,41,segunda_division
+Alavés,Numancia,3-1,https://www.besoccer.com/match/alaves/numancia/201428340,2014,41,segunda_division
+Deportivo,Real Jaén,1-0,https://www.besoccer.com/match/deportivo/real-jaen/201428341,2014,41,segunda_division
+Ponferradina,Girona,1-2,https://www.besoccer.com/match/ponferradina-sd/girona-fc/201428342,2014,41,segunda_division
+Mallorca,Las Palmas,2-0,https://www.besoccer.com/match/mallorca/ud-palmas/201428343,2014,41,segunda_division
+Recreativo,Córdoba,1-1,https://www.besoccer.com/match/recreativo/cordoba/201428344,2014,41,segunda_division
+RM Castilla,Sabadell,2-1,https://www.besoccer.com/match/rm-castilla/sabadell/201428345,2014,41,segunda_division
+Real Zaragoza,Real Sporting,1-1,https://www.besoccer.com/match/real-zaragoza/sporting-gijon/201428346,2014,41,segunda_division
+Barcelona B,Alcorcón,4-3,https://www.besoccer.com/match/barcelona-b/ad-alcorcon/201428347,2014,41,segunda_division
+Mirandés,Hércules,0-1,https://www.besoccer.com/match/mirandes/hercules/201428348,2014,41,segunda_division
+Tenerife,Real Murcia,0-1,https://www.besoccer.com/match/tenerife/real-murcia/201444648,2014,41,segunda_division
+Real Jaén,Alavés,2-3,https://www.besoccer.com/match/real-jaen/alaves/201428350,2014,42,segunda_division
+Girona,Deportivo,3-1,https://www.besoccer.com/match/girona-fc/deportivo/201428351,2014,42,segunda_division
+Las Palmas,Ponferradina,3-2,https://www.besoccer.com/match/ud-palmas/ponferradina-sd/201428352,2014,42,segunda_division
+Córdoba,Mallorca,0-0,https://www.besoccer.com/match/cordoba/mallorca/201428353,2014,42,segunda_division
+Sabadell,Recreativo,0-0,https://www.besoccer.com/match/sabadell/recreativo/201428354,2014,42,segunda_division
+Real Sporting,Tenerife,3-0,https://www.besoccer.com/match/sporting-gijon/tenerife/201428355,2014,42,segunda_division
+Hércules,Barcelona B,1-2,https://www.besoccer.com/match/hercules/barcelona-b/201428357,2014,42,segunda_division
+Lugo,Mirandés,1-0,https://www.besoccer.com/match/lugo/mirandes/201428358,2014,42,segunda_division
+Real Murcia,RM Castilla,1-0,https://www.besoccer.com/match/real-murcia/rm-castilla/201444649,2014,42,segunda_division
+Numancia,Eibar,1-1,https://www.besoccer.com/match/numancia/eibar/201428349,2014,42,segunda_division
+Alcorcón,Real Zaragoza,1-0,https://www.besoccer.com/match/ad-alcorcon/real-zaragoza/201428356,2014,42,segunda_division

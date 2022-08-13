@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Athletic,Sevilla,0-2,https://www.besoccer.com/match/athletic-bilbao/sevilla/1992381,1992,1,primera_division
+Cádiz,Real Madrid,0-1,https://www.besoccer.com/match/cadiz/real-madrid/1992382,1992,1,primera_division
+Valencia,Deportivo,2-1,https://www.besoccer.com/match/valencia-cf/deportivo/1992383,1992,1,primera_division
+Atlético,Real Burgos CF,2-0,https://www.besoccer.com/match/atletico-madrid/real-burgos-cf/1992384,1992,1,primera_division
+Barcelona,R. Sociedad,2-0,https://www.besoccer.com/match/barcelona/real-sociedad/1992385,1992,1,primera_division
+Osasuna,Albacete,2-0,https://www.besoccer.com/match/osasuna/albacete/1992386,1992,1,primera_division
+Real Oviedo,Mallorca,0-0,https://www.besoccer.com/match/real-oviedo/mallorca/1992387,1992,1,primera_division
+Tenerife,CD Logroñés,3-0,https://www.besoccer.com/match/tenerife/logrones-cd/1992388,1992,1,primera_division
+Real Valladolid,Real Sporting,0-1,https://www.besoccer.com/match/valladolid/sporting-gijon/1992389,1992,1,primera_division
+Real Zaragoza,Espanyol,1-1,https://www.besoccer.com/match/real-zaragoza/espanyol/1992390,1992,1,primera_division
+Sevilla,Barcelona,4-2,https://www.besoccer.com/match/sevilla/barcelona/1992391,1992,2,primera_division
+Albacete,Valencia,1-0,https://www.besoccer.com/match/albacete/valencia-cf/1992392,1992,2,primera_division
+Deportivo,Tenerife,1-1,https://www.besoccer.com/match/deportivo/tenerife/1992393,1992,2,primera_division
+Espanyol,Real Oviedo,0-1,https://www.besoccer.com/match/espanyol/real-oviedo/1992394,1992,2,primera_division
+Real Sporting,Athletic,3-2,https://www.besoccer.com/match/sporting-gijon/athletic-bilbao/1992395,1992,2,primera_division
+CD Logroñés,Cádiz,2-1,https://www.besoccer.com/match/logrones-cd/cadiz/1992396,1992,2,primera_division
+Mallorca,Atlético,0-2,https://www.besoccer.com/match/mallorca/atletico-madrid/1992397,1992,2,primera_division
+R. Sociedad,Real Zaragoza,0-0,https://www.besoccer.com/match/real-sociedad/real-zaragoza/1992398,1992,2,primera_division
+Real Burgos CF,Osasuna,4-0,https://www.besoccer.com/match/real-burgos-cf/osasuna/1992399,1992,2,primera_division
+Real Madrid,Real Valladolid,1-0,https://www.besoccer.com/match/real-madrid/valladolid/1992400,1992,2,primera_division
+Athletic,Real Madrid,1-4,https://www.besoccer.com/match/athletic-bilbao/real-madrid/1992401,1992,3,primera_division
+Barcelona,Real Zaragoza,3-1,https://www.besoccer.com/match/barcelona/real-zaragoza/1992402,1992,3,primera_division
+Osasuna,Mallorca,1-0,https://www.besoccer.com/match/osasuna/mallorca/1992403,1992,3,primera_division
+Real Oviedo,R. Sociedad,2-0,https://www.besoccer.com/match/real-oviedo/real-sociedad/1992404,1992,3,primera_division
+Valencia,Real Burgos CF,1-1,https://www.besoccer.com/match/valencia-cf/real-burgos-cf/1992405,1992,3,primera_division
+Atlético,Espanyol,3-0,https://www.besoccer.com/match/atletico-madrid/espanyol/1992406,1992,3,primera_division
+Cádiz,Deportivo,1-0,https://www.besoccer.com/match/cadiz/deportivo/1992407,1992,3,primera_division
+Sevilla,Real Sporting,2-1,https://www.besoccer.com/match/sevilla/sporting-gijon/1992408,1992,3,primera_division
+Tenerife,Albacete,2-3,https://www.besoccer.com/match/tenerife/albacete/1992409,1992,3,primera_division
+Real Valladolid,CD Logroñés,1-2,https://www.besoccer.com/match/valladolid/logrones-cd/1992410,1992,3,primera_division
+Real Sporting,Barcelona,2-1,https://www.besoccer.com/match/sporting-gijon/barcelona/1992411,1992,4,primera_division
+R. Sociedad,Atlético,0-2,https://www.besoccer.com/match/real-sociedad/atletico-madrid/1992412,1992,4,primera_division
+Real Madrid,Sevilla,3-1,https://www.besoccer.com/match/real-madrid/sevilla/1992413,1992,4,primera_division
+Real Zaragoza,Real Oviedo,3-2,https://www.besoccer.com/match/real-zaragoza/real-oviedo/1992414,1992,4,primera_division
+Albacete,Cádiz,0-1,https://www.besoccer.com/match/albacete/cadiz/1992415,1992,4,primera_division
+Deportivo,Real Valladolid,1-0,https://www.besoccer.com/match/deportivo/valladolid/1992416,1992,4,primera_division
+Espanyol,Osasuna,3-2,https://www.besoccer.com/match/espanyol/osasuna/1992417,1992,4,primera_division
+CD Logroñés,Athletic,0-1,https://www.besoccer.com/match/logrones-cd/athletic-bilbao/1992418,1992,4,primera_division
+Mallorca,Valencia,0-1,https://www.besoccer.com/match/mallorca/valencia-cf/1992419,1992,4,primera_division
+Real Burgos CF,Tenerife,3-1,https://www.besoccer.com/match/real-burgos-cf/tenerife/1992420,1992,4,primera_division
+Valencia,Espanyol,1-0,https://www.besoccer.com/match/valencia-cf/espanyol/1992421,1992,5,primera_division
+Athletic,Deportivo,0-0,https://www.besoccer.com/match/athletic-bilbao/deportivo/1992422,1992,5,primera_division
+Atlético,Real Zaragoza,2-1,https://www.besoccer.com/match/atletico-madrid/real-zaragoza/1992423,1992,5,primera_division
+Barcelona,Real Oviedo,1-2,https://www.besoccer.com/match/barcelona/real-oviedo/1992424,1992,5,primera_division
+Cádiz,Real Burgos CF,0-2,https://www.besoccer.com/match/cadiz/real-burgos-cf/1992425,1992,5,primera_division
+Real Sporting,Real Madrid,1-4,https://www.besoccer.com/match/sporting-gijon/real-madrid/1992426,1992,5,primera_division
+Osasuna,R. Sociedad,1-0,https://www.besoccer.com/match/osasuna/real-sociedad/1992427,1992,5,primera_division
+Sevilla,CD Logroñés,0-1,https://www.besoccer.com/match/sevilla/logrones-cd/1992428,1992,5,primera_division
+Tenerife,Mallorca,0-1,https://www.besoccer.com/match/tenerife/mallorca/1992429,1992,5,primera_division
+Real Valladolid,Albacete,1-0,https://www.besoccer.com/match/valladolid/albacete/1992430,1992,5,primera_division
+Real Madrid,Barcelona,1-1,https://www.besoccer.com/match/real-madrid/barcelona/1992431,1992,6,primera_division
+Real Oviedo,Atlético,0-1,https://www.besoccer.com/match/real-oviedo/atletico-madrid/1992432,1992,6,primera_division
+Albacete,Athletic,4-0,https://www.besoccer.com/match/albacete/athletic-bilbao/1992433,1992,6,primera_division
+Deportivo,Sevilla,3-1,https://www.besoccer.com/match/deportivo/sevilla/1992434,1992,6,primera_division
+Espanyol,Tenerife,2-2,https://www.besoccer.com/match/espanyol/tenerife/1992435,1992,6,primera_division
+CD Logroñés,Real Sporting,0-0,https://www.besoccer.com/match/logrones-cd/sporting-gijon/1992436,1992,6,primera_division
+Mallorca,Cádiz,1-0,https://www.besoccer.com/match/mallorca/cadiz/1992437,1992,6,primera_division
+R. Sociedad,Valencia,3-1,https://www.besoccer.com/match/real-sociedad/valencia-cf/1992438,1992,6,primera_division
+Real Burgos CF,Real Valladolid,1-0,https://www.besoccer.com/match/real-burgos-cf/valladolid/1992439,1992,6,primera_division
+Real Zaragoza,Osasuna,2-0,https://www.besoccer.com/match/real-zaragoza/osasuna/1992440,1992,6,primera_division
+Barcelona,Atlético,1-0,https://www.besoccer.com/match/barcelona/atletico-madrid/1992441,1992,7,primera_division
+Athletic,Real Burgos CF,0-0,https://www.besoccer.com/match/athletic-bilbao/real-burgos-cf/1992442,1992,7,primera_division
+Cádiz,Espanyol,2-1,https://www.besoccer.com/match/cadiz/espanyol/1992443,1992,7,primera_division
+Real Sporting,Deportivo,1-0,https://www.besoccer.com/match/sporting-gijon/deportivo/1992444,1992,7,primera_division
+Osasuna,Real Oviedo,1-0,https://www.besoccer.com/match/osasuna/real-oviedo/1992445,1992,7,primera_division
+Real Madrid,CD Logroñés,3-0,https://www.besoccer.com/match/real-madrid/logrones-cd/1992446,1992,7,primera_division
+Sevilla,Albacete,3-0,https://www.besoccer.com/match/sevilla/albacete/1992447,1992,7,primera_division
+Tenerife,R. Sociedad,0-0,https://www.besoccer.com/match/tenerife/real-sociedad/1992448,1992,7,primera_division
+Valencia,Real Zaragoza,0-1,https://www.besoccer.com/match/valencia-cf/real-zaragoza/1992449,1992,7,primera_division
+Real Valladolid,Mallorca,2-1,https://www.besoccer.com/match/valladolid/mallorca/1992450,1992,7,primera_division
+Atlético,Osasuna,1-0,https://www.besoccer.com/match/atletico-madrid/osasuna/1992451,1992,8,primera_division
+Deportivo,Real Madrid,0-3,https://www.besoccer.com/match/deportivo/real-madrid/1992452,1992,8,primera_division
+Albacete,Real Sporting,0-2,https://www.besoccer.com/match/albacete/sporting-gijon/1992453,1992,8,primera_division
+Espanyol,Real Valladolid,0-2,https://www.besoccer.com/match/espanyol/valladolid/1992454,1992,8,primera_division
+CD Logroñés,Barcelona,2-2,https://www.besoccer.com/match/logrones-cd/barcelona/1992455,1992,8,primera_division
+Mallorca,Athletic,1-2,https://www.besoccer.com/match/mallorca/athletic-bilbao/1992456,1992,8,primera_division
+R. Sociedad,Cádiz,1-0,https://www.besoccer.com/match/real-sociedad/cadiz/1992457,1992,8,primera_division
+Real Burgos CF,Sevilla,1-0,https://www.besoccer.com/match/real-burgos-cf/sevilla/1992458,1992,8,primera_division
+Real Oviedo,Valencia,2-2,https://www.besoccer.com/match/real-oviedo/valencia-cf/1992459,1992,8,primera_division
+Real Zaragoza,Tenerife,3-0,https://www.besoccer.com/match/real-zaragoza/tenerife/1992460,1992,8,primera_division
+Valencia,Atlético,2-0,https://www.besoccer.com/match/valencia-cf/atletico-madrid/1992461,1992,9,primera_division
+Athletic,Espanyol,0-2,https://www.besoccer.com/match/athletic-bilbao/espanyol/1992462,1992,9,primera_division
+Barcelona,Osasuna,2-0,https://www.besoccer.com/match/barcelona/osasuna/1992463,1992,9,primera_division
+Cádiz,Real Zaragoza,0-0,https://www.besoccer.com/match/cadiz/real-zaragoza/1992464,1992,9,primera_division
+Real Sporting,Real Burgos CF,0-0,https://www.besoccer.com/match/sporting-gijon/real-burgos-cf/1992465,1992,9,primera_division
+CD Logroñés,Deportivo,2-1,https://www.besoccer.com/match/logrones-cd/deportivo/1992466,1992,9,primera_division
+Real Madrid,Albacete,2-1,https://www.besoccer.com/match/real-madrid/albacete/1992467,1992,9,primera_division
+Sevilla,Mallorca,2-0,https://www.besoccer.com/match/sevilla/mallorca/1992468,1992,9,primera_division
+Tenerife,Real Oviedo,1-0,https://www.besoccer.com/match/tenerife/real-oviedo/1992469,1992,9,primera_division
+Real Valladolid,R. Sociedad,2-2,https://www.besoccer.com/match/valladolid/real-sociedad/1992470,1992,9,primera_division
+R. Sociedad,Athletic,2-0,https://www.besoccer.com/match/real-sociedad/athletic-bilbao/1992471,1992,10,primera_division
+Albacete,CD Logroñés,2-0,https://www.besoccer.com/match/albacete/logrones-cd/1992472,1992,10,primera_division
+Atlético,Tenerife,1-0,https://www.besoccer.com/match/atletico-madrid/tenerife/1992473,1992,10,primera_division
+Deportivo,Barcelona,0-4,https://www.besoccer.com/match/deportivo/barcelona/1992474,1992,10,primera_division
+Espanyol,Sevilla,1-1,https://www.besoccer.com/match/espanyol/sevilla/1992475,1992,10,primera_division
+Mallorca,Real Sporting,0-1,https://www.besoccer.com/match/mallorca/sporting-gijon/1992476,1992,10,primera_division
+Osasuna,Valencia,0-1,https://www.besoccer.com/match/osasuna/valencia-cf/1992477,1992,10,primera_division
+Real Burgos CF,Real Madrid,0-2,https://www.besoccer.com/match/real-burgos-cf/real-madrid/1992478,1992,10,primera_division
+Real Oviedo,Cádiz,2-1,https://www.besoccer.com/match/real-oviedo/cadiz/1992479,1992,10,primera_division
+Real Zaragoza,Real Valladolid,2-0,https://www.besoccer.com/match/real-zaragoza/valladolid/1992480,1992,10,primera_division
+Barcelona,Valencia,3-1,https://www.besoccer.com/match/barcelona/valencia-cf/1992481,1992,11,primera_division
+Athletic,Real Zaragoza,1-0,https://www.besoccer.com/match/athletic-bilbao/real-zaragoza/1992482,1992,11,primera_division
+Cádiz,Atlético,1-1,https://www.besoccer.com/match/cadiz/atletico-madrid/1992483,1992,11,primera_division
+Deportivo,Albacete,2-2,https://www.besoccer.com/match/deportivo/albacete/1992484,1992,11,primera_division
+Real Sporting,Espanyol,3-0,https://www.besoccer.com/match/sporting-gijon/espanyol/1992485,1992,11,primera_division
+CD Logroñés,Real Burgos CF,1-2,https://www.besoccer.com/match/logrones-cd/real-burgos-cf/1992486,1992,11,primera_division
+Real Madrid,Mallorca,2-0,https://www.besoccer.com/match/real-madrid/mallorca/1992487,1992,11,primera_division
+Sevilla,R. Sociedad,2-2,https://www.besoccer.com/match/sevilla/real-sociedad/1992488,1992,11,primera_division
+Tenerife,Osasuna,0-0,https://www.besoccer.com/match/tenerife/osasuna/1992489,1992,11,primera_division
+Real Valladolid,Real Oviedo,1-1,https://www.besoccer.com/match/valladolid/real-oviedo/1992490,1992,11,primera_division
+Albacete,Barcelona,1-1,https://www.besoccer.com/match/albacete/barcelona/1992491,1992,12,primera_division
+Atlético,Real Valladolid,5-1,https://www.besoccer.com/match/atletico-madrid/valladolid/1992492,1992,12,primera_division
+Espanyol,Real Madrid,1-5,https://www.besoccer.com/match/espanyol/real-madrid/1992493,1992,12,primera_division
+Osasuna,Cádiz,1-0,https://www.besoccer.com/match/osasuna/cadiz/1992494,1992,12,primera_division
+R. Sociedad,Real Sporting,0-0,https://www.besoccer.com/match/real-sociedad/sporting-gijon/1992495,1992,12,primera_division
+Real Burgos CF,Deportivo,0-0,https://www.besoccer.com/match/real-burgos-cf/deportivo/1992496,1992,12,primera_division
+Real Oviedo,Athletic,1-1,https://www.besoccer.com/match/real-oviedo/athletic-bilbao/1992497,1992,12,primera_division
+Valencia,Tenerife,1-0,https://www.besoccer.com/match/valencia-cf/tenerife/1992498,1992,12,primera_division
+Real Zaragoza,Sevilla,1-1,https://www.besoccer.com/match/real-zaragoza/sevilla/1992499,1992,12,primera_division
+Mallorca,CD Logroñés,2-1,https://www.besoccer.com/match/mallorca/logrones-cd/1992500,1992,12,primera_division
+Barcelona,Tenerife,5-3,https://www.besoccer.com/match/barcelona/tenerife/1992501,1992,13,primera_division
+Real Madrid,R. Sociedad,4-1,https://www.besoccer.com/match/real-madrid/real-sociedad/1992502,1992,13,primera_division
+Albacete,Real Burgos CF,1-0,https://www.besoccer.com/match/albacete/real-burgos-cf/1992503,1992,13,primera_division
+Athletic,Atlético,3-2,https://www.besoccer.com/match/athletic-bilbao/atletico-madrid/1992504,1992,13,primera_division
+Cádiz,Valencia,2-0,https://www.besoccer.com/match/cadiz/valencia-cf/1992505,1992,13,primera_division
+Deportivo,Mallorca,1-0,https://www.besoccer.com/match/deportivo/mallorca/1992506,1992,13,primera_division
+Real Sporting,Real Zaragoza,1-2,https://www.besoccer.com/match/sporting-gijon/real-zaragoza/1992507,1992,13,primera_division
+CD Logroñés,Espanyol,2-1,https://www.besoccer.com/match/logrones-cd/espanyol/1992508,1992,13,primera_division
+Sevilla,Real Oviedo,1-1,https://www.besoccer.com/match/sevilla/real-oviedo/1992509,1992,13,primera_division
+Real Valladolid,Osasuna,1-1,https://www.besoccer.com/match/valladolid/osasuna/1992510,1992,13,primera_division
+Atlético,Sevilla,0-3,https://www.besoccer.com/match/atletico-madrid/sevilla/1992511,1992,14,primera_division
+Espanyol,Deportivo,0-3,https://www.besoccer.com/match/espanyol/deportivo/1992512,1992,14,primera_division
+Mallorca,Albacete,0-1,https://www.besoccer.com/match/mallorca/albacete/1992513,1992,14,primera_division
+Osasuna,Athletic,1-1,https://www.besoccer.com/match/osasuna/athletic-bilbao/1992514,1992,14,primera_division
+R. Sociedad,CD Logroñés,4-0,https://www.besoccer.com/match/real-sociedad/logrones-cd/1992515,1992,14,primera_division
+Real Burgos CF,Barcelona,2-2,https://www.besoccer.com/match/real-burgos-cf/barcelona/1992516,1992,14,primera_division
+Real Oviedo,Real Sporting,1-0,https://www.besoccer.com/match/real-oviedo/sporting-gijon/1992517,1992,14,primera_division
+Tenerife,Cádiz,3-1,https://www.besoccer.com/match/tenerife/cadiz/1992518,1992,14,primera_division
+Valencia,Real Valladolid,3-1,https://www.besoccer.com/match/valencia-cf/valladolid/1992519,1992,14,primera_division
+Real Zaragoza,Real Madrid,1-1,https://www.besoccer.com/match/real-zaragoza/real-madrid/1992520,1992,14,primera_division
+Athletic,Valencia,2-3,https://www.besoccer.com/match/athletic-bilbao/valencia-cf/1992521,1992,15,primera_division
+Barcelona,Cádiz,4-1,https://www.besoccer.com/match/barcelona/cadiz/1992522,1992,15,primera_division
+Albacete,Espanyol,3-2,https://www.besoccer.com/match/albacete/espanyol/1992523,1992,15,primera_division
+Deportivo,R. Sociedad,0-0,https://www.besoccer.com/match/deportivo/real-sociedad/1992524,1992,15,primera_division
+Real Sporting,Atlético,0-1,https://www.besoccer.com/match/sporting-gijon/atletico-madrid/1992525,1992,15,primera_division
+CD Logroñés,Real Zaragoza,0-2,https://www.besoccer.com/match/logrones-cd/real-zaragoza/1992526,1992,15,primera_division
+Real Burgos CF,Mallorca,0-0,https://www.besoccer.com/match/real-burgos-cf/mallorca/1992527,1992,15,primera_division
+Real Madrid,Real Oviedo,0-0,https://www.besoccer.com/match/real-madrid/real-oviedo/1992528,1992,15,primera_division
+Sevilla,Osasuna,1-0,https://www.besoccer.com/match/sevilla/osasuna/1992529,1992,15,primera_division
+Real Valladolid,Tenerife,2-2,https://www.besoccer.com/match/valladolid/tenerife/1992530,1992,15,primera_division
+Atlético,Real Madrid,2-0,https://www.besoccer.com/match/atletico-madrid/real-madrid/1992531,1992,16,primera_division
+Tenerife,Athletic,4-1,https://www.besoccer.com/match/tenerife/athletic-bilbao/1992532,1992,16,primera_division
+Cádiz,Real Valladolid,0-0,https://www.besoccer.com/match/cadiz/valladolid/1992533,1992,16,primera_division
+Espanyol,Real Burgos CF,0-0,https://www.besoccer.com/match/espanyol/real-burgos-cf/1992534,1992,16,primera_division
+Mallorca,Barcelona,1-2,https://www.besoccer.com/match/mallorca/barcelona/1992535,1992,16,primera_division
+Osasuna,Real Sporting,0-2,https://www.besoccer.com/match/osasuna/sporting-gijon/1992536,1992,16,primera_division
+R. Sociedad,Albacete,0-1,https://www.besoccer.com/match/real-sociedad/albacete/1992537,1992,16,primera_division
+Real Oviedo,CD Logroñés,2-3,https://www.besoccer.com/match/real-oviedo/logrones-cd/1992538,1992,16,primera_division
+Valencia,Sevilla,3-2,https://www.besoccer.com/match/valencia-cf/sevilla/1992539,1992,16,primera_division
+Real Zaragoza,Deportivo,1-0,https://www.besoccer.com/match/real-zaragoza/deportivo/1992540,1992,16,primera_division
+CD Logroñés,Atlético,1-0,https://www.besoccer.com/match/logrones-cd/atletico-madrid/1992541,1992,17,primera_division
+Albacete,Real Zaragoza,1-1,https://www.besoccer.com/match/albacete/real-zaragoza/1992542,1992,17,primera_division
+Athletic,Cádiz,3-1,https://www.besoccer.com/match/athletic-bilbao/cadiz/1992543,1992,17,primera_division
+Barcelona,Real Valladolid,2-1,https://www.besoccer.com/match/barcelona/valladolid/1992544,1992,17,primera_division
+Deportivo,Real Oviedo,0-0,https://www.besoccer.com/match/deportivo/real-oviedo/1992545,1992,17,primera_division
+Real Sporting,Valencia,0-3,https://www.besoccer.com/match/sporting-gijon/valencia-cf/1992546,1992,17,primera_division
+Mallorca,Espanyol,1-0,https://www.besoccer.com/match/mallorca/espanyol/1992547,1992,17,primera_division
+Real Burgos CF,R. Sociedad,0-1,https://www.besoccer.com/match/real-burgos-cf/real-sociedad/1992548,1992,17,primera_division
+Real Madrid,Osasuna,5-2,https://www.besoccer.com/match/real-madrid/osasuna/1992549,1992,17,primera_division
+Sevilla,Tenerife,4-1,https://www.besoccer.com/match/sevilla/tenerife/1992550,1992,17,primera_division
+Valencia,Real Madrid,2-1,https://www.besoccer.com/match/valencia-cf/real-madrid/1992551,1992,18,primera_division
+Atlético,Deportivo,1-2,https://www.besoccer.com/match/atletico-madrid/deportivo/1992552,1992,18,primera_division
+Barcelona,Espanyol,4-3,https://www.besoccer.com/match/barcelona/espanyol/1992553,1992,18,primera_division
+Cádiz,Sevilla,1-1,https://www.besoccer.com/match/cadiz/sevilla/1992554,1992,18,primera_division
+Osasuna,CD Logroñés,3-0,https://www.besoccer.com/match/osasuna/logrones-cd/1992555,1992,18,primera_division
+R. Sociedad,Mallorca,1-0,https://www.besoccer.com/match/real-sociedad/mallorca/1992556,1992,18,primera_division
+Real Oviedo,Albacete,0-1,https://www.besoccer.com/match/real-oviedo/albacete/1992557,1992,18,primera_division
+Tenerife,Real Sporting,0-0,https://www.besoccer.com/match/tenerife/sporting-gijon/1992558,1992,18,primera_division
+Real Valladolid,Athletic,1-1,https://www.besoccer.com/match/valladolid/athletic-bilbao/1992559,1992,18,primera_division
+Real Zaragoza,Real Burgos CF,1-0,https://www.besoccer.com/match/real-zaragoza/real-burgos-cf/1992560,1992,18,primera_division
+Athletic,Barcelona,0-2,https://www.besoccer.com/match/athletic-bilbao/barcelona/1992561,1992,19,primera_division
+Albacete,Atlético,3-1,https://www.besoccer.com/match/albacete/atletico-madrid/1992562,1992,19,primera_division
+Deportivo,Osasuna,0-0,https://www.besoccer.com/match/deportivo/osasuna/1992563,1992,19,primera_division
+Espanyol,R. Sociedad,2-0,https://www.besoccer.com/match/espanyol/real-sociedad/1992564,1992,19,primera_division
+Real Sporting,Cádiz,2-1,https://www.besoccer.com/match/sporting-gijon/cadiz/1992565,1992,19,primera_division
+CD Logroñés,Valencia,0-0,https://www.besoccer.com/match/logrones-cd/valencia-cf/1992566,1992,19,primera_division
+Mallorca,Real Zaragoza,0-1,https://www.besoccer.com/match/mallorca/real-zaragoza/1992567,1992,19,primera_division
+Real Burgos CF,Real Oviedo,1-0,https://www.besoccer.com/match/real-burgos-cf/real-oviedo/1992568,1992,19,primera_division
+Real Madrid,Tenerife,2-1,https://www.besoccer.com/match/real-madrid/tenerife/1992569,1992,19,primera_division
+Sevilla,Real Valladolid,2-1,https://www.besoccer.com/match/sevilla/valladolid/1992570,1992,19,primera_division
+Real Burgos CF,Atlético,1-1,https://www.besoccer.com/match/real-burgos-cf/atletico-madrid/1992571,1992,20,primera_division
+Albacete,Osasuna,1-0,https://www.besoccer.com/match/albacete/osasuna/1992572,1992,20,primera_division
+Deportivo,Valencia,0-1,https://www.besoccer.com/match/deportivo/valencia-cf/1992573,1992,20,primera_division
+Espanyol,Real Zaragoza,1-0,https://www.besoccer.com/match/espanyol/real-zaragoza/1992574,1992,20,primera_division
+Real Sporting,Real Valladolid,1-0,https://www.besoccer.com/match/sporting-gijon/valladolid/1992575,1992,20,primera_division
+CD Logroñés,Tenerife,2-0,https://www.besoccer.com/match/logrones-cd/tenerife/1992576,1992,20,primera_division
+Mallorca,Real Oviedo,2-1,https://www.besoccer.com/match/mallorca/real-oviedo/1992577,1992,20,primera_division
+R. Sociedad,Barcelona,2-1,https://www.besoccer.com/match/real-sociedad/barcelona/1992578,1992,20,primera_division
+Real Madrid,Cádiz,1-1,https://www.besoccer.com/match/real-madrid/cadiz/1992579,1992,20,primera_division
+Sevilla,Athletic,1-2,https://www.besoccer.com/match/sevilla/athletic-bilbao/1992580,1992,20,primera_division
+Barcelona,Sevilla,1-0,https://www.besoccer.com/match/barcelona/sevilla/1992581,1992,21,primera_division
+Athletic,Real Sporting,2-0,https://www.besoccer.com/match/athletic-bilbao/sporting-gijon/1992582,1992,21,primera_division
+Atlético,Mallorca,3-0,https://www.besoccer.com/match/atletico-madrid/mallorca/1992583,1992,21,primera_division
+Cádiz,CD Logroñés,2-0,https://www.besoccer.com/match/cadiz/logrones-cd/1992584,1992,21,primera_division
+Osasuna,Real Burgos CF,1-1,https://www.besoccer.com/match/osasuna/real-burgos-cf/1992585,1992,21,primera_division
+Real Oviedo,Espanyol,1-0,https://www.besoccer.com/match/real-oviedo/espanyol/1992586,1992,21,primera_division
+Tenerife,Deportivo,1-0,https://www.besoccer.com/match/tenerife/deportivo/1992587,1992,21,primera_division
+Valencia,Albacete,1-1,https://www.besoccer.com/match/valencia-cf/albacete/1992588,1992,21,primera_division
+Real Valladolid,Real Madrid,2-1,https://www.besoccer.com/match/valladolid/real-madrid/1992589,1992,21,primera_division
+Real Zaragoza,R. Sociedad,1-3,https://www.besoccer.com/match/real-zaragoza/real-sociedad/1992590,1992,21,primera_division
+Real Zaragoza,Barcelona,0-4,https://www.besoccer.com/match/real-zaragoza/barcelona/1992591,1992,22,primera_division
+Albacete,Tenerife,1-1,https://www.besoccer.com/match/albacete/tenerife/1992592,1992,22,primera_division
+Deportivo,Cádiz,1-1,https://www.besoccer.com/match/deportivo/cadiz/1992593,1992,22,primera_division
+Espanyol,Atlético,1-2,https://www.besoccer.com/match/espanyol/atletico-madrid/1992594,1992,22,primera_division
+Real Sporting,Sevilla,2-1,https://www.besoccer.com/match/sporting-gijon/sevilla/1992595,1992,22,primera_division
+CD Logroñés,Real Valladolid,0-0,https://www.besoccer.com/match/logrones-cd/valladolid/1992596,1992,22,primera_division
+Mallorca,Osasuna,1-1,https://www.besoccer.com/match/mallorca/osasuna/1992597,1992,22,primera_division
+R. Sociedad,Real Oviedo,2-1,https://www.besoccer.com/match/real-sociedad/real-oviedo/1992598,1992,22,primera_division
+Real Burgos CF,Valencia,2-1,https://www.besoccer.com/match/real-burgos-cf/valencia-cf/1992599,1992,22,primera_division
+Real Madrid,Athletic,5-0,https://www.besoccer.com/match/real-madrid/athletic-bilbao/1992600,1992,22,primera_division
+Sevilla,Real Madrid,1-0,https://www.besoccer.com/match/sevilla/real-madrid/1992601,1992,23,primera_division
+Valencia,Mallorca,1-1,https://www.besoccer.com/match/valencia-cf/mallorca/1992602,1992,23,primera_division
+Athletic,CD Logroñés,1-2,https://www.besoccer.com/match/athletic-bilbao/logrones-cd/1992603,1992,23,primera_division
+Atlético,R. Sociedad,5-1,https://www.besoccer.com/match/atletico-madrid/real-sociedad/1992604,1992,23,primera_division
+Barcelona,Real Sporting,1-1,https://www.besoccer.com/match/barcelona/sporting-gijon/1992605,1992,23,primera_division
+Cádiz,Albacete,1-1,https://www.besoccer.com/match/cadiz/albacete/1992606,1992,23,primera_division
+Osasuna,Espanyol,0-1,https://www.besoccer.com/match/osasuna/espanyol/1992607,1992,23,primera_division
+Real Oviedo,Real Zaragoza,2-1,https://www.besoccer.com/match/real-oviedo/real-zaragoza/1992608,1992,23,primera_division
+Tenerife,Real Burgos CF,4-1,https://www.besoccer.com/match/tenerife/real-burgos-cf/1992609,1992,23,primera_division
+Real Valladolid,Deportivo,2-0,https://www.besoccer.com/match/valladolid/deportivo/1992610,1992,23,primera_division
+Espanyol,Valencia,0-0,https://www.besoccer.com/match/espanyol/valencia-cf/1992611,1992,24,primera_division
+Real Madrid,Real Sporting,1-0,https://www.besoccer.com/match/real-madrid/sporting-gijon/1992612,1992,24,primera_division
+Real Oviedo,Barcelona,0-2,https://www.besoccer.com/match/real-oviedo/barcelona/1992613,1992,24,primera_division
+Real Zaragoza,Atlético,1-0,https://www.besoccer.com/match/real-zaragoza/atletico-madrid/1992614,1992,24,primera_division
+Albacete,Real Valladolid,3-1,https://www.besoccer.com/match/albacete/valladolid/1992615,1992,24,primera_division
+Deportivo,Athletic,0-0,https://www.besoccer.com/match/deportivo/athletic-bilbao/1992616,1992,24,primera_division
+CD Logroñés,Sevilla,1-0,https://www.besoccer.com/match/logrones-cd/sevilla/1992617,1992,24,primera_division
+Mallorca,Tenerife,0-2,https://www.besoccer.com/match/mallorca/tenerife/1992618,1992,24,primera_division
+R. Sociedad,Osasuna,0-0,https://www.besoccer.com/match/real-sociedad/osasuna/1992619,1992,24,primera_division
+Real Burgos CF,Cádiz,1-1,https://www.besoccer.com/match/real-burgos-cf/cadiz/1992620,1992,24,primera_division
+Barcelona,Real Madrid,1-1,https://www.besoccer.com/match/barcelona/real-madrid/1992621,1992,25,primera_division
+Athletic,Albacete,1-0,https://www.besoccer.com/match/athletic-bilbao/albacete/1992622,1992,25,primera_division
+Atlético,Real Oviedo,3-1,https://www.besoccer.com/match/atletico-madrid/real-oviedo/1992623,1992,25,primera_division
+Cádiz,Mallorca,1-3,https://www.besoccer.com/match/cadiz/mallorca/1992624,1992,25,primera_division
+Real Sporting,CD Logroñés,1-1,https://www.besoccer.com/match/sporting-gijon/logrones-cd/1992625,1992,25,primera_division
+Osasuna,Real Zaragoza,1-0,https://www.besoccer.com/match/osasuna/real-zaragoza/1992626,1992,25,primera_division
+Sevilla,Deportivo,0-0,https://www.besoccer.com/match/sevilla/deportivo/1992627,1992,25,primera_division
+Tenerife,Espanyol,0-1,https://www.besoccer.com/match/tenerife/espanyol/1992628,1992,25,primera_division
+Valencia,R. Sociedad,1-2,https://www.besoccer.com/match/valencia-cf/real-sociedad/1992629,1992,25,primera_division
+Real Valladolid,Real Burgos CF,2-0,https://www.besoccer.com/match/valladolid/real-burgos-cf/1992630,1992,25,primera_division
+Atlético,Barcelona,2-2,https://www.besoccer.com/match/atletico-madrid/barcelona/1992631,1992,26,primera_division
+CD Logroñés,Real Madrid,1-0,https://www.besoccer.com/match/logrones-cd/real-madrid/1992632,1992,26,primera_division
+Albacete,Sevilla,0-0,https://www.besoccer.com/match/albacete/sevilla/1992633,1992,26,primera_division
+Deportivo,Real Sporting,5-2,https://www.besoccer.com/match/deportivo/sporting-gijon/1992634,1992,26,primera_division
+Espanyol,Cádiz,3-1,https://www.besoccer.com/match/espanyol/cadiz/1992635,1992,26,primera_division
+Mallorca,Real Valladolid,1-1,https://www.besoccer.com/match/mallorca/valladolid/1992636,1992,26,primera_division
+R. Sociedad,Tenerife,1-0,https://www.besoccer.com/match/real-sociedad/tenerife/1992637,1992,26,primera_division
+Real Burgos CF,Athletic,2-0,https://www.besoccer.com/match/real-burgos-cf/athletic-bilbao/1992638,1992,26,primera_division
+Real Oviedo,Osasuna,3-1,https://www.besoccer.com/match/real-oviedo/osasuna/1992639,1992,26,primera_division
+Real Zaragoza,Valencia,0-3,https://www.besoccer.com/match/real-zaragoza/valencia-cf/1992640,1992,26,primera_division
+Real Valladolid,Espanyol,0-0,https://www.besoccer.com/match/valladolid/espanyol/1992641,1992,27,primera_division
+Athletic,Mallorca,2-0,https://www.besoccer.com/match/athletic-bilbao/mallorca/1992642,1992,27,primera_division
+Barcelona,CD Logroñés,1-0,https://www.besoccer.com/match/barcelona/logrones-cd/1992643,1992,27,primera_division
+Cádiz,R. Sociedad,0-0,https://www.besoccer.com/match/cadiz/real-sociedad/1992644,1992,27,primera_division
+Real Sporting,Albacete,0-2,https://www.besoccer.com/match/sporting-gijon/albacete/1992645,1992,27,primera_division
+Osasuna,Atlético,1-1,https://www.besoccer.com/match/osasuna/atletico-madrid/1992646,1992,27,primera_division
+Real Madrid,Deportivo,1-0,https://www.besoccer.com/match/real-madrid/deportivo/1992647,1992,27,primera_division
+Sevilla,Real Burgos CF,3-2,https://www.besoccer.com/match/sevilla/real-burgos-cf/1992648,1992,27,primera_division
+Tenerife,Real Zaragoza,1-0,https://www.besoccer.com/match/tenerife/real-zaragoza/1992649,1992,27,primera_division
+Valencia,Real Oviedo,6-3,https://www.besoccer.com/match/valencia-cf/real-oviedo/1992650,1992,27,primera_division
+Albacete,Real Madrid,1-3,https://www.besoccer.com/match/albacete/real-madrid/1992651,1992,28,primera_division
+Mallorca,Sevilla,1-0,https://www.besoccer.com/match/mallorca/sevilla/1992652,1992,28,primera_division
+Osasuna,Barcelona,0-0,https://www.besoccer.com/match/osasuna/barcelona/1992653,1992,28,primera_division
+Atlético,Valencia,1-0,https://www.besoccer.com/match/atletico-madrid/valencia-cf/1992654,1992,28,primera_division
+Deportivo,CD Logroñés,2-2,https://www.besoccer.com/match/deportivo/logrones-cd/1992655,1992,28,primera_division
+Espanyol,Athletic,2-0,https://www.besoccer.com/match/espanyol/athletic-bilbao/1992656,1992,28,primera_division
+R. Sociedad,Real Valladolid,1-0,https://www.besoccer.com/match/real-sociedad/valladolid/1992657,1992,28,primera_division
+Real Burgos CF,Real Sporting,0-1,https://www.besoccer.com/match/real-burgos-cf/sporting-gijon/1992658,1992,28,primera_division
+Real Oviedo,Tenerife,2-0,https://www.besoccer.com/match/real-oviedo/tenerife/1992659,1992,28,primera_division
+Real Zaragoza,Cádiz,3-0,https://www.besoccer.com/match/real-zaragoza/cadiz/1992660,1992,28,primera_division
+Athletic,R. Sociedad,2-1,https://www.besoccer.com/match/athletic-bilbao/real-sociedad/1992661,1992,29,primera_division
+Valencia,Osasuna,1-2,https://www.besoccer.com/match/valencia-cf/osasuna/1992662,1992,29,primera_division
+Barcelona,Deportivo,4-1,https://www.besoccer.com/match/barcelona/deportivo/1992663,1992,29,primera_division
+Cádiz,Real Oviedo,3-1,https://www.besoccer.com/match/cadiz/real-oviedo/1992664,1992,29,primera_division
+Real Sporting,Mallorca,2-0,https://www.besoccer.com/match/sporting-gijon/mallorca/1992665,1992,29,primera_division
+CD Logroñés,Albacete,1-1,https://www.besoccer.com/match/logrones-cd/albacete/1992666,1992,29,primera_division
+Real Madrid,Real Burgos CF,2-0,https://www.besoccer.com/match/real-madrid/real-burgos-cf/1992667,1992,29,primera_division
+Sevilla,Espanyol,2-1,https://www.besoccer.com/match/sevilla/espanyol/1992668,1992,29,primera_division
+Tenerife,Atlético,0-1,https://www.besoccer.com/match/tenerife/atletico-madrid/1992669,1992,29,primera_division
+Real Valladolid,Real Zaragoza,0-0,https://www.besoccer.com/match/valladolid/real-zaragoza/1992670,1992,29,primera_division
+Mallorca,Real Madrid,0-0,https://www.besoccer.com/match/mallorca/real-madrid/1992671,1992,30,primera_division
+R. Sociedad,Sevilla,2-1,https://www.besoccer.com/match/real-sociedad/sevilla/1992672,1992,30,primera_division
+Valencia,Barcelona,1-0,https://www.besoccer.com/match/valencia-cf/barcelona/1992673,1992,30,primera_division
+Albacete,Deportivo,3-0,https://www.besoccer.com/match/albacete/deportivo/1992674,1992,30,primera_division
+Atlético,Cádiz,5-1,https://www.besoccer.com/match/atletico-madrid/cadiz/1992675,1992,30,primera_division
+Espanyol,Real Sporting,2-0,https://www.besoccer.com/match/espanyol/sporting-gijon/1992676,1992,30,primera_division
+Osasuna,Tenerife,2-0,https://www.besoccer.com/match/osasuna/tenerife/1992677,1992,30,primera_division
+Real Burgos CF,CD Logroñés,2-0,https://www.besoccer.com/match/real-burgos-cf/logrones-cd/1992678,1992,30,primera_division
+Real Oviedo,Real Valladolid,2-1,https://www.besoccer.com/match/real-oviedo/valladolid/1992679,1992,30,primera_division
+Real Zaragoza,Athletic,1-0,https://www.besoccer.com/match/real-zaragoza/athletic-bilbao/1992680,1992,30,primera_division
+Barcelona,Albacete,7-1,https://www.besoccer.com/match/barcelona/albacete/1992681,1992,31,primera_division
+Athletic,Real Oviedo,0-0,https://www.besoccer.com/match/athletic-bilbao/real-oviedo/1992682,1992,31,primera_division
+Cádiz,Osasuna,2-2,https://www.besoccer.com/match/cadiz/osasuna/1992683,1992,31,primera_division
+Deportivo,Real Burgos CF,2-2,https://www.besoccer.com/match/deportivo/real-burgos-cf/1992684,1992,31,primera_division
+Real Sporting,R. Sociedad,0-1,https://www.besoccer.com/match/sporting-gijon/real-sociedad/1992685,1992,31,primera_division
+CD Logroñés,Mallorca,2-1,https://www.besoccer.com/match/logrones-cd/mallorca/1992686,1992,31,primera_division
+Real Madrid,Espanyol,7-0,https://www.besoccer.com/match/real-madrid/espanyol/1992687,1992,31,primera_division
+Sevilla,Real Zaragoza,3-0,https://www.besoccer.com/match/sevilla/real-zaragoza/1992688,1992,31,primera_division
+Tenerife,Valencia,2-1,https://www.besoccer.com/match/tenerife/valencia-cf/1992689,1992,31,primera_division
+Real Valladolid,Atlético,0-1,https://www.besoccer.com/match/valladolid/atletico-madrid/1992690,1992,31,primera_division
+Tenerife,Barcelona,2-1,https://www.besoccer.com/match/tenerife/barcelona/1992691,1992,32,primera_division
+Valencia,Cádiz,4-0,https://www.besoccer.com/match/valencia-cf/cadiz/1992692,1992,32,primera_division
+Atlético,Athletic,3-1,https://www.besoccer.com/match/atletico-madrid/athletic-bilbao/1992693,1992,32,primera_division
+Espanyol,CD Logroñés,3-0,https://www.besoccer.com/match/espanyol/logrones-cd/1992694,1992,32,primera_division
+Mallorca,Deportivo,4-2,https://www.besoccer.com/match/mallorca/deportivo/1992695,1992,32,primera_division
+Osasuna,Real Valladolid,1-1,https://www.besoccer.com/match/osasuna/valladolid/1992696,1992,32,primera_division
+R. Sociedad,Real Madrid,2-2,https://www.besoccer.com/match/real-sociedad/real-madrid/1992697,1992,32,primera_division
+Real Burgos CF,Albacete,3-1,https://www.besoccer.com/match/real-burgos-cf/albacete/1992698,1992,32,primera_division
+Real Oviedo,Sevilla,1-0,https://www.besoccer.com/match/real-oviedo/sevilla/1992699,1992,32,primera_division
+Real Zaragoza,Real Sporting,3-1,https://www.besoccer.com/match/real-zaragoza/sporting-gijon/1992700,1992,32,primera_division
+Sevilla,Atlético,0-1,https://www.besoccer.com/match/sevilla/atletico-madrid/1992701,1992,33,primera_division
+Albacete,Mallorca,1-0,https://www.besoccer.com/match/albacete/mallorca/1992702,1992,33,primera_division
+Athletic,Osasuna,2-1,https://www.besoccer.com/match/athletic-bilbao/osasuna/1992703,1992,33,primera_division
+Barcelona,Real Burgos CF,1-1,https://www.besoccer.com/match/barcelona/real-burgos-cf/1992704,1992,33,primera_division
+Cádiz,Tenerife,0-0,https://www.besoccer.com/match/cadiz/tenerife/1992705,1992,33,primera_division
+Deportivo,Espanyol,2-2,https://www.besoccer.com/match/deportivo/espanyol/1992706,1992,33,primera_division
+Real Sporting,Real Oviedo,1-0,https://www.besoccer.com/match/sporting-gijon/real-oviedo/1992707,1992,33,primera_division
+CD Logroñés,R. Sociedad,1-1,https://www.besoccer.com/match/logrones-cd/real-sociedad/1992708,1992,33,primera_division
+Real Madrid,Real Zaragoza,2-0,https://www.besoccer.com/match/real-madrid/real-zaragoza/1992709,1992,33,primera_division
+Real Valladolid,Valencia,1-4,https://www.besoccer.com/match/valladolid/valencia-cf/1992710,1992,33,primera_division
+Real Oviedo,Real Madrid,1-0,https://www.besoccer.com/match/real-oviedo/real-madrid/1992711,1992,34,primera_division
+Valencia,Athletic,3-1,https://www.besoccer.com/match/valencia-cf/athletic-bilbao/1992712,1992,34,primera_division
+Atlético,Real Sporting,2-1,https://www.besoccer.com/match/atletico-madrid/sporting-gijon/1992713,1992,34,primera_division
+Cádiz,Barcelona,0-2,https://www.besoccer.com/match/cadiz/barcelona/1992714,1992,34,primera_division
+Espanyol,Albacete,2-0,https://www.besoccer.com/match/espanyol/albacete/1992715,1992,34,primera_division
+Mallorca,Real Burgos CF,2-2,https://www.besoccer.com/match/mallorca/real-burgos-cf/1992716,1992,34,primera_division
+Osasuna,Sevilla,1-0,https://www.besoccer.com/match/osasuna/sevilla/1992717,1992,34,primera_division
+R. Sociedad,Deportivo,1-1,https://www.besoccer.com/match/real-sociedad/deportivo/1992718,1992,34,primera_division
+Tenerife,Real Valladolid,0-0,https://www.besoccer.com/match/tenerife/valladolid/1992719,1992,34,primera_division
+Real Zaragoza,CD Logroñés,3-2,https://www.besoccer.com/match/real-zaragoza/logrones-cd/1992720,1992,34,primera_division
+Barcelona,Mallorca,3-0,https://www.besoccer.com/match/barcelona/mallorca/1992721,1992,35,primera_division
+Real Madrid,Atlético,3-2,https://www.besoccer.com/match/real-madrid/atletico-madrid/1992722,1992,35,primera_division
+Albacete,R. Sociedad,0-1,https://www.besoccer.com/match/albacete/real-sociedad/1992723,1992,35,primera_division
+Athletic,Tenerife,3-1,https://www.besoccer.com/match/athletic-bilbao/tenerife/1992724,1992,35,primera_division
+Deportivo,Real Zaragoza,3-0,https://www.besoccer.com/match/deportivo/real-zaragoza/1992725,1992,35,primera_division
+Real Sporting,Osasuna,1-0,https://www.besoccer.com/match/sporting-gijon/osasuna/1992726,1992,35,primera_division
+CD Logroñés,Real Oviedo,2-0,https://www.besoccer.com/match/logrones-cd/real-oviedo/1992727,1992,35,primera_division
+Real Burgos CF,Espanyol,2-1,https://www.besoccer.com/match/real-burgos-cf/espanyol/1992728,1992,35,primera_division
+Sevilla,Valencia,2-3,https://www.besoccer.com/match/sevilla/valencia-cf/1992729,1992,35,primera_division
+Real Valladolid,Cádiz,2-2,https://www.besoccer.com/match/valladolid/cadiz/1992730,1992,35,primera_division
+Osasuna,Real Madrid,1-1,https://www.besoccer.com/match/osasuna/real-madrid/1992731,1992,36,primera_division
+Valencia,Real Sporting,3-1,https://www.besoccer.com/match/valencia-cf/sporting-gijon/1992732,1992,36,primera_division
+Atlético,CD Logroñés,2-1,https://www.besoccer.com/match/atletico-madrid/logrones-cd/1992733,1992,36,primera_division
+Cádiz,Athletic,1-0,https://www.besoccer.com/match/cadiz/athletic-bilbao/1992734,1992,36,primera_division
+Espanyol,Mallorca,3-2,https://www.besoccer.com/match/espanyol/mallorca/1992735,1992,36,primera_division
+R. Sociedad,Real Burgos CF,4-0,https://www.besoccer.com/match/real-sociedad/real-burgos-cf/1992736,1992,36,primera_division
+Real Oviedo,Deportivo,2-1,https://www.besoccer.com/match/real-oviedo/deportivo/1992737,1992,36,primera_division
+Tenerife,Sevilla,4-1,https://www.besoccer.com/match/tenerife/sevilla/1992738,1992,36,primera_division
+Real Valladolid,Barcelona,0-6,https://www.besoccer.com/match/valladolid/barcelona/1992739,1992,36,primera_division
+Real Zaragoza,Albacete,1-0,https://www.besoccer.com/match/real-zaragoza/albacete/1992740,1992,36,primera_division
+CD Logroñés,Osasuna,0-0,https://www.besoccer.com/match/logrones-cd/osasuna/1992741,1992,37,primera_division
+Albacete,Real Oviedo,2-0,https://www.besoccer.com/match/albacete/real-oviedo/1992742,1992,37,primera_division
+Athletic,Real Valladolid,2-0,https://www.besoccer.com/match/athletic-bilbao/valladolid/1992743,1992,37,primera_division
+Deportivo,Atlético,1-1,https://www.besoccer.com/match/deportivo/atletico-madrid/1992744,1992,37,primera_division
+Espanyol,Barcelona,0-4,https://www.besoccer.com/match/espanyol/barcelona/1992745,1992,37,primera_division
+Real Sporting,Tenerife,1-1,https://www.besoccer.com/match/sporting-gijon/tenerife/1992746,1992,37,primera_division
+Mallorca,R. Sociedad,2-1,https://www.besoccer.com/match/mallorca/real-sociedad/1992747,1992,37,primera_division
+Real Burgos CF,Real Zaragoza,0-1,https://www.besoccer.com/match/real-burgos-cf/real-zaragoza/1992748,1992,37,primera_division
+Real Madrid,Valencia,2-1,https://www.besoccer.com/match/real-madrid/valencia-cf/1992749,1992,37,primera_division
+Sevilla,Cádiz,0-0,https://www.besoccer.com/match/sevilla/cadiz/1992750,1992,37,primera_division
+Valencia,CD Logroñés,1-1,https://www.besoccer.com/match/valencia-cf/logrones-cd/1992751,1992,38,primera_division
+Atlético,Albacete,4-1,https://www.besoccer.com/match/atletico-madrid/albacete/1992752,1992,38,primera_division
+Barcelona,Athletic,2-0,https://www.besoccer.com/match/barcelona/athletic-bilbao/1992753,1992,38,primera_division
+Cádiz,Real Sporting,1-1,https://www.besoccer.com/match/cadiz/sporting-gijon/1992754,1992,38,primera_division
+Osasuna,Deportivo,0-1,https://www.besoccer.com/match/osasuna/deportivo/1992755,1992,38,primera_division
+R. Sociedad,Espanyol,1-1,https://www.besoccer.com/match/real-sociedad/espanyol/1992756,1992,38,primera_division
+Real Oviedo,Real Burgos CF,3-1,https://www.besoccer.com/match/real-oviedo/real-burgos-cf/1992757,1992,38,primera_division
+Tenerife,Real Madrid,3-2,https://www.besoccer.com/match/tenerife/real-madrid/1992758,1992,38,primera_division
+Real Valladolid,Sevilla,1-0,https://www.besoccer.com/match/valladolid/sevilla/1992759,1992,38,primera_division
+Real Zaragoza,Mallorca,1-2,https://www.besoccer.com/match/real-zaragoza/mallorca/1992760,1992,38,primera_division

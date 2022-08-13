@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Blackburn Rovers,Sunderland,0-0,https://www.besoccer.com/match/blackburn-rovers-fc/sunderland-afc/2003687,2003,1,premier_league
+Charlton Athletic,Chelsea,2-3,https://www.besoccer.com/match/charlton-athletic-fc/chelsea-fc/2003688,2003,1,premier_league
+Everton,Tottenham Hotspur,2-2,https://www.besoccer.com/match/everton-fc/tottenham-hotspur-fc/2003689,2003,1,premier_league
+Fulham,Bolton Wanderers,4-1,https://www.besoccer.com/match/fulham/bolton-wanderers-fc/2003690,2003,1,premier_league
+Leeds United,Man. City,3-0,https://www.besoccer.com/match/leeds-united-afc/manchester-city-fc/2003691,2003,1,premier_league
+Man. Utd,West Bromwich Albion,1-0,https://www.besoccer.com/match/manchester-united-fc/west-bromwich/2003692,2003,1,premier_league
+Southampton,Middlesbrough,0-0,https://www.besoccer.com/match/southampton-fc/middlesbrough-fc/2003693,2003,1,premier_league
+Aston Villa,Liverpool,0-1,https://www.besoccer.com/match/aston-villa-fc/liverpool/2003695,2003,1,premier_league
+Arsenal,Birmingham City,2-0,https://www.besoccer.com/match/arsenal/birmingham-city-fc/2003694,2003,1,premier_league
+Newcastle,West Ham,4-0,https://www.besoccer.com/match/newcastle-united-fc/west-ham-united/2003696,2003,1,premier_league
+Chelsea,Man. Utd,2-2,https://www.besoccer.com/match/chelsea-fc/manchester-united-fc/2003697,2003,2,premier_league
+Man. City,Newcastle,1-0,https://www.besoccer.com/match/manchester-city-fc/newcastle-united-fc/2003701,2003,2,premier_league
+Birmingham City,Blackburn Rovers,0-1,https://www.besoccer.com/match/birmingham-city-fc/blackburn-rovers-fc/2003698,2003,2,premier_league
+Bolton Wanderers,Charlton Athletic,1-2,https://www.besoccer.com/match/bolton-wanderers-fc/charlton-athletic-fc/2003699,2003,2,premier_league
+Liverpool,Southampton,3-0,https://www.besoccer.com/match/liverpool/southampton-fc/2003700,2003,2,premier_league
+Middlesbrough,Fulham,2-2,https://www.besoccer.com/match/middlesbrough-fc/fulham/2003702,2003,2,premier_league
+Sunderland,Everton,0-1,https://www.besoccer.com/match/sunderland-afc/everton-fc/2003703,2003,2,premier_league
+Tottenham Hotspur,Aston Villa,1-0,https://www.besoccer.com/match/tottenham-hotspur-fc/aston-villa-fc/2003704,2003,2,premier_league
+West Ham,Arsenal,2-2,https://www.besoccer.com/match/west-ham-united/arsenal/2003706,2003,2,premier_league
+West Bromwich Albion,Leeds United,1-3,https://www.besoccer.com/match/west-bromwich/leeds-united-afc/2003705,2003,2,premier_league
+Charlton Athletic,Tottenham Hotspur,0-1,https://www.besoccer.com/match/charlton-athletic-fc/tottenham-hotspur-fc/2003708,2003,3,premier_league
+Arsenal,West Bromwich Albion,5-2,https://www.besoccer.com/match/arsenal/west-bromwich/2003707,2003,3,premier_league
+Aston Villa,Man. City,1-0,https://www.besoccer.com/match/aston-villa-fc/manchester-city-fc/2003709,2003,3,premier_league
+Leeds United,Sunderland,0-1,https://www.besoccer.com/match/leeds-united-afc/sunderland-afc/2003712,2003,3,premier_league
+Southampton,Chelsea,1-1,https://www.besoccer.com/match/southampton-fc/chelsea-fc/2003713,2003,3,premier_league
+Blackburn Rovers,Liverpool,2-2,https://www.besoccer.com/match/blackburn-rovers-fc/liverpool/2003710,2003,3,premier_league
+Everton,Birmingham City,1-1,https://www.besoccer.com/match/everton-fc/birmingham-city-fc/2003711,2003,3,premier_league
+Man. Utd,Middlesbrough,1-0,https://www.besoccer.com/match/manchester-united-fc/middlesbrough-fc/2003714,2003,3,premier_league
+Fulham,West Ham,0-1,https://www.besoccer.com/match/fulham/west-ham-united/2003715,2003,3,premier_league
+Newcastle,Bolton Wanderers,1-0,https://www.besoccer.com/match/newcastle-united-fc/bolton-wanderers-fc/2003716,2003,3,premier_league
+Birmingham City,Leeds United,2-1,https://www.besoccer.com/match/birmingham-city-fc/leeds-united-afc/2003717,2003,4,premier_league
+Man. City,Everton,3-1,https://www.besoccer.com/match/manchester-city-fc/everton-fc/2003718,2003,4,premier_league
+Middlesbrough,Blackburn Rovers,1-0,https://www.besoccer.com/match/middlesbrough-fc/blackburn-rovers-fc/2003719,2003,4,premier_league
+Sunderland,Man. Utd,1-1,https://www.besoccer.com/match/sunderland-afc/manchester-united-fc/2003720,2003,4,premier_league
+Tottenham Hotspur,Southampton,2-1,https://www.besoccer.com/match/tottenham-hotspur-fc/southampton-fc/2003721,2003,4,premier_league
+West Bromwich Albion,Fulham,1-0,https://www.besoccer.com/match/west-bromwich/fulham/2003722,2003,4,premier_league
+West Ham,Charlton Athletic,0-2,https://www.besoccer.com/match/west-ham-united/charlton-athletic-fc/2003723,2003,4,premier_league
+Bolton Wanderers,Aston Villa,1-0,https://www.besoccer.com/match/bolton-wanderers-fc/aston-villa-fc/2003724,2003,4,premier_league
+Chelsea,Arsenal,1-1,https://www.besoccer.com/match/chelsea-fc/arsenal/2003725,2003,4,premier_league
+Liverpool,Newcastle,2-2,https://www.besoccer.com/match/liverpool/newcastle-united-fc/2003726,2003,4,premier_league
+Middlesbrough,Sunderland,3-0,https://www.besoccer.com/match/middlesbrough-fc/sunderland-afc/2003728,2003,5,premier_league
+Arsenal,Man. City,2-1,https://www.besoccer.com/match/arsenal/manchester-city-fc/2003727,2003,5,premier_league
+Aston Villa,Charlton Athletic,2-0,https://www.besoccer.com/match/aston-villa-fc/charlton-athletic-fc/2003729,2003,5,premier_league
+Fulham,Tottenham Hotspur,3-2,https://www.besoccer.com/match/fulham/tottenham-hotspur-fc/2003731,2003,5,premier_league
+Southampton,Everton,1-0,https://www.besoccer.com/match/southampton-fc/everton-fc/2003735,2003,5,premier_league
+West Ham,West Bromwich Albion,0-1,https://www.besoccer.com/match/west-ham-united/west-bromwich/2003736,2003,5,premier_league
+Blackburn Rovers,Chelsea,2-3,https://www.besoccer.com/match/blackburn-rovers-fc/chelsea-fc/2003730,2003,5,premier_league
+Liverpool,Birmingham City,2-2,https://www.besoccer.com/match/liverpool/birmingham-city-fc/2003732,2003,5,premier_league
+Man. Utd,Bolton Wanderers,0-1,https://www.besoccer.com/match/manchester-united-fc/bolton-wanderers-fc/2003733,2003,5,premier_league
+Newcastle,Leeds United,0-2,https://www.besoccer.com/match/newcastle-united-fc/leeds-united-afc/2003734,2003,5,premier_league
+Leeds United,Man. Utd,1-0,https://www.besoccer.com/match/leeds-united-afc/manchester-united-fc/2003741,2003,6,premier_league
+Bolton Wanderers,Liverpool,2-3,https://www.besoccer.com/match/bolton-wanderers-fc/liverpool/2003737,2003,6,premier_league
+Charlton Athletic,Arsenal,0-3,https://www.besoccer.com/match/charlton-athletic-fc/arsenal/2003738,2003,6,premier_league
+Chelsea,Newcastle,3-0,https://www.besoccer.com/match/chelsea-fc/newcastle-united-fc/2003739,2003,6,premier_league
+Everton,Middlesbrough,2-1,https://www.besoccer.com/match/everton-fc/middlesbrough-fc/2003740,2003,6,premier_league
+Sunderland,Fulham,0-3,https://www.besoccer.com/match/sunderland-afc/fulham/2003742,2003,6,premier_league
+West Bromwich Albion,Southampton,1-0,https://www.besoccer.com/match/west-bromwich/southampton-fc/2003743,2003,6,premier_league
+Man. City,Blackburn Rovers,2-2,https://www.besoccer.com/match/manchester-city-fc/blackburn-rovers-fc/2003744,2003,6,premier_league
+Tottenham Hotspur,West Ham,3-2,https://www.besoccer.com/match/tottenham-hotspur-fc/west-ham-united/2003745,2003,6,premier_league
+Birmingham City,Aston Villa,3-0,https://www.besoccer.com/match/birmingham-city-fc/aston-villa-fc/2003746,2003,6,premier_league
+Newcastle,Sunderland,2-0,https://www.besoccer.com/match/newcastle-united-fc/sunderland-afc/2003751,2003,7,premier_league
+Arsenal,Bolton Wanderers,2-1,https://www.besoccer.com/match/arsenal/bolton-wanderers-fc/2003747,2003,7,premier_league
+Liverpool,West Bromwich Albion,2-0,https://www.besoccer.com/match/liverpool/west-bromwich/2003748,2003,7,premier_league
+Man. Utd,Tottenham Hotspur,1-0,https://www.besoccer.com/match/manchester-united-fc/tottenham-hotspur-fc/2003749,2003,7,premier_league
+Middlesbrough,Birmingham City,1-0,https://www.besoccer.com/match/middlesbrough-fc/birmingham-city-fc/2003750,2003,7,premier_league
+Southampton,Charlton Athletic,0-0,https://www.besoccer.com/match/southampton-fc/charlton-athletic-fc/2003752,2003,7,premier_league
+West Ham,Man. City,0-0,https://www.besoccer.com/match/west-ham-united/manchester-city-fc/2003753,2003,7,premier_league
+Aston Villa,Everton,3-2,https://www.besoccer.com/match/aston-villa-fc/everton-fc/2003754,2003,7,premier_league
+Blackburn Rovers,Leeds United,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/leeds-united-afc/2003755,2003,7,premier_league
+Fulham,Chelsea,0-0,https://www.besoccer.com/match/fulham/chelsea-fc/2003756,2003,7,premier_league
+Leeds United,Arsenal,1-4,https://www.besoccer.com/match/leeds-united-afc/arsenal/2003762,2003,8,premier_league
+Birmingham City,Newcastle,0-2,https://www.besoccer.com/match/birmingham-city-fc/newcastle-united-fc/2003757,2003,8,premier_league
+Bolton Wanderers,Southampton,1-1,https://www.besoccer.com/match/bolton-wanderers-fc/southampton-fc/2003758,2003,8,premier_league
+Charlton Athletic,Man. Utd,1-3,https://www.besoccer.com/match/charlton-athletic-fc/manchester-united-fc/2003759,2003,8,premier_league
+Chelsea,West Ham,2-3,https://www.besoccer.com/match/chelsea-fc/west-ham-united/2003760,2003,8,premier_league
+Everton,Fulham,2-0,https://www.besoccer.com/match/everton-fc/fulham/2003761,2003,8,premier_league
+Man. City,Liverpool,0-3,https://www.besoccer.com/match/manchester-city-fc/liverpool/2003763,2003,8,premier_league
+Sunderland,Aston Villa,1-0,https://www.besoccer.com/match/sunderland-afc/aston-villa-fc/2003764,2003,8,premier_league
+Tottenham Hotspur,Middlesbrough,0-3,https://www.besoccer.com/match/tottenham-hotspur-fc/middlesbrough-fc/2003765,2003,8,premier_league
+West Bromwich Albion,Blackburn Rovers,0-2,https://www.besoccer.com/match/west-bromwich/blackburn-rovers-fc/2003766,2003,8,premier_league
+Middlesbrough,Bolton Wanderers,2-0,https://www.besoccer.com/match/middlesbrough-fc/bolton-wanderers-fc/2003767,2003,9,premier_league
+Newcastle,West Bromwich Albion,2-1,https://www.besoccer.com/match/newcastle-united-fc/west-bromwich/2003768,2003,9,premier_league
+Southampton,Man. City,2-0,https://www.besoccer.com/match/southampton-fc/manchester-city-fc/2003769,2003,9,premier_league
+West Ham,Birmingham City,1-2,https://www.besoccer.com/match/west-ham-united/birmingham-city-fc/2003770,2003,9,premier_league
+Fulham,Charlton Athletic,1-0,https://www.besoccer.com/match/fulham/charlton-athletic-fc/2003774,2003,9,premier_league
+Arsenal,Sunderland,3-1,https://www.besoccer.com/match/arsenal/sunderland-afc/2003771,2003,9,premier_league
+Aston Villa,Leeds United,0-0,https://www.besoccer.com/match/aston-villa-fc/leeds-united-afc/2003772,2003,9,premier_league
+Blackburn Rovers,Tottenham Hotspur,1-2,https://www.besoccer.com/match/blackburn-rovers-fc/tottenham-hotspur-fc/2003773,2003,9,premier_league
+Liverpool,Chelsea,1-0,https://www.besoccer.com/match/liverpool/chelsea-fc/2003775,2003,9,premier_league
+Man. Utd,Everton,3-0,https://www.besoccer.com/match/manchester-united-fc/everton-fc/2003776,2003,9,premier_league
+Leeds United,Liverpool,0-1,https://www.besoccer.com/match/leeds-united-afc/liverpool/2003780,2003,10,premier_league
+Blackburn Rovers,Newcastle,5-2,https://www.besoccer.com/match/blackburn-rovers-fc/newcastle-united-fc/2003777,2003,10,premier_league
+Everton,Arsenal,2-1,https://www.besoccer.com/match/everton-fc/arsenal/2003778,2003,10,premier_league
+Fulham,Man. Utd,1-1,https://www.besoccer.com/match/fulham/manchester-united-fc/2003779,2003,10,premier_league
+Man. City,Chelsea,0-3,https://www.besoccer.com/match/manchester-city-fc/chelsea-fc/2003781,2003,10,premier_league
+Sunderland,West Ham,0-1,https://www.besoccer.com/match/sunderland-afc/west-ham-united/2003782,2003,10,premier_league
+West Bromwich Albion,Birmingham City,1-1,https://www.besoccer.com/match/west-bromwich/birmingham-city-fc/2003783,2003,10,premier_league
+Charlton Athletic,Middlesbrough,1-0,https://www.besoccer.com/match/charlton-athletic-fc/middlesbrough-fc/2003784,2003,10,premier_league
+Tottenham Hotspur,Bolton Wanderers,3-1,https://www.besoccer.com/match/tottenham-hotspur-fc/bolton-wanderers-fc/2003785,2003,10,premier_league
+Aston Villa,Southampton,0-1,https://www.besoccer.com/match/aston-villa-fc/southampton-fc/2003786,2003,10,premier_league
+Arsenal,Blackburn Rovers,1-2,https://www.besoccer.com/match/arsenal/blackburn-rovers-fc/2003787,2003,11,premier_league
+Birmingham City,Man. City,0-2,https://www.besoccer.com/match/birmingham-city-fc/manchester-city-fc/2003788,2003,11,premier_league
+Chelsea,West Bromwich Albion,2-0,https://www.besoccer.com/match/chelsea-fc/west-bromwich/2003789,2003,11,premier_league
+Liverpool,Tottenham Hotspur,2-1,https://www.besoccer.com/match/liverpool/tottenham-hotspur-fc/2003790,2003,11,premier_league
+Man. Utd,Aston Villa,1-1,https://www.besoccer.com/match/manchester-united-fc/aston-villa-fc/2003791,2003,11,premier_league
+Middlesbrough,Leeds United,2-2,https://www.besoccer.com/match/middlesbrough-fc/leeds-united-afc/2003792,2003,11,premier_league
+Newcastle,Charlton Athletic,2-1,https://www.besoccer.com/match/newcastle-united-fc/charlton-athletic-fc/2003793,2003,11,premier_league
+Southampton,Fulham,4-2,https://www.besoccer.com/match/southampton-fc/fulham/2003794,2003,11,premier_league
+West Ham,Everton,0-1,https://www.besoccer.com/match/west-ham-united/everton-fc/2003795,2003,11,premier_league
+Bolton Wanderers,Sunderland,1-1,https://www.besoccer.com/match/bolton-wanderers-fc/sunderland-afc/2003796,2003,11,premier_league
+Birmingham City,Bolton Wanderers,3-1,https://www.besoccer.com/match/birmingham-city-fc/bolton-wanderers-fc/2003797,2003,12,premier_league
+Liverpool,West Ham,2-0,https://www.besoccer.com/match/liverpool/west-ham-united/2003798,2003,12,premier_league
+Man. Utd,Southampton,2-1,https://www.besoccer.com/match/manchester-united-fc/southampton-fc/2003799,2003,12,premier_league
+West Bromwich Albion,Man. City,1-2,https://www.besoccer.com/match/west-bromwich/manchester-city-fc/2003800,2003,12,premier_league
+Fulham,Arsenal,0-1,https://www.besoccer.com/match/fulham/arsenal/2003803,2003,12,premier_league
+Tottenham Hotspur,Chelsea,0-0,https://www.besoccer.com/match/tottenham-hotspur-fc/chelsea-fc/2003805,2003,12,premier_league
+Blackburn Rovers,Aston Villa,0-0,https://www.besoccer.com/match/blackburn-rovers-fc/aston-villa-fc/2003801,2003,12,premier_league
+Leeds United,Everton,0-1,https://www.besoccer.com/match/leeds-united-afc/everton-fc/2003804,2003,12,premier_league
+Charlton Athletic,Sunderland,1-1,https://www.besoccer.com/match/charlton-athletic-fc/sunderland-afc/2003802,2003,12,premier_league
+Newcastle,Middlesbrough,2-0,https://www.besoccer.com/match/newcastle-united-fc/middlesbrough-fc/2003806,2003,12,premier_league
+Man. City,Man. Utd,3-1,https://www.besoccer.com/match/manchester-city-fc/manchester-united-fc/2003812,2003,13,premier_league
+Arsenal,Newcastle,1-0,https://www.besoccer.com/match/arsenal/newcastle-united-fc/2003807,2003,13,premier_league
+Aston Villa,Fulham,3-1,https://www.besoccer.com/match/aston-villa-fc/fulham/2003808,2003,13,premier_league
+Bolton Wanderers,West Bromwich Albion,1-1,https://www.besoccer.com/match/bolton-wanderers-fc/west-bromwich/2003809,2003,13,premier_league
+Chelsea,Birmingham City,3-0,https://www.besoccer.com/match/chelsea-fc/birmingham-city-fc/2003810,2003,13,premier_league
+Everton,Charlton Athletic,1-0,https://www.besoccer.com/match/everton-fc/charlton-athletic-fc/2003811,2003,13,premier_league
+Middlesbrough,Liverpool,1-0,https://www.besoccer.com/match/middlesbrough-fc/liverpool/2003813,2003,13,premier_league
+Southampton,Blackburn Rovers,1-1,https://www.besoccer.com/match/southampton-fc/blackburn-rovers-fc/2003814,2003,13,premier_league
+West Ham,Leeds United,3-4,https://www.besoccer.com/match/west-ham-united/leeds-united-afc/2003816,2003,13,premier_league
+Sunderland,Tottenham Hotspur,2-0,https://www.besoccer.com/match/sunderland-afc/tottenham-hotspur-fc/2003815,2003,13,premier_league
+Arsenal,Tottenham Hotspur,3-0,https://www.besoccer.com/match/arsenal/tottenham-hotspur-fc/2003817,2003,14,premier_league
+Chelsea,Middlesbrough,1-0,https://www.besoccer.com/match/chelsea-fc/middlesbrough-fc/2003818,2003,14,premier_league
+Man. City,Charlton Athletic,0-1,https://www.besoccer.com/match/manchester-city-fc/charlton-athletic-fc/2003819,2003,14,premier_league
+Newcastle,Southampton,2-1,https://www.besoccer.com/match/newcastle-united-fc/southampton-fc/2003820,2003,14,premier_league
+West Bromwich Albion,Aston Villa,0-0,https://www.besoccer.com/match/west-bromwich/aston-villa-fc/2003821,2003,14,premier_league
+Liverpool,Sunderland,0-0,https://www.besoccer.com/match/liverpool/sunderland-afc/2003825,2003,14,premier_league
+Birmingham City,Fulham,0-0,https://www.besoccer.com/match/birmingham-city-fc/fulham/2003822,2003,14,premier_league
+Blackburn Rovers,Everton,0-1,https://www.besoccer.com/match/blackburn-rovers-fc/everton-fc/2003823,2003,14,premier_league
+Leeds United,Bolton Wanderers,2-4,https://www.besoccer.com/match/leeds-united-afc/bolton-wanderers-fc/2003824,2003,14,premier_league
+West Ham,Man. Utd,1-1,https://www.besoccer.com/match/west-ham-united/manchester-united-fc/2003826,2003,14,premier_league
+Man. Utd,Newcastle,5-3,https://www.besoccer.com/match/manchester-united-fc/newcastle-united-fc/2003831,2003,15,premier_league
+Aston Villa,West Ham,4-1,https://www.besoccer.com/match/aston-villa-fc/west-ham-united/2003827,2003,15,premier_league
+Bolton Wanderers,Chelsea,1-1,https://www.besoccer.com/match/bolton-wanderers-fc/chelsea-fc/2003828,2003,15,premier_league
+Everton,West Bromwich Albion,1-0,https://www.besoccer.com/match/everton-fc/west-bromwich/2003829,2003,15,premier_league
+Fulham,Liverpool,3-2,https://www.besoccer.com/match/fulham/liverpool/2003830,2003,15,premier_league
+Middlesbrough,Man. City,3-1,https://www.besoccer.com/match/middlesbrough-fc/manchester-city-fc/2003832,2003,15,premier_league
+Southampton,Arsenal,3-2,https://www.besoccer.com/match/southampton-fc/arsenal/2003833,2003,15,premier_league
+Sunderland,Birmingham City,0-1,https://www.besoccer.com/match/sunderland-afc/birmingham-city-fc/2003834,2003,15,premier_league
+Tottenham Hotspur,Leeds United,2-0,https://www.besoccer.com/match/tottenham-hotspur-fc/leeds-united-afc/2003836,2003,15,premier_league
+Charlton Athletic,Blackburn Rovers,3-1,https://www.besoccer.com/match/charlton-athletic-fc/blackburn-rovers-fc/2003835,2003,15,premier_league
+Arsenal,Aston Villa,3-1,https://www.besoccer.com/match/arsenal/aston-villa-fc/2003837,2003,16,premier_league
+Birmingham City,Tottenham Hotspur,1-1,https://www.besoccer.com/match/birmingham-city-fc/tottenham-hotspur-fc/2003838,2003,16,premier_league
+Blackburn Rovers,Fulham,2-1,https://www.besoccer.com/match/blackburn-rovers-fc/fulham/2003839,2003,16,premier_league
+Chelsea,Sunderland,3-0,https://www.besoccer.com/match/chelsea-fc/sunderland-afc/2003840,2003,16,premier_league
+Man. City,Bolton Wanderers,2-0,https://www.besoccer.com/match/manchester-city-fc/bolton-wanderers-fc/2003841,2003,16,premier_league
+West Bromwich Albion,Middlesbrough,1-0,https://www.besoccer.com/match/west-bromwich/middlesbrough-fc/2003842,2003,16,premier_league
+Liverpool,Man. Utd,1-2,https://www.besoccer.com/match/liverpool/manchester-united-fc/2003844,2003,16,premier_league
+Newcastle,Everton,2-1,https://www.besoccer.com/match/newcastle-united-fc/everton-fc/2003845,2003,16,premier_league
+Leeds United,Charlton Athletic,1-2,https://www.besoccer.com/match/leeds-united-afc/charlton-athletic-fc/2003843,2003,16,premier_league
+West Ham,Southampton,0-1,https://www.besoccer.com/match/west-ham-united/southampton-fc/2003846,2003,16,premier_league
+Man. Utd,Arsenal,2-0,https://www.besoccer.com/match/manchester-united-fc/arsenal/2003852,2003,17,premier_league
+Aston Villa,Newcastle,0-1,https://www.besoccer.com/match/aston-villa-fc/newcastle-united-fc/2003847,2003,17,premier_league
+Bolton Wanderers,Blackburn Rovers,1-1,https://www.besoccer.com/match/bolton-wanderers-fc/blackburn-rovers-fc/2003848,2003,17,premier_league
+Charlton Athletic,Liverpool,2-0,https://www.besoccer.com/match/charlton-athletic-fc/liverpool/2003849,2003,17,premier_league
+Everton,Chelsea,1-3,https://www.besoccer.com/match/everton-fc/chelsea-fc/2003850,2003,17,premier_league
+Fulham,Leeds United,1-0,https://www.besoccer.com/match/fulham/leeds-united-afc/2003851,2003,17,premier_league
+Middlesbrough,West Ham,2-2,https://www.besoccer.com/match/middlesbrough-fc/west-ham-united/2003853,2003,17,premier_league
+Southampton,Birmingham City,2-0,https://www.besoccer.com/match/southampton-fc/birmingham-city-fc/2003854,2003,17,premier_league
+Tottenham Hotspur,West Bromwich Albion,3-1,https://www.besoccer.com/match/tottenham-hotspur-fc/west-bromwich/2003855,2003,17,premier_league
+Sunderland,Man. City,0-3,https://www.besoccer.com/match/sunderland-afc/manchester-city-fc/2003856,2003,17,premier_league
+Man. Utd,West Ham,3-0,https://www.besoccer.com/match/manchester-united-fc/west-ham-united/2003860,2003,18,premier_league
+Aston Villa,West Bromwich Albion,2-1,https://www.besoccer.com/match/aston-villa-fc/west-bromwich/2003857,2003,18,premier_league
+Charlton Athletic,Man. City,2-2,https://www.besoccer.com/match/charlton-athletic-fc/manchester-city-fc/2003858,2003,18,premier_league
+Everton,Blackburn Rovers,2-1,https://www.besoccer.com/match/everton-fc/blackburn-rovers-fc/2003859,2003,18,premier_league
+Middlesbrough,Chelsea,1-1,https://www.besoccer.com/match/middlesbrough-fc/chelsea-fc/2003861,2003,18,premier_league
+Southampton,Newcastle,1-1,https://www.besoccer.com/match/southampton-fc/newcastle-united-fc/2003862,2003,18,premier_league
+Fulham,Birmingham City,0-1,https://www.besoccer.com/match/fulham/birmingham-city-fc/2003863,2003,18,premier_league
+Tottenham Hotspur,Arsenal,1-1,https://www.besoccer.com/match/tottenham-hotspur-fc/arsenal/2003865,2003,18,premier_league
+Sunderland,Liverpool,2-1,https://www.besoccer.com/match/sunderland-afc/liverpool/2003864,2003,18,premier_league
+Bolton Wanderers,Leeds United,0-3,https://www.besoccer.com/match/bolton-wanderers-fc/leeds-united-afc/2003866,2003,18,premier_league
+Arsenal,Middlesbrough,2-0,https://www.besoccer.com/match/arsenal/middlesbrough-fc/2003867,2003,19,premier_league
+Birmingham City,Charlton Athletic,1-1,https://www.besoccer.com/match/birmingham-city-fc/charlton-athletic-fc/2003868,2003,19,premier_league
+Chelsea,Aston Villa,2-0,https://www.besoccer.com/match/chelsea-fc/aston-villa-fc/2003869,2003,19,premier_league
+Leeds United,Southampton,1-1,https://www.besoccer.com/match/leeds-united-afc/southampton-fc/2003870,2003,19,premier_league
+Newcastle,Fulham,2-0,https://www.besoccer.com/match/newcastle-united-fc/fulham/2003871,2003,19,premier_league
+West Bromwich Albion,Sunderland,2-2,https://www.besoccer.com/match/west-bromwich/sunderland-afc/2003872,2003,19,premier_league
+West Ham,Bolton Wanderers,1-1,https://www.besoccer.com/match/west-ham-united/bolton-wanderers-fc/2003873,2003,19,premier_league
+Blackburn Rovers,Man. Utd,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/manchester-united-fc/2003874,2003,19,premier_league
+Liverpool,Everton,0-0,https://www.besoccer.com/match/liverpool/everton-fc/2003875,2003,19,premier_league
+Man. City,Tottenham Hotspur,2-3,https://www.besoccer.com/match/manchester-city-fc/tottenham-hotspur-fc/2003876,2003,19,premier_league
+Chelsea,Southampton,0-0,https://www.besoccer.com/match/chelsea-fc/southampton-fc/2003879,2003,20,premier_league
+Tottenham Hotspur,Charlton Athletic,2-2,https://www.besoccer.com/match/tottenham-hotspur-fc/charlton-athletic-fc/2003884,2003,20,premier_league
+West Ham,Fulham,1-1,https://www.besoccer.com/match/west-ham-united/fulham/2003886,2003,20,premier_league
+Bolton Wanderers,Newcastle,4-3,https://www.besoccer.com/match/bolton-wanderers-fc/newcastle-united-fc/2003878,2003,20,premier_league
+West Bromwich Albion,Arsenal,1-2,https://www.besoccer.com/match/west-bromwich/arsenal/2003885,2003,20,premier_league
+Birmingham City,Everton,1-1,https://www.besoccer.com/match/birmingham-city-fc/everton-fc/2003877,2003,20,premier_league
+Liverpool,Blackburn Rovers,1-1,https://www.besoccer.com/match/liverpool/blackburn-rovers-fc/2003880,2003,20,premier_league
+Man. City,Aston Villa,3-1,https://www.besoccer.com/match/manchester-city-fc/aston-villa-fc/2003881,2003,20,premier_league
+Sunderland,Leeds United,1-2,https://www.besoccer.com/match/sunderland-afc/leeds-united-afc/2003883,2003,20,premier_league
+Middlesbrough,Man. Utd,3-1,https://www.besoccer.com/match/middlesbrough-fc/manchester-united-fc/2003882,2003,20,premier_league
+Aston Villa,Middlesbrough,1-0,https://www.besoccer.com/match/aston-villa-fc/middlesbrough-fc/2003887,2003,21,premier_league
+Blackburn Rovers,West Ham,2-2,https://www.besoccer.com/match/blackburn-rovers-fc/west-ham-united/2003888,2003,21,premier_league
+Charlton Athletic,West Bromwich Albion,1-0,https://www.besoccer.com/match/charlton-athletic-fc/west-bromwich/2003889,2003,21,premier_league
+Everton,Bolton Wanderers,0-0,https://www.besoccer.com/match/everton-fc/bolton-wanderers-fc/2003890,2003,21,premier_league
+Fulham,Man. City,0-1,https://www.besoccer.com/match/fulham/manchester-city-fc/2003891,2003,21,premier_league
+Leeds United,Chelsea,2-0,https://www.besoccer.com/match/leeds-united-afc/chelsea-fc/2003892,2003,21,premier_league
+Man. Utd,Birmingham City,2-0,https://www.besoccer.com/match/manchester-united-fc/birmingham-city-fc/2003893,2003,21,premier_league
+Southampton,Sunderland,2-1,https://www.besoccer.com/match/southampton-fc/sunderland-afc/2003894,2003,21,premier_league
+Newcastle,Tottenham Hotspur,2-1,https://www.besoccer.com/match/newcastle-united-fc/tottenham-hotspur-fc/2003896,2003,21,premier_league
+Arsenal,Liverpool,1-1,https://www.besoccer.com/match/arsenal/liverpool/2003895,2003,21,premier_league
+Man. Utd,Sunderland,2-1,https://www.besoccer.com/match/manchester-united-fc/sunderland-afc/2003902,2003,22,premier_league
+Arsenal,Chelsea,3-2,https://www.besoccer.com/match/arsenal/chelsea-fc/2003897,2003,22,premier_league
+Aston Villa,Bolton Wanderers,2-0,https://www.besoccer.com/match/aston-villa-fc/bolton-wanderers-fc/2003898,2003,22,premier_league
+Blackburn Rovers,Middlesbrough,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/middlesbrough-fc/2003899,2003,22,premier_league
+Everton,Man. City,2-2,https://www.besoccer.com/match/everton-fc/manchester-city-fc/2003900,2003,22,premier_league
+Leeds United,Birmingham City,2-0,https://www.besoccer.com/match/leeds-united-afc/birmingham-city-fc/2003901,2003,22,premier_league
+Newcastle,Liverpool,1-0,https://www.besoccer.com/match/newcastle-united-fc/liverpool/2003903,2003,22,premier_league
+Southampton,Tottenham Hotspur,1-0,https://www.besoccer.com/match/southampton-fc/tottenham-hotspur-fc/2003904,2003,22,premier_league
+Charlton Athletic,West Ham,4-2,https://www.besoccer.com/match/charlton-athletic-fc/west-ham-united/2003905,2003,22,premier_league
+Fulham,West Bromwich Albion,3-0,https://www.besoccer.com/match/fulham/west-bromwich/2003906,2003,22,premier_league
+Bolton Wanderers,Fulham,0-0,https://www.besoccer.com/match/bolton-wanderers-fc/fulham/2003907,2003,23,premier_league
+Chelsea,Charlton Athletic,4-1,https://www.besoccer.com/match/chelsea-fc/charlton-athletic-fc/2003908,2003,23,premier_league
+Liverpool,Aston Villa,1-1,https://www.besoccer.com/match/liverpool/aston-villa-fc/2003909,2003,23,premier_league
+Man. City,Leeds United,2-1,https://www.besoccer.com/match/manchester-city-fc/leeds-united-afc/2003910,2003,23,premier_league
+Middlesbrough,Southampton,2-2,https://www.besoccer.com/match/middlesbrough-fc/southampton-fc/2003911,2003,23,premier_league
+Sunderland,Blackburn Rovers,0-0,https://www.besoccer.com/match/sunderland-afc/blackburn-rovers-fc/2003912,2003,23,premier_league
+West Bromwich Albion,Man. Utd,1-3,https://www.besoccer.com/match/west-bromwich/manchester-united-fc/2003913,2003,23,premier_league
+West Ham,Newcastle,2-2,https://www.besoccer.com/match/west-ham-united/newcastle-united-fc/2003914,2003,23,premier_league
+Tottenham Hotspur,Everton,4-3,https://www.besoccer.com/match/tottenham-hotspur-fc/everton-fc/2003916,2003,23,premier_league
+Birmingham City,Arsenal,0-4,https://www.besoccer.com/match/birmingham-city-fc/arsenal/2003915,2003,23,premier_league
+Man. Utd,Chelsea,2-1,https://www.besoccer.com/match/manchester-united-fc/chelsea-fc/2003922,2003,24,premier_league
+Aston Villa,Tottenham Hotspur,0-1,https://www.besoccer.com/match/aston-villa-fc/tottenham-hotspur-fc/2003917,2003,24,premier_league
+Blackburn Rovers,Birmingham City,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/birmingham-city-fc/2003918,2003,24,premier_league
+Charlton Athletic,Bolton Wanderers,1-1,https://www.besoccer.com/match/charlton-athletic-fc/bolton-wanderers-fc/2003919,2003,24,premier_league
+Everton,Sunderland,2-1,https://www.besoccer.com/match/everton-fc/sunderland-afc/2003920,2003,24,premier_league
+Leeds United,West Bromwich Albion,0-0,https://www.besoccer.com/match/leeds-united-afc/west-bromwich/2003921,2003,24,premier_league
+Newcastle,Man. City,2-0,https://www.besoccer.com/match/newcastle-united-fc/manchester-city-fc/2003923,2003,24,premier_league
+Southampton,Liverpool,0-1,https://www.besoccer.com/match/southampton-fc/liverpool/2003924,2003,24,premier_league
+Arsenal,West Ham,3-1,https://www.besoccer.com/match/arsenal/west-ham-united/2003925,2003,24,premier_league
+Fulham,Middlesbrough,1-0,https://www.besoccer.com/match/fulham/middlesbrough-fc/2003926,2003,24,premier_league
+Middlesbrough,Aston Villa,2-5,https://www.besoccer.com/match/middlesbrough-fc/aston-villa-fc/2003929,2003,25,premier_league
+Bolton Wanderers,Everton,1-2,https://www.besoccer.com/match/bolton-wanderers-fc/everton-fc/2003927,2003,25,premier_league
+Chelsea,Leeds United,3-2,https://www.besoccer.com/match/chelsea-fc/leeds-united-afc/2003928,2003,25,premier_league
+Sunderland,Southampton,0-1,https://www.besoccer.com/match/sunderland-afc/southampton-fc/2003930,2003,25,premier_league
+Man. City,Fulham,4-1,https://www.besoccer.com/match/manchester-city-fc/fulham/2003932,2003,25,premier_league
+Tottenham Hotspur,Newcastle,0-1,https://www.besoccer.com/match/tottenham-hotspur-fc/newcastle-united-fc/2003933,2003,25,premier_league
+West Bromwich Albion,Charlton Athletic,0-1,https://www.besoccer.com/match/west-bromwich/charlton-athletic-fc/2003934,2003,25,premier_league
+West Ham,Blackburn Rovers,2-1,https://www.besoccer.com/match/west-ham-united/blackburn-rovers-fc/2003935,2003,25,premier_league
+Liverpool,Arsenal,2-2,https://www.besoccer.com/match/liverpool/arsenal/2003931,2003,25,premier_league
+Birmingham City,Man. Utd,0-1,https://www.besoccer.com/match/birmingham-city-fc/manchester-united-fc/2003936,2003,25,premier_league
+Arsenal,Fulham,2-1,https://www.besoccer.com/match/arsenal/fulham/2003937,2003,26,premier_league
+Bolton Wanderers,Birmingham City,4-2,https://www.besoccer.com/match/bolton-wanderers-fc/birmingham-city-fc/2003938,2003,26,premier_league
+Chelsea,Tottenham Hotspur,1-1,https://www.besoccer.com/match/chelsea-fc/tottenham-hotspur-fc/2003939,2003,26,premier_league
+Everton,Leeds United,2-0,https://www.besoccer.com/match/everton-fc/leeds-united-afc/2003940,2003,26,premier_league
+Man. City,West Bromwich Albion,1-2,https://www.besoccer.com/match/manchester-city-fc/west-bromwich/2003941,2003,26,premier_league
+Southampton,Man. Utd,0-2,https://www.besoccer.com/match/southampton-fc/manchester-united-fc/2003942,2003,26,premier_league
+Sunderland,Charlton Athletic,1-3,https://www.besoccer.com/match/sunderland-afc/charlton-athletic-fc/2003943,2003,26,premier_league
+West Ham,Liverpool,0-3,https://www.besoccer.com/match/west-ham-united/liverpool/2003945,2003,26,premier_league
+Aston Villa,Blackburn Rovers,3-0,https://www.besoccer.com/match/aston-villa-fc/blackburn-rovers-fc/2003944,2003,26,premier_league
+Middlesbrough,Newcastle,1-0,https://www.besoccer.com/match/middlesbrough-fc/newcastle-united-fc/2003946,2003,26,premier_league
+Liverpool,Middlesbrough,1-1,https://www.besoccer.com/match/liverpool/middlesbrough-fc/2003952,2003,27,premier_league
+Birmingham City,Chelsea,1-3,https://www.besoccer.com/match/birmingham-city-fc/chelsea-fc/2003947,2003,27,premier_league
+Blackburn Rovers,Southampton,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/southampton-fc/2003948,2003,27,premier_league
+Charlton Athletic,Everton,2-1,https://www.besoccer.com/match/charlton-athletic-fc/everton-fc/2003949,2003,27,premier_league
+Fulham,Aston Villa,2-1,https://www.besoccer.com/match/fulham/aston-villa-fc/2003950,2003,27,premier_league
+Leeds United,West Ham,1-0,https://www.besoccer.com/match/leeds-united-afc/west-ham-united/2003951,2003,27,premier_league
+Tottenham Hotspur,Sunderland,4-1,https://www.besoccer.com/match/tottenham-hotspur-fc/sunderland-afc/2003953,2003,27,premier_league
+West Bromwich Albion,Bolton Wanderers,1-1,https://www.besoccer.com/match/west-bromwich/bolton-wanderers-fc/2003954,2003,27,premier_league
+Man. Utd,Man. City,1-1,https://www.besoccer.com/match/manchester-united-fc/manchester-city-fc/2003955,2003,27,premier_league
+Newcastle,Arsenal,1-1,https://www.besoccer.com/match/newcastle-united-fc/arsenal/2003956,2003,27,premier_league
+Bolton Wanderers,Man. Utd,1-1,https://www.besoccer.com/match/bolton-wanderers-fc/manchester-united-fc/2003957,2003,28,premier_league
+Everton,Southampton,2-1,https://www.besoccer.com/match/everton-fc/southampton-fc/2003960,2003,28,premier_league
+Charlton Athletic,Aston Villa,3-0,https://www.besoccer.com/match/charlton-athletic-fc/aston-villa-fc/2003958,2003,28,premier_league
+Chelsea,Blackburn Rovers,1-2,https://www.besoccer.com/match/chelsea-fc/blackburn-rovers-fc/2003959,2003,28,premier_league
+Leeds United,Newcastle,0-3,https://www.besoccer.com/match/leeds-united-afc/newcastle-united-fc/2003961,2003,28,premier_league
+Man. City,Arsenal,1-5,https://www.besoccer.com/match/manchester-city-fc/arsenal/2003962,2003,28,premier_league
+Sunderland,Middlesbrough,1-3,https://www.besoccer.com/match/sunderland-afc/middlesbrough-fc/2003963,2003,28,premier_league
+West Bromwich Albion,West Ham,1-2,https://www.besoccer.com/match/west-bromwich/west-ham-united/2003965,2003,28,premier_league
+Birmingham City,Liverpool,2-1,https://www.besoccer.com/match/birmingham-city-fc/liverpool/2003964,2003,28,premier_league
+Tottenham Hotspur,Fulham,1-1,https://www.besoccer.com/match/tottenham-hotspur-fc/fulham/2003966,2003,28,premier_league
+Newcastle,Chelsea,2-1,https://www.besoccer.com/match/newcastle-united-fc/chelsea-fc/2003970,2003,29,premier_league
+Blackburn Rovers,Man. City,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/manchester-city-fc/2003967,2003,29,premier_league
+Fulham,Sunderland,1-0,https://www.besoccer.com/match/fulham/sunderland-afc/2003968,2003,29,premier_league
+Middlesbrough,Everton,1-1,https://www.besoccer.com/match/middlesbrough-fc/everton-fc/2003969,2003,29,premier_league
+Southampton,West Bromwich Albion,1-0,https://www.besoccer.com/match/southampton-fc/west-bromwich/2003971,2003,29,premier_league
+West Ham,Tottenham Hotspur,2-0,https://www.besoccer.com/match/west-ham-united/tottenham-hotspur-fc/2003972,2003,29,premier_league
+Arsenal,Charlton Athletic,2-0,https://www.besoccer.com/match/arsenal/charlton-athletic-fc/2003973,2003,29,premier_league
+Aston Villa,Birmingham City,0-2,https://www.besoccer.com/match/aston-villa-fc/birmingham-city-fc/2003974,2003,29,premier_league
+Man. Utd,Leeds United,2-1,https://www.besoccer.com/match/manchester-united-fc/leeds-united-afc/2003975,2003,29,premier_league
+Liverpool,Bolton Wanderers,2-0,https://www.besoccer.com/match/liverpool/bolton-wanderers-fc/2003976,2003,29,premier_league
+Aston Villa,Man. Utd,0-1,https://www.besoccer.com/match/aston-villa-fc/manchester-united-fc/2003977,2003,30,premier_league
+Blackburn Rovers,Arsenal,2-0,https://www.besoccer.com/match/blackburn-rovers-fc/arsenal/2003978,2003,30,premier_league
+Charlton Athletic,Newcastle,0-2,https://www.besoccer.com/match/charlton-athletic-fc/newcastle-united-fc/2003979,2003,30,premier_league
+Everton,West Ham,0-0,https://www.besoccer.com/match/everton-fc/west-ham-united/2003980,2003,30,premier_league
+Fulham,Southampton,2-2,https://www.besoccer.com/match/fulham/southampton-fc/2003981,2003,30,premier_league
+Leeds United,Middlesbrough,2-3,https://www.besoccer.com/match/leeds-united-afc/middlesbrough-fc/2003982,2003,30,premier_league
+Sunderland,Bolton Wanderers,0-2,https://www.besoccer.com/match/sunderland-afc/bolton-wanderers-fc/2003983,2003,30,premier_league
+Man. City,Birmingham City,1-0,https://www.besoccer.com/match/manchester-city-fc/birmingham-city-fc/2003984,2003,30,premier_league
+Tottenham Hotspur,Liverpool,2-3,https://www.besoccer.com/match/tottenham-hotspur-fc/liverpool/2003985,2003,30,premier_league
+West Bromwich Albion,Chelsea,0-2,https://www.besoccer.com/match/west-bromwich/chelsea-fc/2003986,2003,30,premier_league
+Birmingham City,West Bromwich Albion,1-0,https://www.besoccer.com/match/birmingham-city-fc/west-bromwich/2003987,2003,31,premier_league
+Man. Utd,Fulham,3-0,https://www.besoccer.com/match/manchester-united-fc/fulham/2003989,2003,31,premier_league
+Chelsea,Man. City,5-0,https://www.besoccer.com/match/chelsea-fc/manchester-city-fc/2003988,2003,31,premier_league
+Middlesbrough,Charlton Athletic,1-1,https://www.besoccer.com/match/middlesbrough-fc/charlton-athletic-fc/2003990,2003,31,premier_league
+Newcastle,Blackburn Rovers,5-1,https://www.besoccer.com/match/newcastle-united-fc/blackburn-rovers-fc/2003991,2003,31,premier_league
+Southampton,Aston Villa,2-2,https://www.besoccer.com/match/southampton-fc/aston-villa-fc/2003992,2003,31,premier_league
+West Ham,Sunderland,2-0,https://www.besoccer.com/match/west-ham-united/sunderland-afc/2003993,2003,31,premier_league
+Liverpool,Leeds United,3-1,https://www.besoccer.com/match/liverpool/leeds-united-afc/2003995,2003,31,premier_league
+Arsenal,Everton,2-1,https://www.besoccer.com/match/arsenal/everton-fc/2003994,2003,31,premier_league
+Bolton Wanderers,Tottenham Hotspur,1-0,https://www.besoccer.com/match/bolton-wanderers-fc/tottenham-hotspur-fc/2003996,2003,31,premier_league
+Bolton Wanderers,Man. City,2-0,https://www.besoccer.com/match/bolton-wanderers-fc/manchester-city-fc/2003998,2003,32,premier_league
+Man. Utd,Liverpool,4-0,https://www.besoccer.com/match/manchester-united-fc/liverpool/20031000,2003,32,premier_league
+Aston Villa,Arsenal,1-1,https://www.besoccer.com/match/aston-villa-fc/arsenal/2003997,2003,32,premier_league
+Charlton Athletic,Leeds United,1-6,https://www.besoccer.com/match/charlton-athletic-fc/leeds-united-afc/2003999,2003,32,premier_league
+Middlesbrough,West Bromwich Albion,3-0,https://www.besoccer.com/match/middlesbrough-fc/west-bromwich/20031001,2003,32,premier_league
+Southampton,West Ham,1-1,https://www.besoccer.com/match/southampton-fc/west-ham-united/20031002,2003,32,premier_league
+Sunderland,Chelsea,1-2,https://www.besoccer.com/match/sunderland-afc/chelsea-fc/20031003,2003,32,premier_league
+Tottenham Hotspur,Birmingham City,2-1,https://www.besoccer.com/match/tottenham-hotspur-fc/birmingham-city-fc/20031004,2003,32,premier_league
+Everton,Newcastle,2-1,https://www.besoccer.com/match/everton-fc/newcastle-united-fc/20031005,2003,32,premier_league
+Fulham,Blackburn Rovers,0-4,https://www.besoccer.com/match/fulham/blackburn-rovers-fc/20031006,2003,32,premier_league
+Newcastle,Man. Utd,2-6,https://www.besoccer.com/match/newcastle-united-fc/manchester-united-fc/20031013,2003,33,premier_league
+Birmingham City,Sunderland,2-0,https://www.besoccer.com/match/birmingham-city-fc/sunderland-afc/20031007,2003,33,premier_league
+Blackburn Rovers,Charlton Athletic,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/charlton-athletic-fc/20031008,2003,33,premier_league
+Chelsea,Bolton Wanderers,1-0,https://www.besoccer.com/match/chelsea-fc/bolton-wanderers-fc/20031009,2003,33,premier_league
+Leeds United,Tottenham Hotspur,2-2,https://www.besoccer.com/match/leeds-united-afc/tottenham-hotspur-fc/20031010,2003,33,premier_league
+Liverpool,Fulham,2-0,https://www.besoccer.com/match/liverpool/fulham/20031011,2003,33,premier_league
+Man. City,Middlesbrough,0-0,https://www.besoccer.com/match/manchester-city-fc/middlesbrough-fc/20031012,2003,33,premier_league
+West Bromwich Albion,Everton,1-2,https://www.besoccer.com/match/west-bromwich/everton-fc/20031014,2003,33,premier_league
+West Ham,Aston Villa,2-2,https://www.besoccer.com/match/west-ham-united/aston-villa-fc/20031015,2003,33,premier_league
+Arsenal,Southampton,6-1,https://www.besoccer.com/match/arsenal/southampton-fc/20031016,2003,33,premier_league
+Tottenham Hotspur,Man. City,0-2,https://www.besoccer.com/match/tottenham-hotspur-fc/manchester-city-fc/20031017,2003,34,premier_league
+Aston Villa,Chelsea,2-1,https://www.besoccer.com/match/aston-villa-fc/chelsea-fc/20031018,2003,34,premier_league
+Bolton Wanderers,West Ham,1-0,https://www.besoccer.com/match/bolton-wanderers-fc/west-ham-united/20031019,2003,34,premier_league
+Charlton Athletic,Birmingham City,0-2,https://www.besoccer.com/match/charlton-athletic-fc/birmingham-city-fc/20031020,2003,34,premier_league
+Everton,Liverpool,1-2,https://www.besoccer.com/match/everton-fc/liverpool/20031021,2003,34,premier_league
+Fulham,Newcastle,2-1,https://www.besoccer.com/match/fulham/newcastle-united-fc/20031022,2003,34,premier_league
+Man. Utd,Blackburn Rovers,3-1,https://www.besoccer.com/match/manchester-united-fc/blackburn-rovers-fc/20031023,2003,34,premier_league
+Middlesbrough,Arsenal,0-2,https://www.besoccer.com/match/middlesbrough-fc/arsenal/20031024,2003,34,premier_league
+Southampton,Leeds United,3-2,https://www.besoccer.com/match/southampton-fc/leeds-united-afc/20031025,2003,34,premier_league
+Sunderland,West Bromwich Albion,1-2,https://www.besoccer.com/match/sunderland-afc/west-bromwich/20031026,2003,34,premier_league
+Arsenal,Man. Utd,2-2,https://www.besoccer.com/match/arsenal/manchester-united-fc/20031027,2003,35,premier_league
+Birmingham City,Southampton,3-2,https://www.besoccer.com/match/birmingham-city-fc/southampton-fc/20031028,2003,35,premier_league
+Blackburn Rovers,Bolton Wanderers,0-0,https://www.besoccer.com/match/blackburn-rovers-fc/bolton-wanderers-fc/20031029,2003,35,premier_league
+Chelsea,Everton,4-1,https://www.besoccer.com/match/chelsea-fc/everton-fc/20031030,2003,35,premier_league
+Liverpool,Charlton Athletic,2-1,https://www.besoccer.com/match/liverpool/charlton-athletic-fc/20031031,2003,35,premier_league
+Man. City,Sunderland,3-0,https://www.besoccer.com/match/manchester-city-fc/sunderland-afc/20031032,2003,35,premier_league
+Newcastle,Aston Villa,1-1,https://www.besoccer.com/match/newcastle-united-fc/aston-villa-fc/20031033,2003,35,premier_league
+West Bromwich Albion,Tottenham Hotspur,2-3,https://www.besoccer.com/match/west-bromwich/tottenham-hotspur-fc/20031034,2003,35,premier_league
+West Ham,Middlesbrough,1-0,https://www.besoccer.com/match/west-ham-united/middlesbrough-fc/20031035,2003,35,premier_league
+Leeds United,Fulham,2-0,https://www.besoccer.com/match/leeds-united-afc/fulham/20031036,2003,35,premier_league
+Bolton Wanderers,Arsenal,2-2,https://www.besoccer.com/match/bolton-wanderers-fc/arsenal/20031038,2003,36,premier_league
+Birmingham City,Middlesbrough,3-0,https://www.besoccer.com/match/birmingham-city-fc/middlesbrough-fc/20031037,2003,36,premier_league
+Charlton Athletic,Southampton,2-1,https://www.besoccer.com/match/charlton-athletic-fc/southampton-fc/20031039,2003,36,premier_league
+Chelsea,Fulham,1-1,https://www.besoccer.com/match/chelsea-fc/fulham/20031040,2003,36,premier_league
+Everton,Aston Villa,2-1,https://www.besoccer.com/match/everton-fc/aston-villa-fc/20031041,2003,36,premier_league
+Leeds United,Blackburn Rovers,2-3,https://www.besoccer.com/match/leeds-united-afc/blackburn-rovers-fc/20031042,2003,36,premier_league
+Sunderland,Newcastle,0-1,https://www.besoccer.com/match/sunderland-afc/newcastle-united-fc/20031043,2003,36,premier_league
+West Bromwich Albion,Liverpool,0-6,https://www.besoccer.com/match/west-bromwich/liverpool/20031044,2003,36,premier_league
+Man. City,West Ham,0-1,https://www.besoccer.com/match/manchester-city-fc/west-ham-united/20031045,2003,36,premier_league
+Tottenham Hotspur,Man. Utd,0-2,https://www.besoccer.com/match/tottenham-hotspur-fc/manchester-united-fc/20031046,2003,36,premier_league
+Man. Utd,Charlton Athletic,4-1,https://www.besoccer.com/match/manchester-united-fc/charlton-athletic-fc/20031051,2003,37,premier_league
+Aston Villa,Sunderland,1-0,https://www.besoccer.com/match/aston-villa-fc/sunderland-afc/20031047,2003,37,premier_league
+Blackburn Rovers,West Bromwich Albion,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/west-bromwich/20031048,2003,37,premier_league
+Fulham,Everton,2-0,https://www.besoccer.com/match/fulham/everton-fc/20031049,2003,37,premier_league
+Liverpool,Man. City,1-2,https://www.besoccer.com/match/liverpool/manchester-city-fc/20031050,2003,37,premier_league
+Middlesbrough,Tottenham Hotspur,5-1,https://www.besoccer.com/match/middlesbrough-fc/tottenham-hotspur-fc/20031052,2003,37,premier_league
+Newcastle,Birmingham City,1-0,https://www.besoccer.com/match/newcastle-united-fc/birmingham-city-fc/20031053,2003,37,premier_league
+West Ham,Chelsea,1-0,https://www.besoccer.com/match/west-ham-united/chelsea-fc/20031055,2003,37,premier_league
+Southampton,Bolton Wanderers,0-0,https://www.besoccer.com/match/southampton-fc/bolton-wanderers-fc/20031054,2003,37,premier_league
+Arsenal,Leeds United,2-3,https://www.besoccer.com/match/arsenal/leeds-united-afc/20031056,2003,37,premier_league
+Birmingham City,West Ham,2-2,https://www.besoccer.com/match/birmingham-city-fc/west-ham-united/20031057,2003,38,premier_league
+Bolton Wanderers,Middlesbrough,2-1,https://www.besoccer.com/match/bolton-wanderers-fc/middlesbrough-fc/20031058,2003,38,premier_league
+Charlton Athletic,Fulham,0-1,https://www.besoccer.com/match/charlton-athletic-fc/fulham/20031059,2003,38,premier_league
+Chelsea,Liverpool,2-1,https://www.besoccer.com/match/chelsea-fc/liverpool/20031060,2003,38,premier_league
+Everton,Man. Utd,1-2,https://www.besoccer.com/match/everton-fc/manchester-united-fc/20031061,2003,38,premier_league
+Leeds United,Aston Villa,3-1,https://www.besoccer.com/match/leeds-united-afc/aston-villa-fc/20031062,2003,38,premier_league
+Man. City,Southampton,0-1,https://www.besoccer.com/match/manchester-city-fc/southampton-fc/20031063,2003,38,premier_league
+Sunderland,Arsenal,0-4,https://www.besoccer.com/match/sunderland-afc/arsenal/20031064,2003,38,premier_league
+Tottenham Hotspur,Blackburn Rovers,0-4,https://www.besoccer.com/match/tottenham-hotspur-fc/blackburn-rovers-fc/20031065,2003,38,premier_league
+West Bromwich Albion,Newcastle,2-2,https://www.besoccer.com/match/west-bromwich/newcastle-united-fc/20031066,2003,38,premier_league

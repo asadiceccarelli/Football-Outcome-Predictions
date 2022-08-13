@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Pisa,Benevento,0-0,https://www.besoccer.com/match/pisa-calcio/benevento-calcio/2020160367,2020,1,serie_b
+Crotone,Nuova Cosenza,0-0,https://www.besoccer.com/match/fc-crotone/nuova-cosenza/2020160364,2020,1,serie_b
+Salernitana,Pescara,3-1,https://www.besoccer.com/match/salernitana-calcio-1919/pescara-calcio/2020160369,2020,1,serie_b
+Ascoli,Trapani,3-1,https://www.besoccer.com/match/ascoli/trapani/2020160362,2020,1,serie_b
+Cittadella,Spezia,0-3,https://www.besoccer.com/match/as-cittadella/asd-spezia/2020160363,2020,1,serie_b
+Venezia,Cremonese,1-2,https://www.besoccer.com/match/venezia/us-cremonese/2020160370,2020,1,serie_b
+Virtus Entella,Livorno,1-0,https://www.besoccer.com/match/virtus-entella/livorno/2020160371,2020,1,serie_b
+Empoli,Juve Stabia,2-1,https://www.besoccer.com/match/empoli-fc/ss-juve-stabia/2020160365,2020,1,serie_b
+Perugia,Chievo,2-1,https://www.besoccer.com/match/perugia/chievo/2020160366,2020,1,serie_b
+Pordenone,Frosinone,3-0,https://www.besoccer.com/match/pordenone/frosinone-calcio/2020160368,2020,1,serie_b
+Chievo,Empoli,1-1,https://www.besoccer.com/match/chievo/empoli-fc/2020160373,2020,2,serie_b
+Benevento,Cittadella,4-1,https://www.besoccer.com/match/benevento-calcio/as-cittadella/2020160372,2020,2,serie_b
+Spezia,Crotone,1-2,https://www.besoccer.com/match/asd-spezia/fc-crotone/2020160380,2020,2,serie_b
+Nuova Cosenza,Salernitana,0-1,https://www.besoccer.com/match/nuova-cosenza/salernitana-calcio-1919/2020160374,2020,2,serie_b
+Cremonese,Virtus Entella,0-1,https://www.besoccer.com/match/us-cremonese/virtus-entella/2020160375,2020,2,serie_b
+Livorno,Perugia,0-1,https://www.besoccer.com/match/livorno/perugia/2020160378,2020,2,serie_b
+Trapani,Venezia,0-1,https://www.besoccer.com/match/trapani/venezia/2020160381,2020,2,serie_b
+Juve Stabia,Pisa,0-2,https://www.besoccer.com/match/ss-juve-stabia/pisa-calcio/2020160377,2020,2,serie_b
+Pescara,Pordenone,4-2,https://www.besoccer.com/match/pescara-calcio/pordenone/2020160379,2020,2,serie_b
+Frosinone,Ascoli,2-1,https://www.besoccer.com/match/frosinone-calcio/ascoli/2020160376,2020,2,serie_b
+Pordenone,Spezia,1-0,https://www.besoccer.com/match/pordenone/asd-spezia/2020160388,2020,3,serie_b
+Ascoli,Livorno,2-0,https://www.besoccer.com/match/ascoli/livorno/2020160382,2020,3,serie_b
+Cittadella,Trapani,2-0,https://www.besoccer.com/match/as-cittadella/trapani/2020160383,2020,3,serie_b
+Perugia,Juve Stabia,0-0,https://www.besoccer.com/match/perugia/ss-juve-stabia/2020160386,2020,3,serie_b
+Virtus Entella,Frosinone,1-0,https://www.besoccer.com/match/virtus-entella/frosinone-calcio/2020160391,2020,3,serie_b
+Venezia,Chievo,0-2,https://www.besoccer.com/match/venezia/chievo/2020160390,2020,3,serie_b
+Nuova Cosenza,Pescara,1-2,https://www.besoccer.com/match/nuova-cosenza/pescara-calcio/2020160384,2020,3,serie_b
+Crotone,Empoli,0-0,https://www.besoccer.com/match/fc-crotone/empoli-fc/2020160385,2020,3,serie_b
+Pisa,Cremonese,4-1,https://www.besoccer.com/match/pisa-calcio/us-cremonese/2020160387,2020,3,serie_b
+Salernitana,Benevento,0-2,https://www.besoccer.com/match/salernitana-calcio-1919/benevento-calcio/2020160389,2020,3,serie_b
+Frosinone,Venezia,1-1,https://www.besoccer.com/match/frosinone-calcio/venezia/2020160396,2020,4,serie_b
+Benevento,Nuova Cosenza,1-0,https://www.besoccer.com/match/benevento-calcio/nuova-cosenza/2020160392,2020,4,serie_b
+Cremonese,Crotone,2-1,https://www.besoccer.com/match/us-cremonese/fc-crotone/2020160394,2020,4,serie_b
+Empoli,Cittadella,1-0,https://www.besoccer.com/match/empoli-fc/as-cittadella/2020160395,2020,4,serie_b
+Juve Stabia,Ascoli,1-5,https://www.besoccer.com/match/ss-juve-stabia/ascoli/2020160397,2020,4,serie_b
+Livorno,Pordenone,2-1,https://www.besoccer.com/match/livorno/pordenone/2020160398,2020,4,serie_b
+Pescara,Virtus Entella,1-1,https://www.besoccer.com/match/pescara-calcio/virtus-entella/2020160399,2020,4,serie_b
+Spezia,Perugia,2-2,https://www.besoccer.com/match/asd-spezia/perugia/2020160400,2020,4,serie_b
+Chievo,Pisa,2-2,https://www.besoccer.com/match/chievo/pisa-calcio/2020160393,2020,4,serie_b
+Trapani,Salernitana,0-1,https://www.besoccer.com/match/trapani/salernitana-calcio-1919/2020160401,2020,4,serie_b
+Ascoli,Spezia,3-0,https://www.besoccer.com/match/ascoli/asd-spezia/2020160402,2020,5,serie_b
+Cittadella,Pescara,2-1,https://www.besoccer.com/match/as-cittadella/pescara-calcio/2020160403,2020,5,serie_b
+Nuova Cosenza,Livorno,1-1,https://www.besoccer.com/match/nuova-cosenza/livorno/2020160404,2020,5,serie_b
+Crotone,Juve Stabia,2-0,https://www.besoccer.com/match/fc-crotone/ss-juve-stabia/2020160405,2020,5,serie_b
+Perugia,Frosinone,3-1,https://www.besoccer.com/match/perugia/frosinone-calcio/2020160406,2020,5,serie_b
+Pisa,Empoli,2-3,https://www.besoccer.com/match/pisa-calcio/empoli-fc/2020160407,2020,5,serie_b
+Pordenone,Benevento,1-1,https://www.besoccer.com/match/pordenone/benevento-calcio/2020160408,2020,5,serie_b
+Virtus Entella,Venezia,0-2,https://www.besoccer.com/match/virtus-entella/venezia/2020160411,2020,5,serie_b
+Trapani,Cremonese,0-0,https://www.besoccer.com/match/trapani/us-cremonese/2020160410,2020,5,serie_b
+Salernitana,Chievo,1-1,https://www.besoccer.com/match/salernitana-calcio-1919/chievo/2020160409,2020,5,serie_b
+Pescara,Crotone,0-3,https://www.besoccer.com/match/pescara-calcio/fc-crotone/2020160419,2020,6,serie_b
+Frosinone,Nuova Cosenza,1-1,https://www.besoccer.com/match/frosinone-calcio/nuova-cosenza/2020160416,2020,6,serie_b
+Juve Stabia,Cittadella,0-1,https://www.besoccer.com/match/ss-juve-stabia/as-cittadella/2020160417,2020,6,serie_b
+Venezia,Pisa,1-1,https://www.besoccer.com/match/venezia/pisa-calcio/2020160421,2020,6,serie_b
+Empoli,Perugia,3-0,https://www.besoccer.com/match/empoli-fc/perugia/2020160415,2020,6,serie_b
+Benevento,Virtus Entella,1-1,https://www.besoccer.com/match/benevento-calcio/virtus-entella/2020160412,2020,6,serie_b
+Chievo,Pordenone,1-1,https://www.besoccer.com/match/chievo/pordenone/2020160413,2020,6,serie_b
+Spezia,Trapani,2-4,https://www.besoccer.com/match/asd-spezia/trapani/2020160420,2020,6,serie_b
+Livorno,Salernitana,2-3,https://www.besoccer.com/match/livorno/salernitana-calcio-1919/2020160418,2020,6,serie_b
+Cremonese,Ascoli,1-0,https://www.besoccer.com/match/us-cremonese/ascoli/2020160414,2020,6,serie_b
+Perugia,Pisa,1-0,https://www.besoccer.com/match/perugia/pisa-calcio/2020160427,2020,7,serie_b
+Nuova Cosenza,Venezia,1-1,https://www.besoccer.com/match/nuova-cosenza/venezia/2020160423,2020,7,serie_b
+Crotone,Virtus Entella,3-1,https://www.besoccer.com/match/fc-crotone/virtus-entella/2020160425,2020,7,serie_b
+Livorno,Chievo,3-4,https://www.besoccer.com/match/livorno/chievo/2020160426,2020,7,serie_b
+Pordenone,Empoli,2-0,https://www.besoccer.com/match/pordenone/empoli-fc/2020160428,2020,7,serie_b
+Spezia,Benevento,0-1,https://www.besoccer.com/match/asd-spezia/benevento-calcio/2020160430,2020,7,serie_b
+Trapani,Juve Stabia,1-2,https://www.besoccer.com/match/trapani/ss-juve-stabia/2020160431,2020,7,serie_b
+Cremonese,Cittadella,0-2,https://www.besoccer.com/match/us-cremonese/as-cittadella/2020160424,2020,7,serie_b
+Salernitana,Frosinone,1-1,https://www.besoccer.com/match/salernitana-calcio-1919/frosinone-calcio/2020160429,2020,7,serie_b
+Ascoli,Pescara,0-2,https://www.besoccer.com/match/ascoli/pescara-calcio/2020160422,2020,7,serie_b
+Cittadella,Nuova Cosenza,1-3,https://www.besoccer.com/match/as-cittadella/nuova-cosenza/2020160434,2020,8,serie_b
+Juve Stabia,Pordenone,4-2,https://www.besoccer.com/match/ss-juve-stabia/pordenone/2020160437,2020,8,serie_b
+Pescara,Spezia,1-2,https://www.besoccer.com/match/pescara-calcio/asd-spezia/2020160438,2020,8,serie_b
+Venezia,Salernitana,1-0,https://www.besoccer.com/match/venezia/salernitana-calcio-1919/2020160440,2020,8,serie_b
+Virtus Entella,Trapani,1-1,https://www.besoccer.com/match/virtus-entella/trapani/2020160441,2020,8,serie_b
+Benevento,Perugia,1-0,https://www.besoccer.com/match/benevento-calcio/perugia/2020160432,2020,8,serie_b
+Chievo,Ascoli,2-0,https://www.besoccer.com/match/chievo/ascoli/2020160433,2020,8,serie_b
+Pisa,Crotone,1-1,https://www.besoccer.com/match/pisa-calcio/fc-crotone/2020160439,2020,8,serie_b
+Empoli,Cremonese,1-1,https://www.besoccer.com/match/empoli-fc/us-cremonese/2020160435,2020,8,serie_b
+Frosinone,Livorno,1-0,https://www.besoccer.com/match/frosinone-calcio/livorno/2020160436,2020,8,serie_b
+Ascoli,Virtus Entella,2-1,https://www.besoccer.com/match/ascoli/virtus-entella/2020160442,2020,9,serie_b
+Nuova Cosenza,Chievo,1-1,https://www.besoccer.com/match/nuova-cosenza/chievo/2020160443,2020,9,serie_b
+Crotone,Venezia,3-2,https://www.besoccer.com/match/fc-crotone/venezia/2020160445,2020,9,serie_b
+Pescara,Benevento,4-0,https://www.besoccer.com/match/pescara-calcio/benevento-calcio/2020160447,2020,9,serie_b
+Pordenone,Cittadella,0-0,https://www.besoccer.com/match/pordenone/as-cittadella/2020160448,2020,9,serie_b
+Salernitana,Perugia,1-1,https://www.besoccer.com/match/salernitana-calcio-1919/perugia/2020160449,2020,9,serie_b
+Spezia,Juve Stabia,2-0,https://www.besoccer.com/match/asd-spezia/ss-juve-stabia/2020160450,2020,9,serie_b
+Trapani,Empoli,2-2,https://www.besoccer.com/match/trapani/empoli-fc/2020160451,2020,9,serie_b
+Livorno,Pisa,1-0,https://www.besoccer.com/match/livorno/pisa-calcio/2020160446,2020,9,serie_b
+Cremonese,Frosinone,1-1,https://www.besoccer.com/match/us-cremonese/frosinone-calcio/2020160444,2020,9,serie_b
+Chievo,Crotone,2-1,https://www.besoccer.com/match/chievo/fc-crotone/2020160453,2020,10,serie_b
+Cittadella,Livorno,1-0,https://www.besoccer.com/match/as-cittadella/livorno/2020160454,2020,10,serie_b
+Empoli,Spezia,1-1,https://www.besoccer.com/match/empoli-fc/asd-spezia/2020160455,2020,10,serie_b
+Juve Stabia,Pescara,2-1,https://www.besoccer.com/match/ss-juve-stabia/pescara-calcio/2020160457,2020,10,serie_b
+Perugia,Ascoli,1-1,https://www.besoccer.com/match/perugia/ascoli/2020160458,2020,10,serie_b
+Pisa,Salernitana,2-1,https://www.besoccer.com/match/pisa-calcio/salernitana-calcio-1919/2020160459,2020,10,serie_b
+Venezia,Pordenone,1-2,https://www.besoccer.com/match/venezia/pordenone/2020160460,2020,10,serie_b
+Virtus Entella,Nuova Cosenza,1-0,https://www.besoccer.com/match/virtus-entella/nuova-cosenza/2020160461,2020,10,serie_b
+Benevento,Cremonese,2-0,https://www.besoccer.com/match/benevento-calcio/us-cremonese/2020160452,2020,10,serie_b
+Frosinone,Trapani,3-0,https://www.besoccer.com/match/frosinone-calcio/trapani/2020160456,2020,10,serie_b
+Spezia,Chievo,0-0,https://www.besoccer.com/match/asd-spezia/chievo/2020160471,2020,11,serie_b
+Ascoli,Venezia,1-1,https://www.besoccer.com/match/ascoli/venezia/2020160462,2020,11,serie_b
+Crotone,Perugia,2-3,https://www.besoccer.com/match/fc-crotone/perugia/2020160466,2020,11,serie_b
+Livorno,Juve Stabia,2-1,https://www.besoccer.com/match/livorno/ss-juve-stabia/2020160467,2020,11,serie_b
+Pescara,Pisa,3-0,https://www.besoccer.com/match/pescara-calcio/pisa-calcio/2020160468,2020,11,serie_b
+Salernitana,Virtus Entella,2-1,https://www.besoccer.com/match/salernitana-calcio-1919/virtus-entella/2020160470,2020,11,serie_b
+Cittadella,Frosinone,0-0,https://www.besoccer.com/match/as-cittadella/frosinone-calcio/2020160464,2020,11,serie_b
+Pordenone,Trapani,2-1,https://www.besoccer.com/match/pordenone/trapani/2020160469,2020,11,serie_b
+Benevento,Empoli,2-0,https://www.besoccer.com/match/benevento-calcio/empoli-fc/2020160463,2020,11,serie_b
+Nuova Cosenza,Cremonese,2-0,https://www.besoccer.com/match/nuova-cosenza/us-cremonese/2020160465,2020,11,serie_b
+Crotone,Ascoli,3-1,https://www.besoccer.com/match/fc-crotone/ascoli/2020160473,2020,12,serie_b
+Juve Stabia,Benevento,1-1,https://www.besoccer.com/match/ss-juve-stabia/benevento-calcio/2020160476,2020,12,serie_b
+Perugia,Cittadella,0-2,https://www.besoccer.com/match/perugia/as-cittadella/2020160477,2020,12,serie_b
+Pisa,Spezia,3-2,https://www.besoccer.com/match/pisa-calcio/asd-spezia/2020160478,2020,12,serie_b
+Venezia,Livorno,1-0,https://www.besoccer.com/match/venezia/livorno/2020160480,2020,12,serie_b
+Virtus Entella,Pordenone,1-1,https://www.besoccer.com/match/virtus-entella/pordenone/2020160481,2020,12,serie_b
+Empoli,Pescara,1-2,https://www.besoccer.com/match/empoli-fc/pescara-calcio/2020160474,2020,12,serie_b
+Cremonese,Salernitana,1-0,https://www.besoccer.com/match/us-cremonese/salernitana-calcio-1919/2020160472,2020,12,serie_b
+Trapani,Nuova Cosenza,2-2,https://www.besoccer.com/match/trapani/nuova-cosenza/2020160479,2020,12,serie_b
+Frosinone,Chievo,2-0,https://www.besoccer.com/match/frosinone-calcio/chievo/2020160475,2020,12,serie_b
+Pescara,Cremonese,1-1,https://www.besoccer.com/match/pescara-calcio/us-cremonese/2020160489,2020,13,serie_b
+Benevento,Crotone,2-0,https://www.besoccer.com/match/benevento-calcio/fc-crotone/2020160483,2020,13,serie_b
+Juve Stabia,Salernitana,2-0,https://www.besoccer.com/match/ss-juve-stabia/salernitana-calcio-1919/2020160487,2020,13,serie_b
+Livorno,Trapani,1-2,https://www.besoccer.com/match/livorno/trapani/2020160488,2020,13,serie_b
+Pordenone,Perugia,3-0,https://www.besoccer.com/match/pordenone/perugia/2020160490,2020,13,serie_b
+Empoli,Venezia,1-1,https://www.besoccer.com/match/empoli-fc/venezia/2020160486,2020,13,serie_b
+Ascoli,Nuova Cosenza,3-2,https://www.besoccer.com/match/ascoli/nuova-cosenza/2020160482,2020,13,serie_b
+Cittadella,Pisa,1-1,https://www.besoccer.com/match/as-cittadella/pisa-calcio/2020160485,2020,13,serie_b
+Spezia,Frosinone,2-0,https://www.besoccer.com/match/asd-spezia/frosinone-calcio/2020160491,2020,13,serie_b
+Chievo,Virtus Entella,2-1,https://www.besoccer.com/match/chievo/virtus-entella/2020160484,2020,13,serie_b
+Nuova Cosenza,Spezia,1-1,https://www.besoccer.com/match/nuova-cosenza/asd-spezia/2020160492,2020,14,serie_b
+Cremonese,Livorno,0-0,https://www.besoccer.com/match/us-cremonese/livorno/2020160493,2020,14,serie_b
+Crotone,Cittadella,1-1,https://www.besoccer.com/match/fc-crotone/as-cittadella/2020160494,2020,14,serie_b
+Frosinone,Empoli,4-0,https://www.besoccer.com/match/frosinone-calcio/empoli-fc/2020160495,2020,14,serie_b
+Venezia,Benevento,0-2,https://www.besoccer.com/match/venezia/benevento-calcio/2020160500,2020,14,serie_b
+Salernitana,Ascoli,1-1,https://www.besoccer.com/match/salernitana-calcio-1919/ascoli/2020160498,2020,14,serie_b
+Trapani,Chievo,1-0,https://www.besoccer.com/match/trapani/chievo/2020160499,2020,14,serie_b
+Virtus Entella,Juve Stabia,2-0,https://www.besoccer.com/match/virtus-entella/ss-juve-stabia/2020160501,2020,14,serie_b
+Perugia,Pescara,3-1,https://www.besoccer.com/match/perugia/pescara-calcio/2020160496,2020,14,serie_b
+Pisa,Pordenone,2-0,https://www.besoccer.com/match/pisa-calcio/pordenone/2020160497,2020,14,serie_b
+Benevento,Trapani,5-0,https://www.besoccer.com/match/benevento-calcio/trapani/2020160502,2020,15,serie_b
+Cittadella,Salernitana,4-3,https://www.besoccer.com/match/as-cittadella/salernitana-calcio-1919/2020160504,2020,15,serie_b
+Empoli,Ascoli,2-1,https://www.besoccer.com/match/empoli-fc/ascoli/2020160505,2020,15,serie_b
+Pescara,Venezia,2-2,https://www.besoccer.com/match/pescara-calcio/venezia/2020160508,2020,15,serie_b
+Spezia,Livorno,2-0,https://www.besoccer.com/match/asd-spezia/livorno/2020160511,2020,15,serie_b
+Chievo,Cremonese,1-0,https://www.besoccer.com/match/chievo/us-cremonese/2020160503,2020,15,serie_b
+Juve Stabia,Frosinone,0-2,https://www.besoccer.com/match/ss-juve-stabia/frosinone-calcio/2020160506,2020,15,serie_b
+Pisa,Virtus Entella,0-2,https://www.besoccer.com/match/pisa-calcio/virtus-entella/2020160509,2020,15,serie_b
+Pordenone,Crotone,1-0,https://www.besoccer.com/match/pordenone/fc-crotone/2020160510,2020,15,serie_b
+Perugia,Nuova Cosenza,2-2,https://www.besoccer.com/match/perugia/nuova-cosenza/2020160507,2020,15,serie_b
+Chievo,Juve Stabia,2-3,https://www.besoccer.com/match/chievo/ss-juve-stabia/2020160513,2020,16,serie_b
+Ascoli,Cittadella,1-0,https://www.besoccer.com/match/ascoli/as-cittadella/2020160512,2020,16,serie_b
+Frosinone,Pescara,2-0,https://www.besoccer.com/match/frosinone-calcio/pescara-calcio/2020160516,2020,16,serie_b
+Venezia,Spezia,0-0,https://www.besoccer.com/match/venezia/asd-spezia/2020160520,2020,16,serie_b
+Virtus Entella,Empoli,2-0,https://www.besoccer.com/match/virtus-entella/empoli-fc/2020160521,2020,16,serie_b
+Livorno,Benevento,0-2,https://www.besoccer.com/match/livorno/benevento-calcio/2020160517,2020,16,serie_b
+Nuova Cosenza,Pordenone,1-2,https://www.besoccer.com/match/nuova-cosenza/pordenone/2020160514,2020,16,serie_b
+Cremonese,Perugia,2-1,https://www.besoccer.com/match/us-cremonese/perugia/2020160515,2020,16,serie_b
+Salernitana,Crotone,3-2,https://www.besoccer.com/match/salernitana-calcio-1919/fc-crotone/2020160518,2020,16,serie_b
+Trapani,Pisa,1-3,https://www.besoccer.com/match/trapani/pisa-calcio/2020160519,2020,16,serie_b
+Spezia,Cremonese,3-2,https://www.besoccer.com/match/asd-spezia/us-cremonese/2020160531,2020,17,serie_b
+Cittadella,Chievo,1-1,https://www.besoccer.com/match/as-cittadella/chievo/2020160523,2020,17,serie_b
+Crotone,Livorno,2-1,https://www.besoccer.com/match/fc-crotone/livorno/2020160524,2020,17,serie_b
+Empoli,Salernitana,1-1,https://www.besoccer.com/match/empoli-fc/salernitana-calcio-1919/2020160525,2020,17,serie_b
+Juve Stabia,Venezia,2-0,https://www.besoccer.com/match/ss-juve-stabia/venezia/2020160526,2020,17,serie_b
+Perugia,Virtus Entella,2-0,https://www.besoccer.com/match/perugia/virtus-entella/2020160527,2020,17,serie_b
+Benevento,Frosinone,1-0,https://www.besoccer.com/match/benevento-calcio/frosinone-calcio/2020160522,2020,17,serie_b
+Pescara,Trapani,1-1,https://www.besoccer.com/match/pescara-calcio/trapani/2020160528,2020,17,serie_b
+Pisa,Nuova Cosenza,1-3,https://www.besoccer.com/match/pisa-calcio/nuova-cosenza/2020160529,2020,17,serie_b
+Pordenone,Ascoli,2-1,https://www.besoccer.com/match/pordenone/ascoli/2020160530,2020,17,serie_b
+Nuova Cosenza,Empoli,1-0,https://www.besoccer.com/match/nuova-cosenza/empoli-fc/2020160534,2020,18,serie_b
+Chievo,Benevento,1-2,https://www.besoccer.com/match/chievo/benevento-calcio/2020160533,2020,18,serie_b
+Cremonese,Juve Stabia,1-1,https://www.besoccer.com/match/us-cremonese/ss-juve-stabia/2020160535,2020,18,serie_b
+Frosinone,Crotone,1-2,https://www.besoccer.com/match/frosinone-calcio/fc-crotone/2020160536,2020,18,serie_b
+Livorno,Pescara,0-2,https://www.besoccer.com/match/livorno/pescara-calcio/2020160537,2020,18,serie_b
+Salernitana,Pordenone,4-0,https://www.besoccer.com/match/salernitana-calcio-1919/pordenone/2020160538,2020,18,serie_b
+Trapani,Perugia,2-2,https://www.besoccer.com/match/trapani/perugia/2020160539,2020,18,serie_b
+Venezia,Cittadella,1-2,https://www.besoccer.com/match/venezia/as-cittadella/2020160540,2020,18,serie_b
+Ascoli,Pisa,1-0,https://www.besoccer.com/match/ascoli/pisa-calcio/2020160532,2020,18,serie_b
+Virtus Entella,Spezia,0-0,https://www.besoccer.com/match/virtus-entella/asd-spezia/2020160541,2020,18,serie_b
+Pescara,Chievo,0-0,https://www.besoccer.com/match/pescara-calcio/chievo/2020160548,2020,19,serie_b
+Cittadella,Virtus Entella,1-3,https://www.besoccer.com/match/as-cittadella/virtus-entella/2020160543,2020,19,serie_b
+Crotone,Trapani,3-0,https://www.besoccer.com/match/fc-crotone/trapani/2020160544,2020,19,serie_b
+Juve Stabia,Nuova Cosenza,1-0,https://www.besoccer.com/match/ss-juve-stabia/nuova-cosenza/2020160546,2020,19,serie_b
+Perugia,Venezia,0-1,https://www.besoccer.com/match/perugia/venezia/2020160547,2020,19,serie_b
+Pisa,Frosinone,0-0,https://www.besoccer.com/match/pisa-calcio/frosinone-calcio/2020160549,2020,19,serie_b
+Pordenone,Cremonese,1-0,https://www.besoccer.com/match/pordenone/us-cremonese/2020160550,2020,19,serie_b
+Spezia,Salernitana,2-1,https://www.besoccer.com/match/asd-spezia/salernitana-calcio-1919/2020160551,2020,19,serie_b
+Benevento,Ascoli,4-0,https://www.besoccer.com/match/benevento-calcio/ascoli/2020160542,2020,19,serie_b
+Empoli,Livorno,1-1,https://www.besoccer.com/match/empoli-fc/livorno/2020160545,2020,19,serie_b
+Frosinone,Pordenone,2-2,https://www.besoccer.com/match/frosinone-calcio/pordenone/2020160558,2020,20,serie_b
+Trapani,Ascoli,3-1,https://www.besoccer.com/match/trapani/ascoli/2020160552,2020,20,serie_b
+Juve Stabia,Empoli,1-0,https://www.besoccer.com/match/ss-juve-stabia/empoli-fc/2020160555,2020,20,serie_b
+Cremonese,Venezia,0-0,https://www.besoccer.com/match/us-cremonese/venezia/2020160560,2020,20,serie_b
+Livorno,Virtus Entella,4-4,https://www.besoccer.com/match/livorno/virtus-entella/2020160561,2020,20,serie_b
+Chievo,Perugia,2-0,https://www.besoccer.com/match/chievo/perugia/2020160556,2020,20,serie_b
+Spezia,Cittadella,1-1,https://www.besoccer.com/match/asd-spezia/as-cittadella/2020160553,2020,20,serie_b
+Pescara,Salernitana,1-2,https://www.besoccer.com/match/pescara-calcio/salernitana-calcio-1919/2020160559,2020,20,serie_b
+Benevento,Pisa,1-1,https://www.besoccer.com/match/benevento-calcio/pisa-calcio/2020160557,2020,20,serie_b
+Nuova Cosenza,Crotone,0-1,https://www.besoccer.com/match/nuova-cosenza/fc-crotone/2020160554,2020,20,serie_b
+Empoli,Chievo,1-1,https://www.besoccer.com/match/empoli-fc/chievo/2020160563,2020,21,serie_b
+Cittadella,Benevento,1-2,https://www.besoccer.com/match/as-cittadella/benevento-calcio/2020160562,2020,21,serie_b
+Virtus Entella,Cremonese,1-1,https://www.besoccer.com/match/virtus-entella/us-cremonese/2020160565,2020,21,serie_b
+Pisa,Juve Stabia,1-1,https://www.besoccer.com/match/pisa-calcio/ss-juve-stabia/2020160567,2020,21,serie_b
+Pordenone,Pescara,0-2,https://www.besoccer.com/match/pordenone/pescara-calcio/2020160569,2020,21,serie_b
+Salernitana,Nuova Cosenza,2-1,https://www.besoccer.com/match/salernitana-calcio-1919/nuova-cosenza/2020160564,2020,21,serie_b
+Crotone,Spezia,1-2,https://www.besoccer.com/match/fc-crotone/asd-spezia/2020160570,2020,21,serie_b
+Venezia,Trapani,1-1,https://www.besoccer.com/match/venezia/trapani/2020160571,2020,21,serie_b
+Ascoli,Frosinone,0-1,https://www.besoccer.com/match/ascoli/frosinone-calcio/2020160566,2020,21,serie_b
+Perugia,Livorno,1-0,https://www.besoccer.com/match/perugia/livorno/2020160568,2020,21,serie_b
+Cremonese,Pisa,3-4,https://www.besoccer.com/match/us-cremonese/pisa-calcio/2020160577,2020,22,serie_b
+Livorno,Ascoli,0-3,https://www.besoccer.com/match/livorno/ascoli/2020160572,2020,22,serie_b
+Trapani,Cittadella,0-3,https://www.besoccer.com/match/trapani/as-cittadella/2020160573,2020,22,serie_b
+Spezia,Pordenone,1-0,https://www.besoccer.com/match/asd-spezia/pordenone/2020160578,2020,22,serie_b
+Frosinone,Virtus Entella,1-0,https://www.besoccer.com/match/frosinone-calcio/virtus-entella/2020160581,2020,22,serie_b
+Empoli,Crotone,3-1,https://www.besoccer.com/match/empoli-fc/fc-crotone/2020160575,2020,22,serie_b
+Juve Stabia,Perugia,1-2,https://www.besoccer.com/match/ss-juve-stabia/perugia/2020160576,2020,22,serie_b
+Chievo,Venezia,0-1,https://www.besoccer.com/match/chievo/venezia/2020160580,2020,22,serie_b
+Benevento,Salernitana,1-1,https://www.besoccer.com/match/benevento-calcio/salernitana-calcio-1919/2020160579,2020,22,serie_b
+Pescara,Nuova Cosenza,2-1,https://www.besoccer.com/match/pescara-calcio/nuova-cosenza/2020160574,2020,22,serie_b
+Ascoli,Juve Stabia,2-2,https://www.besoccer.com/match/ascoli/ss-juve-stabia/2020160587,2020,23,serie_b
+Crotone,Cremonese,1-0,https://www.besoccer.com/match/fc-crotone/us-cremonese/2020160584,2020,23,serie_b
+Cittadella,Empoli,1-2,https://www.besoccer.com/match/as-cittadella/empoli-fc/2020160585,2020,23,serie_b
+Venezia,Frosinone,0-1,https://www.besoccer.com/match/venezia/frosinone-calcio/2020160586,2020,23,serie_b
+Pordenone,Livorno,2-2,https://www.besoccer.com/match/pordenone/livorno/2020160588,2020,23,serie_b
+Perugia,Spezia,0-3,https://www.besoccer.com/match/perugia/asd-spezia/2020160590,2020,23,serie_b
+Pisa,Chievo,1-1,https://www.besoccer.com/match/pisa-calcio/chievo/2020160583,2020,23,serie_b
+Virtus Entella,Pescara,2-0,https://www.besoccer.com/match/virtus-entella/pescara-calcio/2020160589,2020,23,serie_b
+Nuova Cosenza,Benevento,0-1,https://www.besoccer.com/match/nuova-cosenza/benevento-calcio/2020160582,2020,23,serie_b
+Salernitana,Trapani,1-0,https://www.besoccer.com/match/salernitana-calcio-1919/trapani/2020160591,2020,23,serie_b
+Pescara,Cittadella,1-2,https://www.besoccer.com/match/pescara-calcio/as-cittadella/2020160593,2020,24,serie_b
+Livorno,Nuova Cosenza,0-3,https://www.besoccer.com/match/livorno/nuova-cosenza/2020160594,2020,24,serie_b
+Juve Stabia,Crotone,3-2,https://www.besoccer.com/match/ss-juve-stabia/fc-crotone/2020160595,2020,24,serie_b
+Benevento,Pordenone,2-1,https://www.besoccer.com/match/benevento-calcio/pordenone/2020160598,2020,24,serie_b
+Venezia,Virtus Entella,2-2,https://www.besoccer.com/match/venezia/virtus-entella/2020160601,2020,24,serie_b
+Spezia,Ascoli,3-1,https://www.besoccer.com/match/asd-spezia/ascoli/2020160592,2020,24,serie_b
+Frosinone,Perugia,1-0,https://www.besoccer.com/match/frosinone-calcio/perugia/2020160596,2020,24,serie_b
+Cremonese,Trapani,5-0,https://www.besoccer.com/match/us-cremonese/trapani/2020160600,2020,24,serie_b
+Empoli,Pisa,2-1,https://www.besoccer.com/match/empoli-fc/pisa-calcio/2020160597,2020,24,serie_b
+Chievo,Salernitana,2-0,https://www.besoccer.com/match/chievo/salernitana-calcio-1919/2020160599,2020,24,serie_b
+Nuova Cosenza,Frosinone,0-2,https://www.besoccer.com/match/nuova-cosenza/frosinone-calcio/2020160606,2020,25,serie_b
+Virtus Entella,Benevento,0-4,https://www.besoccer.com/match/virtus-entella/benevento-calcio/2020160602,2020,25,serie_b
+Cittadella,Juve Stabia,3-0,https://www.besoccer.com/match/as-cittadella/ss-juve-stabia/2020160607,2020,25,serie_b
+Trapani,Spezia,1-1,https://www.besoccer.com/match/trapani/asd-spezia/2020160610,2020,25,serie_b
+Pisa,Venezia,1-2,https://www.besoccer.com/match/pisa-calcio/venezia/2020160611,2020,25,serie_b
+Pordenone,Chievo,0-1,https://www.besoccer.com/match/pordenone/chievo/2020160603,2020,25,serie_b
+Salernitana,Livorno,1-0,https://www.besoccer.com/match/salernitana-calcio-1919/livorno/2020160608,2020,25,serie_b
+Crotone,Pescara,4-1,https://www.besoccer.com/match/fc-crotone/pescara-calcio/2020160609,2020,25,serie_b
+Perugia,Empoli,0-1,https://www.besoccer.com/match/perugia/empoli-fc/2020160605,2020,25,serie_b
+Ascoli,Cremonese,1-3,https://www.besoccer.com/match/ascoli/us-cremonese/2020160604,2020,25,serie_b
+Virtus Entella,Crotone,1-2,https://www.besoccer.com/match/virtus-entella/fc-crotone/2020160615,2020,26,serie_b
+Venezia,Nuova Cosenza,1-1,https://www.besoccer.com/match/venezia/nuova-cosenza/2020160613,2020,26,serie_b
+Cittadella,Cremonese,0-0,https://www.besoccer.com/match/as-cittadella/us-cremonese/2020160614,2020,26,serie_b
+Pisa,Perugia,1-0,https://www.besoccer.com/match/pisa-calcio/perugia/2020160617,2020,26,serie_b
+Empoli,Pordenone,0-1,https://www.besoccer.com/match/empoli-fc/pordenone/2020160618,2020,26,serie_b
+Benevento,Spezia,3-1,https://www.besoccer.com/match/benevento-calcio/asd-spezia/2020160620,2020,26,serie_b
+Juve Stabia,Trapani,2-2,https://www.besoccer.com/match/ss-juve-stabia/trapani/2020160621,2020,26,serie_b
+Chievo,Livorno,0-1,https://www.besoccer.com/match/chievo/livorno/2020160616,2020,26,serie_b
+Frosinone,Salernitana,1-0,https://www.besoccer.com/match/frosinone-calcio/salernitana-calcio-1919/2020160619,2020,26,serie_b
+Pescara,Ascoli,2-1,https://www.besoccer.com/match/pescara-calcio/ascoli/2020160612,2020,26,serie_b
+Perugia,Benevento,1-2,https://www.besoccer.com/match/perugia/benevento-calcio/2020160622,2020,27,serie_b
+Nuova Cosenza,Cittadella,1-2,https://www.besoccer.com/match/nuova-cosenza/as-cittadella/2020160624,2020,27,serie_b
+Cremonese,Empoli,2-3,https://www.besoccer.com/match/us-cremonese/empoli-fc/2020160625,2020,27,serie_b
+Livorno,Frosinone,2-2,https://www.besoccer.com/match/livorno/frosinone-calcio/2020160626,2020,27,serie_b
+Pordenone,Juve Stabia,2-1,https://www.besoccer.com/match/pordenone/ss-juve-stabia/2020160627,2020,27,serie_b
+Crotone,Pisa,1-0,https://www.besoccer.com/match/fc-crotone/pisa-calcio/2020160629,2020,27,serie_b
+Salernitana,Venezia,2-0,https://www.besoccer.com/match/salernitana-calcio-1919/venezia/2020160630,2020,27,serie_b
+Trapani,Virtus Entella,4-1,https://www.besoccer.com/match/trapani/virtus-entella/2020160631,2020,27,serie_b
+Ascoli,Chievo,1-1,https://www.besoccer.com/match/ascoli/chievo/2020160623,2020,27,serie_b
+Spezia,Pescara,2-0,https://www.besoccer.com/match/asd-spezia/pescara-calcio/2020160628,2020,27,serie_b
+Cittadella,Pordenone,0-2,https://www.besoccer.com/match/as-cittadella/pordenone/2020160638,2020,28,serie_b
+Frosinone,Cremonese,0-2,https://www.besoccer.com/match/frosinone-calcio/us-cremonese/2020160634,2020,28,serie_b
+Venezia,Crotone,1-3,https://www.besoccer.com/match/venezia/fc-crotone/2020160635,2020,28,serie_b
+Perugia,Salernitana,1-0,https://www.besoccer.com/match/perugia/salernitana-calcio-1919/2020160639,2020,28,serie_b
+Empoli,Trapani,1-1,https://www.besoccer.com/match/empoli-fc/trapani/2020160641,2020,28,serie_b
+Pisa,Livorno,1-0,https://www.besoccer.com/match/pisa-calcio/livorno/2020160636,2020,28,serie_b
+Virtus Entella,Ascoli,3-0,https://www.besoccer.com/match/virtus-entella/ascoli/2020160632,2020,28,serie_b
+Juve Stabia,Spezia,3-1,https://www.besoccer.com/match/ss-juve-stabia/asd-spezia/2020160640,2020,28,serie_b
+Benevento,Pescara,4-0,https://www.besoccer.com/match/benevento-calcio/pescara-calcio/2020160637,2020,28,serie_b
+Chievo,Nuova Cosenza,2-0,https://www.besoccer.com/match/chievo/nuova-cosenza/2020160633,2020,28,serie_b
+Spezia,Empoli,1-0,https://www.besoccer.com/match/asd-spezia/empoli-fc/2020160645,2020,29,serie_b
+Crotone,Chievo,1-1,https://www.besoccer.com/match/fc-crotone/chievo/2020160643,2020,29,serie_b
+Livorno,Cittadella,0-2,https://www.besoccer.com/match/livorno/as-cittadella/2020160644,2020,29,serie_b
+Trapani,Frosinone,0-0,https://www.besoccer.com/match/trapani/frosinone-calcio/2020160646,2020,29,serie_b
+Pescara,Juve Stabia,3-1,https://www.besoccer.com/match/pescara-calcio/ss-juve-stabia/2020160647,2020,29,serie_b
+Salernitana,Pisa,1-1,https://www.besoccer.com/match/salernitana-calcio-1919/pisa-calcio/2020160649,2020,29,serie_b
+Nuova Cosenza,Virtus Entella,2-1,https://www.besoccer.com/match/nuova-cosenza/virtus-entella/2020160651,2020,29,serie_b
+Pordenone,Venezia,0-0,https://www.besoccer.com/match/pordenone/venezia/2020160650,2020,29,serie_b
+Cremonese,Benevento,0-1,https://www.besoccer.com/match/us-cremonese/benevento-calcio/2020160642,2020,29,serie_b
+Ascoli,Perugia,0-1,https://www.besoccer.com/match/ascoli/perugia/2020160648,2020,29,serie_b
+Trapani,Pordenone,3-0,https://www.besoccer.com/match/trapani/pordenone/2020160659,2020,30,serie_b
+Venezia,Ascoli,2-1,https://www.besoccer.com/match/venezia/ascoli/2020160652,2020,30,serie_b
+Empoli,Benevento,0-0,https://www.besoccer.com/match/empoli-fc/benevento-calcio/2020160653,2020,30,serie_b
+Frosinone,Cittadella,0-2,https://www.besoccer.com/match/frosinone-calcio/as-cittadella/2020160654,2020,30,serie_b
+Cremonese,Nuova Cosenza,0-2,https://www.besoccer.com/match/us-cremonese/nuova-cosenza/2020160655,2020,30,serie_b
+Perugia,Crotone,0-0,https://www.besoccer.com/match/perugia/fc-crotone/2020160656,2020,30,serie_b
+Juve Stabia,Livorno,2-3,https://www.besoccer.com/match/ss-juve-stabia/livorno/2020160657,2020,30,serie_b
+Pisa,Pescara,2-1,https://www.besoccer.com/match/pisa-calcio/pescara-calcio/2020160658,2020,30,serie_b
+Virtus Entella,Salernitana,1-0,https://www.besoccer.com/match/virtus-entella/salernitana-calcio-1919/2020160660,2020,30,serie_b
+Chievo,Spezia,1-3,https://www.besoccer.com/match/chievo/asd-spezia/2020160661,2020,30,serie_b
+Salernitana,Cremonese,3-3,https://www.besoccer.com/match/salernitana-calcio-1919/us-cremonese/2020160662,2020,31,serie_b
+Ascoli,Crotone,1-1,https://www.besoccer.com/match/ascoli/fc-crotone/2020160663,2020,31,serie_b
+Pescara,Empoli,1-1,https://www.besoccer.com/match/pescara-calcio/empoli-fc/2020160664,2020,31,serie_b
+Chievo,Frosinone,2-0,https://www.besoccer.com/match/chievo/frosinone-calcio/2020160665,2020,31,serie_b
+Benevento,Juve Stabia,1-0,https://www.besoccer.com/match/benevento-calcio/ss-juve-stabia/2020160666,2020,31,serie_b
+Cittadella,Perugia,2-0,https://www.besoccer.com/match/as-cittadella/perugia/2020160667,2020,31,serie_b
+Spezia,Pisa,1-2,https://www.besoccer.com/match/asd-spezia/pisa-calcio/2020160668,2020,31,serie_b
+Nuova Cosenza,Trapani,2-2,https://www.besoccer.com/match/nuova-cosenza/trapani/2020160669,2020,31,serie_b
+Livorno,Venezia,0-2,https://www.besoccer.com/match/livorno/venezia/2020160670,2020,31,serie_b
+Pordenone,Virtus Entella,2-0,https://www.besoccer.com/match/pordenone/virtus-entella/2020160671,2020,31,serie_b
+Pisa,Cittadella,2-0,https://www.besoccer.com/match/pisa-calcio/as-cittadella/2020160675,2020,32,serie_b
+Nuova Cosenza,Ascoli,0-1,https://www.besoccer.com/match/nuova-cosenza/ascoli/2020160672,2020,32,serie_b
+Crotone,Benevento,3-0,https://www.besoccer.com/match/fc-crotone/benevento-calcio/2020160673,2020,32,serie_b
+Virtus Entella,Chievo,1-1,https://www.besoccer.com/match/virtus-entella/chievo/2020160674,2020,32,serie_b
+Venezia,Empoli,0-2,https://www.besoccer.com/match/venezia/empoli-fc/2020160676,2020,32,serie_b
+Salernitana,Juve Stabia,2-1,https://www.besoccer.com/match/salernitana-calcio-1919/ss-juve-stabia/2020160677,2020,32,serie_b
+Trapani,Livorno,2-1,https://www.besoccer.com/match/trapani/livorno/2020160678,2020,32,serie_b
+Cremonese,Pescara,1-0,https://www.besoccer.com/match/us-cremonese/pescara-calcio/2020160679,2020,32,serie_b
+Perugia,Pordenone,1-2,https://www.besoccer.com/match/perugia/pordenone/2020160680,2020,32,serie_b
+Frosinone,Spezia,2-1,https://www.besoccer.com/match/frosinone-calcio/asd-spezia/2020160681,2020,32,serie_b
+Juve Stabia,Virtus Entella,1-1,https://www.besoccer.com/match/ss-juve-stabia/virtus-entella/2020160691,2020,33,serie_b
+Spezia,Nuova Cosenza,5-1,https://www.besoccer.com/match/asd-spezia/nuova-cosenza/2020160682,2020,33,serie_b
+Livorno,Cremonese,1-2,https://www.besoccer.com/match/livorno/us-cremonese/2020160683,2020,33,serie_b
+Cittadella,Crotone,1-3,https://www.besoccer.com/match/as-cittadella/fc-crotone/2020160684,2020,33,serie_b
+Empoli,Frosinone,2-0,https://www.besoccer.com/match/empoli-fc/frosinone-calcio/2020160685,2020,33,serie_b
+Pescara,Perugia,2-2,https://www.besoccer.com/match/pescara-calcio/perugia/2020160686,2020,33,serie_b
+Pordenone,Pisa,1-0,https://www.besoccer.com/match/pordenone/pisa-calcio/2020160687,2020,33,serie_b
+Ascoli,Salernitana,3-2,https://www.besoccer.com/match/ascoli/salernitana-calcio-1919/2020160688,2020,33,serie_b
+Chievo,Trapani,1-1,https://www.besoccer.com/match/chievo/trapani/2020160689,2020,33,serie_b
+Benevento,Venezia,1-1,https://www.besoccer.com/match/benevento-calcio/venezia/2020160690,2020,33,serie_b
+Nuova Cosenza,Perugia,2-1,https://www.besoccer.com/match/nuova-cosenza/perugia/2020160697,2020,34,serie_b
+Trapani,Benevento,2-0,https://www.besoccer.com/match/trapani/benevento-calcio/2020160692,2020,34,serie_b
+Cremonese,Chievo,1-0,https://www.besoccer.com/match/us-cremonese/chievo/2020160693,2020,34,serie_b
+Salernitana,Cittadella,4-1,https://www.besoccer.com/match/salernitana-calcio-1919/as-cittadella/2020160694,2020,34,serie_b
+Ascoli,Empoli,1-0,https://www.besoccer.com/match/ascoli/empoli-fc/2020160695,2020,34,serie_b
+Frosinone,Juve Stabia,2-2,https://www.besoccer.com/match/frosinone-calcio/ss-juve-stabia/2020160696,2020,34,serie_b
+Venezia,Pescara,1-1,https://www.besoccer.com/match/venezia/pescara-calcio/2020160698,2020,34,serie_b
+Virtus Entella,Pisa,1-1,https://www.besoccer.com/match/virtus-entella/pisa-calcio/2020160699,2020,34,serie_b
+Crotone,Pordenone,1-0,https://www.besoccer.com/match/fc-crotone/pordenone/2020160700,2020,34,serie_b
+Livorno,Spezia,0-1,https://www.besoccer.com/match/livorno/asd-spezia/2020160701,2020,34,serie_b
+Pescara,Frosinone,1-1,https://www.besoccer.com/match/pescara-calcio/frosinone-calcio/2020160706,2020,35,serie_b
+Cittadella,Ascoli,1-2,https://www.besoccer.com/match/as-cittadella/ascoli/2020160702,2020,35,serie_b
+Juve Stabia,Chievo,3-2,https://www.besoccer.com/match/ss-juve-stabia/chievo/2020160703,2020,35,serie_b
+Pordenone,Nuova Cosenza,1-2,https://www.besoccer.com/match/pordenone/nuova-cosenza/2020160704,2020,35,serie_b
+Perugia,Cremonese,0-0,https://www.besoccer.com/match/perugia/us-cremonese/2020160705,2020,35,serie_b
+Benevento,Livorno,3-1,https://www.besoccer.com/match/benevento-calcio/livorno/2020160707,2020,35,serie_b
+Crotone,Salernitana,1-1,https://www.besoccer.com/match/fc-crotone/salernitana-calcio-1919/2020160708,2020,35,serie_b
+Pisa,Trapani,3-2,https://www.besoccer.com/match/pisa-calcio/trapani/2020160709,2020,35,serie_b
+Spezia,Venezia,0-1,https://www.besoccer.com/match/asd-spezia/venezia/2020160710,2020,35,serie_b
+Empoli,Virtus Entella,2-4,https://www.besoccer.com/match/empoli-fc/virtus-entella/2020160711,2020,35,serie_b
+Livorno,Crotone,1-5,https://www.besoccer.com/match/livorno/fc-crotone/2020160714,2020,36,serie_b
+Frosinone,Benevento,2-3,https://www.besoccer.com/match/frosinone-calcio/benevento-calcio/2020160712,2020,36,serie_b
+Chievo,Cittadella,4-1,https://www.besoccer.com/match/chievo/as-cittadella/2020160713,2020,36,serie_b
+Salernitana,Empoli,2-4,https://www.besoccer.com/match/salernitana-calcio-1919/empoli-fc/2020160715,2020,36,serie_b
+Venezia,Juve Stabia,1-0,https://www.besoccer.com/match/venezia/ss-juve-stabia/2020160716,2020,36,serie_b
+Virtus Entella,Perugia,0-2,https://www.besoccer.com/match/virtus-entella/perugia/2020160717,2020,36,serie_b
+Trapani,Pescara,1-0,https://www.besoccer.com/match/trapani/pescara-calcio/2020160718,2020,36,serie_b
+Nuova Cosenza,Pisa,2-1,https://www.besoccer.com/match/nuova-cosenza/pisa-calcio/2020160719,2020,36,serie_b
+Ascoli,Pordenone,2-2,https://www.besoccer.com/match/ascoli/pordenone/2020160720,2020,36,serie_b
+Cremonese,Spezia,0-0,https://www.besoccer.com/match/us-cremonese/asd-spezia/2020160721,2020,36,serie_b
+Pisa,Ascoli,1-0,https://www.besoccer.com/match/pisa-calcio/ascoli/2020160722,2020,37,serie_b
+Benevento,Chievo,0-1,https://www.besoccer.com/match/benevento-calcio/chievo/2020160723,2020,37,serie_b
+Empoli,Nuova Cosenza,1-5,https://www.besoccer.com/match/empoli-fc/nuova-cosenza/2020160724,2020,37,serie_b
+Juve Stabia,Cremonese,1-2,https://www.besoccer.com/match/ss-juve-stabia/us-cremonese/2020160725,2020,37,serie_b
+Crotone,Frosinone,1-0,https://www.besoccer.com/match/fc-crotone/frosinone-calcio/2020160726,2020,37,serie_b
+Pescara,Livorno,1-0,https://www.besoccer.com/match/pescara-calcio/livorno/2020160727,2020,37,serie_b
+Pordenone,Salernitana,1-1,https://www.besoccer.com/match/pordenone/salernitana-calcio-1919/2020160728,2020,37,serie_b
+Perugia,Trapani,1-2,https://www.besoccer.com/match/perugia/trapani/2020160729,2020,37,serie_b
+Cittadella,Venezia,1-0,https://www.besoccer.com/match/as-cittadella/venezia/2020160730,2020,37,serie_b
+Spezia,Virtus Entella,0-0,https://www.besoccer.com/match/asd-spezia/virtus-entella/2020160731,2020,37,serie_b
+Ascoli,Benevento,2-4,https://www.besoccer.com/match/ascoli/benevento-calcio/2020160732,2020,38,serie_b
+Virtus Entella,Cittadella,2-3,https://www.besoccer.com/match/virtus-entella/as-cittadella/2020160733,2020,38,serie_b
+Trapani,Crotone,2-0,https://www.besoccer.com/match/trapani/fc-crotone/2020160734,2020,38,serie_b
+Livorno,Empoli,0-2,https://www.besoccer.com/match/livorno/empoli-fc/2020160735,2020,38,serie_b
+Nuova Cosenza,Juve Stabia,3-1,https://www.besoccer.com/match/nuova-cosenza/ss-juve-stabia/2020160736,2020,38,serie_b
+Venezia,Perugia,3-1,https://www.besoccer.com/match/venezia/perugia/2020160737,2020,38,serie_b
+Chievo,Pescara,1-0,https://www.besoccer.com/match/chievo/pescara-calcio/2020160738,2020,38,serie_b
+Frosinone,Pisa,1-1,https://www.besoccer.com/match/frosinone-calcio/pisa-calcio/2020160739,2020,38,serie_b
+Cremonese,Pordenone,2-2,https://www.besoccer.com/match/us-cremonese/pordenone/2020160740,2020,38,serie_b
+Salernitana,Spezia,1-2,https://www.besoccer.com/match/salernitana-calcio-1919/asd-spezia/2020160741,2020,38,serie_b

@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Hellas Verona,Milan,2-1,https://www.besoccer.com/match/hellas-verona-fc/milan/201450108,2014,1,serie_a
+Sampdoria,Juventus,0-1,https://www.besoccer.com/match/sampdoria/juventus-fc/201450114,2014,1,serie_a
+Inter,Genoa,2-0,https://www.besoccer.com/match/internazionale/genoa/201450109,2014,1,serie_a
+Cagliari,Atalanta,2-1,https://www.besoccer.com/match/cagliari/atalanta/201450106,2014,1,serie_a
+Lazio,Udinese,2-1,https://www.besoccer.com/match/lazio/udinese/201450110,2014,1,serie_a
+Livorno,Roma,0-2,https://www.besoccer.com/match/livorno/roma/201450111,2014,1,serie_a
+Napoli,Bologna,3-0,https://www.besoccer.com/match/napoli/bologna/201450112,2014,1,serie_a
+Parma,Chievo,0-0,https://www.besoccer.com/match/parma-fc/chievo/201450113,2014,1,serie_a
+Torino,Sassuolo,2-0,https://www.besoccer.com/match/torino-fc/us-sassuolo-calcio/201450115,2014,1,serie_a
+Fiorentina,Catania,2-1,https://www.besoccer.com/match/fiorentina/catania/201450107,2014,1,serie_a
+Chievo,Napoli,2-4,https://www.besoccer.com/match/chievo/napoli/201450129,2014,2,serie_a
+Juventus,Lazio,4-1,https://www.besoccer.com/match/juventus-fc/lazio/201450131,2014,2,serie_a
+Roma,Hellas Verona,3-0,https://www.besoccer.com/match/roma/hellas-verona-fc/201450133,2014,2,serie_a
+Atalanta,Torino,2-0,https://www.besoccer.com/match/atalanta/torino-fc/201450126,2014,2,serie_a
+Bologna,Sampdoria,2-2,https://www.besoccer.com/match/bologna/sampdoria/201450127,2014,2,serie_a
+Catania,Inter,0-3,https://www.besoccer.com/match/catania/internazionale/201450128,2014,2,serie_a
+Genoa,Fiorentina,2-5,https://www.besoccer.com/match/genoa/fiorentina/201450130,2014,2,serie_a
+Milan,Cagliari,3-1,https://www.besoccer.com/match/milan/cagliari/201450132,2014,2,serie_a
+Sassuolo,Livorno,1-4,https://www.besoccer.com/match/us-sassuolo-calcio/livorno/201450134,2014,2,serie_a
+Udinese,Parma,3-1,https://www.besoccer.com/match/udinese/parma-fc/201450135,2014,2,serie_a
+Inter,Juventus,1-1,https://www.besoccer.com/match/internazionale/juventus-fc/201450148,2014,3,serie_a
+Napoli,Atalanta,2-0,https://www.besoccer.com/match/napoli/atalanta/201450151,2014,3,serie_a
+Torino,Milan,2-2,https://www.besoccer.com/match/torino-fc/milan/201450154,2014,3,serie_a
+Fiorentina,Cagliari,1-1,https://www.besoccer.com/match/fiorentina/cagliari/201450146,2014,3,serie_a
+Hellas Verona,Sassuolo,2-0,https://www.besoccer.com/match/hellas-verona-fc/us-sassuolo-calcio/201450147,2014,3,serie_a
+Lazio,Chievo,3-0,https://www.besoccer.com/match/lazio/chievo/201450149,2014,3,serie_a
+Livorno,Catania,2-0,https://www.besoccer.com/match/livorno/catania/201450150,2014,3,serie_a
+Udinese,Bologna,1-1,https://www.besoccer.com/match/udinese/bologna/201450155,2014,3,serie_a
+Sampdoria,Genoa,0-3,https://www.besoccer.com/match/sampdoria/genoa/201450153,2014,3,serie_a
+Parma,Roma,1-3,https://www.besoccer.com/match/parma-fc/roma/201450152,2014,3,serie_a
+Cagliari,Sampdoria,2-2,https://www.besoccer.com/match/cagliari/sampdoria/201450168,2014,4,serie_a
+Chievo,Udinese,2-1,https://www.besoccer.com/match/chievo/udinese/201450170,2014,4,serie_a
+Genoa,Livorno,0-0,https://www.besoccer.com/match/genoa/livorno/201450171,2014,4,serie_a
+Sassuolo,Inter,0-7,https://www.besoccer.com/match/us-sassuolo-calcio/internazionale/201450175,2014,4,serie_a
+Atalanta,Fiorentina,0-2,https://www.besoccer.com/match/atalanta/fiorentina/201450166,2014,4,serie_a
+Bologna,Torino,1-2,https://www.besoccer.com/match/bologna/torino-fc/201450167,2014,4,serie_a
+Catania,Parma,0-0,https://www.besoccer.com/match/catania/parma-fc/201450169,2014,4,serie_a
+Juventus,Hellas Verona,2-1,https://www.besoccer.com/match/juventus-fc/hellas-verona-fc/201450172,2014,4,serie_a
+Roma,Lazio,2-0,https://www.besoccer.com/match/roma/lazio/201450174,2014,4,serie_a
+Milan,Napoli,1-2,https://www.besoccer.com/match/milan/napoli/201450173,2014,4,serie_a
+Udinese,Genoa,1-0,https://www.besoccer.com/match/udinese/genoa/201450195,2014,5,serie_a
+Bologna,Milan,3-3,https://www.besoccer.com/match/bologna/milan/201450186,2014,5,serie_a
+Chievo,Juventus,1-2,https://www.besoccer.com/match/chievo/juventus-fc/201450187,2014,5,serie_a
+Lazio,Catania,3-1,https://www.besoccer.com/match/lazio/catania/201450189,2014,5,serie_a
+Livorno,Cagliari,1-1,https://www.besoccer.com/match/livorno/cagliari/201450190,2014,5,serie_a
+Napoli,Sassuolo,1-1,https://www.besoccer.com/match/napoli/us-sassuolo-calcio/201450191,2014,5,serie_a
+Parma,Atalanta,4-3,https://www.besoccer.com/match/parma-fc/atalanta/201450192,2014,5,serie_a
+Sampdoria,Roma,0-2,https://www.besoccer.com/match/sampdoria/roma/201450193,2014,5,serie_a
+Torino,Hellas Verona,2-2,https://www.besoccer.com/match/torino-fc/hellas-verona-fc/201450194,2014,5,serie_a
+Inter,Fiorentina,2-1,https://www.besoccer.com/match/internazionale/fiorentina/201450188,2014,5,serie_a
+Genoa,Napoli,0-2,https://www.besoccer.com/match/genoa/napoli/201450210,2014,6,serie_a
+Milan,Sampdoria,1-0,https://www.besoccer.com/match/milan/sampdoria/201450212,2014,6,serie_a
+Torino,Juventus,0-1,https://www.besoccer.com/match/torino-fc/juventus-fc/201450215,2014,6,serie_a
+Atalanta,Udinese,2-0,https://www.besoccer.com/match/atalanta/udinese/201450206,2014,6,serie_a
+Cagliari,Inter,1-1,https://www.besoccer.com/match/cagliari/internazionale/201450207,2014,6,serie_a
+Catania,Chievo,2-0,https://www.besoccer.com/match/catania/chievo/201450208,2014,6,serie_a
+Hellas Verona,Livorno,2-1,https://www.besoccer.com/match/hellas-verona-fc/livorno/201450211,2014,6,serie_a
+Sassuolo,Lazio,2-2,https://www.besoccer.com/match/us-sassuolo-calcio/lazio/201450214,2014,6,serie_a
+Roma,Bologna,5-0,https://www.besoccer.com/match/roma/bologna/201450213,2014,6,serie_a
+Fiorentina,Parma,2-2,https://www.besoccer.com/match/fiorentina/parma-fc/201450209,2014,6,serie_a
+Chievo,Atalanta,0-1,https://www.besoccer.com/match/chievo/atalanta/201450228,2014,7,serie_a
+Inter,Roma,0-3,https://www.besoccer.com/match/internazionale/roma/201450229,2014,7,serie_a
+Parma,Sassuolo,3-1,https://www.besoccer.com/match/parma-fc/us-sassuolo-calcio/201450233,2014,7,serie_a
+Bologna,Hellas Verona,1-4,https://www.besoccer.com/match/bologna/hellas-verona-fc/201450226,2014,7,serie_a
+Catania,Genoa,1-1,https://www.besoccer.com/match/catania/genoa/201450227,2014,7,serie_a
+Napoli,Livorno,4-0,https://www.besoccer.com/match/napoli/livorno/201450232,2014,7,serie_a
+Sampdoria,Torino,2-2,https://www.besoccer.com/match/sampdoria/torino-fc/201450234,2014,7,serie_a
+Udinese,Cagliari,2-0,https://www.besoccer.com/match/udinese/cagliari/201450235,2014,7,serie_a
+Juventus,Milan,3-2,https://www.besoccer.com/match/juventus-fc/milan/201450230,2014,7,serie_a
+Lazio,Fiorentina,0-0,https://www.besoccer.com/match/lazio/fiorentina/201450231,2014,7,serie_a
+Roma,Napoli,2-0,https://www.besoccer.com/match/roma/napoli/201450253,2014,8,serie_a
+Cagliari,Catania,2-1,https://www.besoccer.com/match/cagliari/catania/201450247,2014,8,serie_a
+Milan,Udinese,1-0,https://www.besoccer.com/match/milan/udinese/201450252,2014,8,serie_a
+Atalanta,Lazio,2-1,https://www.besoccer.com/match/atalanta/lazio/201450246,2014,8,serie_a
+Fiorentina,Juventus,4-2,https://www.besoccer.com/match/fiorentina/juventus-fc/201450248,2014,8,serie_a
+Genoa,Chievo,2-1,https://www.besoccer.com/match/genoa/chievo/201450249,2014,8,serie_a
+Hellas Verona,Parma,3-2,https://www.besoccer.com/match/hellas-verona-fc/parma-fc/201450250,2014,8,serie_a
+Livorno,Sampdoria,1-2,https://www.besoccer.com/match/livorno/sampdoria/201450251,2014,8,serie_a
+Sassuolo,Bologna,2-1,https://www.besoccer.com/match/us-sassuolo-calcio/bologna/201450254,2014,8,serie_a
+Torino,Inter,3-3,https://www.besoccer.com/match/torino-fc/internazionale/201450255,2014,8,serie_a
+Sampdoria,Atalanta,1-0,https://www.besoccer.com/match/sampdoria/atalanta/201450274,2014,9,serie_a
+Inter,Hellas Verona,4-2,https://www.besoccer.com/match/internazionale/hellas-verona-fc/201450269,2014,9,serie_a
+Napoli,Torino,2-0,https://www.besoccer.com/match/napoli/torino-fc/201450272,2014,9,serie_a
+Bologna,Livorno,1-0,https://www.besoccer.com/match/bologna/livorno/201450266,2014,9,serie_a
+Catania,Sassuolo,0-0,https://www.besoccer.com/match/catania/us-sassuolo-calcio/201450267,2014,9,serie_a
+Chievo,Fiorentina,1-2,https://www.besoccer.com/match/chievo/fiorentina/201450268,2014,9,serie_a
+Juventus,Genoa,2-0,https://www.besoccer.com/match/juventus-fc/genoa/201450270,2014,9,serie_a
+Parma,Milan,3-2,https://www.besoccer.com/match/parma-fc/milan/201450273,2014,9,serie_a
+Udinese,Roma,0-1,https://www.besoccer.com/match/udinese/roma/201450275,2014,9,serie_a
+Lazio,Cagliari,2-0,https://www.besoccer.com/match/lazio/cagliari/201450271,2014,9,serie_a
+Atalanta,Inter,1-1,https://www.besoccer.com/match/atalanta/internazionale/201450286,2014,10,serie_a
+Cagliari,Bologna,0-3,https://www.besoccer.com/match/cagliari/bologna/201450287,2014,10,serie_a
+Fiorentina,Napoli,1-2,https://www.besoccer.com/match/fiorentina/napoli/201450288,2014,10,serie_a
+Genoa,Parma,1-0,https://www.besoccer.com/match/genoa/parma-fc/201450289,2014,10,serie_a
+Hellas Verona,Sampdoria,2-0,https://www.besoccer.com/match/hellas-verona-fc/sampdoria/201450290,2014,10,serie_a
+Juventus,Catania,4-0,https://www.besoccer.com/match/juventus-fc/catania/201450291,2014,10,serie_a
+Livorno,Torino,3-3,https://www.besoccer.com/match/livorno/torino-fc/201450292,2014,10,serie_a
+Milan,Lazio,1-1,https://www.besoccer.com/match/milan/lazio/201450293,2014,10,serie_a
+Sassuolo,Udinese,1-2,https://www.besoccer.com/match/us-sassuolo-calcio/udinese/201450295,2014,10,serie_a
+Roma,Chievo,1-0,https://www.besoccer.com/match/roma/chievo/201450294,2014,10,serie_a
+Parma,Juventus,0-1,https://www.besoccer.com/match/parma-fc/juventus-fc/201450312,2014,11,serie_a
+Milan,Fiorentina,0-2,https://www.besoccer.com/match/milan/fiorentina/201450310,2014,11,serie_a
+Napoli,Catania,2-1,https://www.besoccer.com/match/napoli/catania/201450311,2014,11,serie_a
+Livorno,Atalanta,1-0,https://www.besoccer.com/match/livorno/atalanta/201450309,2014,11,serie_a
+Hellas Verona,Cagliari,2-1,https://www.besoccer.com/match/hellas-verona-fc/cagliari/201450307,2014,11,serie_a
+Lazio,Genoa,0-2,https://www.besoccer.com/match/lazio/genoa/201450308,2014,11,serie_a
+Sampdoria,Sassuolo,3-4,https://www.besoccer.com/match/sampdoria/us-sassuolo-calcio/201450313,2014,11,serie_a
+Udinese,Inter,0-3,https://www.besoccer.com/match/udinese/internazionale/201450315,2014,11,serie_a
+Torino,Roma,1-1,https://www.besoccer.com/match/torino-fc/roma/201450314,2014,11,serie_a
+Bologna,Chievo,0-0,https://www.besoccer.com/match/bologna/chievo/201450306,2014,11,serie_a
+Catania,Udinese,1-0,https://www.besoccer.com/match/catania/udinese/201450328,2014,12,serie_a
+Inter,Livorno,2-0,https://www.besoccer.com/match/internazionale/livorno/201450332,2014,12,serie_a
+Genoa,Hellas Verona,2-0,https://www.besoccer.com/match/genoa/hellas-verona-fc/201450331,2014,12,serie_a
+Atalanta,Bologna,2-1,https://www.besoccer.com/match/atalanta/bologna/201450326,2014,12,serie_a
+Cagliari,Torino,2-1,https://www.besoccer.com/match/cagliari/torino-fc/201450327,2014,12,serie_a
+Chievo,Milan,0-0,https://www.besoccer.com/match/chievo/milan/201450329,2014,12,serie_a
+Parma,Lazio,1-1,https://www.besoccer.com/match/parma-fc/lazio/201450334,2014,12,serie_a
+Roma,Sassuolo,1-1,https://www.besoccer.com/match/roma/us-sassuolo-calcio/201450335,2014,12,serie_a
+Fiorentina,Sampdoria,2-1,https://www.besoccer.com/match/fiorentina/sampdoria/201450330,2014,12,serie_a
+Juventus,Napoli,3-0,https://www.besoccer.com/match/juventus-fc/napoli/201450333,2014,12,serie_a
+Hellas Verona,Chievo,0-1,https://www.besoccer.com/match/hellas-verona-fc/chievo/201450347,2014,13,serie_a
+Milan,Genoa,1-1,https://www.besoccer.com/match/milan/genoa/201450349,2014,13,serie_a
+Napoli,Parma,0-1,https://www.besoccer.com/match/napoli/parma-fc/201450350,2014,13,serie_a
+Livorno,Juventus,0-2,https://www.besoccer.com/match/livorno/juventus-fc/201450348,2014,13,serie_a
+Sampdoria,Lazio,1-1,https://www.besoccer.com/match/sampdoria/lazio/201450352,2014,13,serie_a
+Sassuolo,Atalanta,2-0,https://www.besoccer.com/match/us-sassuolo-calcio/atalanta/201450353,2014,13,serie_a
+Torino,Catania,4-1,https://www.besoccer.com/match/torino-fc/catania/201450354,2014,13,serie_a
+Udinese,Fiorentina,1-0,https://www.besoccer.com/match/udinese/fiorentina/201450355,2014,13,serie_a
+Bologna,Inter,1-1,https://www.besoccer.com/match/bologna/internazionale/201450346,2014,13,serie_a
+Roma,Cagliari,0-0,https://www.besoccer.com/match/roma/cagliari/201450351,2014,13,serie_a
+Parma,Bologna,1-1,https://www.besoccer.com/match/parma-fc/bologna/201450375,2014,14,serie_a
+Genoa,Torino,1-1,https://www.besoccer.com/match/genoa/torino-fc/201450371,2014,14,serie_a
+Catania,Milan,1-3,https://www.besoccer.com/match/catania/milan/201450368,2014,14,serie_a
+Atalanta,Roma,1-1,https://www.besoccer.com/match/atalanta/roma/201450366,2014,14,serie_a
+Cagliari,Sassuolo,2-2,https://www.besoccer.com/match/cagliari/us-sassuolo-calcio/201450367,2014,14,serie_a
+Chievo,Livorno,3-0,https://www.besoccer.com/match/chievo/livorno/201450369,2014,14,serie_a
+Inter,Sampdoria,1-1,https://www.besoccer.com/match/internazionale/sampdoria/201450372,2014,14,serie_a
+Juventus,Udinese,1-0,https://www.besoccer.com/match/juventus-fc/udinese/201450373,2014,14,serie_a
+Fiorentina,Hellas Verona,4-3,https://www.besoccer.com/match/fiorentina/hellas-verona-fc/201450370,2014,14,serie_a
+Lazio,Napoli,2-4,https://www.besoccer.com/match/lazio/napoli/201450374,2014,14,serie_a
+Bologna,Juventus,0-2,https://www.besoccer.com/match/bologna/juventus-fc/201450386,2014,15,serie_a
+Livorno,Milan,2-2,https://www.besoccer.com/match/livorno/milan/201450390,2014,15,serie_a
+Napoli,Udinese,3-3,https://www.besoccer.com/match/napoli/udinese/201450391,2014,15,serie_a
+Roma,Fiorentina,2-1,https://www.besoccer.com/match/roma/fiorentina/201450392,2014,15,serie_a
+Cagliari,Genoa,2-1,https://www.besoccer.com/match/cagliari/genoa/201450387,2014,15,serie_a
+Hellas Verona,Atalanta,2-1,https://www.besoccer.com/match/hellas-verona-fc/atalanta/201450388,2014,15,serie_a
+Sampdoria,Catania,2-0,https://www.besoccer.com/match/sampdoria/catania/201450393,2014,15,serie_a
+Sassuolo,Chievo,0-1,https://www.besoccer.com/match/us-sassuolo-calcio/chievo/201450394,2014,15,serie_a
+Torino,Lazio,1-0,https://www.besoccer.com/match/torino-fc/lazio/201450395,2014,15,serie_a
+Inter,Parma,3-3,https://www.besoccer.com/match/internazionale/parma-fc/201450389,2014,15,serie_a
+Catania,Hellas Verona,0-0,https://www.besoccer.com/match/catania/hellas-verona-fc/201450406,2014,16,serie_a
+Chievo,Sampdoria,0-1,https://www.besoccer.com/match/chievo/sampdoria/201450407,2014,16,serie_a
+Fiorentina,Bologna,3-0,https://www.besoccer.com/match/fiorentina/bologna/201450408,2014,16,serie_a
+Genoa,Atalanta,1-1,https://www.besoccer.com/match/genoa/atalanta/201450409,2014,16,serie_a
+Lazio,Livorno,2-0,https://www.besoccer.com/match/lazio/livorno/201450411,2014,16,serie_a
+Parma,Cagliari,0-0,https://www.besoccer.com/match/parma-fc/cagliari/201450414,2014,16,serie_a
+Udinese,Torino,0-2,https://www.besoccer.com/match/udinese/torino-fc/201450415,2014,16,serie_a
+Juventus,Sassuolo,4-0,https://www.besoccer.com/match/juventus-fc/us-sassuolo-calcio/201450410,2014,16,serie_a
+Napoli,Inter,4-2,https://www.besoccer.com/match/napoli/internazionale/201450413,2014,16,serie_a
+Milan,Roma,2-2,https://www.besoccer.com/match/milan/roma/201450412,2014,16,serie_a
+Livorno,Udinese,1-2,https://www.besoccer.com/match/livorno/udinese/201450431,2014,17,serie_a
+Cagliari,Napoli,1-1,https://www.besoccer.com/match/cagliari/napoli/201450428,2014,17,serie_a
+Bologna,Genoa,1-0,https://www.besoccer.com/match/bologna/genoa/201450427,2014,17,serie_a
+Atalanta,Juventus,1-4,https://www.besoccer.com/match/atalanta/juventus-fc/201450426,2014,17,serie_a
+Hellas Verona,Lazio,4-1,https://www.besoccer.com/match/hellas-verona-fc/lazio/201450429,2014,17,serie_a
+Roma,Catania,4-0,https://www.besoccer.com/match/roma/catania/201450432,2014,17,serie_a
+Sampdoria,Parma,1-1,https://www.besoccer.com/match/sampdoria/parma-fc/201450433,2014,17,serie_a
+Sassuolo,Fiorentina,0-1,https://www.besoccer.com/match/us-sassuolo-calcio/fiorentina/201450434,2014,17,serie_a
+Torino,Chievo,4-1,https://www.besoccer.com/match/torino-fc/chievo/201450435,2014,17,serie_a
+Inter,Milan,1-0,https://www.besoccer.com/match/internazionale/milan/201450430,2014,17,serie_a
+Chievo,Cagliari,0-0,https://www.besoccer.com/match/chievo/cagliari/201450447,2014,18,serie_a
+Fiorentina,Livorno,1-0,https://www.besoccer.com/match/fiorentina/livorno/201450448,2014,18,serie_a
+Juventus,Roma,3-0,https://www.besoccer.com/match/juventus-fc/roma/201450450,2014,18,serie_a
+Napoli,Sampdoria,2-0,https://www.besoccer.com/match/napoli/sampdoria/201450453,2014,18,serie_a
+Catania,Bologna,2-0,https://www.besoccer.com/match/catania/bologna/201450446,2014,18,serie_a
+Genoa,Sassuolo,2-0,https://www.besoccer.com/match/genoa/us-sassuolo-calcio/201450449,2014,18,serie_a
+Milan,Atalanta,3-0,https://www.besoccer.com/match/milan/atalanta/201450452,2014,18,serie_a
+Parma,Torino,3-1,https://www.besoccer.com/match/parma-fc/torino-fc/201450454,2014,18,serie_a
+Udinese,Hellas Verona,1-3,https://www.besoccer.com/match/udinese/hellas-verona-fc/201450455,2014,18,serie_a
+Lazio,Inter,1-0,https://www.besoccer.com/match/lazio/internazionale/201450451,2014,18,serie_a
+Livorno,Parma,0-3,https://www.besoccer.com/match/livorno/parma-fc/201450471,2014,19,serie_a
+Bologna,Lazio,0-0,https://www.besoccer.com/match/bologna/lazio/201450467,2014,19,serie_a
+Torino,Fiorentina,0-0,https://www.besoccer.com/match/torino-fc/fiorentina/201450475,2014,19,serie_a
+Atalanta,Catania,2-1,https://www.besoccer.com/match/atalanta/catania/201450466,2014,19,serie_a
+Cagliari,Juventus,1-4,https://www.besoccer.com/match/cagliari/juventus-fc/201450468,2014,19,serie_a
+Hellas Verona,Napoli,0-3,https://www.besoccer.com/match/hellas-verona-fc/napoli/201450469,2014,19,serie_a
+Roma,Genoa,4-0,https://www.besoccer.com/match/roma/genoa/201450472,2014,19,serie_a
+Sassuolo,Milan,4-3,https://www.besoccer.com/match/us-sassuolo-calcio/milan/201450474,2014,19,serie_a
+Sampdoria,Udinese,3-0,https://www.besoccer.com/match/sampdoria/udinese/201450473,2014,19,serie_a
+Inter,Chievo,1-1,https://www.besoccer.com/match/internazionale/chievo/201450470,2014,19,serie_a
+Roma,Livorno,3-0,https://www.besoccer.com/match/roma/livorno/201450121,2014,20,serie_a
+Juventus,Sampdoria,4-2,https://www.besoccer.com/match/juventus-fc/sampdoria/201450124,2014,20,serie_a
+Udinese,Lazio,2-3,https://www.besoccer.com/match/udinese/lazio/201450120,2014,20,serie_a
+Atalanta,Cagliari,1-0,https://www.besoccer.com/match/atalanta/cagliari/201450116,2014,20,serie_a
+Catania,Fiorentina,0-3,https://www.besoccer.com/match/catania/fiorentina/201450117,2014,20,serie_a
+Genoa,Inter,1-0,https://www.besoccer.com/match/genoa/internazionale/201450119,2014,20,serie_a
+Bologna,Napoli,2-2,https://www.besoccer.com/match/bologna/napoli/201450122,2014,20,serie_a
+Chievo,Parma,1-2,https://www.besoccer.com/match/chievo/parma-fc/201450123,2014,20,serie_a
+Sassuolo,Torino,0-2,https://www.besoccer.com/match/us-sassuolo-calcio/torino-fc/201450125,2014,20,serie_a
+Milan,Hellas Verona,1-0,https://www.besoccer.com/match/milan/hellas-verona-fc/201450118,2014,20,serie_a
+Napoli,Chievo,1-1,https://www.besoccer.com/match/napoli/chievo/201450139,2014,21,serie_a
+Lazio,Juventus,1-1,https://www.besoccer.com/match/lazio/juventus-fc/201450141,2014,21,serie_a
+Hellas Verona,Roma,1-3,https://www.besoccer.com/match/hellas-verona-fc/roma/201450143,2014,21,serie_a
+Torino,Atalanta,1-0,https://www.besoccer.com/match/torino-fc/atalanta/201450136,2014,21,serie_a
+Sampdoria,Bologna,1-1,https://www.besoccer.com/match/sampdoria/bologna/201450137,2014,21,serie_a
+Inter,Catania,0-0,https://www.besoccer.com/match/internazionale/catania/201450138,2014,21,serie_a
+Cagliari,Milan,1-2,https://www.besoccer.com/match/cagliari/milan/201450142,2014,21,serie_a
+Livorno,Sassuolo,3-1,https://www.besoccer.com/match/livorno/us-sassuolo-calcio/201450144,2014,21,serie_a
+Parma,Udinese,1-0,https://www.besoccer.com/match/parma-fc/udinese/201450145,2014,21,serie_a
+Fiorentina,Genoa,3-3,https://www.besoccer.com/match/fiorentina/genoa/201450140,2014,21,serie_a
+Cagliari,Fiorentina,1-0,https://www.besoccer.com/match/cagliari/fiorentina/201450156,2014,22,serie_a
+Bologna,Udinese,0-2,https://www.besoccer.com/match/bologna/udinese/201450165,2014,22,serie_a
+Milan,Torino,1-1,https://www.besoccer.com/match/milan/torino-fc/201450164,2014,22,serie_a
+Sassuolo,Hellas Verona,1-2,https://www.besoccer.com/match/us-sassuolo-calcio/hellas-verona-fc/201450157,2014,22,serie_a
+Chievo,Lazio,0-2,https://www.besoccer.com/match/chievo/lazio/201450159,2014,22,serie_a
+Catania,Livorno,3-3,https://www.besoccer.com/match/catania/livorno/201450160,2014,22,serie_a
+Atalanta,Napoli,3-0,https://www.besoccer.com/match/atalanta/napoli/201450161,2014,22,serie_a
+Juventus,Inter,3-1,https://www.besoccer.com/match/juventus-fc/internazionale/201450158,2014,22,serie_a
+Genoa,Sampdoria,0-1,https://www.besoccer.com/match/genoa/sampdoria/201450163,2014,22,serie_a
+Roma,Parma,4-2,https://www.besoccer.com/match/roma/parma-fc/201450162,2014,22,serie_a
+Fiorentina,Atalanta,2-0,https://www.besoccer.com/match/fiorentina/atalanta/201450176,2014,23,serie_a
+Udinese,Chievo,3-0,https://www.besoccer.com/match/udinese/chievo/201450180,2014,23,serie_a
+Napoli,Milan,3-1,https://www.besoccer.com/match/napoli/milan/201450183,2014,23,serie_a
+Torino,Bologna,1-2,https://www.besoccer.com/match/torino-fc/bologna/201450177,2014,23,serie_a
+Sampdoria,Cagliari,1-0,https://www.besoccer.com/match/sampdoria/cagliari/201450178,2014,23,serie_a
+Parma,Catania,0-0,https://www.besoccer.com/match/parma-fc/catania/201450179,2014,23,serie_a
+Livorno,Genoa,0-1,https://www.besoccer.com/match/livorno/genoa/201450181,2014,23,serie_a
+Hellas Verona,Juventus,2-2,https://www.besoccer.com/match/hellas-verona-fc/juventus-fc/201450182,2014,23,serie_a
+Lazio,Roma,0-0,https://www.besoccer.com/match/lazio/roma/201450184,2014,23,serie_a
+Inter,Sassuolo,1-0,https://www.besoccer.com/match/internazionale/us-sassuolo-calcio/201450185,2014,23,serie_a
+Milan,Bologna,1-0,https://www.besoccer.com/match/milan/bologna/201450196,2014,24,serie_a
+Fiorentina,Inter,1-2,https://www.besoccer.com/match/fiorentina/internazionale/201450198,2014,24,serie_a
+Catania,Lazio,3-1,https://www.besoccer.com/match/catania/lazio/201450199,2014,24,serie_a
+Juventus,Chievo,3-1,https://www.besoccer.com/match/juventus-fc/chievo/201450197,2014,24,serie_a
+Cagliari,Livorno,1-2,https://www.besoccer.com/match/cagliari/livorno/201450200,2014,24,serie_a
+Sassuolo,Napoli,0-2,https://www.besoccer.com/match/us-sassuolo-calcio/napoli/201450201,2014,24,serie_a
+Atalanta,Parma,0-4,https://www.besoccer.com/match/atalanta/parma-fc/201450202,2014,24,serie_a
+Genoa,Udinese,3-3,https://www.besoccer.com/match/genoa/udinese/201450205,2014,24,serie_a
+Roma,Sampdoria,3-0,https://www.besoccer.com/match/roma/sampdoria/201450203,2014,24,serie_a
+Hellas Verona,Torino,1-3,https://www.besoccer.com/match/hellas-verona-fc/torino-fc/201450204,2014,24,serie_a
+Bologna,Roma,0-1,https://www.besoccer.com/match/bologna/roma/201450223,2014,25,serie_a
+Livorno,Hellas Verona,2-3,https://www.besoccer.com/match/livorno/hellas-verona-fc/201450221,2014,25,serie_a
+Udinese,Atalanta,1-1,https://www.besoccer.com/match/udinese/atalanta/201450216,2014,25,serie_a
+Inter,Cagliari,1-1,https://www.besoccer.com/match/internazionale/cagliari/201450217,2014,25,serie_a
+Chievo,Catania,2-0,https://www.besoccer.com/match/chievo/catania/201450218,2014,25,serie_a
+Sampdoria,Milan,0-2,https://www.besoccer.com/match/sampdoria/milan/201450222,2014,25,serie_a
+Juventus,Torino,1-0,https://www.besoccer.com/match/juventus-fc/torino-fc/201450225,2014,25,serie_a
+Lazio,Sassuolo,3-2,https://www.besoccer.com/match/lazio/us-sassuolo-calcio/201450224,2014,25,serie_a
+Parma,Fiorentina,2-2,https://www.besoccer.com/match/parma-fc/fiorentina/201450219,2014,25,serie_a
+Napoli,Genoa,1-1,https://www.besoccer.com/match/napoli/genoa/201450220,2014,25,serie_a
+Roma,Inter,0-0,https://www.besoccer.com/match/roma/internazionale/201450239,2014,26,serie_a
+Cagliari,Udinese,3-0,https://www.besoccer.com/match/cagliari/udinese/201450245,2014,26,serie_a
+Hellas Verona,Bologna,0-0,https://www.besoccer.com/match/hellas-verona-fc/bologna/201450236,2014,26,serie_a
+Genoa,Catania,2-0,https://www.besoccer.com/match/genoa/catania/201450237,2014,26,serie_a
+Atalanta,Chievo,2-1,https://www.besoccer.com/match/atalanta/chievo/201450238,2014,26,serie_a
+Sassuolo,Parma,0-1,https://www.besoccer.com/match/us-sassuolo-calcio/parma-fc/201450243,2014,26,serie_a
+Torino,Sampdoria,0-2,https://www.besoccer.com/match/torino-fc/sampdoria/201450244,2014,26,serie_a
+Livorno,Napoli,1-1,https://www.besoccer.com/match/livorno/napoli/201450242,2014,26,serie_a
+Milan,Juventus,0-2,https://www.besoccer.com/match/milan/juventus-fc/201450240,2014,26,serie_a
+Fiorentina,Lazio,0-1,https://www.besoccer.com/match/fiorentina/lazio/201450241,2014,26,serie_a
+Udinese,Milan,1-0,https://www.besoccer.com/match/udinese/milan/201450262,2014,27,serie_a
+Catania,Cagliari,1-1,https://www.besoccer.com/match/catania/cagliari/201450257,2014,27,serie_a
+Juventus,Fiorentina,1-0,https://www.besoccer.com/match/juventus-fc/fiorentina/201450258,2014,27,serie_a
+Lazio,Atalanta,0-1,https://www.besoccer.com/match/lazio/atalanta/201450256,2014,27,serie_a
+Chievo,Genoa,2-1,https://www.besoccer.com/match/chievo/genoa/201450259,2014,27,serie_a
+Parma,Hellas Verona,2-0,https://www.besoccer.com/match/parma-fc/hellas-verona-fc/201450260,2014,27,serie_a
+Sampdoria,Livorno,4-2,https://www.besoccer.com/match/sampdoria/livorno/201450261,2014,27,serie_a
+Bologna,Sassuolo,0-0,https://www.besoccer.com/match/bologna/us-sassuolo-calcio/201450264,2014,27,serie_a
+Inter,Torino,1-0,https://www.besoccer.com/match/internazionale/torino-fc/201450265,2014,27,serie_a
+Napoli,Roma,1-0,https://www.besoccer.com/match/napoli/roma/201450263,2014,27,serie_a
+Hellas Verona,Inter,0-2,https://www.besoccer.com/match/hellas-verona-fc/internazionale/201450279,2014,28,serie_a
+Atalanta,Sampdoria,3-0,https://www.besoccer.com/match/atalanta/sampdoria/201450284,2014,28,serie_a
+Livorno,Bologna,2-1,https://www.besoccer.com/match/livorno/bologna/201450276,2014,28,serie_a
+Sassuolo,Catania,3-1,https://www.besoccer.com/match/us-sassuolo-calcio/catania/201450277,2014,28,serie_a
+Cagliari,Lazio,0-2,https://www.besoccer.com/match/cagliari/lazio/201450281,2014,28,serie_a
+Milan,Parma,2-4,https://www.besoccer.com/match/milan/parma-fc/201450283,2014,28,serie_a
+Fiorentina,Chievo,3-1,https://www.besoccer.com/match/fiorentina/chievo/201450278,2014,28,serie_a
+Genoa,Juventus,0-1,https://www.besoccer.com/match/genoa/juventus-fc/201450280,2014,28,serie_a
+Torino,Napoli,0-1,https://www.besoccer.com/match/torino-fc/napoli/201450282,2014,28,serie_a
+Roma,Udinese,3-2,https://www.besoccer.com/match/roma/udinese/201450285,2014,28,serie_a
+Torino,Livorno,3-1,https://www.besoccer.com/match/torino-fc/livorno/201450302,2014,29,serie_a
+Chievo,Roma,0-2,https://www.besoccer.com/match/chievo/roma/201450304,2014,29,serie_a
+Parma,Genoa,1-1,https://www.besoccer.com/match/parma-fc/genoa/201450299,2014,29,serie_a
+Inter,Atalanta,1-2,https://www.besoccer.com/match/internazionale/atalanta/201450296,2014,29,serie_a
+Bologna,Cagliari,1-0,https://www.besoccer.com/match/bologna/cagliari/201450297,2014,29,serie_a
+Sampdoria,Hellas Verona,5-0,https://www.besoccer.com/match/sampdoria/hellas-verona-fc/201450300,2014,29,serie_a
+Udinese,Sassuolo,1-0,https://www.besoccer.com/match/udinese/us-sassuolo-calcio/201450305,2014,29,serie_a
+Napoli,Fiorentina,0-1,https://www.besoccer.com/match/napoli/fiorentina/201450298,2014,29,serie_a
+Catania,Juventus,0-1,https://www.besoccer.com/match/catania/juventus-fc/201450301,2014,29,serie_a
+Lazio,Milan,1-1,https://www.besoccer.com/match/lazio/milan/201450303,2014,29,serie_a
+Roma,Torino,2-1,https://www.besoccer.com/match/roma/torino-fc/201450324,2014,30,serie_a
+Chievo,Bologna,3-0,https://www.besoccer.com/match/chievo/bologna/201450316,2014,30,serie_a
+Cagliari,Hellas Verona,1-0,https://www.besoccer.com/match/cagliari/hellas-verona-fc/201450317,2014,30,serie_a
+Genoa,Lazio,2-0,https://www.besoccer.com/match/genoa/lazio/201450318,2014,30,serie_a
+Atalanta,Livorno,2-0,https://www.besoccer.com/match/atalanta/livorno/201450319,2014,30,serie_a
+Fiorentina,Milan,0-2,https://www.besoccer.com/match/fiorentina/milan/201450320,2014,30,serie_a
+Catania,Napoli,2-4,https://www.besoccer.com/match/catania/napoli/201450321,2014,30,serie_a
+Juventus,Parma,2-1,https://www.besoccer.com/match/juventus-fc/parma-fc/201450322,2014,30,serie_a
+Sassuolo,Sampdoria,1-2,https://www.besoccer.com/match/us-sassuolo-calcio/sampdoria/201450323,2014,30,serie_a
+Inter,Udinese,0-0,https://www.besoccer.com/match/internazionale/udinese/201450325,2014,30,serie_a
+Bologna,Atalanta,0-2,https://www.besoccer.com/match/bologna/atalanta/201450336,2014,31,serie_a
+Milan,Chievo,3-0,https://www.besoccer.com/match/milan/chievo/201450339,2014,31,serie_a
+Sassuolo,Roma,0-2,https://www.besoccer.com/match/us-sassuolo-calcio/roma/201450345,2014,31,serie_a
+Torino,Cagliari,2-1,https://www.besoccer.com/match/torino-fc/cagliari/201450337,2014,31,serie_a
+Sampdoria,Fiorentina,0-0,https://www.besoccer.com/match/sampdoria/fiorentina/201450340,2014,31,serie_a
+Hellas Verona,Genoa,3-0,https://www.besoccer.com/match/hellas-verona-fc/genoa/201450341,2014,31,serie_a
+Lazio,Parma,3-2,https://www.besoccer.com/match/lazio/parma-fc/201450344,2014,31,serie_a
+Napoli,Juventus,2-0,https://www.besoccer.com/match/napoli/juventus-fc/201450343,2014,31,serie_a
+Udinese,Catania,1-0,https://www.besoccer.com/match/udinese/catania/201450338,2014,31,serie_a
+Livorno,Inter,2-2,https://www.besoccer.com/match/livorno/internazionale/201450342,2014,31,serie_a
+Chievo,Hellas Verona,0-1,https://www.besoccer.com/match/chievo/hellas-verona-fc/201450357,2014,32,serie_a
+Inter,Bologna,2-2,https://www.besoccer.com/match/internazionale/bologna/201450356,2014,32,serie_a
+Lazio,Sampdoria,2-0,https://www.besoccer.com/match/lazio/sampdoria/201450362,2014,32,serie_a
+Cagliari,Roma,1-3,https://www.besoccer.com/match/cagliari/roma/201450361,2014,32,serie_a
+Atalanta,Sassuolo,0-2,https://www.besoccer.com/match/atalanta/us-sassuolo-calcio/201450363,2014,32,serie_a
+Catania,Torino,1-2,https://www.besoccer.com/match/catania/torino-fc/201450364,2014,32,serie_a
+Fiorentina,Udinese,2-1,https://www.besoccer.com/match/fiorentina/udinese/201450365,2014,32,serie_a
+Parma,Napoli,1-0,https://www.besoccer.com/match/parma-fc/napoli/201450360,2014,32,serie_a
+Juventus,Livorno,2-0,https://www.besoccer.com/match/juventus-fc/livorno/201450358,2014,32,serie_a
+Genoa,Milan,1-2,https://www.besoccer.com/match/genoa/milan/201450359,2014,32,serie_a
+Sassuolo,Cagliari,1-1,https://www.besoccer.com/match/us-sassuolo-calcio/cagliari/201450377,2014,33,serie_a
+Roma,Atalanta,3-1,https://www.besoccer.com/match/roma/atalanta/201450376,2014,33,serie_a
+Bologna,Parma,1-1,https://www.besoccer.com/match/bologna/parma-fc/201450385,2014,33,serie_a
+Livorno,Chievo,2-4,https://www.besoccer.com/match/livorno/chievo/201450379,2014,33,serie_a
+Hellas Verona,Fiorentina,3-5,https://www.besoccer.com/match/hellas-verona-fc/fiorentina/201450380,2014,33,serie_a
+Torino,Genoa,2-1,https://www.besoccer.com/match/torino-fc/genoa/201450381,2014,33,serie_a
+Sampdoria,Inter,0-4,https://www.besoccer.com/match/sampdoria/internazionale/201450382,2014,33,serie_a
+Napoli,Lazio,4-2,https://www.besoccer.com/match/napoli/lazio/201450384,2014,33,serie_a
+Milan,Catania,1-0,https://www.besoccer.com/match/milan/catania/201450378,2014,33,serie_a
+Udinese,Juventus,0-2,https://www.besoccer.com/match/udinese/juventus-fc/201450383,2014,33,serie_a
+Genoa,Cagliari,1-2,https://www.besoccer.com/match/genoa/cagliari/201450397,2014,34,serie_a
+Atalanta,Hellas Verona,1-2,https://www.besoccer.com/match/atalanta/hellas-verona-fc/201450398,2014,34,serie_a
+Parma,Inter,0-2,https://www.besoccer.com/match/parma-fc/internazionale/201450399,2014,34,serie_a
+Milan,Livorno,3-0,https://www.besoccer.com/match/milan/livorno/201450400,2014,34,serie_a
+Udinese,Napoli,1-1,https://www.besoccer.com/match/udinese/napoli/201450401,2014,34,serie_a
+Catania,Sampdoria,2-1,https://www.besoccer.com/match/catania/sampdoria/201450403,2014,34,serie_a
+Chievo,Sassuolo,0-1,https://www.besoccer.com/match/chievo/us-sassuolo-calcio/201450404,2014,34,serie_a
+Lazio,Torino,3-3,https://www.besoccer.com/match/lazio/torino-fc/201450405,2014,34,serie_a
+Juventus,Bologna,1-0,https://www.besoccer.com/match/juventus-fc/bologna/201450396,2014,34,serie_a
+Fiorentina,Roma,0-1,https://www.besoccer.com/match/fiorentina/roma/201450402,2014,34,serie_a
+Roma,Milan,2-0,https://www.besoccer.com/match/roma/milan/201450422,2014,35,serie_a
+Bologna,Fiorentina,0-3,https://www.besoccer.com/match/bologna/fiorentina/201450418,2014,35,serie_a
+Inter,Napoli,0-0,https://www.besoccer.com/match/internazionale/napoli/201450423,2014,35,serie_a
+Hellas Verona,Catania,4-0,https://www.besoccer.com/match/hellas-verona-fc/catania/201450416,2014,35,serie_a
+Sampdoria,Chievo,2-1,https://www.besoccer.com/match/sampdoria/chievo/201450417,2014,35,serie_a
+Livorno,Lazio,0-2,https://www.besoccer.com/match/livorno/lazio/201450421,2014,35,serie_a
+Cagliari,Parma,1-0,https://www.besoccer.com/match/cagliari/parma-fc/201450424,2014,35,serie_a
+Torino,Udinese,2-0,https://www.besoccer.com/match/torino-fc/udinese/201450425,2014,35,serie_a
+Atalanta,Genoa,1-1,https://www.besoccer.com/match/atalanta/genoa/201450419,2014,35,serie_a
+Sassuolo,Juventus,1-3,https://www.besoccer.com/match/us-sassuolo-calcio/juventus-fc/201450420,2014,35,serie_a
+Genoa,Bologna,0-0,https://www.besoccer.com/match/genoa/bologna/201450437,2014,36,serie_a
+Udinese,Livorno,5-3,https://www.besoccer.com/match/udinese/livorno/201450441,2014,36,serie_a
+Catania,Roma,4-1,https://www.besoccer.com/match/catania/roma/201450442,2014,36,serie_a
+Parma,Sampdoria,2-0,https://www.besoccer.com/match/parma-fc/sampdoria/201450443,2014,36,serie_a
+Chievo,Torino,0-1,https://www.besoccer.com/match/chievo/torino-fc/201450445,2014,36,serie_a
+Milan,Inter,1-0,https://www.besoccer.com/match/milan/internazionale/201450440,2014,36,serie_a
+Lazio,Hellas Verona,3-3,https://www.besoccer.com/match/lazio/hellas-verona-fc/201450439,2014,36,serie_a
+Juventus,Atalanta,1-0,https://www.besoccer.com/match/juventus-fc/atalanta/201450436,2014,36,serie_a
+Fiorentina,Sassuolo,3-4,https://www.besoccer.com/match/fiorentina/us-sassuolo-calcio/201450444,2014,36,serie_a
+Napoli,Cagliari,3-0,https://www.besoccer.com/match/napoli/cagliari/201450438,2014,36,serie_a
+Hellas Verona,Udinese,2-2,https://www.besoccer.com/match/hellas-verona-fc/udinese/201450465,2014,37,serie_a
+Inter,Lazio,4-1,https://www.besoccer.com/match/internazionale/lazio/201450461,2014,37,serie_a
+Atalanta,Milan,2-1,https://www.besoccer.com/match/atalanta/milan/201450462,2014,37,serie_a
+Bologna,Catania,1-2,https://www.besoccer.com/match/bologna/catania/201450456,2014,37,serie_a
+Cagliari,Chievo,0-1,https://www.besoccer.com/match/cagliari/chievo/201450457,2014,37,serie_a
+Livorno,Fiorentina,0-1,https://www.besoccer.com/match/livorno/fiorentina/201450458,2014,37,serie_a
+Sassuolo,Genoa,4-2,https://www.besoccer.com/match/us-sassuolo-calcio/genoa/201450459,2014,37,serie_a
+Sampdoria,Napoli,2-5,https://www.besoccer.com/match/sampdoria/napoli/201450463,2014,37,serie_a
+Torino,Parma,1-1,https://www.besoccer.com/match/torino-fc/parma-fc/201450464,2014,37,serie_a
+Roma,Juventus,0-1,https://www.besoccer.com/match/roma/juventus-fc/201450460,2014,37,serie_a
+Udinese,Sampdoria,3-3,https://www.besoccer.com/match/udinese/sampdoria/201450483,2014,38,serie_a
+Catania,Atalanta,2-1,https://www.besoccer.com/match/catania/atalanta/201450476,2014,38,serie_a
+Juventus,Cagliari,3-0,https://www.besoccer.com/match/juventus-fc/cagliari/201450478,2014,38,serie_a
+Genoa,Roma,1-0,https://www.besoccer.com/match/genoa/roma/201450482,2014,38,serie_a
+Lazio,Bologna,1-0,https://www.besoccer.com/match/lazio/bologna/201450477,2014,38,serie_a
+Napoli,Hellas Verona,5-1,https://www.besoccer.com/match/napoli/hellas-verona-fc/201450479,2014,38,serie_a
+Chievo,Inter,2-1,https://www.besoccer.com/match/chievo/internazionale/201450480,2014,38,serie_a
+Parma,Livorno,2-0,https://www.besoccer.com/match/parma-fc/livorno/201450481,2014,38,serie_a
+Milan,Sassuolo,2-1,https://www.besoccer.com/match/milan/us-sassuolo-calcio/201450484,2014,38,serie_a
+Fiorentina,Torino,2-2,https://www.besoccer.com/match/fiorentina/torino-fc/201450485,2014,38,serie_a

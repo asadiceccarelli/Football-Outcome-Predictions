@@ -1,0 +1,463 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+AlbinoLeffe,Vicenza ,2-2,https://www.besoccer.com/match/uc-albinoleffe/vicenza-calcio/201029748,2010,1,serie_b
+Ascoli,Gallipoli ,1-1,https://www.besoccer.com/match/ascoli/gallipoli-calcio/201029749,2010,1,serie_b
+Brescia,Cittadella,1-0,https://www.besoccer.com/match/brescia/as-cittadella/201029750,2010,1,serie_b
+Empoli,Piacenza,2-0,https://www.besoccer.com/match/empoli-fc/piacenza/201029751,2010,1,serie_b
+Grosseto,Torino,0-3,https://www.besoccer.com/match/us-grosseto/torino-fc/201029752,2010,1,serie_b
+Lecce,Ancona,3-0,https://www.besoccer.com/match/lecce/ancona/201029753,2010,1,serie_b
+Mantova,Triestina ,0-0,https://www.besoccer.com/match/ac-mantova/us-triestina-calcio/201029754,2010,1,serie_b
+Padova,Modena,1-0,https://www.besoccer.com/match/calcio-padova/modena-fc/201029755,2010,1,serie_b
+Salernitana,Frosinone,1-2,https://www.besoccer.com/match/salernitana-calcio-1919/frosinone-calcio/201029756,2010,1,serie_b
+Sassuolo,Crotone,2-0,https://www.besoccer.com/match/us-sassuolo-calcio/fc-crotone/201029757,2010,1,serie_b
+Cesena,Reggina,0-1,https://www.besoccer.com/match/ac-cesena/reggina/201029758,2010,1,serie_b
+Ancona,Salernitana,2-0,https://www.besoccer.com/match/ancona/salernitana-calcio-1919/201029759,2010,2,serie_b
+Cittadella,AlbinoLeffe,2-1,https://www.besoccer.com/match/as-cittadella/uc-albinoleffe/201029760,2010,2,serie_b
+Crotone,Brescia,0-0,https://www.besoccer.com/match/fc-crotone/brescia/201029761,2010,2,serie_b
+Frosinone,Mantova,1-0,https://www.besoccer.com/match/frosinone-calcio/ac-mantova/201029762,2010,2,serie_b
+Gallipoli ,Cesena,0-2,https://www.besoccer.com/match/gallipoli-calcio/ac-cesena/201029763,2010,2,serie_b
+Modena,Ascoli,1-2,https://www.besoccer.com/match/modena-fc/ascoli/201029764,2010,2,serie_b
+Piacenza,Lecce,3-2,https://www.besoccer.com/match/piacenza/lecce/201029765,2010,2,serie_b
+Reggina,Padova,1-1,https://www.besoccer.com/match/reggina/calcio-padova/201029766,2010,2,serie_b
+Triestina ,Grosseto,1-0,https://www.besoccer.com/match/us-triestina-calcio/us-grosseto/201029767,2010,2,serie_b
+Vicenza ,Sassuolo,1-1,https://www.besoccer.com/match/vicenza-calcio/us-sassuolo-calcio/201029768,2010,2,serie_b
+Torino,Empoli,3-0,https://www.besoccer.com/match/torino-fc/empoli-fc/201029769,2010,2,serie_b
+Ascoli,Mantova,2-1,https://www.besoccer.com/match/ascoli/ac-mantova/201029771,2010,3,serie_b
+AlbinoLeffe,Ancona,1-3,https://www.besoccer.com/match/uc-albinoleffe/ancona/201029770,2010,3,serie_b
+Cesena,Cittadella,1-0,https://www.besoccer.com/match/ac-cesena/as-cittadella/201029773,2010,3,serie_b
+Empoli,Crotone,3-1,https://www.besoccer.com/match/empoli-fc/fc-crotone/201029774,2010,3,serie_b
+Grosseto,Gallipoli ,2-2,https://www.besoccer.com/match/us-grosseto/gallipoli-calcio/201029775,2010,3,serie_b
+Lecce,Frosinone,1-3,https://www.besoccer.com/match/lecce/frosinone-calcio/201029776,2010,3,serie_b
+Salernitana,Modena,1-2,https://www.besoccer.com/match/salernitana-calcio-1919/modena-fc/201029779,2010,3,serie_b
+Brescia,Torino,1-0,https://www.besoccer.com/match/brescia/torino-fc/201029772,2010,3,serie_b
+Reggina,Vicenza ,0-2,https://www.besoccer.com/match/reggina/vicenza-calcio/201029778,2010,3,serie_b
+Sassuolo,Triestina ,2-1,https://www.besoccer.com/match/us-sassuolo-calcio/us-triestina-calcio/201029780,2010,3,serie_b
+Padova,Piacenza,0-0,https://www.besoccer.com/match/calcio-padova/piacenza/201029777,2010,3,serie_b
+Cittadella,Grosseto,1-1,https://www.besoccer.com/match/as-cittadella/us-grosseto/201029782,2010,4,serie_b
+Crotone,Cesena,0-0,https://www.besoccer.com/match/fc-crotone/ac-cesena/201029783,2010,4,serie_b
+Frosinone,Padova,2-2,https://www.besoccer.com/match/frosinone-calcio/calcio-padova/201029784,2010,4,serie_b
+Gallipoli ,Sassuolo,1-1,https://www.besoccer.com/match/gallipoli-calcio/us-sassuolo-calcio/201029785,2010,4,serie_b
+Mantova,Reggina,2-2,https://www.besoccer.com/match/ac-mantova/reggina/201029786,2010,4,serie_b
+Modena,Lecce,0-0,https://www.besoccer.com/match/modena-fc/lecce/201029787,2010,4,serie_b
+Piacenza,Brescia,1-3,https://www.besoccer.com/match/piacenza/brescia/201029788,2010,4,serie_b
+Torino,AlbinoLeffe,2-1,https://www.besoccer.com/match/torino-fc/uc-albinoleffe/201029789,2010,4,serie_b
+Triestina ,Salernitana,2-0,https://www.besoccer.com/match/us-triestina-calcio/salernitana-calcio-1919/201029790,2010,4,serie_b
+Vicenza ,Ascoli,2-2,https://www.besoccer.com/match/vicenza-calcio/ascoli/201029791,2010,4,serie_b
+Ancona,Empoli,2-0,https://www.besoccer.com/match/ancona/empoli-fc/201029781,2010,4,serie_b
+Ascoli,Brescia,2-0,https://www.besoccer.com/match/ascoli/brescia/201029793,2010,5,serie_b
+Salernitana,Torino,0-3,https://www.besoccer.com/match/salernitana-calcio-1919/torino-fc/201029800,2010,5,serie_b
+AlbinoLeffe,Piacenza,0-1,https://www.besoccer.com/match/uc-albinoleffe/piacenza/201029792,2010,5,serie_b
+Cesena,Triestina ,4-1,https://www.besoccer.com/match/ac-cesena/us-triestina-calcio/201029794,2010,5,serie_b
+Empoli,Frosinone,2-0,https://www.besoccer.com/match/empoli-fc/frosinone-calcio/201029795,2010,5,serie_b
+Grosseto,Modena,3-1,https://www.besoccer.com/match/us-grosseto/modena-fc/201029796,2010,5,serie_b
+Lecce,Crotone,0-0,https://www.besoccer.com/match/lecce/fc-crotone/201029797,2010,5,serie_b
+Padova,Ancona,2-1,https://www.besoccer.com/match/calcio-padova/ancona/201029798,2010,5,serie_b
+Reggina,Cittadella,1-1,https://www.besoccer.com/match/reggina/as-cittadella/201029799,2010,5,serie_b
+Sassuolo,Mantova,1-1,https://www.besoccer.com/match/us-sassuolo-calcio/ac-mantova/201029801,2010,5,serie_b
+Vicenza ,Gallipoli ,2-2,https://www.besoccer.com/match/vicenza-calcio/gallipoli-calcio/201029802,2010,5,serie_b
+Ascoli,Cesena,1-1,https://www.besoccer.com/match/ascoli/ac-cesena/201029803,2010,6,serie_b
+Brescia,Sassuolo,3-1,https://www.besoccer.com/match/brescia/us-sassuolo-calcio/201029804,2010,6,serie_b
+Cittadella,Vicenza ,2-1,https://www.besoccer.com/match/as-cittadella/vicenza-calcio/201029805,2010,6,serie_b
+Crotone,Grosseto,0-0,https://www.besoccer.com/match/fc-crotone/us-grosseto/201029806,2010,6,serie_b
+Frosinone,Reggina,2-0,https://www.besoccer.com/match/frosinone-calcio/reggina/201029807,2010,6,serie_b
+Gallipoli ,Ancona,1-0,https://www.besoccer.com/match/gallipoli-calcio/ancona/201029808,2010,6,serie_b
+Mantova,AlbinoLeffe,1-2,https://www.besoccer.com/match/ac-mantova/uc-albinoleffe/201029809,2010,6,serie_b
+Modena,Empoli,2-0,https://www.besoccer.com/match/modena-fc/empoli-fc/201029810,2010,6,serie_b
+Piacenza,Salernitana,0-0,https://www.besoccer.com/match/piacenza/salernitana-calcio-1919/201029811,2010,6,serie_b
+Torino,Padova,0-1,https://www.besoccer.com/match/torino-fc/calcio-padova/201029812,2010,6,serie_b
+Triestina ,Lecce,1-4,https://www.besoccer.com/match/us-triestina-calcio/lecce/201029813,2010,6,serie_b
+AlbinoLeffe,Crotone,1-1,https://www.besoccer.com/match/uc-albinoleffe/fc-crotone/201029814,2010,7,serie_b
+Empoli,Cittadella,4-3,https://www.besoccer.com/match/empoli-fc/as-cittadella/201029816,2010,7,serie_b
+Frosinone,Torino,2-2,https://www.besoccer.com/match/frosinone-calcio/torino-fc/201029817,2010,7,serie_b
+Grosseto,Brescia,2-1,https://www.besoccer.com/match/us-grosseto/brescia/201029818,2010,7,serie_b
+Lecce,Mantova,2-1,https://www.besoccer.com/match/lecce/ac-mantova/201029819,2010,7,serie_b
+Padova,Gallipoli ,0-0,https://www.besoccer.com/match/calcio-padova/gallipoli-calcio/201029820,2010,7,serie_b
+Salernitana,Ascoli,0-0,https://www.besoccer.com/match/salernitana-calcio-1919/ascoli/201029822,2010,7,serie_b
+Sassuolo,Cesena,1-1,https://www.besoccer.com/match/us-sassuolo-calcio/ac-cesena/201029823,2010,7,serie_b
+Vicenza ,Triestina ,0-0,https://www.besoccer.com/match/vicenza-calcio/us-triestina-calcio/201029824,2010,7,serie_b
+Ancona,Modena,2-0,https://www.besoccer.com/match/ancona/modena-fc/201029815,2010,7,serie_b
+Reggina,Piacenza,2-1,https://www.besoccer.com/match/reggina/piacenza/201029821,2010,7,serie_b
+Ascoli,Sassuolo,1-5,https://www.besoccer.com/match/ascoli/us-sassuolo-calcio/201029825,2010,8,serie_b
+Brescia,Vicenza ,0-1,https://www.besoccer.com/match/brescia/vicenza-calcio/201029826,2010,8,serie_b
+Cesena,Salernitana,3-0,https://www.besoccer.com/match/ac-cesena/salernitana-calcio-1919/201029827,2010,8,serie_b
+Cittadella,Lecce,3-0,https://www.besoccer.com/match/as-cittadella/lecce/201029828,2010,8,serie_b
+Crotone,Padova,2-1,https://www.besoccer.com/match/fc-crotone/calcio-padova/201029829,2010,8,serie_b
+Gallipoli ,Empoli,0-0,https://www.besoccer.com/match/gallipoli-calcio/empoli-fc/201029830,2010,8,serie_b
+Mantova,Grosseto,2-0,https://www.besoccer.com/match/ac-mantova/us-grosseto/201029831,2010,8,serie_b
+Modena,Reggina,1-0,https://www.besoccer.com/match/modena-fc/reggina/201029832,2010,8,serie_b
+Piacenza,Frosinone,0-2,https://www.besoccer.com/match/piacenza/frosinone-calcio/201029833,2010,8,serie_b
+Triestina ,AlbinoLeffe,2-3,https://www.besoccer.com/match/us-triestina-calcio/uc-albinoleffe/201029835,2010,8,serie_b
+Torino,Ancona,1-1,https://www.besoccer.com/match/torino-fc/ancona/201029834,2010,8,serie_b
+Vicenza ,Cesena,0-0,https://www.besoccer.com/match/vicenza-calcio/ac-cesena/201029846,2010,9,serie_b
+Padova,Mantova,3-0,https://www.besoccer.com/match/calcio-padova/ac-mantova/201029842,2010,9,serie_b
+AlbinoLeffe,Ascoli,1-1,https://www.besoccer.com/match/uc-albinoleffe/ascoli/201029836,2010,9,serie_b
+Sassuolo,Grosseto,2-3,https://www.besoccer.com/match/us-sassuolo-calcio/us-grosseto/201029844,2010,9,serie_b
+Torino,Modena,0-1,https://www.besoccer.com/match/torino-fc/modena-fc/201029845,2010,9,serie_b
+Salernitana,Cittadella,1-2,https://www.besoccer.com/match/salernitana-calcio-1919/as-cittadella/201029843,2010,9,serie_b
+Frosinone,Crotone,1-1,https://www.besoccer.com/match/frosinone-calcio/fc-crotone/201029840,2010,9,serie_b
+Ancona,Piacenza,2-1,https://www.besoccer.com/match/ancona/piacenza/201029837,2010,9,serie_b
+Brescia,Gallipoli ,0-1,https://www.besoccer.com/match/brescia/gallipoli-calcio/201029838,2010,9,serie_b
+Empoli,Triestina ,1-1,https://www.besoccer.com/match/empoli-fc/us-triestina-calcio/201029839,2010,9,serie_b
+Lecce,Reggina,3-2,https://www.besoccer.com/match/lecce/reggina/201029841,2010,9,serie_b
+Lecce,Salernitana,1-0,https://www.besoccer.com/match/lecce/salernitana-calcio-1919/201029853,2010,10,serie_b
+Ascoli,Torino,1-2,https://www.besoccer.com/match/ascoli/torino-fc/201029848,2010,10,serie_b
+Cesena,Brescia,2-0,https://www.besoccer.com/match/ac-cesena/brescia/201029849,2010,10,serie_b
+Cittadella,Piacenza,1-1,https://www.besoccer.com/match/as-cittadella/piacenza/201029850,2010,10,serie_b
+Crotone,Vicenza ,1-2,https://www.besoccer.com/match/fc-crotone/vicenza-calcio/201029851,2010,10,serie_b
+Grosseto,Padova,2-2,https://www.besoccer.com/match/us-grosseto/calcio-padova/201029852,2010,10,serie_b
+Mantova,Empoli,1-1,https://www.besoccer.com/match/ac-mantova/empoli-fc/201029854,2010,10,serie_b
+Modena,Frosinone,0-3,https://www.besoccer.com/match/modena-fc/frosinone-calcio/201029855,2010,10,serie_b
+Reggina,Ancona,0-3,https://www.besoccer.com/match/reggina/ancona/201029856,2010,10,serie_b
+Triestina ,Gallipoli ,1-0,https://www.besoccer.com/match/us-triestina-calcio/gallipoli-calcio/201029857,2010,10,serie_b
+AlbinoLeffe,Sassuolo,0-0,https://www.besoccer.com/match/uc-albinoleffe/us-sassuolo-calcio/201029847,2010,10,serie_b
+Torino,Reggina,2-0,https://www.besoccer.com/match/torino-fc/reggina/201029867,2010,11,serie_b
+Ancona,Frosinone,3-1,https://www.besoccer.com/match/ancona/frosinone-calcio/201029858,2010,11,serie_b
+Brescia,AlbinoLeffe,4-1,https://www.besoccer.com/match/brescia/uc-albinoleffe/201029859,2010,11,serie_b
+Cesena,Grosseto,2-2,https://www.besoccer.com/match/ac-cesena/us-grosseto/201029860,2010,11,serie_b
+Empoli,Ascoli,4-2,https://www.besoccer.com/match/empoli-fc/ascoli/201029861,2010,11,serie_b
+Gallipoli ,Lecce,0-3,https://www.besoccer.com/match/gallipoli-calcio/lecce/201029862,2010,11,serie_b
+Padova,Triestina ,0-0,https://www.besoccer.com/match/calcio-padova/us-triestina-calcio/201029863,2010,11,serie_b
+Piacenza,Modena,2-3,https://www.besoccer.com/match/piacenza/modena-fc/201029864,2010,11,serie_b
+Salernitana,Crotone,4-1,https://www.besoccer.com/match/salernitana-calcio-1919/fc-crotone/201029865,2010,11,serie_b
+Sassuolo,Cittadella,1-0,https://www.besoccer.com/match/us-sassuolo-calcio/as-cittadella/201029866,2010,11,serie_b
+Vicenza ,Mantova,1-1,https://www.besoccer.com/match/vicenza-calcio/ac-mantova/201029868,2010,11,serie_b
+Cittadella,Padova,1-1,https://www.besoccer.com/match/as-cittadella/calcio-padova/201029871,2010,12,serie_b
+AlbinoLeffe,Gallipoli ,2-0,https://www.besoccer.com/match/uc-albinoleffe/gallipoli-calcio/201029869,2010,12,serie_b
+Ancona,Cesena,0-0,https://www.besoccer.com/match/ancona/ac-cesena/201029870,2010,12,serie_b
+Crotone,Piacenza,1-0,https://www.besoccer.com/match/fc-crotone/piacenza/201029872,2010,12,serie_b
+Frosinone,Sassuolo,0-3,https://www.besoccer.com/match/frosinone-calcio/us-sassuolo-calcio/201029873,2010,12,serie_b
+Grosseto,Ascoli,2-1,https://www.besoccer.com/match/us-grosseto/ascoli/201029874,2010,12,serie_b
+Lecce,Empoli,1-0,https://www.besoccer.com/match/lecce/empoli-fc/201029875,2010,12,serie_b
+Modena,Vicenza ,1-0,https://www.besoccer.com/match/modena-fc/vicenza-calcio/201029877,2010,12,serie_b
+Reggina,Salernitana,3-1,https://www.besoccer.com/match/reggina/salernitana-calcio-1919/201029878,2010,12,serie_b
+Triestina ,Torino,2-0,https://www.besoccer.com/match/us-triestina-calcio/torino-fc/201029879,2010,12,serie_b
+Mantova,Brescia,2-2,https://www.besoccer.com/match/ac-mantova/brescia/201029876,2010,12,serie_b
+Empoli,Reggina,2-0,https://www.besoccer.com/match/empoli-fc/reggina/201029884,2010,13,serie_b
+Ascoli,Cittadella,1-1,https://www.besoccer.com/match/ascoli/as-cittadella/201029880,2010,13,serie_b
+Brescia,Triestina ,2-2,https://www.besoccer.com/match/brescia/us-triestina-calcio/201029881,2010,13,serie_b
+Cesena,AlbinoLeffe,0-0,https://www.besoccer.com/match/ac-cesena/uc-albinoleffe/201029882,2010,13,serie_b
+Crotone,Ancona,2-1,https://www.besoccer.com/match/fc-crotone/ancona/201029883,2010,13,serie_b
+Gallipoli ,Frosinone,2-1,https://www.besoccer.com/match/gallipoli-calcio/frosinone-calcio/201029885,2010,13,serie_b
+Padova,Salernitana,3-1,https://www.besoccer.com/match/calcio-padova/salernitana-calcio-1919/201029886,2010,13,serie_b
+Piacenza,Mantova,0-2,https://www.besoccer.com/match/piacenza/ac-mantova/201029887,2010,13,serie_b
+Sassuolo,Modena,0-0,https://www.besoccer.com/match/us-sassuolo-calcio/modena-fc/201029888,2010,13,serie_b
+Vicenza ,Grosseto,0-0,https://www.besoccer.com/match/vicenza-calcio/us-grosseto/201029890,2010,13,serie_b
+Torino,Lecce,2-2,https://www.besoccer.com/match/torino-fc/lecce/201029889,2010,13,serie_b
+Ancona,Vicenza ,2-0,https://www.besoccer.com/match/ancona/vicenza-calcio/201029891,2010,14,serie_b
+Cittadella,Gallipoli ,1-2,https://www.besoccer.com/match/as-cittadella/gallipoli-calcio/201029892,2010,14,serie_b
+Mantova,Cesena,0-1,https://www.besoccer.com/match/ac-mantova/ac-cesena/201029896,2010,14,serie_b
+Modena,Crotone,0-2,https://www.besoccer.com/match/modena-fc/fc-crotone/201029897,2010,14,serie_b
+Piacenza,Torino,0-0,https://www.besoccer.com/match/piacenza/torino-fc/201029898,2010,14,serie_b
+Triestina ,Ascoli,2-0,https://www.besoccer.com/match/us-triestina-calcio/ascoli/201029901,2010,14,serie_b
+Lecce,Padova,2-1,https://www.besoccer.com/match/lecce/calcio-padova/201029895,2010,14,serie_b
+Frosinone,Brescia,1-0,https://www.besoccer.com/match/frosinone-calcio/brescia/201029893,2010,14,serie_b
+Grosseto,AlbinoLeffe,2-2,https://www.besoccer.com/match/us-grosseto/uc-albinoleffe/201029894,2010,14,serie_b
+Reggina,Sassuolo,0-2,https://www.besoccer.com/match/reggina/us-sassuolo-calcio/201029899,2010,14,serie_b
+Salernitana,Empoli,1-0,https://www.besoccer.com/match/salernitana-calcio-1919/empoli-fc/201029900,2010,14,serie_b
+Vicenza ,Frosinone,2-0,https://www.besoccer.com/match/vicenza-calcio/frosinone-calcio/201029912,2010,15,serie_b
+AlbinoLeffe,Modena,0-3,https://www.besoccer.com/match/uc-albinoleffe/modena-fc/201029902,2010,15,serie_b
+Ascoli,Ancona,1-3,https://www.besoccer.com/match/ascoli/ancona/201029903,2010,15,serie_b
+Brescia,Lecce,1-0,https://www.besoccer.com/match/brescia/lecce/201029904,2010,15,serie_b
+Crotone,Reggina,1-1,https://www.besoccer.com/match/fc-crotone/reggina/201029906,2010,15,serie_b
+Gallipoli ,Mantova,0-0,https://www.besoccer.com/match/gallipoli-calcio/ac-mantova/201029907,2010,15,serie_b
+Grosseto,Salernitana,2-2,https://www.besoccer.com/match/us-grosseto/salernitana-calcio-1919/201029908,2010,15,serie_b
+Padova,Empoli,2-3,https://www.besoccer.com/match/calcio-padova/empoli-fc/201029909,2010,15,serie_b
+Sassuolo,Piacenza,1-2,https://www.besoccer.com/match/us-sassuolo-calcio/piacenza/201029910,2010,15,serie_b
+Triestina ,Cittadella,2-0,https://www.besoccer.com/match/us-triestina-calcio/as-cittadella/201029911,2010,15,serie_b
+Cesena,Torino,1-1,https://www.besoccer.com/match/ac-cesena/torino-fc/201029905,2010,15,serie_b
+Salernitana,Gallipoli ,1-3,https://www.besoccer.com/match/salernitana-calcio-1919/gallipoli-calcio/201029922,2010,16,serie_b
+Ancona,Sassuolo,2-2,https://www.besoccer.com/match/ancona/us-sassuolo-calcio/201029913,2010,16,serie_b
+Empoli,Cesena,2-0,https://www.besoccer.com/match/empoli-fc/ac-cesena/201029914,2010,16,serie_b
+Frosinone,AlbinoLeffe,2-2,https://www.besoccer.com/match/frosinone-calcio/uc-albinoleffe/201029915,2010,16,serie_b
+Lecce,Grosseto,3-2,https://www.besoccer.com/match/lecce/us-grosseto/201029916,2010,16,serie_b
+Modena,Triestina ,2-0,https://www.besoccer.com/match/modena-fc/us-triestina-calcio/201029918,2010,16,serie_b
+Padova,Vicenza ,1-2,https://www.besoccer.com/match/calcio-padova/vicenza-calcio/201029919,2010,16,serie_b
+Piacenza,Ascoli,2-1,https://www.besoccer.com/match/piacenza/ascoli/201029920,2010,16,serie_b
+Torino,Crotone,1-2,https://www.besoccer.com/match/torino-fc/fc-crotone/201029923,2010,16,serie_b
+Reggina,Brescia,4-0,https://www.besoccer.com/match/reggina/brescia/201029921,2010,16,serie_b
+Mantova,Cittadella,1-3,https://www.besoccer.com/match/ac-mantova/as-cittadella/201029917,2010,16,serie_b
+AlbinoLeffe,Lecce,1-3,https://www.besoccer.com/match/uc-albinoleffe/lecce/201029924,2010,17,serie_b
+Ascoli,Reggina,1-3,https://www.besoccer.com/match/ascoli/reggina/201029925,2010,17,serie_b
+Brescia,Empoli,2-2,https://www.besoccer.com/match/brescia/empoli-fc/201029926,2010,17,serie_b
+Cesena,Frosinone,4-0,https://www.besoccer.com/match/ac-cesena/frosinone-calcio/201029927,2010,17,serie_b
+Cittadella,Modena,1-1,https://www.besoccer.com/match/as-cittadella/modena-fc/201029928,2010,17,serie_b
+Gallipoli ,Torino,0-1,https://www.besoccer.com/match/gallipoli-calcio/torino-fc/201029929,2010,17,serie_b
+Grosseto,Ancona,2-0,https://www.besoccer.com/match/us-grosseto/ancona/201029930,2010,17,serie_b
+Mantova,Salernitana,1-1,https://www.besoccer.com/match/ac-mantova/salernitana-calcio-1919/201029931,2010,17,serie_b
+Sassuolo,Padova,2-0,https://www.besoccer.com/match/us-sassuolo-calcio/calcio-padova/201029932,2010,17,serie_b
+Triestina ,Crotone,0-0,https://www.besoccer.com/match/us-triestina-calcio/fc-crotone/201029933,2010,17,serie_b
+Vicenza ,Piacenza,0-0,https://www.besoccer.com/match/vicenza-calcio/piacenza/201029934,2010,17,serie_b
+Padova,Cesena,1-0,https://www.besoccer.com/match/calcio-padova/ac-cesena/201029941,2010,18,serie_b
+Ancona,Brescia,2-0,https://www.besoccer.com/match/ancona/brescia/201029935,2010,18,serie_b
+Crotone,Gallipoli ,4-2,https://www.besoccer.com/match/fc-crotone/gallipoli-calcio/201029936,2010,18,serie_b
+Empoli,Vicenza ,1-0,https://www.besoccer.com/match/empoli-fc/vicenza-calcio/201029937,2010,18,serie_b
+Frosinone,Cittadella,2-1,https://www.besoccer.com/match/frosinone-calcio/as-cittadella/201029938,2010,18,serie_b
+Lecce,Ascoli,0-0,https://www.besoccer.com/match/lecce/ascoli/201029939,2010,18,serie_b
+Modena,Mantova,1-1,https://www.besoccer.com/match/modena-fc/ac-mantova/201029940,2010,18,serie_b
+Piacenza,Grosseto,0-1,https://www.besoccer.com/match/piacenza/us-grosseto/201029942,2010,18,serie_b
+Salernitana,AlbinoLeffe,1-1,https://www.besoccer.com/match/salernitana-calcio-1919/uc-albinoleffe/201029944,2010,18,serie_b
+Torino,Sassuolo,0-1,https://www.besoccer.com/match/torino-fc/us-sassuolo-calcio/201029945,2010,18,serie_b
+Reggina,Triestina ,3-1,https://www.besoccer.com/match/reggina/us-triestina-calcio/201029943,2010,18,serie_b
+Ascoli,Padova,1-0,https://www.besoccer.com/match/ascoli/calcio-padova/201029947,2010,19,serie_b
+Cesena,Lecce,3-1,https://www.besoccer.com/match/ac-cesena/lecce/201029949,2010,19,serie_b
+AlbinoLeffe,Empoli,2-0,https://www.besoccer.com/match/uc-albinoleffe/empoli-fc/201029946,2010,19,serie_b
+Brescia,Modena,1-0,https://www.besoccer.com/match/brescia/modena-fc/201029948,2010,19,serie_b
+Gallipoli ,Reggina,2-1,https://www.besoccer.com/match/gallipoli-calcio/reggina/201029951,2010,19,serie_b
+Grosseto,Frosinone,2-1,https://www.besoccer.com/match/us-grosseto/frosinone-calcio/201029952,2010,19,serie_b
+Vicenza ,Torino,1-0,https://www.besoccer.com/match/vicenza-calcio/torino-fc/201029956,2010,19,serie_b
+Cittadella,Ancona,1-0,https://www.besoccer.com/match/as-cittadella/ancona/201029950,2010,19,serie_b
+Mantova,Crotone,2-1,https://www.besoccer.com/match/ac-mantova/fc-crotone/201029953,2010,19,serie_b
+Sassuolo,Salernitana,3-2,https://www.besoccer.com/match/us-sassuolo-calcio/salernitana-calcio-1919/201029954,2010,19,serie_b
+Triestina ,Piacenza,1-3,https://www.besoccer.com/match/us-triestina-calcio/piacenza/201029955,2010,19,serie_b
+Ancona,Triestina ,2-1,https://www.besoccer.com/match/ancona/us-triestina-calcio/201029957,2010,20,serie_b
+Crotone,Cittadella,1-1,https://www.besoccer.com/match/fc-crotone/as-cittadella/201029958,2010,20,serie_b
+Empoli,Sassuolo,1-1,https://www.besoccer.com/match/empoli-fc/us-sassuolo-calcio/201029959,2010,20,serie_b
+Frosinone,Ascoli,1-5,https://www.besoccer.com/match/frosinone-calcio/ascoli/201029960,2010,20,serie_b
+Lecce,Vicenza ,1-0,https://www.besoccer.com/match/lecce/vicenza-calcio/201029961,2010,20,serie_b
+Modena,Cesena,1-0,https://www.besoccer.com/match/modena-fc/ac-cesena/201029962,2010,20,serie_b
+Padova,AlbinoLeffe,0-2,https://www.besoccer.com/match/calcio-padova/uc-albinoleffe/201029963,2010,20,serie_b
+Piacenza,Gallipoli ,2-0,https://www.besoccer.com/match/piacenza/gallipoli-calcio/201029964,2010,20,serie_b
+Reggina,Grosseto,1-1,https://www.besoccer.com/match/reggina/us-grosseto/201029965,2010,20,serie_b
+Salernitana,Brescia,1-3,https://www.besoccer.com/match/salernitana-calcio-1919/brescia/201029966,2010,20,serie_b
+Torino,Mantova,1-1,https://www.besoccer.com/match/torino-fc/ac-mantova/201029967,2010,20,serie_b
+AlbinoLeffe,Reggina,2-0,https://www.besoccer.com/match/uc-albinoleffe/reggina/201029968,2010,21,serie_b
+Ascoli,Crotone,3-1,https://www.besoccer.com/match/ascoli/fc-crotone/201029969,2010,21,serie_b
+Brescia,Padova,3-2,https://www.besoccer.com/match/brescia/calcio-padova/201029970,2010,21,serie_b
+Cesena,Piacenza,3-0,https://www.besoccer.com/match/ac-cesena/piacenza/201029971,2010,21,serie_b
+Cittadella,Torino,2-0,https://www.besoccer.com/match/as-cittadella/torino-fc/201029972,2010,21,serie_b
+Mantova,Ancona,2-0,https://www.besoccer.com/match/ac-mantova/ancona/201029975,2010,21,serie_b
+Sassuolo,Lecce,1-1,https://www.besoccer.com/match/us-sassuolo-calcio/lecce/201029976,2010,21,serie_b
+Triestina ,Frosinone,0-3,https://www.besoccer.com/match/us-triestina-calcio/frosinone-calcio/201029977,2010,21,serie_b
+Vicenza ,Salernitana,0-0,https://www.besoccer.com/match/vicenza-calcio/salernitana-calcio-1919/201029978,2010,21,serie_b
+Gallipoli ,Modena,1-0,https://www.besoccer.com/match/gallipoli-calcio/modena-fc/201029973,2010,21,serie_b
+Grosseto,Empoli,1-0,https://www.besoccer.com/match/us-grosseto/empoli-fc/201029974,2010,21,serie_b
+Ancona,Lecce,1-1,https://www.besoccer.com/match/ancona/lecce/201029985,2010,22,serie_b
+Vicenza ,AlbinoLeffe,1-2,https://www.besoccer.com/match/vicenza-calcio/uc-albinoleffe/201029979,2010,22,serie_b
+Gallipoli ,Ascoli,1-4,https://www.besoccer.com/match/gallipoli-calcio/ascoli/201029980,2010,22,serie_b
+Cittadella,Brescia,1-1,https://www.besoccer.com/match/as-cittadella/brescia/201029981,2010,22,serie_b
+Reggina,Cesena,1-3,https://www.besoccer.com/match/reggina/ac-cesena/201029982,2010,22,serie_b
+Piacenza,Empoli,0-0,https://www.besoccer.com/match/piacenza/empoli-fc/201029983,2010,22,serie_b
+Torino,Grosseto,4-1,https://www.besoccer.com/match/torino-fc/us-grosseto/201029984,2010,22,serie_b
+Triestina ,Mantova,2-1,https://www.besoccer.com/match/us-triestina-calcio/ac-mantova/201029986,2010,22,serie_b
+Modena,Padova,0-0,https://www.besoccer.com/match/modena-fc/calcio-padova/201029987,2010,22,serie_b
+Frosinone,Salernitana,1-0,https://www.besoccer.com/match/frosinone-calcio/salernitana-calcio-1919/201029988,2010,22,serie_b
+Crotone,Sassuolo,1-2,https://www.besoccer.com/match/fc-crotone/us-sassuolo-calcio/201029989,2010,22,serie_b
+Cesena,Gallipoli ,0-0,https://www.besoccer.com/match/ac-cesena/gallipoli-calcio/201029994,2010,23,serie_b
+Salernitana,Ancona,3-0,https://www.besoccer.com/match/salernitana-calcio-1919/ancona/201029990,2010,23,serie_b
+AlbinoLeffe,Cittadella,2-0,https://www.besoccer.com/match/uc-albinoleffe/as-cittadella/201029991,2010,23,serie_b
+Brescia,Crotone,3-0,https://www.besoccer.com/match/brescia/fc-crotone/201029992,2010,23,serie_b
+Mantova,Frosinone,3-1,https://www.besoccer.com/match/ac-mantova/frosinone-calcio/201029993,2010,23,serie_b
+Ascoli,Modena,2-0,https://www.besoccer.com/match/ascoli/modena-fc/201029995,2010,23,serie_b
+Padova,Reggina,0-1,https://www.besoccer.com/match/calcio-padova/reggina/201029997,2010,23,serie_b
+Empoli,Torino,0-0,https://www.besoccer.com/match/empoli-fc/torino-fc/201029998,2010,23,serie_b
+Grosseto,Triestina ,3-1,https://www.besoccer.com/match/us-grosseto/us-triestina-calcio/201029999,2010,23,serie_b
+Sassuolo,Vicenza ,2-1,https://www.besoccer.com/match/us-sassuolo-calcio/vicenza-calcio/201030000,2010,23,serie_b
+Lecce,Piacenza,1-0,https://www.besoccer.com/match/lecce/piacenza/201029996,2010,23,serie_b
+Ancona,AlbinoLeffe,2-1,https://www.besoccer.com/match/ancona/uc-albinoleffe/201030001,2010,24,serie_b
+Mantova,Ascoli,0-0,https://www.besoccer.com/match/ac-mantova/ascoli/201030002,2010,24,serie_b
+Torino,Brescia,1-1,https://www.besoccer.com/match/torino-fc/brescia/201030003,2010,24,serie_b
+Cittadella,Cesena,1-1,https://www.besoccer.com/match/as-cittadella/ac-cesena/201030004,2010,24,serie_b
+Crotone,Empoli,2-1,https://www.besoccer.com/match/fc-crotone/empoli-fc/201030005,2010,24,serie_b
+Frosinone,Lecce,0-4,https://www.besoccer.com/match/frosinone-calcio/lecce/201030007,2010,24,serie_b
+Piacenza,Padova,1-0,https://www.besoccer.com/match/piacenza/calcio-padova/201030008,2010,24,serie_b
+Vicenza ,Reggina,3-1,https://www.besoccer.com/match/vicenza-calcio/reggina/201030009,2010,24,serie_b
+Modena,Salernitana,1-0,https://www.besoccer.com/match/modena-fc/salernitana-calcio-1919/201030010,2010,24,serie_b
+Triestina ,Sassuolo,0-1,https://www.besoccer.com/match/us-triestina-calcio/us-sassuolo-calcio/201030011,2010,24,serie_b
+Gallipoli ,Grosseto,2-2,https://www.besoccer.com/match/gallipoli-calcio/us-grosseto/201030006,2010,24,serie_b
+Empoli,Ancona,3-0,https://www.besoccer.com/match/empoli-fc/ancona/201030012,2010,25,serie_b
+Cesena,Crotone,0-2,https://www.besoccer.com/match/ac-cesena/fc-crotone/201030014,2010,25,serie_b
+Padova,Frosinone,0-0,https://www.besoccer.com/match/calcio-padova/frosinone-calcio/201030015,2010,25,serie_b
+Sassuolo,Gallipoli ,1-2,https://www.besoccer.com/match/us-sassuolo-calcio/gallipoli-calcio/201030016,2010,25,serie_b
+Reggina,Mantova,3-1,https://www.besoccer.com/match/reggina/ac-mantova/201030017,2010,25,serie_b
+Grosseto,Cittadella,3-0,https://www.besoccer.com/match/us-grosseto/as-cittadella/201030013,2010,25,serie_b
+Lecce,Modena,0-0,https://www.besoccer.com/match/lecce/modena-fc/201030018,2010,25,serie_b
+Brescia,Piacenza,1-0,https://www.besoccer.com/match/brescia/piacenza/201030019,2010,25,serie_b
+AlbinoLeffe,Torino,0-1,https://www.besoccer.com/match/uc-albinoleffe/torino-fc/201030020,2010,25,serie_b
+Ascoli,Vicenza ,1-1,https://www.besoccer.com/match/ascoli/vicenza-calcio/201030022,2010,25,serie_b
+Salernitana,Triestina ,1-2,https://www.besoccer.com/match/salernitana-calcio-1919/us-triestina-calcio/201030021,2010,25,serie_b
+Brescia,Ascoli,2-1,https://www.besoccer.com/match/brescia/ascoli/201030024,2010,26,serie_b
+Triestina ,Cesena,0-0,https://www.besoccer.com/match/us-triestina-calcio/ac-cesena/201030025,2010,26,serie_b
+Cittadella,Reggina,1-0,https://www.besoccer.com/match/as-cittadella/reggina/201030030,2010,26,serie_b
+Torino,Salernitana,2-3,https://www.besoccer.com/match/torino-fc/salernitana-calcio-1919/201030031,2010,26,serie_b
+Gallipoli ,Vicenza ,0-5,https://www.besoccer.com/match/gallipoli-calcio/vicenza-calcio/201030033,2010,26,serie_b
+Piacenza,AlbinoLeffe,1-0,https://www.besoccer.com/match/piacenza/uc-albinoleffe/201030023,2010,26,serie_b
+Frosinone,Empoli,3-1,https://www.besoccer.com/match/frosinone-calcio/empoli-fc/201030026,2010,26,serie_b
+Modena,Grosseto,1-2,https://www.besoccer.com/match/modena-fc/us-grosseto/201030027,2010,26,serie_b
+Ancona,Padova,2-2,https://www.besoccer.com/match/ancona/calcio-padova/201030029,2010,26,serie_b
+Mantova,Sassuolo,2-1,https://www.besoccer.com/match/ac-mantova/us-sassuolo-calcio/201030032,2010,26,serie_b
+Crotone,Lecce,1-1,https://www.besoccer.com/match/fc-crotone/lecce/201030028,2010,26,serie_b
+Vicenza ,Cittadella,0-2,https://www.besoccer.com/match/vicenza-calcio/as-cittadella/201030036,2010,27,serie_b
+Grosseto,Crotone,0-4,https://www.besoccer.com/match/us-grosseto/fc-crotone/201030037,2010,27,serie_b
+Ancona,Gallipoli ,3-1,https://www.besoccer.com/match/ancona/gallipoli-calcio/201030039,2010,27,serie_b
+Salernitana,Piacenza,1-0,https://www.besoccer.com/match/salernitana-calcio-1919/piacenza/201030042,2010,27,serie_b
+Lecce,Triestina ,1-1,https://www.besoccer.com/match/lecce/us-triestina-calcio/201030044,2010,27,serie_b
+Cesena,Ascoli,1-0,https://www.besoccer.com/match/ac-cesena/ascoli/201030034,2010,27,serie_b
+Sassuolo,Brescia,0-2,https://www.besoccer.com/match/us-sassuolo-calcio/brescia/201030035,2010,27,serie_b
+AlbinoLeffe,Mantova,1-0,https://www.besoccer.com/match/uc-albinoleffe/ac-mantova/201030040,2010,27,serie_b
+Empoli,Modena,3-0,https://www.besoccer.com/match/empoli-fc/modena-fc/201030041,2010,27,serie_b
+Padova,Torino,0-1,https://www.besoccer.com/match/calcio-padova/torino-fc/201030043,2010,27,serie_b
+Reggina,Frosinone,1-0,https://www.besoccer.com/match/reggina/frosinone-calcio/201030038,2010,27,serie_b
+Crotone,AlbinoLeffe,0-3,https://www.besoccer.com/match/fc-crotone/uc-albinoleffe/201030045,2010,28,serie_b
+Modena,Ancona,2-1,https://www.besoccer.com/match/modena-fc/ancona/201030046,2010,28,serie_b
+Cittadella,Empoli,2-1,https://www.besoccer.com/match/as-cittadella/empoli-fc/201030047,2010,28,serie_b
+Torino,Frosinone,3-1,https://www.besoccer.com/match/torino-fc/frosinone-calcio/201030048,2010,28,serie_b
+Brescia,Grosseto,2-3,https://www.besoccer.com/match/brescia/us-grosseto/201030049,2010,28,serie_b
+Mantova,Lecce,2-2,https://www.besoccer.com/match/ac-mantova/lecce/201030050,2010,28,serie_b
+Gallipoli ,Padova,1-2,https://www.besoccer.com/match/gallipoli-calcio/calcio-padova/201030051,2010,28,serie_b
+Ascoli,Salernitana,4-2,https://www.besoccer.com/match/ascoli/salernitana-calcio-1919/201030053,2010,28,serie_b
+Triestina ,Vicenza ,0-0,https://www.besoccer.com/match/us-triestina-calcio/vicenza-calcio/201030055,2010,28,serie_b
+Piacenza,Reggina,0-0,https://www.besoccer.com/match/piacenza/reggina/201030052,2010,28,serie_b
+Cesena,Sassuolo,0-1,https://www.besoccer.com/match/ac-cesena/us-sassuolo-calcio/201030054,2010,28,serie_b
+Vicenza ,Brescia,1-0,https://www.besoccer.com/match/vicenza-calcio/brescia/201030057,2010,29,serie_b
+Sassuolo,Ascoli,0-1,https://www.besoccer.com/match/us-sassuolo-calcio/ascoli/201030056,2010,29,serie_b
+Salernitana,Cesena,0-0,https://www.besoccer.com/match/salernitana-calcio-1919/ac-cesena/201030058,2010,29,serie_b
+Lecce,Cittadella,1-5,https://www.besoccer.com/match/lecce/as-cittadella/201030059,2010,29,serie_b
+Padova,Crotone,2-0,https://www.besoccer.com/match/calcio-padova/fc-crotone/201030060,2010,29,serie_b
+Empoli,Gallipoli ,2-2,https://www.besoccer.com/match/empoli-fc/gallipoli-calcio/201030061,2010,29,serie_b
+Reggina,Modena,0-1,https://www.besoccer.com/match/reggina/modena-fc/201030063,2010,29,serie_b
+Frosinone,Piacenza,2-3,https://www.besoccer.com/match/frosinone-calcio/piacenza/201030064,2010,29,serie_b
+Ancona,Torino,2-1,https://www.besoccer.com/match/ancona/torino-fc/201030065,2010,29,serie_b
+Grosseto,Mantova,1-1,https://www.besoccer.com/match/us-grosseto/ac-mantova/201030062,2010,29,serie_b
+AlbinoLeffe,Triestina ,0-3,https://www.besoccer.com/match/uc-albinoleffe/us-triestina-calcio/201030066,2010,29,serie_b
+Cittadella,Salernitana,1-0,https://www.besoccer.com/match/as-cittadella/salernitana-calcio-1919/201030074,2010,30,serie_b
+Piacenza,Ancona,1-0,https://www.besoccer.com/match/piacenza/ancona/201030068,2010,30,serie_b
+Reggina,Lecce,2-4,https://www.besoccer.com/match/reggina/lecce/201030072,2010,30,serie_b
+Ascoli,AlbinoLeffe,1-1,https://www.besoccer.com/match/ascoli/uc-albinoleffe/201030067,2010,30,serie_b
+Gallipoli ,Brescia,1-2,https://www.besoccer.com/match/gallipoli-calcio/brescia/201030069,2010,30,serie_b
+Triestina ,Empoli,1-0,https://www.besoccer.com/match/us-triestina-calcio/empoli-fc/201030070,2010,30,serie_b
+Crotone,Frosinone,3-0,https://www.besoccer.com/match/fc-crotone/frosinone-calcio/201030071,2010,30,serie_b
+Mantova,Padova,2-1,https://www.besoccer.com/match/ac-mantova/calcio-padova/201030073,2010,30,serie_b
+Grosseto,Sassuolo,2-2,https://www.besoccer.com/match/us-grosseto/us-sassuolo-calcio/201030075,2010,30,serie_b
+Modena,Torino,0-2,https://www.besoccer.com/match/modena-fc/torino-fc/201030076,2010,30,serie_b
+Cesena,Vicenza ,3-1,https://www.besoccer.com/match/ac-cesena/vicenza-calcio/201030077,2010,30,serie_b
+Sassuolo,AlbinoLeffe,0-0,https://www.besoccer.com/match/us-sassuolo-calcio/uc-albinoleffe/201030078,2010,31,serie_b
+Torino,Ascoli,1-0,https://www.besoccer.com/match/torino-fc/ascoli/201030079,2010,31,serie_b
+Brescia,Cesena,0-1,https://www.besoccer.com/match/brescia/ac-cesena/201030080,2010,31,serie_b
+Piacenza,Cittadella,1-1,https://www.besoccer.com/match/piacenza/as-cittadella/201030081,2010,31,serie_b
+Vicenza ,Crotone,0-2,https://www.besoccer.com/match/vicenza-calcio/fc-crotone/201030082,2010,31,serie_b
+Padova,Grosseto,1-0,https://www.besoccer.com/match/calcio-padova/us-grosseto/201030083,2010,31,serie_b
+Salernitana,Lecce,1-2,https://www.besoccer.com/match/salernitana-calcio-1919/lecce/201030084,2010,31,serie_b
+Empoli,Mantova,4-0,https://www.besoccer.com/match/empoli-fc/ac-mantova/201030085,2010,31,serie_b
+Frosinone,Modena,0-0,https://www.besoccer.com/match/frosinone-calcio/modena-fc/201030086,2010,31,serie_b
+Ancona,Reggina,1-2,https://www.besoccer.com/match/ancona/reggina/201030087,2010,31,serie_b
+Gallipoli ,Triestina ,2-1,https://www.besoccer.com/match/gallipoli-calcio/us-triestina-calcio/201030088,2010,31,serie_b
+Frosinone,Ancona,1-1,https://www.besoccer.com/match/frosinone-calcio/ancona/201030089,2010,32,serie_b
+AlbinoLeffe,Brescia,1-1,https://www.besoccer.com/match/uc-albinoleffe/brescia/201030090,2010,32,serie_b
+Grosseto,Cesena,1-1,https://www.besoccer.com/match/us-grosseto/ac-cesena/201030091,2010,32,serie_b
+Ascoli,Empoli,2-1,https://www.besoccer.com/match/ascoli/empoli-fc/201030092,2010,32,serie_b
+Lecce,Gallipoli ,1-0,https://www.besoccer.com/match/lecce/gallipoli-calcio/201030093,2010,32,serie_b
+Triestina ,Padova,2-1,https://www.besoccer.com/match/us-triestina-calcio/calcio-padova/201030094,2010,32,serie_b
+Modena,Piacenza,0-1,https://www.besoccer.com/match/modena-fc/piacenza/201030095,2010,32,serie_b
+Crotone,Salernitana,2-0,https://www.besoccer.com/match/fc-crotone/salernitana-calcio-1919/201030096,2010,32,serie_b
+Cittadella,Sassuolo,0-0,https://www.besoccer.com/match/as-cittadella/us-sassuolo-calcio/201030097,2010,32,serie_b
+Mantova,Vicenza ,1-0,https://www.besoccer.com/match/ac-mantova/vicenza-calcio/201030099,2010,32,serie_b
+Reggina,Torino,1-2,https://www.besoccer.com/match/reggina/torino-fc/201030098,2010,32,serie_b
+Gallipoli ,AlbinoLeffe,1-5,https://www.besoccer.com/match/gallipoli-calcio/uc-albinoleffe/201030100,2010,33,serie_b
+Cesena,Ancona,0-2,https://www.besoccer.com/match/ac-cesena/ancona/201030101,2010,33,serie_b
+Padova,Cittadella,2-2,https://www.besoccer.com/match/calcio-padova/as-cittadella/201030102,2010,33,serie_b
+Piacenza,Crotone,1-0,https://www.besoccer.com/match/piacenza/fc-crotone/201030103,2010,33,serie_b
+Sassuolo,Frosinone,2-1,https://www.besoccer.com/match/us-sassuolo-calcio/frosinone-calcio/201030104,2010,33,serie_b
+Ascoli,Grosseto,1-1,https://www.besoccer.com/match/ascoli/us-grosseto/201030105,2010,33,serie_b
+Empoli,Lecce,2-2,https://www.besoccer.com/match/empoli-fc/lecce/201030106,2010,33,serie_b
+Brescia,Mantova,1-0,https://www.besoccer.com/match/brescia/ac-mantova/201030107,2010,33,serie_b
+Vicenza ,Modena,1-1,https://www.besoccer.com/match/vicenza-calcio/modena-fc/201030108,2010,33,serie_b
+Salernitana,Reggina,0-2,https://www.besoccer.com/match/salernitana-calcio-1919/reggina/201030109,2010,33,serie_b
+Torino,Triestina ,1-0,https://www.besoccer.com/match/torino-fc/us-triestina-calcio/201030110,2010,33,serie_b
+Frosinone,Gallipoli ,2-0,https://www.besoccer.com/match/frosinone-calcio/gallipoli-calcio/201030116,2010,34,serie_b
+Salernitana,Padova,0-0,https://www.besoccer.com/match/salernitana-calcio-1919/calcio-padova/201030117,2010,34,serie_b
+Cittadella,Ascoli,2-0,https://www.besoccer.com/match/as-cittadella/ascoli/201030111,2010,34,serie_b
+Triestina ,Brescia,0-1,https://www.besoccer.com/match/us-triestina-calcio/brescia/201030112,2010,34,serie_b
+AlbinoLeffe,Cesena,1-2,https://www.besoccer.com/match/uc-albinoleffe/ac-cesena/201030113,2010,34,serie_b
+Ancona,Crotone,0-1,https://www.besoccer.com/match/ancona/fc-crotone/201030114,2010,34,serie_b
+Reggina,Empoli,1-1,https://www.besoccer.com/match/reggina/empoli-fc/201030115,2010,34,serie_b
+Mantova,Piacenza,1-1,https://www.besoccer.com/match/ac-mantova/piacenza/201030118,2010,34,serie_b
+Modena,Sassuolo,1-1,https://www.besoccer.com/match/modena-fc/us-sassuolo-calcio/201030119,2010,34,serie_b
+Lecce,Torino,2-1,https://www.besoccer.com/match/lecce/torino-fc/201030120,2010,34,serie_b
+Grosseto,Vicenza ,4-0,https://www.besoccer.com/match/us-grosseto/vicenza-calcio/201030121,2010,34,serie_b
+Vicenza ,Ancona,2-2,https://www.besoccer.com/match/vicenza-calcio/ancona/201030122,2010,35,serie_b
+Gallipoli ,Cittadella,1-2,https://www.besoccer.com/match/gallipoli-calcio/as-cittadella/201030123,2010,35,serie_b
+Brescia,Frosinone,3-1,https://www.besoccer.com/match/brescia/frosinone-calcio/201030124,2010,35,serie_b
+AlbinoLeffe,Grosseto,1-1,https://www.besoccer.com/match/uc-albinoleffe/us-grosseto/201030125,2010,35,serie_b
+Padova,Lecce,1-1,https://www.besoccer.com/match/calcio-padova/lecce/201030126,2010,35,serie_b
+Cesena,Mantova,3-1,https://www.besoccer.com/match/ac-cesena/ac-mantova/201030127,2010,35,serie_b
+Crotone,Modena,4-2,https://www.besoccer.com/match/fc-crotone/modena-fc/201030128,2010,35,serie_b
+Torino,Piacenza,1-1,https://www.besoccer.com/match/torino-fc/piacenza/201030129,2010,35,serie_b
+Sassuolo,Reggina,0-1,https://www.besoccer.com/match/us-sassuolo-calcio/reggina/201030130,2010,35,serie_b
+Empoli,Salernitana,5-2,https://www.besoccer.com/match/empoli-fc/salernitana-calcio-1919/201030131,2010,35,serie_b
+Ascoli,Triestina ,1-0,https://www.besoccer.com/match/ascoli/us-triestina-calcio/201030132,2010,35,serie_b
+Modena,AlbinoLeffe,1-1,https://www.besoccer.com/match/modena-fc/uc-albinoleffe/201030133,2010,36,serie_b
+Ancona,Ascoli,1-2,https://www.besoccer.com/match/ancona/ascoli/201030134,2010,36,serie_b
+Lecce,Brescia,2-2,https://www.besoccer.com/match/lecce/brescia/201030135,2010,36,serie_b
+Mantova,Gallipoli ,1-0,https://www.besoccer.com/match/ac-mantova/gallipoli-calcio/201030138,2010,36,serie_b
+Salernitana,Grosseto,3-4,https://www.besoccer.com/match/salernitana-calcio-1919/us-grosseto/201030139,2010,36,serie_b
+Cittadella,Triestina ,2-0,https://www.besoccer.com/match/as-cittadella/us-triestina-calcio/201030142,2010,36,serie_b
+Empoli,Padova,4-0,https://www.besoccer.com/match/empoli-fc/calcio-padova/201030140,2010,36,serie_b
+Frosinone,Vicenza ,0-1,https://www.besoccer.com/match/frosinone-calcio/vicenza-calcio/201030143,2010,36,serie_b
+Torino,Cesena,1-1,https://www.besoccer.com/match/torino-fc/ac-cesena/201030136,2010,36,serie_b
+Piacenza,Sassuolo,1-3,https://www.besoccer.com/match/piacenza/us-sassuolo-calcio/201030141,2010,36,serie_b
+Reggina,Crotone,1-0,https://www.besoccer.com/match/reggina/fc-crotone/201030137,2010,36,serie_b
+Cesena,Empoli,2-3,https://www.besoccer.com/match/ac-cesena/empoli-fc/201030145,2010,37,serie_b
+Sassuolo,Ancona,1-0,https://www.besoccer.com/match/us-sassuolo-calcio/ancona/201030144,2010,37,serie_b
+AlbinoLeffe,Frosinone,4-1,https://www.besoccer.com/match/uc-albinoleffe/frosinone-calcio/201030146,2010,37,serie_b
+Grosseto,Lecce,0-3,https://www.besoccer.com/match/us-grosseto/lecce/201030147,2010,37,serie_b
+Cittadella,Mantova,6-0,https://www.besoccer.com/match/as-cittadella/ac-mantova/201030148,2010,37,serie_b
+Vicenza ,Padova,0-0,https://www.besoccer.com/match/vicenza-calcio/calcio-padova/201030150,2010,37,serie_b
+Ascoli,Piacenza,1-1,https://www.besoccer.com/match/ascoli/piacenza/201030151,2010,37,serie_b
+Brescia,Reggina,0-0,https://www.besoccer.com/match/brescia/reggina/201030152,2010,37,serie_b
+Gallipoli ,Salernitana,3-2,https://www.besoccer.com/match/gallipoli-calcio/salernitana-calcio-1919/201030153,2010,37,serie_b
+Crotone,Torino,1-0,https://www.besoccer.com/match/fc-crotone/torino-fc/201030154,2010,37,serie_b
+Triestina ,Modena,1-1,https://www.besoccer.com/match/us-triestina-calcio/modena-fc/201030149,2010,37,serie_b
+Ancona,Grosseto,1-1,https://www.besoccer.com/match/ancona/us-grosseto/201030161,2010,38,serie_b
+Lecce,AlbinoLeffe,2-1,https://www.besoccer.com/match/lecce/uc-albinoleffe/201030155,2010,38,serie_b
+Reggina,Ascoli,1-2,https://www.besoccer.com/match/reggina/ascoli/201030156,2010,38,serie_b
+Frosinone,Cesena,0-2,https://www.besoccer.com/match/frosinone-calcio/ac-cesena/201030158,2010,38,serie_b
+Modena,Cittadella,2-1,https://www.besoccer.com/match/modena-fc/as-cittadella/201030159,2010,38,serie_b
+Torino,Gallipoli ,2-0,https://www.besoccer.com/match/torino-fc/gallipoli-calcio/201030160,2010,38,serie_b
+Salernitana,Mantova,1-3,https://www.besoccer.com/match/salernitana-calcio-1919/ac-mantova/201030162,2010,38,serie_b
+Padova,Sassuolo,1-1,https://www.besoccer.com/match/calcio-padova/us-sassuolo-calcio/201030163,2010,38,serie_b
+Crotone,Triestina ,2-0,https://www.besoccer.com/match/fc-crotone/us-triestina-calcio/201030164,2010,38,serie_b
+Piacenza,Vicenza ,1-1,https://www.besoccer.com/match/piacenza/vicenza-calcio/201030165,2010,38,serie_b
+Empoli,Brescia,1-2,https://www.besoccer.com/match/empoli-fc/brescia/201030157,2010,38,serie_b
+Brescia,Ancona,3-0,https://www.besoccer.com/match/brescia/ancona/201030166,2010,39,serie_b
+Gallipoli ,Crotone,2-3,https://www.besoccer.com/match/gallipoli-calcio/fc-crotone/201030167,2010,39,serie_b
+Vicenza ,Empoli,2-1,https://www.besoccer.com/match/vicenza-calcio/empoli-fc/201030168,2010,39,serie_b
+Cittadella,Frosinone,0-1,https://www.besoccer.com/match/as-cittadella/frosinone-calcio/201030169,2010,39,serie_b
+Ascoli,Lecce,1-2,https://www.besoccer.com/match/ascoli/lecce/201030170,2010,39,serie_b
+Mantova,Modena,1-1,https://www.besoccer.com/match/ac-mantova/modena-fc/201030171,2010,39,serie_b
+Cesena,Padova,2-0,https://www.besoccer.com/match/ac-cesena/calcio-padova/201030172,2010,39,serie_b
+Grosseto,Piacenza,3-3,https://www.besoccer.com/match/us-grosseto/piacenza/201030173,2010,39,serie_b
+Triestina ,Reggina,2-1,https://www.besoccer.com/match/us-triestina-calcio/reggina/201030174,2010,39,serie_b
+AlbinoLeffe,Salernitana,3-2,https://www.besoccer.com/match/uc-albinoleffe/salernitana-calcio-1919/201030175,2010,39,serie_b
+Sassuolo,Torino,2-3,https://www.besoccer.com/match/us-sassuolo-calcio/torino-fc/201030176,2010,39,serie_b
+Lecce,Cesena,1-2,https://www.besoccer.com/match/lecce/ac-cesena/201030180,2010,40,serie_b
+Empoli,AlbinoLeffe,1-3,https://www.besoccer.com/match/empoli-fc/uc-albinoleffe/201030177,2010,40,serie_b
+Modena,Brescia,1-2,https://www.besoccer.com/match/modena-fc/brescia/201030179,2010,40,serie_b
+Ancona,Cittadella,2-3,https://www.besoccer.com/match/ancona/as-cittadella/201030181,2010,40,serie_b
+Reggina,Gallipoli ,2-1,https://www.besoccer.com/match/reggina/gallipoli-calcio/201030182,2010,40,serie_b
+Frosinone,Grosseto,1-0,https://www.besoccer.com/match/frosinone-calcio/us-grosseto/201030183,2010,40,serie_b
+Salernitana,Sassuolo,1-4,https://www.besoccer.com/match/salernitana-calcio-1919/us-sassuolo-calcio/201030185,2010,40,serie_b
+Piacenza,Triestina ,0-0,https://www.besoccer.com/match/piacenza/us-triestina-calcio/201030186,2010,40,serie_b
+Torino,Vicenza ,1-0,https://www.besoccer.com/match/torino-fc/vicenza-calcio/201030187,2010,40,serie_b
+Crotone,Mantova,2-2,https://www.besoccer.com/match/fc-crotone/ac-mantova/201030184,2010,40,serie_b
+Padova,Ascoli,3-1,https://www.besoccer.com/match/calcio-padova/ascoli/201030178,2010,40,serie_b
+Triestina ,Ancona,2-1,https://www.besoccer.com/match/us-triestina-calcio/ancona/201030188,2010,41,serie_b
+Cittadella,Crotone,3-0,https://www.besoccer.com/match/as-cittadella/fc-crotone/201030189,2010,41,serie_b
+Sassuolo,Empoli,3-2,https://www.besoccer.com/match/us-sassuolo-calcio/empoli-fc/201030190,2010,41,serie_b
+Ascoli,Frosinone,1-2,https://www.besoccer.com/match/ascoli/frosinone-calcio/201030191,2010,41,serie_b
+Vicenza ,Lecce,0-0,https://www.besoccer.com/match/vicenza-calcio/lecce/201030192,2010,41,serie_b
+Cesena,Modena,2-1,https://www.besoccer.com/match/ac-cesena/modena-fc/201030193,2010,41,serie_b
+AlbinoLeffe,Padova,1-2,https://www.besoccer.com/match/uc-albinoleffe/calcio-padova/201030194,2010,41,serie_b
+Gallipoli ,Piacenza,1-4,https://www.besoccer.com/match/gallipoli-calcio/piacenza/201030195,2010,41,serie_b
+Grosseto,Reggina,2-2,https://www.besoccer.com/match/us-grosseto/reggina/201030196,2010,41,serie_b
+Brescia,Salernitana,3-0,https://www.besoccer.com/match/brescia/salernitana-calcio-1919/201030197,2010,41,serie_b
+Mantova,Torino,0-0,https://www.besoccer.com/match/ac-mantova/torino-fc/201030198,2010,41,serie_b
+Reggina,AlbinoLeffe,3-1,https://www.besoccer.com/match/reggina/uc-albinoleffe/201030199,2010,42,serie_b
+Crotone,Ascoli,1-2,https://www.besoccer.com/match/fc-crotone/ascoli/201030200,2010,42,serie_b
+Padova,Brescia,2-1,https://www.besoccer.com/match/calcio-padova/brescia/201030201,2010,42,serie_b
+Piacenza,Cesena,0-1,https://www.besoccer.com/match/piacenza/ac-cesena/201030202,2010,42,serie_b
+Torino,Cittadella,1-0,https://www.besoccer.com/match/torino-fc/as-cittadella/201030203,2010,42,serie_b
+Modena,Gallipoli ,3-2,https://www.besoccer.com/match/modena-fc/gallipoli-calcio/201030204,2010,42,serie_b
+Empoli,Grosseto,2-2,https://www.besoccer.com/match/empoli-fc/us-grosseto/201030205,2010,42,serie_b
+Ancona,Mantova,2-2,https://www.besoccer.com/match/ancona/ac-mantova/201030206,2010,42,serie_b
+Lecce,Sassuolo,0-0,https://www.besoccer.com/match/lecce/us-sassuolo-calcio/201030207,2010,42,serie_b
+Frosinone,Triestina ,2-2,https://www.besoccer.com/match/frosinone-calcio/us-triestina-calcio/201030208,2010,42,serie_b
+Salernitana,Vicenza ,0-1,https://www.besoccer.com/match/salernitana-calcio-1919/vicenza-calcio/201030209,2010,42,serie_b

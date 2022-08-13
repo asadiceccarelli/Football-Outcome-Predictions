@@ -1,0 +1,307 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+VfL Bochum,FC St. Pauli,0-1,https://www.besoccer.com/match/bochum/st-pauli/2018432033,2018,1,2_liga
+Ingolstadt 04,Union Berlin,0-1,https://www.besoccer.com/match/fc-ingolstadt-04/1-fc-union-berlin/2018432034,2018,1,2_liga
+Darmstadt 98,Greuther Fürth,1-0,https://www.besoccer.com/match/darmstadt-98/greuther-furth/2018432035,2018,1,2_liga
+Arminia Bielefeld,Jahn Regensburg,2-1,https://www.besoccer.com/match/arminia-bielefeld/ssv-jahn-regensburg/2018432337,2018,1,2_liga
+Nürnberg,Kaiserslautern,3-0,https://www.besoccer.com/match/fc-nurnberg/kaiserslautern/2018432336,2018,1,2_liga
+Dynamo Dresden,MSV Duisburg,1-0,https://www.besoccer.com/match/sg-dynamo-dresden/msv-duisburg/2018432036,2018,1,2_liga
+Holstein Kiel,Sandhausen,2-2,https://www.besoccer.com/match/holstein-kiel/sv-sandhausen/2018432338,2018,1,2_liga
+Fortuna Düsseldorf,Braunschweig,2-2,https://www.besoccer.com/match/fortuna-dusseldorf/eintracht-brau-hellip/2018432335,2018,1,2_liga
+Heidenheim,Erzgebirge Aue,2-1,https://www.besoccer.com/match/heidenheim/fc-erzgebirge-aue/2018432037,2018,1,2_liga
+Union Berlin,Holstein Kiel,4-3,https://www.besoccer.com/match/1-fc-union-berlin/holstein-kiel/2018432349,2018,2,2_liga
+Sandhausen,Ingolstadt 04,1-0,https://www.besoccer.com/match/sv-sandhausen/fc-ingolstadt-04/2018432352,2018,2,2_liga
+Kaiserslautern,Darmstadt 98,1-1,https://www.besoccer.com/match/kaiserslautern/darmstadt-98/2018432353,2018,2,2_liga
+MSV Duisburg,VfL Bochum,1-1,https://www.besoccer.com/match/msv-duisburg/bochum/2018432355,2018,2,2_liga
+Braunschweig,Heidenheim,2-0,https://www.besoccer.com/match/eintracht-brau-hellip/heidenheim/2018432348,2018,2,2_liga
+Jahn Regensburg,Nürnberg,0-1,https://www.besoccer.com/match/ssv-jahn-regensburg/fc-nurnberg/2018432356,2018,2,2_liga
+Greuther Fürth,Arminia Bielefeld,1-2,https://www.besoccer.com/match/greuther-furth/arminia-bielefeld/2018432351,2018,2,2_liga
+Erzgebirge Aue,Fortuna Düsseldorf,0-2,https://www.besoccer.com/match/fc-erzgebirge-aue/fortuna-dusseldorf/2018432354,2018,2,2_liga
+FC St. Pauli,Dynamo Dresden,2-2,https://www.besoccer.com/match/st-pauli/sg-dynamo-dresden/2018432350,2018,2,2_liga
+Darmstadt 98,FC St. Pauli,3-0,https://www.besoccer.com/match/darmstadt-98/st-pauli/2018432358,2018,3,2_liga
+Braunschweig,Erzgebirge Aue,1-1,https://www.besoccer.com/match/eintracht-brau-hellip/fc-erzgebirge-aue/2018432359,2018,3,2_liga
+Dynamo Dresden,Sandhausen,0-4,https://www.besoccer.com/match/sg-dynamo-dresden/sv-sandhausen/2018432360,2018,3,2_liga
+Heidenheim,MSV Duisburg,1-2,https://www.besoccer.com/match/heidenheim/msv-duisburg/2018432361,2018,3,2_liga
+Fortuna Düsseldorf,Kaiserslautern,2-0,https://www.besoccer.com/match/fortuna-dusseldorf/kaiserslautern/2018432362,2018,3,2_liga
+Ingolstadt 04,Jahn Regensburg,2-4,https://www.besoccer.com/match/fc-ingolstadt-04/ssv-jahn-regensburg/2018432357,2018,3,2_liga
+Nürnberg,Union Berlin,2-2,https://www.besoccer.com/match/fc-nurnberg/1-fc-union-berlin/2018432363,2018,3,2_liga
+Holstein Kiel,Greuther Fürth,3-1,https://www.besoccer.com/match/holstein-kiel/greuther-furth/2018432365,2018,3,2_liga
+Arminia Bielefeld,VfL Bochum,2-0,https://www.besoccer.com/match/arminia-bielefeld/bochum/2018432364,2018,3,2_liga
+Greuther Fürth,Ingolstadt 04,0-1,https://www.besoccer.com/match/greuther-furth/fc-ingolstadt-04/2018432368,2018,4,2_liga
+MSV Duisburg,Darmstadt 98,1-2,https://www.besoccer.com/match/msv-duisburg/darmstadt-98/2018432373,2018,4,2_liga
+FC St. Pauli,Heidenheim,1-0,https://www.besoccer.com/match/st-pauli/heidenheim/2018432367,2018,4,2_liga
+Erzgebirge Aue,Nürnberg,3-1,https://www.besoccer.com/match/fc-erzgebirge-aue/fc-nurnberg/2018432372,2018,4,2_liga
+Jahn Regensburg,Holstein Kiel,1-2,https://www.besoccer.com/match/ssv-jahn-regensburg/holstein-kiel/2018432374,2018,4,2_liga
+Union Berlin,Arminia Bielefeld,1-1,https://www.besoccer.com/match/1-fc-union-berlin/arminia-bielefeld/2018432366,2018,4,2_liga
+VfL Bochum,Dynamo Dresden,3-2,https://www.besoccer.com/match/bochum/sg-dynamo-dresden/2018432369,2018,4,2_liga
+Sandhausen,Fortuna Düsseldorf,1-2,https://www.besoccer.com/match/sv-sandhausen/fortuna-dusseldorf/2018432370,2018,4,2_liga
+Kaiserslautern,Braunschweig,1-1,https://www.besoccer.com/match/kaiserslautern/eintracht-brau-hellip/2018432371,2018,4,2_liga
+Dynamo Dresden,Greuther Fürth,1-1,https://www.besoccer.com/match/sg-dynamo-dresden/greuther-furth/2018432378,2018,5,2_liga
+Heidenheim,Jahn Regensburg,1-3,https://www.besoccer.com/match/heidenheim/ssv-jahn-regensburg/2018432379,2018,5,2_liga
+Ingolstadt 04,Erzgebirge Aue,1-2,https://www.besoccer.com/match/fc-ingolstadt-04/fc-erzgebirge-aue/2018432375,2018,5,2_liga
+Arminia Bielefeld,MSV Duisburg,0-4,https://www.besoccer.com/match/arminia-bielefeld/msv-duisburg/2018432382,2018,5,2_liga
+Holstein Kiel,Kaiserslautern,2-1,https://www.besoccer.com/match/holstein-kiel/kaiserslautern/2018432383,2018,5,2_liga
+Darmstadt 98,VfL Bochum,1-2,https://www.besoccer.com/match/darmstadt-98/bochum/2018432376,2018,5,2_liga
+Braunschweig,Sandhausen,1-1,https://www.besoccer.com/match/eintracht-brau-hellip/sv-sandhausen/2018432377,2018,5,2_liga
+Fortuna Düsseldorf,Union Berlin,3-2,https://www.besoccer.com/match/fortuna-dusseldorf/1-fc-union-berlin/2018432380,2018,5,2_liga
+Nürnberg,FC St. Pauli,0-1,https://www.besoccer.com/match/fc-nurnberg/st-pauli/2018432381,2018,5,2_liga
+Erzgebirge Aue,Holstein Kiel,0-3,https://www.besoccer.com/match/fc-erzgebirge-aue/holstein-kiel/2018432390,2018,6,2_liga
+Union Berlin,Braunschweig,1-1,https://www.besoccer.com/match/1-fc-union-berlin/eintracht-brau-hellip/2018432385,2018,6,2_liga
+FC St. Pauli,Ingolstadt 04,0-4,https://www.besoccer.com/match/st-pauli/fc-ingolstadt-04/2018432386,2018,6,2_liga
+Sandhausen,Kaiserslautern,1-0,https://www.besoccer.com/match/sv-sandhausen/kaiserslautern/2018432389,2018,6,2_liga
+MSV Duisburg,Nürnberg,1-6,https://www.besoccer.com/match/msv-duisburg/fc-nurnberg/2018432391,2018,6,2_liga
+Darmstadt 98,Arminia Bielefeld,4-3,https://www.besoccer.com/match/darmstadt-98/arminia-bielefeld/2018432384,2018,6,2_liga
+Greuther Fürth,Fortuna Düsseldorf,3-1,https://www.besoccer.com/match/greuther-furth/fortuna-dusseldorf/2018432387,2018,6,2_liga
+VfL Bochum,Heidenheim,1-2,https://www.besoccer.com/match/bochum/heidenheim/2018432388,2018,6,2_liga
+Jahn Regensburg,Dynamo Dresden,0-2,https://www.besoccer.com/match/ssv-jahn-regensburg/sg-dynamo-dresden/2018432392,2018,6,2_liga
+Ingolstadt 04,MSV Duisburg,2-2,https://www.besoccer.com/match/fc-ingolstadt-04/msv-duisburg/2018432393,2018,7,2_liga
+Sandhausen,Union Berlin,1-0,https://www.besoccer.com/match/sv-sandhausen/1-fc-union-berlin/2018432397,2018,7,2_liga
+Kaiserslautern,Erzgebirge Aue,0-2,https://www.besoccer.com/match/kaiserslautern/fc-erzgebirge-aue/2018432400,2018,7,2_liga
+Holstein Kiel,FC St. Pauli,0-1,https://www.besoccer.com/match/holstein-kiel/st-pauli/2018432401,2018,7,2_liga
+Braunschweig,Greuther Fürth,3-0,https://www.besoccer.com/match/eintracht-brau-hellip/greuther-furth/2018432394,2018,7,2_liga
+Dynamo Dresden,Arminia Bielefeld,0-2,https://www.besoccer.com/match/sg-dynamo-dresden/arminia-bielefeld/2018432395,2018,7,2_liga
+Heidenheim,Darmstadt 98,2-2,https://www.besoccer.com/match/heidenheim/darmstadt-98/2018432396,2018,7,2_liga
+Fortuna Düsseldorf,Jahn Regensburg,1-0,https://www.besoccer.com/match/fortuna-dusseldorf/ssv-jahn-regensburg/2018432398,2018,7,2_liga
+Nürnberg,VfL Bochum,3-1,https://www.besoccer.com/match/fc-nurnberg/bochum/2018432399,2018,7,2_liga
+Erzgebirge Aue,Sandhausen,1-0,https://www.besoccer.com/match/fc-erzgebirge-aue/sv-sandhausen/2018432407,2018,8,2_liga
+MSV Duisburg,Holstein Kiel,1-3,https://www.besoccer.com/match/msv-duisburg/holstein-kiel/2018432409,2018,8,2_liga
+FC St. Pauli,Fortuna Düsseldorf,1-2,https://www.besoccer.com/match/st-pauli/fortuna-dusseldorf/2018432404,2018,8,2_liga
+Arminia Bielefeld,Heidenheim,1-1,https://www.besoccer.com/match/arminia-bielefeld/heidenheim/2018432408,2018,8,2_liga
+Jahn Regensburg,Braunschweig,2-1,https://www.besoccer.com/match/ssv-jahn-regensburg/eintracht-brau-hellip/2018432410,2018,8,2_liga
+Darmstadt 98,Dynamo Dresden,3-3,https://www.besoccer.com/match/darmstadt-98/sg-dynamo-dresden/2018432402,2018,8,2_liga
+Greuther Fürth,Nürnberg,1-3,https://www.besoccer.com/match/greuther-furth/fc-nurnberg/2018432405,2018,8,2_liga
+VfL Bochum,Ingolstadt 04,2-0,https://www.besoccer.com/match/bochum/fc-ingolstadt-04/2018432406,2018,8,2_liga
+Union Berlin,Kaiserslautern,5-0,https://www.besoccer.com/match/1-fc-union-berlin/kaiserslautern/2018432403,2018,8,2_liga
+Kaiserslautern,Greuther Fürth,3-0,https://www.besoccer.com/match/kaiserslautern/greuther-furth/2018432417,2018,9,2_liga
+Ingolstadt 04,Darmstadt 98,3-0,https://www.besoccer.com/match/fc-ingolstadt-04/darmstadt-98/2018432411,2018,9,2_liga
+Nürnberg,Arminia Bielefeld,1-2,https://www.besoccer.com/match/fc-nurnberg/arminia-bielefeld/2018432416,2018,9,2_liga
+Erzgebirge Aue,Union Berlin,1-2,https://www.besoccer.com/match/fc-erzgebirge-aue/1-fc-union-berlin/2018432418,2018,9,2_liga
+Holstein Kiel,VfL Bochum,3-0,https://www.besoccer.com/match/holstein-kiel/bochum/2018432419,2018,9,2_liga
+Braunschweig,FC St. Pauli,0-2,https://www.besoccer.com/match/eintracht-brau-hellip/st-pauli/2018432412,2018,9,2_liga
+Heidenheim,Dynamo Dresden,0-2,https://www.besoccer.com/match/heidenheim/sg-dynamo-dresden/2018432413,2018,9,2_liga
+Sandhausen,Jahn Regensburg,2-0,https://www.besoccer.com/match/sv-sandhausen/ssv-jahn-regensburg/2018432414,2018,9,2_liga
+Fortuna Düsseldorf,MSV Duisburg,3-1,https://www.besoccer.com/match/fortuna-dusseldorf/msv-duisburg/2018432415,2018,9,2_liga
+FC St. Pauli,Kaiserslautern,1-1,https://www.besoccer.com/match/st-pauli/kaiserslautern/2018432423,2018,10,2_liga
+MSV Duisburg,Braunschweig,0-0,https://www.besoccer.com/match/msv-duisburg/eintracht-brau-hellip/2018432427,2018,10,2_liga
+Dynamo Dresden,Ingolstadt 04,2-2,https://www.besoccer.com/match/sg-dynamo-dresden/fc-ingolstadt-04/2018432421,2018,10,2_liga
+VfL Bochum,Sandhausen,2-0,https://www.besoccer.com/match/bochum/sv-sandhausen/2018432425,2018,10,2_liga
+Arminia Bielefeld,Fortuna Düsseldorf,0-2,https://www.besoccer.com/match/arminia-bielefeld/fortuna-dusseldorf/2018432426,2018,10,2_liga
+Heidenheim,Holstein Kiel,3-5,https://www.besoccer.com/match/heidenheim/holstein-kiel/2018432422,2018,10,2_liga
+Greuther Fürth,Erzgebirge Aue,2-1,https://www.besoccer.com/match/greuther-furth/fc-erzgebirge-aue/2018432424,2018,10,2_liga
+Jahn Regensburg,Union Berlin,0-2,https://www.besoccer.com/match/ssv-jahn-regensburg/1-fc-union-berlin/2018432428,2018,10,2_liga
+Darmstadt 98,Nürnberg,3-4,https://www.besoccer.com/match/darmstadt-98/fc-nurnberg/2018432420,2018,10,2_liga
+Ingolstadt 04,Heidenheim,3-0,https://www.besoccer.com/match/fc-ingolstadt-04/heidenheim/2018432429,2018,11,2_liga
+Fortuna Düsseldorf,Darmstadt 98,1-0,https://www.besoccer.com/match/fortuna-dusseldorf/darmstadt-98/2018432433,2018,11,2_liga
+Braunschweig,VfL Bochum,1-0,https://www.besoccer.com/match/eintracht-brau-hellip/bochum/2018432430,2018,11,2_liga
+Union Berlin,Greuther Fürth,3-1,https://www.besoccer.com/match/1-fc-union-berlin/greuther-furth/2018432431,2018,11,2_liga
+Holstein Kiel,Arminia Bielefeld,2-1,https://www.besoccer.com/match/holstein-kiel/arminia-bielefeld/2018432437,2018,11,2_liga
+Nürnberg,Dynamo Dresden,2-1,https://www.besoccer.com/match/fc-nurnberg/sg-dynamo-dresden/2018432434,2018,11,2_liga
+Kaiserslautern,MSV Duisburg,0-1,https://www.besoccer.com/match/kaiserslautern/msv-duisburg/2018432435,2018,11,2_liga
+Erzgebirge Aue,Jahn Regensburg,1-0,https://www.besoccer.com/match/fc-erzgebirge-aue/ssv-jahn-regensburg/2018432436,2018,11,2_liga
+Sandhausen,FC St. Pauli,1-1,https://www.besoccer.com/match/sv-sandhausen/st-pauli/2018432432,2018,11,2_liga
+Arminia Bielefeld,Ingolstadt 04,1-3,https://www.besoccer.com/match/arminia-bielefeld/fc-ingolstadt-04/2018432444,2018,12,2_liga
+FC St. Pauli,Erzgebirge Aue,1-1,https://www.besoccer.com/match/st-pauli/fc-erzgebirge-aue/2018432441,2018,12,2_liga
+Darmstadt 98,Holstein Kiel,1-1,https://www.besoccer.com/match/darmstadt-98/holstein-kiel/2018432438,2018,12,2_liga
+Greuther Fürth,Sandhausen,2-1,https://www.besoccer.com/match/greuther-furth/sv-sandhausen/2018432442,2018,12,2_liga
+Jahn Regensburg,Kaiserslautern,3-1,https://www.besoccer.com/match/ssv-jahn-regensburg/kaiserslautern/2018432446,2018,12,2_liga
+Heidenheim,Nürnberg,1-0,https://www.besoccer.com/match/heidenheim/fc-nurnberg/2018432440,2018,12,2_liga
+MSV Duisburg,Union Berlin,1-1,https://www.besoccer.com/match/msv-duisburg/1-fc-union-berlin/2018432445,2018,12,2_liga
+Dynamo Dresden,Braunschweig,1-1,https://www.besoccer.com/match/sg-dynamo-dresden/eintracht-brau-hellip/2018432439,2018,12,2_liga
+VfL Bochum,Fortuna Düsseldorf,0-0,https://www.besoccer.com/match/bochum/fortuna-dusseldorf/2018432443,2018,12,2_liga
+Sandhausen,MSV Duisburg,0-1,https://www.besoccer.com/match/sv-sandhausen/msv-duisburg/2018432449,2018,13,2_liga
+Kaiserslautern,VfL Bochum,0-0,https://www.besoccer.com/match/kaiserslautern/bochum/2018432452,2018,13,2_liga
+Braunschweig,Darmstadt 98,2-2,https://www.besoccer.com/match/eintracht-brau-hellip/darmstadt-98/2018432447,2018,13,2_liga
+Union Berlin,FC St. Pauli,1-0,https://www.besoccer.com/match/1-fc-union-berlin/st-pauli/2018432448,2018,13,2_liga
+Jahn Regensburg,Greuther Fürth,3-2,https://www.besoccer.com/match/ssv-jahn-regensburg/greuther-furth/2018432455,2018,13,2_liga
+Fortuna Düsseldorf,Heidenheim,2-2,https://www.besoccer.com/match/fortuna-dusseldorf/heidenheim/2018432450,2018,13,2_liga
+Erzgebirge Aue,Arminia Bielefeld,1-1,https://www.besoccer.com/match/fc-erzgebirge-aue/arminia-bielefeld/2018432453,2018,13,2_liga
+Holstein Kiel,Dynamo Dresden,3-0,https://www.besoccer.com/match/holstein-kiel/sg-dynamo-dresden/2018432454,2018,13,2_liga
+Nürnberg,Ingolstadt 04,1-2,https://www.besoccer.com/match/fc-nurnberg/fc-ingolstadt-04/2018432451,2018,13,2_liga
+Darmstadt 98,Sandhausen,1-2,https://www.besoccer.com/match/darmstadt-98/sv-sandhausen/2018432457,2018,14,2_liga
+Arminia Bielefeld,Braunschweig,2-2,https://www.besoccer.com/match/arminia-bielefeld/eintracht-brau-hellip/2018432463,2018,14,2_liga
+Heidenheim,Union Berlin,4-3,https://www.besoccer.com/match/heidenheim/1-fc-union-berlin/2018432459,2018,14,2_liga
+VfL Bochum,Greuther Fürth,1-1,https://www.besoccer.com/match/bochum/greuther-furth/2018432461,2018,14,2_liga
+Nürnberg,Holstein Kiel,2-2,https://www.besoccer.com/match/fc-nurnberg/holstein-kiel/2018432462,2018,14,2_liga
+Ingolstadt 04,Fortuna Düsseldorf,1-0,https://www.besoccer.com/match/fc-ingolstadt-04/fortuna-dusseldorf/2018432456,2018,14,2_liga
+FC St. Pauli,Jahn Regensburg,2-2,https://www.besoccer.com/match/st-pauli/ssv-jahn-regensburg/2018432460,2018,14,2_liga
+MSV Duisburg,Erzgebirge Aue,3-0,https://www.besoccer.com/match/msv-duisburg/fc-erzgebirge-aue/2018432464,2018,14,2_liga
+Dynamo Dresden,Kaiserslautern,1-2,https://www.besoccer.com/match/sg-dynamo-dresden/kaiserslautern/2018432458,2018,14,2_liga
+Union Berlin,Darmstadt 98,3-3,https://www.besoccer.com/match/1-fc-union-berlin/darmstadt-98/2018432466,2018,15,2_liga
+Sandhausen,Heidenheim,1-2,https://www.besoccer.com/match/sv-sandhausen/heidenheim/2018432468,2018,15,2_liga
+Braunschweig,Nürnberg,2-3,https://www.besoccer.com/match/eintracht-brau-hellip/fc-nurnberg/2018432465,2018,15,2_liga
+Holstein Kiel,Ingolstadt 04,0-0,https://www.besoccer.com/match/holstein-kiel/fc-ingolstadt-04/2018432472,2018,15,2_liga
+Jahn Regensburg,MSV Duisburg,4-0,https://www.besoccer.com/match/ssv-jahn-regensburg/msv-duisburg/2018432473,2018,15,2_liga
+Greuther Fürth,FC St. Pauli,4-0,https://www.besoccer.com/match/greuther-furth/st-pauli/2018432467,2018,15,2_liga
+Kaiserslautern,Arminia Bielefeld,0-2,https://www.besoccer.com/match/kaiserslautern/arminia-bielefeld/2018432470,2018,15,2_liga
+Erzgebirge Aue,VfL Bochum,1-1,https://www.besoccer.com/match/fc-erzgebirge-aue/bochum/2018432471,2018,15,2_liga
+Fortuna Düsseldorf,Dynamo Dresden,1-3,https://www.besoccer.com/match/fortuna-dusseldorf/sg-dynamo-dresden/2018432469,2018,15,2_liga
+Arminia Bielefeld,FC St. Pauli,5-0,https://www.besoccer.com/match/arminia-bielefeld/st-pauli/2018432480,2018,16,2_liga
+Heidenheim,Kaiserslautern,3-2,https://www.besoccer.com/match/heidenheim/kaiserslautern/2018432477,2018,16,2_liga
+Nürnberg,Sandhausen,1-0,https://www.besoccer.com/match/fc-nurnberg/sv-sandhausen/2018432479,2018,16,2_liga
+MSV Duisburg,Greuther Fürth,2-0,https://www.besoccer.com/match/msv-duisburg/greuther-furth/2018432481,2018,16,2_liga
+Holstein Kiel,Fortuna Düsseldorf,2-2,https://www.besoccer.com/match/holstein-kiel/fortuna-dusseldorf/2018432482,2018,16,2_liga
+Darmstadt 98,Jahn Regensburg,0-1,https://www.besoccer.com/match/darmstadt-98/ssv-jahn-regensburg/2018432475,2018,16,2_liga
+Dynamo Dresden,Erzgebirge Aue,4-0,https://www.besoccer.com/match/sg-dynamo-dresden/fc-erzgebirge-aue/2018432476,2018,16,2_liga
+VfL Bochum,Union Berlin,2-1,https://www.besoccer.com/match/bochum/1-fc-union-berlin/2018432478,2018,16,2_liga
+Ingolstadt 04,Braunschweig,0-2,https://www.besoccer.com/match/fc-ingolstadt-04/eintracht-brau-hellip/2018432474,2018,16,2_liga
+Braunschweig,Holstein Kiel,0-0,https://www.besoccer.com/match/eintracht-brau-hellip/holstein-kiel/2018432483,2018,17,2_liga
+Erzgebirge Aue,Darmstadt 98,1-0,https://www.besoccer.com/match/fc-erzgebirge-aue/darmstadt-98/2018432490,2018,17,2_liga
+Union Berlin,Dynamo Dresden,0-1,https://www.besoccer.com/match/1-fc-union-berlin/sg-dynamo-dresden/2018432484,2018,17,2_liga
+Greuther Fürth,Heidenheim,1-0,https://www.besoccer.com/match/greuther-furth/heidenheim/2018432486,2018,17,2_liga
+Jahn Regensburg,VfL Bochum,0-1,https://www.besoccer.com/match/ssv-jahn-regensburg/bochum/2018432491,2018,17,2_liga
+FC St. Pauli,MSV Duisburg,2-2,https://www.besoccer.com/match/st-pauli/msv-duisburg/2018432485,2018,17,2_liga
+Sandhausen,Arminia Bielefeld,3-1,https://www.besoccer.com/match/sv-sandhausen/arminia-bielefeld/2018432487,2018,17,2_liga
+Kaiserslautern,Ingolstadt 04,1-1,https://www.besoccer.com/match/kaiserslautern/fc-ingolstadt-04/2018432489,2018,17,2_liga
+Fortuna Düsseldorf,Nürnberg,0-2,https://www.besoccer.com/match/fortuna-dusseldorf/fc-nurnberg/2018432488,2018,17,2_liga
+Union Berlin,Ingolstadt 04,1-2,https://www.besoccer.com/match/1-fc-union-berlin/fc-ingolstadt-04/2018432493,2018,18,2_liga
+Braunschweig,Fortuna Düsseldorf,0-1,https://www.besoccer.com/match/eintracht-brau-hellip/fortuna-dusseldorf/2018432497,2018,18,2_liga
+Erzgebirge Aue,Heidenheim,1-1,https://www.besoccer.com/match/fc-erzgebirge-aue/heidenheim/2018432496,2018,18,2_liga
+Kaiserslautern,Nürnberg,1-1,https://www.besoccer.com/match/kaiserslautern/fc-nurnberg/2018432498,2018,18,2_liga
+Jahn Regensburg,Arminia Bielefeld,3-2,https://www.besoccer.com/match/ssv-jahn-regensburg/arminia-bielefeld/2018432499,2018,18,2_liga
+Greuther Fürth,Darmstadt 98,1-1,https://www.besoccer.com/match/greuther-furth/darmstadt-98/2018432494,2018,18,2_liga
+MSV Duisburg,Dynamo Dresden,2-0,https://www.besoccer.com/match/msv-duisburg/sg-dynamo-dresden/2018432495,2018,18,2_liga
+Sandhausen,Holstein Kiel,3-1,https://www.besoccer.com/match/sv-sandhausen/holstein-kiel/2018432500,2018,18,2_liga
+FC St. Pauli,VfL Bochum,2-1,https://www.besoccer.com/match/st-pauli/bochum/2018432492,2018,18,2_liga
+VfL Bochum,MSV Duisburg,0-2,https://www.besoccer.com/match/bochum/msv-duisburg/2018432508,2018,19,2_liga
+Holstein Kiel,Union Berlin,2-2,https://www.besoccer.com/match/holstein-kiel/1-fc-union-berlin/2018432502,2018,19,2_liga
+Ingolstadt 04,Sandhausen,0-0,https://www.besoccer.com/match/fc-ingolstadt-04/sv-sandhausen/2018432505,2018,19,2_liga
+Nürnberg,Jahn Regensburg,2-2,https://www.besoccer.com/match/fc-nurnberg/ssv-jahn-regensburg/2018432509,2018,19,2_liga
+Heidenheim,Braunschweig,2-0,https://www.besoccer.com/match/heidenheim/eintracht-brau-hellip/2018432501,2018,19,2_liga
+Arminia Bielefeld,Greuther Fürth,0-0,https://www.besoccer.com/match/arminia-bielefeld/greuther-furth/2018432504,2018,19,2_liga
+Fortuna Düsseldorf,Erzgebirge Aue,2-1,https://www.besoccer.com/match/fortuna-dusseldorf/fc-erzgebirge-aue/2018432507,2018,19,2_liga
+Dynamo Dresden,FC St. Pauli,1-3,https://www.besoccer.com/match/sg-dynamo-dresden/st-pauli/2018432503,2018,19,2_liga
+Darmstadt 98,Kaiserslautern,1-2,https://www.besoccer.com/match/darmstadt-98/kaiserslautern/2018432506,2018,19,2_liga
+Union Berlin,Nürnberg,0-1,https://www.besoccer.com/match/1-fc-union-berlin/fc-nurnberg/2018432516,2018,20,2_liga
+Jahn Regensburg,Ingolstadt 04,3-2,https://www.besoccer.com/match/ssv-jahn-regensburg/fc-ingolstadt-04/2018432510,2018,20,2_liga
+MSV Duisburg,Heidenheim,3-3,https://www.besoccer.com/match/msv-duisburg/heidenheim/2018432514,2018,20,2_liga
+Kaiserslautern,Fortuna Düsseldorf,1-3,https://www.besoccer.com/match/kaiserslautern/fortuna-dusseldorf/2018432515,2018,20,2_liga
+Greuther Fürth,Holstein Kiel,0-0,https://www.besoccer.com/match/greuther-furth/holstein-kiel/2018432518,2018,20,2_liga
+FC St. Pauli,Darmstadt 98,0-1,https://www.besoccer.com/match/st-pauli/darmstadt-98/2018432511,2018,20,2_liga
+Erzgebirge Aue,Braunschweig,1-3,https://www.besoccer.com/match/fc-erzgebirge-aue/eintracht-brau-hellip/2018432512,2018,20,2_liga
+Sandhausen,Dynamo Dresden,1-0,https://www.besoccer.com/match/sv-sandhausen/sg-dynamo-dresden/2018432513,2018,20,2_liga
+VfL Bochum,Arminia Bielefeld,0-1,https://www.besoccer.com/match/bochum/arminia-bielefeld/2018432517,2018,20,2_liga
+Nürnberg,Erzgebirge Aue,4-1,https://www.besoccer.com/match/fc-nurnberg/fc-erzgebirge-aue/2018432525,2018,21,2_liga
+Fortuna Düsseldorf,Sandhausen,1-0,https://www.besoccer.com/match/fortuna-dusseldorf/sv-sandhausen/2018432523,2018,21,2_liga
+Heidenheim,FC St. Pauli,3-1,https://www.besoccer.com/match/heidenheim/st-pauli/2018432520,2018,21,2_liga
+Ingolstadt 04,Greuther Fürth,3-0,https://www.besoccer.com/match/fc-ingolstadt-04/greuther-furth/2018432521,2018,21,2_liga
+Holstein Kiel,Jahn Regensburg,1-1,https://www.besoccer.com/match/holstein-kiel/ssv-jahn-regensburg/2018432527,2018,21,2_liga
+Dynamo Dresden,VfL Bochum,2-0,https://www.besoccer.com/match/sg-dynamo-dresden/bochum/2018432522,2018,21,2_liga
+Braunschweig,Kaiserslautern,1-2,https://www.besoccer.com/match/eintracht-brau-hellip/kaiserslautern/2018432524,2018,21,2_liga
+Darmstadt 98,MSV Duisburg,1-2,https://www.besoccer.com/match/darmstadt-98/msv-duisburg/2018432526,2018,21,2_liga
+Arminia Bielefeld,Union Berlin,1-1,https://www.besoccer.com/match/arminia-bielefeld/1-fc-union-berlin/2018432519,2018,21,2_liga
+Kaiserslautern,Holstein Kiel,3-1,https://www.besoccer.com/match/kaiserslautern/holstein-kiel/2018432536,2018,22,2_liga
+VfL Bochum,Darmstadt 98,2-1,https://www.besoccer.com/match/bochum/darmstadt-98/2018432529,2018,22,2_liga
+Jahn Regensburg,Heidenheim,2-0,https://www.besoccer.com/match/ssv-jahn-regensburg/heidenheim/2018432532,2018,22,2_liga
+Union Berlin,Fortuna Düsseldorf,3-1,https://www.besoccer.com/match/1-fc-union-berlin/fortuna-dusseldorf/2018432533,2018,22,2_liga
+MSV Duisburg,Arminia Bielefeld,2-2,https://www.besoccer.com/match/msv-duisburg/arminia-bielefeld/2018432535,2018,22,2_liga
+Erzgebirge Aue,Ingolstadt 04,0-0,https://www.besoccer.com/match/fc-erzgebirge-aue/fc-ingolstadt-04/2018432528,2018,22,2_liga
+Sandhausen,Braunschweig,0-0,https://www.besoccer.com/match/sv-sandhausen/eintracht-brau-hellip/2018432530,2018,22,2_liga
+Greuther Fürth,Dynamo Dresden,1-0,https://www.besoccer.com/match/greuther-furth/sg-dynamo-dresden/2018432531,2018,22,2_liga
+FC St. Pauli,Nürnberg,0-0,https://www.besoccer.com/match/st-pauli/fc-nurnberg/2018432534,2018,22,2_liga
+Heidenheim,VfL Bochum,1-0,https://www.besoccer.com/match/heidenheim/bochum/2018432541,2018,23,2_liga
+Kaiserslautern,Sandhausen,0-1,https://www.besoccer.com/match/kaiserslautern/sv-sandhausen/2018432542,2018,23,2_liga
+Arminia Bielefeld,Darmstadt 98,2-0,https://www.besoccer.com/match/arminia-bielefeld/darmstadt-98/2018432537,2018,23,2_liga
+Ingolstadt 04,FC St. Pauli,0-1,https://www.besoccer.com/match/fc-ingolstadt-04/st-pauli/2018432539,2018,23,2_liga
+Fortuna Düsseldorf,Greuther Fürth,1-1,https://www.besoccer.com/match/fortuna-dusseldorf/greuther-furth/2018432540,2018,23,2_liga
+Holstein Kiel,Erzgebirge Aue,2-2,https://www.besoccer.com/match/holstein-kiel/fc-erzgebirge-aue/2018432543,2018,23,2_liga
+Braunschweig,Union Berlin,1-0,https://www.besoccer.com/match/eintracht-brau-hellip/1-fc-union-berlin/2018432538,2018,23,2_liga
+Nürnberg,MSV Duisburg,3-1,https://www.besoccer.com/match/fc-nurnberg/msv-duisburg/2018432544,2018,23,2_liga
+Dynamo Dresden,Jahn Regensburg,1-0,https://www.besoccer.com/match/sg-dynamo-dresden/ssv-jahn-regensburg/2018432545,2018,23,2_liga
+Arminia Bielefeld,Dynamo Dresden,2-3,https://www.besoccer.com/match/arminia-bielefeld/sg-dynamo-dresden/2018432548,2018,24,2_liga
+Jahn Regensburg,Fortuna Düsseldorf,4-3,https://www.besoccer.com/match/ssv-jahn-regensburg/fortuna-dusseldorf/2018432551,2018,24,2_liga
+MSV Duisburg,Ingolstadt 04,2-1,https://www.besoccer.com/match/msv-duisburg/fc-ingolstadt-04/2018432546,2018,24,2_liga
+Greuther Fürth,Braunschweig,2-1,https://www.besoccer.com/match/greuther-furth/eintracht-brau-hellip/2018432547,2018,24,2_liga
+Union Berlin,Sandhausen,2-1,https://www.besoccer.com/match/1-fc-union-berlin/sv-sandhausen/2018432550,2018,24,2_liga
+Erzgebirge Aue,Kaiserslautern,2-1,https://www.besoccer.com/match/fc-erzgebirge-aue/kaiserslautern/2018432553,2018,24,2_liga
+Darmstadt 98,Heidenheim,1-1,https://www.besoccer.com/match/darmstadt-98/heidenheim/2018432549,2018,24,2_liga
+VfL Bochum,Nürnberg,0-0,https://www.besoccer.com/match/bochum/fc-nurnberg/2018432552,2018,24,2_liga
+FC St. Pauli,Holstein Kiel,3-2,https://www.besoccer.com/match/st-pauli/holstein-kiel/2018432554,2018,24,2_liga
+Dynamo Dresden,Darmstadt 98,0-2,https://www.besoccer.com/match/sg-dynamo-dresden/darmstadt-98/2018432555,2018,25,2_liga
+Kaiserslautern,Union Berlin,4-3,https://www.besoccer.com/match/kaiserslautern/1-fc-union-berlin/2018432556,2018,25,2_liga
+Nürnberg,Greuther Fürth,0-2,https://www.besoccer.com/match/fc-nurnberg/greuther-furth/2018432558,2018,25,2_liga
+Sandhausen,Erzgebirge Aue,1-1,https://www.besoccer.com/match/sv-sandhausen/fc-erzgebirge-aue/2018432560,2018,25,2_liga
+Holstein Kiel,MSV Duisburg,5-0,https://www.besoccer.com/match/holstein-kiel/msv-duisburg/2018432562,2018,25,2_liga
+Fortuna Düsseldorf,FC St. Pauli,2-1,https://www.besoccer.com/match/fortuna-dusseldorf/st-pauli/2018432557,2018,25,2_liga
+Heidenheim,Arminia Bielefeld,2-2,https://www.besoccer.com/match/heidenheim/arminia-bielefeld/2018432561,2018,25,2_liga
+Braunschweig,Jahn Regensburg,2-1,https://www.besoccer.com/match/eintracht-brau-hellip/ssv-jahn-regensburg/2018432563,2018,25,2_liga
+Ingolstadt 04,VfL Bochum,0-1,https://www.besoccer.com/match/fc-ingolstadt-04/bochum/2018432559,2018,25,2_liga
+Dynamo Dresden,Heidenheim,3-2,https://www.besoccer.com/match/sg-dynamo-dresden/heidenheim/2018432566,2018,26,2_liga
+Arminia Bielefeld,Nürnberg,1-0,https://www.besoccer.com/match/arminia-bielefeld/fc-nurnberg/2018432569,2018,26,2_liga
+Darmstadt 98,Ingolstadt 04,1-1,https://www.besoccer.com/match/darmstadt-98/fc-ingolstadt-04/2018432564,2018,26,2_liga
+FC St. Pauli,Braunschweig,0-0,https://www.besoccer.com/match/st-pauli/eintracht-brau-hellip/2018432565,2018,26,2_liga
+Greuther Fürth,Kaiserslautern,2-1,https://www.besoccer.com/match/greuther-furth/kaiserslautern/2018432570,2018,26,2_liga
+VfL Bochum,Holstein Kiel,1-1,https://www.besoccer.com/match/bochum/holstein-kiel/2018432572,2018,26,2_liga
+Jahn Regensburg,Sandhausen,2-1,https://www.besoccer.com/match/ssv-jahn-regensburg/sv-sandhausen/2018432567,2018,26,2_liga
+MSV Duisburg,Fortuna Düsseldorf,1-2,https://www.besoccer.com/match/msv-duisburg/fortuna-dusseldorf/2018432568,2018,26,2_liga
+Union Berlin,Erzgebirge Aue,0-0,https://www.besoccer.com/match/1-fc-union-berlin/fc-erzgebirge-aue/2018432571,2018,26,2_liga
+Fortuna Düsseldorf,Arminia Bielefeld,4-2,https://www.besoccer.com/match/fortuna-dusseldorf/arminia-bielefeld/2018432579,2018,27,2_liga
+Holstein Kiel,Heidenheim,2-1,https://www.besoccer.com/match/holstein-kiel/heidenheim/2018432575,2018,27,2_liga
+Kaiserslautern,FC St. Pauli,1-1,https://www.besoccer.com/match/kaiserslautern/st-pauli/2018432576,2018,27,2_liga
+Sandhausen,VfL Bochum,2-3,https://www.besoccer.com/match/sv-sandhausen/bochum/2018432578,2018,27,2_liga
+Union Berlin,Jahn Regensburg,2-2,https://www.besoccer.com/match/1-fc-union-berlin/ssv-jahn-regensburg/2018432581,2018,27,2_liga
+Nürnberg,Darmstadt 98,1-1,https://www.besoccer.com/match/fc-nurnberg/darmstadt-98/2018432573,2018,27,2_liga
+Ingolstadt 04,Dynamo Dresden,4-2,https://www.besoccer.com/match/fc-ingolstadt-04/sg-dynamo-dresden/2018432574,2018,27,2_liga
+Braunschweig,MSV Duisburg,3-2,https://www.besoccer.com/match/eintracht-brau-hellip/msv-duisburg/2018432580,2018,27,2_liga
+Erzgebirge Aue,Greuther Fürth,2-1,https://www.besoccer.com/match/fc-erzgebirge-aue/greuther-furth/2018432577,2018,27,2_liga
+Heidenheim,Ingolstadt 04,1-2,https://www.besoccer.com/match/heidenheim/fc-ingolstadt-04/2018432582,2018,28,2_liga
+Dynamo Dresden,Nürnberg,1-1,https://www.besoccer.com/match/sg-dynamo-dresden/fc-nurnberg/2018432587,2018,28,2_liga
+MSV Duisburg,Kaiserslautern,1-4,https://www.besoccer.com/match/msv-duisburg/kaiserslautern/2018432588,2018,28,2_liga
+VfL Bochum,Braunschweig,2-0,https://www.besoccer.com/match/bochum/eintracht-brau-hellip/2018432583,2018,28,2_liga
+Greuther Fürth,Union Berlin,2-1,https://www.besoccer.com/match/greuther-furth/1-fc-union-berlin/2018432584,2018,28,2_liga
+FC St. Pauli,Sandhausen,1-1,https://www.besoccer.com/match/st-pauli/sv-sandhausen/2018432585,2018,28,2_liga
+Jahn Regensburg,Erzgebirge Aue,1-3,https://www.besoccer.com/match/ssv-jahn-regensburg/fc-erzgebirge-aue/2018432589,2018,28,2_liga
+Arminia Bielefeld,Holstein Kiel,1-1,https://www.besoccer.com/match/arminia-bielefeld/holstein-kiel/2018432590,2018,28,2_liga
+Darmstadt 98,Fortuna Düsseldorf,1-0,https://www.besoccer.com/match/darmstadt-98/fortuna-dusseldorf/2018432586,2018,28,2_liga
+Sandhausen,Greuther Fürth,0-0,https://www.besoccer.com/match/sv-sandhausen/greuther-furth/2018432595,2018,29,2_liga
+Fortuna Düsseldorf,VfL Bochum,1-2,https://www.besoccer.com/match/fortuna-dusseldorf/bochum/2018432596,2018,29,2_liga
+Holstein Kiel,Darmstadt 98,0-0,https://www.besoccer.com/match/holstein-kiel/darmstadt-98/2018432591,2018,29,2_liga
+Nürnberg,Heidenheim,3-2,https://www.besoccer.com/match/fc-nurnberg/heidenheim/2018432593,2018,29,2_liga
+Erzgebirge Aue,FC St. Pauli,2-1,https://www.besoccer.com/match/fc-erzgebirge-aue/st-pauli/2018432594,2018,29,2_liga
+Union Berlin,MSV Duisburg,0-0,https://www.besoccer.com/match/1-fc-union-berlin/msv-duisburg/2018432598,2018,29,2_liga
+Braunschweig,Dynamo Dresden,1-1,https://www.besoccer.com/match/eintracht-brau-hellip/sg-dynamo-dresden/2018432592,2018,29,2_liga
+Ingolstadt 04,Arminia Bielefeld,2-2,https://www.besoccer.com/match/fc-ingolstadt-04/arminia-bielefeld/2018432597,2018,29,2_liga
+Kaiserslautern,Jahn Regensburg,1-1,https://www.besoccer.com/match/kaiserslautern/ssv-jahn-regensburg/2018432599,2018,29,2_liga
+Greuther Fürth,Jahn Regensburg,1-2,https://www.besoccer.com/match/greuther-furth/ssv-jahn-regensburg/2018432608,2018,30,2_liga
+VfL Bochum,Kaiserslautern,3-2,https://www.besoccer.com/match/bochum/kaiserslautern/2018432605,2018,30,2_liga
+FC St. Pauli,Union Berlin,0-1,https://www.besoccer.com/match/st-pauli/1-fc-union-berlin/2018432601,2018,30,2_liga
+MSV Duisburg,Sandhausen,0-2,https://www.besoccer.com/match/msv-duisburg/sv-sandhausen/2018432602,2018,30,2_liga
+Arminia Bielefeld,Erzgebirge Aue,2-0,https://www.besoccer.com/match/arminia-bielefeld/fc-erzgebirge-aue/2018432606,2018,30,2_liga
+Dynamo Dresden,Holstein Kiel,0-4,https://www.besoccer.com/match/sg-dynamo-dresden/holstein-kiel/2018432607,2018,30,2_liga
+Darmstadt 98,Braunschweig,1-1,https://www.besoccer.com/match/darmstadt-98/eintracht-brau-hellip/2018432600,2018,30,2_liga
+Heidenheim,Fortuna Düsseldorf,3-1,https://www.besoccer.com/match/heidenheim/fortuna-dusseldorf/2018432603,2018,30,2_liga
+Ingolstadt 04,Nürnberg,1-1,https://www.besoccer.com/match/fc-ingolstadt-04/fc-nurnberg/2018432604,2018,30,2_liga
+Greuther Fürth,VfL Bochum,1-1,https://www.besoccer.com/match/greuther-furth/bochum/2018432614,2018,31,2_liga
+Braunschweig,Arminia Bielefeld,0-0,https://www.besoccer.com/match/eintracht-brau-hellip/arminia-bielefeld/2018432616,2018,31,2_liga
+Sandhausen,Darmstadt 98,1-1,https://www.besoccer.com/match/sv-sandhausen/darmstadt-98/2018432610,2018,31,2_liga
+Union Berlin,Heidenheim,1-1,https://www.besoccer.com/match/1-fc-union-berlin/heidenheim/2018432612,2018,31,2_liga
+Jahn Regensburg,FC St. Pauli,3-1,https://www.besoccer.com/match/ssv-jahn-regensburg/st-pauli/2018432613,2018,31,2_liga
+Fortuna Düsseldorf,Ingolstadt 04,3-0,https://www.besoccer.com/match/fortuna-dusseldorf/fc-ingolstadt-04/2018432609,2018,31,2_liga
+Kaiserslautern,Dynamo Dresden,0-1,https://www.besoccer.com/match/kaiserslautern/sg-dynamo-dresden/2018432611,2018,31,2_liga
+Erzgebirge Aue,MSV Duisburg,1-3,https://www.besoccer.com/match/fc-erzgebirge-aue/msv-duisburg/2018432617,2018,31,2_liga
+Holstein Kiel,Nürnberg,1-3,https://www.besoccer.com/match/holstein-kiel/fc-nurnberg/2018432615,2018,31,2_liga
+VfL Bochum,Erzgebirge Aue,2-1,https://www.besoccer.com/match/bochum/fc-erzgebirge-aue/2018432624,2018,32,2_liga
+Arminia Bielefeld,Kaiserslautern,3-2,https://www.besoccer.com/match/arminia-bielefeld/kaiserslautern/2018432623,2018,32,2_liga
+Darmstadt 98,Union Berlin,3-1,https://www.besoccer.com/match/darmstadt-98/1-fc-union-berlin/2018432619,2018,32,2_liga
+FC St. Pauli,Greuther Fürth,3-0,https://www.besoccer.com/match/st-pauli/greuther-furth/2018432620,2018,32,2_liga
+Dynamo Dresden,Fortuna Düsseldorf,1-2,https://www.besoccer.com/match/sg-dynamo-dresden/fortuna-dusseldorf/2018432622,2018,32,2_liga
+Heidenheim,Sandhausen,2-0,https://www.besoccer.com/match/heidenheim/sv-sandhausen/2018432621,2018,32,2_liga
+Ingolstadt 04,Holstein Kiel,1-5,https://www.besoccer.com/match/fc-ingolstadt-04/holstein-kiel/2018432625,2018,32,2_liga
+MSV Duisburg,Jahn Regensburg,4-1,https://www.besoccer.com/match/msv-duisburg/ssv-jahn-regensburg/2018432626,2018,32,2_liga
+Nürnberg,Braunschweig,2-0,https://www.besoccer.com/match/fc-nurnberg/eintracht-brau-hellip/2018432618,2018,32,2_liga
+Braunschweig,Ingolstadt 04,0-2,https://www.besoccer.com/match/eintracht-brau-hellip/fc-ingolstadt-04/2018432627,2018,33,2_liga
+Jahn Regensburg,Darmstadt 98,0-3,https://www.besoccer.com/match/ssv-jahn-regensburg/darmstadt-98/2018432628,2018,33,2_liga
+Erzgebirge Aue,Dynamo Dresden,0-0,https://www.besoccer.com/match/fc-erzgebirge-aue/sg-dynamo-dresden/2018432629,2018,33,2_liga
+Kaiserslautern,Heidenheim,1-0,https://www.besoccer.com/match/kaiserslautern/heidenheim/2018432630,2018,33,2_liga
+Union Berlin,VfL Bochum,3-1,https://www.besoccer.com/match/1-fc-union-berlin/bochum/2018432631,2018,33,2_liga
+Sandhausen,Nürnberg,0-2,https://www.besoccer.com/match/sv-sandhausen/fc-nurnberg/2018432632,2018,33,2_liga
+FC St. Pauli,Arminia Bielefeld,1-0,https://www.besoccer.com/match/st-pauli/arminia-bielefeld/2018432633,2018,33,2_liga
+Greuther Fürth,MSV Duisburg,2-2,https://www.besoccer.com/match/greuther-furth/msv-duisburg/2018432634,2018,33,2_liga
+Fortuna Düsseldorf,Holstein Kiel,1-1,https://www.besoccer.com/match/fortuna-dusseldorf/holstein-kiel/2018432635,2018,33,2_liga
+Holstein Kiel,Braunschweig,6-2,https://www.besoccer.com/match/holstein-kiel/eintracht-brau-hellip/2018432636,2018,34,2_liga
+Dynamo Dresden,Union Berlin,0-1,https://www.besoccer.com/match/sg-dynamo-dresden/1-fc-union-berlin/2018432637,2018,34,2_liga
+MSV Duisburg,FC St. Pauli,2-0,https://www.besoccer.com/match/msv-duisburg/st-pauli/2018432638,2018,34,2_liga
+Heidenheim,Greuther Fürth,1-1,https://www.besoccer.com/match/heidenheim/greuther-furth/2018432639,2018,34,2_liga
+Arminia Bielefeld,Sandhausen,0-0,https://www.besoccer.com/match/arminia-bielefeld/sv-sandhausen/2018432640,2018,34,2_liga
+Nürnberg,Fortuna Düsseldorf,2-3,https://www.besoccer.com/match/fc-nurnberg/fortuna-dusseldorf/2018432641,2018,34,2_liga
+Ingolstadt 04,Kaiserslautern,1-3,https://www.besoccer.com/match/fc-ingolstadt-04/kaiserslautern/2018432642,2018,34,2_liga
+Darmstadt 98,Erzgebirge Aue,1-0,https://www.besoccer.com/match/darmstadt-98/fc-erzgebirge-aue/2018432643,2018,34,2_liga
+VfL Bochum,Jahn Regensburg,1-1,https://www.besoccer.com/match/bochum/ssv-jahn-regensburg/2018432644,2018,34,2_liga

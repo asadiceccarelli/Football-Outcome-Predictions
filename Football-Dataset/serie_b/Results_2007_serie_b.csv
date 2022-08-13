@@ -1,0 +1,463 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+AC Arezzo,Mantova,1-1,https://www.besoccer.com/match/ac-arezzo/ac-mantova/200717406,2007,1,serie_b
+Spezia,Cesena,1-1,https://www.besoccer.com/match/asd-spezia/ac-cesena/200717396,2007,1,serie_b
+Napoli,Treviso,4-2,https://www.besoccer.com/match/napoli/treviso/200717397,2007,1,serie_b
+Vicenza ,Genoa,1-2,https://www.besoccer.com/match/vicenza-calcio/genoa/200717398,2007,1,serie_b
+Modena,Hellas Verona,0-1,https://www.besoccer.com/match/modena-fc/hellas-verona-fc/200717399,2007,1,serie_b
+Triestina ,Frosinone,1-0,https://www.besoccer.com/match/us-triestina-calcio/frosinone-calcio/200717400,2007,1,serie_b
+Lecce,AlbinoLeffe,3-1,https://www.besoccer.com/match/lecce/uc-albinoleffe/200717401,2007,1,serie_b
+Crotone,SSC Bari,3-2,https://www.besoccer.com/match/fc-crotone/as-bari/200717402,2007,1,serie_b
+Rimini,Juventus,1-1,https://www.besoccer.com/match/rimini-calcio/juventus-fc/200717403,2007,1,serie_b
+Brescia,Piacenza,2-0,https://www.besoccer.com/match/brescia/piacenza/200717404,2007,1,serie_b
+Pescara,Bologna,0-1,https://www.besoccer.com/match/pescara-calcio/bologna/200717405,2007,1,serie_b
+AlbinoLeffe,Modena,0-0,https://www.besoccer.com/match/uc-albinoleffe/modena-fc/200717395,2007,2,serie_b
+SSC Bari,Brescia,1-1,https://www.besoccer.com/match/as-bari/brescia/200717394,2007,2,serie_b
+Juventus,Vicenza ,2-1,https://www.besoccer.com/match/juventus-fc/vicenza-calcio/200717385,2007,2,serie_b
+Frosinone,AC Arezzo,0-0,https://www.besoccer.com/match/frosinone-calcio/ac-arezzo/200717386,2007,2,serie_b
+Genoa,Rimini,2-1,https://www.besoccer.com/match/genoa/rimini-calcio/200717387,2007,2,serie_b
+Hellas Verona,Lecce,1-1,https://www.besoccer.com/match/hellas-verona-fc/lecce/200717388,2007,2,serie_b
+Cesena,Crotone,3-1,https://www.besoccer.com/match/ac-cesena/fc-crotone/200717389,2007,2,serie_b
+Treviso,Triestina ,0-0,https://www.besoccer.com/match/treviso/us-triestina-calcio/200717390,2007,2,serie_b
+Bologna,Spezia,2-1,https://www.besoccer.com/match/bologna/asd-spezia/200717391,2007,2,serie_b
+Piacenza,Napoli,2-1,https://www.besoccer.com/match/piacenza/napoli/200717392,2007,2,serie_b
+Mantova,Pescara,2-1,https://www.besoccer.com/match/ac-mantova/pescara-calcio/200717393,2007,2,serie_b
+Pescara,SSC Bari,0-1,https://www.besoccer.com/match/pescara-calcio/as-bari/200717376,2007,3,serie_b
+Modena,Genoa,2-0,https://www.besoccer.com/match/modena-fc/genoa/200717377,2007,3,serie_b
+Triestina ,AlbinoLeffe,1-2,https://www.besoccer.com/match/us-triestina-calcio/uc-albinoleffe/200717378,2007,3,serie_b
+Lecce,Mantova,2-0,https://www.besoccer.com/match/lecce/ac-mantova/200717379,2007,3,serie_b
+Crotone,Juventus,0-3,https://www.besoccer.com/match/fc-crotone/juventus-fc/200717380,2007,3,serie_b
+Rimini,Frosinone,2-1,https://www.besoccer.com/match/rimini-calcio/frosinone-calcio/200717381,2007,3,serie_b
+Brescia,Treviso,2-1,https://www.besoccer.com/match/brescia/treviso/200717382,2007,3,serie_b
+Piacenza,Bologna,1-0,https://www.besoccer.com/match/piacenza/bologna/200717383,2007,3,serie_b
+AC Arezzo,Napoli,0-0,https://www.besoccer.com/match/ac-arezzo/napoli/200717384,2007,3,serie_b
+Spezia,Hellas Verona,1-0,https://www.besoccer.com/match/asd-spezia/hellas-verona-fc/200717374,2007,3,serie_b
+Vicenza ,Cesena,0-1,https://www.besoccer.com/match/vicenza-calcio/ac-cesena/200717375,2007,3,serie_b
+Hellas Verona,Brescia,0-1,https://www.besoccer.com/match/hellas-verona-fc/brescia/200717365,2007,4,serie_b
+Frosinone,Spezia,2-2,https://www.besoccer.com/match/frosinone-calcio/asd-spezia/200717366,2007,4,serie_b
+Cesena,Pescara,3-3,https://www.besoccer.com/match/ac-cesena/pescara-calcio/200717367,2007,4,serie_b
+Napoli,Triestina ,1-1,https://www.besoccer.com/match/napoli/us-triestina-calcio/200717368,2007,4,serie_b
+Mantova,Crotone,3-0,https://www.besoccer.com/match/ac-mantova/fc-crotone/200717369,2007,4,serie_b
+SSC Bari,Vicenza ,0-0,https://www.besoccer.com/match/as-bari/vicenza-calcio/200717370,2007,4,serie_b
+Juventus,Modena,4-0,https://www.besoccer.com/match/juventus-fc/modena-fc/200717371,2007,4,serie_b
+AlbinoLeffe,AC Arezzo,0-0,https://www.besoccer.com/match/uc-albinoleffe/ac-arezzo/200717372,2007,4,serie_b
+Genoa,Piacenza,2-0,https://www.besoccer.com/match/genoa/piacenza/200717373,2007,4,serie_b
+Bologna,Rimini,1-3,https://www.besoccer.com/match/bologna/rimini-calcio/200717363,2007,4,serie_b
+Treviso,Lecce,1-0,https://www.besoccer.com/match/treviso/lecce/200717364,2007,4,serie_b
+AC Arezzo,SSC Bari,0-1,https://www.besoccer.com/match/ac-arezzo/as-bari/200717362,2007,5,serie_b
+Lecce,Genoa,3-2,https://www.besoccer.com/match/lecce/genoa/200717353,2007,5,serie_b
+Crotone,Treviso,0-2,https://www.besoccer.com/match/fc-crotone/treviso/200717354,2007,5,serie_b
+Spezia,Napoli,0-1,https://www.besoccer.com/match/asd-spezia/napoli/200717355,2007,5,serie_b
+Brescia,AlbinoLeffe,1-1,https://www.besoccer.com/match/brescia/uc-albinoleffe/200717356,2007,5,serie_b
+Rimini,Modena,1-1,https://www.besoccer.com/match/rimini-calcio/modena-fc/200717357,2007,5,serie_b
+Bologna,Cesena,1-1,https://www.besoccer.com/match/bologna/ac-cesena/200717358,2007,5,serie_b
+Piacenza,Juventus,0-2,https://www.besoccer.com/match/piacenza/juventus-fc/200717359,2007,5,serie_b
+Pescara,Hellas Verona,0-0,https://www.besoccer.com/match/pescara-calcio/hellas-verona-fc/200717360,2007,5,serie_b
+Vicenza ,Frosinone,1-2,https://www.besoccer.com/match/vicenza-calcio/frosinone-calcio/200717361,2007,5,serie_b
+Triestina ,Mantova,0-0,https://www.besoccer.com/match/us-triestina-calcio/ac-mantova/200717352,2007,5,serie_b
+Genoa,AC Arezzo,3-0,https://www.besoccer.com/match/genoa/ac-arezzo/200717345,2007,6,serie_b
+Treviso,Piacenza,1-1,https://www.besoccer.com/match/treviso/piacenza/200717346,2007,6,serie_b
+Napoli,Rimini,1-0,https://www.besoccer.com/match/napoli/rimini-calcio/200717347,2007,6,serie_b
+Modena,Pescara,2-0,https://www.besoccer.com/match/modena-fc/pescara-calcio/200717348,2007,6,serie_b
+Mantova,Vicenza ,2-0,https://www.besoccer.com/match/ac-mantova/vicenza-calcio/200717349,2007,6,serie_b
+AlbinoLeffe,Spezia,0-0,https://www.besoccer.com/match/uc-albinoleffe/asd-spezia/200717350,2007,6,serie_b
+Hellas Verona,Crotone,0-0,https://www.besoccer.com/match/hellas-verona-fc/fc-crotone/200717351,2007,6,serie_b
+SSC Bari,Bologna,2-0,https://www.besoccer.com/match/as-bari/bologna/200717344,2007,6,serie_b
+Frosinone,Lecce,2-1,https://www.besoccer.com/match/frosinone-calcio/lecce/200717343,2007,6,serie_b
+Cesena,Triestina ,0-1,https://www.besoccer.com/match/ac-cesena/us-triestina-calcio/200717341,2007,6,serie_b
+Juventus,Brescia,2-0,https://www.besoccer.com/match/juventus-fc/brescia/200717342,2007,6,serie_b
+Vicenza ,Napoli,1-1,https://www.besoccer.com/match/vicenza-calcio/napoli/200717340,2007,7,serie_b
+Cesena,SSC Bari,1-0,https://www.besoccer.com/match/ac-cesena/as-bari/200717331,2007,7,serie_b
+Brescia,Genoa,0-2,https://www.besoccer.com/match/brescia/genoa/200717332,2007,7,serie_b
+Spezia,Mantova,1-1,https://www.besoccer.com/match/asd-spezia/ac-mantova/200717333,2007,7,serie_b
+Bologna,Modena,2-0,https://www.besoccer.com/match/bologna/modena-fc/200717334,2007,7,serie_b
+Pescara,Frosinone,0-2,https://www.besoccer.com/match/pescara-calcio/frosinone-calcio/200717335,2007,7,serie_b
+AC Arezzo,Triestina ,0-1,https://www.besoccer.com/match/ac-arezzo/us-triestina-calcio/200717336,2007,7,serie_b
+Lecce,Rimini,1-2,https://www.besoccer.com/match/lecce/rimini-calcio/200717337,2007,7,serie_b
+Piacenza,Hellas Verona,1-0,https://www.besoccer.com/match/piacenza/hellas-verona-fc/200717338,2007,7,serie_b
+Crotone,AlbinoLeffe,1-1,https://www.besoccer.com/match/fc-crotone/uc-albinoleffe/200717339,2007,7,serie_b
+Treviso,Juventus,0-1,https://www.besoccer.com/match/treviso/juventus-fc/200717330,2007,7,serie_b
+Rimini,Brescia,2-0,https://www.besoccer.com/match/rimini-calcio/brescia/200717329,2007,8,serie_b
+Genoa,Cesena,4-3,https://www.besoccer.com/match/genoa/ac-cesena/200717320,2007,8,serie_b
+Frosinone,Piacenza,0-1,https://www.besoccer.com/match/frosinone-calcio/piacenza/200717321,2007,8,serie_b
+Pescara,Vicenza ,0-0,https://www.besoccer.com/match/pescara-calcio/vicenza-calcio/200717322,2007,8,serie_b
+SSC Bari,Treviso,2-0,https://www.besoccer.com/match/as-bari/treviso/200717323,2007,8,serie_b
+Napoli,Crotone,1-0,https://www.besoccer.com/match/napoli/fc-crotone/200717324,2007,8,serie_b
+AC Arezzo,Spezia,1-1,https://www.besoccer.com/match/ac-arezzo/asd-spezia/200717325,2007,8,serie_b
+Modena,Lecce,2-0,https://www.besoccer.com/match/modena-fc/lecce/200717326,2007,8,serie_b
+Mantova,Bologna,0-2,https://www.besoccer.com/match/ac-mantova/bologna/200717327,2007,8,serie_b
+Triestina ,Juventus,0-1,https://www.besoccer.com/match/us-triestina-calcio/juventus-fc/200717328,2007,8,serie_b
+Hellas Verona,AlbinoLeffe,0-1,https://www.besoccer.com/match/hellas-verona-fc/uc-albinoleffe/200717319,2007,8,serie_b
+Brescia,Modena,1-0,https://www.besoccer.com/match/brescia/modena-fc/200717318,2007,9,serie_b
+Cesena,AC Arezzo,2-0,https://www.besoccer.com/match/ac-cesena/ac-arezzo/200717309,2007,9,serie_b
+Spezia,Pescara,2-2,https://www.besoccer.com/match/asd-spezia/pescara-calcio/200717310,2007,9,serie_b
+Piacenza,SSC Bari,2-1,https://www.besoccer.com/match/piacenza/as-bari/200717311,2007,9,serie_b
+Bologna,Vicenza ,2-1,https://www.besoccer.com/match/bologna/vicenza-calcio/200717312,2007,9,serie_b
+Lecce,Triestina ,2-2,https://www.besoccer.com/match/lecce/us-triestina-calcio/200717313,2007,9,serie_b
+AlbinoLeffe,Napoli,1-0,https://www.besoccer.com/match/uc-albinoleffe/napoli/200717314,2007,9,serie_b
+Juventus,Frosinone,1-0,https://www.besoccer.com/match/juventus-fc/frosinone-calcio/200717315,2007,9,serie_b
+Crotone,Rimini,0-2,https://www.besoccer.com/match/fc-crotone/rimini-calcio/200717316,2007,9,serie_b
+Treviso,Mantova,1-1,https://www.besoccer.com/match/treviso/ac-mantova/200717317,2007,9,serie_b
+Hellas Verona,Genoa,1-1,https://www.besoccer.com/match/hellas-verona-fc/genoa/200717308,2007,9,serie_b
+Modena,Piacenza,1-2,https://www.besoccer.com/match/modena-fc/piacenza/200717307,2007,10,serie_b
+Rimini,AlbinoLeffe,1-1,https://www.besoccer.com/match/rimini-calcio/uc-albinoleffe/200717298,2007,10,serie_b
+Frosinone,Bologna,2-1,https://www.besoccer.com/match/frosinone-calcio/bologna/200717299,2007,10,serie_b
+Pescara,Treviso,2-2,https://www.besoccer.com/match/pescara-calcio/treviso/200717300,2007,10,serie_b
+SSC Bari,Spezia,2-0,https://www.besoccer.com/match/as-bari/asd-spezia/200717301,2007,10,serie_b
+AC Arezzo,Lecce,0-1,https://www.besoccer.com/match/ac-arezzo/lecce/200717302,2007,10,serie_b
+Vicenza ,Hellas Verona,0-1,https://www.besoccer.com/match/vicenza-calcio/hellas-verona-fc/200717303,2007,10,serie_b
+Mantova,Cesena,4-3,https://www.besoccer.com/match/ac-mantova/ac-cesena/200717304,2007,10,serie_b
+Triestina ,Brescia,0-0,https://www.besoccer.com/match/us-triestina-calcio/brescia/200717305,2007,10,serie_b
+Genoa,Crotone,1-1,https://www.besoccer.com/match/genoa/fc-crotone/200717306,2007,10,serie_b
+Napoli,Juventus,1-1,https://www.besoccer.com/match/napoli/juventus-fc/200717297,2007,10,serie_b
+Treviso,Rimini,1-0,https://www.besoccer.com/match/treviso/rimini-calcio/200717296,2007,11,serie_b
+Bologna,AC Arezzo,1-0,https://www.besoccer.com/match/bologna/ac-arezzo/200717287,2007,11,serie_b
+Piacenza,Lecce,3-2,https://www.besoccer.com/match/piacenza/lecce/200717288,2007,11,serie_b
+Juventus,Pescara,2-0,https://www.besoccer.com/match/juventus-fc/pescara-calcio/200717289,2007,11,serie_b
+AlbinoLeffe,Genoa,1-1,https://www.besoccer.com/match/uc-albinoleffe/genoa/200717290,2007,11,serie_b
+Crotone,Modena,3-0,https://www.besoccer.com/match/fc-crotone/modena-fc/200717291,2007,11,serie_b
+Hellas Verona,Triestina ,0-1,https://www.besoccer.com/match/hellas-verona-fc/us-triestina-calcio/200717292,2007,11,serie_b
+Cesena,Frosinone,2-1,https://www.besoccer.com/match/ac-cesena/frosinone-calcio/200717293,2007,11,serie_b
+Brescia,Mantova,0-0,https://www.besoccer.com/match/brescia/ac-mantova/200717294,2007,11,serie_b
+Spezia,Vicenza ,1-0,https://www.besoccer.com/match/asd-spezia/vicenza-calcio/200717295,2007,11,serie_b
+SSC Bari,Napoli,0-1,https://www.besoccer.com/match/as-bari/napoli/200717286,2007,11,serie_b
+Triestina ,Pescara,2-1,https://www.besoccer.com/match/us-triestina-calcio/pescara-calcio/200717285,2007,12,serie_b
+Frosinone,SSC Bari,1-0,https://www.besoccer.com/match/frosinone-calcio/as-bari/200717276,2007,12,serie_b
+Napoli,Bologna,1-0,https://www.besoccer.com/match/napoli/bologna/200717277,2007,12,serie_b
+AC Arezzo,Brescia,0-2,https://www.besoccer.com/match/ac-arezzo/brescia/200717278,2007,12,serie_b
+Modena,Cesena,0-1,https://www.besoccer.com/match/modena-fc/ac-cesena/200717279,2007,12,serie_b
+AlbinoLeffe,Juventus,1-1,https://www.besoccer.com/match/uc-albinoleffe/juventus-fc/200717280,2007,12,serie_b
+Vicenza ,Treviso,2-2,https://www.besoccer.com/match/vicenza-calcio/treviso/200717281,2007,12,serie_b
+Lecce,Crotone,0-1,https://www.besoccer.com/match/lecce/fc-crotone/200717282,2007,12,serie_b
+Genoa,Spezia,1-2,https://www.besoccer.com/match/genoa/asd-spezia/200717283,2007,12,serie_b
+Rimini,Hellas Verona,3-0,https://www.besoccer.com/match/rimini-calcio/hellas-verona-fc/200717284,2007,12,serie_b
+Mantova,Piacenza,1-0,https://www.besoccer.com/match/ac-mantova/piacenza/200717275,2007,12,serie_b
+Bologna,Genoa,3-1,https://www.besoccer.com/match/bologna/genoa/200717274,2007,13,serie_b
+Piacenza,AlbinoLeffe,1-1,https://www.besoccer.com/match/piacenza/uc-albinoleffe/200717265,2007,13,serie_b
+Pescara,Napoli,0-1,https://www.besoccer.com/match/pescara-calcio/napoli/200717266,2007,13,serie_b
+SSC Bari,Triestina ,0-0,https://www.besoccer.com/match/as-bari/us-triestina-calcio/200717267,2007,13,serie_b
+Juventus,Lecce,4-1,https://www.besoccer.com/match/juventus-fc/lecce/200717268,2007,13,serie_b
+Vicenza ,AC Arezzo,2-0,https://www.besoccer.com/match/vicenza-calcio/ac-arezzo/200717269,2007,13,serie_b
+Treviso,Hellas Verona,1-1,https://www.besoccer.com/match/treviso/hellas-verona-fc/200717270,2007,13,serie_b
+Cesena,Rimini,1-1,https://www.besoccer.com/match/ac-cesena/rimini-calcio/200717271,2007,13,serie_b
+Spezia,Modena,0-1,https://www.besoccer.com/match/asd-spezia/modena-fc/200717272,2007,13,serie_b
+Brescia,Crotone,2-2,https://www.besoccer.com/match/brescia/fc-crotone/200717273,2007,13,serie_b
+Frosinone,Mantova,1-1,https://www.besoccer.com/match/frosinone-calcio/ac-mantova/200717264,2007,13,serie_b
+Genoa,Juventus,1-1,https://www.besoccer.com/match/genoa/juventus-fc/200717263,2007,14,serie_b
+AC Arezzo,Pescara,4-1,https://www.besoccer.com/match/ac-arezzo/pescara-calcio/200717254,2007,14,serie_b
+Modena,Treviso,1-0,https://www.besoccer.com/match/modena-fc/treviso/200717255,2007,14,serie_b
+AlbinoLeffe,Cesena,3-3,https://www.besoccer.com/match/uc-albinoleffe/ac-cesena/200717256,2007,14,serie_b
+Mantova,SSC Bari,0-0,https://www.besoccer.com/match/ac-mantova/as-bari/200717257,2007,14,serie_b
+Hellas Verona,Bologna,0-1,https://www.besoccer.com/match/hellas-verona-fc/bologna/200717258,2007,14,serie_b
+Triestina ,Spezia,2-1,https://www.besoccer.com/match/us-triestina-calcio/asd-spezia/200717259,2007,14,serie_b
+Rimini,Vicenza ,1-1,https://www.besoccer.com/match/rimini-calcio/vicenza-calcio/200717260,2007,14,serie_b
+Crotone,Piacenza,0-0,https://www.besoccer.com/match/fc-crotone/piacenza/200717261,2007,14,serie_b
+Napoli,Frosinone,1-1,https://www.besoccer.com/match/napoli/frosinone-calcio/200717262,2007,14,serie_b
+Lecce,Brescia,2-1,https://www.besoccer.com/match/lecce/brescia/200717253,2007,14,serie_b
+Spezia,Crotone,2-1,https://www.besoccer.com/match/asd-spezia/fc-crotone/200717252,2007,15,serie_b
+Bologna,Lecce,3-1,https://www.besoccer.com/match/bologna/lecce/200717243,2007,15,serie_b
+Pescara,Rimini,0-5,https://www.besoccer.com/match/pescara-calcio/rimini-calcio/200717244,2007,15,serie_b
+SSC Bari,Modena,1-0,https://www.besoccer.com/match/as-bari/modena-fc/200717245,2007,15,serie_b
+Mantova,AlbinoLeffe,0-0,https://www.besoccer.com/match/ac-mantova/uc-albinoleffe/200717246,2007,15,serie_b
+Vicenza ,Triestina ,3-0,https://www.besoccer.com/match/vicenza-calcio/us-triestina-calcio/200717247,2007,15,serie_b
+Juventus,Hellas Verona,1-0,https://www.besoccer.com/match/juventus-fc/hellas-verona-fc/200717248,2007,15,serie_b
+Treviso,Genoa,2-3,https://www.besoccer.com/match/treviso/genoa/200717249,2007,15,serie_b
+Frosinone,Brescia,2-1,https://www.besoccer.com/match/frosinone-calcio/brescia/200717250,2007,15,serie_b
+Piacenza,AC Arezzo,1-0,https://www.besoccer.com/match/piacenza/ac-arezzo/200717251,2007,15,serie_b
+Cesena,Napoli,1-1,https://www.besoccer.com/match/ac-cesena/napoli/200717242,2007,15,serie_b
+Crotone,Pescara,2-2,https://www.besoccer.com/match/fc-crotone/pescara-calcio/200717241,2007,16,serie_b
+Modena,Vicenza ,1-1,https://www.besoccer.com/match/modena-fc/vicenza-calcio/200717232,2007,16,serie_b
+AlbinoLeffe,Treviso,3-1,https://www.besoccer.com/match/uc-albinoleffe/treviso/200717233,2007,16,serie_b
+Hellas Verona,AC Arezzo,0-1,https://www.besoccer.com/match/hellas-verona-fc/ac-arezzo/200717235,2007,16,serie_b
+Triestina ,Bologna,1-3,https://www.besoccer.com/match/us-triestina-calcio/bologna/200717236,2007,16,serie_b
+Genoa,Frosinone,3-2,https://www.besoccer.com/match/genoa/frosinone-calcio/200717237,2007,16,serie_b
+Rimini,Piacenza,2-0,https://www.besoccer.com/match/rimini-calcio/piacenza/200717238,2007,16,serie_b
+Napoli,Mantova,0-0,https://www.besoccer.com/match/napoli/ac-mantova/200717239,2007,16,serie_b
+Brescia,Spezia,1-1,https://www.besoccer.com/match/brescia/asd-spezia/200717240,2007,16,serie_b
+Lecce,SSC Bari,1-3,https://www.besoccer.com/match/lecce/as-bari/200717234,2007,16,serie_b
+Juventus,Cesena,2-1,https://www.besoccer.com/match/juventus-fc/ac-cesena/200717231,2007,16,serie_b
+AC Arezzo,Crotone,0-0,https://www.besoccer.com/match/ac-arezzo/fc-crotone/200717220,2007,17,serie_b
+Mantova,Modena,1-0,https://www.besoccer.com/match/ac-mantova/modena-fc/200717221,2007,17,serie_b
+Vicenza ,AlbinoLeffe,0-1,https://www.besoccer.com/match/vicenza-calcio/uc-albinoleffe/200717222,2007,17,serie_b
+Frosinone,Hellas Verona,2-1,https://www.besoccer.com/match/frosinone-calcio/hellas-verona-fc/200717223,2007,17,serie_b
+Triestina ,Genoa,0-1,https://www.besoccer.com/match/us-triestina-calcio/genoa/200717224,2007,17,serie_b
+Cesena,Treviso,0-0,https://www.besoccer.com/match/ac-cesena/treviso/200717225,2007,17,serie_b
+Spezia,Lecce,0-2,https://www.besoccer.com/match/asd-spezia/lecce/200717226,2007,17,serie_b
+Bologna,Juventus,0-1,https://www.besoccer.com/match/bologna/juventus-fc/200717227,2007,17,serie_b
+Pescara,Piacenza,0-2,https://www.besoccer.com/match/pescara-calcio/piacenza/200717228,2007,17,serie_b
+SSC Bari,Rimini,2-2,https://www.besoccer.com/match/as-bari/rimini-calcio/200717229,2007,17,serie_b
+Napoli,Brescia,3-1,https://www.besoccer.com/match/napoli/brescia/200717230,2007,17,serie_b
+AlbinoLeffe,Pescara,0-0,https://www.besoccer.com/match/uc-albinoleffe/pescara-calcio/200717210,2007,18,serie_b
+Lecce,Vicenza ,1-2,https://www.besoccer.com/match/lecce/vicenza-calcio/200717211,2007,18,serie_b
+Hellas Verona,Mantova,0-3,https://www.besoccer.com/match/hellas-verona-fc/ac-mantova/200717212,2007,18,serie_b
+Juventus,AC Arezzo,2-2,https://www.besoccer.com/match/juventus-fc/ac-arezzo/200717213,2007,18,serie_b
+Treviso,Frosinone,3-0,https://www.besoccer.com/match/treviso/frosinone-calcio/200717214,2007,18,serie_b
+Genoa,SSC Bari,0-0,https://www.besoccer.com/match/genoa/as-bari/200717215,2007,18,serie_b
+Rimini,Spezia,2-1,https://www.besoccer.com/match/rimini-calcio/asd-spezia/200717216,2007,18,serie_b
+Piacenza,Cesena,4-0,https://www.besoccer.com/match/piacenza/ac-cesena/200717217,2007,18,serie_b
+Brescia,Bologna,1-1,https://www.besoccer.com/match/brescia/bologna/200717218,2007,18,serie_b
+Modena,Napoli,0-0,https://www.besoccer.com/match/modena-fc/napoli/200717219,2007,18,serie_b
+Crotone,Triestina ,0-0,https://www.besoccer.com/match/fc-crotone/us-triestina-calcio/200717209,2007,18,serie_b
+Spezia,Piacenza,3-3,https://www.besoccer.com/match/asd-spezia/piacenza/200717208,2007,19,serie_b
+Mantova,Juventus,1-0,https://www.besoccer.com/match/ac-mantova/juventus-fc/200717199,2007,19,serie_b
+Vicenza ,Brescia,1-3,https://www.besoccer.com/match/vicenza-calcio/brescia/200717200,2007,19,serie_b
+Frosinone,Crotone,1-1,https://www.besoccer.com/match/frosinone-calcio/fc-crotone/200717201,2007,19,serie_b
+Triestina ,Modena,1-0,https://www.besoccer.com/match/us-triestina-calcio/modena-fc/200717202,2007,19,serie_b
+Cesena,Lecce,0-0,https://www.besoccer.com/match/ac-cesena/lecce/200717203,2007,19,serie_b
+Bologna,Treviso,0-0,https://www.besoccer.com/match/bologna/treviso/200717204,2007,19,serie_b
+Pescara,Genoa,2-1,https://www.besoccer.com/match/pescara-calcio/genoa/200717205,2007,19,serie_b
+SSC Bari,AlbinoLeffe,0-0,https://www.besoccer.com/match/as-bari/uc-albinoleffe/200717206,2007,19,serie_b
+Napoli,Hellas Verona,1-0,https://www.besoccer.com/match/napoli/hellas-verona-fc/200717207,2007,19,serie_b
+AC Arezzo,Rimini,4-1,https://www.besoccer.com/match/ac-arezzo/rimini-calcio/200717198,2007,19,serie_b
+Genoa,Mantova,2-1,https://www.besoccer.com/match/genoa/ac-mantova/200717197,2007,20,serie_b
+Hellas Verona,Cesena,2-1,https://www.besoccer.com/match/hellas-verona-fc/ac-cesena/200717188,2007,20,serie_b
+Juventus,SSC Bari,4-2,https://www.besoccer.com/match/juventus-fc/as-bari/200717189,2007,20,serie_b
+Treviso,Spezia,3-0,https://www.besoccer.com/match/treviso/asd-spezia/200717190,2007,20,serie_b
+Rimini,Triestina ,1-1,https://www.besoccer.com/match/rimini-calcio/us-triestina-calcio/200717191,2007,20,serie_b
+Crotone,Bologna,0-0,https://www.besoccer.com/match/fc-crotone/bologna/200717192,2007,20,serie_b
+Piacenza,Vicenza ,0-3,https://www.besoccer.com/match/piacenza/vicenza-calcio/200717193,2007,20,serie_b
+Brescia,Pescara,2-1,https://www.besoccer.com/match/brescia/pescara-calcio/200717194,2007,20,serie_b
+AlbinoLeffe,Frosinone,1-1,https://www.besoccer.com/match/uc-albinoleffe/frosinone-calcio/200717195,2007,20,serie_b
+Lecce,Napoli,1-1,https://www.besoccer.com/match/lecce/napoli/200717196,2007,20,serie_b
+Modena,AC Arezzo,1-1,https://www.besoccer.com/match/modena-fc/ac-arezzo/200717187,2007,20,serie_b
+Pescara,Lecce,2-1,https://www.besoccer.com/match/pescara-calcio/lecce/200717186,2007,21,serie_b
+Frosinone,Modena,0-0,https://www.besoccer.com/match/frosinone-calcio/modena-fc/200717177,2007,21,serie_b
+Triestina ,Piacenza,0-0,https://www.besoccer.com/match/us-triestina-calcio/piacenza/200717178,2007,21,serie_b
+Cesena,Brescia,2-1,https://www.besoccer.com/match/ac-cesena/brescia/200717179,2007,21,serie_b
+Spezia,Juventus,1-1,https://www.besoccer.com/match/asd-spezia/juventus-fc/200717180,2007,21,serie_b
+Bologna,AlbinoLeffe,1-0,https://www.besoccer.com/match/bologna/uc-albinoleffe/200717181,2007,21,serie_b
+SSC Bari,Hellas Verona,0-1,https://www.besoccer.com/match/as-bari/hellas-verona-fc/200717182,2007,21,serie_b
+AC Arezzo,Treviso,1-2,https://www.besoccer.com/match/ac-arezzo/treviso/200717183,2007,21,serie_b
+Mantova,Rimini,2-1,https://www.besoccer.com/match/ac-mantova/rimini-calcio/200717184,2007,21,serie_b
+Vicenza ,Crotone,1-0,https://www.besoccer.com/match/vicenza-calcio/fc-crotone/200717185,2007,21,serie_b
+Napoli,Genoa,1-1,https://www.besoccer.com/match/napoli/genoa/200717176,2007,21,serie_b
+Cesena,Spezia,1-0,https://www.besoccer.com/match/ac-cesena/asd-spezia/200717175,2007,22,serie_b
+Treviso,Napoli,0-3,https://www.besoccer.com/match/treviso/napoli/200717167,2007,22,serie_b
+Genoa,Vicenza ,2-0,https://www.besoccer.com/match/genoa/vicenza-calcio/200717168,2007,22,serie_b
+Hellas Verona,Modena,1-1,https://www.besoccer.com/match/hellas-verona-fc/modena-fc/200717169,2007,22,serie_b
+Frosinone,Triestina ,2-0,https://www.besoccer.com/match/frosinone-calcio/us-triestina-calcio/200717170,2007,22,serie_b
+AlbinoLeffe,Lecce,0-0,https://www.besoccer.com/match/uc-albinoleffe/lecce/200717171,2007,22,serie_b
+SSC Bari,Crotone,2-1,https://www.besoccer.com/match/as-bari/fc-crotone/200717172,2007,22,serie_b
+Piacenza,Brescia,1-2,https://www.besoccer.com/match/piacenza/brescia/200717173,2007,22,serie_b
+Bologna,Pescara,2-1,https://www.besoccer.com/match/bologna/pescara-calcio/200717174,2007,22,serie_b
+Juventus,Rimini,0-0,https://www.besoccer.com/match/juventus-fc/rimini-calcio/200717165,2007,22,serie_b
+Mantova,AC Arezzo,1-1,https://www.besoccer.com/match/ac-mantova/ac-arezzo/200717166,2007,22,serie_b
+AC Arezzo,Frosinone,0-0,https://www.besoccer.com/match/ac-arezzo/frosinone-calcio/200717154,2007,23,serie_b
+Rimini,Genoa,1-0,https://www.besoccer.com/match/rimini-calcio/genoa/200717155,2007,23,serie_b
+Crotone,Cesena,1-2,https://www.besoccer.com/match/fc-crotone/ac-cesena/200717157,2007,23,serie_b
+Napoli,Piacenza,1-0,https://www.besoccer.com/match/napoli/piacenza/200717160,2007,23,serie_b
+Pescara,Mantova,0-0,https://www.besoccer.com/match/pescara-calcio/ac-mantova/200717162,2007,23,serie_b
+Vicenza ,Juventus,2-2,https://www.besoccer.com/match/vicenza-calcio/juventus-fc/200717164,2007,23,serie_b
+Lecce,Hellas Verona,2-0,https://www.besoccer.com/match/lecce/hellas-verona-fc/200717156,2007,23,serie_b
+Triestina ,Treviso,1-2,https://www.besoccer.com/match/us-triestina-calcio/treviso/200717158,2007,23,serie_b
+Spezia,Bologna,2-0,https://www.besoccer.com/match/asd-spezia/bologna/200717159,2007,23,serie_b
+Brescia,SSC Bari,0-0,https://www.besoccer.com/match/brescia/as-bari/200717161,2007,23,serie_b
+Modena,AlbinoLeffe,0-3,https://www.besoccer.com/match/modena-fc/uc-albinoleffe/200717163,2007,23,serie_b
+AlbinoLeffe,Triestina ,2-1,https://www.besoccer.com/match/uc-albinoleffe/us-triestina-calcio/200717145,2007,24,serie_b
+Genoa,Modena,1-0,https://www.besoccer.com/match/genoa/modena-fc/200717144,2007,24,serie_b
+Mantova,Lecce,4-0,https://www.besoccer.com/match/ac-mantova/lecce/200717146,2007,24,serie_b
+Hellas Verona,Spezia,1-1,https://www.besoccer.com/match/hellas-verona-fc/asd-spezia/200717147,2007,24,serie_b
+Juventus,Crotone,5-0,https://www.besoccer.com/match/juventus-fc/fc-crotone/200717148,2007,24,serie_b
+Frosinone,Rimini,2-1,https://www.besoccer.com/match/frosinone-calcio/rimini-calcio/200717149,2007,24,serie_b
+Treviso,Brescia,2-0,https://www.besoccer.com/match/treviso/brescia/200717150,2007,24,serie_b
+Bologna,Piacenza,0-2,https://www.besoccer.com/match/bologna/piacenza/200717151,2007,24,serie_b
+SSC Bari,Pescara,1-2,https://www.besoccer.com/match/as-bari/pescara-calcio/200717152,2007,24,serie_b
+Cesena,Vicenza ,1-2,https://www.besoccer.com/match/ac-cesena/vicenza-calcio/200717153,2007,24,serie_b
+Napoli,AC Arezzo,2-2,https://www.besoccer.com/match/napoli/ac-arezzo/200717143,2007,24,serie_b
+Lecce,Treviso,1-1,https://www.besoccer.com/match/lecce/treviso/200717142,2007,25,serie_b
+Spezia,Frosinone,1-1,https://www.besoccer.com/match/asd-spezia/frosinone-calcio/200717133,2007,25,serie_b
+Pescara,Cesena,1-0,https://www.besoccer.com/match/pescara-calcio/ac-cesena/200717134,2007,25,serie_b
+Triestina ,Napoli,1-3,https://www.besoccer.com/match/us-triestina-calcio/napoli/200717135,2007,25,serie_b
+Rimini,Bologna,0-0,https://www.besoccer.com/match/rimini-calcio/bologna/200717136,2007,25,serie_b
+Crotone,Mantova,2-1,https://www.besoccer.com/match/fc-crotone/ac-mantova/200717137,2007,25,serie_b
+Vicenza ,SSC Bari,3-0,https://www.besoccer.com/match/vicenza-calcio/as-bari/200717138,2007,25,serie_b
+AC Arezzo,AlbinoLeffe,2-1,https://www.besoccer.com/match/ac-arezzo/uc-albinoleffe/200717139,2007,25,serie_b
+Piacenza,Genoa,3-1,https://www.besoccer.com/match/piacenza/genoa/200717140,2007,25,serie_b
+Brescia,Hellas Verona,0-0,https://www.besoccer.com/match/brescia/hellas-verona-fc/200717141,2007,25,serie_b
+Modena,Juventus,0-1,https://www.besoccer.com/match/modena-fc/juventus-fc/200717132,2007,25,serie_b
+Treviso,Crotone,1-2,https://www.besoccer.com/match/treviso/fc-crotone/200717123,2007,26,serie_b
+Napoli,Spezia,3-1,https://www.besoccer.com/match/napoli/asd-spezia/200717124,2007,26,serie_b
+AlbinoLeffe,Brescia,2-3,https://www.besoccer.com/match/uc-albinoleffe/brescia/200717125,2007,26,serie_b
+Modena,Rimini,0-0,https://www.besoccer.com/match/modena-fc/rimini-calcio/200717126,2007,26,serie_b
+Cesena,Bologna,1-4,https://www.besoccer.com/match/ac-cesena/bologna/200717127,2007,26,serie_b
+SSC Bari,AC Arezzo,1-1,https://www.besoccer.com/match/as-bari/ac-arezzo/200717128,2007,26,serie_b
+Hellas Verona,Pescara,2-1,https://www.besoccer.com/match/hellas-verona-fc/pescara-calcio/200717129,2007,26,serie_b
+Frosinone,Vicenza ,0-2,https://www.besoccer.com/match/frosinone-calcio/vicenza-calcio/200717130,2007,26,serie_b
+Genoa,Lecce,1-0,https://www.besoccer.com/match/genoa/lecce/200717131,2007,26,serie_b
+Juventus,Piacenza,4-0,https://www.besoccer.com/match/juventus-fc/piacenza/200717122,2007,26,serie_b
+Mantova,Triestina ,1-1,https://www.besoccer.com/match/ac-mantova/us-triestina-calcio/200717121,2007,26,serie_b
+Pescara,Modena,2-6,https://www.besoccer.com/match/pescara-calcio/modena-fc/200717113,2007,27,serie_b
+Bologna,SSC Bari,2-0,https://www.besoccer.com/match/bologna/as-bari/200717120,2007,27,serie_b
+Lecce,Frosinone,5-0,https://www.besoccer.com/match/lecce/frosinone-calcio/200717110,2007,27,serie_b
+Rimini,Napoli,1-1,https://www.besoccer.com/match/rimini-calcio/napoli/200717111,2007,27,serie_b
+Triestina ,Cesena,3-1,https://www.besoccer.com/match/us-triestina-calcio/ac-cesena/200717112,2007,27,serie_b
+Vicenza ,Mantova,0-0,https://www.besoccer.com/match/vicenza-calcio/ac-mantova/200717114,2007,27,serie_b
+Spezia,AlbinoLeffe,3-1,https://www.besoccer.com/match/asd-spezia/uc-albinoleffe/200717115,2007,27,serie_b
+Brescia,Juventus,3-1,https://www.besoccer.com/match/brescia/juventus-fc/200717116,2007,27,serie_b
+Crotone,Hellas Verona,0-1,https://www.besoccer.com/match/fc-crotone/hellas-verona-fc/200717117,2007,27,serie_b
+AC Arezzo,Genoa,0-0,https://www.besoccer.com/match/ac-arezzo/genoa/200717118,2007,27,serie_b
+Piacenza,Treviso,1-0,https://www.besoccer.com/match/piacenza/treviso/200717119,2007,27,serie_b
+SSC Bari,Cesena,0-2,https://www.besoccer.com/match/as-bari/ac-cesena/200717101,2007,28,serie_b
+Juventus,Treviso,1-0,https://www.besoccer.com/match/juventus-fc/treviso/200717102,2007,28,serie_b
+Genoa,Brescia,3-0,https://www.besoccer.com/match/genoa/brescia/200717103,2007,28,serie_b
+Mantova,Spezia,0-0,https://www.besoccer.com/match/ac-mantova/asd-spezia/200717104,2007,28,serie_b
+Modena,Bologna,1-1,https://www.besoccer.com/match/modena-fc/bologna/200717105,2007,28,serie_b
+Frosinone,Pescara,0-0,https://www.besoccer.com/match/frosinone-calcio/pescara-calcio/200717106,2007,28,serie_b
+Triestina ,AC Arezzo,2-0,https://www.besoccer.com/match/us-triestina-calcio/ac-arezzo/200717107,2007,28,serie_b
+Hellas Verona,Piacenza,3-1,https://www.besoccer.com/match/hellas-verona-fc/piacenza/200717108,2007,28,serie_b
+Rimini,Lecce,1-0,https://www.besoccer.com/match/rimini-calcio/lecce/200717100,2007,28,serie_b
+AlbinoLeffe,Crotone,2-1,https://www.besoccer.com/match/uc-albinoleffe/fc-crotone/200717099,2007,28,serie_b
+Napoli,Vicenza ,0-0,https://www.besoccer.com/match/napoli/vicenza-calcio/200717109,2007,28,serie_b
+Bologna,Mantova,1-1,https://www.besoccer.com/match/bologna/ac-mantova/200717098,2007,29,serie_b
+Brescia,Rimini,0-2,https://www.besoccer.com/match/brescia/rimini-calcio/200717089,2007,29,serie_b
+Juventus,Triestina ,5-1,https://www.besoccer.com/match/juventus-fc/us-triestina-calcio/200717088,2007,29,serie_b
+Piacenza,Frosinone,3-0,https://www.besoccer.com/match/piacenza/frosinone-calcio/200717090,2007,29,serie_b
+Vicenza ,Pescara,1-0,https://www.besoccer.com/match/vicenza-calcio/pescara-calcio/200717091,2007,29,serie_b
+Treviso,SSC Bari,0-0,https://www.besoccer.com/match/treviso/as-bari/200717092,2007,29,serie_b
+Crotone,Napoli,2-1,https://www.besoccer.com/match/fc-crotone/napoli/200717093,2007,29,serie_b
+Spezia,AC Arezzo,3-1,https://www.besoccer.com/match/asd-spezia/ac-arezzo/200717094,2007,29,serie_b
+Lecce,Modena,1-0,https://www.besoccer.com/match/lecce/modena-fc/200717095,2007,29,serie_b
+AlbinoLeffe,Hellas Verona,1-1,https://www.besoccer.com/match/uc-albinoleffe/hellas-verona-fc/200717096,2007,29,serie_b
+Cesena,Genoa,2-1,https://www.besoccer.com/match/ac-cesena/genoa/200717097,2007,29,serie_b
+Modena,Brescia,1-0,https://www.besoccer.com/match/modena-fc/brescia/200717079,2007,30,serie_b
+SSC Bari,Piacenza,1-2,https://www.besoccer.com/match/as-bari/piacenza/200717080,2007,30,serie_b
+Vicenza ,Bologna,1-1,https://www.besoccer.com/match/vicenza-calcio/bologna/200717081,2007,30,serie_b
+Triestina ,Lecce,2-3,https://www.besoccer.com/match/us-triestina-calcio/lecce/200717082,2007,30,serie_b
+Frosinone,Juventus,0-2,https://www.besoccer.com/match/frosinone-calcio/juventus-fc/200717083,2007,30,serie_b
+Genoa,Hellas Verona,3-1,https://www.besoccer.com/match/genoa/hellas-verona-fc/200717084,2007,30,serie_b
+Rimini,Crotone,1-0,https://www.besoccer.com/match/rimini-calcio/fc-crotone/200717085,2007,30,serie_b
+AC Arezzo,Cesena,3-0,https://www.besoccer.com/match/ac-arezzo/ac-cesena/200717086,2007,30,serie_b
+Pescara,Spezia,0-2,https://www.besoccer.com/match/pescara-calcio/asd-spezia/200717087,2007,30,serie_b
+Napoli,AlbinoLeffe,1-0,https://www.besoccer.com/match/napoli/uc-albinoleffe/200717077,2007,30,serie_b
+Mantova,Treviso,0-0,https://www.besoccer.com/match/ac-mantova/treviso/200717078,2007,30,serie_b
+Juventus,Napoli,2-0,https://www.besoccer.com/match/juventus-fc/napoli/200717068,2007,31,serie_b
+Spezia,SSC Bari,1-2,https://www.besoccer.com/match/asd-spezia/as-bari/200717071,2007,31,serie_b
+Lecce,AC Arezzo,1-0,https://www.besoccer.com/match/lecce/ac-arezzo/200717072,2007,31,serie_b
+Hellas Verona,Vicenza ,2-1,https://www.besoccer.com/match/hellas-verona-fc/vicenza-calcio/200717073,2007,31,serie_b
+Cesena,Mantova,1-1,https://www.besoccer.com/match/ac-cesena/ac-mantova/200717074,2007,31,serie_b
+Crotone,Genoa,0-3,https://www.besoccer.com/match/fc-crotone/genoa/200717075,2007,31,serie_b
+AlbinoLeffe,Rimini,0-0,https://www.besoccer.com/match/uc-albinoleffe/rimini-calcio/200717076,2007,31,serie_b
+Bologna,Frosinone,1-0,https://www.besoccer.com/match/bologna/frosinone-calcio/200717070,2007,31,serie_b
+Treviso,Pescara,1-0,https://www.besoccer.com/match/treviso/pescara-calcio/200717066,2007,31,serie_b
+Piacenza,Modena,5-1,https://www.besoccer.com/match/piacenza/modena-fc/200717069,2007,31,serie_b
+Brescia,Triestina ,2-0,https://www.besoccer.com/match/brescia/us-triestina-calcio/200717067,2007,31,serie_b
+Vicenza ,Spezia,1-0,https://www.besoccer.com/match/vicenza-calcio/asd-spezia/200717065,2007,32,serie_b
+Genoa,AlbinoLeffe,1-0,https://www.besoccer.com/match/genoa/uc-albinoleffe/200717064,2007,32,serie_b
+Lecce,Piacenza,1-0,https://www.besoccer.com/match/lecce/piacenza/200717055,2007,32,serie_b
+Napoli,SSC Bari,1-1,https://www.besoccer.com/match/napoli/as-bari/200717056,2007,32,serie_b
+Pescara,Juventus,0-1,https://www.besoccer.com/match/pescara-calcio/juventus-fc/200717057,2007,32,serie_b
+Modena,Crotone,3-2,https://www.besoccer.com/match/modena-fc/fc-crotone/200717058,2007,32,serie_b
+Triestina ,Hellas Verona,1-1,https://www.besoccer.com/match/us-triestina-calcio/hellas-verona-fc/200717059,2007,32,serie_b
+Frosinone,Cesena,4-1,https://www.besoccer.com/match/frosinone-calcio/ac-cesena/200717060,2007,32,serie_b
+Rimini,Treviso,2-0,https://www.besoccer.com/match/rimini-calcio/treviso/200717061,2007,32,serie_b
+Mantova,Brescia,2-1,https://www.besoccer.com/match/ac-mantova/brescia/200717062,2007,32,serie_b
+AC Arezzo,Bologna,1-1,https://www.besoccer.com/match/ac-arezzo/bologna/200717063,2007,32,serie_b
+Hellas Verona,Rimini,1-0,https://www.besoccer.com/match/hellas-verona-fc/rimini-calcio/200717044,2007,33,serie_b
+Bologna,Napoli,2-3,https://www.besoccer.com/match/bologna/napoli/200717045,2007,33,serie_b
+Brescia,AC Arezzo,1-0,https://www.besoccer.com/match/brescia/ac-arezzo/200717046,2007,33,serie_b
+Cesena,Modena,1-0,https://www.besoccer.com/match/ac-cesena/modena-fc/200717047,2007,33,serie_b
+Juventus,AlbinoLeffe,1-1,https://www.besoccer.com/match/juventus-fc/uc-albinoleffe/200717048,2007,33,serie_b
+Piacenza,Mantova,3-4,https://www.besoccer.com/match/piacenza/ac-mantova/200717049,2007,33,serie_b
+Treviso,Vicenza ,1-1,https://www.besoccer.com/match/treviso/vicenza-calcio/200717050,2007,33,serie_b
+Crotone,Lecce,1-3,https://www.besoccer.com/match/fc-crotone/lecce/200717051,2007,33,serie_b
+Pescara,Triestina ,2-0,https://www.besoccer.com/match/pescara-calcio/us-triestina-calcio/200717052,2007,33,serie_b
+Spezia,Genoa,1-2,https://www.besoccer.com/match/asd-spezia/genoa/200717053,2007,33,serie_b
+SSC Bari,Frosinone,1-1,https://www.besoccer.com/match/as-bari/frosinone-calcio/200717054,2007,33,serie_b
+AC Arezzo,Vicenza ,2-1,https://www.besoccer.com/match/ac-arezzo/vicenza-calcio/200717043,2007,34,serie_b
+Genoa,Bologna,3-0,https://www.besoccer.com/match/genoa/bologna/200717042,2007,34,serie_b
+Napoli,Pescara,1-0,https://www.besoccer.com/match/napoli/pescara-calcio/200717033,2007,34,serie_b
+Triestina ,SSC Bari,1-0,https://www.besoccer.com/match/us-triestina-calcio/as-bari/200717034,2007,34,serie_b
+Lecce,Juventus,1-3,https://www.besoccer.com/match/lecce/juventus-fc/200717035,2007,34,serie_b
+Mantova,Frosinone,1-1,https://www.besoccer.com/match/ac-mantova/frosinone-calcio/200717036,2007,34,serie_b
+Hellas Verona,Treviso,0-0,https://www.besoccer.com/match/hellas-verona-fc/treviso/200717037,2007,34,serie_b
+Rimini,Cesena,1-0,https://www.besoccer.com/match/rimini-calcio/ac-cesena/200717038,2007,34,serie_b
+Modena,Spezia,4-0,https://www.besoccer.com/match/modena-fc/asd-spezia/200717039,2007,34,serie_b
+Crotone,Brescia,0-0,https://www.besoccer.com/match/fc-crotone/brescia/200717040,2007,34,serie_b
+AlbinoLeffe,Piacenza,2-0,https://www.besoccer.com/match/uc-albinoleffe/piacenza/200717041,2007,34,serie_b
+Treviso,Modena,1-1,https://www.besoccer.com/match/treviso/modena-fc/200717024,2007,35,serie_b
+Bologna,Hellas Verona,2-0,https://www.besoccer.com/match/bologna/hellas-verona-fc/200717025,2007,35,serie_b
+Brescia,Lecce,1-0,https://www.besoccer.com/match/brescia/lecce/200717026,2007,35,serie_b
+Spezia,Triestina ,2-2,https://www.besoccer.com/match/asd-spezia/us-triestina-calcio/200717027,2007,35,serie_b
+Juventus,Genoa,3-1,https://www.besoccer.com/match/juventus-fc/genoa/200717028,2007,35,serie_b
+Vicenza ,Rimini,1-1,https://www.besoccer.com/match/vicenza-calcio/rimini-calcio/200717029,2007,35,serie_b
+Piacenza,Crotone,2-1,https://www.besoccer.com/match/piacenza/fc-crotone/200717030,2007,35,serie_b
+Frosinone,Napoli,1-2,https://www.besoccer.com/match/frosinone-calcio/napoli/200717031,2007,35,serie_b
+Pescara,AC Arezzo,1-2,https://www.besoccer.com/match/pescara-calcio/ac-arezzo/200717032,2007,35,serie_b
+Cesena,AlbinoLeffe,2-2,https://www.besoccer.com/match/ac-cesena/uc-albinoleffe/200717023,2007,35,serie_b
+SSC Bari,Mantova,0-1,https://www.besoccer.com/match/as-bari/ac-mantova/200717022,2007,35,serie_b
+Hellas Verona,Juventus,0-1,https://www.besoccer.com/match/hellas-verona-fc/juventus-fc/200717021,2007,36,serie_b
+Genoa,Treviso,2-1,https://www.besoccer.com/match/genoa/treviso/200717020,2007,36,serie_b
+Modena,SSC Bari,2-1,https://www.besoccer.com/match/modena-fc/as-bari/200717011,2007,36,serie_b
+AlbinoLeffe,Mantova,2-1,https://www.besoccer.com/match/uc-albinoleffe/ac-mantova/200717012,2007,36,serie_b
+Triestina ,Vicenza ,0-0,https://www.besoccer.com/match/us-triestina-calcio/vicenza-calcio/200717013,2007,36,serie_b
+Brescia,Frosinone,1-0,https://www.besoccer.com/match/brescia/frosinone-calcio/200717014,2007,36,serie_b
+Crotone,Spezia,0-2,https://www.besoccer.com/match/fc-crotone/asd-spezia/200717015,2007,36,serie_b
+Napoli,Cesena,2-0,https://www.besoccer.com/match/napoli/ac-cesena/200717016,2007,36,serie_b
+AC Arezzo,Piacenza,1-0,https://www.besoccer.com/match/ac-arezzo/piacenza/200717017,2007,36,serie_b
+Lecce,Bologna,2-1,https://www.besoccer.com/match/lecce/bologna/200717018,2007,36,serie_b
+Rimini,Pescara,2-2,https://www.besoccer.com/match/rimini-calcio/pescara-calcio/200717019,2007,36,serie_b
+Cesena,Juventus,2-2,https://www.besoccer.com/match/ac-cesena/juventus-fc/200717000,2007,37,serie_b
+Treviso,AlbinoLeffe,3-1,https://www.besoccer.com/match/treviso/uc-albinoleffe/200717002,2007,37,serie_b
+SSC Bari,Lecce,1-1,https://www.besoccer.com/match/as-bari/lecce/200717003,2007,37,serie_b
+AC Arezzo,Hellas Verona,3-1,https://www.besoccer.com/match/ac-arezzo/hellas-verona-fc/200717004,2007,37,serie_b
+Bologna,Triestina ,0-0,https://www.besoccer.com/match/bologna/us-triestina-calcio/200717005,2007,37,serie_b
+Frosinone,Genoa,0-2,https://www.besoccer.com/match/frosinone-calcio/genoa/200717006,2007,37,serie_b
+Pescara,Crotone,2-3,https://www.besoccer.com/match/pescara-calcio/fc-crotone/200717007,2007,37,serie_b
+Mantova,Napoli,1-0,https://www.besoccer.com/match/ac-mantova/napoli/200717008,2007,37,serie_b
+Spezia,Brescia,1-3,https://www.besoccer.com/match/asd-spezia/brescia/200717009,2007,37,serie_b
+Vicenza ,Modena,2-0,https://www.besoccer.com/match/vicenza-calcio/modena-fc/200717010,2007,37,serie_b
+Piacenza,Rimini,1-1,https://www.besoccer.com/match/piacenza/rimini-calcio/200717001,2007,37,serie_b
+AlbinoLeffe,Vicenza ,0-0,https://www.besoccer.com/match/uc-albinoleffe/vicenza-calcio/200716992,2007,38,serie_b
+Hellas Verona,Frosinone,2-2,https://www.besoccer.com/match/hellas-verona-fc/frosinone-calcio/200716993,2007,38,serie_b
+Treviso,Cesena,1-1,https://www.besoccer.com/match/treviso/ac-cesena/200716994,2007,38,serie_b
+Lecce,Spezia,0-1,https://www.besoccer.com/match/lecce/asd-spezia/200716995,2007,38,serie_b
+Juventus,Bologna,3-1,https://www.besoccer.com/match/juventus-fc/bologna/200716996,2007,38,serie_b
+Piacenza,Pescara,3-1,https://www.besoccer.com/match/piacenza/pescara-calcio/200716997,2007,38,serie_b
+Rimini,SSC Bari,0-1,https://www.besoccer.com/match/rimini-calcio/as-bari/200716998,2007,38,serie_b
+Crotone,AC Arezzo,1-2,https://www.besoccer.com/match/fc-crotone/ac-arezzo/200716999,2007,38,serie_b
+Modena,Mantova,2-2,https://www.besoccer.com/match/modena-fc/ac-mantova/200716991,2007,38,serie_b
+Genoa,Triestina ,3-2,https://www.besoccer.com/match/genoa/us-triestina-calcio/200716990,2007,38,serie_b
+Brescia,Napoli,0-1,https://www.besoccer.com/match/brescia/napoli/200716989,2007,38,serie_b
+Mantova,Hellas Verona,0-2,https://www.besoccer.com/match/ac-mantova/hellas-verona-fc/200716978,2007,39,serie_b
+AC Arezzo,Juventus,1-5,https://www.besoccer.com/match/ac-arezzo/juventus-fc/200716979,2007,39,serie_b
+Frosinone,Treviso,1-1,https://www.besoccer.com/match/frosinone-calcio/treviso/200716980,2007,39,serie_b
+SSC Bari,Genoa,2-2,https://www.besoccer.com/match/as-bari/genoa/200716981,2007,39,serie_b
+Spezia,Rimini,3-4,https://www.besoccer.com/match/asd-spezia/rimini-calcio/200716982,2007,39,serie_b
+Triestina ,Crotone,2-0,https://www.besoccer.com/match/us-triestina-calcio/fc-crotone/200716983,2007,39,serie_b
+Cesena,Piacenza,1-1,https://www.besoccer.com/match/ac-cesena/piacenza/200716984,2007,39,serie_b
+Bologna,Brescia,0-1,https://www.besoccer.com/match/bologna/brescia/200716985,2007,39,serie_b
+Napoli,Modena,1-1,https://www.besoccer.com/match/napoli/modena-fc/200716986,2007,39,serie_b
+Pescara,AlbinoLeffe,2-3,https://www.besoccer.com/match/pescara-calcio/uc-albinoleffe/200716987,2007,39,serie_b
+Vicenza ,Lecce,1-3,https://www.besoccer.com/match/vicenza-calcio/lecce/200716988,2007,39,serie_b
+Crotone,Frosinone,2-3,https://www.besoccer.com/match/fc-crotone/frosinone-calcio/200716967,2007,40,serie_b
+Modena,Triestina ,1-0,https://www.besoccer.com/match/modena-fc/us-triestina-calcio/200716968,2007,40,serie_b
+Lecce,Cesena,2-0,https://www.besoccer.com/match/lecce/ac-cesena/200716969,2007,40,serie_b
+Piacenza,Spezia,2-1,https://www.besoccer.com/match/piacenza/asd-spezia/200716970,2007,40,serie_b
+Treviso,Bologna,1-1,https://www.besoccer.com/match/treviso/bologna/200716971,2007,40,serie_b
+Genoa,Pescara,3-0,https://www.besoccer.com/match/genoa/pescara-calcio/200716972,2007,40,serie_b
+AlbinoLeffe,SSC Bari,2-3,https://www.besoccer.com/match/uc-albinoleffe/as-bari/200716973,2007,40,serie_b
+Hellas Verona,Napoli,1-3,https://www.besoccer.com/match/hellas-verona-fc/napoli/200716974,2007,40,serie_b
+Rimini,AC Arezzo,0-2,https://www.besoccer.com/match/rimini-calcio/ac-arezzo/200716975,2007,40,serie_b
+Juventus,Mantova,2-0,https://www.besoccer.com/match/juventus-fc/ac-mantova/200716976,2007,40,serie_b
+Brescia,Vicenza ,3-0,https://www.besoccer.com/match/brescia/vicenza-calcio/200716977,2007,40,serie_b
+SSC Bari,Juventus,1-0,https://www.besoccer.com/match/as-bari/juventus-fc/200716956,2007,41,serie_b
+Spezia,Treviso,1-2,https://www.besoccer.com/match/asd-spezia/treviso/200716957,2007,41,serie_b
+Mantova,Genoa,1-0,https://www.besoccer.com/match/ac-mantova/genoa/200716958,2007,41,serie_b
+Triestina ,Rimini,1-1,https://www.besoccer.com/match/us-triestina-calcio/rimini-calcio/200716959,2007,41,serie_b
+Bologna,Crotone,2-1,https://www.besoccer.com/match/bologna/fc-crotone/200716960,2007,41,serie_b
+Vicenza ,Piacenza,1-2,https://www.besoccer.com/match/vicenza-calcio/piacenza/200716961,2007,41,serie_b
+Pescara,Brescia,1-3,https://www.besoccer.com/match/pescara-calcio/brescia/200716962,2007,41,serie_b
+AC Arezzo,Modena,0-0,https://www.besoccer.com/match/ac-arezzo/modena-fc/200716963,2007,41,serie_b
+Frosinone,AlbinoLeffe,2-0,https://www.besoccer.com/match/frosinone-calcio/uc-albinoleffe/200716964,2007,41,serie_b
+Napoli,Lecce,1-0,https://www.besoccer.com/match/napoli/lecce/200716965,2007,41,serie_b
+Cesena,Hellas Verona,0-1,https://www.besoccer.com/match/ac-cesena/hellas-verona-fc/200716966,2007,41,serie_b
+Piacenza,Triestina ,1-1,https://www.besoccer.com/match/piacenza/us-triestina-calcio/200716945,2007,42,serie_b
+Brescia,Cesena,4-2,https://www.besoccer.com/match/brescia/ac-cesena/200716946,2007,42,serie_b
+Juventus,Spezia,2-3,https://www.besoccer.com/match/juventus-fc/asd-spezia/200716947,2007,42,serie_b
+AlbinoLeffe,Bologna,2-5,https://www.besoccer.com/match/uc-albinoleffe/bologna/200716948,2007,42,serie_b
+Lecce,Pescara,4-1,https://www.besoccer.com/match/lecce/pescara-calcio/200716949,2007,42,serie_b
+Hellas Verona,SSC Bari,4-2,https://www.besoccer.com/match/hellas-verona-fc/as-bari/200716950,2007,42,serie_b
+Genoa,Napoli,0-0,https://www.besoccer.com/match/genoa/napoli/200716951,2007,42,serie_b
+Treviso,AC Arezzo,1-3,https://www.besoccer.com/match/treviso/ac-arezzo/200716952,2007,42,serie_b
+Rimini,Mantova,2-1,https://www.besoccer.com/match/rimini-calcio/ac-mantova/200716953,2007,42,serie_b
+Crotone,Vicenza ,0-1,https://www.besoccer.com/match/fc-crotone/vicenza-calcio/200716954,2007,42,serie_b
+Modena,Frosinone,2-1,https://www.besoccer.com/match/modena-fc/frosinone-calcio/200716955,2007,42,serie_b

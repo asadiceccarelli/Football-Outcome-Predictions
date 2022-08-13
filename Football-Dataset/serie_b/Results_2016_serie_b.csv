@@ -1,0 +1,463 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Cesena,Brescia,2-0,https://www.besoccer.com/match/ac-cesena/brescia/2016113235,2016,1,serie_b
+Livorno,Pescara,4-0,https://www.besoccer.com/match/livorno/pescara-calcio/2016113236,2016,1,serie_b
+Modena,Vicenza ,0-1,https://www.besoccer.com/match/modena-fc/vicenza-calcio/2016113237,2016,1,serie_b
+Novara,Latina,1-1,https://www.besoccer.com/match/novara-calcio/latina/2016113238,2016,1,serie_b
+Perugia,Como,2-0,https://www.besoccer.com/match/perugia/como/2016113239,2016,1,serie_b
+Pro Vercelli,Virtus Lanciano,2-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/ss-virtus-lanciano-1924/2016113240,2016,1,serie_b
+Salernitana,Avellino,3-1,https://www.besoccer.com/match/salernitana-calcio-1919/us-avellino/2016113241,2016,1,serie_b
+Trapani,Ternana Calcio,3-0,https://www.besoccer.com/match/trapani/ternana-calcio/2016113242,2016,1,serie_b
+SSC Bari,Spezia,4-3,https://www.besoccer.com/match/as-bari/asd-spezia/2016113233,2016,1,serie_b
+Cagliari,Crotone,4-0,https://www.besoccer.com/match/cagliari/fc-crotone/2016113234,2016,1,serie_b
+Ascoli,Virtus Entella,1-0,https://www.besoccer.com/match/ascoli/virtus-entella/2016164464,2016,1,serie_b
+Pescara,Perugia,2-1,https://www.besoccer.com/match/pescara-calcio/perugia/2016113248,2016,2,serie_b
+Avellino,Modena,2-0,https://www.besoccer.com/match/us-avellino/modena-fc/2016113243,2016,2,serie_b
+Brescia,Salernitana,2-2,https://www.besoccer.com/match/brescia/salernitana-calcio-1919/2016113244,2016,2,serie_b
+Como,Livorno,1-2,https://www.besoccer.com/match/como/livorno/2016113245,2016,2,serie_b
+Crotone,Novara,2-1,https://www.besoccer.com/match/fc-crotone/novara-calcio/2016113246,2016,2,serie_b
+Ternana Calcio,Cagliari,1-1,https://www.besoccer.com/match/ternana-calcio/cagliari/2016113250,2016,2,serie_b
+Vicenza ,SSC Bari,0-0,https://www.besoccer.com/match/vicenza-calcio/as-bari/2016113251,2016,2,serie_b
+Virtus Lanciano,Ascoli,2-0,https://www.besoccer.com/match/ss-virtus-lanciano-1924/ascoli/2016164472,2016,2,serie_b
+Virtus Entella,Cesena,2-1,https://www.besoccer.com/match/virtus-entella/ac-cesena/2016164473,2016,2,serie_b
+Spezia,Pro Vercelli,1-1,https://www.besoccer.com/match/asd-spezia/us-pro-vercelli-calcio/2016113249,2016,2,serie_b
+Latina,Trapani,1-1,https://www.besoccer.com/match/latina/trapani/2016113247,2016,2,serie_b
+Modena,Ternana Calcio,1-0,https://www.besoccer.com/match/modena-fc/ternana-calcio/2016113255,2016,3,serie_b
+Livorno,Brescia,3-1,https://www.besoccer.com/match/livorno/brescia/2016113254,2016,3,serie_b
+SSC Bari,Pescara,0-0,https://www.besoccer.com/match/as-bari/pescara-calcio/2016113252,2016,3,serie_b
+Cagliari,Avellino,2-1,https://www.besoccer.com/match/cagliari/us-avellino/2016113253,2016,3,serie_b
+Perugia,Crotone,0-0,https://www.besoccer.com/match/perugia/fc-crotone/2016113256,2016,3,serie_b
+Pro Vercelli,Latina,1-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/latina/2016113257,2016,3,serie_b
+Salernitana,Spezia,0-2,https://www.besoccer.com/match/salernitana-calcio-1919/asd-spezia/2016113258,2016,3,serie_b
+Trapani,Virtus Lanciano,1-1,https://www.besoccer.com/match/trapani/ss-virtus-lanciano-1924/2016113259,2016,3,serie_b
+Vicenza ,Como,3-3,https://www.besoccer.com/match/vicenza-calcio/como/2016113260,2016,3,serie_b
+Ascoli,Cesena,1-3,https://www.besoccer.com/match/ascoli/ac-cesena/2016164485,2016,3,serie_b
+Novara,Virtus Entella,1-0,https://www.besoccer.com/match/novara-calcio/virtus-entella/2016164486,2016,3,serie_b
+Ternana Calcio,Livorno,2-3,https://www.besoccer.com/match/ternana-calcio/livorno/2016113268,2016,4,serie_b
+Avellino,Novara,0-0,https://www.besoccer.com/match/us-avellino/novara-calcio/2016113261,2016,4,serie_b
+Brescia,Pro Vercelli,2-0,https://www.besoccer.com/match/brescia/us-pro-vercelli-calcio/2016113262,2016,4,serie_b
+Cesena,Modena,2-0,https://www.besoccer.com/match/ac-cesena/modena-fc/2016113263,2016,4,serie_b
+Como,Trapani,0-0,https://www.besoccer.com/match/como/trapani/2016113264,2016,4,serie_b
+Crotone,SSC Bari,4-1,https://www.besoccer.com/match/fc-crotone/as-bari/2016113265,2016,4,serie_b
+Pescara,Salernitana,1-1,https://www.besoccer.com/match/pescara-calcio/salernitana-calcio-1919/2016113266,2016,4,serie_b
+Spezia,Perugia,1-0,https://www.besoccer.com/match/asd-spezia/perugia/2016113267,2016,4,serie_b
+Virtus Lanciano,Vicenza ,0-0,https://www.besoccer.com/match/ss-virtus-lanciano-1924/vicenza-calcio/2016113269,2016,4,serie_b
+Virtus Entella,Cagliari,1-3,https://www.besoccer.com/match/virtus-entella/cagliari/2016164496,2016,4,serie_b
+Latina,Ascoli,1-0,https://www.besoccer.com/match/latina/ascoli/2016164497,2016,4,serie_b
+Cagliari,Latina,3-2,https://www.besoccer.com/match/cagliari/latina/2016113271,2016,5,serie_b
+Livorno,Spezia,1-2,https://www.besoccer.com/match/livorno/asd-spezia/2016113272,2016,5,serie_b
+Modena,Virtus Lanciano,1-0,https://www.besoccer.com/match/modena-fc/ss-virtus-lanciano-1924/2016113273,2016,5,serie_b
+Perugia,Cesena,0-0,https://www.besoccer.com/match/perugia/ac-cesena/2016113275,2016,5,serie_b
+Pro Vercelli,Crotone,0-2,https://www.besoccer.com/match/us-pro-vercelli-calcio/fc-crotone/2016113276,2016,5,serie_b
+Salernitana,Ternana Calcio,2-1,https://www.besoccer.com/match/salernitana-calcio-1919/ternana-calcio/2016113277,2016,5,serie_b
+Vicenza ,Pescara,2-2,https://www.besoccer.com/match/vicenza-calcio/pescara-calcio/2016113278,2016,5,serie_b
+Ascoli,Brescia,0-0,https://www.besoccer.com/match/ascoli/brescia/2016164507,2016,5,serie_b
+Trapani,Virtus Entella,4-2,https://www.besoccer.com/match/trapani/virtus-entella/2016164508,2016,5,serie_b
+SSC Bari,Avellino,2-1,https://www.besoccer.com/match/as-bari/us-avellino/2016113270,2016,5,serie_b
+Novara,Como,0-2,https://www.besoccer.com/match/novara-calcio/como/2016113274,2016,5,serie_b
+Crotone,Salernitana,4-0,https://www.besoccer.com/match/fc-crotone/salernitana-calcio-1919/2016113282,2016,6,serie_b
+Avellino,Vicenza ,1-4,https://www.besoccer.com/match/us-avellino/vicenza-calcio/2016113279,2016,6,serie_b
+Brescia,Modena,2-2,https://www.besoccer.com/match/brescia/modena-fc/2016113280,2016,6,serie_b
+Cesena,Livorno,1-0,https://www.besoccer.com/match/ac-cesena/livorno/2016113281,2016,6,serie_b
+Latina,SSC Bari,1-2,https://www.besoccer.com/match/latina/as-bari/2016113283,2016,6,serie_b
+Pescara,Cagliari,1-0,https://www.besoccer.com/match/pescara-calcio/cagliari/2016113284,2016,6,serie_b
+Ternana Calcio,Novara,2-0,https://www.besoccer.com/match/ternana-calcio/novara-calcio/2016113285,2016,6,serie_b
+Virtus Lanciano,Spezia,0-0,https://www.besoccer.com/match/ss-virtus-lanciano-1924/asd-spezia/2016113287,2016,6,serie_b
+Virtus Entella,Pro Vercelli,1-0,https://www.besoccer.com/match/virtus-entella/us-pro-vercelli-calcio/2016164518,2016,6,serie_b
+Como,Ascoli,0-4,https://www.besoccer.com/match/como/ascoli/2016164519,2016,6,serie_b
+Trapani,Perugia,0-0,https://www.besoccer.com/match/trapani/perugia/2016113286,2016,6,serie_b
+Vicenza ,Crotone,0-0,https://www.besoccer.com/match/vicenza-calcio/fc-crotone/2016113296,2016,7,serie_b
+Pro Vercelli,Novara,0-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/novara-calcio/2016113293,2016,7,serie_b
+Cagliari,Cesena,3-1,https://www.besoccer.com/match/cagliari/ac-cesena/2016113289,2016,7,serie_b
+SSC Bari,Virtus Lanciano,1-0,https://www.besoccer.com/match/as-bari/ss-virtus-lanciano-1924/2016113288,2016,7,serie_b
+Como,Brescia,1-3,https://www.besoccer.com/match/como/brescia/2016113290,2016,7,serie_b
+Livorno,Avellino,1-1,https://www.besoccer.com/match/livorno/us-avellino/2016113291,2016,7,serie_b
+Modena,Latina,0-2,https://www.besoccer.com/match/modena-fc/latina/2016113292,2016,7,serie_b
+Salernitana,Trapani,0-1,https://www.besoccer.com/match/salernitana-calcio-1919/trapani/2016113294,2016,7,serie_b
+Spezia,Ternana Calcio,1-0,https://www.besoccer.com/match/asd-spezia/ternana-calcio/2016113295,2016,7,serie_b
+Perugia,Virtus Entella,0-0,https://www.besoccer.com/match/perugia/virtus-entella/2016164529,2016,7,serie_b
+Ascoli,Pescara,3-1,https://www.besoccer.com/match/ascoli/pescara-calcio/2016164530,2016,7,serie_b
+Avellino,Brescia,3-3,https://www.besoccer.com/match/us-avellino/brescia/2016113297,2016,8,serie_b
+Crotone,Livorno,3-0,https://www.besoccer.com/match/fc-crotone/livorno/2016113299,2016,8,serie_b
+Novara,Cagliari,1-0,https://www.besoccer.com/match/novara-calcio/cagliari/2016113301,2016,8,serie_b
+Pro Vercelli,Vicenza ,2-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/vicenza-calcio/2016113302,2016,8,serie_b
+Ternana Calcio,SSC Bari,3-0,https://www.besoccer.com/match/ternana-calcio/as-bari/2016113303,2016,8,serie_b
+Trapani,Pescara,0-3,https://www.besoccer.com/match/trapani/pescara-calcio/2016113304,2016,8,serie_b
+Virtus Lanciano,Como,1-0,https://www.besoccer.com/match/ss-virtus-lanciano-1924/como/2016113305,2016,8,serie_b
+Modena,Ascoli,2-1,https://www.besoccer.com/match/modena-fc/ascoli/2016164540,2016,8,serie_b
+Virtus Entella,Salernitana,1-0,https://www.besoccer.com/match/virtus-entella/salernitana-calcio-1919/2016164541,2016,8,serie_b
+Latina,Perugia,2-1,https://www.besoccer.com/match/latina/perugia/2016113300,2016,8,serie_b
+Cesena,Spezia,5-1,https://www.besoccer.com/match/ac-cesena/asd-spezia/2016113298,2016,8,serie_b
+Pescara,Pro Vercelli,1-0,https://www.besoccer.com/match/pescara-calcio/us-pro-vercelli-calcio/2016113310,2016,9,serie_b
+Vicenza ,Novara,0-2,https://www.besoccer.com/match/vicenza-calcio/novara-calcio/2016113314,2016,9,serie_b
+Brescia,Virtus Lanciano,2-1,https://www.besoccer.com/match/brescia/ss-virtus-lanciano-1924/2016113306,2016,9,serie_b
+Cagliari,Trapani,4-1,https://www.besoccer.com/match/cagliari/trapani/2016113307,2016,9,serie_b
+Como,Latina,1-1,https://www.besoccer.com/match/como/latina/2016113308,2016,9,serie_b
+Livorno,Modena,2-0,https://www.besoccer.com/match/livorno/modena-fc/2016113309,2016,9,serie_b
+Salernitana,Cesena,1-1,https://www.besoccer.com/match/salernitana-calcio-1919/ac-cesena/2016113311,2016,9,serie_b
+Spezia,Avellino,1-1,https://www.besoccer.com/match/asd-spezia/us-avellino/2016113312,2016,9,serie_b
+Ternana Calcio,Perugia,0-1,https://www.besoccer.com/match/ternana-calcio/perugia/2016113313,2016,9,serie_b
+SSC Bari,Virtus Entella,0-0,https://www.besoccer.com/match/as-bari/virtus-entella/2016164551,2016,9,serie_b
+Ascoli,Crotone,0-1,https://www.besoccer.com/match/ascoli/fc-crotone/2016164552,2016,9,serie_b
+Cesena,Como,3-1,https://www.besoccer.com/match/ac-cesena/como/2016113315,2016,10,serie_b
+Crotone,Brescia,1-1,https://www.besoccer.com/match/fc-crotone/brescia/2016113316,2016,10,serie_b
+Latina,Ternana Calcio,1-2,https://www.besoccer.com/match/latina/ternana-calcio/2016113317,2016,10,serie_b
+Modena,Spezia,1-1,https://www.besoccer.com/match/modena-fc/asd-spezia/2016113318,2016,10,serie_b
+Perugia,Cagliari,0-0,https://www.besoccer.com/match/perugia/cagliari/2016113320,2016,10,serie_b
+Pro Vercelli,SSC Bari,0-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/as-bari/2016113321,2016,10,serie_b
+Trapani,Vicenza ,1-2,https://www.besoccer.com/match/trapani/vicenza-calcio/2016113322,2016,10,serie_b
+Virtus Lanciano,Salernitana,2-2,https://www.besoccer.com/match/ss-virtus-lanciano-1924/salernitana-calcio-1919/2016113323,2016,10,serie_b
+Avellino,Ascoli,3-0,https://www.besoccer.com/match/us-avellino/ascoli/2016164553,2016,10,serie_b
+Virtus Entella,Livorno,0-0,https://www.besoccer.com/match/virtus-entella/livorno/2016164554,2016,10,serie_b
+Novara,Pescara,1-0,https://www.besoccer.com/match/novara-calcio/pescara-calcio/2016113319,2016,10,serie_b
+SSC Bari,Novara,1-1,https://www.besoccer.com/match/as-bari/novara-calcio/2016113324,2016,11,serie_b
+Brescia,Latina,1-0,https://www.besoccer.com/match/brescia/latina/2016113325,2016,11,serie_b
+Cesena,Virtus Lanciano,2-0,https://www.besoccer.com/match/ac-cesena/ss-virtus-lanciano-1924/2016113327,2016,11,serie_b
+Como,Modena,1-1,https://www.besoccer.com/match/como/modena-fc/2016113328,2016,11,serie_b
+Livorno,Trapani,2-0,https://www.besoccer.com/match/livorno/trapani/2016113329,2016,11,serie_b
+Pescara,Crotone,4-1,https://www.besoccer.com/match/pescara-calcio/fc-crotone/2016113330,2016,11,serie_b
+Salernitana,Perugia,1-1,https://www.besoccer.com/match/salernitana-calcio-1919/perugia/2016113331,2016,11,serie_b
+Ternana Calcio,Avellino,0-3,https://www.besoccer.com/match/ternana-calcio/us-avellino/2016113332,2016,11,serie_b
+Ascoli,Pro Vercelli,0-1,https://www.besoccer.com/match/ascoli/us-pro-vercelli-calcio/2016164574,2016,11,serie_b
+Spezia,Virtus Entella,0-0,https://www.besoccer.com/match/asd-spezia/virtus-entella/2016164573,2016,11,serie_b
+Cagliari,Vicenza ,2-0,https://www.besoccer.com/match/cagliari/vicenza-calcio/2016113326,2016,11,serie_b
+SSC Bari,Salernitana,2-1,https://www.besoccer.com/match/as-bari/salernitana-calcio-1919/2016113333,2016,12,serie_b
+Cagliari,Modena,2-1,https://www.besoccer.com/match/cagliari/modena-fc/2016113334,2016,12,serie_b
+Latina,Cesena,1-0,https://www.besoccer.com/match/latina/ac-cesena/2016113336,2016,12,serie_b
+Novara,Brescia,4-0,https://www.besoccer.com/match/novara-calcio/brescia/2016113337,2016,12,serie_b
+Pescara,Ternana Calcio,1-2,https://www.besoccer.com/match/pescara-calcio/ternana-calcio/2016113339,2016,12,serie_b
+Pro Vercelli,Livorno,1-0,https://www.besoccer.com/match/us-pro-vercelli-calcio/livorno/2016113340,2016,12,serie_b
+Trapani,Spezia,5-1,https://www.besoccer.com/match/trapani/asd-spezia/2016113341,2016,12,serie_b
+Virtus Entella,Como,2-2,https://www.besoccer.com/match/virtus-entella/como/2016164584,2016,12,serie_b
+Vicenza ,Ascoli,3-0,https://www.besoccer.com/match/vicenza-calcio/ascoli/2016164585,2016,12,serie_b
+Perugia,Virtus Lanciano,2-0,https://www.besoccer.com/match/perugia/ss-virtus-lanciano-1924/2016113338,2016,12,serie_b
+Crotone,Avellino,3-1,https://www.besoccer.com/match/fc-crotone/us-avellino/2016113335,2016,12,serie_b
+Livorno,Vicenza ,2-2,https://www.besoccer.com/match/livorno/vicenza-calcio/2016113346,2016,13,serie_b
+Modena,Pro Vercelli,1-0,https://www.besoccer.com/match/modena-fc/us-pro-vercelli-calcio/2016113347,2016,13,serie_b
+Spezia,Cagliari,0-3,https://www.besoccer.com/match/asd-spezia/cagliari/2016113349,2016,13,serie_b
+Avellino,Latina,3-1,https://www.besoccer.com/match/us-avellino/latina/2016113342,2016,13,serie_b
+Brescia,Trapani,3-0,https://www.besoccer.com/match/brescia/trapani/2016113343,2016,13,serie_b
+Como,Pescara,0-2,https://www.besoccer.com/match/como/pescara-calcio/2016113345,2016,13,serie_b
+Salernitana,Novara,1-0,https://www.besoccer.com/match/salernitana-calcio-1919/novara-calcio/2016113348,2016,13,serie_b
+Virtus Lanciano,Crotone,1-1,https://www.besoccer.com/match/ss-virtus-lanciano-1924/fc-crotone/2016113350,2016,13,serie_b
+Ascoli,Perugia,1-0,https://www.besoccer.com/match/ascoli/perugia/2016164595,2016,13,serie_b
+Ternana Calcio,Virtus Entella,1-2,https://www.besoccer.com/match/ternana-calcio/virtus-entella/2016164596,2016,13,serie_b
+Cesena,SSC Bari,0-2,https://www.besoccer.com/match/ac-cesena/as-bari/2016113344,2016,13,serie_b
+Pescara,Avellino,3-2,https://www.besoccer.com/match/pescara-calcio/us-avellino/2016113356,2016,14,serie_b
+Crotone,Ternana Calcio,3-0,https://www.besoccer.com/match/fc-crotone/ternana-calcio/2016113352,2016,14,serie_b
+Latina,Salernitana,2-2,https://www.besoccer.com/match/latina/salernitana-calcio-1919/2016113353,2016,14,serie_b
+Novara,Spezia,1-0,https://www.besoccer.com/match/novara-calcio/asd-spezia/2016113354,2016,14,serie_b
+Perugia,Brescia,4-0,https://www.besoccer.com/match/perugia/brescia/2016113355,2016,14,serie_b
+Pro Vercelli,Como,2-0,https://www.besoccer.com/match/us-pro-vercelli-calcio/como/2016113357,2016,14,serie_b
+Trapani,Modena,2-1,https://www.besoccer.com/match/trapani/modena-fc/2016113358,2016,14,serie_b
+Vicenza ,Cesena,1-1,https://www.besoccer.com/match/vicenza-calcio/ac-cesena/2016113359,2016,14,serie_b
+Virtus Entella,Virtus Lanciano,1-1,https://www.besoccer.com/match/virtus-entella/ss-virtus-lanciano-1924/2016164606,2016,14,serie_b
+SSC Bari,Livorno,1-0,https://www.besoccer.com/match/as-bari/livorno/2016113351,2016,14,serie_b
+Cagliari,Ascoli,3-0,https://www.besoccer.com/match/cagliari/ascoli/2016164607,2016,14,serie_b
+Spezia,Crotone,0-1,https://www.besoccer.com/match/asd-spezia/fc-crotone/2016113366,2016,15,serie_b
+Cesena,Pescara,1-0,https://www.besoccer.com/match/ac-cesena/pescara-calcio/2016113362,2016,15,serie_b
+Salernitana,Pro Vercelli,1-2,https://www.besoccer.com/match/salernitana-calcio-1919/us-pro-vercelli-calcio/2016113365,2016,15,serie_b
+Avellino,Perugia,1-2,https://www.besoccer.com/match/us-avellino/perugia/2016113360,2016,15,serie_b
+Brescia,Cagliari,4-0,https://www.besoccer.com/match/brescia/cagliari/2016113361,2016,15,serie_b
+Como,SSC Bari,1-1,https://www.besoccer.com/match/como/as-bari/2016113363,2016,15,serie_b
+Livorno,Novara,0-1,https://www.besoccer.com/match/livorno/novara-calcio/2016113364,2016,15,serie_b
+Ternana Calcio,Vicenza ,2-0,https://www.besoccer.com/match/ternana-calcio/vicenza-calcio/2016113367,2016,15,serie_b
+Virtus Lanciano,Latina,2-1,https://www.besoccer.com/match/ss-virtus-lanciano-1924/latina/2016113368,2016,15,serie_b
+Modena,Virtus Entella,0-1,https://www.besoccer.com/match/modena-fc/virtus-entella/2016164618,2016,15,serie_b
+Ascoli,Trapani,0-0,https://www.besoccer.com/match/ascoli/trapani/2016164617,2016,15,serie_b
+Virtus Entella,Brescia,0-0,https://www.besoccer.com/match/virtus-entella/brescia/2016164628,2016,16,serie_b
+Perugia,Modena,1-0,https://www.besoccer.com/match/perugia/modena-fc/2016113373,2016,16,serie_b
+Crotone,Cesena,2-0,https://www.besoccer.com/match/fc-crotone/ac-cesena/2016113370,2016,16,serie_b
+Latina,Livorno,3-1,https://www.besoccer.com/match/latina/livorno/2016113371,2016,16,serie_b
+Novara,Virtus Lanciano,4-1,https://www.besoccer.com/match/novara-calcio/ss-virtus-lanciano-1924/2016113372,2016,16,serie_b
+Pescara,Spezia,2-2,https://www.besoccer.com/match/pescara-calcio/asd-spezia/2016113374,2016,16,serie_b
+Pro Vercelli,Ternana Calcio,1-2,https://www.besoccer.com/match/us-pro-vercelli-calcio/ternana-calcio/2016113375,2016,16,serie_b
+Trapani,Avellino,2-1,https://www.besoccer.com/match/trapani/us-avellino/2016113376,2016,16,serie_b
+SSC Bari,Ascoli,3-0,https://www.besoccer.com/match/as-bari/ascoli/2016164629,2016,16,serie_b
+Vicenza ,Salernitana,0-0,https://www.besoccer.com/match/vicenza-calcio/salernitana-calcio-1919/2016113377,2016,16,serie_b
+Cagliari,Como,1-1,https://www.besoccer.com/match/cagliari/como/2016113369,2016,16,serie_b
+Avellino,Pro Vercelli,1-0,https://www.besoccer.com/match/us-avellino/us-pro-vercelli-calcio/2016113378,2016,17,serie_b
+Cesena,Trapani,0-0,https://www.besoccer.com/match/ac-cesena/trapani/2016113380,2016,17,serie_b
+Modena,SSC Bari,2-1,https://www.besoccer.com/match/modena-fc/as-bari/2016113383,2016,17,serie_b
+Perugia,Novara,1-4,https://www.besoccer.com/match/perugia/novara-calcio/2016113384,2016,17,serie_b
+Virtus Entella,Latina,1-0,https://www.besoccer.com/match/virtus-entella/latina/2016164630,2016,17,serie_b
+Ascoli,Ternana Calcio,1-0,https://www.besoccer.com/match/ascoli/ternana-calcio/2016164631,2016,17,serie_b
+Brescia,Pescara,2-0,https://www.besoccer.com/match/brescia/pescara-calcio/2016113379,2016,17,serie_b
+Como,Crotone,0-1,https://www.besoccer.com/match/como/fc-crotone/2016113381,2016,17,serie_b
+Livorno,Salernitana,0-0,https://www.besoccer.com/match/livorno/salernitana-calcio-1919/2016113382,2016,17,serie_b
+Spezia,Vicenza ,1-0,https://www.besoccer.com/match/asd-spezia/vicenza-calcio/2016113385,2016,17,serie_b
+Virtus Lanciano,Cagliari,1-3,https://www.besoccer.com/match/ss-virtus-lanciano-1924/cagliari/2016113386,2016,17,serie_b
+Avellino,Virtus Lanciano,3-2,https://www.besoccer.com/match/us-avellino/ss-virtus-lanciano-1924/2016113387,2016,18,serie_b
+Livorno,Cagliari,1-1,https://www.besoccer.com/match/livorno/cagliari/2016113390,2016,18,serie_b
+Pro Vercelli,Cesena,2-0,https://www.besoccer.com/match/us-pro-vercelli-calcio/ac-cesena/2016113392,2016,18,serie_b
+Spezia,Latina,2-1,https://www.besoccer.com/match/asd-spezia/latina/2016113393,2016,18,serie_b
+Ternana Calcio,Como,4-0,https://www.besoccer.com/match/ternana-calcio/como/2016113394,2016,18,serie_b
+Vicenza ,Brescia,1-2,https://www.besoccer.com/match/vicenza-calcio/brescia/2016113395,2016,18,serie_b
+Salernitana,Ascoli,2-0,https://www.besoccer.com/match/salernitana-calcio-1919/ascoli/2016164650,2016,18,serie_b
+Pescara,Virtus Entella,2-0,https://www.besoccer.com/match/pescara-calcio/virtus-entella/2016164651,2016,18,serie_b
+SSC Bari,Perugia,1-0,https://www.besoccer.com/match/as-bari/perugia/2016113388,2016,18,serie_b
+Crotone,Modena,1-0,https://www.besoccer.com/match/fc-crotone/modena-fc/2016113389,2016,18,serie_b
+Novara,Trapani,4-1,https://www.besoccer.com/match/novara-calcio/trapani/2016113391,2016,18,serie_b
+Modena,Salernitana,2-0,https://www.besoccer.com/match/modena-fc/salernitana-calcio-1919/2016113401,2016,19,serie_b
+Perugia,Livorno,4-1,https://www.besoccer.com/match/perugia/livorno/2016113402,2016,19,serie_b
+Brescia,Spezia,1-1,https://www.besoccer.com/match/brescia/asd-spezia/2016113396,2016,19,serie_b
+Cesena,Ternana Calcio,4-0,https://www.besoccer.com/match/ac-cesena/ternana-calcio/2016113398,2016,19,serie_b
+Como,Avellino,0-1,https://www.besoccer.com/match/como/us-avellino/2016113399,2016,19,serie_b
+Latina,Crotone,2-2,https://www.besoccer.com/match/latina/fc-crotone/2016113400,2016,19,serie_b
+Trapani,Pro Vercelli,1-1,https://www.besoccer.com/match/trapani/us-pro-vercelli-calcio/2016113403,2016,19,serie_b
+Virtus Lanciano,Pescara,1-2,https://www.besoccer.com/match/ss-virtus-lanciano-1924/pescara-calcio/2016113404,2016,19,serie_b
+Virtus Entella,Vicenza ,4-1,https://www.besoccer.com/match/virtus-entella/vicenza-calcio/2016164661,2016,19,serie_b
+Ascoli,Novara,1-3,https://www.besoccer.com/match/ascoli/novara-calcio/2016164662,2016,19,serie_b
+Cagliari,SSC Bari,2-1,https://www.besoccer.com/match/cagliari/as-bari/2016113397,2016,19,serie_b
+Avellino,Virtus Entella,2-0,https://www.besoccer.com/match/us-avellino/virtus-entella/2016164663,2016,20,serie_b
+SSC Bari,Brescia,1-2,https://www.besoccer.com/match/as-bari/brescia/2016113405,2016,20,serie_b
+Crotone,Trapani,0-0,https://www.besoccer.com/match/fc-crotone/trapani/2016113406,2016,20,serie_b
+Novara,Cesena,0-0,https://www.besoccer.com/match/novara-calcio/ac-cesena/2016113407,2016,20,serie_b
+Pescara,Modena,1-0,https://www.besoccer.com/match/pescara-calcio/modena-fc/2016113408,2016,20,serie_b
+Pro Vercelli,Perugia,0-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/perugia/2016113409,2016,20,serie_b
+Spezia,Como,1-1,https://www.besoccer.com/match/asd-spezia/como/2016113411,2016,20,serie_b
+Ternana Calcio,Virtus Lanciano,1-1,https://www.besoccer.com/match/ternana-calcio/ss-virtus-lanciano-1924/2016113412,2016,20,serie_b
+Vicenza ,Latina,1-1,https://www.besoccer.com/match/vicenza-calcio/latina/2016113413,2016,20,serie_b
+Livorno,Ascoli,1-3,https://www.besoccer.com/match/livorno/ascoli/2016164664,2016,20,serie_b
+Salernitana,Cagliari,0-2,https://www.besoccer.com/match/salernitana-calcio-1919/cagliari/2016113410,2016,20,serie_b
+Latina,Pescara,0-1,https://www.besoccer.com/match/latina/pescara-calcio/2016113418,2016,21,serie_b
+Brescia,Ternana Calcio,0-0,https://www.besoccer.com/match/brescia/ternana-calcio/2016113414,2016,21,serie_b
+Cagliari,Pro Vercelli,3-0,https://www.besoccer.com/match/cagliari/us-pro-vercelli-calcio/2016113415,2016,21,serie_b
+Cesena,Avellino,1-2,https://www.besoccer.com/match/ac-cesena/us-avellino/2016113416,2016,21,serie_b
+Como,Salernitana,2-1,https://www.besoccer.com/match/como/salernitana-calcio-1919/2016113417,2016,21,serie_b
+Modena,Novara,3-0,https://www.besoccer.com/match/modena-fc/novara-calcio/2016113419,2016,21,serie_b
+Trapani,SSC Bari,1-0,https://www.besoccer.com/match/trapani/as-bari/2016113421,2016,21,serie_b
+Virtus Lanciano,Livorno,2-1,https://www.besoccer.com/match/ss-virtus-lanciano-1924/livorno/2016113422,2016,21,serie_b
+Virtus Entella,Crotone,1-2,https://www.besoccer.com/match/virtus-entella/fc-crotone/2016164683,2016,21,serie_b
+Ascoli,Spezia,3-0,https://www.besoccer.com/match/ascoli/asd-spezia/2016164684,2016,21,serie_b
+Perugia,Vicenza ,0-1,https://www.besoccer.com/match/perugia/vicenza-calcio/2016113420,2016,21,serie_b
+Spezia,SSC Bari,0-0,https://www.besoccer.com/match/asd-spezia/as-bari/2016113430,2016,22,serie_b
+Avellino,Salernitana,1-0,https://www.besoccer.com/match/us-avellino/salernitana-calcio-1919/2016113423,2016,22,serie_b
+Como,Perugia,1-0,https://www.besoccer.com/match/como/perugia/2016113425,2016,22,serie_b
+Virtus Lanciano,Pro Vercelli,1-0,https://www.besoccer.com/match/ss-virtus-lanciano-1924/us-pro-vercelli-calcio/2016113427,2016,22,serie_b
+Latina,Novara,1-0,https://www.besoccer.com/match/latina/novara-calcio/2016113428,2016,22,serie_b
+Pescara,Livorno,2-1,https://www.besoccer.com/match/pescara-calcio/livorno/2016113429,2016,22,serie_b
+Ternana Calcio,Trapani,1-0,https://www.besoccer.com/match/ternana-calcio/trapani/2016113431,2016,22,serie_b
+Vicenza ,Modena,2-1,https://www.besoccer.com/match/vicenza-calcio/modena-fc/2016113432,2016,22,serie_b
+Brescia,Cesena,2-1,https://www.besoccer.com/match/brescia/ac-cesena/2016113424,2016,22,serie_b
+Crotone,Cagliari,3-1,https://www.besoccer.com/match/fc-crotone/cagliari/2016113426,2016,22,serie_b
+Virtus Entella,Ascoli,4-0,https://www.besoccer.com/match/virtus-entella/ascoli/2016164695,2016,22,serie_b
+Salernitana,Brescia,3-0,https://www.besoccer.com/match/salernitana-calcio-1919/brescia/2016113440,2016,23,serie_b
+SSC Bari,Vicenza ,2-1,https://www.besoccer.com/match/as-bari/vicenza-calcio/2016113433,2016,23,serie_b
+Cagliari,Ternana Calcio,1-0,https://www.besoccer.com/match/cagliari/ternana-calcio/2016113434,2016,23,serie_b
+Modena,Avellino,1-1,https://www.besoccer.com/match/modena-fc/us-avellino/2016113436,2016,23,serie_b
+Novara,Crotone,0-1,https://www.besoccer.com/match/novara-calcio/fc-crotone/2016113437,2016,23,serie_b
+Pro Vercelli,Spezia,0-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/asd-spezia/2016113439,2016,23,serie_b
+Trapani,Latina,1-2,https://www.besoccer.com/match/trapani/latina/2016113441,2016,23,serie_b
+Ascoli,Virtus Lanciano,1-0,https://www.besoccer.com/match/ascoli/ss-virtus-lanciano-1924/2016164705,2016,23,serie_b
+Cesena,Virtus Entella,2-0,https://www.besoccer.com/match/ac-cesena/virtus-entella/2016164706,2016,23,serie_b
+Perugia,Pescara,0-4,https://www.besoccer.com/match/perugia/pescara-calcio/2016113438,2016,23,serie_b
+Livorno,Como,1-1,https://www.besoccer.com/match/livorno/como/2016113435,2016,23,serie_b
+Avellino,Cagliari,1-2,https://www.besoccer.com/match/us-avellino/cagliari/2016113442,2016,24,serie_b
+Brescia,Livorno,1-3,https://www.besoccer.com/match/brescia/livorno/2016113443,2016,24,serie_b
+Como,Vicenza ,1-1,https://www.besoccer.com/match/como/vicenza-calcio/2016113444,2016,24,serie_b
+Crotone,Perugia,1-2,https://www.besoccer.com/match/fc-crotone/perugia/2016113445,2016,24,serie_b
+Virtus Lanciano,Trapani,0-3,https://www.besoccer.com/match/ss-virtus-lanciano-1924/trapani/2016113446,2016,24,serie_b
+Latina,Pro Vercelli,1-0,https://www.besoccer.com/match/latina/us-pro-vercelli-calcio/2016113447,2016,24,serie_b
+Pescara,SSC Bari,3-1,https://www.besoccer.com/match/pescara-calcio/as-bari/2016113448,2016,24,serie_b
+Ternana Calcio,Modena,2-1,https://www.besoccer.com/match/ternana-calcio/modena-fc/2016113450,2016,24,serie_b
+Cesena,Ascoli,3-0,https://www.besoccer.com/match/ac-cesena/ascoli/2016164717,2016,24,serie_b
+Virtus Entella,Novara,1-0,https://www.besoccer.com/match/virtus-entella/novara-calcio/2016164716,2016,24,serie_b
+Spezia,Salernitana,3-1,https://www.besoccer.com/match/asd-spezia/salernitana-calcio-1919/2016113449,2016,24,serie_b
+SSC Bari,Crotone,2-3,https://www.besoccer.com/match/as-bari/fc-crotone/2016113451,2016,25,serie_b
+Livorno,Ternana Calcio,1-0,https://www.besoccer.com/match/livorno/ternana-calcio/2016113452,2016,25,serie_b
+Novara,Avellino,4-1,https://www.besoccer.com/match/novara-calcio/us-avellino/2016113454,2016,25,serie_b
+Perugia,Spezia,0-0,https://www.besoccer.com/match/perugia/asd-spezia/2016113455,2016,25,serie_b
+Pro Vercelli,Brescia,2-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/brescia/2016113456,2016,25,serie_b
+Salernitana,Pescara,2-2,https://www.besoccer.com/match/salernitana-calcio-1919/pescara-calcio/2016113457,2016,25,serie_b
+Vicenza ,Virtus Lanciano,0-2,https://www.besoccer.com/match/vicenza-calcio/ss-virtus-lanciano-1924/2016113459,2016,25,serie_b
+Cagliari,Virtus Entella,1-0,https://www.besoccer.com/match/cagliari/virtus-entella/2016164727,2016,25,serie_b
+Ascoli,Latina,0-0,https://www.besoccer.com/match/ascoli/latina/2016164728,2016,25,serie_b
+Modena,Cesena,0-0,https://www.besoccer.com/match/modena-fc/ac-cesena/2016113453,2016,25,serie_b
+Trapani,Como,2-2,https://www.besoccer.com/match/trapani/como/2016113458,2016,25,serie_b
+Pescara,Vicenza ,1-1,https://www.besoccer.com/match/pescara-calcio/vicenza-calcio/2016113466,2016,26,serie_b
+Avellino,SSC Bari,1-1,https://www.besoccer.com/match/us-avellino/as-bari/2016113460,2016,26,serie_b
+Cesena,Perugia,2-1,https://www.besoccer.com/match/ac-cesena/perugia/2016113461,2016,26,serie_b
+Como,Novara,1-1,https://www.besoccer.com/match/como/novara-calcio/2016113462,2016,26,serie_b
+Crotone,Pro Vercelli,1-1,https://www.besoccer.com/match/fc-crotone/us-pro-vercelli-calcio/2016113463,2016,26,serie_b
+Virtus Lanciano,Modena,2-1,https://www.besoccer.com/match/ss-virtus-lanciano-1924/modena-fc/2016113464,2016,26,serie_b
+Latina,Cagliari,1-3,https://www.besoccer.com/match/latina/cagliari/2016113465,2016,26,serie_b
+Ternana Calcio,Salernitana,4-0,https://www.besoccer.com/match/ternana-calcio/salernitana-calcio-1919/2016113468,2016,26,serie_b
+Virtus Entella,Trapani,4-0,https://www.besoccer.com/match/virtus-entella/trapani/2016164738,2016,26,serie_b
+Spezia,Livorno,3-0,https://www.besoccer.com/match/asd-spezia/livorno/2016113467,2016,26,serie_b
+Brescia,Ascoli,2-2,https://www.besoccer.com/match/brescia/ascoli/2016164739,2016,26,serie_b
+SSC Bari,Latina,0-0,https://www.besoccer.com/match/as-bari/latina/2016113469,2016,27,serie_b
+Cagliari,Pescara,2-1,https://www.besoccer.com/match/cagliari/pescara-calcio/2016113470,2016,27,serie_b
+Livorno,Cesena,1-1,https://www.besoccer.com/match/livorno/ac-cesena/2016113471,2016,27,serie_b
+Modena,Brescia,1-0,https://www.besoccer.com/match/modena-fc/brescia/2016113472,2016,27,serie_b
+Novara,Ternana Calcio,1-2,https://www.besoccer.com/match/novara-calcio/ternana-calcio/2016113473,2016,27,serie_b
+Spezia,Virtus Lanciano,2-0,https://www.besoccer.com/match/asd-spezia/ss-virtus-lanciano-1924/2016113476,2016,27,serie_b
+Vicenza ,Avellino,0-0,https://www.besoccer.com/match/vicenza-calcio/us-avellino/2016113477,2016,27,serie_b
+Pro Vercelli,Virtus Entella,2-3,https://www.besoccer.com/match/us-pro-vercelli-calcio/virtus-entella/2016164749,2016,27,serie_b
+Ascoli,Como,1-0,https://www.besoccer.com/match/ascoli/como/2016164750,2016,27,serie_b
+Salernitana,Crotone,1-1,https://www.besoccer.com/match/salernitana-calcio-1919/fc-crotone/2016113475,2016,27,serie_b
+Perugia,Trapani,0-2,https://www.besoccer.com/match/perugia/trapani/2016113474,2016,27,serie_b
+Novara,Pro Vercelli,1-1,https://www.besoccer.com/match/novara-calcio/us-pro-vercelli-calcio/2016113484,2016,28,serie_b
+Cesena,Cagliari,2-0,https://www.besoccer.com/match/ac-cesena/cagliari/2016113480,2016,28,serie_b
+Avellino,Livorno,2-1,https://www.besoccer.com/match/us-avellino/livorno/2016113478,2016,28,serie_b
+Brescia,Como,2-1,https://www.besoccer.com/match/brescia/como/2016113479,2016,28,serie_b
+Crotone,Vicenza ,2-0,https://www.besoccer.com/match/fc-crotone/vicenza-calcio/2016113481,2016,28,serie_b
+Virtus Lanciano,SSC Bari,1-0,https://www.besoccer.com/match/ss-virtus-lanciano-1924/as-bari/2016113482,2016,28,serie_b
+Latina,Modena,0-1,https://www.besoccer.com/match/latina/modena-fc/2016113483,2016,28,serie_b
+Ternana Calcio,Spezia,1-2,https://www.besoccer.com/match/ternana-calcio/asd-spezia/2016113485,2016,28,serie_b
+Trapani,Salernitana,1-1,https://www.besoccer.com/match/trapani/salernitana-calcio-1919/2016113486,2016,28,serie_b
+Virtus Entella,Perugia,2-1,https://www.besoccer.com/match/virtus-entella/perugia/2016164760,2016,28,serie_b
+Pescara,Ascoli,2-2,https://www.besoccer.com/match/pescara-calcio/ascoli/2016164761,2016,28,serie_b
+Cagliari,Novara,0-1,https://www.besoccer.com/match/cagliari/novara-calcio/2016113489,2016,29,serie_b
+SSC Bari,Ternana Calcio,4-0,https://www.besoccer.com/match/as-bari/ternana-calcio/2016113487,2016,29,serie_b
+Brescia,Avellino,1-0,https://www.besoccer.com/match/brescia/us-avellino/2016113488,2016,29,serie_b
+Como,Virtus Lanciano,1-1,https://www.besoccer.com/match/como/ss-virtus-lanciano-1924/2016113490,2016,29,serie_b
+Livorno,Crotone,0-0,https://www.besoccer.com/match/livorno/fc-crotone/2016113491,2016,29,serie_b
+Perugia,Latina,2-0,https://www.besoccer.com/match/perugia/latina/2016113492,2016,29,serie_b
+Pescara,Trapani,1-2,https://www.besoccer.com/match/pescara-calcio/trapani/2016113493,2016,29,serie_b
+Spezia,Cesena,1-1,https://www.besoccer.com/match/asd-spezia/ac-cesena/2016113494,2016,29,serie_b
+Vicenza ,Pro Vercelli,1-1,https://www.besoccer.com/match/vicenza-calcio/us-pro-vercelli-calcio/2016113495,2016,29,serie_b
+Salernitana,Virtus Entella,2-2,https://www.besoccer.com/match/salernitana-calcio-1919/virtus-entella/2016164762,2016,29,serie_b
+Ascoli,Modena,2-1,https://www.besoccer.com/match/ascoli/modena-fc/2016164763,2016,29,serie_b
+Avellino,Spezia,0-1,https://www.besoccer.com/match/us-avellino/asd-spezia/2016113496,2016,30,serie_b
+Virtus Lanciano,Brescia,1-0,https://www.besoccer.com/match/ss-virtus-lanciano-1924/brescia/2016113498,2016,30,serie_b
+Latina,Como,1-1,https://www.besoccer.com/match/latina/como/2016113499,2016,30,serie_b
+Novara,Vicenza ,4-0,https://www.besoccer.com/match/novara-calcio/vicenza-calcio/2016113501,2016,30,serie_b
+Perugia,Ternana Calcio,1-0,https://www.besoccer.com/match/perugia/ternana-calcio/2016113502,2016,30,serie_b
+Trapani,Cagliari,2-2,https://www.besoccer.com/match/trapani/cagliari/2016113504,2016,30,serie_b
+Virtus Entella,SSC Bari,2-0,https://www.besoccer.com/match/virtus-entella/as-bari/2016164782,2016,30,serie_b
+Crotone,Ascoli,2-0,https://www.besoccer.com/match/fc-crotone/ascoli/2016164783,2016,30,serie_b
+Pro Vercelli,Pescara,5-2,https://www.besoccer.com/match/us-pro-vercelli-calcio/pescara-calcio/2016113503,2016,30,serie_b
+Modena,Livorno,1-0,https://www.besoccer.com/match/modena-fc/livorno/2016113500,2016,30,serie_b
+Cesena,Salernitana,1-2,https://www.besoccer.com/match/ac-cesena/salernitana-calcio-1919/2016113497,2016,30,serie_b
+Brescia,Crotone,3-0,https://www.besoccer.com/match/brescia/fc-crotone/2016113506,2016,31,serie_b
+SSC Bari,Pro Vercelli,6-2,https://www.besoccer.com/match/as-bari/us-pro-vercelli-calcio/2016113505,2016,31,serie_b
+Como,Cesena,1-3,https://www.besoccer.com/match/como/ac-cesena/2016113508,2016,31,serie_b
+Pescara,Novara,1-2,https://www.besoccer.com/match/pescara-calcio/novara-calcio/2016113509,2016,31,serie_b
+Salernitana,Virtus Lanciano,1-3,https://www.besoccer.com/match/salernitana-calcio-1919/ss-virtus-lanciano-1924/2016113510,2016,31,serie_b
+Spezia,Modena,2-0,https://www.besoccer.com/match/asd-spezia/modena-fc/2016113511,2016,31,serie_b
+Ternana Calcio,Latina,0-0,https://www.besoccer.com/match/ternana-calcio/latina/2016113512,2016,31,serie_b
+Livorno,Virtus Entella,0-0,https://www.besoccer.com/match/livorno/virtus-entella/2016164793,2016,31,serie_b
+Ascoli,Avellino,3-4,https://www.besoccer.com/match/ascoli/us-avellino/2016164794,2016,31,serie_b
+Vicenza ,Trapani,1-2,https://www.besoccer.com/match/vicenza-calcio/trapani/2016113513,2016,31,serie_b
+Cagliari,Perugia,0-2,https://www.besoccer.com/match/cagliari/perugia/2016113507,2016,31,serie_b
+Virtus Entella,Spezia,2-2,https://www.besoccer.com/match/virtus-entella/asd-spezia/2016164804,2016,32,serie_b
+Virtus Lanciano,Cesena,2-0,https://www.besoccer.com/match/ss-virtus-lanciano-1924/ac-cesena/2016113516,2016,32,serie_b
+Latina,Brescia,2-2,https://www.besoccer.com/match/latina/brescia/2016113517,2016,32,serie_b
+Modena,Como,1-2,https://www.besoccer.com/match/modena-fc/como/2016113518,2016,32,serie_b
+Novara,SSC Bari,1-2,https://www.besoccer.com/match/novara-calcio/as-bari/2016113519,2016,32,serie_b
+Perugia,Salernitana,1-1,https://www.besoccer.com/match/perugia/salernitana-calcio-1919/2016113520,2016,32,serie_b
+Trapani,Livorno,1-0,https://www.besoccer.com/match/trapani/livorno/2016113521,2016,32,serie_b
+Vicenza ,Cagliari,0-2,https://www.besoccer.com/match/vicenza-calcio/cagliari/2016113522,2016,32,serie_b
+Pro Vercelli,Ascoli,1-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/ascoli/2016164805,2016,32,serie_b
+Crotone,Pescara,4-2,https://www.besoccer.com/match/fc-crotone/pescara-calcio/2016113515,2016,32,serie_b
+Avellino,Ternana Calcio,0-2,https://www.besoccer.com/match/us-avellino/ternana-calcio/2016113514,2016,32,serie_b
+Avellino,Crotone,0-0,https://www.besoccer.com/match/us-avellino/fc-crotone/2016113523,2016,33,serie_b
+Cesena,Latina,3-0,https://www.besoccer.com/match/ac-cesena/latina/2016113525,2016,33,serie_b
+Virtus Lanciano,Perugia,0-1,https://www.besoccer.com/match/ss-virtus-lanciano-1924/perugia/2016113526,2016,33,serie_b
+Livorno,Pro Vercelli,0-1,https://www.besoccer.com/match/livorno/us-pro-vercelli-calcio/2016113527,2016,33,serie_b
+Modena,Cagliari,1-2,https://www.besoccer.com/match/modena-fc/cagliari/2016113528,2016,33,serie_b
+Spezia,Trapani,1-2,https://www.besoccer.com/match/asd-spezia/trapani/2016113530,2016,33,serie_b
+Ternana Calcio,Pescara,1-0,https://www.besoccer.com/match/ternana-calcio/pescara-calcio/2016113531,2016,33,serie_b
+Como,Virtus Entella,1-1,https://www.besoccer.com/match/como/virtus-entella/2016164815,2016,33,serie_b
+Ascoli,Vicenza ,1-2,https://www.besoccer.com/match/ascoli/vicenza-calcio/2016164816,2016,33,serie_b
+Brescia,Novara,0-0,https://www.besoccer.com/match/brescia/novara-calcio/2016113524,2016,33,serie_b
+Salernitana,SSC Bari,3-4,https://www.besoccer.com/match/salernitana-calcio-1919/as-bari/2016113529,2016,33,serie_b
+Crotone,Virtus Lanciano,1-0,https://www.besoccer.com/match/fc-crotone/ss-virtus-lanciano-1924/2016113534,2016,34,serie_b
+Cagliari,Spezia,1-2,https://www.besoccer.com/match/cagliari/asd-spezia/2016113533,2016,34,serie_b
+Latina,Avellino,3-0,https://www.besoccer.com/match/latina/us-avellino/2016113535,2016,34,serie_b
+Pescara,Como,2-1,https://www.besoccer.com/match/pescara-calcio/como/2016113537,2016,34,serie_b
+Pro Vercelli,Modena,1-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/modena-fc/2016113538,2016,34,serie_b
+Trapani,Brescia,3-0,https://www.besoccer.com/match/trapani/brescia/2016113539,2016,34,serie_b
+Vicenza ,Livorno,2-0,https://www.besoccer.com/match/vicenza-calcio/livorno/2016113540,2016,34,serie_b
+Virtus Entella,Ternana Calcio,2-2,https://www.besoccer.com/match/virtus-entella/ternana-calcio/2016164826,2016,34,serie_b
+Perugia,Ascoli,0-2,https://www.besoccer.com/match/perugia/ascoli/2016164827,2016,34,serie_b
+Novara,Salernitana,1-1,https://www.besoccer.com/match/novara-calcio/salernitana-calcio-1919/2016113536,2016,34,serie_b
+SSC Bari,Cesena,0-0,https://www.besoccer.com/match/as-bari/ac-cesena/2016113532,2016,34,serie_b
+Avellino,Pescara,1-3,https://www.besoccer.com/match/us-avellino/pescara-calcio/2016113541,2016,35,serie_b
+Cesena,Vicenza ,1-1,https://www.besoccer.com/match/ac-cesena/vicenza-calcio/2016113543,2016,35,serie_b
+Livorno,SSC Bari,1-2,https://www.besoccer.com/match/livorno/as-bari/2016113545,2016,35,serie_b
+Modena,Trapani,1-4,https://www.besoccer.com/match/modena-fc/trapani/2016113546,2016,35,serie_b
+Salernitana,Latina,3-2,https://www.besoccer.com/match/salernitana-calcio-1919/latina/2016113547,2016,35,serie_b
+Spezia,Novara,1-0,https://www.besoccer.com/match/asd-spezia/novara-calcio/2016113548,2016,35,serie_b
+Ternana Calcio,Crotone,1-2,https://www.besoccer.com/match/ternana-calcio/fc-crotone/2016113549,2016,35,serie_b
+Virtus Lanciano,Virtus Entella,1-2,https://www.besoccer.com/match/ss-virtus-lanciano-1924/virtus-entella/2016164837,2016,35,serie_b
+Ascoli,Cagliari,2-1,https://www.besoccer.com/match/ascoli/cagliari/2016164838,2016,35,serie_b
+Como,Pro Vercelli,1-1,https://www.besoccer.com/match/como/us-pro-vercelli-calcio/2016113544,2016,35,serie_b
+Brescia,Perugia,2-2,https://www.besoccer.com/match/brescia/perugia/2016113542,2016,35,serie_b
+Crotone,Spezia,0-0,https://www.besoccer.com/match/fc-crotone/asd-spezia/2016113552,2016,36,serie_b
+Pescara,Cesena,1-0,https://www.besoccer.com/match/pescara-calcio/ac-cesena/2016113556,2016,36,serie_b
+SSC Bari,Como,3-0,https://www.besoccer.com/match/as-bari/como/2016113550,2016,36,serie_b
+Cagliari,Brescia,6-0,https://www.besoccer.com/match/cagliari/brescia/2016113551,2016,36,serie_b
+Latina,Virtus Lanciano,2-2,https://www.besoccer.com/match/latina/ss-virtus-lanciano-1924/2016113553,2016,36,serie_b
+Novara,Livorno,2-1,https://www.besoccer.com/match/novara-calcio/livorno/2016113554,2016,36,serie_b
+Perugia,Avellino,2-0,https://www.besoccer.com/match/perugia/us-avellino/2016113555,2016,36,serie_b
+Pro Vercelli,Salernitana,1-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/salernitana-calcio-1919/2016113557,2016,36,serie_b
+Vicenza ,Ternana Calcio,2-1,https://www.besoccer.com/match/vicenza-calcio/ternana-calcio/2016113558,2016,36,serie_b
+Virtus Entella,Modena,1-0,https://www.besoccer.com/match/virtus-entella/modena-fc/2016164848,2016,36,serie_b
+Trapani,Ascoli,4-3,https://www.besoccer.com/match/trapani/ascoli/2016164849,2016,36,serie_b
+Cesena,Crotone,2-1,https://www.besoccer.com/match/ac-cesena/fc-crotone/2016113560,2016,37,serie_b
+Avellino,Trapani,1-3,https://www.besoccer.com/match/us-avellino/trapani/2016113559,2016,37,serie_b
+Como,Cagliari,1-1,https://www.besoccer.com/match/como/cagliari/2016113561,2016,37,serie_b
+Virtus Lanciano,Novara,2-1,https://www.besoccer.com/match/ss-virtus-lanciano-1924/novara-calcio/2016113562,2016,37,serie_b
+Livorno,Latina,1-0,https://www.besoccer.com/match/livorno/latina/2016113563,2016,37,serie_b
+Modena,Perugia,3-0,https://www.besoccer.com/match/modena-fc/perugia/2016113564,2016,37,serie_b
+Salernitana,Vicenza ,0-0,https://www.besoccer.com/match/salernitana-calcio-1919/vicenza-calcio/2016113565,2016,37,serie_b
+Spezia,Pescara,0-1,https://www.besoccer.com/match/asd-spezia/pescara-calcio/2016113566,2016,37,serie_b
+Ternana Calcio,Pro Vercelli,2-2,https://www.besoccer.com/match/ternana-calcio/us-pro-vercelli-calcio/2016113567,2016,37,serie_b
+Brescia,Virtus Entella,2-0,https://www.besoccer.com/match/brescia/virtus-entella/2016164850,2016,37,serie_b
+Ascoli,SSC Bari,0-1,https://www.besoccer.com/match/ascoli/as-bari/2016164851,2016,37,serie_b
+SSC Bari,Modena,1-1,https://www.besoccer.com/match/as-bari/modena-fc/2016113568,2016,38,serie_b
+Cagliari,Virtus Lanciano,1-1,https://www.besoccer.com/match/cagliari/ss-virtus-lanciano-1924/2016113569,2016,38,serie_b
+Crotone,Como,2-0,https://www.besoccer.com/match/fc-crotone/como/2016113570,2016,38,serie_b
+Pescara,Brescia,2-1,https://www.besoccer.com/match/pescara-calcio/brescia/2016113572,2016,38,serie_b
+Pro Vercelli,Avellino,1-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/us-avellino/2016113573,2016,38,serie_b
+Trapani,Cesena,2-1,https://www.besoccer.com/match/trapani/ac-cesena/2016113575,2016,38,serie_b
+Ternana Calcio,Ascoli,1-3,https://www.besoccer.com/match/ternana-calcio/ascoli/2016164871,2016,38,serie_b
+Vicenza ,Spezia,0-3,https://www.besoccer.com/match/vicenza-calcio/asd-spezia/2016113576,2016,38,serie_b
+Salernitana,Livorno,3-1,https://www.besoccer.com/match/salernitana-calcio-1919/livorno/2016113574,2016,38,serie_b
+Latina,Virtus Entella,0-1,https://www.besoccer.com/match/latina/virtus-entella/2016164870,2016,38,serie_b
+Novara,Perugia,2-2,https://www.besoccer.com/match/novara-calcio/perugia/2016113571,2016,38,serie_b
+Modena,Crotone,1-1,https://www.besoccer.com/match/modena-fc/fc-crotone/2016113583,2016,39,serie_b
+Brescia,Vicenza ,0-1,https://www.besoccer.com/match/brescia/vicenza-calcio/2016113577,2016,39,serie_b
+Cagliari,Livorno,2-2,https://www.besoccer.com/match/cagliari/livorno/2016113578,2016,39,serie_b
+Virtus Lanciano,Avellino,1-2,https://www.besoccer.com/match/ss-virtus-lanciano-1924/us-avellino/2016113581,2016,39,serie_b
+Latina,Spezia,0-0,https://www.besoccer.com/match/latina/asd-spezia/2016113582,2016,39,serie_b
+Perugia,SSC Bari,0-0,https://www.besoccer.com/match/perugia/as-bari/2016113584,2016,39,serie_b
+Trapani,Novara,0-0,https://www.besoccer.com/match/trapani/novara-calcio/2016113585,2016,39,serie_b
+Virtus Entella,Pescara,0-0,https://www.besoccer.com/match/virtus-entella/pescara-calcio/2016164881,2016,39,serie_b
+Ascoli,Salernitana,2-2,https://www.besoccer.com/match/ascoli/salernitana-calcio-1919/2016164882,2016,39,serie_b
+Como,Ternana Calcio,1-2,https://www.besoccer.com/match/como/ternana-calcio/2016113580,2016,39,serie_b
+Cesena,Pro Vercelli,2-1,https://www.besoccer.com/match/ac-cesena/us-pro-vercelli-calcio/2016113579,2016,39,serie_b
+SSC Bari,Cagliari,0-3,https://www.besoccer.com/match/as-bari/cagliari/2016113587,2016,40,serie_b
+Avellino,Como,1-1,https://www.besoccer.com/match/us-avellino/como/2016113586,2016,40,serie_b
+Crotone,Latina,1-1,https://www.besoccer.com/match/fc-crotone/latina/2016113588,2016,40,serie_b
+Livorno,Perugia,1-1,https://www.besoccer.com/match/livorno/perugia/2016113589,2016,40,serie_b
+Pro Vercelli,Trapani,1-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/trapani/2016113591,2016,40,serie_b
+Salernitana,Modena,0-0,https://www.besoccer.com/match/salernitana-calcio-1919/modena-fc/2016113592,2016,40,serie_b
+Ternana Calcio,Cesena,1-1,https://www.besoccer.com/match/ternana-calcio/ac-cesena/2016113594,2016,40,serie_b
+Vicenza ,Virtus Entella,2-1,https://www.besoccer.com/match/vicenza-calcio/virtus-entella/2016164452,2016,40,serie_b
+Novara,Ascoli,2-0,https://www.besoccer.com/match/novara-calcio/ascoli/2016164453,2016,40,serie_b
+Pescara,Virtus Lanciano,4-0,https://www.besoccer.com/match/pescara-calcio/ss-virtus-lanciano-1924/2016113590,2016,40,serie_b
+Spezia,Brescia,2-1,https://www.besoccer.com/match/asd-spezia/brescia/2016113593,2016,40,serie_b
+Perugia,Pro Vercelli,1-2,https://www.besoccer.com/match/perugia/us-pro-vercelli-calcio/2016113602,2016,41,serie_b
+Brescia,SSC Bari,2-3,https://www.besoccer.com/match/brescia/as-bari/2016113595,2016,41,serie_b
+Cagliari,Salernitana,3-0,https://www.besoccer.com/match/cagliari/salernitana-calcio-1919/2016113596,2016,41,serie_b
+Cesena,Novara,1-0,https://www.besoccer.com/match/ac-cesena/novara-calcio/2016113597,2016,41,serie_b
+Virtus Lanciano,Ternana Calcio,1-1,https://www.besoccer.com/match/ss-virtus-lanciano-1924/ternana-calcio/2016113599,2016,41,serie_b
+Latina,Vicenza ,2-1,https://www.besoccer.com/match/latina/vicenza-calcio/2016113600,2016,41,serie_b
+Modena,Pescara,2-5,https://www.besoccer.com/match/modena-fc/pescara-calcio/2016113601,2016,41,serie_b
+Trapani,Crotone,3-0,https://www.besoccer.com/match/trapani/fc-crotone/2016113603,2016,41,serie_b
+Virtus Entella,Avellino,4-0,https://www.besoccer.com/match/virtus-entella/us-avellino/2016164441,2016,41,serie_b
+Ascoli,Livorno,1-3,https://www.besoccer.com/match/ascoli/livorno/2016164442,2016,41,serie_b
+Como,Spezia,4-0,https://www.besoccer.com/match/como/asd-spezia/2016113598,2016,41,serie_b
+Avellino,Cesena,1-2,https://www.besoccer.com/match/us-avellino/ac-cesena/2016113224,2016,42,serie_b
+SSC Bari,Trapani,1-2,https://www.besoccer.com/match/as-bari/trapani/2016113225,2016,42,serie_b
+Livorno,Virtus Lanciano,2-2,https://www.besoccer.com/match/livorno/ss-virtus-lanciano-1924/2016113226,2016,42,serie_b
+Novara,Modena,4-0,https://www.besoccer.com/match/novara-calcio/modena-fc/2016113227,2016,42,serie_b
+Pescara,Latina,1-1,https://www.besoccer.com/match/pescara-calcio/latina/2016113228,2016,42,serie_b
+Pro Vercelli,Cagliari,1-2,https://www.besoccer.com/match/us-pro-vercelli-calcio/cagliari/2016113229,2016,42,serie_b
+Salernitana,Como,1-0,https://www.besoccer.com/match/salernitana-calcio-1919/como/2016113230,2016,42,serie_b
+Ternana Calcio,Brescia,3-2,https://www.besoccer.com/match/ternana-calcio/brescia/2016113231,2016,42,serie_b
+Vicenza ,Perugia,0-0,https://www.besoccer.com/match/vicenza-calcio/perugia/2016113232,2016,42,serie_b
+Crotone,Virtus Entella,1-0,https://www.besoccer.com/match/fc-crotone/virtus-entella/2016164421,2016,42,serie_b
+Spezia,Ascoli,0-0,https://www.besoccer.com/match/asd-spezia/ascoli/2016164422,2016,42,serie_b

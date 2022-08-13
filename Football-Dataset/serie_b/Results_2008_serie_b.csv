@@ -1,0 +1,463 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+AlbinoLeffe,Spezia,3-2,https://www.besoccer.com/match/uc-albinoleffe/asd-spezia/200820403,2008,1,serie_b
+Cesena,Chievo,1-1,https://www.besoccer.com/match/ac-cesena/chievo/200820404,2008,1,serie_b
+Triestina ,Messina,1-1,https://www.besoccer.com/match/us-triestina-calcio/messina/200820405,2008,1,serie_b
+Brescia,Vicenza ,2-0,https://www.besoccer.com/match/brescia/vicenza-calcio/200820406,2008,1,serie_b
+Treviso,Avellino,1-0,https://www.besoccer.com/match/treviso/us-avellino/200820407,2008,1,serie_b
+Bologna,Rimini,0-0,https://www.besoccer.com/match/bologna/rimini-calcio/200820408,2008,1,serie_b
+Mantova,Ravenna FC,1-1,https://www.besoccer.com/match/ac-mantova/ravenna-calcio/200820409,2008,1,serie_b
+SSC Bari,Pisa,1-2,https://www.besoccer.com/match/as-bari/pisa-calcio/200820410,2008,1,serie_b
+Modena,Grosseto,3-0,https://www.besoccer.com/match/modena-fc/us-grosseto/200820411,2008,1,serie_b
+Ascoli,Piacenza,4-1,https://www.besoccer.com/match/ascoli/piacenza/200820412,2008,1,serie_b
+Frosinone,Lecce,1-2,https://www.besoccer.com/match/frosinone-calcio/lecce/200820413,2008,1,serie_b
+Grosseto,Brescia,0-1,https://www.besoccer.com/match/us-grosseto/brescia/200820402,2008,2,serie_b
+Avellino,Mantova,0-1,https://www.besoccer.com/match/us-avellino/ac-mantova/200820393,2008,2,serie_b
+Piacenza,Modena,1-2,https://www.besoccer.com/match/piacenza/modena-fc/200820394,2008,2,serie_b
+Vicenza ,AlbinoLeffe,1-1,https://www.besoccer.com/match/vicenza-calcio/uc-albinoleffe/200820395,2008,2,serie_b
+Messina,Cesena,1-0,https://www.besoccer.com/match/messina/ac-cesena/200820396,2008,2,serie_b
+Lecce,Treviso,1-0,https://www.besoccer.com/match/lecce/treviso/200820397,2008,2,serie_b
+Rimini,SSC Bari,2-1,https://www.besoccer.com/match/rimini-calcio/as-bari/200820398,2008,2,serie_b
+Ravenna FC,Ascoli,2-1,https://www.besoccer.com/match/ravenna-calcio/ascoli/200820399,2008,2,serie_b
+Chievo,Triestina ,3-0,https://www.besoccer.com/match/chievo/us-triestina-calcio/200820400,2008,2,serie_b
+Pisa,Frosinone,0-1,https://www.besoccer.com/match/pisa-calcio/frosinone-calcio/200820401,2008,2,serie_b
+Spezia,Bologna,0-2,https://www.besoccer.com/match/asd-spezia/bologna/200820392,2008,2,serie_b
+Cesena,Pisa,1-2,https://www.besoccer.com/match/ac-cesena/pisa-calcio/200820382,2008,3,serie_b
+Triestina ,Lecce,1-1,https://www.besoccer.com/match/us-triestina-calcio/lecce/200820383,2008,3,serie_b
+Treviso,Chievo,0-1,https://www.besoccer.com/match/treviso/chievo/200820384,2008,3,serie_b
+Bologna,Ravenna FC,2-1,https://www.besoccer.com/match/bologna/ravenna-calcio/200820385,2008,3,serie_b
+Modena,Spezia,2-2,https://www.besoccer.com/match/modena-fc/asd-spezia/200820386,2008,3,serie_b
+SSC Bari,Vicenza ,2-0,https://www.besoccer.com/match/as-bari/vicenza-calcio/200820387,2008,3,serie_b
+Mantova,Messina,4-0,https://www.besoccer.com/match/ac-mantova/messina/200820388,2008,3,serie_b
+Ascoli,Rimini,0-0,https://www.besoccer.com/match/ascoli/rimini-calcio/200820389,2008,3,serie_b
+Frosinone,Avellino,2-1,https://www.besoccer.com/match/frosinone-calcio/us-avellino/200820390,2008,3,serie_b
+AlbinoLeffe,Grosseto,2-1,https://www.besoccer.com/match/uc-albinoleffe/us-grosseto/200820391,2008,3,serie_b
+Brescia,Piacenza,2-0,https://www.besoccer.com/match/brescia/piacenza/200820381,2008,3,serie_b
+Vicenza ,Mantova,0-0,https://www.besoccer.com/match/vicenza-calcio/ac-mantova/200820370,2008,4,serie_b
+Messina,Frosinone,0-0,https://www.besoccer.com/match/messina/frosinone-calcio/200820371,2008,4,serie_b
+Spezia,Triestina ,0-1,https://www.besoccer.com/match/asd-spezia/us-triestina-calcio/200820372,2008,4,serie_b
+Lecce,Ascoli,0-0,https://www.besoccer.com/match/lecce/ascoli/200820373,2008,4,serie_b
+Rimini,Treviso,2-1,https://www.besoccer.com/match/rimini-calcio/treviso/200820374,2008,4,serie_b
+Grosseto,Cesena,0-0,https://www.besoccer.com/match/us-grosseto/ac-cesena/200820375,2008,4,serie_b
+Ravenna FC,AlbinoLeffe,0-2,https://www.besoccer.com/match/ravenna-calcio/uc-albinoleffe/200820376,2008,4,serie_b
+Chievo,Modena,0-0,https://www.besoccer.com/match/chievo/modena-fc/200820377,2008,4,serie_b
+Pisa,Brescia,0-3,https://www.besoccer.com/match/pisa-calcio/brescia/200820378,2008,4,serie_b
+Avellino,Bologna,1-0,https://www.besoccer.com/match/us-avellino/bologna/200820379,2008,4,serie_b
+Piacenza,SSC Bari,1-0,https://www.besoccer.com/match/piacenza/as-bari/200820380,2008,4,serie_b
+Cesena,Vicenza ,3-3,https://www.besoccer.com/match/ac-cesena/vicenza-calcio/200820359,2008,5,serie_b
+Treviso,Piacenza,1-0,https://www.besoccer.com/match/treviso/piacenza/200820360,2008,5,serie_b
+Brescia,Messina,3-1,https://www.besoccer.com/match/brescia/messina/200820361,2008,5,serie_b
+Modena,AlbinoLeffe,2-3,https://www.besoccer.com/match/modena-fc/uc-albinoleffe/200820362,2008,5,serie_b
+SSC Bari,Ravenna FC,4-2,https://www.besoccer.com/match/as-bari/ravenna-calcio/200820363,2008,5,serie_b
+Mantova,Pisa,0-1,https://www.besoccer.com/match/ac-mantova/pisa-calcio/200820364,2008,5,serie_b
+Avellino,Lecce,0-2,https://www.besoccer.com/match/us-avellino/lecce/200820365,2008,5,serie_b
+Grosseto,Rimini,2-1,https://www.besoccer.com/match/us-grosseto/rimini-calcio/200820366,2008,5,serie_b
+Ascoli,Spezia,1-0,https://www.besoccer.com/match/ascoli/asd-spezia/200820367,2008,5,serie_b
+Frosinone,Chievo,1-2,https://www.besoccer.com/match/frosinone-calcio/chievo/200820368,2008,5,serie_b
+Triestina ,Bologna,1-3,https://www.besoccer.com/match/us-triestina-calcio/bologna/200820369,2008,5,serie_b
+Messina,Treviso,2-0,https://www.besoccer.com/match/messina/treviso/200820348,2008,6,serie_b
+Spezia,Frosinone,3-0,https://www.besoccer.com/match/asd-spezia/frosinone-calcio/200820349,2008,6,serie_b
+Chievo,Avellino,3-0,https://www.besoccer.com/match/chievo/us-avellino/200820350,2008,6,serie_b
+Rimini,Modena,1-0,https://www.besoccer.com/match/rimini-calcio/modena-fc/200820351,2008,6,serie_b
+Bologna,Brescia,2-2,https://www.besoccer.com/match/bologna/brescia/200820352,2008,6,serie_b
+Ravenna FC,Grosseto,2-1,https://www.besoccer.com/match/ravenna-calcio/us-grosseto/200820353,2008,6,serie_b
+SSC Bari,Mantova,2-0,https://www.besoccer.com/match/as-bari/ac-mantova/200820354,2008,6,serie_b
+Pisa,Triestina ,2-1,https://www.besoccer.com/match/pisa-calcio/us-triestina-calcio/200820355,2008,6,serie_b
+AlbinoLeffe,Cesena,1-0,https://www.besoccer.com/match/uc-albinoleffe/ac-cesena/200820356,2008,6,serie_b
+Piacenza,Lecce,0-1,https://www.besoccer.com/match/piacenza/lecce/200820357,2008,6,serie_b
+Vicenza ,Ascoli,1-1,https://www.besoccer.com/match/vicenza-calcio/ascoli/200820358,2008,6,serie_b
+Treviso,Pisa,2-3,https://www.besoccer.com/match/treviso/pisa-calcio/200820337,2008,7,serie_b
+Cesena,Bologna,0-0,https://www.besoccer.com/match/ac-cesena/bologna/200820338,2008,7,serie_b
+Piacenza,Spezia,1-0,https://www.besoccer.com/match/piacenza/asd-spezia/200820339,2008,7,serie_b
+Brescia,Ravenna FC,2-1,https://www.besoccer.com/match/brescia/ravenna-calcio/200820340,2008,7,serie_b
+Modena,Messina,1-0,https://www.besoccer.com/match/modena-fc/messina/200820341,2008,7,serie_b
+Ascoli,Avellino,3-1,https://www.besoccer.com/match/ascoli/us-avellino/200820342,2008,7,serie_b
+Lecce,Chievo,3-0,https://www.besoccer.com/match/lecce/chievo/200820343,2008,7,serie_b
+AlbinoLeffe,SSC Bari,4-1,https://www.besoccer.com/match/uc-albinoleffe/as-bari/200820344,2008,7,serie_b
+Grosseto,Vicenza ,2-1,https://www.besoccer.com/match/us-grosseto/vicenza-calcio/200820345,2008,7,serie_b
+Triestina ,Mantova,1-0,https://www.besoccer.com/match/us-triestina-calcio/ac-mantova/200820346,2008,7,serie_b
+Frosinone,Rimini,3-2,https://www.besoccer.com/match/frosinone-calcio/rimini-calcio/200820347,2008,7,serie_b
+Cesena,Brescia,1-1,https://www.besoccer.com/match/ac-cesena/brescia/200820326,2008,8,serie_b
+Ravenna FC,Frosinone,0-2,https://www.besoccer.com/match/ravenna-calcio/frosinone-calcio/200820327,2008,8,serie_b
+Bologna,Lecce,1-0,https://www.besoccer.com/match/bologna/lecce/200820328,2008,8,serie_b
+Pisa,Ascoli,2-1,https://www.besoccer.com/match/pisa-calcio/ascoli/200820329,2008,8,serie_b
+SSC Bari,Grosseto,0-0,https://www.besoccer.com/match/as-bari/us-grosseto/200820330,2008,8,serie_b
+Messina,AlbinoLeffe,2-1,https://www.besoccer.com/match/messina/uc-albinoleffe/200820331,2008,8,serie_b
+Avellino,Piacenza,0-1,https://www.besoccer.com/match/us-avellino/piacenza/200820332,2008,8,serie_b
+Mantova,Modena,3-2,https://www.besoccer.com/match/ac-mantova/modena-fc/200820333,2008,8,serie_b
+Vicenza ,Triestina ,2-2,https://www.besoccer.com/match/vicenza-calcio/us-triestina-calcio/200820334,2008,8,serie_b
+Chievo,Rimini,2-2,https://www.besoccer.com/match/chievo/rimini-calcio/200820335,2008,8,serie_b
+Spezia,Treviso,5-2,https://www.besoccer.com/match/asd-spezia/treviso/200820336,2008,8,serie_b
+Frosinone,SSC Bari,4-1,https://www.besoccer.com/match/frosinone-calcio/as-bari/200820316,2008,9,serie_b
+Ravenna FC,Triestina ,2-2,https://www.besoccer.com/match/ravenna-calcio/us-triestina-calcio/200820317,2008,9,serie_b
+Piacenza,Bologna,0-1,https://www.besoccer.com/match/piacenza/bologna/200820318,2008,9,serie_b
+Ascoli,Chievo,1-2,https://www.besoccer.com/match/ascoli/chievo/200820319,2008,9,serie_b
+Modena,Cesena,1-1,https://www.besoccer.com/match/modena-fc/ac-cesena/200820320,2008,9,serie_b
+AlbinoLeffe,Pisa,2-3,https://www.besoccer.com/match/uc-albinoleffe/pisa-calcio/200820321,2008,9,serie_b
+Lecce,Spezia,2-2,https://www.besoccer.com/match/lecce/asd-spezia/200820322,2008,9,serie_b
+Treviso,Vicenza ,1-3,https://www.besoccer.com/match/treviso/vicenza-calcio/200820323,2008,9,serie_b
+Grosseto,Messina,0-0,https://www.besoccer.com/match/us-grosseto/messina/200820324,2008,9,serie_b
+Rimini,Avellino,2-2,https://www.besoccer.com/match/rimini-calcio/us-avellino/200820325,2008,9,serie_b
+Brescia,Mantova,0-3,https://www.besoccer.com/match/brescia/ac-mantova/200820315,2008,9,serie_b
+Spezia,Rimini,0-1,https://www.besoccer.com/match/asd-spezia/rimini-calcio/200820304,2008,10,serie_b
+Cesena,SSC Bari,0-0,https://www.besoccer.com/match/ac-cesena/as-bari/200820305,2008,10,serie_b
+Pisa,Piacenza,3-1,https://www.besoccer.com/match/pisa-calcio/piacenza/200820306,2008,10,serie_b
+Bologna,Treviso,1-0,https://www.besoccer.com/match/bologna/treviso/200820307,2008,10,serie_b
+Messina,Ascoli,1-0,https://www.besoccer.com/match/messina/ascoli/200820308,2008,10,serie_b
+Avellino,AlbinoLeffe,0-0,https://www.besoccer.com/match/us-avellino/uc-albinoleffe/200820309,2008,10,serie_b
+Mantova,Grosseto,0-0,https://www.besoccer.com/match/ac-mantova/us-grosseto/200820310,2008,10,serie_b
+Vicenza ,Modena,1-2,https://www.besoccer.com/match/vicenza-calcio/modena-fc/200820311,2008,10,serie_b
+Lecce,Brescia,1-2,https://www.besoccer.com/match/lecce/brescia/200820312,2008,10,serie_b
+Triestina ,Frosinone,1-2,https://www.besoccer.com/match/us-triestina-calcio/frosinone-calcio/200820313,2008,10,serie_b
+Chievo,Ravenna FC,3-2,https://www.besoccer.com/match/chievo/ravenna-calcio/200820314,2008,10,serie_b
+SSC Bari,Messina,1-1,https://www.besoccer.com/match/as-bari/messina/200820293,2008,11,serie_b
+Piacenza,Chievo,1-3,https://www.besoccer.com/match/piacenza/chievo/200820294,2008,11,serie_b
+Ascoli,Cesena,5-2,https://www.besoccer.com/match/ascoli/ac-cesena/200820295,2008,11,serie_b
+Modena,Avellino,1-0,https://www.besoccer.com/match/modena-fc/us-avellino/200820296,2008,11,serie_b
+AlbinoLeffe,Mantova,2-0,https://www.besoccer.com/match/uc-albinoleffe/ac-mantova/200820297,2008,11,serie_b
+Grosseto,Pisa,2-0,https://www.besoccer.com/match/us-grosseto/pisa-calcio/200820298,2008,11,serie_b
+Vicenza ,Spezia,0-0,https://www.besoccer.com/match/vicenza-calcio/asd-spezia/200820299,2008,11,serie_b
+Frosinone,Bologna,0-0,https://www.besoccer.com/match/frosinone-calcio/bologna/200820300,2008,11,serie_b
+Rimini,Lecce,2-3,https://www.besoccer.com/match/rimini-calcio/lecce/200820301,2008,11,serie_b
+Brescia,Triestina ,4-1,https://www.besoccer.com/match/brescia/us-triestina-calcio/200820302,2008,11,serie_b
+Ravenna FC,Treviso,1-0,https://www.besoccer.com/match/ravenna-calcio/treviso/200820303,2008,11,serie_b
+Chievo,AlbinoLeffe,0-1,https://www.besoccer.com/match/chievo/uc-albinoleffe/200820283,2008,12,serie_b
+Rimini,Piacenza,0-1,https://www.besoccer.com/match/rimini-calcio/piacenza/200820284,2008,12,serie_b
+Pisa,Modena,3-3,https://www.besoccer.com/match/pisa-calcio/modena-fc/200820285,2008,12,serie_b
+Avellino,Ravenna FC,3-2,https://www.besoccer.com/match/us-avellino/ravenna-calcio/200820286,2008,12,serie_b
+Messina,Vicenza ,0-2,https://www.besoccer.com/match/messina/vicenza-calcio/200820287,2008,12,serie_b
+Triestina ,SSC Bari,1-1,https://www.besoccer.com/match/us-triestina-calcio/as-bari/200820288,2008,12,serie_b
+Mantova,Cesena,4-1,https://www.besoccer.com/match/ac-mantova/ac-cesena/200820289,2008,12,serie_b
+Treviso,Frosinone,2-1,https://www.besoccer.com/match/treviso/frosinone-calcio/200820290,2008,12,serie_b
+Lecce,Grosseto,1-1,https://www.besoccer.com/match/lecce/us-grosseto/200820291,2008,12,serie_b
+Spezia,Brescia,1-0,https://www.besoccer.com/match/asd-spezia/brescia/200820292,2008,12,serie_b
+Bologna,Ascoli,0-0,https://www.besoccer.com/match/bologna/ascoli/200820282,2008,12,serie_b
+Mantova,Rimini,0-1,https://www.besoccer.com/match/ac-mantova/rimini-calcio/200820272,2008,13,serie_b
+Ascoli,Treviso,2-1,https://www.besoccer.com/match/ascoli/treviso/200820273,2008,13,serie_b
+Grosseto,Avellino,2-1,https://www.besoccer.com/match/us-grosseto/us-avellino/200820274,2008,13,serie_b
+AlbinoLeffe,Triestina ,5-1,https://www.besoccer.com/match/uc-albinoleffe/us-triestina-calcio/200820275,2008,13,serie_b
+Frosinone,Piacenza,2-2,https://www.besoccer.com/match/frosinone-calcio/piacenza/200820276,2008,13,serie_b
+Vicenza ,Pisa,1-3,https://www.besoccer.com/match/vicenza-calcio/pisa-calcio/200820277,2008,13,serie_b
+Chievo,Messina,4-1,https://www.besoccer.com/match/chievo/messina/200820278,2008,13,serie_b
+Ravenna FC,Spezia,2-2,https://www.besoccer.com/match/ravenna-calcio/asd-spezia/200820279,2008,13,serie_b
+Modena,Bologna,1-2,https://www.besoccer.com/match/modena-fc/bologna/200820280,2008,13,serie_b
+SSC Bari,Brescia,0-0,https://www.besoccer.com/match/as-bari/brescia/200820281,2008,13,serie_b
+Cesena,Lecce,0-1,https://www.besoccer.com/match/ac-cesena/lecce/200820271,2008,13,serie_b
+Avellino,Vicenza ,3-0,https://www.besoccer.com/match/us-avellino/vicenza-calcio/200820260,2008,14,serie_b
+Piacenza,Ravenna FC,2-0,https://www.besoccer.com/match/piacenza/ravenna-calcio/200820261,2008,14,serie_b
+Ascoli,Frosinone,2-0,https://www.besoccer.com/match/ascoli/frosinone-calcio/200820262,2008,14,serie_b
+Messina,Pisa,1-2,https://www.besoccer.com/match/messina/pisa-calcio/200820263,2008,14,serie_b
+Triestina ,Grosseto,4-0,https://www.besoccer.com/match/us-triestina-calcio/us-grosseto/200820264,2008,14,serie_b
+Lecce,Modena,2-0,https://www.besoccer.com/match/lecce/modena-fc/200820265,2008,14,serie_b
+Treviso,Mantova,2-2,https://www.besoccer.com/match/treviso/ac-mantova/200820266,2008,14,serie_b
+Brescia,AlbinoLeffe,1-2,https://www.besoccer.com/match/brescia/uc-albinoleffe/200820267,2008,14,serie_b
+Spezia,SSC Bari,1-1,https://www.besoccer.com/match/asd-spezia/as-bari/200820268,2008,14,serie_b
+Bologna,Chievo,4-0,https://www.besoccer.com/match/bologna/chievo/200820269,2008,14,serie_b
+Rimini,Cesena,4-1,https://www.besoccer.com/match/rimini-calcio/ac-cesena/200820270,2008,14,serie_b
+SSC Bari,Bologna,1-1,https://www.besoccer.com/match/as-bari/bologna/200820250,2008,15,serie_b
+Modena,Triestina ,1-2,https://www.besoccer.com/match/modena-fc/us-triestina-calcio/200820251,2008,15,serie_b
+Messina,Avellino,1-0,https://www.besoccer.com/match/messina/us-avellino/200820252,2008,15,serie_b
+Brescia,Chievo,0-2,https://www.besoccer.com/match/brescia/chievo/200820253,2008,15,serie_b
+Mantova,Frosinone,3-2,https://www.besoccer.com/match/ac-mantova/frosinone-calcio/200820254,2008,15,serie_b
+Vicenza ,Piacenza,0-1,https://www.besoccer.com/match/vicenza-calcio/piacenza/200820255,2008,15,serie_b
+Grosseto,Ascoli,1-1,https://www.besoccer.com/match/us-grosseto/ascoli/200820256,2008,15,serie_b
+Ravenna FC,Rimini,0-1,https://www.besoccer.com/match/ravenna-calcio/rimini-calcio/200820257,2008,15,serie_b
+Cesena,Spezia,1-1,https://www.besoccer.com/match/ac-cesena/asd-spezia/200820258,2008,15,serie_b
+Pisa,Lecce,1-1,https://www.besoccer.com/match/pisa-calcio/lecce/200820259,2008,15,serie_b
+AlbinoLeffe,Treviso,0-0,https://www.besoccer.com/match/uc-albinoleffe/treviso/200820249,2008,15,serie_b
+Modena,SSC Bari,3-0,https://www.besoccer.com/match/modena-fc/as-bari/200820238,2008,16,serie_b
+Ascoli,Mantova,1-3,https://www.besoccer.com/match/ascoli/ac-mantova/200820239,2008,16,serie_b
+Lecce,Ravenna FC,3-1,https://www.besoccer.com/match/lecce/ravenna-calcio/200820240,2008,16,serie_b
+Triestina ,Cesena,2-1,https://www.besoccer.com/match/us-triestina-calcio/ac-cesena/200820241,2008,16,serie_b
+Frosinone,Grosseto,4-1,https://www.besoccer.com/match/frosinone-calcio/us-grosseto/200820242,2008,16,serie_b
+Treviso,Brescia,3-0,https://www.besoccer.com/match/treviso/brescia/200820243,2008,16,serie_b
+Rimini,Vicenza ,5-1,https://www.besoccer.com/match/rimini-calcio/vicenza-calcio/200820245,2008,16,serie_b
+Bologna,AlbinoLeffe,1-0,https://www.besoccer.com/match/bologna/uc-albinoleffe/200820246,2008,16,serie_b
+Piacenza,Messina,0-1,https://www.besoccer.com/match/piacenza/messina/200820247,2008,16,serie_b
+Avellino,Spezia,2-2,https://www.besoccer.com/match/us-avellino/asd-spezia/200820248,2008,16,serie_b
+Chievo,Pisa,2-2,https://www.besoccer.com/match/chievo/pisa-calcio/200820244,2008,16,serie_b
+AlbinoLeffe,Piacenza,2-0,https://www.besoccer.com/match/uc-albinoleffe/piacenza/200820227,2008,17,serie_b
+Mantova,Lecce,1-0,https://www.besoccer.com/match/ac-mantova/lecce/200820228,2008,17,serie_b
+Vicenza ,Bologna,0-1,https://www.besoccer.com/match/vicenza-calcio/bologna/200820229,2008,17,serie_b
+Grosseto,Treviso,1-1,https://www.besoccer.com/match/us-grosseto/treviso/200820230,2008,17,serie_b
+Triestina ,Rimini,1-0,https://www.besoccer.com/match/us-triestina-calcio/rimini-calcio/200820231,2008,17,serie_b
+Cesena,Frosinone,3-0,https://www.besoccer.com/match/ac-cesena/frosinone-calcio/200820232,2008,17,serie_b
+Spezia,Chievo,0-1,https://www.besoccer.com/match/asd-spezia/chievo/200820233,2008,17,serie_b
+Brescia,Modena,2-0,https://www.besoccer.com/match/brescia/modena-fc/200820234,2008,17,serie_b
+Pisa,Avellino,0-0,https://www.besoccer.com/match/pisa-calcio/us-avellino/200820235,2008,17,serie_b
+SSC Bari,Ascoli,1-1,https://www.besoccer.com/match/as-bari/ascoli/200820236,2008,17,serie_b
+Messina,Ravenna FC,2-1,https://www.besoccer.com/match/messina/ravenna-calcio/200820237,2008,17,serie_b
+Lecce,AlbinoLeffe,3-0,https://www.besoccer.com/match/lecce/uc-albinoleffe/200820217,2008,18,serie_b
+Treviso,SSC Bari,1-2,https://www.besoccer.com/match/treviso/as-bari/200820218,2008,18,serie_b
+Frosinone,Vicenza ,0-0,https://www.besoccer.com/match/frosinone-calcio/vicenza-calcio/200820219,2008,18,serie_b
+Spezia,Messina,2-0,https://www.besoccer.com/match/asd-spezia/messina/200820220,2008,18,serie_b
+Chievo,Mantova,2-3,https://www.besoccer.com/match/chievo/ac-mantova/200820221,2008,18,serie_b
+Rimini,Pisa,1-1,https://www.besoccer.com/match/rimini-calcio/pisa-calcio/200820222,2008,18,serie_b
+Bologna,Grosseto,1-0,https://www.besoccer.com/match/bologna/us-grosseto/200820223,2008,18,serie_b
+Ravenna FC,Modena,1-1,https://www.besoccer.com/match/ravenna-calcio/modena-fc/200820224,2008,18,serie_b
+Avellino,Cesena,3-1,https://www.besoccer.com/match/us-avellino/ac-cesena/200820225,2008,18,serie_b
+Piacenza,Triestina ,2-0,https://www.besoccer.com/match/piacenza/us-triestina-calcio/200820226,2008,18,serie_b
+Ascoli,Brescia,0-1,https://www.besoccer.com/match/ascoli/brescia/200820216,2008,18,serie_b
+Messina,Bologna,2-1,https://www.besoccer.com/match/messina/bologna/200820205,2008,19,serie_b
+Brescia,Rimini,2-0,https://www.besoccer.com/match/brescia/rimini-calcio/200820206,2008,19,serie_b
+Mantova,Spezia,3-1,https://www.besoccer.com/match/ac-mantova/asd-spezia/200820207,2008,19,serie_b
+Vicenza ,Chievo,1-3,https://www.besoccer.com/match/vicenza-calcio/chievo/200820208,2008,19,serie_b
+Grosseto,Piacenza,2-1,https://www.besoccer.com/match/us-grosseto/piacenza/200820209,2008,19,serie_b
+Triestina ,Avellino,2-2,https://www.besoccer.com/match/us-triestina-calcio/us-avellino/200820210,2008,19,serie_b
+Cesena,Treviso,4-1,https://www.besoccer.com/match/ac-cesena/treviso/200820211,2008,19,serie_b
+Pisa,Ravenna FC,1-0,https://www.besoccer.com/match/pisa-calcio/ravenna-calcio/200820212,2008,19,serie_b
+SSC Bari,Lecce,0-4,https://www.besoccer.com/match/as-bari/lecce/200820213,2008,19,serie_b
+Modena,Frosinone,2-2,https://www.besoccer.com/match/modena-fc/frosinone-calcio/200820214,2008,19,serie_b
+AlbinoLeffe,Ascoli,0-0,https://www.besoccer.com/match/uc-albinoleffe/ascoli/200820215,2008,19,serie_b
+Treviso,Triestina ,2-0,https://www.besoccer.com/match/treviso/us-triestina-calcio/200820194,2008,20,serie_b
+Frosinone,Brescia,0-0,https://www.besoccer.com/match/frosinone-calcio/brescia/200820195,2008,20,serie_b
+Spezia,Pisa,1-4,https://www.besoccer.com/match/asd-spezia/pisa-calcio/200820196,2008,20,serie_b
+Chievo,Grosseto,2-0,https://www.besoccer.com/match/chievo/us-grosseto/200820197,2008,20,serie_b
+Rimini,AlbinoLeffe,0-0,https://www.besoccer.com/match/rimini-calcio/uc-albinoleffe/200820198,2008,20,serie_b
+Bologna,Mantova,3-0,https://www.besoccer.com/match/bologna/ac-mantova/200820199,2008,20,serie_b
+Ravenna FC,Vicenza ,0-1,https://www.besoccer.com/match/ravenna-calcio/vicenza-calcio/200820200,2008,20,serie_b
+Avellino,SSC Bari,3-2,https://www.besoccer.com/match/us-avellino/as-bari/200820201,2008,20,serie_b
+Piacenza,Cesena,0-0,https://www.besoccer.com/match/piacenza/ac-cesena/200820202,2008,20,serie_b
+Ascoli,Modena,1-1,https://www.besoccer.com/match/ascoli/modena-fc/200820203,2008,20,serie_b
+Lecce,Messina,0-0,https://www.besoccer.com/match/lecce/messina/200820204,2008,20,serie_b
+Grosseto,Spezia,3-0,https://www.besoccer.com/match/us-grosseto/asd-spezia/200820183,2008,21,serie_b
+Triestina ,Ascoli,1-1,https://www.besoccer.com/match/us-triestina-calcio/ascoli/200820184,2008,21,serie_b
+Cesena,Ravenna FC,1-1,https://www.besoccer.com/match/ac-cesena/ravenna-calcio/200820185,2008,21,serie_b
+Pisa,Bologna,0-0,https://www.besoccer.com/match/pisa-calcio/bologna/200820186,2008,21,serie_b
+Brescia,Avellino,3-0,https://www.besoccer.com/match/brescia/us-avellino/200820187,2008,21,serie_b
+Modena,Treviso,1-1,https://www.besoccer.com/match/modena-fc/treviso/200820188,2008,21,serie_b
+SSC Bari,Chievo,2-3,https://www.besoccer.com/match/as-bari/chievo/200820189,2008,21,serie_b
+Messina,Rimini,1-0,https://www.besoccer.com/match/messina/rimini-calcio/200820190,2008,21,serie_b
+AlbinoLeffe,Frosinone,2-0,https://www.besoccer.com/match/uc-albinoleffe/frosinone-calcio/200820191,2008,21,serie_b
+Mantova,Piacenza,1-0,https://www.besoccer.com/match/ac-mantova/piacenza/200820192,2008,21,serie_b
+Vicenza ,Lecce,1-3,https://www.besoccer.com/match/vicenza-calcio/lecce/200820193,2008,21,serie_b
+Chievo,Cesena,3-1,https://www.besoccer.com/match/chievo/ac-cesena/200820172,2008,22,serie_b
+Messina,Triestina ,1-2,https://www.besoccer.com/match/messina/us-triestina-calcio/200820173,2008,22,serie_b
+Vicenza ,Brescia,1-1,https://www.besoccer.com/match/vicenza-calcio/brescia/200820174,2008,22,serie_b
+Avellino,Treviso,1-1,https://www.besoccer.com/match/us-avellino/treviso/200820175,2008,22,serie_b
+Rimini,Bologna,1-2,https://www.besoccer.com/match/rimini-calcio/bologna/200820176,2008,22,serie_b
+Ravenna FC,Mantova,5-2,https://www.besoccer.com/match/ravenna-calcio/ac-mantova/200820177,2008,22,serie_b
+Pisa,SSC Bari,1-1,https://www.besoccer.com/match/pisa-calcio/as-bari/200820178,2008,22,serie_b
+Grosseto,Modena,0-2,https://www.besoccer.com/match/us-grosseto/modena-fc/200820179,2008,22,serie_b
+Piacenza,Ascoli,2-1,https://www.besoccer.com/match/piacenza/ascoli/200820180,2008,22,serie_b
+Lecce,Frosinone,3-0,https://www.besoccer.com/match/lecce/frosinone-calcio/200820181,2008,22,serie_b
+Spezia,AlbinoLeffe,0-2,https://www.besoccer.com/match/asd-spezia/uc-albinoleffe/200820182,2008,22,serie_b
+AlbinoLeffe,Vicenza ,0-0,https://www.besoccer.com/match/uc-albinoleffe/vicenza-calcio/200820161,2008,23,serie_b
+Cesena,Messina,1-0,https://www.besoccer.com/match/ac-cesena/messina/200820162,2008,23,serie_b
+Bologna,Spezia,3-2,https://www.besoccer.com/match/bologna/asd-spezia/200820163,2008,23,serie_b
+Treviso,Lecce,0-0,https://www.besoccer.com/match/treviso/lecce/200820164,2008,23,serie_b
+SSC Bari,Rimini,0-1,https://www.besoccer.com/match/as-bari/rimini-calcio/200820165,2008,23,serie_b
+Brescia,Grosseto,4-1,https://www.besoccer.com/match/brescia/us-grosseto/200820166,2008,23,serie_b
+Ascoli,Ravenna FC,5-0,https://www.besoccer.com/match/ascoli/ravenna-calcio/200820167,2008,23,serie_b
+Triestina ,Chievo,1-1,https://www.besoccer.com/match/us-triestina-calcio/chievo/200820168,2008,23,serie_b
+Frosinone,Pisa,1-5,https://www.besoccer.com/match/frosinone-calcio/pisa-calcio/200820169,2008,23,serie_b
+Mantova,Avellino,2-0,https://www.besoccer.com/match/ac-mantova/us-avellino/200820170,2008,23,serie_b
+Modena,Piacenza,2-0,https://www.besoccer.com/match/modena-fc/piacenza/200820171,2008,23,serie_b
+Piacenza,Brescia,2-4,https://www.besoccer.com/match/piacenza/brescia/200820150,2008,24,serie_b
+Chievo,Treviso,1-0,https://www.besoccer.com/match/chievo/treviso/200820151,2008,24,serie_b
+Ravenna FC,Bologna,1-1,https://www.besoccer.com/match/ravenna-calcio/bologna/200820152,2008,24,serie_b
+Spezia,Modena,2-2,https://www.besoccer.com/match/asd-spezia/modena-fc/200820153,2008,24,serie_b
+Vicenza ,SSC Bari,2-3,https://www.besoccer.com/match/vicenza-calcio/as-bari/200820154,2008,24,serie_b
+Messina,Mantova,1-0,https://www.besoccer.com/match/messina/ac-mantova/200820155,2008,24,serie_b
+Rimini,Ascoli,3-0,https://www.besoccer.com/match/rimini-calcio/ascoli/200820156,2008,24,serie_b
+Avellino,Frosinone,0-1,https://www.besoccer.com/match/us-avellino/frosinone-calcio/200820157,2008,24,serie_b
+Grosseto,AlbinoLeffe,2-2,https://www.besoccer.com/match/us-grosseto/uc-albinoleffe/200820158,2008,24,serie_b
+Pisa,Cesena,3-0,https://www.besoccer.com/match/pisa-calcio/ac-cesena/200820159,2008,24,serie_b
+Lecce,Triestina ,1-0,https://www.besoccer.com/match/lecce/us-triestina-calcio/200820160,2008,24,serie_b
+Frosinone,Messina,4-0,https://www.besoccer.com/match/frosinone-calcio/messina/200820139,2008,25,serie_b
+Triestina ,Spezia,0-0,https://www.besoccer.com/match/us-triestina-calcio/asd-spezia/200820140,2008,25,serie_b
+Ascoli,Lecce,2-1,https://www.besoccer.com/match/ascoli/lecce/200820141,2008,25,serie_b
+Treviso,Rimini,0-2,https://www.besoccer.com/match/treviso/rimini-calcio/200820142,2008,25,serie_b
+Cesena,Grosseto,0-0,https://www.besoccer.com/match/ac-cesena/us-grosseto/200820143,2008,25,serie_b
+AlbinoLeffe,Ravenna FC,3-1,https://www.besoccer.com/match/uc-albinoleffe/ravenna-calcio/200820144,2008,25,serie_b
+Modena,Chievo,1-2,https://www.besoccer.com/match/modena-fc/chievo/200820145,2008,25,serie_b
+Brescia,Pisa,1-0,https://www.besoccer.com/match/brescia/pisa-calcio/200820146,2008,25,serie_b
+Bologna,Avellino,3-1,https://www.besoccer.com/match/bologna/us-avellino/200820147,2008,25,serie_b
+SSC Bari,Piacenza,2-1,https://www.besoccer.com/match/as-bari/piacenza/200820148,2008,25,serie_b
+Mantova,Vicenza ,2-3,https://www.besoccer.com/match/ac-mantova/vicenza-calcio/200820149,2008,25,serie_b
+Piacenza,Treviso,0-0,https://www.besoccer.com/match/piacenza/treviso/200820128,2008,26,serie_b
+Messina,Brescia,2-1,https://www.besoccer.com/match/messina/brescia/200820129,2008,26,serie_b
+AlbinoLeffe,Modena,3-1,https://www.besoccer.com/match/uc-albinoleffe/modena-fc/200820130,2008,26,serie_b
+Ravenna FC,SSC Bari,1-2,https://www.besoccer.com/match/ravenna-calcio/as-bari/200820131,2008,26,serie_b
+Pisa,Mantova,1-1,https://www.besoccer.com/match/pisa-calcio/ac-mantova/200820132,2008,26,serie_b
+Lecce,Avellino,2-0,https://www.besoccer.com/match/lecce/us-avellino/200820133,2008,26,serie_b
+Rimini,Grosseto,2-0,https://www.besoccer.com/match/rimini-calcio/us-grosseto/200820134,2008,26,serie_b
+Spezia,Ascoli,0-0,https://www.besoccer.com/match/asd-spezia/ascoli/200820135,2008,26,serie_b
+Chievo,Frosinone,2-0,https://www.besoccer.com/match/chievo/frosinone-calcio/200820136,2008,26,serie_b
+Bologna,Triestina ,2-0,https://www.besoccer.com/match/bologna/us-triestina-calcio/200820137,2008,26,serie_b
+Vicenza ,Cesena,1-0,https://www.besoccer.com/match/vicenza-calcio/ac-cesena/200820138,2008,26,serie_b
+Avellino,Chievo,1-1,https://www.besoccer.com/match/us-avellino/chievo/200820117,2008,27,serie_b
+Modena,Rimini,0-2,https://www.besoccer.com/match/modena-fc/rimini-calcio/200820118,2008,27,serie_b
+Brescia,Bologna,2-0,https://www.besoccer.com/match/brescia/bologna/200820119,2008,27,serie_b
+Grosseto,Ravenna FC,2-2,https://www.besoccer.com/match/us-grosseto/ravenna-calcio/200820120,2008,27,serie_b
+Mantova,SSC Bari,1-1,https://www.besoccer.com/match/ac-mantova/as-bari/200820121,2008,27,serie_b
+Triestina ,Pisa,0-1,https://www.besoccer.com/match/us-triestina-calcio/pisa-calcio/200820122,2008,27,serie_b
+Cesena,AlbinoLeffe,0-3,https://www.besoccer.com/match/ac-cesena/uc-albinoleffe/200820123,2008,27,serie_b
+Lecce,Piacenza,3-1,https://www.besoccer.com/match/lecce/piacenza/200820124,2008,27,serie_b
+Ascoli,Vicenza ,1-0,https://www.besoccer.com/match/ascoli/vicenza-calcio/200820125,2008,27,serie_b
+Treviso,Messina,6-2,https://www.besoccer.com/match/treviso/messina/200820126,2008,27,serie_b
+Frosinone,Spezia,4-2,https://www.besoccer.com/match/frosinone-calcio/asd-spezia/200820127,2008,27,serie_b
+Bologna,Cesena,2-1,https://www.besoccer.com/match/bologna/ac-cesena/200820106,2008,28,serie_b
+Spezia,Piacenza,1-2,https://www.besoccer.com/match/asd-spezia/piacenza/200820107,2008,28,serie_b
+Ravenna FC,Brescia,0-0,https://www.besoccer.com/match/ravenna-calcio/brescia/200820108,2008,28,serie_b
+Messina,Modena,3-3,https://www.besoccer.com/match/messina/modena-fc/200820109,2008,28,serie_b
+Avellino,Ascoli,0-2,https://www.besoccer.com/match/us-avellino/ascoli/200820110,2008,28,serie_b
+Chievo,Lecce,3-3,https://www.besoccer.com/match/chievo/lecce/200820111,2008,28,serie_b
+SSC Bari,AlbinoLeffe,0-1,https://www.besoccer.com/match/as-bari/uc-albinoleffe/200820112,2008,28,serie_b
+Vicenza ,Grosseto,0-0,https://www.besoccer.com/match/vicenza-calcio/us-grosseto/200820113,2008,28,serie_b
+Mantova,Triestina ,2-0,https://www.besoccer.com/match/ac-mantova/us-triestina-calcio/200820114,2008,28,serie_b
+Rimini,Frosinone,1-1,https://www.besoccer.com/match/rimini-calcio/frosinone-calcio/200820115,2008,28,serie_b
+Pisa,Treviso,2-0,https://www.besoccer.com/match/pisa-calcio/treviso/200820116,2008,28,serie_b
+Frosinone,Ravenna FC,2-1,https://www.besoccer.com/match/frosinone-calcio/ravenna-calcio/200820095,2008,29,serie_b
+Lecce,Bologna,0-0,https://www.besoccer.com/match/lecce/bologna/200820096,2008,29,serie_b
+Ascoli,Pisa,1-0,https://www.besoccer.com/match/ascoli/pisa-calcio/200820097,2008,29,serie_b
+Grosseto,SSC Bari,2-2,https://www.besoccer.com/match/us-grosseto/as-bari/200820098,2008,29,serie_b
+AlbinoLeffe,Messina,1-0,https://www.besoccer.com/match/uc-albinoleffe/messina/200820099,2008,29,serie_b
+Piacenza,Avellino,1-0,https://www.besoccer.com/match/piacenza/us-avellino/200820100,2008,29,serie_b
+Modena,Mantova,2-2,https://www.besoccer.com/match/modena-fc/ac-mantova/200820101,2008,29,serie_b
+Triestina ,Vicenza ,5-1,https://www.besoccer.com/match/us-triestina-calcio/vicenza-calcio/200820102,2008,29,serie_b
+Rimini,Chievo,0-0,https://www.besoccer.com/match/rimini-calcio/chievo/200820103,2008,29,serie_b
+Treviso,Spezia,1-1,https://www.besoccer.com/match/treviso/asd-spezia/200820104,2008,29,serie_b
+Brescia,Cesena,3-0,https://www.besoccer.com/match/brescia/ac-cesena/200820105,2008,29,serie_b
+Mantova,Brescia,1-1,https://www.besoccer.com/match/ac-mantova/brescia/200820084,2008,30,serie_b
+Bologna,Piacenza,1-2,https://www.besoccer.com/match/bologna/piacenza/200820085,2008,30,serie_b
+Chievo,Ascoli,3-1,https://www.besoccer.com/match/chievo/ascoli/200820086,2008,30,serie_b
+Cesena,Modena,2-1,https://www.besoccer.com/match/ac-cesena/modena-fc/200820087,2008,30,serie_b
+Pisa,AlbinoLeffe,2-0,https://www.besoccer.com/match/pisa-calcio/uc-albinoleffe/200820088,2008,30,serie_b
+Spezia,Lecce,1-1,https://www.besoccer.com/match/asd-spezia/lecce/200820089,2008,30,serie_b
+Vicenza ,Treviso,0-0,https://www.besoccer.com/match/vicenza-calcio/treviso/200820090,2008,30,serie_b
+Messina,Grosseto,1-1,https://www.besoccer.com/match/messina/us-grosseto/200820091,2008,30,serie_b
+Avellino,Rimini,2-1,https://www.besoccer.com/match/us-avellino/rimini-calcio/200820092,2008,30,serie_b
+SSC Bari,Frosinone,3-1,https://www.besoccer.com/match/as-bari/frosinone-calcio/200820093,2008,30,serie_b
+Triestina ,Ravenna FC,4-3,https://www.besoccer.com/match/us-triestina-calcio/ravenna-calcio/200820094,2008,30,serie_b
+SSC Bari,Cesena,0-0,https://www.besoccer.com/match/as-bari/ac-cesena/200820073,2008,31,serie_b
+Piacenza,Pisa,4-2,https://www.besoccer.com/match/piacenza/pisa-calcio/200820074,2008,31,serie_b
+Treviso,Bologna,0-2,https://www.besoccer.com/match/treviso/bologna/200820075,2008,31,serie_b
+Ascoli,Messina,1-1,https://www.besoccer.com/match/ascoli/messina/200820076,2008,31,serie_b
+AlbinoLeffe,Avellino,3-3,https://www.besoccer.com/match/uc-albinoleffe/us-avellino/200820077,2008,31,serie_b
+Grosseto,Mantova,1-0,https://www.besoccer.com/match/us-grosseto/ac-mantova/200820078,2008,31,serie_b
+Modena,Vicenza ,1-1,https://www.besoccer.com/match/modena-fc/vicenza-calcio/200820079,2008,31,serie_b
+Brescia,Lecce,0-0,https://www.besoccer.com/match/brescia/lecce/200820080,2008,31,serie_b
+Frosinone,Triestina ,0-1,https://www.besoccer.com/match/frosinone-calcio/us-triestina-calcio/200820081,2008,31,serie_b
+Ravenna FC,Chievo,1-1,https://www.besoccer.com/match/ravenna-calcio/chievo/200820082,2008,31,serie_b
+Rimini,Spezia,4-2,https://www.besoccer.com/match/rimini-calcio/asd-spezia/200820083,2008,31,serie_b
+Chievo,Piacenza,1-0,https://www.besoccer.com/match/chievo/piacenza/200820062,2008,32,serie_b
+Cesena,Ascoli,1-1,https://www.besoccer.com/match/ac-cesena/ascoli/200820063,2008,32,serie_b
+Avellino,Modena,1-1,https://www.besoccer.com/match/us-avellino/modena-fc/200820064,2008,32,serie_b
+Mantova,AlbinoLeffe,0-1,https://www.besoccer.com/match/ac-mantova/uc-albinoleffe/200820065,2008,32,serie_b
+Pisa,Grosseto,0-0,https://www.besoccer.com/match/pisa-calcio/us-grosseto/200820066,2008,32,serie_b
+Spezia,Vicenza ,1-1,https://www.besoccer.com/match/asd-spezia/vicenza-calcio/200820067,2008,32,serie_b
+Bologna,Frosinone,2-1,https://www.besoccer.com/match/bologna/frosinone-calcio/200820068,2008,32,serie_b
+Lecce,Rimini,2-0,https://www.besoccer.com/match/lecce/rimini-calcio/200820069,2008,32,serie_b
+Triestina ,Brescia,1-0,https://www.besoccer.com/match/us-triestina-calcio/brescia/200820070,2008,32,serie_b
+Treviso,Ravenna FC,1-1,https://www.besoccer.com/match/treviso/ravenna-calcio/200820071,2008,32,serie_b
+Messina,SSC Bari,1-2,https://www.besoccer.com/match/messina/as-bari/200820072,2008,32,serie_b
+Ascoli,Bologna,2-2,https://www.besoccer.com/match/ascoli/bologna/200820051,2008,33,serie_b
+Modena,Pisa,0-0,https://www.besoccer.com/match/modena-fc/pisa-calcio/200820052,2008,33,serie_b
+Ravenna FC,Avellino,0-1,https://www.besoccer.com/match/ravenna-calcio/us-avellino/200820053,2008,33,serie_b
+Vicenza ,Messina,3-1,https://www.besoccer.com/match/vicenza-calcio/messina/200820054,2008,33,serie_b
+SSC Bari,Triestina ,2-0,https://www.besoccer.com/match/as-bari/us-triestina-calcio/200820055,2008,33,serie_b
+Cesena,Mantova,1-1,https://www.besoccer.com/match/ac-cesena/ac-mantova/200820056,2008,33,serie_b
+Frosinone,Treviso,1-0,https://www.besoccer.com/match/frosinone-calcio/treviso/200820057,2008,33,serie_b
+Grosseto,Lecce,1-1,https://www.besoccer.com/match/us-grosseto/lecce/200820058,2008,33,serie_b
+Brescia,Spezia,1-0,https://www.besoccer.com/match/brescia/asd-spezia/200820059,2008,33,serie_b
+AlbinoLeffe,Chievo,0-2,https://www.besoccer.com/match/uc-albinoleffe/chievo/200820060,2008,33,serie_b
+Piacenza,Rimini,2-1,https://www.besoccer.com/match/piacenza/rimini-calcio/200820061,2008,33,serie_b
+Treviso,Ascoli,2-1,https://www.besoccer.com/match/treviso/ascoli/200820040,2008,34,serie_b
+Avellino,Grosseto,0-3,https://www.besoccer.com/match/us-avellino/us-grosseto/200820041,2008,34,serie_b
+Triestina ,AlbinoLeffe,2-4,https://www.besoccer.com/match/us-triestina-calcio/uc-albinoleffe/200820042,2008,34,serie_b
+Piacenza,Frosinone,1-2,https://www.besoccer.com/match/piacenza/frosinone-calcio/200820043,2008,34,serie_b
+Pisa,Vicenza ,1-1,https://www.besoccer.com/match/pisa-calcio/vicenza-calcio/200820044,2008,34,serie_b
+Messina,Chievo,2-3,https://www.besoccer.com/match/messina/chievo/200820045,2008,34,serie_b
+Spezia,Ravenna FC,2-0,https://www.besoccer.com/match/asd-spezia/ravenna-calcio/200820046,2008,34,serie_b
+Lecce,Cesena,3-0,https://www.besoccer.com/match/lecce/ac-cesena/200820047,2008,34,serie_b
+Bologna,Modena,4-1,https://www.besoccer.com/match/bologna/modena-fc/200820048,2008,34,serie_b
+Brescia,SSC Bari,0-0,https://www.besoccer.com/match/brescia/as-bari/200820049,2008,34,serie_b
+Rimini,Mantova,1-1,https://www.besoccer.com/match/rimini-calcio/ac-mantova/200820050,2008,34,serie_b
+Ravenna FC,Piacenza,1-0,https://www.besoccer.com/match/ravenna-calcio/piacenza/200820029,2008,35,serie_b
+Frosinone,Ascoli,3-3,https://www.besoccer.com/match/frosinone-calcio/ascoli/200820030,2008,35,serie_b
+Pisa,Messina,0-0,https://www.besoccer.com/match/pisa-calcio/messina/200820031,2008,35,serie_b
+Grosseto,Triestina ,1-2,https://www.besoccer.com/match/us-grosseto/us-triestina-calcio/200820032,2008,35,serie_b
+Modena,Lecce,1-2,https://www.besoccer.com/match/modena-fc/lecce/200820033,2008,35,serie_b
+Mantova,Treviso,2-1,https://www.besoccer.com/match/ac-mantova/treviso/200820034,2008,35,serie_b
+AlbinoLeffe,Brescia,2-3,https://www.besoccer.com/match/uc-albinoleffe/brescia/200820035,2008,35,serie_b
+SSC Bari,Spezia,2-1,https://www.besoccer.com/match/as-bari/asd-spezia/200820036,2008,35,serie_b
+Chievo,Bologna,1-1,https://www.besoccer.com/match/chievo/bologna/200820037,2008,35,serie_b
+Cesena,Rimini,1-2,https://www.besoccer.com/match/ac-cesena/rimini-calcio/200820038,2008,35,serie_b
+Vicenza ,Avellino,2-1,https://www.besoccer.com/match/vicenza-calcio/us-avellino/200820039,2008,35,serie_b
+Treviso,AlbinoLeffe,0-1,https://www.besoccer.com/match/treviso/uc-albinoleffe/200820018,2008,36,serie_b
+Avellino,Messina,1-2,https://www.besoccer.com/match/us-avellino/messina/200820019,2008,36,serie_b
+Chievo,Brescia,3-0,https://www.besoccer.com/match/chievo/brescia/200820020,2008,36,serie_b
+Frosinone,Mantova,2-1,https://www.besoccer.com/match/frosinone-calcio/ac-mantova/200820021,2008,36,serie_b
+Piacenza,Vicenza ,1-1,https://www.besoccer.com/match/piacenza/vicenza-calcio/200820022,2008,36,serie_b
+Ascoli,Grosseto,3-5,https://www.besoccer.com/match/ascoli/us-grosseto/200820023,2008,36,serie_b
+Rimini,Ravenna FC,3-4,https://www.besoccer.com/match/rimini-calcio/ravenna-calcio/200820024,2008,36,serie_b
+Spezia,Cesena,1-0,https://www.besoccer.com/match/asd-spezia/ac-cesena/200820025,2008,36,serie_b
+Lecce,Pisa,1-1,https://www.besoccer.com/match/lecce/pisa-calcio/200820026,2008,36,serie_b
+Bologna,SSC Bari,1-1,https://www.besoccer.com/match/bologna/as-bari/200820027,2008,36,serie_b
+Triestina ,Modena,3-1,https://www.besoccer.com/match/us-triestina-calcio/modena-fc/200820028,2008,36,serie_b
+Mantova,Ascoli,0-1,https://www.besoccer.com/match/ac-mantova/ascoli/200820007,2008,37,serie_b
+Ravenna FC,Lecce,1-3,https://www.besoccer.com/match/ravenna-calcio/lecce/200820008,2008,37,serie_b
+Cesena,Triestina ,1-1,https://www.besoccer.com/match/ac-cesena/us-triestina-calcio/200820009,2008,37,serie_b
+Grosseto,Frosinone,1-1,https://www.besoccer.com/match/us-grosseto/frosinone-calcio/200820010,2008,37,serie_b
+Brescia,Treviso,0-0,https://www.besoccer.com/match/brescia/treviso/200820011,2008,37,serie_b
+Pisa,Chievo,1-1,https://www.besoccer.com/match/pisa-calcio/chievo/200820012,2008,37,serie_b
+Vicenza ,Rimini,3-2,https://www.besoccer.com/match/vicenza-calcio/rimini-calcio/200820013,2008,37,serie_b
+AlbinoLeffe,Bologna,1-0,https://www.besoccer.com/match/uc-albinoleffe/bologna/200820014,2008,37,serie_b
+Messina,Piacenza,2-0,https://www.besoccer.com/match/messina/piacenza/200820015,2008,37,serie_b
+Spezia,Avellino,2-2,https://www.besoccer.com/match/asd-spezia/us-avellino/200820016,2008,37,serie_b
+SSC Bari,Modena,1-1,https://www.besoccer.com/match/as-bari/modena-fc/200820017,2008,37,serie_b
+Lecce,Mantova,1-1,https://www.besoccer.com/match/lecce/ac-mantova/200819997,2008,38,serie_b
+Bologna,Vicenza ,1-0,https://www.besoccer.com/match/bologna/vicenza-calcio/200819998,2008,38,serie_b
+Rimini,Triestina ,4-3,https://www.besoccer.com/match/rimini-calcio/us-triestina-calcio/200819999,2008,38,serie_b
+Frosinone,Cesena,5-2,https://www.besoccer.com/match/frosinone-calcio/ac-cesena/200820000,2008,38,serie_b
+Chievo,Spezia,5-0,https://www.besoccer.com/match/chievo/asd-spezia/200820001,2008,38,serie_b
+Modena,Brescia,0-3,https://www.besoccer.com/match/modena-fc/brescia/200820002,2008,38,serie_b
+Avellino,Pisa,3-1,https://www.besoccer.com/match/us-avellino/pisa-calcio/200820003,2008,38,serie_b
+Ascoli,SSC Bari,2-0,https://www.besoccer.com/match/ascoli/as-bari/200820004,2008,38,serie_b
+Ravenna FC,Messina,1-0,https://www.besoccer.com/match/ravenna-calcio/messina/200820005,2008,38,serie_b
+Piacenza,AlbinoLeffe,1-3,https://www.besoccer.com/match/piacenza/uc-albinoleffe/200820006,2008,38,serie_b
+Treviso,Grosseto,2-1,https://www.besoccer.com/match/treviso/us-grosseto/200819996,2008,38,serie_b
+SSC Bari,Treviso,0-1,https://www.besoccer.com/match/as-bari/treviso/200819985,2008,39,serie_b
+Vicenza ,Frosinone,2-1,https://www.besoccer.com/match/vicenza-calcio/frosinone-calcio/200819986,2008,39,serie_b
+Messina,Spezia,0-0,https://www.besoccer.com/match/messina/asd-spezia/200819987,2008,39,serie_b
+Mantova,Chievo,1-0,https://www.besoccer.com/match/ac-mantova/chievo/200819988,2008,39,serie_b
+Pisa,Rimini,0-2,https://www.besoccer.com/match/pisa-calcio/rimini-calcio/200819989,2008,39,serie_b
+Grosseto,Bologna,3-0,https://www.besoccer.com/match/us-grosseto/bologna/200819990,2008,39,serie_b
+Modena,Ravenna FC,1-2,https://www.besoccer.com/match/modena-fc/ravenna-calcio/200819991,2008,39,serie_b
+Cesena,Avellino,1-0,https://www.besoccer.com/match/ac-cesena/us-avellino/200819992,2008,39,serie_b
+Triestina ,Piacenza,1-1,https://www.besoccer.com/match/us-triestina-calcio/piacenza/200819993,2008,39,serie_b
+Brescia,Ascoli,0-4,https://www.besoccer.com/match/brescia/ascoli/200819994,2008,39,serie_b
+AlbinoLeffe,Lecce,0-4,https://www.besoccer.com/match/uc-albinoleffe/lecce/200819995,2008,39,serie_b
+Spezia,Mantova,0-1,https://www.besoccer.com/match/asd-spezia/ac-mantova/200819974,2008,40,serie_b
+Chievo,Vicenza ,2-1,https://www.besoccer.com/match/chievo/vicenza-calcio/200819975,2008,40,serie_b
+Piacenza,Grosseto,1-1,https://www.besoccer.com/match/piacenza/us-grosseto/200819976,2008,40,serie_b
+Avellino,Triestina ,2-2,https://www.besoccer.com/match/us-avellino/us-triestina-calcio/200819977,2008,40,serie_b
+Treviso,Cesena,2-1,https://www.besoccer.com/match/treviso/ac-cesena/200819978,2008,40,serie_b
+Ravenna FC,Pisa,1-4,https://www.besoccer.com/match/ravenna-calcio/pisa-calcio/200819979,2008,40,serie_b
+Lecce,SSC Bari,1-2,https://www.besoccer.com/match/lecce/as-bari/200819980,2008,40,serie_b
+Frosinone,Modena,2-4,https://www.besoccer.com/match/frosinone-calcio/modena-fc/200819981,2008,40,serie_b
+Ascoli,AlbinoLeffe,3-2,https://www.besoccer.com/match/ascoli/uc-albinoleffe/200819982,2008,40,serie_b
+Bologna,Messina,3-0,https://www.besoccer.com/match/bologna/messina/200819983,2008,40,serie_b
+Rimini,Brescia,2-1,https://www.besoccer.com/match/rimini-calcio/brescia/200819984,2008,40,serie_b
+Brescia,Frosinone,2-2,https://www.besoccer.com/match/brescia/frosinone-calcio/200819963,2008,41,serie_b
+Pisa,Spezia,1-0,https://www.besoccer.com/match/pisa-calcio/asd-spezia/200819964,2008,41,serie_b
+Grosseto,Chievo,1-1,https://www.besoccer.com/match/us-grosseto/chievo/200819965,2008,41,serie_b
+AlbinoLeffe,Rimini,0-4,https://www.besoccer.com/match/uc-albinoleffe/rimini-calcio/200819966,2008,41,serie_b
+Mantova,Bologna,0-1,https://www.besoccer.com/match/ac-mantova/bologna/200819967,2008,41,serie_b
+Vicenza ,Ravenna FC,1-0,https://www.besoccer.com/match/vicenza-calcio/ravenna-calcio/200819968,2008,41,serie_b
+SSC Bari,Avellino,1-0,https://www.besoccer.com/match/as-bari/us-avellino/200819969,2008,41,serie_b
+Cesena,Piacenza,2-2,https://www.besoccer.com/match/ac-cesena/piacenza/200819970,2008,41,serie_b
+Modena,Ascoli,2-1,https://www.besoccer.com/match/modena-fc/ascoli/200819971,2008,41,serie_b
+Messina,Lecce,1-3,https://www.besoccer.com/match/messina/lecce/200819972,2008,41,serie_b
+Triestina ,Treviso,0-1,https://www.besoccer.com/match/us-triestina-calcio/treviso/200819973,2008,41,serie_b
+Ascoli,Triestina ,3-1,https://www.besoccer.com/match/ascoli/us-triestina-calcio/200819952,2008,42,serie_b
+Ravenna FC,Cesena,0-0,https://www.besoccer.com/match/ravenna-calcio/ac-cesena/200819953,2008,42,serie_b
+Bologna,Pisa,1-0,https://www.besoccer.com/match/bologna/pisa-calcio/200819954,2008,42,serie_b
+Avellino,Brescia,1-1,https://www.besoccer.com/match/us-avellino/brescia/200819955,2008,42,serie_b
+Treviso,Modena,1-1,https://www.besoccer.com/match/treviso/modena-fc/200819956,2008,42,serie_b
+Chievo,SSC Bari,2-2,https://www.besoccer.com/match/chievo/as-bari/200819957,2008,42,serie_b
+Rimini,Messina,3-0,https://www.besoccer.com/match/rimini-calcio/messina/200819958,2008,42,serie_b
+Frosinone,AlbinoLeffe,2-2,https://www.besoccer.com/match/frosinone-calcio/uc-albinoleffe/200819959,2008,42,serie_b
+Piacenza,Mantova,3-3,https://www.besoccer.com/match/piacenza/ac-mantova/200819960,2008,42,serie_b
+Lecce,Vicenza ,1-0,https://www.besoccer.com/match/lecce/vicenza-calcio/200819961,2008,42,serie_b
+Spezia,Grosseto,2-2,https://www.besoccer.com/match/asd-spezia/us-grosseto/200819962,2008,42,serie_b

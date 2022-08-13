@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Stade de Reims,PSG,2-2,https://www.besoccer.com/match/stade-reims/paris-saint-germain-fc/2015844,2015,1,ligue_1
+Bastia,Olympique Marseille,3-3,https://www.besoccer.com/match/bastia/olympique-marsella/2015843,2015,1,ligue_1
+Evian Thonon Gaillard,Caen,0-3,https://www.besoccer.com/match/evian-thonon-gaillard/caen/2015845,2015,1,ligue_1
+Guingamp,Saint-Étienne,0-2,https://www.besoccer.com/match/guingamp/saint-etienne/2015846,2015,1,ligue_1
+Lille,Metz,0-0,https://www.besoccer.com/match/lillestrom/metz/2015847,2015,1,ligue_1
+Montpellier,Girondins Bordeaux,0-1,https://www.besoccer.com/match/montpellier-hsc/bordeaux/2015850,2015,1,ligue_1
+Nantes,Lens,1-0,https://www.besoccer.com/match/nantes/lens/2015851,2015,1,ligue_1
+Nice,Toulouse,3-2,https://www.besoccer.com/match/nice/toulouse-fc/2015852,2015,1,ligue_1
+Olympique Lyonnais,Stade Rennais,2-0,https://www.besoccer.com/match/olympique-lyonnais/stade-rennes/2015848,2015,1,ligue_1
+Monaco,Lorient,1-2,https://www.besoccer.com/match/monaco/lorient/2015849,2015,1,ligue_1
+Caen,Lille,0-1,https://www.besoccer.com/match/caen/lillestrom/20151714,2015,2,ligue_1
+PSG,Bastia,2-0,https://www.besoccer.com/match/paris-saint-germain-fc/bastia/20151712,2015,2,ligue_1
+Stade Rennais,Evian Thonon Gaillard,6-2,https://www.besoccer.com/match/stade-rennes/evian-thonon-gaillard/20151707,2015,2,ligue_1
+Metz,Nantes,1-1,https://www.besoccer.com/match/metz/nantes/20151708,2015,2,ligue_1
+Lens,Guingamp,0-1,https://www.besoccer.com/match/lens/guingamp/20151709,2015,2,ligue_1
+Lorient,Nice,0-0,https://www.besoccer.com/match/lorient/nice/20151713,2015,2,ligue_1
+Toulouse,Olympique Lyonnais,2-1,https://www.besoccer.com/match/toulouse-fc/olympique-lyonnais/20151716,2015,2,ligue_1
+Saint-Étienne,Stade de Reims,3-1,https://www.besoccer.com/match/saint-etienne/stade-reims/20151711,2015,2,ligue_1
+Olympique Marseille,Montpellier,0-2,https://www.besoccer.com/match/olympique-marsella/montpellier-hsc/20151715,2015,2,ligue_1
+Girondins Bordeaux,Monaco,4-1,https://www.besoccer.com/match/bordeaux/monaco/20151710,2015,2,ligue_1
+Evian Thonon Gaillard,PSG,0-0,https://www.besoccer.com/match/evian-thonon-gaillard/paris-saint-germain-fc/20151726,2015,3,ligue_1
+Guingamp,Olympique Marseille,0-1,https://www.besoccer.com/match/guingamp/olympique-marsella/20151720,2015,3,ligue_1
+Stade de Reims,Caen,0-2,https://www.besoccer.com/match/stade-reims/caen/20151717,2015,3,ligue_1
+Bastia,Toulouse,1-0,https://www.besoccer.com/match/bastia/toulouse-fc/20151721,2015,3,ligue_1
+Nice,Girondins Bordeaux,1-3,https://www.besoccer.com/match/nice/bordeaux/20151723,2015,3,ligue_1
+Montpellier,Metz,2-0,https://www.besoccer.com/match/montpellier-hsc/metz/20151724,2015,3,ligue_1
+Lille,Lorient,2-0,https://www.besoccer.com/match/lillestrom/lorient/20151725,2015,3,ligue_1
+Olympique Lyonnais,Lens,0-1,https://www.besoccer.com/match/olympique-lyonnais/lens/20151719,2015,3,ligue_1
+Saint-Étienne,Stade Rennais,0-0,https://www.besoccer.com/match/saint-etienne/stade-rennes/20151722,2015,3,ligue_1
+Nantes,Monaco,0-1,https://www.besoccer.com/match/nantes/monaco/20151718,2015,3,ligue_1
+Olympique Marseille,Nice,4-0,https://www.besoccer.com/match/olympique-marsella/nice/20151732,2015,4,ligue_1
+Monaco,Lille,1-1,https://www.besoccer.com/match/monaco/lillestrom/20151731,2015,4,ligue_1
+Lorient,Guingamp,4-0,https://www.besoccer.com/match/lorient/guingamp/20151727,2015,4,ligue_1
+Caen,Stade Rennais,0-1,https://www.besoccer.com/match/caen/stade-rennes/20151728,2015,4,ligue_1
+Toulouse,Evian Thonon Gaillard,1-0,https://www.besoccer.com/match/toulouse-fc/evian-thonon-gaillard/20151730,2015,4,ligue_1
+Lens,Stade de Reims,4-2,https://www.besoccer.com/match/lens/stade-reims/20151733,2015,4,ligue_1
+Nantes,Montpellier,1-0,https://www.besoccer.com/match/nantes/montpellier-hsc/20151735,2015,4,ligue_1
+Girondins Bordeaux,Bastia,1-1,https://www.besoccer.com/match/bordeaux/bastia/20151734,2015,4,ligue_1
+Metz,Olympique Lyonnais,2-1,https://www.besoccer.com/match/metz/olympique-lyonnais/20151736,2015,4,ligue_1
+PSG,Saint-Étienne,5-0,https://www.besoccer.com/match/paris-saint-germain-fc/saint-etienne/20151729,2015,4,ligue_1
+Olympique Lyonnais,Monaco,2-1,https://www.besoccer.com/match/olympique-lyonnais/monaco/20151744,2015,5,ligue_1
+Stade Rennais,PSG,1-1,https://www.besoccer.com/match/stade-rennes/paris-saint-germain-fc/20151742,2015,5,ligue_1
+Saint-Étienne,Caen,1-0,https://www.besoccer.com/match/saint-etienne/caen/20151737,2015,5,ligue_1
+Stade de Reims,Toulouse,2-0,https://www.besoccer.com/match/stade-reims/toulouse-fc/20151738,2015,5,ligue_1
+Montpellier,Lorient,1-0,https://www.besoccer.com/match/montpellier-hsc/lorient/20151739,2015,5,ligue_1
+Nice,Metz,1-0,https://www.besoccer.com/match/nice/metz/20151743,2015,5,ligue_1
+Bastia,Lens,1-1,https://www.besoccer.com/match/bastia/lens/20151746,2015,5,ligue_1
+Lille,Nantes,2-0,https://www.besoccer.com/match/lillestrom/nantes/20151740,2015,5,ligue_1
+Guingamp,Girondins Bordeaux,2-1,https://www.besoccer.com/match/guingamp/bordeaux/20151745,2015,5,ligue_1
+Evian Thonon Gaillard,Olympique Marseille,1-3,https://www.besoccer.com/match/evian-thonon-gaillard/olympique-marsella/20151741,2015,5,ligue_1
+Girondins Bordeaux,Evian Thonon Gaillard,2-1,https://www.besoccer.com/match/bordeaux/evian-thonon-gaillard/20151756,2015,6,ligue_1
+Olympique Marseille,Stade Rennais,3-0,https://www.besoccer.com/match/olympique-marsella/stade-rennes/20151754,2015,6,ligue_1
+Nantes,Nice,2-1,https://www.besoccer.com/match/nantes/nice/20151747,2015,6,ligue_1
+Metz,Bastia,3-1,https://www.besoccer.com/match/metz/bastia/20151748,2015,6,ligue_1
+Lorient,Stade de Reims,0-1,https://www.besoccer.com/match/lorient/stade-reims/20151749,2015,6,ligue_1
+Toulouse,Caen,3-3,https://www.besoccer.com/match/toulouse-fc/caen/20151752,2015,6,ligue_1
+Lille,Montpellier,0-0,https://www.besoccer.com/match/lillestrom/montpellier-hsc/20151755,2015,6,ligue_1
+Lens,Saint-Étienne,0-1,https://www.besoccer.com/match/lens/saint-etienne/20151750,2015,6,ligue_1
+Monaco,Guingamp,1-0,https://www.besoccer.com/match/monaco/guingamp/20151753,2015,6,ligue_1
+PSG,Olympique Lyonnais,1-1,https://www.besoccer.com/match/paris-saint-germain-fc/olympique-lyonnais/20151751,2015,6,ligue_1
+Stade de Reims,Olympique Marseille,0-5,https://www.besoccer.com/match/stade-reims/olympique-marsella/20151762,2015,7,ligue_1
+Stade Rennais,Toulouse,0-3,https://www.besoccer.com/match/stade-rennes/toulouse-fc/20151766,2015,7,ligue_1
+Nice,Lille,1-0,https://www.besoccer.com/match/nice/lillestrom/20151757,2015,7,ligue_1
+Olympique Lyonnais,Lorient,4-0,https://www.besoccer.com/match/olympique-lyonnais/lorient/20151758,2015,7,ligue_1
+Evian Thonon Gaillard,Lens,2-1,https://www.besoccer.com/match/evian-thonon-gaillard/lens/20151759,2015,7,ligue_1
+Bastia,Nantes,0-0,https://www.besoccer.com/match/bastia/nantes/20151760,2015,7,ligue_1
+Montpellier,Monaco,0-1,https://www.besoccer.com/match/montpellier-hsc/monaco/20151763,2015,7,ligue_1
+Guingamp,Metz,0-1,https://www.besoccer.com/match/guingamp/metz/20151764,2015,7,ligue_1
+Caen,PSG,0-2,https://www.besoccer.com/match/caen/paris-saint-germain-fc/20151765,2015,7,ligue_1
+Saint-Étienne,Girondins Bordeaux,1-1,https://www.besoccer.com/match/saint-etienne/bordeaux/20151761,2015,7,ligue_1
+Monaco,Nice,0-1,https://www.besoccer.com/match/monaco/nice/20151773,2015,8,ligue_1
+Toulouse,PSG,1-1,https://www.besoccer.com/match/toulouse-fc/paris-saint-germain-fc/20151767,2015,8,ligue_1
+Montpellier,Guingamp,2-1,https://www.besoccer.com/match/montpellier-hsc/guingamp/20151768,2015,8,ligue_1
+Metz,Stade de Reims,3-0,https://www.besoccer.com/match/metz/stade-reims/20151769,2015,8,ligue_1
+Lorient,Evian Thonon Gaillard,0-2,https://www.besoccer.com/match/lorient/evian-thonon-gaillard/20151770,2015,8,ligue_1
+Lille,Bastia,1-0,https://www.besoccer.com/match/lillestrom/bastia/20151775,2015,8,ligue_1
+Girondins Bordeaux,Stade Rennais,2-1,https://www.besoccer.com/match/bordeaux/stade-rennes/20151776,2015,8,ligue_1
+Lens,Caen,0-0,https://www.besoccer.com/match/lens/caen/20151771,2015,8,ligue_1
+Nantes,Olympique Lyonnais,1-1,https://www.besoccer.com/match/nantes/olympique-lyonnais/20151772,2015,8,ligue_1
+Olympique Marseille,Saint-Étienne,2-1,https://www.besoccer.com/match/olympique-marsella/saint-etienne/20151774,2015,8,ligue_1
+Stade de Reims,Girondins Bordeaux,1-0,https://www.besoccer.com/match/stade-reims/bordeaux/20151784,2015,9,ligue_1
+Caen,Olympique Marseille,1-2,https://www.besoccer.com/match/caen/olympique-marsella/20151781,2015,9,ligue_1
+Bastia,Lorient,0-2,https://www.besoccer.com/match/bastia/lorient/20151777,2015,9,ligue_1
+Stade Rennais,Lens,2-0,https://www.besoccer.com/match/stade-rennes/lens/20151778,2015,9,ligue_1
+Nice,Montpellier,1-1,https://www.besoccer.com/match/nice/montpellier-hsc/20151779,2015,9,ligue_1
+Evian Thonon Gaillard,Metz,3-0,https://www.besoccer.com/match/evian-thonon-gaillard/metz/20151786,2015,9,ligue_1
+Saint-Étienne,Toulouse,0-1,https://www.besoccer.com/match/saint-etienne/toulouse-fc/20151783,2015,9,ligue_1
+Guingamp,Nantes,0-1,https://www.besoccer.com/match/guingamp/nantes/20151780,2015,9,ligue_1
+Olympique Lyonnais,Lille,3-0,https://www.besoccer.com/match/olympique-lyonnais/lillestrom/20151785,2015,9,ligue_1
+PSG,Monaco,1-1,https://www.besoccer.com/match/paris-saint-germain-fc/monaco/20151782,2015,9,ligue_1
+Lens,PSG,1-3,https://www.besoccer.com/match/lens/paris-saint-germain-fc/20151796,2015,10,ligue_1
+Lorient,Saint-Étienne,0-1,https://www.besoccer.com/match/lorient/saint-etienne/20151795,2015,10,ligue_1
+Nantes,Stade de Reims,1-1,https://www.besoccer.com/match/nantes/stade-reims/20151787,2015,10,ligue_1
+Monaco,Evian Thonon Gaillard,2-0,https://www.besoccer.com/match/monaco/evian-thonon-gaillard/20151788,2015,10,ligue_1
+Lille,Guingamp,1-2,https://www.besoccer.com/match/lillestrom/guingamp/20151790,2015,10,ligue_1
+Nice,Bastia,0-1,https://www.besoccer.com/match/nice/bastia/20151792,2015,10,ligue_1
+Metz,Stade Rennais,0-0,https://www.besoccer.com/match/metz/stade-rennes/20151794,2015,10,ligue_1
+Olympique Marseille,Toulouse,2-0,https://www.besoccer.com/match/olympique-marsella/toulouse-fc/20151789,2015,10,ligue_1
+Girondins Bordeaux,Caen,1-1,https://www.besoccer.com/match/bordeaux/caen/20151791,2015,10,ligue_1
+Olympique Lyonnais,Montpellier,5-1,https://www.besoccer.com/match/olympique-lyonnais/montpellier-hsc/20151970,2015,10,ligue_1
+Toulouse,Lens,0-2,https://www.besoccer.com/match/toulouse-fc/lens/20151797,2015,11,ligue_1
+PSG,Girondins Bordeaux,3-0,https://www.besoccer.com/match/paris-saint-germain-fc/bordeaux/20151799,2015,11,ligue_1
+Caen,Lorient,2-1,https://www.besoccer.com/match/caen/lorient/20151800,2015,11,ligue_1
+Stade de Reims,Montpellier,1-0,https://www.besoccer.com/match/stade-reims/montpellier-hsc/20151803,2015,11,ligue_1
+Evian Thonon Gaillard,Nantes,0-2,https://www.besoccer.com/match/evian-thonon-gaillard/nantes/20151804,2015,11,ligue_1
+Bastia,Monaco,1-3,https://www.besoccer.com/match/bastia/monaco/20151805,2015,11,ligue_1
+Stade Rennais,Lille,2-0,https://www.besoccer.com/match/stade-rennes/lillestrom/20151798,2015,11,ligue_1
+Guingamp,Nice,2-7,https://www.besoccer.com/match/guingamp/nice/20151801,2015,11,ligue_1
+Saint-Étienne,Metz,1-0,https://www.besoccer.com/match/saint-etienne/metz/20151802,2015,11,ligue_1
+Olympique Lyonnais,Olympique Marseille,1-0,https://www.besoccer.com/match/olympique-lyonnais/olympique-marsella/20151806,2015,11,ligue_1
+Monaco,Stade de Reims,1-1,https://www.besoccer.com/match/monaco/stade-reims/20151808,2015,12,ligue_1
+Lorient,PSG,1-2,https://www.besoccer.com/match/lorient/paris-saint-germain-fc/20151815,2015,12,ligue_1
+Lille,Saint-Étienne,1-1,https://www.besoccer.com/match/lillestrom/saint-etienne/20151810,2015,12,ligue_1
+Nice,Olympique Lyonnais,1-3,https://www.besoccer.com/match/nice/olympique-lyonnais/20151811,2015,12,ligue_1
+Montpellier,Evian Thonon Gaillard,2-0,https://www.besoccer.com/match/montpellier-hsc/evian-thonon-gaillard/20151812,2015,12,ligue_1
+Metz,Caen,3-2,https://www.besoccer.com/match/metz/caen/20151814,2015,12,ligue_1
+Guingamp,Bastia,1-0,https://www.besoccer.com/match/guingamp/bastia/20151816,2015,12,ligue_1
+Nantes,Stade Rennais,1-1,https://www.besoccer.com/match/nantes/stade-rennes/20151807,2015,12,ligue_1
+Girondins Bordeaux,Toulouse,2-1,https://www.besoccer.com/match/bordeaux/toulouse-fc/20151813,2015,12,ligue_1
+Olympique Marseille,Lens,2-1,https://www.besoccer.com/match/olympique-marsella/lens/20151809,2015,12,ligue_1
+Stade Rennais,Lorient,1-0,https://www.besoccer.com/match/stade-rennes/lorient/20151818,2015,13,ligue_1
+Lens,Girondins Bordeaux,1-2,https://www.besoccer.com/match/lens/bordeaux/20151824,2015,13,ligue_1
+Toulouse,Metz,3-0,https://www.besoccer.com/match/toulouse-fc/metz/20151817,2015,13,ligue_1
+Evian Thonon Gaillard,Nice,1-0,https://www.besoccer.com/match/evian-thonon-gaillard/nice/20151820,2015,13,ligue_1
+Bastia,Montpellier,2-0,https://www.besoccer.com/match/bastia/montpellier-hsc/20151821,2015,13,ligue_1
+Caen,Nantes,1-2,https://www.besoccer.com/match/caen/nantes/20151825,2015,13,ligue_1
+Olympique Lyonnais,Guingamp,3-1,https://www.besoccer.com/match/olympique-lyonnais/guingamp/20151819,2015,13,ligue_1
+Saint-Étienne,Monaco,1-1,https://www.besoccer.com/match/saint-etienne/monaco/20151822,2015,13,ligue_1
+Stade de Reims,Lille,2-0,https://www.besoccer.com/match/stade-reims/lillestrom/20151823,2015,13,ligue_1
+PSG,Olympique Marseille,2-0,https://www.besoccer.com/match/paris-saint-germain-fc/olympique-marsella/20151826,2015,13,ligue_1
+Metz,PSG,2-3,https://www.besoccer.com/match/metz/paris-saint-germain-fc/20151827,2015,14,ligue_1
+Bastia,Olympique Lyonnais,0-0,https://www.besoccer.com/match/bastia/olympique-lyonnais/20151834,2015,14,ligue_1
+Lorient,Lens,1-0,https://www.besoccer.com/match/lorient/lens/20151828,2015,14,ligue_1
+Guingamp,Stade Rennais,0-1,https://www.besoccer.com/match/guingamp/stade-rennes/20151829,2015,14,ligue_1
+Monaco,Caen,2-2,https://www.besoccer.com/match/monaco/caen/20151831,2015,14,ligue_1
+Nice,Stade de Reims,0-0,https://www.besoccer.com/match/nice/stade-reims/20151835,2015,14,ligue_1
+Nantes,Saint-Étienne,0-0,https://www.besoccer.com/match/nantes/saint-etienne/20151830,2015,14,ligue_1
+Montpellier,Toulouse,2-0,https://www.besoccer.com/match/montpellier-hsc/toulouse-fc/20151836,2015,14,ligue_1
+Olympique Marseille,Girondins Bordeaux,3-1,https://www.besoccer.com/match/olympique-marsella/bordeaux/20151832,2015,14,ligue_1
+Lille,Evian Thonon Gaillard,1-0,https://www.besoccer.com/match/lillestrom/evian-thonon-gaillard/20151833,2015,14,ligue_1
+Olympique Marseille,Nantes,2-0,https://www.besoccer.com/match/olympique-marsella/nantes/20151844,2015,15,ligue_1
+PSG,Nice,1-0,https://www.besoccer.com/match/paris-saint-germain-fc/nice/20151838,2015,15,ligue_1
+Stade Rennais,Monaco,2-0,https://www.besoccer.com/match/stade-rennes/monaco/20151837,2015,15,ligue_1
+Lens,Metz,2-0,https://www.besoccer.com/match/lens/metz/20151839,2015,15,ligue_1
+Caen,Montpellier,1-1,https://www.besoccer.com/match/caen/montpellier-hsc/20151840,2015,15,ligue_1
+Toulouse,Lorient,2-3,https://www.besoccer.com/match/toulouse-fc/lorient/20151842,2015,15,ligue_1
+Stade de Reims,Bastia,2-1,https://www.besoccer.com/match/stade-reims/bastia/20151843,2015,15,ligue_1
+Girondins Bordeaux,Lille,1-0,https://www.besoccer.com/match/bordeaux/lillestrom/20151846,2015,15,ligue_1
+Evian Thonon Gaillard,Guingamp,2-0,https://www.besoccer.com/match/evian-thonon-gaillard/guingamp/20151845,2015,15,ligue_1
+Saint-Étienne,Olympique Lyonnais,3-0,https://www.besoccer.com/match/saint-etienne/olympique-lyonnais/20151841,2015,15,ligue_1
+Lorient,Olympique Marseille,1-1,https://www.besoccer.com/match/lorient/olympique-marsella/20151855,2015,16,ligue_1
+Nantes,Toulouse,1-2,https://www.besoccer.com/match/nantes/toulouse-fc/20151853,2015,16,ligue_1
+Monaco,Lens,2-0,https://www.besoccer.com/match/monaco/lens/20151854,2015,16,ligue_1
+Metz,Girondins Bordeaux,0-0,https://www.besoccer.com/match/metz/bordeaux/20151847,2015,16,ligue_1
+Nice,Stade Rennais,1-2,https://www.besoccer.com/match/nice/stade-rennes/20151848,2015,16,ligue_1
+Montpellier,Saint-Étienne,0-2,https://www.besoccer.com/match/montpellier-hsc/saint-etienne/20151849,2015,16,ligue_1
+Bastia,Evian Thonon Gaillard,1-2,https://www.besoccer.com/match/bastia/evian-thonon-gaillard/20151852,2015,16,ligue_1
+Guingamp,Caen,5-1,https://www.besoccer.com/match/guingamp/caen/20151856,2015,16,ligue_1
+Lille,PSG,1-1,https://www.besoccer.com/match/lillestrom/paris-saint-germain-fc/20151851,2015,16,ligue_1
+Olympique Lyonnais,Stade de Reims,2-1,https://www.besoccer.com/match/olympique-lyonnais/stade-reims/20151850,2015,16,ligue_1
+Toulouse,Monaco,0-2,https://www.besoccer.com/match/toulouse-fc/monaco/20151866,2015,17,ligue_1
+PSG,Nantes,2-1,https://www.besoccer.com/match/paris-saint-germain-fc/nantes/20151858,2015,17,ligue_1
+Stade Rennais,Montpellier,0-4,https://www.besoccer.com/match/stade-rennes/montpellier-hsc/20151857,2015,17,ligue_1
+Caen,Nice,2-3,https://www.besoccer.com/match/caen/nice/20151860,2015,17,ligue_1
+Saint-Étienne,Bastia,1-0,https://www.besoccer.com/match/saint-etienne/bastia/20151861,2015,17,ligue_1
+Girondins Bordeaux,Lorient,3-2,https://www.besoccer.com/match/bordeaux/lorient/20151865,2015,17,ligue_1
+Evian Thonon Gaillard,Olympique Lyonnais,2-3,https://www.besoccer.com/match/evian-thonon-gaillard/olympique-lyonnais/20151864,2015,17,ligue_1
+Lens,Lille,1-1,https://www.besoccer.com/match/lens/lillestrom/20151859,2015,17,ligue_1
+Stade de Reims,Guingamp,2-3,https://www.besoccer.com/match/stade-reims/guingamp/20151862,2015,17,ligue_1
+Olympique Marseille,Metz,3-1,https://www.besoccer.com/match/olympique-marsella/metz/20151863,2015,17,ligue_1
+Olympique Lyonnais,Caen,3-0,https://www.besoccer.com/match/olympique-lyonnais/caen/20151874,2015,18,ligue_1
+Nantes,Girondins Bordeaux,2-1,https://www.besoccer.com/match/nantes/bordeaux/20151873,2015,18,ligue_1
+Montpellier,Lens,3-3,https://www.besoccer.com/match/montpellier-hsc/lens/20151868,2015,18,ligue_1
+Lorient,Metz,3-1,https://www.besoccer.com/match/lorient/metz/20151869,2015,18,ligue_1
+Stade de Reims,Evian Thonon Gaillard,3-2,https://www.besoccer.com/match/stade-reims/evian-thonon-gaillard/20151872,2015,18,ligue_1
+Bastia,Stade Rennais,2-0,https://www.besoccer.com/match/bastia/stade-rennes/20151876,2015,18,ligue_1
+Nice,Saint-Étienne,0-0,https://www.besoccer.com/match/nice/saint-etienne/20151867,2015,18,ligue_1
+Guingamp,PSG,1-0,https://www.besoccer.com/match/guingamp/paris-saint-germain-fc/20151870,2015,18,ligue_1
+Lille,Toulouse,3-0,https://www.besoccer.com/match/lillestrom/toulouse-fc/20151875,2015,18,ligue_1
+Monaco,Olympique Marseille,1-0,https://www.besoccer.com/match/monaco/olympique-marsella/20151871,2015,18,ligue_1
+Lens,Nice,2-0,https://www.besoccer.com/match/lens/nice/20151877,2015,19,ligue_1
+PSG,Montpellier,0-0,https://www.besoccer.com/match/paris-saint-germain-fc/montpellier-hsc/20151885,2015,19,ligue_1
+Toulouse,Guingamp,1-1,https://www.besoccer.com/match/toulouse-fc/guingamp/20151879,2015,19,ligue_1
+Stade Rennais,Stade de Reims,1-3,https://www.besoccer.com/match/stade-rennes/stade-reims/20151880,2015,19,ligue_1
+Metz,Monaco,0-1,https://www.besoccer.com/match/metz/monaco/20151881,2015,19,ligue_1
+Lorient,Nantes,1-2,https://www.besoccer.com/match/lorient/nantes/20151882,2015,19,ligue_1
+Caen,Bastia,1-1,https://www.besoccer.com/match/caen/bastia/20151883,2015,19,ligue_1
+Olympique Marseille,Lille,2-1,https://www.besoccer.com/match/olympique-marsella/lillestrom/20151886,2015,19,ligue_1
+Saint-Étienne,Evian Thonon Gaillard,3-0,https://www.besoccer.com/match/saint-etienne/evian-thonon-gaillard/20151884,2015,19,ligue_1
+Girondins Bordeaux,Olympique Lyonnais,0-5,https://www.besoccer.com/match/bordeaux/olympique-lyonnais/20151878,2015,19,ligue_1
+Montpellier,Olympique Marseille,2-1,https://www.besoccer.com/match/montpellier-hsc/olympique-marsella/20151893,2015,20,ligue_1
+Bastia,PSG,4-2,https://www.besoccer.com/match/bastia/paris-saint-germain-fc/20151896,2015,20,ligue_1
+Stade de Reims,Saint-Étienne,1-2,https://www.besoccer.com/match/stade-reims/saint-etienne/20151887,2015,20,ligue_1
+Lille,Caen,1-0,https://www.besoccer.com/match/lillestrom/caen/20151890,2015,20,ligue_1
+Evian Thonon Gaillard,Stade Rennais,1-1,https://www.besoccer.com/match/evian-thonon-gaillard/stade-rennes/20151891,2015,20,ligue_1
+Nice,Lorient,3-1,https://www.besoccer.com/match/nice/lorient/20151892,2015,20,ligue_1
+Guingamp,Lens,2-0,https://www.besoccer.com/match/guingamp/lens/20151895,2015,20,ligue_1
+Nantes,Metz,0-0,https://www.besoccer.com/match/nantes/metz/20151888,2015,20,ligue_1
+Olympique Lyonnais,Toulouse,3-0,https://www.besoccer.com/match/olympique-lyonnais/toulouse-fc/20151894,2015,20,ligue_1
+Monaco,Girondins Bordeaux,0-0,https://www.besoccer.com/match/monaco/bordeaux/20151889,2015,20,ligue_1
+Girondins Bordeaux,Nice,1-2,https://www.besoccer.com/match/bordeaux/nice/20151901,2015,21,ligue_1
+Lens,Olympique Lyonnais,0-2,https://www.besoccer.com/match/lens/olympique-lyonnais/20151900,2015,21,ligue_1
+Monaco,Nantes,1-0,https://www.besoccer.com/match/monaco/nantes/20151898,2015,21,ligue_1
+Toulouse,Bastia,1-1,https://www.besoccer.com/match/toulouse-fc/bastia/20151902,2015,21,ligue_1
+Metz,Montpellier,2-3,https://www.besoccer.com/match/metz/montpellier-hsc/20151904,2015,21,ligue_1
+Lorient,Lille,1-0,https://www.besoccer.com/match/lorient/lillestrom/20151905,2015,21,ligue_1
+Caen,Stade de Reims,4-1,https://www.besoccer.com/match/caen/stade-reims/20151906,2015,21,ligue_1
+PSG,Evian Thonon Gaillard,4-2,https://www.besoccer.com/match/paris-saint-germain-fc/evian-thonon-gaillard/20151903,2015,21,ligue_1
+Stade Rennais,Saint-Étienne,0-0,https://www.besoccer.com/match/stade-rennes/saint-etienne/20151897,2015,21,ligue_1
+Olympique Marseille,Guingamp,2-1,https://www.besoccer.com/match/olympique-marsella/guingamp/20151899,2015,21,ligue_1
+Nice,Olympique Marseille,2-1,https://www.besoccer.com/match/nice/olympique-marsella/20151916,2015,22,ligue_1
+Lille,Monaco,0-1,https://www.besoccer.com/match/lillestrom/monaco/20151913,2015,22,ligue_1
+Guingamp,Lorient,3-2,https://www.besoccer.com/match/guingamp/lorient/20151908,2015,22,ligue_1
+Bastia,Girondins Bordeaux,0-0,https://www.besoccer.com/match/bastia/bordeaux/20151909,2015,22,ligue_1
+Montpellier,Nantes,4-0,https://www.besoccer.com/match/montpellier-hsc/nantes/20151912,2015,22,ligue_1
+Olympique Lyonnais,Metz,2-0,https://www.besoccer.com/match/olympique-lyonnais/metz/20151907,2015,22,ligue_1
+Evian Thonon Gaillard,Toulouse,1-0,https://www.besoccer.com/match/evian-thonon-gaillard/toulouse-fc/20151914,2015,22,ligue_1
+Stade de Reims,Lens,0-0,https://www.besoccer.com/match/stade-reims/lens/20151911,2015,22,ligue_1
+Stade Rennais,Caen,1-4,https://www.besoccer.com/match/stade-rennes/caen/20151915,2015,22,ligue_1
+Saint-Étienne,PSG,0-1,https://www.besoccer.com/match/saint-etienne/paris-saint-germain-fc/20151910,2015,22,ligue_1
+PSG,Stade Rennais,1-0,https://www.besoccer.com/match/paris-saint-germain-fc/stade-rennes/20151925,2015,23,ligue_1
+Olympique Marseille,Evian Thonon Gaillard,1-0,https://www.besoccer.com/match/olympique-marsella/evian-thonon-gaillard/20151917,2015,23,ligue_1
+Lens,Bastia,1-1,https://www.besoccer.com/match/lens/bastia/20151918,2015,23,ligue_1
+Toulouse,Stade de Reims,1-0,https://www.besoccer.com/match/toulouse-fc/stade-reims/20151920,2015,23,ligue_1
+Nantes,Lille,1-1,https://www.besoccer.com/match/nantes/lillestrom/20151921,2015,23,ligue_1
+Metz,Nice,0-0,https://www.besoccer.com/match/metz/nice/20151922,2015,23,ligue_1
+Lorient,Montpellier,0-0,https://www.besoccer.com/match/lorient/montpellier-hsc/20151923,2015,23,ligue_1
+Caen,Saint-Étienne,1-0,https://www.besoccer.com/match/caen/saint-etienne/20151924,2015,23,ligue_1
+Girondins Bordeaux,Guingamp,1-1,https://www.besoccer.com/match/bordeaux/guingamp/20151919,2015,23,ligue_1
+Monaco,Olympique Lyonnais,0-0,https://www.besoccer.com/match/monaco/olympique-lyonnais/20151926,2015,23,ligue_1
+Saint-Étienne,Lens,3-3,https://www.besoccer.com/match/saint-etienne/lens/20151927,2015,24,ligue_1
+Stade Rennais,Olympique Marseille,1-1,https://www.besoccer.com/match/stade-rennes/olympique-marsella/20151932,2015,24,ligue_1
+Stade de Reims,Lorient,1-3,https://www.besoccer.com/match/stade-reims/lorient/20151928,2015,24,ligue_1
+Montpellier,Lille,1-2,https://www.besoccer.com/match/montpellier-hsc/lillestrom/20151929,2015,24,ligue_1
+Caen,Toulouse,2-0,https://www.besoccer.com/match/caen/toulouse-fc/20151931,2015,24,ligue_1
+Evian Thonon Gaillard,Girondins Bordeaux,0-1,https://www.besoccer.com/match/evian-thonon-gaillard/bordeaux/20151935,2015,24,ligue_1
+Bastia,Metz,2-0,https://www.besoccer.com/match/bastia/metz/20151936,2015,24,ligue_1
+Guingamp,Monaco,1-0,https://www.besoccer.com/match/guingamp/monaco/20151930,2015,24,ligue_1
+Nice,Nantes,0-0,https://www.besoccer.com/match/nice/nantes/20151933,2015,24,ligue_1
+Olympique Lyonnais,PSG,1-1,https://www.besoccer.com/match/olympique-lyonnais/paris-saint-germain-fc/20151934,2015,24,ligue_1
+Olympique Marseille,Stade de Reims,2-2,https://www.besoccer.com/match/olympique-marsella/stade-reims/20151939,2015,25,ligue_1
+PSG,Caen,2-2,https://www.besoccer.com/match/paris-saint-germain-fc/caen/20151937,2015,25,ligue_1
+Lille,Nice,0-0,https://www.besoccer.com/match/lillestrom/nice/20151940,2015,25,ligue_1
+Toulouse,Stade Rennais,2-1,https://www.besoccer.com/match/toulouse-fc/stade-rennes/20151942,2015,25,ligue_1
+Nantes,Bastia,0-2,https://www.besoccer.com/match/nantes/bastia/20151943,2015,25,ligue_1
+Lens,Evian Thonon Gaillard,0-2,https://www.besoccer.com/match/lens/evian-thonon-gaillard/20151946,2015,25,ligue_1
+Girondins Bordeaux,Saint-Étienne,1-0,https://www.besoccer.com/match/bordeaux/saint-etienne/20151941,2015,25,ligue_1
+Metz,Guingamp,0-2,https://www.besoccer.com/match/metz/guingamp/20151944,2015,25,ligue_1
+Lorient,Olympique Lyonnais,1-1,https://www.besoccer.com/match/lorient/olympique-lyonnais/20151945,2015,25,ligue_1
+Monaco,Montpellier,0-0,https://www.besoccer.com/match/monaco/montpellier-hsc/20151938,2015,25,ligue_1
+Nice,Monaco,0-1,https://www.besoccer.com/match/nice/monaco/20151953,2015,26,ligue_1
+PSG,Toulouse,3-1,https://www.besoccer.com/match/paris-saint-germain-fc/toulouse-fc/20151947,2015,26,ligue_1
+Bastia,Lille,2-1,https://www.besoccer.com/match/bastia/lillestrom/20151950,2015,26,ligue_1
+Caen,Lens,4-1,https://www.besoccer.com/match/caen/lens/20151955,2015,26,ligue_1
+Stade Rennais,Girondins Bordeaux,1-1,https://www.besoccer.com/match/stade-rennes/bordeaux/20151956,2015,26,ligue_1
+Guingamp,Montpellier,0-2,https://www.besoccer.com/match/guingamp/montpellier-hsc/20151954,2015,26,ligue_1
+Olympique Lyonnais,Nantes,1-0,https://www.besoccer.com/match/olympique-lyonnais/nantes/20151948,2015,26,ligue_1
+Stade de Reims,Metz,0-0,https://www.besoccer.com/match/stade-reims/metz/20151952,2015,26,ligue_1
+Saint-Étienne,Olympique Marseille,2-2,https://www.besoccer.com/match/saint-etienne/olympique-marsella/20151951,2015,26,ligue_1
+Evian Thonon Gaillard,Lorient,1-0,https://www.besoccer.com/match/evian-thonon-gaillard/lorient/20151949,2015,26,ligue_1
+Olympique Marseille,Caen,2-3,https://www.besoccer.com/match/olympique-marsella/caen/20151964,2015,27,ligue_1
+Lille,Olympique Lyonnais,2-1,https://www.besoccer.com/match/lillestrom/olympique-lyonnais/20151965,2015,27,ligue_1
+Toulouse,Saint-Étienne,1-1,https://www.besoccer.com/match/toulouse-fc/saint-etienne/20151957,2015,27,ligue_1
+Metz,Evian Thonon Gaillard,1-2,https://www.besoccer.com/match/metz/evian-thonon-gaillard/20151959,2015,27,ligue_1
+Lorient,Bastia,2-0,https://www.besoccer.com/match/lorient/bastia/20151960,2015,27,ligue_1
+Lens,Stade Rennais,0-1,https://www.besoccer.com/match/lens/stade-rennes/20151961,2015,27,ligue_1
+Girondins Bordeaux,Stade de Reims,1-1,https://www.besoccer.com/match/bordeaux/stade-reims/20151966,2015,27,ligue_1
+Nantes,Guingamp,1-0,https://www.besoccer.com/match/nantes/guingamp/20151962,2015,27,ligue_1
+Montpellier,Nice,2-1,https://www.besoccer.com/match/montpellier-hsc/nice/20151958,2015,27,ligue_1
+Monaco,PSG,0-0,https://www.besoccer.com/match/monaco/paris-saint-germain-fc/20151963,2015,27,ligue_1
+Toulouse,Olympique Marseille,1-6,https://www.besoccer.com/match/toulouse-fc/olympique-marsella/20151973,2015,28,ligue_1
+PSG,Lens,4-1,https://www.besoccer.com/match/paris-saint-germain-fc/lens/20151975,2015,28,ligue_1
+Caen,Girondins Bordeaux,1-2,https://www.besoccer.com/match/caen/bordeaux/20151967,2015,28,ligue_1
+Stade de Reims,Nantes,3-1,https://www.besoccer.com/match/stade-reims/nantes/20151969,2015,28,ligue_1
+Evian Thonon Gaillard,Monaco,1-3,https://www.besoccer.com/match/evian-thonon-gaillard/monaco/20151971,2015,28,ligue_1
+Bastia,Nice,2-1,https://www.besoccer.com/match/bastia/nice/20151972,2015,28,ligue_1
+Stade Rennais,Metz,1-0,https://www.besoccer.com/match/stade-rennes/metz/20151974,2015,28,ligue_1
+Saint-Étienne,Lorient,2-0,https://www.besoccer.com/match/saint-etienne/lorient/20151968,2015,28,ligue_1
+Guingamp,Lille,0-1,https://www.besoccer.com/match/guingamp/lillestrom/20151976,2015,28,ligue_1
+Montpellier,Olympique Lyonnais,1-5,https://www.besoccer.com/match/montpellier-hsc/olympique-lyonnais/20151016465,2015,28,ligue_1
+Monaco,Bastia,3-0,https://www.besoccer.com/match/monaco/bastia/20151978,2015,29,ligue_1
+Nice,Guingamp,1-2,https://www.besoccer.com/match/nice/guingamp/20151982,2015,29,ligue_1
+Metz,Saint-Étienne,2-3,https://www.besoccer.com/match/metz/saint-etienne/20151984,2015,29,ligue_1
+Nantes,Evian Thonon Gaillard,2-1,https://www.besoccer.com/match/nantes/evian-thonon-gaillard/20151977,2015,29,ligue_1
+Montpellier,Stade de Reims,3-1,https://www.besoccer.com/match/montpellier-hsc/stade-reims/20151983,2015,29,ligue_1
+Lorient,Caen,2-1,https://www.besoccer.com/match/lorient/caen/20151985,2015,29,ligue_1
+Lens,Toulouse,1-0,https://www.besoccer.com/match/lens/toulouse-fc/20151986,2015,29,ligue_1
+Lille,Stade Rennais,3-0,https://www.besoccer.com/match/lillestrom/stade-rennes/20151980,2015,29,ligue_1
+Girondins Bordeaux,PSG,3-2,https://www.besoccer.com/match/bordeaux/paris-saint-germain-fc/20151981,2015,29,ligue_1
+Olympique Marseille,Olympique Lyonnais,0-0,https://www.besoccer.com/match/olympique-marsella/olympique-lyonnais/20151979,2015,29,ligue_1
+PSG,Lorient,3-1,https://www.besoccer.com/match/paris-saint-germain-fc/lorient/20151993,2015,30,ligue_1
+Olympique Lyonnais,Nice,1-2,https://www.besoccer.com/match/olympique-lyonnais/nice/20151989,2015,30,ligue_1
+Toulouse,Girondins Bordeaux,2-1,https://www.besoccer.com/match/toulouse-fc/bordeaux/20151987,2015,30,ligue_1
+Evian Thonon Gaillard,Montpellier,1-0,https://www.besoccer.com/match/evian-thonon-gaillard/montpellier-hsc/20151990,2015,30,ligue_1
+Bastia,Guingamp,0-0,https://www.besoccer.com/match/bastia/guingamp/20151991,2015,30,ligue_1
+Stade Rennais,Nantes,0-0,https://www.besoccer.com/match/stade-rennes/nantes/20151992,2015,30,ligue_1
+Caen,Metz,0-0,https://www.besoccer.com/match/caen/metz/20151995,2015,30,ligue_1
+Saint-Étienne,Lille,2-0,https://www.besoccer.com/match/saint-etienne/lillestrom/20151996,2015,30,ligue_1
+Stade de Reims,Monaco,1-3,https://www.besoccer.com/match/stade-reims/monaco/20151988,2015,30,ligue_1
+Lens,Olympique Marseille,0-4,https://www.besoccer.com/match/lens/olympique-marsella/20151994,2015,30,ligue_1
+Monaco,Saint-Étienne,1-1,https://www.besoccer.com/match/monaco/saint-etienne/20151999,2015,31,ligue_1
+Guingamp,Olympique Lyonnais,1-3,https://www.besoccer.com/match/guingamp/olympique-lyonnais/20151997,2015,31,ligue_1
+Lille,Stade de Reims,3-1,https://www.besoccer.com/match/lillestrom/stade-reims/20152001,2015,31,ligue_1
+Montpellier,Bastia,3-1,https://www.besoccer.com/match/montpellier-hsc/bastia/20152003,2015,31,ligue_1
+Nice,Evian Thonon Gaillard,2-2,https://www.besoccer.com/match/nice/evian-thonon-gaillard/20152004,2015,31,ligue_1
+Metz,Toulouse,3-2,https://www.besoccer.com/match/metz/toulouse-fc/20152005,2015,31,ligue_1
+Lorient,Stade Rennais,0-3,https://www.besoccer.com/match/lorient/stade-rennes/20152006,2015,31,ligue_1
+Girondins Bordeaux,Lens,2-1,https://www.besoccer.com/match/bordeaux/lens/20152002,2015,31,ligue_1
+Nantes,Caen,1-2,https://www.besoccer.com/match/nantes/caen/20151998,2015,31,ligue_1
+Olympique Marseille,PSG,2-3,https://www.besoccer.com/match/olympique-marsella/paris-saint-germain-fc/20152000,2015,31,ligue_1
+Caen,Monaco,0-3,https://www.besoccer.com/match/caen/monaco/20152016,2015,32,ligue_1
+Saint-Étienne,Nantes,1-0,https://www.besoccer.com/match/saint-etienne/nantes/20152007,2015,32,ligue_1
+Stade de Reims,Nice,0-1,https://www.besoccer.com/match/stade-reims/nice/20152008,2015,32,ligue_1
+Evian Thonon Gaillard,Lille,0-1,https://www.besoccer.com/match/evian-thonon-gaillard/lillestrom/20152010,2015,32,ligue_1
+Toulouse,Montpellier,1-0,https://www.besoccer.com/match/toulouse-fc/montpellier-hsc/20152012,2015,32,ligue_1
+Stade Rennais,Guingamp,1-0,https://www.besoccer.com/match/stade-rennes/guingamp/20152013,2015,32,ligue_1
+Lens,Lorient,0-0,https://www.besoccer.com/match/lens/lorient/20152015,2015,32,ligue_1
+Girondins Bordeaux,Olympique Marseille,1-0,https://www.besoccer.com/match/bordeaux/olympique-marsella/20152011,2015,32,ligue_1
+Olympique Lyonnais,Bastia,2-0,https://www.besoccer.com/match/olympique-lyonnais/bastia/20152009,2015,32,ligue_1
+PSG,Metz,3-1,https://www.besoccer.com/match/paris-saint-germain-fc/metz/20152014,2015,32,ligue_1
+Nantes,Olympique Marseille,1-0,https://www.besoccer.com/match/nantes/olympique-marsella/20152023,2015,33,ligue_1
+Nice,PSG,1-3,https://www.besoccer.com/match/nice/paris-saint-germain-fc/20152018,2015,33,ligue_1
+Bastia,Stade de Reims,1-2,https://www.besoccer.com/match/bastia/stade-reims/20152017,2015,33,ligue_1
+Metz,Lens,3-1,https://www.besoccer.com/match/metz/lens/20152020,2015,33,ligue_1
+Lorient,Toulouse,0-1,https://www.besoccer.com/match/lorient/toulouse-fc/20152021,2015,33,ligue_1
+Guingamp,Evian Thonon Gaillard,1-1,https://www.besoccer.com/match/guingamp/evian-thonon-gaillard/20152022,2015,33,ligue_1
+Monaco,Stade Rennais,1-1,https://www.besoccer.com/match/monaco/stade-rennes/20152024,2015,33,ligue_1
+Lille,Girondins Bordeaux,2-0,https://www.besoccer.com/match/lillestrom/bordeaux/20152026,2015,33,ligue_1
+Montpellier,Caen,1-0,https://www.besoccer.com/match/montpellier-hsc/caen/20152019,2015,33,ligue_1
+Olympique Lyonnais,Saint-Étienne,2-2,https://www.besoccer.com/match/olympique-lyonnais/saint-etienne/20152025,2015,33,ligue_1
+Olympique Marseille,Lorient,3-5,https://www.besoccer.com/match/olympique-marsella/lorient/20152036,2015,34,ligue_1
+PSG,Lille,6-1,https://www.besoccer.com/match/paris-saint-germain-fc/lillestrom/20152030,2015,34,ligue_1
+Caen,Guingamp,0-2,https://www.besoccer.com/match/caen/guingamp/20152027,2015,34,ligue_1
+Toulouse,Nantes,1-1,https://www.besoccer.com/match/toulouse-fc/nantes/20152028,2015,34,ligue_1
+Stade Rennais,Nice,2-1,https://www.besoccer.com/match/stade-rennes/nice/20152029,2015,34,ligue_1
+Evian Thonon Gaillard,Bastia,1-2,https://www.besoccer.com/match/evian-thonon-gaillard/bastia/20152032,2015,34,ligue_1
+Girondins Bordeaux,Metz,1-1,https://www.besoccer.com/match/bordeaux/metz/20152033,2015,34,ligue_1
+Saint-Étienne,Montpellier,1-0,https://www.besoccer.com/match/saint-etienne/montpellier-hsc/20152034,2015,34,ligue_1
+Lens,Monaco,0-3,https://www.besoccer.com/match/lens/monaco/20152031,2015,34,ligue_1
+Stade de Reims,Olympique Lyonnais,2-4,https://www.besoccer.com/match/stade-reims/olympique-lyonnais/20152035,2015,34,ligue_1
+Metz,Olympique Marseille,0-2,https://www.besoccer.com/match/metz/olympique-marsella/20152039,2015,35,ligue_1
+Olympique Lyonnais,Evian Thonon Gaillard,2-0,https://www.besoccer.com/match/olympique-lyonnais/evian-thonon-gaillard/20152044,2015,35,ligue_1
+Nice,Caen,1-1,https://www.besoccer.com/match/nice/caen/20152037,2015,35,ligue_1
+Montpellier,Stade Rennais,0-0,https://www.besoccer.com/match/montpellier-hsc/stade-rennes/20152038,2015,35,ligue_1
+Lorient,Girondins Bordeaux,0-0,https://www.besoccer.com/match/lorient/bordeaux/20152040,2015,35,ligue_1
+Guingamp,Stade de Reims,2-0,https://www.besoccer.com/match/guingamp/stade-reims/20152041,2015,35,ligue_1
+Bastia,Saint-Étienne,1-0,https://www.besoccer.com/match/bastia/saint-etienne/20152046,2015,35,ligue_1
+Lille,Lens,3-1,https://www.besoccer.com/match/lillestrom/lens/20152045,2015,35,ligue_1
+Monaco,Toulouse,4-1,https://www.besoccer.com/match/monaco/toulouse-fc/20152043,2015,35,ligue_1
+Nantes,PSG,0-2,https://www.besoccer.com/match/nantes/paris-saint-germain-fc/20152042,2015,35,ligue_1
+PSG,Guingamp,6-0,https://www.besoccer.com/match/paris-saint-germain-fc/guingamp/20152048,2015,36,ligue_1
+Caen,Olympique Lyonnais,3-0,https://www.besoccer.com/match/caen/olympique-lyonnais/20152056,2015,36,ligue_1
+Evian Thonon Gaillard,Stade de Reims,2-3,https://www.besoccer.com/match/evian-thonon-gaillard/stade-reims/20152050,2015,36,ligue_1
+Girondins Bordeaux,Nantes,2-1,https://www.besoccer.com/match/bordeaux/nantes/20152051,2015,36,ligue_1
+Toulouse,Lille,3-2,https://www.besoccer.com/match/toulouse-fc/lillestrom/20152052,2015,36,ligue_1
+Stade Rennais,Bastia,0-1,https://www.besoccer.com/match/stade-rennes/bastia/20152053,2015,36,ligue_1
+Metz,Lorient,0-4,https://www.besoccer.com/match/metz/lorient/20152054,2015,36,ligue_1
+Lens,Montpellier,0-1,https://www.besoccer.com/match/lens/montpellier-hsc/20152055,2015,36,ligue_1
+Saint-Étienne,Nice,5-0,https://www.besoccer.com/match/saint-etienne/nice/20152047,2015,36,ligue_1
+Olympique Marseille,Monaco,2-1,https://www.besoccer.com/match/olympique-marsella/monaco/20152049,2015,36,ligue_1
+Olympique Lyonnais,Girondins Bordeaux,1-1,https://www.besoccer.com/match/olympique-lyonnais/bordeaux/20152057,2015,37,ligue_1
+Guingamp,Toulouse,2-1,https://www.besoccer.com/match/guingamp/toulouse-fc/20152058,2015,37,ligue_1
+Stade de Reims,Stade Rennais,1-0,https://www.besoccer.com/match/stade-reims/stade-rennes/20152059,2015,37,ligue_1
+Nantes,Lorient,1-1,https://www.besoccer.com/match/nantes/lorient/20152060,2015,37,ligue_1
+Monaco,Metz,2-0,https://www.besoccer.com/match/monaco/metz/20152061,2015,37,ligue_1
+Lille,Olympique Marseille,0-4,https://www.besoccer.com/match/lillestrom/olympique-marsella/20152062,2015,37,ligue_1
+Bastia,Caen,1-1,https://www.besoccer.com/match/bastia/caen/20152063,2015,37,ligue_1
+Nice,Lens,2-1,https://www.besoccer.com/match/nice/lens/20152064,2015,37,ligue_1
+Montpellier,PSG,1-2,https://www.besoccer.com/match/montpellier-hsc/paris-saint-germain-fc/20152065,2015,37,ligue_1
+Evian Thonon Gaillard,Saint-Étienne,1-2,https://www.besoccer.com/match/evian-thonon-gaillard/saint-etienne/201512369,2015,37,ligue_1
+Saint-Étienne,Guingamp,2-1,https://www.besoccer.com/match/saint-etienne/guingamp/20152066,2015,38,ligue_1
+PSG,Stade de Reims,3-2,https://www.besoccer.com/match/paris-saint-germain-fc/stade-reims/20152067,2015,38,ligue_1
+Olympique Marseille,Bastia,3-0,https://www.besoccer.com/match/olympique-marsella/bastia/20152068,2015,38,ligue_1
+Caen,Evian Thonon Gaillard,3-2,https://www.besoccer.com/match/caen/evian-thonon-gaillard/20152069,2015,38,ligue_1
+Lens,Nantes,1-0,https://www.besoccer.com/match/lens/nantes/20152070,2015,38,ligue_1
+Toulouse,Nice,2-3,https://www.besoccer.com/match/toulouse-fc/nice/20152071,2015,38,ligue_1
+Stade Rennais,Olympique Lyonnais,0-1,https://www.besoccer.com/match/stade-rennes/olympique-lyonnais/20152072,2015,38,ligue_1
+Metz,Lille,1-4,https://www.besoccer.com/match/metz/lillestrom/20152073,2015,38,ligue_1
+Lorient,Monaco,0-1,https://www.besoccer.com/match/lorient/monaco/20152074,2015,38,ligue_1
+Girondins Bordeaux,Montpellier,2-1,https://www.besoccer.com/match/bordeaux/montpellier-hsc/20152075,2015,38,ligue_1
