@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Hércules,Athletic,0-1,https://www.besoccer.com/match/hercules/athletic-bilbao/201110181,2011,1,primera_division
+Málaga,Valencia,1-3,https://www.besoccer.com/match/malaga/valencia-cf/201110183,2011,1,primera_division
+Levante,Sevilla,1-4,https://www.besoccer.com/match/levante/sevilla/201110185,2011,1,primera_division
+Deportivo,Real Zaragoza,0-0,https://www.besoccer.com/match/deportivo/real-zaragoza/201110184,2011,1,primera_division
+Espanyol,Getafe,3-1,https://www.besoccer.com/match/espanyol/getafe/201110186,2011,1,primera_division
+R. Sociedad,Villarreal,1-0,https://www.besoccer.com/match/real-sociedad/villarreal/201110187,2011,1,primera_division
+Osasuna,Almería,0-0,https://www.besoccer.com/match/osasuna/almeria/201110188,2011,1,primera_division
+Racing,Barcelona,0-3,https://www.besoccer.com/match/racing/barcelona/201110182,2011,1,primera_division
+Mallorca,Real Madrid,0-0,https://www.besoccer.com/match/mallorca/real-madrid/201110189,2011,1,primera_division
+Atlético,Real Sporting,4-0,https://www.besoccer.com/match/atletico-madrid/sporting-gijon/201110180,2011,1,primera_division
+Barcelona,Hércules,0-2,https://www.besoccer.com/match/barcelona/hercules/201110202,2011,2,primera_division
+Valencia,Racing,1-0,https://www.besoccer.com/match/valencia-cf/racing/201110203,2011,2,primera_division
+Real Madrid,Osasuna,1-0,https://www.besoccer.com/match/real-madrid/osasuna/201110209,2011,2,primera_division
+Athletic,Atlético,1-2,https://www.besoccer.com/match/athletic-bilbao/atletico-madrid/201110201,2011,2,primera_division
+Real Sporting,Mallorca,2-0,https://www.besoccer.com/match/sporting-gijon/mallorca/201110200,2011,2,primera_division
+Real Zaragoza,Málaga,3-5,https://www.besoccer.com/match/real-zaragoza/malaga/201110204,2011,2,primera_division
+Getafe,Levante,4-1,https://www.besoccer.com/match/getafe/levante/201110206,2011,2,primera_division
+Villarreal,Espanyol,4-0,https://www.besoccer.com/match/villarreal/espanyol/201110207,2011,2,primera_division
+Sevilla,Deportivo,0-0,https://www.besoccer.com/match/sevilla/deportivo/201110205,2011,2,primera_division
+Almería,R. Sociedad,2-2,https://www.besoccer.com/match/almeria/real-sociedad/201110208,2011,2,primera_division
+Espanyol,Almería,1-0,https://www.besoccer.com/match/espanyol/almeria/201110269,2011,3,primera_division
+Mallorca,Osasuna,2-0,https://www.besoccer.com/match/mallorca/osasuna/201110271,2011,3,primera_division
+Real Sporting,Athletic,2-2,https://www.besoccer.com/match/sporting-gijon/athletic-bilbao/201110262,2011,3,primera_division
+R. Sociedad,Real Madrid,1-2,https://www.besoccer.com/match/real-sociedad/real-madrid/201110270,2011,3,primera_division
+Hércules,Valencia,1-2,https://www.besoccer.com/match/hercules/valencia-cf/201110264,2011,3,primera_division
+Racing,Real Zaragoza,2-0,https://www.besoccer.com/match/racing/real-zaragoza/201110265,2011,3,primera_division
+Levante,Villarreal,1-2,https://www.besoccer.com/match/levante/villarreal/201110268,2011,3,primera_division
+Atlético,Barcelona,1-2,https://www.besoccer.com/match/atletico-madrid/barcelona/201110263,2011,3,primera_division
+Málaga,Sevilla,1-2,https://www.besoccer.com/match/malaga/sevilla/201110266,2011,3,primera_division
+Deportivo,Getafe,2-2,https://www.besoccer.com/match/deportivo/getafe/201110267,2011,3,primera_division
+Osasuna,R. Sociedad,3-1,https://www.besoccer.com/match/osasuna/real-sociedad/201110283,2011,4,primera_division
+Athletic,Mallorca,3-0,https://www.besoccer.com/match/athletic-bilbao/mallorca/201110284,2011,4,primera_division
+Real Madrid,Espanyol,3-0,https://www.besoccer.com/match/real-madrid/espanyol/201110282,2011,4,primera_division
+Barcelona,Real Sporting,1-0,https://www.besoccer.com/match/barcelona/sporting-gijon/201110285,2011,4,primera_division
+Real Zaragoza,Hércules,0-0,https://www.besoccer.com/match/real-zaragoza/hercules/201110287,2011,4,primera_division
+Almería,Levante,0-1,https://www.besoccer.com/match/almeria/levante/201110292,2011,4,primera_division
+Valencia,Atlético,1-1,https://www.besoccer.com/match/valencia-cf/atletico-madrid/201110286,2011,4,primera_division
+Getafe,Málaga,0-2,https://www.besoccer.com/match/getafe/malaga/201110289,2011,4,primera_division
+Villarreal,Deportivo,1-0,https://www.besoccer.com/match/villarreal/deportivo/201110291,2011,4,primera_division
+Sevilla,Racing,1-1,https://www.besoccer.com/match/sevilla/racing/201110288,2011,4,primera_division
+Real Sporting,Valencia,0-2,https://www.besoccer.com/match/sporting-gijon/valencia-cf/201110313,2011,5,primera_division
+Levante,Real Madrid,0-0,https://www.besoccer.com/match/levante/real-madrid/201110309,2011,5,primera_division
+Athletic,Barcelona,1-3,https://www.besoccer.com/match/athletic-bilbao/barcelona/201110312,2011,5,primera_division
+Racing,Getafe,0-1,https://www.besoccer.com/match/racing/getafe/201110306,2011,5,primera_division
+Deportivo,Almería,0-2,https://www.besoccer.com/match/deportivo/almeria/201110308,2011,5,primera_division
+Espanyol,Osasuna,1-0,https://www.besoccer.com/match/espanyol/osasuna/201110310,2011,5,primera_division
+Mallorca,R. Sociedad,2-0,https://www.besoccer.com/match/mallorca/real-sociedad/201110311,2011,5,primera_division
+Hércules,Sevilla,2-0,https://www.besoccer.com/match/hercules/sevilla/201110305,2011,5,primera_division
+Atlético,Real Zaragoza,1-0,https://www.besoccer.com/match/atletico-madrid/real-zaragoza/201110304,2011,5,primera_division
+Málaga,Villarreal,2-3,https://www.besoccer.com/match/malaga/villarreal/201110307,2011,5,primera_division
+Real Zaragoza,Real Sporting,2-2,https://www.besoccer.com/match/real-zaragoza/sporting-gijon/201110326,2011,6,primera_division
+R. Sociedad,Espanyol,1-0,https://www.besoccer.com/match/real-sociedad/espanyol/201110327,2011,6,primera_division
+Valencia,Athletic,2-1,https://www.besoccer.com/match/valencia-cf/athletic-bilbao/201110325,2011,6,primera_division
+Sevilla,Atlético,3-1,https://www.besoccer.com/match/sevilla/atletico-madrid/201110328,2011,6,primera_division
+Getafe,Hércules,3-0,https://www.besoccer.com/match/getafe/hercules/201110329,2011,6,primera_division
+Villarreal,Racing,2-0,https://www.besoccer.com/match/villarreal/racing/201110330,2011,6,primera_division
+Almería,Málaga,1-1,https://www.besoccer.com/match/almeria/malaga/201110331,2011,6,primera_division
+Osasuna,Levante,1-1,https://www.besoccer.com/match/osasuna/levante/201110333,2011,6,primera_division
+Barcelona,Mallorca,1-1,https://www.besoccer.com/match/barcelona/mallorca/201110324,2011,6,primera_division
+Real Madrid,Deportivo,6-1,https://www.besoccer.com/match/real-madrid/deportivo/201110332,2011,6,primera_division
+Atlético,Getafe,2-0,https://www.besoccer.com/match/atletico-madrid/getafe/201110347,2011,7,primera_division
+Barcelona,Valencia,2-1,https://www.besoccer.com/match/barcelona/valencia-cf/201110344,2011,7,primera_division
+Málaga,Real Madrid,1-4,https://www.besoccer.com/match/malaga/real-madrid/201110350,2011,7,primera_division
+Racing,Almería,1-0,https://www.besoccer.com/match/racing/almeria/201110349,2011,7,primera_division
+Deportivo,Osasuna,0-0,https://www.besoccer.com/match/deportivo/osasuna/201110351,2011,7,primera_division
+Levante,R. Sociedad,2-1,https://www.besoccer.com/match/levante/real-sociedad/201110352,2011,7,primera_division
+Mallorca,Espanyol,0-1,https://www.besoccer.com/match/mallorca/espanyol/201110353,2011,7,primera_division
+Athletic,Real Zaragoza,2-1,https://www.besoccer.com/match/athletic-bilbao/real-zaragoza/201110345,2011,7,primera_division
+Real Sporting,Sevilla,2-0,https://www.besoccer.com/match/sporting-gijon/sevilla/201110346,2011,7,primera_division
+Hércules,Villarreal,2-2,https://www.besoccer.com/match/hercules/villarreal/201110348,2011,7,primera_division
+Real Zaragoza,Barcelona,0-2,https://www.besoccer.com/match/real-zaragoza/barcelona/201110365,2011,8,primera_division
+Real Madrid,Racing,6-1,https://www.besoccer.com/match/real-madrid/racing/201110370,2011,8,primera_division
+Valencia,Mallorca,1-2,https://www.besoccer.com/match/valencia-cf/mallorca/201110364,2011,8,primera_division
+Getafe,Real Sporting,3-0,https://www.besoccer.com/match/getafe/sporting-gijon/201110367,2011,8,primera_division
+Almería,Hércules,1-1,https://www.besoccer.com/match/almeria/hercules/201110369,2011,8,primera_division
+Osasuna,Málaga,3-0,https://www.besoccer.com/match/osasuna/malaga/201110371,2011,8,primera_division
+Espanyol,Levante,2-1,https://www.besoccer.com/match/espanyol/levante/201110373,2011,8,primera_division
+Sevilla,Athletic,4-3,https://www.besoccer.com/match/sevilla/athletic-bilbao/201110366,2011,8,primera_division
+Villarreal,Atlético,2-0,https://www.besoccer.com/match/villarreal/atletico-madrid/201110368,2011,8,primera_division
+R. Sociedad,Deportivo,3-0,https://www.besoccer.com/match/real-sociedad/deportivo/201110372,2011,8,primera_division
+Valencia,Real Zaragoza,1-1,https://www.besoccer.com/match/valencia-cf/real-zaragoza/201110384,2011,9,primera_division
+Hércules,Real Madrid,1-3,https://www.besoccer.com/match/hercules/real-madrid/201110389,2011,9,primera_division
+Barcelona,Sevilla,5-0,https://www.besoccer.com/match/barcelona/sevilla/201110385,2011,9,primera_division
+Real Sporting,Villarreal,1-1,https://www.besoccer.com/match/sporting-gijon/villarreal/201110387,2011,9,primera_division
+Racing,Osasuna,4-1,https://www.besoccer.com/match/racing/osasuna/201110390,2011,9,primera_division
+Málaga,R. Sociedad,1-2,https://www.besoccer.com/match/malaga/real-sociedad/201110391,2011,9,primera_division
+Deportivo,Espanyol,3-0,https://www.besoccer.com/match/deportivo/espanyol/201110392,2011,9,primera_division
+Atlético,Almería,1-1,https://www.besoccer.com/match/atletico-madrid/almeria/201110388,2011,9,primera_division
+Athletic,Getafe,3-0,https://www.besoccer.com/match/athletic-bilbao/getafe/201110386,2011,9,primera_division
+Mallorca,Levante,2-1,https://www.besoccer.com/match/mallorca/levante/201110393,2011,9,primera_division
+R. Sociedad,Racing,1-0,https://www.besoccer.com/match/real-sociedad/racing/201110412,2011,10,primera_division
+Espanyol,Málaga,1-0,https://www.besoccer.com/match/espanyol/malaga/201110413,2011,10,primera_division
+Real Zaragoza,Mallorca,3-2,https://www.besoccer.com/match/real-zaragoza/mallorca/201110405,2011,10,primera_division
+Villarreal,Athletic,4-1,https://www.besoccer.com/match/villarreal/athletic-bilbao/201110408,2011,10,primera_division
+Almería,Real Sporting,1-1,https://www.besoccer.com/match/almeria/sporting-gijon/201110409,2011,10,primera_division
+Osasuna,Hércules,3-0,https://www.besoccer.com/match/osasuna/hercules/201110411,2011,10,primera_division
+Levante,Deportivo,1-2,https://www.besoccer.com/match/levante/deportivo/201110414,2011,10,primera_division
+Getafe,Barcelona,1-3,https://www.besoccer.com/match/getafe/barcelona/201110407,2011,10,primera_division
+Real Madrid,Atlético,2-0,https://www.besoccer.com/match/real-madrid/atletico-madrid/201110410,2011,10,primera_division
+Sevilla,Valencia,2-0,https://www.besoccer.com/match/sevilla/valencia-cf/201110406,2011,10,primera_division
+Athletic,Almería,1-0,https://www.besoccer.com/match/athletic-bilbao/almeria/201110427,2011,11,primera_division
+Atlético,Osasuna,3-0,https://www.besoccer.com/match/atletico-madrid/osasuna/201110429,2011,11,primera_division
+Barcelona,Villarreal,3-1,https://www.besoccer.com/match/barcelona/villarreal/201110426,2011,11,primera_division
+Hércules,R. Sociedad,2-1,https://www.besoccer.com/match/hercules/real-sociedad/201110430,2011,11,primera_division
+Racing,Espanyol,0-0,https://www.besoccer.com/match/racing/espanyol/201110431,2011,11,primera_division
+Málaga,Levante,1-0,https://www.besoccer.com/match/malaga/levante/201110432,2011,11,primera_division
+Mallorca,Deportivo,0-0,https://www.besoccer.com/match/mallorca/deportivo/201110433,2011,11,primera_division
+Real Zaragoza,Sevilla,1-2,https://www.besoccer.com/match/real-zaragoza/sevilla/201110434,2011,11,primera_division
+Real Sporting,Real Madrid,0-1,https://www.besoccer.com/match/sporting-gijon/real-madrid/201110428,2011,11,primera_division
+Valencia,Getafe,2-0,https://www.besoccer.com/match/valencia-cf/getafe/201110425,2011,11,primera_division
+Villarreal,Valencia,1-1,https://www.besoccer.com/match/villarreal/valencia-cf/201110447,2011,12,primera_division
+Almería,Barcelona,0-8,https://www.besoccer.com/match/almeria/barcelona/201110448,2011,12,primera_division
+Real Madrid,Athletic,5-1,https://www.besoccer.com/match/real-madrid/athletic-bilbao/201110449,2011,12,primera_division
+Osasuna,Real Sporting,1-0,https://www.besoccer.com/match/osasuna/sporting-gijon/201110450,2011,12,primera_division
+Espanyol,Hércules,3-0,https://www.besoccer.com/match/espanyol/hercules/201110452,2011,12,primera_division
+Levante,Racing,3-1,https://www.besoccer.com/match/levante/racing/201110453,2011,12,primera_division
+Deportivo,Málaga,3-0,https://www.besoccer.com/match/deportivo/malaga/201110454,2011,12,primera_division
+Sevilla,Mallorca,1-2,https://www.besoccer.com/match/sevilla/mallorca/201110445,2011,12,primera_division
+R. Sociedad,Atlético,2-4,https://www.besoccer.com/match/real-sociedad/atletico-madrid/201110451,2011,12,primera_division
+Getafe,Real Zaragoza,1-1,https://www.besoccer.com/match/getafe/real-zaragoza/201110446,2011,12,primera_division
+Real Zaragoza,Villarreal,0-3,https://www.besoccer.com/match/real-zaragoza/villarreal/201110466,2011,13,primera_division
+Sevilla,Getafe,1-3,https://www.besoccer.com/match/sevilla/getafe/201110465,2011,13,primera_division
+Atlético,Espanyol,2-3,https://www.besoccer.com/match/atletico-madrid/espanyol/201110471,2011,13,primera_division
+Real Sporting,R. Sociedad,1-3,https://www.besoccer.com/match/sporting-gijon/real-sociedad/201110470,2011,13,primera_division
+Hércules,Levante,3-1,https://www.besoccer.com/match/hercules/levante/201110472,2011,13,primera_division
+Racing,Deportivo,1-0,https://www.besoccer.com/match/racing/deportivo/201110473,2011,13,primera_division
+Mallorca,Málaga,2-0,https://www.besoccer.com/match/mallorca/malaga/201110474,2011,13,primera_division
+Athletic,Osasuna,1-0,https://www.besoccer.com/match/athletic-bilbao/osasuna/201110469,2011,13,primera_division
+Valencia,Almería,2-1,https://www.besoccer.com/match/valencia-cf/almeria/201110467,2011,13,primera_division
+Barcelona,Real Madrid,5-0,https://www.besoccer.com/match/barcelona/real-madrid/201110468,2011,13,primera_division
+Levante,Atlético,2-0,https://www.besoccer.com/match/levante/atletico-madrid/201110492,2011,14,primera_division
+Osasuna,Barcelona,0-3,https://www.besoccer.com/match/osasuna/barcelona/201110489,2011,14,primera_division
+Real Madrid,Valencia,2-0,https://www.besoccer.com/match/real-madrid/valencia-cf/201110488,2011,14,primera_division
+Getafe,Mallorca,3-0,https://www.besoccer.com/match/getafe/mallorca/201110485,2011,14,primera_division
+Almería,Real Zaragoza,1-1,https://www.besoccer.com/match/almeria/real-zaragoza/201110487,2011,14,primera_division
+Espanyol,Real Sporting,1-0,https://www.besoccer.com/match/espanyol/sporting-gijon/201110491,2011,14,primera_division
+Málaga,Racing,4-1,https://www.besoccer.com/match/malaga/racing/201110494,2011,14,primera_division
+Villarreal,Sevilla,1-0,https://www.besoccer.com/match/villarreal/sevilla/201110486,2011,14,primera_division
+R. Sociedad,Athletic,2-0,https://www.besoccer.com/match/real-sociedad/athletic-bilbao/201110490,2011,14,primera_division
+Deportivo,Hércules,1-0,https://www.besoccer.com/match/deportivo/hercules/201110493,2011,14,primera_division
+Getafe,Villarreal,1-0,https://www.besoccer.com/match/getafe/villarreal/201110513,2011,15,primera_division
+Sevilla,Almería,1-3,https://www.besoccer.com/match/sevilla/almeria/201110514,2011,15,primera_division
+Atlético,Deportivo,2-0,https://www.besoccer.com/match/atletico-madrid/deportivo/201110510,2011,15,primera_division
+Athletic,Espanyol,2-1,https://www.besoccer.com/match/athletic-bilbao/espanyol/201110508,2011,15,primera_division
+Real Sporting,Levante,1-1,https://www.besoccer.com/match/sporting-gijon/levante/201110509,2011,15,primera_division
+Hércules,Málaga,4-1,https://www.besoccer.com/match/hercules/malaga/201110511,2011,15,primera_division
+Mallorca,Racing,0-1,https://www.besoccer.com/match/mallorca/racing/201110512,2011,15,primera_division
+Real Zaragoza,Real Madrid,1-3,https://www.besoccer.com/match/real-zaragoza/real-madrid/201110505,2011,15,primera_division
+Barcelona,R. Sociedad,5-0,https://www.besoccer.com/match/barcelona/real-sociedad/201110507,2011,15,primera_division
+Valencia,Osasuna,3-3,https://www.besoccer.com/match/valencia-cf/osasuna/201110506,2011,15,primera_division
+Levante,Athletic,1-2,https://www.besoccer.com/match/levante/athletic-bilbao/201110531,2011,16,primera_division
+Villarreal,Mallorca,3-1,https://www.besoccer.com/match/villarreal/mallorca/201110525,2011,16,primera_division
+Deportivo,Real Sporting,1-1,https://www.besoccer.com/match/deportivo/sporting-gijon/201110532,2011,16,primera_division
+Espanyol,Barcelona,1-5,https://www.besoccer.com/match/espanyol/barcelona/201110530,2011,16,primera_division
+R. Sociedad,Valencia,1-2,https://www.besoccer.com/match/real-sociedad/valencia-cf/201110529,2011,16,primera_division
+Almería,Getafe,2-3,https://www.besoccer.com/match/almeria/getafe/201110526,2011,16,primera_division
+Osasuna,Real Zaragoza,0-0,https://www.besoccer.com/match/osasuna/real-zaragoza/201110528,2011,16,primera_division
+Málaga,Atlético,0-3,https://www.besoccer.com/match/malaga/atletico-madrid/201110533,2011,16,primera_division
+Real Madrid,Sevilla,1-0,https://www.besoccer.com/match/real-madrid/sevilla/201110527,2011,16,primera_division
+Racing,Hércules,0-0,https://www.besoccer.com/match/racing/hercules/201110534,2011,16,primera_division
+Athletic,Deportivo,1-2,https://www.besoccer.com/match/athletic-bilbao/deportivo/201110551,2011,17,primera_division
+Barcelona,Levante,2-1,https://www.besoccer.com/match/barcelona/levante/201110550,2011,17,primera_division
+Real Sporting,Málaga,1-2,https://www.besoccer.com/match/sporting-gijon/malaga/201110552,2011,17,primera_division
+Sevilla,Osasuna,1-0,https://www.besoccer.com/match/sevilla/osasuna/201110547,2011,17,primera_division
+Valencia,Espanyol,2-1,https://www.besoccer.com/match/valencia-cf/espanyol/201110549,2011,17,primera_division
+Villarreal,Almería,2-0,https://www.besoccer.com/match/villarreal/almeria/201110545,2011,17,primera_division
+Real Zaragoza,R. Sociedad,2-1,https://www.besoccer.com/match/real-zaragoza/real-sociedad/201110548,2011,17,primera_division
+Atlético,Racing,0-0,https://www.besoccer.com/match/atletico-madrid/racing/201110554,2011,17,primera_division
+Mallorca,Hércules,3-0,https://www.besoccer.com/match/mallorca/hercules/201110555,2011,17,primera_division
+Getafe,Real Madrid,2-3,https://www.besoccer.com/match/getafe/real-madrid/201110546,2011,17,primera_division
+Málaga,Athletic,1-1,https://www.besoccer.com/match/malaga/athletic-bilbao/201110575,2011,18,primera_division
+R. Sociedad,Sevilla,2-3,https://www.besoccer.com/match/real-sociedad/sevilla/201110570,2011,18,primera_division
+Deportivo,Barcelona,0-4,https://www.besoccer.com/match/deportivo/barcelona/201110574,2011,18,primera_division
+Mallorca,Almería,4-1,https://www.besoccer.com/match/mallorca/almeria/201110567,2011,18,primera_division
+Osasuna,Getafe,0-0,https://www.besoccer.com/match/osasuna/getafe/201110569,2011,18,primera_division
+Espanyol,Real Zaragoza,4-0,https://www.besoccer.com/match/espanyol/real-zaragoza/201110571,2011,18,primera_division
+Racing,Real Sporting,1-1,https://www.besoccer.com/match/racing/sporting-gijon/201110576,2011,18,primera_division
+Real Madrid,Villarreal,4-2,https://www.besoccer.com/match/real-madrid/villarreal/201110568,2011,18,primera_division
+Levante,Valencia,0-1,https://www.besoccer.com/match/levante/valencia-cf/201110573,2011,18,primera_division
+Hércules,Atlético,4-1,https://www.besoccer.com/match/hercules/atletico-madrid/201110577,2011,18,primera_division
+Real Sporting,Hércules,2-0,https://www.besoccer.com/match/sporting-gijon/hercules/201110591,2011,19,primera_division
+Villarreal,Osasuna,4-2,https://www.besoccer.com/match/villarreal/osasuna/201110593,2011,19,primera_division
+Getafe,R. Sociedad,0-4,https://www.besoccer.com/match/getafe/real-sociedad/201110594,2011,19,primera_division
+Real Zaragoza,Levante,1-0,https://www.besoccer.com/match/real-zaragoza/levante/201110596,2011,19,primera_division
+Athletic,Racing,2-1,https://www.besoccer.com/match/athletic-bilbao/racing/201110590,2011,19,primera_division
+Sevilla,Espanyol,1-2,https://www.besoccer.com/match/sevilla/espanyol/201110595,2011,19,primera_division
+Valencia,Deportivo,2-0,https://www.besoccer.com/match/valencia-cf/deportivo/201110588,2011,19,primera_division
+Almería,Real Madrid,1-1,https://www.besoccer.com/match/almeria/real-madrid/201110592,2011,19,primera_division
+Barcelona,Málaga,4-1,https://www.besoccer.com/match/barcelona/malaga/201110589,2011,19,primera_division
+Atlético,Mallorca,3-0,https://www.besoccer.com/match/atletico-madrid/mallorca/201110597,2011,19,primera_division
+Sevilla,Levante,4-1,https://www.besoccer.com/match/sevilla/levante/201110195,2011,20,primera_division
+Barcelona,Racing,3-0,https://www.besoccer.com/match/barcelona/racing/201110192,2011,20,primera_division
+Valencia,Málaga,4-3,https://www.besoccer.com/match/valencia-cf/malaga/201110193,2011,20,primera_division
+Real Sporting,Atlético,1-0,https://www.besoccer.com/match/sporting-gijon/atletico-madrid/201110190,2011,20,primera_division
+Real Zaragoza,Deportivo,1-0,https://www.besoccer.com/match/real-zaragoza/deportivo/201110194,2011,20,primera_division
+Getafe,Espanyol,1-3,https://www.besoccer.com/match/getafe/espanyol/201110196,2011,20,primera_division
+Almería,Osasuna,3-2,https://www.besoccer.com/match/almeria/osasuna/201110198,2011,20,primera_division
+Real Madrid,Mallorca,1-0,https://www.besoccer.com/match/real-madrid/mallorca/201110199,2011,20,primera_division
+Villarreal,R. Sociedad,2-1,https://www.besoccer.com/match/villarreal/real-sociedad/201110197,2011,20,primera_division
+Athletic,Hércules,3-0,https://www.besoccer.com/match/athletic-bilbao/hercules/201110191,2011,20,primera_division
+Mallorca,Real Sporting,0-4,https://www.besoccer.com/match/mallorca/sporting-gijon/201110210,2011,21,primera_division
+Málaga,Real Zaragoza,1-2,https://www.besoccer.com/match/malaga/real-zaragoza/201110214,2011,21,primera_division
+Levante,Getafe,2-0,https://www.besoccer.com/match/levante/getafe/201110216,2011,21,primera_division
+R. Sociedad,Almería,2-0,https://www.besoccer.com/match/real-sociedad/almeria/201110218,2011,21,primera_division
+Hércules,Barcelona,0-3,https://www.besoccer.com/match/hercules/barcelona/201110212,2011,21,primera_division
+Deportivo,Sevilla,3-3,https://www.besoccer.com/match/deportivo/sevilla/201110215,2011,21,primera_division
+Atlético,Athletic,0-2,https://www.besoccer.com/match/atletico-madrid/athletic-bilbao/201110211,2011,21,primera_division
+Osasuna,Real Madrid,1-0,https://www.besoccer.com/match/osasuna/real-madrid/201110219,2011,21,primera_division
+Espanyol,Villarreal,0-1,https://www.besoccer.com/match/espanyol/villarreal/201110217,2011,21,primera_division
+Racing,Valencia,1-1,https://www.besoccer.com/match/racing/valencia-cf/201110213,2011,21,primera_division
+Athletic,Real Sporting,3-0,https://www.besoccer.com/match/athletic-bilbao/sporting-gijon/201110272,2011,22,primera_division
+Real Zaragoza,Racing,1-1,https://www.besoccer.com/match/real-zaragoza/racing/201110275,2011,22,primera_division
+Getafe,Deportivo,4-1,https://www.besoccer.com/match/getafe/deportivo/201110277,2011,22,primera_division
+Almería,Espanyol,3-2,https://www.besoccer.com/match/almeria/espanyol/201110279,2011,22,primera_division
+Osasuna,Mallorca,1-1,https://www.besoccer.com/match/osasuna/mallorca/201110281,2011,22,primera_division
+Villarreal,Levante,0-1,https://www.besoccer.com/match/villarreal/levante/201110278,2011,22,primera_division
+Barcelona,Atlético,3-0,https://www.besoccer.com/match/barcelona/atletico-madrid/201110273,2011,22,primera_division
+Sevilla,Málaga,0-0,https://www.besoccer.com/match/sevilla/malaga/201110276,2011,22,primera_division
+Real Madrid,R. Sociedad,4-1,https://www.besoccer.com/match/real-madrid/real-sociedad/201110280,2011,22,primera_division
+Valencia,Hércules,2-0,https://www.besoccer.com/match/valencia-cf/hercules/201110274,2011,22,primera_division
+Atlético,Valencia,1-2,https://www.besoccer.com/match/atletico-madrid/valencia-cf/201110297,2011,23,primera_division
+Real Sporting,Barcelona,1-1,https://www.besoccer.com/match/sporting-gijon/barcelona/201110296,2011,23,primera_division
+Racing,Sevilla,3-2,https://www.besoccer.com/match/racing/sevilla/201110299,2011,23,primera_division
+R. Sociedad,Osasuna,1-0,https://www.besoccer.com/match/real-sociedad/osasuna/201110294,2011,23,primera_division
+Hércules,Real Zaragoza,2-1,https://www.besoccer.com/match/hercules/real-zaragoza/201110298,2011,23,primera_division
+Málaga,Getafe,2-2,https://www.besoccer.com/match/malaga/getafe/201110300,2011,23,primera_division
+Levante,Almería,1-0,https://www.besoccer.com/match/levante/almeria/201110303,2011,23,primera_division
+Deportivo,Villarreal,1-0,https://www.besoccer.com/match/deportivo/villarreal/201110302,2011,23,primera_division
+Espanyol,Real Madrid,0-1,https://www.besoccer.com/match/espanyol/real-madrid/201110293,2011,23,primera_division
+Mallorca,Athletic,1-0,https://www.besoccer.com/match/mallorca/athletic-bilbao/201110295,2011,23,primera_division
+Valencia,Real Sporting,0-0,https://www.besoccer.com/match/valencia-cf/sporting-gijon/201110323,2011,24,primera_division
+Real Madrid,Levante,2-0,https://www.besoccer.com/match/real-madrid/levante/201110319,2011,24,primera_division
+Real Zaragoza,Atlético,0-1,https://www.besoccer.com/match/real-zaragoza/atletico-madrid/201110314,2011,24,primera_division
+Getafe,Racing,0-1,https://www.besoccer.com/match/getafe/racing/201110316,2011,24,primera_division
+Villarreal,Málaga,1-1,https://www.besoccer.com/match/villarreal/malaga/201110317,2011,24,primera_division
+Almería,Deportivo,1-1,https://www.besoccer.com/match/almeria/deportivo/201110318,2011,24,primera_division
+Osasuna,Espanyol,4-0,https://www.besoccer.com/match/osasuna/espanyol/201110320,2011,24,primera_division
+Sevilla,Hércules,1-0,https://www.besoccer.com/match/sevilla/hercules/201110315,2011,24,primera_division
+Barcelona,Athletic,2-1,https://www.besoccer.com/match/barcelona/athletic-bilbao/201110322,2011,24,primera_division
+R. Sociedad,Mallorca,1-0,https://www.besoccer.com/match/real-sociedad/mallorca/201110321,2011,24,primera_division
+Real Sporting,Real Zaragoza,0-0,https://www.besoccer.com/match/sporting-gijon/real-zaragoza/201110336,2011,25,primera_division
+Espanyol,R. Sociedad,4-1,https://www.besoccer.com/match/espanyol/real-sociedad/201110337,2011,25,primera_division
+Atlético,Sevilla,2-2,https://www.besoccer.com/match/atletico-madrid/sevilla/201110338,2011,25,primera_division
+Mallorca,Barcelona,0-3,https://www.besoccer.com/match/mallorca/barcelona/201110334,2011,25,primera_division
+Deportivo,Real Madrid,0-0,https://www.besoccer.com/match/deportivo/real-madrid/201110342,2011,25,primera_division
+Hércules,Getafe,0-0,https://www.besoccer.com/match/hercules/getafe/201110339,2011,25,primera_division
+Levante,Osasuna,2-1,https://www.besoccer.com/match/levante/osasuna/201110343,2011,25,primera_division
+Racing,Villarreal,2-2,https://www.besoccer.com/match/racing/villarreal/201110340,2011,25,primera_division
+Athletic,Valencia,1-2,https://www.besoccer.com/match/athletic-bilbao/valencia-cf/201110335,2011,25,primera_division
+Málaga,Almería,3-1,https://www.besoccer.com/match/malaga/almeria/201110341,2011,25,primera_division
+Espanyol,Mallorca,1-2,https://www.besoccer.com/match/espanyol/mallorca/201110363,2011,26,primera_division
+Sevilla,Real Sporting,3-0,https://www.besoccer.com/match/sevilla/sporting-gijon/201110356,2011,26,primera_division
+Real Zaragoza,Athletic,2-1,https://www.besoccer.com/match/real-zaragoza/athletic-bilbao/201110355,2011,26,primera_division
+Getafe,Atlético,1-1,https://www.besoccer.com/match/getafe/atletico-madrid/201110357,2011,26,primera_division
+Villarreal,Hércules,1-0,https://www.besoccer.com/match/villarreal/hercules/201110358,2011,26,primera_division
+Osasuna,Deportivo,0-0,https://www.besoccer.com/match/osasuna/deportivo/201110361,2011,26,primera_division
+R. Sociedad,Levante,1-1,https://www.besoccer.com/match/real-sociedad/levante/201110362,2011,26,primera_division
+Valencia,Barcelona,0-1,https://www.besoccer.com/match/valencia-cf/barcelona/201110354,2011,26,primera_division
+Almería,Racing,1-1,https://www.besoccer.com/match/almeria/racing/201110359,2011,26,primera_division
+Real Madrid,Málaga,7-0,https://www.besoccer.com/match/real-madrid/malaga/201110360,2011,26,primera_division
+Mallorca,Valencia,1-2,https://www.besoccer.com/match/mallorca/valencia-cf/201110374,2011,27,primera_division
+Barcelona,Real Zaragoza,1-0,https://www.besoccer.com/match/barcelona/real-zaragoza/201110375,2011,27,primera_division
+Atlético,Villarreal,3-1,https://www.besoccer.com/match/atletico-madrid/villarreal/201110378,2011,27,primera_division
+Real Sporting,Getafe,2-0,https://www.besoccer.com/match/sporting-gijon/getafe/201110377,2011,27,primera_division
+Hércules,Almería,1-2,https://www.besoccer.com/match/hercules/almeria/201110379,2011,27,primera_division
+Málaga,Osasuna,0-1,https://www.besoccer.com/match/malaga/osasuna/201110381,2011,27,primera_division
+Levante,Espanyol,1-0,https://www.besoccer.com/match/levante/espanyol/201110383,2011,27,primera_division
+Athletic,Sevilla,2-0,https://www.besoccer.com/match/athletic-bilbao/sevilla/201110376,2011,27,primera_division
+Racing,Real Madrid,1-3,https://www.besoccer.com/match/racing/real-madrid/201110380,2011,27,primera_division
+Deportivo,R. Sociedad,2-1,https://www.besoccer.com/match/deportivo/real-sociedad/201110382,2011,27,primera_division
+Almería,Atlético,2-2,https://www.besoccer.com/match/almeria/atletico-madrid/201110398,2011,28,primera_division
+Real Madrid,Hércules,2-0,https://www.besoccer.com/match/real-madrid/hercules/201110399,2011,28,primera_division
+Real Zaragoza,Valencia,4-0,https://www.besoccer.com/match/real-zaragoza/valencia-cf/201110394,2011,28,primera_division
+Osasuna,Racing,3-1,https://www.besoccer.com/match/osasuna/racing/201110400,2011,28,primera_division
+R. Sociedad,Málaga,0-2,https://www.besoccer.com/match/real-sociedad/malaga/201110401,2011,28,primera_division
+Espanyol,Deportivo,2-0,https://www.besoccer.com/match/espanyol/deportivo/201110402,2011,28,primera_division
+Levante,Mallorca,1-1,https://www.besoccer.com/match/levante/mallorca/201110403,2011,28,primera_division
+Villarreal,Real Sporting,1-1,https://www.besoccer.com/match/villarreal/sporting-gijon/201110397,2011,28,primera_division
+Sevilla,Barcelona,1-1,https://www.besoccer.com/match/sevilla/barcelona/201110395,2011,28,primera_division
+Getafe,Athletic,2-2,https://www.besoccer.com/match/getafe/athletic-bilbao/201110396,2011,28,primera_division
+Mallorca,Real Zaragoza,1-0,https://www.besoccer.com/match/mallorca/real-zaragoza/201110415,2011,29,primera_division
+Barcelona,Getafe,2-1,https://www.besoccer.com/match/barcelona/getafe/201110417,2011,29,primera_division
+Atlético,Real Madrid,1-2,https://www.besoccer.com/match/atletico-madrid/real-madrid/201110420,2011,29,primera_division
+Real Sporting,Almería,1-0,https://www.besoccer.com/match/sporting-gijon/almeria/201110419,2011,29,primera_division
+Hércules,Osasuna,0-4,https://www.besoccer.com/match/hercules/osasuna/201110421,2011,29,primera_division
+Racing,R. Sociedad,2-1,https://www.besoccer.com/match/racing/real-sociedad/201110422,2011,29,primera_division
+Málaga,Espanyol,2-0,https://www.besoccer.com/match/malaga/espanyol/201110423,2011,29,primera_division
+Deportivo,Levante,0-1,https://www.besoccer.com/match/deportivo/levante/201110424,2011,29,primera_division
+Athletic,Villarreal,0-1,https://www.besoccer.com/match/athletic-bilbao/villarreal/201110418,2011,29,primera_division
+Valencia,Sevilla,0-1,https://www.besoccer.com/match/valencia-cf/sevilla/201110416,2011,29,primera_division
+Real Madrid,Real Sporting,0-1,https://www.besoccer.com/match/real-madrid/sporting-gijon/201110438,2011,30,primera_division
+Getafe,Valencia,2-4,https://www.besoccer.com/match/getafe/valencia-cf/201110435,2011,30,primera_division
+Villarreal,Barcelona,0-1,https://www.besoccer.com/match/villarreal/barcelona/201110436,2011,30,primera_division
+R. Sociedad,Hércules,1-3,https://www.besoccer.com/match/real-sociedad/hercules/201110440,2011,30,primera_division
+Espanyol,Racing,1-2,https://www.besoccer.com/match/espanyol/racing/201110441,2011,30,primera_division
+Levante,Málaga,3-1,https://www.besoccer.com/match/levante/malaga/201110442,2011,30,primera_division
+Deportivo,Mallorca,2-1,https://www.besoccer.com/match/deportivo/mallorca/201110443,2011,30,primera_division
+Sevilla,Real Zaragoza,3-1,https://www.besoccer.com/match/sevilla/real-zaragoza/201110444,2011,30,primera_division
+Osasuna,Atlético,2-3,https://www.besoccer.com/match/osasuna/atletico-madrid/201110439,2011,30,primera_division
+Almería,Athletic,1-3,https://www.besoccer.com/match/almeria/athletic-bilbao/201110437,2011,30,primera_division
+Athletic,Real Madrid,0-3,https://www.besoccer.com/match/athletic-bilbao/real-madrid/201110459,2011,31,primera_division
+Barcelona,Almería,3-1,https://www.besoccer.com/match/barcelona/almeria/201110458,2011,31,primera_division
+Mallorca,Sevilla,2-2,https://www.besoccer.com/match/mallorca/sevilla/201110455,2011,31,primera_division
+Real Sporting,Osasuna,1-0,https://www.besoccer.com/match/sporting-gijon/osasuna/201110460,2011,31,primera_division
+Hércules,Espanyol,0-0,https://www.besoccer.com/match/hercules/espanyol/201110462,2011,31,primera_division
+Racing,Levante,1-1,https://www.besoccer.com/match/racing/levante/201110463,2011,31,primera_division
+Málaga,Deportivo,0-0,https://www.besoccer.com/match/malaga/deportivo/201110464,2011,31,primera_division
+Atlético,R. Sociedad,3-0,https://www.besoccer.com/match/atletico-madrid/real-sociedad/201110461,2011,31,primera_division
+Valencia,Villarreal,5-0,https://www.besoccer.com/match/valencia-cf/villarreal/201110457,2011,31,primera_division
+Real Zaragoza,Getafe,2-1,https://www.besoccer.com/match/real-zaragoza/getafe/201110456,2011,31,primera_division
+Getafe,Sevilla,1-0,https://www.besoccer.com/match/getafe/sevilla/201110475,2011,32,primera_division
+Málaga,Mallorca,3-0,https://www.besoccer.com/match/malaga/mallorca/201110484,2011,32,primera_division
+Almería,Valencia,0-3,https://www.besoccer.com/match/almeria/valencia-cf/201110477,2011,32,primera_division
+Real Madrid,Barcelona,1-1,https://www.besoccer.com/match/real-madrid/barcelona/201110478,2011,32,primera_division
+R. Sociedad,Real Sporting,2-1,https://www.besoccer.com/match/real-sociedad/sporting-gijon/201110480,2011,32,primera_division
+Levante,Hércules,2-1,https://www.besoccer.com/match/levante/hercules/201110482,2011,32,primera_division
+Deportivo,Racing,2-0,https://www.besoccer.com/match/deportivo/racing/201110483,2011,32,primera_division
+Osasuna,Athletic,1-2,https://www.besoccer.com/match/osasuna/athletic-bilbao/201110479,2011,32,primera_division
+Espanyol,Atlético,2-2,https://www.besoccer.com/match/espanyol/atletico-madrid/201110481,2011,32,primera_division
+Villarreal,Real Zaragoza,1-0,https://www.besoccer.com/match/villarreal/real-zaragoza/201110476,2011,32,primera_division
+Valencia,Real Madrid,3-6,https://www.besoccer.com/match/valencia-cf/real-madrid/201110498,2011,33,primera_division
+Barcelona,Osasuna,2-0,https://www.besoccer.com/match/barcelona/osasuna/201110499,2011,33,primera_division
+Athletic,R. Sociedad,2-1,https://www.besoccer.com/match/athletic-bilbao/real-sociedad/201110500,2011,33,primera_division
+Mallorca,Getafe,2-0,https://www.besoccer.com/match/mallorca/getafe/201110495,2011,33,primera_division
+Real Sporting,Espanyol,1-0,https://www.besoccer.com/match/sporting-gijon/espanyol/201110501,2011,33,primera_division
+Hércules,Deportivo,1-0,https://www.besoccer.com/match/hercules/deportivo/201110503,2011,33,primera_division
+Racing,Málaga,1-2,https://www.besoccer.com/match/racing/malaga/201110504,2011,33,primera_division
+Atlético,Levante,4-1,https://www.besoccer.com/match/atletico-madrid/levante/201110502,2011,33,primera_division
+Sevilla,Villarreal,3-2,https://www.besoccer.com/match/sevilla/villarreal/201110496,2011,33,primera_division
+Real Zaragoza,Almería,1-0,https://www.besoccer.com/match/real-zaragoza/almeria/201110497,2011,33,primera_division
+Real Madrid,Real Zaragoza,2-3,https://www.besoccer.com/match/real-madrid/real-zaragoza/201110515,2011,34,primera_division
+R. Sociedad,Barcelona,2-1,https://www.besoccer.com/match/real-sociedad/barcelona/201110517,2011,34,primera_division
+Deportivo,Atlético,0-1,https://www.besoccer.com/match/deportivo/atletico-madrid/201110520,2011,34,primera_division
+Levante,Real Sporting,0-0,https://www.besoccer.com/match/levante/sporting-gijon/201110519,2011,34,primera_division
+Málaga,Hércules,3-1,https://www.besoccer.com/match/malaga/hercules/201110521,2011,34,primera_division
+Racing,Mallorca,2-0,https://www.besoccer.com/match/racing/mallorca/201110522,2011,34,primera_division
+Almería,Sevilla,0-1,https://www.besoccer.com/match/almeria/sevilla/201110524,2011,34,primera_division
+Villarreal,Getafe,2-1,https://www.besoccer.com/match/villarreal/getafe/201110523,2011,34,primera_division
+Osasuna,Valencia,1-0,https://www.besoccer.com/match/osasuna/valencia-cf/201110516,2011,34,primera_division
+Espanyol,Athletic,2-1,https://www.besoccer.com/match/espanyol/athletic-bilbao/201110518,2011,34,primera_division
+Getafe,Almería,2-0,https://www.besoccer.com/match/getafe/almeria/201110536,2011,35,primera_division
+Valencia,R. Sociedad,3-0,https://www.besoccer.com/match/valencia-cf/real-sociedad/201110539,2011,35,primera_division
+Athletic,Levante,3-2,https://www.besoccer.com/match/athletic-bilbao/levante/201110541,2011,35,primera_division
+Real Sporting,Deportivo,2-2,https://www.besoccer.com/match/sporting-gijon/deportivo/201110542,2011,35,primera_division
+Hércules,Racing,2-3,https://www.besoccer.com/match/hercules/racing/201110544,2011,35,primera_division
+Atlético,Málaga,0-3,https://www.besoccer.com/match/atletico-madrid/malaga/201110543,2011,35,primera_division
+Sevilla,Real Madrid,2-6,https://www.besoccer.com/match/sevilla/real-madrid/201110537,2011,35,primera_division
+Mallorca,Villarreal,0-0,https://www.besoccer.com/match/mallorca/villarreal/201110535,2011,35,primera_division
+Barcelona,Espanyol,2-0,https://www.besoccer.com/match/barcelona/espanyol/201110540,2011,35,primera_division
+Real Zaragoza,Osasuna,1-3,https://www.besoccer.com/match/real-zaragoza/osasuna/201110538,2011,35,primera_division
+Deportivo,Athletic,2-1,https://www.besoccer.com/match/deportivo/athletic-bilbao/201110562,2011,36,primera_division
+Málaga,Real Sporting,2-0,https://www.besoccer.com/match/malaga/sporting-gijon/201110563,2011,36,primera_division
+Racing,Atlético,2-1,https://www.besoccer.com/match/racing/atletico-madrid/201110565,2011,36,primera_division
+Real Madrid,Getafe,4-0,https://www.besoccer.com/match/real-madrid/getafe/201110557,2011,36,primera_division
+Almería,Villarreal,0-0,https://www.besoccer.com/match/almeria/villarreal/201110556,2011,36,primera_division
+R. Sociedad,Real Zaragoza,2-1,https://www.besoccer.com/match/real-sociedad/real-zaragoza/201110559,2011,36,primera_division
+Levante,Barcelona,1-1,https://www.besoccer.com/match/levante/barcelona/201110561,2011,36,primera_division
+Espanyol,Valencia,2-2,https://www.besoccer.com/match/espanyol/valencia-cf/201110560,2011,36,primera_division
+Hércules,Mallorca,2-2,https://www.besoccer.com/match/hercules/mallorca/201110566,2011,36,primera_division
+Osasuna,Sevilla,3-2,https://www.besoccer.com/match/osasuna/sevilla/201110558,2011,36,primera_division
+Almería,Mallorca,3-1,https://www.besoccer.com/match/almeria/mallorca/201110578,2011,37,primera_division
+Villarreal,Real Madrid,1-3,https://www.besoccer.com/match/villarreal/real-madrid/201110579,2011,37,primera_division
+Getafe,Osasuna,2-0,https://www.besoccer.com/match/getafe/osasuna/201110580,2011,37,primera_division
+Sevilla,R. Sociedad,3-1,https://www.besoccer.com/match/sevilla/real-sociedad/201110581,2011,37,primera_division
+Real Zaragoza,Espanyol,1-0,https://www.besoccer.com/match/real-zaragoza/espanyol/201110582,2011,37,primera_division
+Valencia,Levante,0-0,https://www.besoccer.com/match/valencia-cf/levante/201110583,2011,37,primera_division
+Barcelona,Deportivo,0-0,https://www.besoccer.com/match/barcelona/deportivo/201110584,2011,37,primera_division
+Athletic,Málaga,1-1,https://www.besoccer.com/match/athletic-bilbao/malaga/201110585,2011,37,primera_division
+Real Sporting,Racing,2-1,https://www.besoccer.com/match/sporting-gijon/racing/201110586,2011,37,primera_division
+Atlético,Hércules,2-1,https://www.besoccer.com/match/atletico-madrid/hercules/201110587,2011,37,primera_division
+Málaga,Barcelona,1-3,https://www.besoccer.com/match/malaga/barcelona/201110599,2011,38,primera_division
+Hércules,Real Sporting,0-0,https://www.besoccer.com/match/hercules/sporting-gijon/201110601,2011,38,primera_division
+Real Madrid,Almería,8-1,https://www.besoccer.com/match/real-madrid/almeria/201110602,2011,38,primera_division
+Deportivo,Valencia,0-2,https://www.besoccer.com/match/deportivo/valencia-cf/201110598,2011,38,primera_division
+Racing,Athletic,1-2,https://www.besoccer.com/match/racing/athletic-bilbao/201110600,2011,38,primera_division
+Osasuna,Villarreal,1-0,https://www.besoccer.com/match/osasuna/villarreal/201110603,2011,38,primera_division
+R. Sociedad,Getafe,1-1,https://www.besoccer.com/match/real-sociedad/getafe/201110604,2011,38,primera_division
+Espanyol,Sevilla,2-3,https://www.besoccer.com/match/espanyol/sevilla/201110605,2011,38,primera_division
+Levante,Real Zaragoza,1-2,https://www.besoccer.com/match/levante/real-zaragoza/201110606,2011,38,primera_division
+Mallorca,Atlético,3-4,https://www.besoccer.com/match/mallorca/atletico-madrid/201110607,2011,38,primera_division

@@ -1,0 +1,463 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Spezia,Salernitana,1-1,https://www.besoccer.com/match/asd-spezia/salernitana-calcio-1919/2017181804,2017,1,serie_b
+Avellino,Brescia,1-1,https://www.besoccer.com/match/us-avellino/brescia/2017181796,2017,1,serie_b
+SSC Bari,Cittadella,1-2,https://www.besoccer.com/match/as-bari/as-cittadella/2017181797,2017,1,serie_b
+Benevento,SPAL,2-0,https://www.besoccer.com/match/benevento-calcio/spal-1907/2017181798,2017,1,serie_b
+Frosinone,Virtus Entella,2-0,https://www.besoccer.com/match/frosinone-calcio/virtus-entella/2017181800,2017,1,serie_b
+Hellas Verona,Latina,4-1,https://www.besoccer.com/match/hellas-verona-fc/latina/2017181801,2017,1,serie_b
+Pro Vercelli,Ascoli,1-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/ascoli/2017181803,2017,1,serie_b
+Vicenza ,Carpi,0-2,https://www.besoccer.com/match/vicenza-calcio/carpi/2017181806,2017,1,serie_b
+Novara,Trapani,2-2,https://www.besoccer.com/match/novara-calcio/trapani/2017181802,2017,1,serie_b
+Cesena,Perugia,1-1,https://www.besoccer.com/match/ac-cesena/perugia/2017181799,2017,1,serie_b
+Ternana Calcio,Pisa,1-0,https://www.besoccer.com/match/ternana-calcio/pisa-calcio/2017181805,2017,1,serie_b
+Brescia,Frosinone,2-0,https://www.besoccer.com/match/brescia/frosinone-calcio/2017181808,2017,2,serie_b
+Cittadella,Ternana Calcio,2-0,https://www.besoccer.com/match/as-cittadella/ternana-calcio/2017181810,2017,2,serie_b
+Perugia,SSC Bari,0-1,https://www.besoccer.com/match/perugia/as-bari/2017181812,2017,2,serie_b
+Virtus Entella,Avellino,2-0,https://www.besoccer.com/match/virtus-entella/us-avellino/2017181817,2017,2,serie_b
+Carpi,Benevento,1-1,https://www.besoccer.com/match/carpi/benevento-calcio/2017181809,2017,2,serie_b
+Latina,Spezia,0-0,https://www.besoccer.com/match/latina/asd-spezia/2017181811,2017,2,serie_b
+Pisa,Novara,1-0,https://www.besoccer.com/match/pisa-calcio/novara-calcio/2017181813,2017,2,serie_b
+Salernitana,Hellas Verona,1-1,https://www.besoccer.com/match/salernitana-calcio-1919/hellas-verona-fc/2017181814,2017,2,serie_b
+SPAL,Vicenza ,3-0,https://www.besoccer.com/match/spal-1907/vicenza-calcio/2017181815,2017,2,serie_b
+Trapani,Pro Vercelli,1-1,https://www.besoccer.com/match/trapani/us-pro-vercelli-calcio/2017181816,2017,2,serie_b
+Ascoli,Cesena,0-0,https://www.besoccer.com/match/ascoli/ac-cesena/2017181807,2017,2,serie_b
+Cesena,Carpi,1-0,https://www.besoccer.com/match/ac-cesena/carpi/2017181856,2017,3,serie_b
+Ascoli,SPAL,1-1,https://www.besoccer.com/match/ascoli/spal-1907/2017181852,2017,3,serie_b
+Avellino,Trapani,0-0,https://www.besoccer.com/match/us-avellino/trapani/2017181853,2017,3,serie_b
+Benevento,Hellas Verona,2-0,https://www.besoccer.com/match/benevento-calcio/hellas-verona-fc/2017181854,2017,3,serie_b
+Brescia,Perugia,1-1,https://www.besoccer.com/match/brescia/perugia/2017181855,2017,3,serie_b
+Frosinone,Latina,2-1,https://www.besoccer.com/match/frosinone-calcio/latina/2017181857,2017,3,serie_b
+Novara,Salernitana,1-0,https://www.besoccer.com/match/novara-calcio/salernitana-calcio-1919/2017181858,2017,3,serie_b
+Pro Vercelli,Cittadella,1-5,https://www.besoccer.com/match/us-pro-vercelli-calcio/as-cittadella/2017181859,2017,3,serie_b
+Vicenza ,SSC Bari,0-0,https://www.besoccer.com/match/vicenza-calcio/as-bari/2017181862,2017,3,serie_b
+Ternana Calcio,Spezia,1-1,https://www.besoccer.com/match/ternana-calcio/asd-spezia/2017181860,2017,3,serie_b
+Virtus Entella,Pisa,0-0,https://www.besoccer.com/match/virtus-entella/pisa-calcio/2017181861,2017,3,serie_b
+SSC Bari,Cesena,2-1,https://www.besoccer.com/match/as-bari/ac-cesena/2017181863,2017,4,serie_b
+Carpi,Frosinone,0-0,https://www.besoccer.com/match/carpi/frosinone-calcio/2017181864,2017,4,serie_b
+Salernitana,Vicenza ,2-3,https://www.besoccer.com/match/salernitana-calcio-1919/vicenza-calcio/2017181870,2017,4,serie_b
+Cittadella,Novara,3-1,https://www.besoccer.com/match/as-cittadella/novara-calcio/2017181865,2017,4,serie_b
+Hellas Verona,Avellino,3-1,https://www.besoccer.com/match/hellas-verona-fc/us-avellino/2017181866,2017,4,serie_b
+Latina,Benevento,1-1,https://www.besoccer.com/match/latina/benevento-calcio/2017181867,2017,4,serie_b
+Perugia,Ternana Calcio,1-1,https://www.besoccer.com/match/perugia/ternana-calcio/2017181868,2017,4,serie_b
+Pisa,Brescia,1-0,https://www.besoccer.com/match/pisa-calcio/brescia/2017181869,2017,4,serie_b
+SPAL,Virtus Entella,2-2,https://www.besoccer.com/match/spal-1907/virtus-entella/2017181871,2017,4,serie_b
+Spezia,Pro Vercelli,2-1,https://www.besoccer.com/match/asd-spezia/us-pro-vercelli-calcio/2017181872,2017,4,serie_b
+Trapani,Ascoli,1-1,https://www.besoccer.com/match/trapani/ascoli/2017181873,2017,4,serie_b
+Cesena,Salernitana,0-0,https://www.besoccer.com/match/ac-cesena/salernitana-calcio-1919/2017181878,2017,5,serie_b
+Ascoli,Vicenza ,2-0,https://www.besoccer.com/match/ascoli/vicenza-calcio/2017181874,2017,5,serie_b
+Avellino,Cittadella,0-1,https://www.besoccer.com/match/us-avellino/as-cittadella/2017181875,2017,5,serie_b
+Benevento,Pro Vercelli,1-1,https://www.besoccer.com/match/benevento-calcio/us-pro-vercelli-calcio/2017181876,2017,5,serie_b
+Brescia,Carpi,2-2,https://www.besoccer.com/match/brescia/carpi/2017181877,2017,5,serie_b
+Frosinone,Pisa,0-0,https://www.besoccer.com/match/frosinone-calcio/pisa-calcio/2017181879,2017,5,serie_b
+Novara,Latina,2-2,https://www.besoccer.com/match/novara-calcio/latina/2017181880,2017,5,serie_b
+SPAL,Hellas Verona,1-3,https://www.besoccer.com/match/spal-1907/hellas-verona-fc/2017181881,2017,5,serie_b
+Ternana Calcio,SSC Bari,0-0,https://www.besoccer.com/match/ternana-calcio/as-bari/2017181882,2017,5,serie_b
+Trapani,Spezia,0-0,https://www.besoccer.com/match/trapani/asd-spezia/2017181883,2017,5,serie_b
+Virtus Entella,Perugia,2-1,https://www.besoccer.com/match/virtus-entella/perugia/2017181884,2017,5,serie_b
+SSC Bari,Benevento,0-4,https://www.besoccer.com/match/as-bari/benevento-calcio/2017181885,2017,6,serie_b
+Carpi,Virtus Entella,2-1,https://www.besoccer.com/match/carpi/virtus-entella/2017181886,2017,6,serie_b
+Cittadella,Brescia,0-3,https://www.besoccer.com/match/as-cittadella/brescia/2017181887,2017,6,serie_b
+Latina,Ternana Calcio,1-1,https://www.besoccer.com/match/latina/ternana-calcio/2017181889,2017,6,serie_b
+Pisa,Ascoli,2-1,https://www.besoccer.com/match/pisa-calcio/ascoli/2017181891,2017,6,serie_b
+Pro Vercelli,Cesena,1-0,https://www.besoccer.com/match/us-pro-vercelli-calcio/ac-cesena/2017181892,2017,6,serie_b
+Salernitana,Trapani,2-0,https://www.besoccer.com/match/salernitana-calcio-1919/trapani/2017181893,2017,6,serie_b
+Spezia,Novara,1-0,https://www.besoccer.com/match/asd-spezia/novara-calcio/2017181894,2017,6,serie_b
+Vicenza ,Avellino,0-0,https://www.besoccer.com/match/vicenza-calcio/us-avellino/2017181895,2017,6,serie_b
+Hellas Verona,Frosinone,2-0,https://www.besoccer.com/match/hellas-verona-fc/frosinone-calcio/2017181888,2017,6,serie_b
+Perugia,SPAL,1-0,https://www.besoccer.com/match/perugia/spal-1907/2017181890,2017,6,serie_b
+Brescia,SSC Bari,1-1,https://www.besoccer.com/match/brescia/as-bari/2017181899,2017,7,serie_b
+Avellino,Pro Vercelli,3-2,https://www.besoccer.com/match/us-avellino/us-pro-vercelli-calcio/2017181897,2017,7,serie_b
+Benevento,Novara,1-0,https://www.besoccer.com/match/benevento-calcio/novara-calcio/2017181898,2017,7,serie_b
+Frosinone,Perugia,1-2,https://www.besoccer.com/match/frosinone-calcio/perugia/2017181902,2017,7,serie_b
+SPAL,Salernitana,3-2,https://www.besoccer.com/match/spal-1907/salernitana-calcio-1919/2017181903,2017,7,serie_b
+Ternana Calcio,Hellas Verona,0-3,https://www.besoccer.com/match/ternana-calcio/hellas-verona-fc/2017181904,2017,7,serie_b
+Trapani,Cittadella,0-2,https://www.besoccer.com/match/trapani/as-cittadella/2017181905,2017,7,serie_b
+Virtus Entella,Vicenza ,4-1,https://www.besoccer.com/match/virtus-entella/vicenza-calcio/2017181906,2017,7,serie_b
+Cesena,Latina,2-2,https://www.besoccer.com/match/ac-cesena/latina/2017181901,2017,7,serie_b
+Ascoli,Spezia,0-2,https://www.besoccer.com/match/ascoli/asd-spezia/2017181896,2017,7,serie_b
+Carpi,Pisa,1-1,https://www.besoccer.com/match/carpi/pisa-calcio/2017181900,2017,7,serie_b
+Novara,Ascoli,1-0,https://www.besoccer.com/match/novara-calcio/ascoli/2017181911,2017,8,serie_b
+Cittadella,Frosinone,2-3,https://www.besoccer.com/match/as-cittadella/frosinone-calcio/2017181908,2017,8,serie_b
+Hellas Verona,Brescia,2-2,https://www.besoccer.com/match/hellas-verona-fc/brescia/2017181909,2017,8,serie_b
+SSC Bari,Virtus Entella,1-1,https://www.besoccer.com/match/as-bari/virtus-entella/2017181907,2017,8,serie_b
+Latina,Trapani,2-0,https://www.besoccer.com/match/latina/trapani/2017181910,2017,8,serie_b
+Perugia,Avellino,3-0,https://www.besoccer.com/match/perugia/us-avellino/2017181912,2017,8,serie_b
+Pisa,SPAL,0-1,https://www.besoccer.com/match/pisa-calcio/spal-1907/2017181913,2017,8,serie_b
+Pro Vercelli,Ternana Calcio,1-0,https://www.besoccer.com/match/us-pro-vercelli-calcio/ternana-calcio/2017181914,2017,8,serie_b
+Spezia,Carpi,0-1,https://www.besoccer.com/match/asd-spezia/carpi/2017181916,2017,8,serie_b
+Vicenza ,Cesena,0-0,https://www.besoccer.com/match/vicenza-calcio/ac-cesena/2017181917,2017,8,serie_b
+Salernitana,Benevento,2-1,https://www.besoccer.com/match/salernitana-calcio-1919/benevento-calcio/2017181915,2017,8,serie_b
+Cesena,SPAL,1-1,https://www.besoccer.com/match/ac-cesena/spal-1907/2017181922,2017,9,serie_b
+Ascoli,Hellas Verona,1-4,https://www.besoccer.com/match/ascoli/hellas-verona-fc/2017181918,2017,9,serie_b
+Avellino,Spezia,1-0,https://www.besoccer.com/match/us-avellino/asd-spezia/2017181919,2017,9,serie_b
+Brescia,Salernitana,1-1,https://www.besoccer.com/match/brescia/salernitana-calcio-1919/2017181920,2017,9,serie_b
+Carpi,Latina,2-0,https://www.besoccer.com/match/carpi/latina/2017181921,2017,9,serie_b
+Perugia,Cittadella,2-0,https://www.besoccer.com/match/perugia/as-cittadella/2017181924,2017,9,serie_b
+Pisa,Vicenza ,0-1,https://www.besoccer.com/match/pisa-calcio/vicenza-calcio/2017181925,2017,9,serie_b
+Virtus Entella,Benevento,3-2,https://www.besoccer.com/match/virtus-entella/benevento-calcio/2017181928,2017,9,serie_b
+Frosinone,SSC Bari,3-1,https://www.besoccer.com/match/frosinone-calcio/as-bari/2017181923,2017,9,serie_b
+Pro Vercelli,Novara,2-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/novara-calcio/2017181926,2017,9,serie_b
+Trapani,Ternana Calcio,2-2,https://www.besoccer.com/match/trapani/ternana-calcio/2017181927,2017,9,serie_b
+Cittadella,Ascoli,0-1,https://www.besoccer.com/match/as-cittadella/ascoli/2017181931,2017,10,serie_b
+Spezia,Brescia,2-0,https://www.besoccer.com/match/asd-spezia/brescia/2017181937,2017,10,serie_b
+SSC Bari,Trapani,3-0,https://www.besoccer.com/match/as-bari/trapani/2017181929,2017,10,serie_b
+Benevento,Perugia,0-0,https://www.besoccer.com/match/benevento-calcio/perugia/2017181930,2017,10,serie_b
+Hellas Verona,Pro Vercelli,3-0,https://www.besoccer.com/match/hellas-verona-fc/us-pro-vercelli-calcio/2017181932,2017,10,serie_b
+Latina,Pisa,1-1,https://www.besoccer.com/match/latina/pisa-calcio/2017181933,2017,10,serie_b
+Novara,Avellino,1-0,https://www.besoccer.com/match/novara-calcio/us-avellino/2017181934,2017,10,serie_b
+Salernitana,Virtus Entella,1-1,https://www.besoccer.com/match/salernitana-calcio-1919/virtus-entella/2017181935,2017,10,serie_b
+SPAL,Carpi,3-1,https://www.besoccer.com/match/spal-1907/carpi/2017181936,2017,10,serie_b
+Ternana Calcio,Cesena,1-1,https://www.besoccer.com/match/ternana-calcio/ac-cesena/2017181938,2017,10,serie_b
+Vicenza ,Frosinone,1-1,https://www.besoccer.com/match/vicenza-calcio/frosinone-calcio/2017181939,2017,10,serie_b
+Spezia,Cittadella,1-1,https://www.besoccer.com/match/asd-spezia/as-cittadella/2017181949,2017,11,serie_b
+Ascoli,Salernitana,0-0,https://www.besoccer.com/match/ascoli/salernitana-calcio-1919/2017181940,2017,11,serie_b
+Avellino,Ternana Calcio,1-0,https://www.besoccer.com/match/us-avellino/ternana-calcio/2017181941,2017,11,serie_b
+Brescia,Vicenza ,2-1,https://www.besoccer.com/match/brescia/vicenza-calcio/2017181942,2017,11,serie_b
+Cesena,Virtus Entella,0-1,https://www.besoccer.com/match/ac-cesena/virtus-entella/2017181943,2017,11,serie_b
+Frosinone,SPAL,2-1,https://www.besoccer.com/match/frosinone-calcio/spal-1907/2017181944,2017,11,serie_b
+Novara,SSC Bari,1-0,https://www.besoccer.com/match/novara-calcio/as-bari/2017181945,2017,11,serie_b
+Perugia,Carpi,0-2,https://www.besoccer.com/match/perugia/carpi/2017181946,2017,11,serie_b
+Pisa,Hellas Verona,0-0,https://www.besoccer.com/match/pisa-calcio/hellas-verona-fc/2017181947,2017,11,serie_b
+Pro Vercelli,Latina,1-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/latina/2017181948,2017,11,serie_b
+Trapani,Benevento,1-0,https://www.besoccer.com/match/trapani/benevento-calcio/2017181950,2017,11,serie_b
+SSC Bari,Pro Vercelli,2-0,https://www.besoccer.com/match/as-bari/us-pro-vercelli-calcio/2017181951,2017,12,serie_b
+Benevento,Spezia,1-0,https://www.besoccer.com/match/benevento-calcio/asd-spezia/2017181952,2017,12,serie_b
+Carpi,Ascoli,0-2,https://www.besoccer.com/match/carpi/ascoli/2017181953,2017,12,serie_b
+Cittadella,Latina,2-1,https://www.besoccer.com/match/as-cittadella/latina/2017181954,2017,12,serie_b
+Frosinone,Cesena,2-1,https://www.besoccer.com/match/frosinone-calcio/ac-cesena/2017181955,2017,12,serie_b
+Salernitana,Pisa,0-0,https://www.besoccer.com/match/salernitana-calcio-1919/pisa-calcio/2017181957,2017,12,serie_b
+Ternana Calcio,Novara,4-3,https://www.besoccer.com/match/ternana-calcio/novara-calcio/2017181959,2017,12,serie_b
+Virtus Entella,Brescia,4-0,https://www.besoccer.com/match/virtus-entella/brescia/2017181960,2017,12,serie_b
+Hellas Verona,Trapani,2-0,https://www.besoccer.com/match/hellas-verona-fc/trapani/2017181956,2017,12,serie_b
+Vicenza ,Perugia,1-4,https://www.besoccer.com/match/vicenza-calcio/perugia/2017181961,2017,12,serie_b
+SPAL,Avellino,3-0,https://www.besoccer.com/match/spal-1907/us-avellino/2017181958,2017,12,serie_b
+Brescia,Cesena,3-2,https://www.besoccer.com/match/brescia/ac-cesena/2017181964,2017,13,serie_b
+Cittadella,Salernitana,2-0,https://www.besoccer.com/match/as-cittadella/salernitana-calcio-1919/2017181965,2017,13,serie_b
+Latina,SSC Bari,2-1,https://www.besoccer.com/match/latina/as-bari/2017181966,2017,13,serie_b
+Novara,SPAL,0-1,https://www.besoccer.com/match/novara-calcio/spal-1907/2017181967,2017,13,serie_b
+Pisa,Perugia,0-1,https://www.besoccer.com/match/pisa-calcio/perugia/2017181968,2017,13,serie_b
+Pro Vercelli,Carpi,0-0,https://www.besoccer.com/match/us-pro-vercelli-calcio/carpi/2017181969,2017,13,serie_b
+Spezia,Hellas Verona,1-4,https://www.besoccer.com/match/asd-spezia/hellas-verona-fc/2017181970,2017,13,serie_b
+Trapani,Vicenza ,0-1,https://www.besoccer.com/match/trapani/vicenza-calcio/2017181972,2017,13,serie_b
+Avellino,Frosinone,0-1,https://www.besoccer.com/match/us-avellino/frosinone-calcio/2017181963,2017,13,serie_b
+Ternana Calcio,Benevento,0-1,https://www.besoccer.com/match/ternana-calcio/benevento-calcio/2017181971,2017,13,serie_b
+Ascoli,Virtus Entella,2-1,https://www.besoccer.com/match/ascoli/virtus-entella/2017181962,2017,13,serie_b
+SPAL,Brescia,3-2,https://www.besoccer.com/match/spal-1907/brescia/2017181981,2017,14,serie_b
+Vicenza ,Latina,0-1,https://www.besoccer.com/match/vicenza-calcio/latina/2017181983,2017,14,serie_b
+Cesena,Pisa,2-0,https://www.besoccer.com/match/ac-cesena/pisa-calcio/2017181976,2017,14,serie_b
+Benevento,Cittadella,1-0,https://www.besoccer.com/match/benevento-calcio/as-cittadella/2017181974,2017,14,serie_b
+Carpi,Avellino,1-1,https://www.besoccer.com/match/carpi/us-avellino/2017181975,2017,14,serie_b
+Frosinone,Ascoli,3-1,https://www.besoccer.com/match/frosinone-calcio/ascoli/2017181977,2017,14,serie_b
+Hellas Verona,Novara,0-4,https://www.besoccer.com/match/hellas-verona-fc/novara-calcio/2017181978,2017,14,serie_b
+Perugia,Trapani,1-1,https://www.besoccer.com/match/perugia/trapani/2017181979,2017,14,serie_b
+Salernitana,Ternana Calcio,4-2,https://www.besoccer.com/match/salernitana-calcio-1919/ternana-calcio/2017181980,2017,14,serie_b
+Virtus Entella,Pro Vercelli,0-0,https://www.besoccer.com/match/virtus-entella/us-pro-vercelli-calcio/2017181982,2017,14,serie_b
+SSC Bari,Spezia,1-1,https://www.besoccer.com/match/as-bari/asd-spezia/2017181973,2017,14,serie_b
+Cittadella,Hellas Verona,5-1,https://www.besoccer.com/match/as-cittadella/hellas-verona-fc/2017181988,2017,15,serie_b
+Avellino,Pisa,1-0,https://www.besoccer.com/match/us-avellino/pisa-calcio/2017181985,2017,15,serie_b
+SSC Bari,Carpi,2-0,https://www.besoccer.com/match/as-bari/carpi/2017181986,2017,15,serie_b
+Benevento,Brescia,4-0,https://www.besoccer.com/match/benevento-calcio/brescia/2017181987,2017,15,serie_b
+Latina,Salernitana,1-1,https://www.besoccer.com/match/latina/salernitana-calcio-1919/2017181989,2017,15,serie_b
+Pro Vercelli,Vicenza ,1-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/vicenza-calcio/2017181991,2017,15,serie_b
+Spezia,Cesena,1-0,https://www.besoccer.com/match/asd-spezia/ac-cesena/2017181992,2017,15,serie_b
+Ternana Calcio,Virtus Entella,3-0,https://www.besoccer.com/match/ternana-calcio/virtus-entella/2017181993,2017,15,serie_b
+Ascoli,Perugia,2-2,https://www.besoccer.com/match/ascoli/perugia/2017181984,2017,15,serie_b
+Novara,Frosinone,1-2,https://www.besoccer.com/match/novara-calcio/frosinone-calcio/2017181990,2017,15,serie_b
+Trapani,SPAL,1-1,https://www.besoccer.com/match/trapani/spal-1907/2017181994,2017,15,serie_b
+Virtus Entella,Spezia,1-1,https://www.besoccer.com/match/virtus-entella/asd-spezia/2017182004,2017,16,serie_b
+Brescia,Ascoli,1-0,https://www.besoccer.com/match/brescia/ascoli/2017181995,2017,16,serie_b
+Carpi,Cittadella,2-0,https://www.besoccer.com/match/carpi/as-cittadella/2017181996,2017,16,serie_b
+Cesena,Avellino,3-0,https://www.besoccer.com/match/ac-cesena/us-avellino/2017181997,2017,16,serie_b
+Frosinone,Ternana Calcio,1-1,https://www.besoccer.com/match/frosinone-calcio/ternana-calcio/2017181998,2017,16,serie_b
+Perugia,Novara,0-0,https://www.besoccer.com/match/perugia/novara-calcio/2017182000,2017,16,serie_b
+Pisa,Trapani,1-0,https://www.besoccer.com/match/pisa-calcio/trapani/2017182001,2017,16,serie_b
+SPAL,Latina,0-0,https://www.besoccer.com/match/spal-1907/latina/2017182003,2017,16,serie_b
+Vicenza ,Benevento,0-0,https://www.besoccer.com/match/vicenza-calcio/benevento-calcio/2017182005,2017,16,serie_b
+Hellas Verona,SSC Bari,1-0,https://www.besoccer.com/match/hellas-verona-fc/as-bari/2017181999,2017,16,serie_b
+Salernitana,Pro Vercelli,1-1,https://www.besoccer.com/match/salernitana-calcio-1919/us-pro-vercelli-calcio/2017182002,2017,16,serie_b
+Trapani,Carpi,0-1,https://www.besoccer.com/match/trapani/carpi/2017182016,2017,17,serie_b
+Avellino,Ascoli,1-2,https://www.besoccer.com/match/us-avellino/ascoli/2017182006,2017,17,serie_b
+SSC Bari,Salernitana,2-0,https://www.besoccer.com/match/as-bari/salernitana-calcio-1919/2017182007,2017,17,serie_b
+Cittadella,SPAL,1-2,https://www.besoccer.com/match/as-cittadella/spal-1907/2017182009,2017,17,serie_b
+Latina,Virtus Entella,1-1,https://www.besoccer.com/match/latina/virtus-entella/2017182011,2017,17,serie_b
+Novara,Vicenza ,2-1,https://www.besoccer.com/match/novara-calcio/vicenza-calcio/2017182012,2017,17,serie_b
+Pro Vercelli,Pisa,0-0,https://www.besoccer.com/match/us-pro-vercelli-calcio/pisa-calcio/2017182013,2017,17,serie_b
+Spezia,Frosinone,0-0,https://www.besoccer.com/match/asd-spezia/frosinone-calcio/2017182014,2017,17,serie_b
+Ternana Calcio,Brescia,1-0,https://www.besoccer.com/match/ternana-calcio/brescia/2017182015,2017,17,serie_b
+Hellas Verona,Perugia,2-2,https://www.besoccer.com/match/hellas-verona-fc/perugia/2017182010,2017,17,serie_b
+Benevento,Cesena,2-1,https://www.besoccer.com/match/benevento-calcio/ac-cesena/2017182008,2017,17,serie_b
+Pisa,SSC Bari,0-0,https://www.besoccer.com/match/pisa-calcio/as-bari/2017182024,2017,18,serie_b
+Ascoli,Latina,2-2,https://www.besoccer.com/match/ascoli/latina/2017182017,2017,18,serie_b
+Avellino,Benevento,1-1,https://www.besoccer.com/match/us-avellino/benevento-calcio/2017182018,2017,18,serie_b
+Carpi,Ternana Calcio,1-1,https://www.besoccer.com/match/carpi/ternana-calcio/2017182020,2017,18,serie_b
+Cesena,Cittadella,3-0,https://www.besoccer.com/match/ac-cesena/as-cittadella/2017182021,2017,18,serie_b
+Frosinone,Salernitana,1-3,https://www.besoccer.com/match/frosinone-calcio/salernitana-calcio-1919/2017182022,2017,18,serie_b
+Perugia,Pro Vercelli,1-0,https://www.besoccer.com/match/perugia/us-pro-vercelli-calcio/2017182023,2017,18,serie_b
+SPAL,Spezia,2-1,https://www.besoccer.com/match/spal-1907/asd-spezia/2017182025,2017,18,serie_b
+Virtus Entella,Trapani,2-2,https://www.besoccer.com/match/virtus-entella/trapani/2017182026,2017,18,serie_b
+Vicenza ,Hellas Verona,1-0,https://www.besoccer.com/match/vicenza-calcio/hellas-verona-fc/2017182027,2017,18,serie_b
+Brescia,Novara,0-0,https://www.besoccer.com/match/brescia/novara-calcio/2017182019,2017,18,serie_b
+Trapani,Frosinone,1-4,https://www.besoccer.com/match/trapani/frosinone-calcio/2017182038,2017,19,serie_b
+SSC Bari,Avellino,2-1,https://www.besoccer.com/match/as-bari/us-avellino/2017182028,2017,19,serie_b
+Cittadella,Pisa,1-0,https://www.besoccer.com/match/as-cittadella/pisa-calcio/2017182030,2017,19,serie_b
+Latina,Brescia,1-1,https://www.besoccer.com/match/latina/brescia/2017182032,2017,19,serie_b
+Novara,Cesena,3-1,https://www.besoccer.com/match/novara-calcio/ac-cesena/2017182033,2017,19,serie_b
+Pro Vercelli,SPAL,3-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/spal-1907/2017182034,2017,19,serie_b
+Salernitana,Carpi,1-2,https://www.besoccer.com/match/salernitana-calcio-1919/carpi/2017182035,2017,19,serie_b
+Spezia,Perugia,2-1,https://www.besoccer.com/match/asd-spezia/perugia/2017182036,2017,19,serie_b
+Ternana Calcio,Vicenza ,1-2,https://www.besoccer.com/match/ternana-calcio/vicenza-calcio/2017182037,2017,19,serie_b
+Benevento,Ascoli,0-0,https://www.besoccer.com/match/benevento-calcio/ascoli/2017182029,2017,19,serie_b
+Hellas Verona,Virtus Entella,1-0,https://www.besoccer.com/match/hellas-verona-fc/virtus-entella/2017182031,2017,19,serie_b
+Pisa,Spezia,0-0,https://www.besoccer.com/match/pisa-calcio/asd-spezia/2017182046,2017,20,serie_b
+Ascoli,SSC Bari,1-1,https://www.besoccer.com/match/ascoli/as-bari/2017182039,2017,20,serie_b
+Avellino,Salernitana,3-2,https://www.besoccer.com/match/us-avellino/salernitana-calcio-1919/2017182040,2017,20,serie_b
+Brescia,Pro Vercelli,2-1,https://www.besoccer.com/match/brescia/us-pro-vercelli-calcio/2017182041,2017,20,serie_b
+Carpi,Hellas Verona,1-1,https://www.besoccer.com/match/carpi/hellas-verona-fc/2017182042,2017,20,serie_b
+Cesena,Trapani,3-1,https://www.besoccer.com/match/ac-cesena/trapani/2017182043,2017,20,serie_b
+Frosinone,Benevento,3-2,https://www.besoccer.com/match/frosinone-calcio/benevento-calcio/2017182044,2017,20,serie_b
+Perugia,Latina,1-1,https://www.besoccer.com/match/perugia/latina/2017182045,2017,20,serie_b
+SPAL,Ternana Calcio,4-0,https://www.besoccer.com/match/spal-1907/ternana-calcio/2017182047,2017,20,serie_b
+Virtus Entella,Novara,4-1,https://www.besoccer.com/match/virtus-entella/novara-calcio/2017182048,2017,20,serie_b
+Vicenza ,Cittadella,2-0,https://www.besoccer.com/match/vicenza-calcio/as-cittadella/2017182049,2017,20,serie_b
+Spezia,Vicenza ,0-0,https://www.besoccer.com/match/asd-spezia/vicenza-calcio/2017182058,2017,21,serie_b
+SSC Bari,SPAL,1-1,https://www.besoccer.com/match/as-bari/spal-1907/2017182050,2017,21,serie_b
+Salernitana,Perugia,2-1,https://www.besoccer.com/match/salernitana-calcio-1919/perugia/2017182057,2017,21,serie_b
+Novara,Carpi,2-1,https://www.besoccer.com/match/novara-calcio/carpi/2017182055,2017,21,serie_b
+Benevento,Pisa,1-0,https://www.besoccer.com/match/benevento-calcio/pisa-calcio/2017182051,2017,21,serie_b
+Cittadella,Virtus Entella,2-1,https://www.besoccer.com/match/as-cittadella/virtus-entella/2017182052,2017,21,serie_b
+Hellas Verona,Cesena,3-0,https://www.besoccer.com/match/hellas-verona-fc/ac-cesena/2017182053,2017,21,serie_b
+Latina,Avellino,0-0,https://www.besoccer.com/match/latina/us-avellino/2017182054,2017,21,serie_b
+Pro Vercelli,Frosinone,2-0,https://www.besoccer.com/match/us-pro-vercelli-calcio/frosinone-calcio/2017182056,2017,21,serie_b
+Ternana Calcio,Ascoli,0-1,https://www.besoccer.com/match/ternana-calcio/ascoli/2017182059,2017,21,serie_b
+Trapani,Brescia,0-0,https://www.besoccer.com/match/trapani/brescia/2017182060,2017,21,serie_b
+Brescia,Avellino,0-2,https://www.besoccer.com/match/brescia/us-avellino/2017182061,2017,22,serie_b
+Cittadella,SSC Bari,2-0,https://www.besoccer.com/match/as-cittadella/as-bari/2017182062,2017,22,serie_b
+SPAL,Benevento,2-0,https://www.besoccer.com/match/spal-1907/benevento-calcio/2017182063,2017,22,serie_b
+Virtus Entella,Frosinone,2-1,https://www.besoccer.com/match/virtus-entella/frosinone-calcio/2017182065,2017,22,serie_b
+Latina,Hellas Verona,2-0,https://www.besoccer.com/match/latina/hellas-verona-fc/2017182066,2017,22,serie_b
+Trapani,Novara,2-1,https://www.besoccer.com/match/trapani/novara-calcio/2017182067,2017,22,serie_b
+Pisa,Ternana Calcio,1-0,https://www.besoccer.com/match/pisa-calcio/ternana-calcio/2017182070,2017,22,serie_b
+Carpi,Vicenza ,0-0,https://www.besoccer.com/match/carpi/vicenza-calcio/2017182071,2017,22,serie_b
+Salernitana,Spezia,1-0,https://www.besoccer.com/match/salernitana-calcio-1919/asd-spezia/2017182069,2017,22,serie_b
+Perugia,Cesena,3-3,https://www.besoccer.com/match/perugia/ac-cesena/2017182064,2017,22,serie_b
+Ascoli,Pro Vercelli,3-1,https://www.besoccer.com/match/ascoli/us-pro-vercelli-calcio/2017182068,2017,22,serie_b
+Frosinone,Brescia,1-0,https://www.besoccer.com/match/frosinone-calcio/brescia/2017182073,2017,23,serie_b
+Cesena,Ascoli,2-2,https://www.besoccer.com/match/ac-cesena/ascoli/2017182072,2017,23,serie_b
+Benevento,Carpi,3-0,https://www.besoccer.com/match/benevento-calcio/carpi/2017182074,2017,23,serie_b
+Ternana Calcio,Cittadella,1-0,https://www.besoccer.com/match/ternana-calcio/as-cittadella/2017182075,2017,23,serie_b
+SSC Bari,Perugia,0-0,https://www.besoccer.com/match/as-bari/perugia/2017182077,2017,23,serie_b
+Novara,Pisa,1-1,https://www.besoccer.com/match/novara-calcio/pisa-calcio/2017182078,2017,23,serie_b
+Vicenza ,SPAL,1-1,https://www.besoccer.com/match/vicenza-calcio/spal-1907/2017182080,2017,23,serie_b
+Pro Vercelli,Trapani,1-3,https://www.besoccer.com/match/us-pro-vercelli-calcio/trapani/2017182081,2017,23,serie_b
+Avellino,Virtus Entella,2-2,https://www.besoccer.com/match/us-avellino/virtus-entella/2017182082,2017,23,serie_b
+Hellas Verona,Salernitana,2-0,https://www.besoccer.com/match/hellas-verona-fc/salernitana-calcio-1919/2017182079,2017,23,serie_b
+Spezia,Latina,3-2,https://www.besoccer.com/match/asd-spezia/latina/2017182076,2017,23,serie_b
+Hellas Verona,Benevento,2-2,https://www.besoccer.com/match/hellas-verona-fc/benevento-calcio/2017182085,2017,24,serie_b
+SPAL,Ascoli,1-1,https://www.besoccer.com/match/spal-1907/ascoli/2017182083,2017,24,serie_b
+Perugia,Brescia,3-2,https://www.besoccer.com/match/perugia/brescia/2017182086,2017,24,serie_b
+Latina,Frosinone,0-1,https://www.besoccer.com/match/latina/frosinone-calcio/2017182088,2017,24,serie_b
+Salernitana,Novara,0-0,https://www.besoccer.com/match/salernitana-calcio-1919/novara-calcio/2017182089,2017,24,serie_b
+Cittadella,Pro Vercelli,0-0,https://www.besoccer.com/match/as-cittadella/us-pro-vercelli-calcio/2017182090,2017,24,serie_b
+Spezia,Ternana Calcio,2-0,https://www.besoccer.com/match/asd-spezia/ternana-calcio/2017182091,2017,24,serie_b
+Pisa,Virtus Entella,1-1,https://www.besoccer.com/match/pisa-calcio/virtus-entella/2017182092,2017,24,serie_b
+SSC Bari,Vicenza ,2-1,https://www.besoccer.com/match/as-bari/vicenza-calcio/2017182093,2017,24,serie_b
+Carpi,Cesena,1-2,https://www.besoccer.com/match/carpi/ac-cesena/2017182087,2017,24,serie_b
+Trapani,Avellino,0-0,https://www.besoccer.com/match/trapani/us-avellino/2017182084,2017,24,serie_b
+Vicenza ,Salernitana,0-1,https://www.besoccer.com/match/vicenza-calcio/salernitana-calcio-1919/2017182101,2017,25,serie_b
+Cesena,SSC Bari,1-1,https://www.besoccer.com/match/ac-cesena/as-bari/2017182094,2017,25,serie_b
+Frosinone,Carpi,1-0,https://www.besoccer.com/match/frosinone-calcio/carpi/2017182095,2017,25,serie_b
+Novara,Cittadella,1-1,https://www.besoccer.com/match/novara-calcio/as-cittadella/2017182096,2017,25,serie_b
+Avellino,Hellas Verona,2-0,https://www.besoccer.com/match/us-avellino/hellas-verona-fc/2017182097,2017,25,serie_b
+Benevento,Latina,2-1,https://www.besoccer.com/match/benevento-calcio/latina/2017182098,2017,25,serie_b
+Brescia,Pisa,1-1,https://www.besoccer.com/match/brescia/pisa-calcio/2017182100,2017,25,serie_b
+Pro Vercelli,Spezia,0-2,https://www.besoccer.com/match/us-pro-vercelli-calcio/asd-spezia/2017182103,2017,25,serie_b
+Ascoli,Trapani,2-2,https://www.besoccer.com/match/ascoli/trapani/2017182104,2017,25,serie_b
+Virtus Entella,SPAL,0-3,https://www.besoccer.com/match/virtus-entella/spal-1907/2017182102,2017,25,serie_b
+Ternana Calcio,Perugia,0-1,https://www.besoccer.com/match/ternana-calcio/perugia/2017182099,2017,25,serie_b
+Latina,Novara,0-1,https://www.besoccer.com/match/latina/novara-calcio/2017182111,2017,26,serie_b
+Vicenza ,Ascoli,1-1,https://www.besoccer.com/match/vicenza-calcio/ascoli/2017182105,2017,26,serie_b
+Cittadella,Avellino,1-3,https://www.besoccer.com/match/as-cittadella/us-avellino/2017182106,2017,26,serie_b
+Pro Vercelli,Benevento,0-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/benevento-calcio/2017182107,2017,26,serie_b
+Carpi,Brescia,2-1,https://www.besoccer.com/match/carpi/brescia/2017182108,2017,26,serie_b
+Salernitana,Cesena,1-1,https://www.besoccer.com/match/salernitana-calcio-1919/ac-cesena/2017182109,2017,26,serie_b
+SSC Bari,Ternana Calcio,3-1,https://www.besoccer.com/match/as-bari/ternana-calcio/2017182113,2017,26,serie_b
+Spezia,Trapani,2-2,https://www.besoccer.com/match/asd-spezia/trapani/2017182114,2017,26,serie_b
+Perugia,Virtus Entella,0-0,https://www.besoccer.com/match/perugia/virtus-entella/2017182115,2017,26,serie_b
+Pisa,Frosinone,0-0,https://www.besoccer.com/match/pisa-calcio/frosinone-calcio/2017182110,2017,26,serie_b
+Hellas Verona,SPAL,0-0,https://www.besoccer.com/match/hellas-verona-fc/spal-1907/2017182112,2017,26,serie_b
+Brescia,Cittadella,4-1,https://www.besoccer.com/match/brescia/as-cittadella/2017182118,2017,27,serie_b
+Benevento,SSC Bari,3-4,https://www.besoccer.com/match/benevento-calcio/as-bari/2017182116,2017,27,serie_b
+Virtus Entella,Carpi,2-0,https://www.besoccer.com/match/virtus-entella/carpi/2017182117,2017,27,serie_b
+Frosinone,Hellas Verona,1-0,https://www.besoccer.com/match/frosinone-calcio/hellas-verona-fc/2017182119,2017,27,serie_b
+Ternana Calcio,Latina,0-1,https://www.besoccer.com/match/ternana-calcio/latina/2017182120,2017,27,serie_b
+SPAL,Perugia,2-0,https://www.besoccer.com/match/spal-1907/perugia/2017182121,2017,27,serie_b
+Ascoli,Pisa,2-4,https://www.besoccer.com/match/ascoli/pisa-calcio/2017182122,2017,27,serie_b
+Cesena,Pro Vercelli,1-2,https://www.besoccer.com/match/ac-cesena/us-pro-vercelli-calcio/2017182123,2017,27,serie_b
+Trapani,Salernitana,1-0,https://www.besoccer.com/match/trapani/salernitana-calcio-1919/2017182124,2017,27,serie_b
+Novara,Spezia,2-1,https://www.besoccer.com/match/novara-calcio/asd-spezia/2017182125,2017,27,serie_b
+Avellino,Vicenza ,3-1,https://www.besoccer.com/match/us-avellino/vicenza-calcio/2017182126,2017,27,serie_b
+SSC Bari,Brescia,2-0,https://www.besoccer.com/match/as-bari/brescia/2017182130,2017,28,serie_b
+Spezia,Ascoli,2-1,https://www.besoccer.com/match/asd-spezia/ascoli/2017182127,2017,28,serie_b
+Pro Vercelli,Avellino,1-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/us-avellino/2017182128,2017,28,serie_b
+Novara,Benevento,1-0,https://www.besoccer.com/match/novara-calcio/benevento-calcio/2017182129,2017,28,serie_b
+Pisa,Carpi,0-0,https://www.besoccer.com/match/pisa-calcio/carpi/2017182131,2017,28,serie_b
+Latina,Cesena,1-1,https://www.besoccer.com/match/latina/ac-cesena/2017182132,2017,28,serie_b
+Perugia,Frosinone,1-1,https://www.besoccer.com/match/perugia/frosinone-calcio/2017182133,2017,28,serie_b
+Salernitana,SPAL,1-2,https://www.besoccer.com/match/salernitana-calcio-1919/spal-1907/2017182134,2017,28,serie_b
+Hellas Verona,Ternana Calcio,2-0,https://www.besoccer.com/match/hellas-verona-fc/ternana-calcio/2017182135,2017,28,serie_b
+Cittadella,Trapani,3-2,https://www.besoccer.com/match/as-cittadella/trapani/2017182136,2017,28,serie_b
+Vicenza ,Virtus Entella,2-2,https://www.besoccer.com/match/vicenza-calcio/virtus-entella/2017182137,2017,28,serie_b
+Virtus Entella,SSC Bari,2-0,https://www.besoccer.com/match/virtus-entella/as-bari/2017182138,2017,29,serie_b
+Trapani,Latina,1-1,https://www.besoccer.com/match/trapani/latina/2017182141,2017,29,serie_b
+Ascoli,Novara,1-2,https://www.besoccer.com/match/ascoli/novara-calcio/2017182142,2017,29,serie_b
+Avellino,Perugia,0-5,https://www.besoccer.com/match/us-avellino/perugia/2017182143,2017,29,serie_b
+SPAL,Pisa,1-1,https://www.besoccer.com/match/spal-1907/pisa-calcio/2017182144,2017,29,serie_b
+Ternana Calcio,Pro Vercelli,1-2,https://www.besoccer.com/match/ternana-calcio/us-pro-vercelli-calcio/2017182145,2017,29,serie_b
+Carpi,Spezia,1-0,https://www.besoccer.com/match/carpi/asd-spezia/2017182147,2017,29,serie_b
+Cesena,Vicenza ,1-1,https://www.besoccer.com/match/ac-cesena/vicenza-calcio/2017182148,2017,29,serie_b
+Brescia,Hellas Verona,0-1,https://www.besoccer.com/match/brescia/hellas-verona-fc/2017182140,2017,29,serie_b
+Benevento,Salernitana,1-1,https://www.besoccer.com/match/benevento-calcio/salernitana-calcio-1919/2017182146,2017,29,serie_b
+Frosinone,Cittadella,1-1,https://www.besoccer.com/match/frosinone-calcio/as-cittadella/2017182139,2017,29,serie_b
+Spezia,Avellino,2-1,https://www.besoccer.com/match/asd-spezia/us-avellino/2017182150,2017,30,serie_b
+Salernitana,Brescia,2-0,https://www.besoccer.com/match/salernitana-calcio-1919/brescia/2017182151,2017,30,serie_b
+SPAL,Cesena,2-0,https://www.besoccer.com/match/spal-1907/ac-cesena/2017182153,2017,30,serie_b
+SSC Bari,Frosinone,1-0,https://www.besoccer.com/match/as-bari/frosinone-calcio/2017182154,2017,30,serie_b
+Cittadella,Perugia,1-1,https://www.besoccer.com/match/as-cittadella/perugia/2017182155,2017,30,serie_b
+Benevento,Virtus Entella,0-0,https://www.besoccer.com/match/benevento-calcio/virtus-entella/2017182159,2017,30,serie_b
+Latina,Carpi,0-1,https://www.besoccer.com/match/latina/carpi/2017182152,2017,30,serie_b
+Novara,Pro Vercelli,0-0,https://www.besoccer.com/match/novara-calcio/us-pro-vercelli-calcio/2017182157,2017,30,serie_b
+Ternana Calcio,Trapani,2-1,https://www.besoccer.com/match/ternana-calcio/trapani/2017182158,2017,30,serie_b
+Vicenza ,Pisa,2-1,https://www.besoccer.com/match/vicenza-calcio/pisa-calcio/2017182156,2017,30,serie_b
+Hellas Verona,Ascoli,0-0,https://www.besoccer.com/match/hellas-verona-fc/ascoli/2017182149,2017,30,serie_b
+Perugia,Benevento,3-1,https://www.besoccer.com/match/perugia/benevento-calcio/2017182161,2017,31,serie_b
+Trapani,SSC Bari,4-0,https://www.besoccer.com/match/trapani/as-bari/2017182160,2017,31,serie_b
+Ascoli,Cittadella,2-1,https://www.besoccer.com/match/ascoli/as-cittadella/2017182162,2017,31,serie_b
+Pro Vercelli,Hellas Verona,1-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/hellas-verona-fc/2017182163,2017,31,serie_b
+Pisa,Latina,1-1,https://www.besoccer.com/match/pisa-calcio/latina/2017182164,2017,31,serie_b
+Avellino,Novara,1-1,https://www.besoccer.com/match/us-avellino/novara-calcio/2017182165,2017,31,serie_b
+Carpi,SPAL,1-4,https://www.besoccer.com/match/carpi/spal-1907/2017182167,2017,31,serie_b
+Brescia,Spezia,1-1,https://www.besoccer.com/match/brescia/asd-spezia/2017182168,2017,31,serie_b
+Frosinone,Vicenza ,3-1,https://www.besoccer.com/match/frosinone-calcio/vicenza-calcio/2017182170,2017,31,serie_b
+Cesena,Ternana Calcio,1-0,https://www.besoccer.com/match/ac-cesena/ternana-calcio/2017182169,2017,31,serie_b
+Virtus Entella,Salernitana,0-1,https://www.besoccer.com/match/virtus-entella/salernitana-calcio-1919/2017182166,2017,31,serie_b
+Cittadella,Spezia,1-0,https://www.besoccer.com/match/as-cittadella/asd-spezia/2017182180,2017,32,serie_b
+Benevento,Trapani,1-3,https://www.besoccer.com/match/benevento-calcio/trapani/2017182181,2017,32,serie_b
+Hellas Verona,Pisa,1-1,https://www.besoccer.com/match/hellas-verona-fc/pisa-calcio/2017182178,2017,32,serie_b
+Salernitana,Ascoli,2-0,https://www.besoccer.com/match/salernitana-calcio-1919/ascoli/2017182171,2017,32,serie_b
+Ternana Calcio,Avellino,4-1,https://www.besoccer.com/match/ternana-calcio/us-avellino/2017182172,2017,32,serie_b
+Vicenza ,Brescia,1-1,https://www.besoccer.com/match/vicenza-calcio/brescia/2017182173,2017,32,serie_b
+Virtus Entella,Cesena,2-1,https://www.besoccer.com/match/virtus-entella/ac-cesena/2017182174,2017,32,serie_b
+SPAL,Frosinone,0-2,https://www.besoccer.com/match/spal-1907/frosinone-calcio/2017182175,2017,32,serie_b
+Carpi,Perugia,0-0,https://www.besoccer.com/match/carpi/perugia/2017182177,2017,32,serie_b
+Latina,Pro Vercelli,0-0,https://www.besoccer.com/match/latina/us-pro-vercelli-calcio/2017182179,2017,32,serie_b
+SSC Bari,Novara,0-0,https://www.besoccer.com/match/as-bari/novara-calcio/2017182176,2017,32,serie_b
+Avellino,SPAL,1-0,https://www.besoccer.com/match/us-avellino/spal-1907/2017182189,2017,33,serie_b
+Cesena,Frosinone,1-1,https://www.besoccer.com/match/ac-cesena/frosinone-calcio/2017182186,2017,33,serie_b
+Pro Vercelli,SSC Bari,1-0,https://www.besoccer.com/match/us-pro-vercelli-calcio/as-bari/2017182182,2017,33,serie_b
+Spezia,Benevento,1-3,https://www.besoccer.com/match/asd-spezia/benevento-calcio/2017182183,2017,33,serie_b
+Ascoli,Carpi,1-2,https://www.besoccer.com/match/ascoli/carpi/2017182184,2017,33,serie_b
+Latina,Cittadella,0-2,https://www.besoccer.com/match/latina/as-cittadella/2017182185,2017,33,serie_b
+Trapani,Hellas Verona,0-2,https://www.besoccer.com/match/trapani/hellas-verona-fc/2017182187,2017,33,serie_b
+Pisa,Salernitana,0-1,https://www.besoccer.com/match/pisa-calcio/salernitana-calcio-1919/2017182188,2017,33,serie_b
+Novara,Ternana Calcio,1-2,https://www.besoccer.com/match/novara-calcio/ternana-calcio/2017182190,2017,33,serie_b
+Brescia,Virtus Entella,2-2,https://www.besoccer.com/match/brescia/virtus-entella/2017182191,2017,33,serie_b
+Perugia,Vicenza ,1-0,https://www.besoccer.com/match/perugia/vicenza-calcio/2017182192,2017,33,serie_b
+Frosinone,Avellino,1-1,https://www.besoccer.com/match/frosinone-calcio/us-avellino/2017182194,2017,34,serie_b
+Virtus Entella,Ascoli,2-1,https://www.besoccer.com/match/virtus-entella/ascoli/2017182193,2017,34,serie_b
+Cesena,Brescia,1-1,https://www.besoccer.com/match/ac-cesena/brescia/2017182195,2017,34,serie_b
+Salernitana,Cittadella,0-0,https://www.besoccer.com/match/salernitana-calcio-1919/as-cittadella/2017182196,2017,34,serie_b
+SSC Bari,Latina,2-0,https://www.besoccer.com/match/as-bari/latina/2017182197,2017,34,serie_b
+SPAL,Novara,2-0,https://www.besoccer.com/match/spal-1907/novara-calcio/2017182198,2017,34,serie_b
+Perugia,Pisa,2-2,https://www.besoccer.com/match/perugia/pisa-calcio/2017182199,2017,34,serie_b
+Carpi,Pro Vercelli,0-0,https://www.besoccer.com/match/carpi/us-pro-vercelli-calcio/2017182200,2017,34,serie_b
+Hellas Verona,Spezia,0-1,https://www.besoccer.com/match/hellas-verona-fc/asd-spezia/2017182201,2017,34,serie_b
+Benevento,Ternana Calcio,2-1,https://www.besoccer.com/match/benevento-calcio/ternana-calcio/2017182202,2017,34,serie_b
+Vicenza ,Trapani,0-1,https://www.besoccer.com/match/vicenza-calcio/trapani/2017182203,2017,34,serie_b
+Spezia,SSC Bari,1-0,https://www.besoccer.com/match/asd-spezia/as-bari/2017182204,2017,35,serie_b
+Cittadella,Benevento,1-0,https://www.besoccer.com/match/as-cittadella/benevento-calcio/2017182205,2017,35,serie_b
+Avellino,Carpi,1-0,https://www.besoccer.com/match/us-avellino/carpi/2017182206,2017,35,serie_b
+Pisa,Cesena,0-1,https://www.besoccer.com/match/pisa-calcio/ac-cesena/2017182207,2017,35,serie_b
+Ascoli,Frosinone,1-1,https://www.besoccer.com/match/ascoli/frosinone-calcio/2017182208,2017,35,serie_b
+Trapani,Perugia,3-0,https://www.besoccer.com/match/trapani/perugia/2017182210,2017,35,serie_b
+Ternana Calcio,Salernitana,1-0,https://www.besoccer.com/match/ternana-calcio/salernitana-calcio-1919/2017182211,2017,35,serie_b
+Pro Vercelli,Virtus Entella,1-0,https://www.besoccer.com/match/us-pro-vercelli-calcio/virtus-entella/2017182213,2017,35,serie_b
+Latina,Vicenza ,0-1,https://www.besoccer.com/match/latina/vicenza-calcio/2017182214,2017,35,serie_b
+Brescia,SPAL,1-3,https://www.besoccer.com/match/brescia/spal-1907/2017182212,2017,35,serie_b
+Novara,Hellas Verona,2-2,https://www.besoccer.com/match/novara-calcio/hellas-verona-fc/2017182209,2017,35,serie_b
+SPAL,Trapani,2-1,https://www.besoccer.com/match/spal-1907/trapani/2017182225,2017,36,serie_b
+Perugia,Ascoli,0-0,https://www.besoccer.com/match/perugia/ascoli/2017182215,2017,36,serie_b
+Carpi,SSC Bari,2-0,https://www.besoccer.com/match/carpi/as-bari/2017182217,2017,36,serie_b
+Brescia,Benevento,1-0,https://www.besoccer.com/match/brescia/benevento-calcio/2017182218,2017,36,serie_b
+Hellas Verona,Cittadella,2-0,https://www.besoccer.com/match/hellas-verona-fc/as-cittadella/2017182219,2017,36,serie_b
+Salernitana,Latina,2-1,https://www.besoccer.com/match/salernitana-calcio-1919/latina/2017182220,2017,36,serie_b
+Frosinone,Novara,2-3,https://www.besoccer.com/match/frosinone-calcio/novara-calcio/2017182221,2017,36,serie_b
+Vicenza ,Pro Vercelli,0-1,https://www.besoccer.com/match/vicenza-calcio/us-pro-vercelli-calcio/2017182222,2017,36,serie_b
+Virtus Entella,Ternana Calcio,1-1,https://www.besoccer.com/match/virtus-entella/ternana-calcio/2017182224,2017,36,serie_b
+Pisa,Avellino,0-1,https://www.besoccer.com/match/pisa-calcio/us-avellino/2017182216,2017,36,serie_b
+Cesena,Spezia,1-0,https://www.besoccer.com/match/ac-cesena/asd-spezia/2017182223,2017,36,serie_b
+Novara,Perugia,0-1,https://www.besoccer.com/match/novara-calcio/perugia/2017182231,2017,37,serie_b
+Benevento,Vicenza ,0-0,https://www.besoccer.com/match/benevento-calcio/vicenza-calcio/2017182236,2017,37,serie_b
+Ascoli,Brescia,0-0,https://www.besoccer.com/match/ascoli/brescia/2017182226,2017,37,serie_b
+Cittadella,Carpi,4-1,https://www.besoccer.com/match/as-cittadella/carpi/2017182227,2017,37,serie_b
+Avellino,Cesena,1-1,https://www.besoccer.com/match/us-avellino/ac-cesena/2017182228,2017,37,serie_b
+Ternana Calcio,Frosinone,2-0,https://www.besoccer.com/match/ternana-calcio/frosinone-calcio/2017182229,2017,37,serie_b
+SSC Bari,Hellas Verona,0-2,https://www.besoccer.com/match/as-bari/hellas-verona-fc/2017182230,2017,37,serie_b
+Trapani,Pisa,1-0,https://www.besoccer.com/match/trapani/pisa-calcio/2017182232,2017,37,serie_b
+Pro Vercelli,Salernitana,0-0,https://www.besoccer.com/match/us-pro-vercelli-calcio/salernitana-calcio-1919/2017182233,2017,37,serie_b
+Latina,SPAL,1-2,https://www.besoccer.com/match/latina/spal-1907/2017182234,2017,37,serie_b
+Spezia,Virtus Entella,2-0,https://www.besoccer.com/match/asd-spezia/virtus-entella/2017182235,2017,37,serie_b
+Vicenza ,Novara,3-1,https://www.besoccer.com/match/vicenza-calcio/novara-calcio/2017182243,2017,38,serie_b
+Salernitana,SSC Bari,0-0,https://www.besoccer.com/match/salernitana-calcio-1919/as-bari/2017182238,2017,38,serie_b
+Ascoli,Avellino,2-0,https://www.besoccer.com/match/ascoli/us-avellino/2017182237,2017,38,serie_b
+SPAL,Cittadella,2-1,https://www.besoccer.com/match/spal-1907/as-cittadella/2017182240,2017,38,serie_b
+Virtus Entella,Latina,0-1,https://www.besoccer.com/match/virtus-entella/latina/2017182242,2017,38,serie_b
+Pisa,Pro Vercelli,1-1,https://www.besoccer.com/match/pisa-calcio/us-pro-vercelli-calcio/2017182244,2017,38,serie_b
+Frosinone,Spezia,2-0,https://www.besoccer.com/match/frosinone-calcio/asd-spezia/2017182245,2017,38,serie_b
+Brescia,Ternana Calcio,2-1,https://www.besoccer.com/match/brescia/ternana-calcio/2017182246,2017,38,serie_b
+Cesena,Benevento,4-1,https://www.besoccer.com/match/ac-cesena/benevento-calcio/2017182239,2017,38,serie_b
+Perugia,Hellas Verona,1-1,https://www.besoccer.com/match/perugia/hellas-verona-fc/2017182241,2017,38,serie_b
+Carpi,Trapani,2-1,https://www.besoccer.com/match/carpi/trapani/2017182247,2017,38,serie_b
+Latina,Ascoli,0-0,https://www.besoccer.com/match/latina/ascoli/2017182248,2017,39,serie_b
+Ternana Calcio,Carpi,0-0,https://www.besoccer.com/match/ternana-calcio/carpi/2017182251,2017,39,serie_b
+Cittadella,Cesena,2-3,https://www.besoccer.com/match/as-cittadella/ac-cesena/2017182252,2017,39,serie_b
+Pro Vercelli,Perugia,0-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/perugia/2017182254,2017,39,serie_b
+SSC Bari,Pisa,0-0,https://www.besoccer.com/match/as-bari/pisa-calcio/2017182255,2017,39,serie_b
+Spezia,SPAL,0-0,https://www.besoccer.com/match/asd-spezia/spal-1907/2017182256,2017,39,serie_b
+Trapani,Virtus Entella,2-0,https://www.besoccer.com/match/trapani/virtus-entella/2017182257,2017,39,serie_b
+Novara,Brescia,2-3,https://www.besoccer.com/match/novara-calcio/brescia/2017182250,2017,39,serie_b
+Benevento,Avellino,2-1,https://www.besoccer.com/match/benevento-calcio/us-avellino/2017182249,2017,39,serie_b
+Hellas Verona,Vicenza ,3-2,https://www.besoccer.com/match/hellas-verona-fc/vicenza-calcio/2017182258,2017,39,serie_b
+Salernitana,Frosinone,1-3,https://www.besoccer.com/match/salernitana-calcio-1919/frosinone-calcio/2017182253,2017,39,serie_b
+Perugia,Spezia,0-0,https://www.besoccer.com/match/perugia/asd-spezia/2017182267,2017,40,serie_b
+Avellino,SSC Bari,1-1,https://www.besoccer.com/match/us-avellino/as-bari/2017182259,2017,40,serie_b
+Ascoli,Benevento,1-1,https://www.besoccer.com/match/ascoli/benevento-calcio/2017182260,2017,40,serie_b
+Virtus Entella,Hellas Verona,1-2,https://www.besoccer.com/match/virtus-entella/hellas-verona-fc/2017182262,2017,40,serie_b
+Brescia,Latina,1-1,https://www.besoccer.com/match/brescia/latina/2017182263,2017,40,serie_b
+Cesena,Novara,0-1,https://www.besoccer.com/match/ac-cesena/novara-calcio/2017182264,2017,40,serie_b
+Carpi,Salernitana,2-0,https://www.besoccer.com/match/carpi/salernitana-calcio-1919/2017182266,2017,40,serie_b
+Vicenza ,Ternana Calcio,0-1,https://www.besoccer.com/match/vicenza-calcio/ternana-calcio/2017182268,2017,40,serie_b
+Frosinone,Trapani,1-0,https://www.besoccer.com/match/frosinone-calcio/trapani/2017182269,2017,40,serie_b
+SPAL,Pro Vercelli,0-0,https://www.besoccer.com/match/spal-1907/us-pro-vercelli-calcio/2017182265,2017,40,serie_b
+Pisa,Cittadella,1-4,https://www.besoccer.com/match/pisa-calcio/as-cittadella/2017182261,2017,40,serie_b
+Salernitana,Avellino,2-0,https://www.besoccer.com/match/salernitana-calcio-1919/us-avellino/2017182271,2017,41,serie_b
+Pro Vercelli,Brescia,2-2,https://www.besoccer.com/match/us-pro-vercelli-calcio/brescia/2017182272,2017,41,serie_b
+Hellas Verona,Carpi,1-1,https://www.besoccer.com/match/hellas-verona-fc/carpi/2017182273,2017,41,serie_b
+Benevento,Frosinone,2-1,https://www.besoccer.com/match/benevento-calcio/frosinone-calcio/2017182275,2017,41,serie_b
+Latina,Perugia,2-2,https://www.besoccer.com/match/latina/perugia/2017182276,2017,41,serie_b
+Spezia,Pisa,0-0,https://www.besoccer.com/match/asd-spezia/pisa-calcio/2017182277,2017,41,serie_b
+Ternana Calcio,SPAL,2-1,https://www.besoccer.com/match/ternana-calcio/spal-1907/2017182278,2017,41,serie_b
+Novara,Virtus Entella,2-0,https://www.besoccer.com/match/novara-calcio/virtus-entella/2017182279,2017,41,serie_b
+Cittadella,Vicenza ,2-0,https://www.besoccer.com/match/as-cittadella/vicenza-calcio/2017182280,2017,41,serie_b
+Trapani,Cesena,1-2,https://www.besoccer.com/match/trapani/ac-cesena/2017182274,2017,41,serie_b
+SSC Bari,Ascoli,0-1,https://www.besoccer.com/match/as-bari/ascoli/2017182270,2017,41,serie_b
+SPAL,SSC Bari,2-1,https://www.besoccer.com/match/spal-1907/as-bari/2017181819,2017,42,serie_b
+Pisa,Benevento,0-3,https://www.besoccer.com/match/pisa-calcio/benevento-calcio/2017181820,2017,42,serie_b
+Virtus Entella,Cittadella,4-1,https://www.besoccer.com/match/virtus-entella/as-cittadella/2017181821,2017,42,serie_b
+Cesena,Hellas Verona,0-0,https://www.besoccer.com/match/ac-cesena/hellas-verona-fc/2017181822,2017,42,serie_b
+Avellino,Latina,2-1,https://www.besoccer.com/match/us-avellino/latina/2017181823,2017,42,serie_b
+Carpi,Novara,2-0,https://www.besoccer.com/match/carpi/novara-calcio/2017181824,2017,42,serie_b
+Frosinone,Pro Vercelli,2-1,https://www.besoccer.com/match/frosinone-calcio/us-pro-vercelli-calcio/2017181825,2017,42,serie_b
+Perugia,Salernitana,3-2,https://www.besoccer.com/match/perugia/salernitana-calcio-1919/2017181826,2017,42,serie_b
+Vicenza ,Spezia,0-1,https://www.besoccer.com/match/vicenza-calcio/asd-spezia/2017181827,2017,42,serie_b
+Ascoli,Ternana Calcio,1-2,https://www.besoccer.com/match/ascoli/ternana-calcio/2017181828,2017,42,serie_b
+Brescia,Trapani,2-1,https://www.besoccer.com/match/brescia/trapani/2017181829,2017,42,serie_b

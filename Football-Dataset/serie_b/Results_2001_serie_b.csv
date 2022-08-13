@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Torino,Ancona,0-2,https://www.besoccer.com/match/torino-fc/ancona/20017536,2001,1,serie_b
+Cosenza Calcio,Pescara,1-0,https://www.besoccer.com/match/fortitudo-cosenza/pescara-calcio/20017527,2001,1,serie_b
+Cittadella,Piacenza,0-2,https://www.besoccer.com/match/as-cittadella/piacenza/20017528,2001,1,serie_b
+Chievo,Genoa,1-0,https://www.besoccer.com/match/chievo/genoa/20017529,2001,1,serie_b
+Cagliari,Crotone,4-0,https://www.besoccer.com/match/cagliari/fc-crotone/20017530,2001,1,serie_b
+Siena,Treviso,2-0,https://www.besoccer.com/match/siena/treviso/20017531,2001,1,serie_b
+Sampdoria,Ternana Calcio,2-1,https://www.besoccer.com/match/sampdoria/ternana-calcio/20017532,2001,1,serie_b
+Ravenna FC,Salernitana,1-1,https://www.besoccer.com/match/ravenna-calcio/salernitana-calcio-1919/20017533,2001,1,serie_b
+AC Monza,Venezia,2-3,https://www.besoccer.com/match/ac-monza-brianza-1912/venezia/20017534,2001,1,serie_b
+Empoli,Pistoiese,0-2,https://www.besoccer.com/match/empoli-fc/pistoiese/20017535,2001,1,serie_b
+Pistoiese,Torino,1-1,https://www.besoccer.com/match/pistoiese/torino-fc/20017518,2001,2,serie_b
+Piacenza,Cosenza Calcio,2-0,https://www.besoccer.com/match/piacenza/fortitudo-cosenza/20017519,2001,2,serie_b
+Pescara,Empoli,1-3,https://www.besoccer.com/match/pescara-calcio/empoli-fc/20017520,2001,2,serie_b
+Genoa,Siena,1-1,https://www.besoccer.com/match/genoa/siena/20017521,2001,2,serie_b
+Crotone,Ravenna FC,2-1,https://www.besoccer.com/match/fc-crotone/ravenna-calcio/20017522,2001,2,serie_b
+Ancona,AC Monza,1-0,https://www.besoccer.com/match/ancona/ac-monza-brianza-1912/20017523,2001,2,serie_b
+Venezia,Cittadella,2-2,https://www.besoccer.com/match/venezia/as-cittadella/20017524,2001,2,serie_b
+Treviso,Cagliari,2-3,https://www.besoccer.com/match/treviso/cagliari/20017525,2001,2,serie_b
+Ternana Calcio,Chievo,1-0,https://www.besoccer.com/match/ternana-calcio/chievo/20017526,2001,2,serie_b
+Salernitana,Sampdoria,2-3,https://www.besoccer.com/match/salernitana-calcio-1919/sampdoria/20017517,2001,2,serie_b
+Chievo,Treviso,2-1,https://www.besoccer.com/match/chievo/treviso/20017516,2001,3,serie_b
+Siena,Ancona,4-1,https://www.besoccer.com/match/siena/ancona/20017511,2001,3,serie_b
+Empoli,Genoa,0-0,https://www.besoccer.com/match/empoli-fc/genoa/20017512,2001,3,serie_b
+Cosenza Calcio,Crotone,3-0,https://www.besoccer.com/match/fortitudo-cosenza/fc-crotone/20017513,2001,3,serie_b
+Cittadella,Ternana Calcio,3-1,https://www.besoccer.com/match/as-cittadella/ternana-calcio/20017514,2001,3,serie_b
+Cagliari,Pescara,2-1,https://www.besoccer.com/match/cagliari/pescara-calcio/20017515,2001,3,serie_b
+Ravenna FC,Piacenza,0-2,https://www.besoccer.com/match/ravenna-calcio/piacenza/20017510,2001,3,serie_b
+AC Monza,Salernitana,1-0,https://www.besoccer.com/match/ac-monza-brianza-1912/salernitana-calcio-1919/20017507,2001,3,serie_b
+Torino,Venezia,0-1,https://www.besoccer.com/match/torino-fc/venezia/20017508,2001,3,serie_b
+Sampdoria,Pistoiese,2-2,https://www.besoccer.com/match/sampdoria/pistoiese/20017509,2001,3,serie_b
+Ternana Calcio,Empoli,2-0,https://www.besoccer.com/match/ternana-calcio/empoli-fc/20017503,2001,4,serie_b
+Pistoiese,Cittadella,0-0,https://www.besoccer.com/match/pistoiese/as-cittadella/20017504,2001,4,serie_b
+Pescara,AC Monza,1-2,https://www.besoccer.com/match/pescara-calcio/ac-monza-brianza-1912/20017505,2001,4,serie_b
+Crotone,Chievo,0-2,https://www.besoccer.com/match/fc-crotone/chievo/20017506,2001,4,serie_b
+Genoa,Ravenna FC,1-1,https://www.besoccer.com/match/genoa/ravenna-calcio/20017502,2001,4,serie_b
+Salernitana,Cagliari,2-1,https://www.besoccer.com/match/salernitana-calcio-1919/cagliari/20017501,2001,4,serie_b
+Venezia,Cosenza Calcio,2-2,https://www.besoccer.com/match/venezia/fortitudo-cosenza/20017499,2001,4,serie_b
+Piacenza,Siena,2-3,https://www.besoccer.com/match/piacenza/siena/20017497,2001,4,serie_b
+Ancona,Sampdoria,0-0,https://www.besoccer.com/match/ancona/sampdoria/20017498,2001,4,serie_b
+Treviso,Torino,1-1,https://www.besoccer.com/match/treviso/torino-fc/20017500,2001,4,serie_b
+Siena,Ternana Calcio,0-0,https://www.besoccer.com/match/siena/ternana-calcio/20017488,2001,5,serie_b
+Ravenna FC,Pistoiese,1-4,https://www.besoccer.com/match/ravenna-calcio/pistoiese/20017489,2001,5,serie_b
+Genoa,Salernitana,1-2,https://www.besoccer.com/match/genoa/salernitana-calcio-1919/20017490,2001,5,serie_b
+Empoli,Piacenza,1-0,https://www.besoccer.com/match/empoli-fc/piacenza/20017491,2001,5,serie_b
+Cosenza Calcio,AC Monza,1-0,https://www.besoccer.com/match/fortitudo-cosenza/ac-monza-brianza-1912/20017492,2001,5,serie_b
+Cittadella,Pescara,1-1,https://www.besoccer.com/match/as-cittadella/pescara-calcio/20017493,2001,5,serie_b
+Cagliari,Chievo,1-1,https://www.besoccer.com/match/cagliari/chievo/20017494,2001,5,serie_b
+Ancona,Venezia,0-0,https://www.besoccer.com/match/ancona/venezia/20017495,2001,5,serie_b
+Treviso,Crotone,3-2,https://www.besoccer.com/match/treviso/fc-crotone/20017496,2001,5,serie_b
+Torino,Sampdoria,1-0,https://www.besoccer.com/match/torino-fc/sampdoria/20017487,2001,5,serie_b
+Piacenza,Cagliari,0-0,https://www.besoccer.com/match/piacenza/cagliari/20017486,2001,6,serie_b
+Venezia,Crotone,1-1,https://www.besoccer.com/match/venezia/fc-crotone/20017478,2001,6,serie_b
+Sampdoria,Empoli,0-1,https://www.besoccer.com/match/sampdoria/empoli-fc/20017479,2001,6,serie_b
+Salernitana,Siena,3-0,https://www.besoccer.com/match/salernitana-calcio-1919/siena/20017480,2001,6,serie_b
+Pistoiese,Treviso,0-1,https://www.besoccer.com/match/pistoiese/treviso/20017481,2001,6,serie_b
+Pescara,Ravenna FC,1-1,https://www.besoccer.com/match/pescara-calcio/ravenna-calcio/20017482,2001,6,serie_b
+AC Monza,Torino,2-3,https://www.besoccer.com/match/ac-monza-brianza-1912/torino-fc/20017483,2001,6,serie_b
+Cosenza Calcio,Ancona,3-2,https://www.besoccer.com/match/fortitudo-cosenza/ancona/20017484,2001,6,serie_b
+Chievo,Cittadella,2-2,https://www.besoccer.com/match/chievo/as-cittadella/20017485,2001,6,serie_b
+Ternana Calcio,Genoa,1-0,https://www.besoccer.com/match/ternana-calcio/genoa/20017477,2001,6,serie_b
+Siena,Pescara,0-0,https://www.besoccer.com/match/siena/pescara-calcio/20017476,2001,7,serie_b
+Torino,Ternana Calcio,1-1,https://www.besoccer.com/match/torino-fc/ternana-calcio/20017468,2001,7,serie_b
+Ravenna FC,Chievo,0-0,https://www.besoccer.com/match/ravenna-calcio/chievo/20017469,2001,7,serie_b
+Genoa,Venezia,1-1,https://www.besoccer.com/match/genoa/venezia/20017470,2001,7,serie_b
+Empoli,Cosenza Calcio,0-1,https://www.besoccer.com/match/empoli-fc/fortitudo-cosenza/20017471,2001,7,serie_b
+Crotone,Piacenza,2-0,https://www.besoccer.com/match/fc-crotone/piacenza/20017472,2001,7,serie_b
+Cittadella,Sampdoria,2-2,https://www.besoccer.com/match/as-cittadella/sampdoria/20017473,2001,7,serie_b
+Cagliari,AC Monza,2-1,https://www.besoccer.com/match/cagliari/ac-monza-brianza-1912/20017474,2001,7,serie_b
+Ancona,Pistoiese,2-1,https://www.besoccer.com/match/ancona/pistoiese/20017475,2001,7,serie_b
+Treviso,Salernitana,1-0,https://www.besoccer.com/match/treviso/salernitana-calcio-1919/20017467,2001,7,serie_b
+Empoli,Ravenna FC,3-2,https://www.besoccer.com/match/empoli-fc/ravenna-calcio/20017466,2001,8,serie_b
+Venezia,Treviso,3-0,https://www.besoccer.com/match/venezia/treviso/20017457,2001,8,serie_b
+Ternana Calcio,Salernitana,0-0,https://www.besoccer.com/match/ternana-calcio/salernitana-calcio-1919/20017458,2001,8,serie_b
+Sampdoria,Cagliari,2-1,https://www.besoccer.com/match/sampdoria/cagliari/20017459,2001,8,serie_b
+Pistoiese,Crotone,0-4,https://www.besoccer.com/match/pistoiese/fc-crotone/20017460,2001,8,serie_b
+Piacenza,Torino,3-1,https://www.besoccer.com/match/piacenza/torino-fc/20017461,2001,8,serie_b
+Pescara,Genoa,1-1,https://www.besoccer.com/match/pescara-calcio/genoa/20017462,2001,8,serie_b
+AC Monza,Cittadella,1-0,https://www.besoccer.com/match/ac-monza-brianza-1912/as-cittadella/20017463,2001,8,serie_b
+Cosenza Calcio,Siena,3-1,https://www.besoccer.com/match/fortitudo-cosenza/siena/20017464,2001,8,serie_b
+Chievo,Ancona,1-0,https://www.besoccer.com/match/chievo/ancona/20017465,2001,8,serie_b
+Treviso,Ravenna FC,0-0,https://www.besoccer.com/match/treviso/ravenna-calcio/20017447,2001,9,serie_b
+Ternana Calcio,AC Monza,4-1,https://www.besoccer.com/match/ternana-calcio/ac-monza-brianza-1912/20017448,2001,9,serie_b
+Siena,Venezia,1-3,https://www.besoccer.com/match/siena/venezia/20017449,2001,9,serie_b
+Salernitana,Piacenza,3-0,https://www.besoccer.com/match/salernitana-calcio-1919/piacenza/20017450,2001,9,serie_b
+Pescara,Ancona,2-3,https://www.besoccer.com/match/pescara-calcio/ancona/20017451,2001,9,serie_b
+Genoa,Cosenza Calcio,2-1,https://www.besoccer.com/match/genoa/fortitudo-cosenza/20017452,2001,9,serie_b
+Crotone,Sampdoria,1-1,https://www.besoccer.com/match/fc-crotone/sampdoria/20017453,2001,9,serie_b
+Cittadella,Torino,2-1,https://www.besoccer.com/match/as-cittadella/torino-fc/20017454,2001,9,serie_b
+Chievo,Empoli,1-0,https://www.besoccer.com/match/chievo/empoli-fc/20017455,2001,9,serie_b
+Cagliari,Pistoiese,0-0,https://www.besoccer.com/match/cagliari/pistoiese/20017456,2001,9,serie_b
+Ancona,Salernitana,4-1,https://www.besoccer.com/match/ancona/salernitana-calcio-1919/20017438,2001,10,serie_b
+Venezia,Pescara,1-1,https://www.besoccer.com/match/venezia/pescara-calcio/20017439,2001,10,serie_b
+Torino,Siena,1-1,https://www.besoccer.com/match/torino-fc/siena/20017440,2001,10,serie_b
+Ravenna FC,Cagliari,2-4,https://www.besoccer.com/match/ravenna-calcio/cagliari/20017441,2001,10,serie_b
+Pistoiese,Chievo,1-0,https://www.besoccer.com/match/pistoiese/chievo/20017442,2001,10,serie_b
+Piacenza,Ternana Calcio,3-0,https://www.besoccer.com/match/piacenza/ternana-calcio/20017443,2001,10,serie_b
+AC Monza,Crotone,0-1,https://www.besoccer.com/match/ac-monza-brianza-1912/fc-crotone/20017444,2001,10,serie_b
+Empoli,Treviso,2-1,https://www.besoccer.com/match/empoli-fc/treviso/20017445,2001,10,serie_b
+Cosenza Calcio,Cittadella,1-0,https://www.besoccer.com/match/fortitudo-cosenza/as-cittadella/20017446,2001,10,serie_b
+Sampdoria,Genoa,2-0,https://www.besoccer.com/match/sampdoria/genoa/20017437,2001,10,serie_b
+Salernitana,Venezia,0-1,https://www.besoccer.com/match/salernitana-calcio-1919/venezia/20017436,2001,11,serie_b
+Treviso,Sampdoria,0-2,https://www.besoccer.com/match/treviso/sampdoria/20017428,2001,11,serie_b
+Ternana Calcio,Pistoiese,3-2,https://www.besoccer.com/match/ternana-calcio/pistoiese/20017429,2001,11,serie_b
+Siena,Ravenna FC,5-1,https://www.besoccer.com/match/siena/ravenna-calcio/20017430,2001,11,serie_b
+Pescara,Piacenza,0-0,https://www.besoccer.com/match/pescara-calcio/piacenza/20017431,2001,11,serie_b
+Genoa,AC Monza,3-1,https://www.besoccer.com/match/genoa/ac-monza-brianza-1912/20017432,2001,11,serie_b
+Crotone,Ancona,1-0,https://www.besoccer.com/match/fc-crotone/ancona/20017433,2001,11,serie_b
+Cittadella,Empoli,2-2,https://www.besoccer.com/match/as-cittadella/empoli-fc/20017434,2001,11,serie_b
+Chievo,Torino,4-2,https://www.besoccer.com/match/chievo/torino-fc/20017435,2001,11,serie_b
+Cagliari,Cosenza Calcio,1-1,https://www.besoccer.com/match/cagliari/fortitudo-cosenza/20017427,2001,11,serie_b
+Empoli,Siena,2-0,https://www.besoccer.com/match/empoli-fc/siena/20017426,2001,12,serie_b
+Ancona,Genoa,1-0,https://www.besoccer.com/match/ancona/genoa/20017418,2001,12,serie_b
+Venezia,Cagliari,2-2,https://www.besoccer.com/match/venezia/cagliari/20017419,2001,12,serie_b
+Torino,Crotone,1-0,https://www.besoccer.com/match/torino-fc/fc-crotone/20017420,2001,12,serie_b
+Sampdoria,Chievo,1-1,https://www.besoccer.com/match/sampdoria/chievo/20017421,2001,12,serie_b
+Ravenna FC,Ternana Calcio,2-2,https://www.besoccer.com/match/ravenna-calcio/ternana-calcio/20017422,2001,12,serie_b
+Pistoiese,Pescara,1-0,https://www.besoccer.com/match/pistoiese/pescara-calcio/20017423,2001,12,serie_b
+Cosenza Calcio,Salernitana,1-0,https://www.besoccer.com/match/fortitudo-cosenza/salernitana-calcio-1919/20017424,2001,12,serie_b
+Cittadella,Treviso,2-2,https://www.besoccer.com/match/as-cittadella/treviso/20017425,2001,12,serie_b
+AC Monza,Piacenza,1-1,https://www.besoccer.com/match/ac-monza-brianza-1912/piacenza/20017417,2001,12,serie_b
+Genoa,Torino,2-1,https://www.besoccer.com/match/genoa/torino-fc/20017416,2001,13,serie_b
+Chievo,Pescara,0-2,https://www.besoccer.com/match/chievo/pescara-calcio/20017409,2001,13,serie_b
+Cagliari,Cittadella,3-0,https://www.besoccer.com/match/cagliari/as-cittadella/20017410,2001,13,serie_b
+Treviso,Cosenza Calcio,1-1,https://www.besoccer.com/match/treviso/fortitudo-cosenza/20017411,2001,13,serie_b
+Ternana Calcio,Venezia,3-1,https://www.besoccer.com/match/ternana-calcio/venezia/20017412,2001,13,serie_b
+Siena,AC Monza,3-1,https://www.besoccer.com/match/siena/ac-monza-brianza-1912/20017413,2001,13,serie_b
+Piacenza,Ancona,1-1,https://www.besoccer.com/match/piacenza/ancona/20017414,2001,13,serie_b
+Crotone,Empoli,3-1,https://www.besoccer.com/match/fc-crotone/empoli-fc/20017415,2001,13,serie_b
+Ravenna FC,Sampdoria,0-0,https://www.besoccer.com/match/ravenna-calcio/sampdoria/20017408,2001,13,serie_b
+Salernitana,Pistoiese,1-0,https://www.besoccer.com/match/salernitana-calcio-1919/pistoiese/20017407,2001,13,serie_b
+Pescara,Salernitana,2-2,https://www.besoccer.com/match/pescara-calcio/salernitana-calcio-1919/20017406,2001,14,serie_b
+Empoli,Cagliari,0-3,https://www.besoccer.com/match/empoli-fc/cagliari/20017398,2001,14,serie_b
+Cittadella,Crotone,2-0,https://www.besoccer.com/match/as-cittadella/fc-crotone/20017399,2001,14,serie_b
+Ancona,Ternana Calcio,3-1,https://www.besoccer.com/match/ancona/ternana-calcio/20017400,2001,14,serie_b
+Venezia,Piacenza,1-0,https://www.besoccer.com/match/venezia/piacenza/20017401,2001,14,serie_b
+Torino,Ravenna FC,2-1,https://www.besoccer.com/match/torino-fc/ravenna-calcio/20017402,2001,14,serie_b
+Sampdoria,Siena,1-1,https://www.besoccer.com/match/sampdoria/siena/20017403,2001,14,serie_b
+Pistoiese,Genoa,3-3,https://www.besoccer.com/match/pistoiese/genoa/20017404,2001,14,serie_b
+AC Monza,Treviso,1-1,https://www.besoccer.com/match/ac-monza-brianza-1912/treviso/20017405,2001,14,serie_b
+Cosenza Calcio,Chievo,1-2,https://www.besoccer.com/match/fortitudo-cosenza/chievo/20017397,2001,14,serie_b
+Cagliari,Torino,0-1,https://www.besoccer.com/match/cagliari/torino-fc/20017396,2001,15,serie_b
+Pistoiese,Venezia,1-2,https://www.besoccer.com/match/pistoiese/venezia/20017388,2001,15,serie_b
+Piacenza,Genoa,2-1,https://www.besoccer.com/match/piacenza/genoa/20017389,2001,15,serie_b
+Crotone,Siena,2-2,https://www.besoccer.com/match/fc-crotone/siena/20017390,2001,15,serie_b
+Chievo,AC Monza,5-1,https://www.besoccer.com/match/chievo/ac-monza-brianza-1912/20017391,2001,15,serie_b
+Treviso,Ancona,0-0,https://www.besoccer.com/match/treviso/ancona/20017392,2001,15,serie_b
+Ternana Calcio,Pescara,3-0,https://www.besoccer.com/match/ternana-calcio/pescara-calcio/20017393,2001,15,serie_b
+Salernitana,Empoli,0-0,https://www.besoccer.com/match/salernitana-calcio-1919/empoli-fc/20017394,2001,15,serie_b
+Ravenna FC,Cittadella,0-0,https://www.besoccer.com/match/ravenna-calcio/as-cittadella/20017395,2001,15,serie_b
+Sampdoria,Cosenza Calcio,1-0,https://www.besoccer.com/match/sampdoria/fortitudo-cosenza/20017387,2001,15,serie_b
+Piacenza,Chievo,1-0,https://www.besoccer.com/match/piacenza/chievo/20017386,2001,16,serie_b
+AC Monza,Ravenna FC,0-1,https://www.besoccer.com/match/ac-monza-brianza-1912/ravenna-calcio/20017378,2001,16,serie_b
+Genoa,Cittadella,3-1,https://www.besoccer.com/match/genoa/as-cittadella/20017379,2001,16,serie_b
+Cosenza Calcio,Ternana Calcio,0-0,https://www.besoccer.com/match/fortitudo-cosenza/ternana-calcio/20017380,2001,16,serie_b
+Ancona,Cagliari,1-1,https://www.besoccer.com/match/ancona/cagliari/20017381,2001,16,serie_b
+Torino,Empoli,1-0,https://www.besoccer.com/match/torino-fc/empoli-fc/20017382,2001,16,serie_b
+Siena,Pistoiese,1-0,https://www.besoccer.com/match/siena/pistoiese/20017383,2001,16,serie_b
+Salernitana,Crotone,0-1,https://www.besoccer.com/match/salernitana-calcio-1919/fc-crotone/20017384,2001,16,serie_b
+Pescara,Treviso,0-3,https://www.besoccer.com/match/pescara-calcio/treviso/20017385,2001,16,serie_b
+Venezia,Sampdoria,2-2,https://www.besoccer.com/match/venezia/sampdoria/20017377,2001,16,serie_b
+Empoli,AC Monza,4-2,https://www.besoccer.com/match/empoli-fc/ac-monza-brianza-1912/20017367,2001,17,serie_b
+Crotone,Genoa,0-0,https://www.besoccer.com/match/fc-crotone/genoa/20017368,2001,17,serie_b
+Cittadella,Salernitana,1-1,https://www.besoccer.com/match/as-cittadella/salernitana-calcio-1919/20017369,2001,17,serie_b
+Chievo,Venezia,2-1,https://www.besoccer.com/match/chievo/venezia/20017370,2001,17,serie_b
+Cagliari,Siena,0-0,https://www.besoccer.com/match/cagliari/siena/20017371,2001,17,serie_b
+Treviso,Ternana Calcio,1-1,https://www.besoccer.com/match/treviso/ternana-calcio/20017372,2001,17,serie_b
+Torino,Pescara,1-0,https://www.besoccer.com/match/torino-fc/pescara-calcio/20017373,2001,17,serie_b
+Sampdoria,Piacenza,0-1,https://www.besoccer.com/match/sampdoria/piacenza/20017374,2001,17,serie_b
+Ravenna FC,Ancona,1-0,https://www.besoccer.com/match/ravenna-calcio/ancona/20017375,2001,17,serie_b
+Pistoiese,Cosenza Calcio,1-1,https://www.besoccer.com/match/pistoiese/fortitudo-cosenza/20017376,2001,17,serie_b
+Ternana Calcio,Cagliari,1-0,https://www.besoccer.com/match/ternana-calcio/cagliari/20017366,2001,18,serie_b
+Piacenza,Pistoiese,1-0,https://www.besoccer.com/match/piacenza/pistoiese/20017358,2001,18,serie_b
+Pescara,Crotone,1-2,https://www.besoccer.com/match/pescara-calcio/fc-crotone/20017359,2001,18,serie_b
+AC Monza,Sampdoria,0-4,https://www.besoccer.com/match/ac-monza-brianza-1912/sampdoria/20017360,2001,18,serie_b
+Genoa,Treviso,0-0,https://www.besoccer.com/match/genoa/treviso/20017361,2001,18,serie_b
+Cosenza Calcio,Torino,0-2,https://www.besoccer.com/match/fortitudo-cosenza/torino-fc/20017362,2001,18,serie_b
+Venezia,Ravenna FC,0-0,https://www.besoccer.com/match/venezia/ravenna-calcio/20017363,2001,18,serie_b
+Siena,Cittadella,1-1,https://www.besoccer.com/match/siena/as-cittadella/20017364,2001,18,serie_b
+Salernitana,Chievo,1-1,https://www.besoccer.com/match/salernitana-calcio-1919/chievo/20017365,2001,18,serie_b
+Ancona,Empoli,1-0,https://www.besoccer.com/match/ancona/empoli-fc/20017357,2001,18,serie_b
+Torino,Salernitana,2-0,https://www.besoccer.com/match/torino-fc/salernitana-calcio-1919/20017356,2001,19,serie_b
+Ravenna FC,Cosenza Calcio,0-1,https://www.besoccer.com/match/ravenna-calcio/fortitudo-cosenza/20017348,2001,19,serie_b
+Pistoiese,AC Monza,3-1,https://www.besoccer.com/match/pistoiese/ac-monza-brianza-1912/20017349,2001,19,serie_b
+Empoli,Venezia,2-3,https://www.besoccer.com/match/empoli-fc/venezia/20017350,2001,19,serie_b
+Cittadella,Ancona,2-0,https://www.besoccer.com/match/as-cittadella/ancona/20017351,2001,19,serie_b
+Chievo,Siena,2-1,https://www.besoccer.com/match/chievo/siena/20017352,2001,19,serie_b
+Cagliari,Genoa,3-0,https://www.besoccer.com/match/cagliari/genoa/20017353,2001,19,serie_b
+Treviso,Piacenza,0-3,https://www.besoccer.com/match/treviso/piacenza/20017354,2001,19,serie_b
+Sampdoria,Pescara,1-1,https://www.besoccer.com/match/sampdoria/pescara-calcio/20017355,2001,19,serie_b
+Crotone,Ternana Calcio,0-2,https://www.besoccer.com/match/fc-crotone/ternana-calcio/20017347,2001,19,serie_b
+Genoa,Chievo,0-1,https://www.besoccer.com/match/genoa/chievo/20017346,2001,20,serie_b
+Ternana Calcio,Sampdoria,1-1,https://www.besoccer.com/match/ternana-calcio/sampdoria/20017338,2001,20,serie_b
+Salernitana,Ravenna FC,1-0,https://www.besoccer.com/match/salernitana-calcio-1919/ravenna-calcio/20017339,2001,20,serie_b
+Venezia,AC Monza,4-1,https://www.besoccer.com/match/venezia/ac-monza-brianza-1912/20017340,2001,20,serie_b
+Pescara,Cosenza Calcio,0-0,https://www.besoccer.com/match/pescara-calcio/fortitudo-cosenza/20017341,2001,20,serie_b
+Piacenza,Cittadella,3-0,https://www.besoccer.com/match/piacenza/as-cittadella/20017342,2001,20,serie_b
+Crotone,Cagliari,2-1,https://www.besoccer.com/match/fc-crotone/cagliari/20017343,2001,20,serie_b
+Ancona,Torino,1-2,https://www.besoccer.com/match/ancona/torino-fc/20017344,2001,20,serie_b
+Treviso,Siena,1-0,https://www.besoccer.com/match/treviso/siena/20017345,2001,20,serie_b
+Pistoiese,Empoli,1-2,https://www.besoccer.com/match/pistoiese/empoli-fc/20017337,2001,20,serie_b
+Cosenza Calcio,Piacenza,2-1,https://www.besoccer.com/match/fortitudo-cosenza/piacenza/20017336,2001,21,serie_b
+Cagliari,Treviso,3-2,https://www.besoccer.com/match/cagliari/treviso/20017328,2001,21,serie_b
+Chievo,Ternana Calcio,2-1,https://www.besoccer.com/match/chievo/ternana-calcio/20017329,2001,21,serie_b
+Torino,Pistoiese,2-0,https://www.besoccer.com/match/torino-fc/pistoiese/20017330,2001,21,serie_b
+Empoli,Pescara,2-1,https://www.besoccer.com/match/empoli-fc/pescara-calcio/20017331,2001,21,serie_b
+Siena,Genoa,1-0,https://www.besoccer.com/match/siena/genoa/20017332,2001,21,serie_b
+Ravenna FC,Crotone,1-2,https://www.besoccer.com/match/ravenna-calcio/fc-crotone/20017333,2001,21,serie_b
+AC Monza,Ancona,1-1,https://www.besoccer.com/match/ac-monza-brianza-1912/ancona/20017334,2001,21,serie_b
+Cittadella,Venezia,2-1,https://www.besoccer.com/match/as-cittadella/venezia/20017335,2001,21,serie_b
+Sampdoria,Salernitana,2-0,https://www.besoccer.com/match/sampdoria/salernitana-calcio-1919/20017327,2001,21,serie_b
+Pescara,Cagliari,0-0,https://www.besoccer.com/match/pescara-calcio/cagliari/20017326,2001,22,serie_b
+Ancona,Siena,2-1,https://www.besoccer.com/match/ancona/siena/20017318,2001,22,serie_b
+Pistoiese,Sampdoria,3-1,https://www.besoccer.com/match/pistoiese/sampdoria/20017319,2001,22,serie_b
+Piacenza,Ravenna FC,1-0,https://www.besoccer.com/match/piacenza/ravenna-calcio/20017320,2001,22,serie_b
+Salernitana,AC Monza,2-0,https://www.besoccer.com/match/salernitana-calcio-1919/ac-monza-brianza-1912/20017321,2001,22,serie_b
+Genoa,Empoli,1-2,https://www.besoccer.com/match/genoa/empoli-fc/20017322,2001,22,serie_b
+Crotone,Cosenza Calcio,1-2,https://www.besoccer.com/match/fc-crotone/fortitudo-cosenza/20017323,2001,22,serie_b
+Ternana Calcio,Cittadella,4-1,https://www.besoccer.com/match/ternana-calcio/as-cittadella/20017324,2001,22,serie_b
+Treviso,Chievo,0-2,https://www.besoccer.com/match/treviso/chievo/20017325,2001,22,serie_b
+Venezia,Torino,1-0,https://www.besoccer.com/match/venezia/torino-fc/20017317,2001,22,serie_b
+AC Monza,Pescara,1-0,https://www.besoccer.com/match/ac-monza-brianza-1912/pescara-calcio/20017316,2001,23,serie_b
+Cosenza Calcio,Venezia,1-0,https://www.besoccer.com/match/fortitudo-cosenza/venezia/20017308,2001,23,serie_b
+Torino,Treviso,1-0,https://www.besoccer.com/match/torino-fc/treviso/20017309,2001,23,serie_b
+Cagliari,Salernitana,1-1,https://www.besoccer.com/match/cagliari/salernitana-calcio-1919/20017310,2001,23,serie_b
+Cittadella,Pistoiese,2-1,https://www.besoccer.com/match/as-cittadella/pistoiese/20017311,2001,23,serie_b
+Siena,Piacenza,0-0,https://www.besoccer.com/match/siena/piacenza/20017312,2001,23,serie_b
+Ravenna FC,Genoa,1-1,https://www.besoccer.com/match/ravenna-calcio/genoa/20017313,2001,23,serie_b
+Chievo,Crotone,3-1,https://www.besoccer.com/match/chievo/fc-crotone/20017314,2001,23,serie_b
+Sampdoria,Ancona,3-1,https://www.besoccer.com/match/sampdoria/ancona/20017315,2001,23,serie_b
+Empoli,Ternana Calcio,0-0,https://www.besoccer.com/match/empoli-fc/ternana-calcio/20017307,2001,23,serie_b
+Venezia,Ancona,2-1,https://www.besoccer.com/match/venezia/ancona/20017306,2001,24,serie_b
+Crotone,Treviso,4-3,https://www.besoccer.com/match/fc-crotone/treviso/20017298,2001,24,serie_b
+Sampdoria,Torino,2-0,https://www.besoccer.com/match/sampdoria/torino-fc/20017299,2001,24,serie_b
+Ternana Calcio,Siena,4-0,https://www.besoccer.com/match/ternana-calcio/siena/20017300,2001,24,serie_b
+Pistoiese,Ravenna FC,2-2,https://www.besoccer.com/match/pistoiese/ravenna-calcio/20017301,2001,24,serie_b
+Piacenza,Empoli,2-0,https://www.besoccer.com/match/piacenza/empoli-fc/20017302,2001,24,serie_b
+AC Monza,Cosenza Calcio,4-2,https://www.besoccer.com/match/ac-monza-brianza-1912/fortitudo-cosenza/20017303,2001,24,serie_b
+Pescara,Cittadella,2-0,https://www.besoccer.com/match/pescara-calcio/as-cittadella/20017304,2001,24,serie_b
+Chievo,Cagliari,2-1,https://www.besoccer.com/match/chievo/cagliari/20017305,2001,24,serie_b
+Salernitana,Genoa,0-1,https://www.besoccer.com/match/salernitana-calcio-1919/genoa/20017297,2001,24,serie_b
+Empoli,Sampdoria,0-0,https://www.besoccer.com/match/empoli-fc/sampdoria/20017296,2001,25,serie_b
+Crotone,Venezia,2-2,https://www.besoccer.com/match/fc-crotone/venezia/20017288,2001,25,serie_b
+Genoa,Ternana Calcio,2-2,https://www.besoccer.com/match/genoa/ternana-calcio/20017289,2001,25,serie_b
+Siena,Salernitana,0-0,https://www.besoccer.com/match/siena/salernitana-calcio-1919/20017290,2001,25,serie_b
+Treviso,Pistoiese,1-2,https://www.besoccer.com/match/treviso/pistoiese/20017291,2001,25,serie_b
+Cagliari,Piacenza,0-0,https://www.besoccer.com/match/cagliari/piacenza/20017292,2001,25,serie_b
+Ravenna FC,Pescara,2-3,https://www.besoccer.com/match/ravenna-calcio/pescara-calcio/20017293,2001,25,serie_b
+Torino,AC Monza,2-1,https://www.besoccer.com/match/torino-fc/ac-monza-brianza-1912/20017294,2001,25,serie_b
+Ancona,Cosenza Calcio,3-1,https://www.besoccer.com/match/ancona/fortitudo-cosenza/20017295,2001,25,serie_b
+Cittadella,Chievo,0-0,https://www.besoccer.com/match/as-cittadella/chievo/20017287,2001,25,serie_b
+Piacenza,Crotone,1-2,https://www.besoccer.com/match/piacenza/fc-crotone/20017286,2001,26,serie_b
+Salernitana,Treviso,0-1,https://www.besoccer.com/match/salernitana-calcio-1919/treviso/20017278,2001,26,serie_b
+Pescara,Siena,0-0,https://www.besoccer.com/match/pescara-calcio/siena/20017279,2001,26,serie_b
+Chievo,Ravenna FC,0-0,https://www.besoccer.com/match/chievo/ravenna-calcio/20017280,2001,26,serie_b
+Venezia,Genoa,1-1,https://www.besoccer.com/match/venezia/genoa/20017281,2001,26,serie_b
+Cosenza Calcio,Empoli,1-1,https://www.besoccer.com/match/fortitudo-cosenza/empoli-fc/20017282,2001,26,serie_b
+Sampdoria,Cittadella,2-0,https://www.besoccer.com/match/sampdoria/as-cittadella/20017283,2001,26,serie_b
+AC Monza,Cagliari,1-0,https://www.besoccer.com/match/ac-monza-brianza-1912/cagliari/20017284,2001,26,serie_b
+Pistoiese,Ancona,1-1,https://www.besoccer.com/match/pistoiese/ancona/20017285,2001,26,serie_b
+Ternana Calcio,Torino,0-1,https://www.besoccer.com/match/ternana-calcio/torino-fc/20017277,2001,26,serie_b
+Treviso,Venezia,0-1,https://www.besoccer.com/match/treviso/venezia/20017276,2001,27,serie_b
+Salernitana,Ternana Calcio,0-0,https://www.besoccer.com/match/salernitana-calcio-1919/ternana-calcio/20017268,2001,27,serie_b
+Cagliari,Sampdoria,1-1,https://www.besoccer.com/match/cagliari/sampdoria/20017269,2001,27,serie_b
+Crotone,Pistoiese,1-0,https://www.besoccer.com/match/fc-crotone/pistoiese/20017270,2001,27,serie_b
+Torino,Piacenza,1-0,https://www.besoccer.com/match/torino-fc/piacenza/20017271,2001,27,serie_b
+Genoa,Pescara,0-0,https://www.besoccer.com/match/genoa/pescara-calcio/20017272,2001,27,serie_b
+Cittadella,AC Monza,0-1,https://www.besoccer.com/match/as-cittadella/ac-monza-brianza-1912/20017273,2001,27,serie_b
+Ravenna FC,Empoli,0-2,https://www.besoccer.com/match/ravenna-calcio/empoli-fc/20017274,2001,27,serie_b
+Ancona,Chievo,5-2,https://www.besoccer.com/match/ancona/chievo/20017275,2001,27,serie_b
+Siena,Cosenza Calcio,1-0,https://www.besoccer.com/match/siena/fortitudo-cosenza/20017267,2001,27,serie_b
+AC Monza,Ternana Calcio,1-1,https://www.besoccer.com/match/ac-monza-brianza-1912/ternana-calcio/20017266,2001,28,serie_b
+Pistoiese,Cagliari,4-2,https://www.besoccer.com/match/pistoiese/cagliari/20017258,2001,28,serie_b
+Ravenna FC,Treviso,1-1,https://www.besoccer.com/match/ravenna-calcio/treviso/20017259,2001,28,serie_b
+Venezia,Siena,3-0,https://www.besoccer.com/match/venezia/siena/20017260,2001,28,serie_b
+Piacenza,Salernitana,3-1,https://www.besoccer.com/match/piacenza/salernitana-calcio-1919/20017261,2001,28,serie_b
+Ancona,Pescara,3-2,https://www.besoccer.com/match/ancona/pescara-calcio/20017262,2001,28,serie_b
+Cosenza Calcio,Genoa,1-0,https://www.besoccer.com/match/fortitudo-cosenza/genoa/20017263,2001,28,serie_b
+Sampdoria,Crotone,2-1,https://www.besoccer.com/match/sampdoria/fc-crotone/20017264,2001,28,serie_b
+Torino,Cittadella,2-2,https://www.besoccer.com/match/torino-fc/as-cittadella/20017265,2001,28,serie_b
+Empoli,Chievo,1-1,https://www.besoccer.com/match/empoli-fc/chievo/20017257,2001,28,serie_b
+Cittadella,Cosenza Calcio,0-1,https://www.besoccer.com/match/as-cittadella/fortitudo-cosenza/20017256,2001,29,serie_b
+Crotone,AC Monza,2-1,https://www.besoccer.com/match/fc-crotone/ac-monza-brianza-1912/20017249,2001,29,serie_b
+Salernitana,Ancona,4-2,https://www.besoccer.com/match/salernitana-calcio-1919/ancona/20017250,2001,29,serie_b
+Pescara,Venezia,2-3,https://www.besoccer.com/match/pescara-calcio/venezia/20017251,2001,29,serie_b
+Siena,Torino,0-2,https://www.besoccer.com/match/siena/torino-fc/20017252,2001,29,serie_b
+Cagliari,Ravenna FC,2-0,https://www.besoccer.com/match/cagliari/ravenna-calcio/20017253,2001,29,serie_b
+Chievo,Pistoiese,1-1,https://www.besoccer.com/match/chievo/pistoiese/20017254,2001,29,serie_b
+Ternana Calcio,Piacenza,0-1,https://www.besoccer.com/match/ternana-calcio/piacenza/20017255,2001,29,serie_b
+Genoa,Sampdoria,2-0,https://www.besoccer.com/match/genoa/sampdoria/20017248,2001,29,serie_b
+Treviso,Empoli,1-1,https://www.besoccer.com/match/treviso/empoli-fc/20017247,2001,29,serie_b
+Torino,Chievo,0-0,https://www.besoccer.com/match/torino-fc/chievo/20017246,2001,30,serie_b
+Ancona,Crotone,2-0,https://www.besoccer.com/match/ancona/fc-crotone/20017238,2001,30,serie_b
+Empoli,Cittadella,2-0,https://www.besoccer.com/match/empoli-fc/as-cittadella/20017239,2001,30,serie_b
+Cosenza Calcio,Cagliari,1-3,https://www.besoccer.com/match/fortitudo-cosenza/cagliari/20017240,2001,30,serie_b
+Sampdoria,Treviso,2-0,https://www.besoccer.com/match/sampdoria/treviso/20017241,2001,30,serie_b
+Pistoiese,Ternana Calcio,2-3,https://www.besoccer.com/match/pistoiese/ternana-calcio/20017242,2001,30,serie_b
+Ravenna FC,Siena,2-1,https://www.besoccer.com/match/ravenna-calcio/siena/20017243,2001,30,serie_b
+Venezia,Salernitana,2-0,https://www.besoccer.com/match/venezia/salernitana-calcio-1919/20017244,2001,30,serie_b
+AC Monza,Genoa,1-5,https://www.besoccer.com/match/ac-monza-brianza-1912/genoa/20017245,2001,30,serie_b
+Piacenza,Pescara,2-1,https://www.besoccer.com/match/piacenza/pescara-calcio/20017237,2001,30,serie_b
+Piacenza,AC Monza,1-0,https://www.besoccer.com/match/piacenza/ac-monza-brianza-1912/20017227,2001,31,serie_b
+Siena,Empoli,1-1,https://www.besoccer.com/match/siena/empoli-fc/20017228,2001,31,serie_b
+Salernitana,Cosenza Calcio,0-1,https://www.besoccer.com/match/salernitana-calcio-1919/fortitudo-cosenza/20017229,2001,31,serie_b
+Treviso,Cittadella,1-2,https://www.besoccer.com/match/treviso/as-cittadella/20017230,2001,31,serie_b
+Genoa,Ancona,3-1,https://www.besoccer.com/match/genoa/ancona/20017231,2001,31,serie_b
+Cagliari,Venezia,2-1,https://www.besoccer.com/match/cagliari/venezia/20017232,2001,31,serie_b
+Crotone,Torino,0-1,https://www.besoccer.com/match/fc-crotone/torino-fc/20017233,2001,31,serie_b
+Chievo,Sampdoria,1-1,https://www.besoccer.com/match/chievo/sampdoria/20017234,2001,31,serie_b
+Ternana Calcio,Ravenna FC,4-0,https://www.besoccer.com/match/ternana-calcio/ravenna-calcio/20017235,2001,31,serie_b
+Pescara,Pistoiese,0-1,https://www.besoccer.com/match/pescara-calcio/pistoiese/20017236,2001,31,serie_b
+Empoli,Crotone,4-2,https://www.besoccer.com/match/empoli-fc/fc-crotone/20017226,2001,32,serie_b
+Sampdoria,Ravenna FC,2-0,https://www.besoccer.com/match/sampdoria/ravenna-calcio/20017218,2001,32,serie_b
+Ancona,Piacenza,0-2,https://www.besoccer.com/match/ancona/piacenza/20017219,2001,32,serie_b
+Torino,Genoa,1-1,https://www.besoccer.com/match/torino-fc/genoa/20017220,2001,32,serie_b
+Pescara,Chievo,0-2,https://www.besoccer.com/match/pescara-calcio/chievo/20017221,2001,32,serie_b
+Cittadella,Cagliari,2-0,https://www.besoccer.com/match/as-cittadella/cagliari/20017222,2001,32,serie_b
+Cosenza Calcio,Treviso,3-2,https://www.besoccer.com/match/fortitudo-cosenza/treviso/20017223,2001,32,serie_b
+AC Monza,Siena,1-2,https://www.besoccer.com/match/ac-monza-brianza-1912/siena/20017224,2001,32,serie_b
+Pistoiese,Salernitana,1-1,https://www.besoccer.com/match/pistoiese/salernitana-calcio-1919/20017225,2001,32,serie_b
+Venezia,Ternana Calcio,2-1,https://www.besoccer.com/match/venezia/ternana-calcio/20017217,2001,32,serie_b
+Cagliari,Empoli,2-3,https://www.besoccer.com/match/cagliari/empoli-fc/20017216,2001,33,serie_b
+Salernitana,Pescara,3-1,https://www.besoccer.com/match/salernitana-calcio-1919/pescara-calcio/20017208,2001,33,serie_b
+Treviso,AC Monza,3-0,https://www.besoccer.com/match/treviso/ac-monza-brianza-1912/20017209,2001,33,serie_b
+Chievo,Cosenza Calcio,2-1,https://www.besoccer.com/match/chievo/fortitudo-cosenza/20017210,2001,33,serie_b
+Crotone,Cittadella,2-2,https://www.besoccer.com/match/fc-crotone/as-cittadella/20017211,2001,33,serie_b
+Ternana Calcio,Ancona,3-2,https://www.besoccer.com/match/ternana-calcio/ancona/20017212,2001,33,serie_b
+Piacenza,Venezia,1-0,https://www.besoccer.com/match/piacenza/venezia/20017213,2001,33,serie_b
+Ravenna FC,Torino,1-2,https://www.besoccer.com/match/ravenna-calcio/torino-fc/20017214,2001,33,serie_b
+Genoa,Pistoiese,0-0,https://www.besoccer.com/match/genoa/pistoiese/20017215,2001,33,serie_b
+Siena,Sampdoria,0-0,https://www.besoccer.com/match/siena/sampdoria/20017207,2001,33,serie_b
+Torino,Cagliari,2-0,https://www.besoccer.com/match/torino-fc/cagliari/20017206,2001,34,serie_b
+Cittadella,Ravenna FC,1-0,https://www.besoccer.com/match/as-cittadella/ravenna-calcio/20017197,2001,34,serie_b
+Venezia,Pistoiese,1-0,https://www.besoccer.com/match/venezia/pistoiese/20017198,2001,34,serie_b
+Genoa,Piacenza,1-1,https://www.besoccer.com/match/genoa/piacenza/20017199,2001,34,serie_b
+Siena,Crotone,1-1,https://www.besoccer.com/match/siena/fc-crotone/20017200,2001,34,serie_b
+AC Monza,Chievo,1-3,https://www.besoccer.com/match/ac-monza-brianza-1912/chievo/20017201,2001,34,serie_b
+Ancona,Treviso,3-1,https://www.besoccer.com/match/ancona/treviso/20017202,2001,34,serie_b
+Pescara,Ternana Calcio,1-3,https://www.besoccer.com/match/pescara-calcio/ternana-calcio/20017203,2001,34,serie_b
+Cosenza Calcio,Sampdoria,4-4,https://www.besoccer.com/match/fortitudo-cosenza/sampdoria/20017204,2001,34,serie_b
+Empoli,Salernitana,2-1,https://www.besoccer.com/match/empoli-fc/salernitana-calcio-1919/20017205,2001,34,serie_b
+Crotone,Salernitana,0-1,https://www.besoccer.com/match/fc-crotone/salernitana-calcio-1919/20017187,2001,35,serie_b
+Chievo,Piacenza,1-1,https://www.besoccer.com/match/chievo/piacenza/20017188,2001,35,serie_b
+Treviso,Pescara,1-0,https://www.besoccer.com/match/treviso/pescara-calcio/20017189,2001,35,serie_b
+Ravenna FC,AC Monza,2-3,https://www.besoccer.com/match/ravenna-calcio/ac-monza-brianza-1912/20017190,2001,35,serie_b
+Cittadella,Genoa,1-1,https://www.besoccer.com/match/as-cittadella/genoa/20017191,2001,35,serie_b
+Ternana Calcio,Cosenza Calcio,1-1,https://www.besoccer.com/match/ternana-calcio/fortitudo-cosenza/20017192,2001,35,serie_b
+Cagliari,Ancona,2-2,https://www.besoccer.com/match/cagliari/ancona/20017193,2001,35,serie_b
+Sampdoria,Venezia,4-1,https://www.besoccer.com/match/sampdoria/venezia/20017194,2001,35,serie_b
+Empoli,Torino,2-1,https://www.besoccer.com/match/empoli-fc/torino-fc/20017195,2001,35,serie_b
+Pistoiese,Siena,0-1,https://www.besoccer.com/match/pistoiese/siena/20017196,2001,35,serie_b
+Ancona,Ravenna FC,2-5,https://www.besoccer.com/match/ancona/ravenna-calcio/20017177,2001,36,serie_b
+Cosenza Calcio,Pistoiese,1-3,https://www.besoccer.com/match/fortitudo-cosenza/pistoiese/20017178,2001,36,serie_b
+AC Monza,Empoli,0-1,https://www.besoccer.com/match/ac-monza-brianza-1912/empoli-fc/20017179,2001,36,serie_b
+Genoa,Crotone,2-0,https://www.besoccer.com/match/genoa/fc-crotone/20017180,2001,36,serie_b
+Salernitana,Cittadella,3-0,https://www.besoccer.com/match/salernitana-calcio-1919/as-cittadella/20017181,2001,36,serie_b
+Venezia,Chievo,2-1,https://www.besoccer.com/match/venezia/chievo/20017182,2001,36,serie_b
+Siena,Cagliari,1-1,https://www.besoccer.com/match/siena/cagliari/20017183,2001,36,serie_b
+Ternana Calcio,Treviso,3-1,https://www.besoccer.com/match/ternana-calcio/treviso/20017184,2001,36,serie_b
+Pescara,Torino,0-1,https://www.besoccer.com/match/pescara-calcio/torino-fc/20017185,2001,36,serie_b
+Piacenza,Sampdoria,2-1,https://www.besoccer.com/match/piacenza/sampdoria/20017186,2001,36,serie_b
+Cagliari,Ternana Calcio,1-1,https://www.besoccer.com/match/cagliari/ternana-calcio/20017168,2001,37,serie_b
+Chievo,Salernitana,2-0,https://www.besoccer.com/match/chievo/salernitana-calcio-1919/20017169,2001,37,serie_b
+Pistoiese,Piacenza,1-1,https://www.besoccer.com/match/pistoiese/piacenza/20017170,2001,37,serie_b
+Crotone,Pescara,2-0,https://www.besoccer.com/match/fc-crotone/pescara-calcio/20017171,2001,37,serie_b
+Sampdoria,AC Monza,4-2,https://www.besoccer.com/match/sampdoria/ac-monza-brianza-1912/20017172,2001,37,serie_b
+Treviso,Genoa,2-2,https://www.besoccer.com/match/treviso/genoa/20017173,2001,37,serie_b
+Torino,Cosenza Calcio,2-1,https://www.besoccer.com/match/torino-fc/fortitudo-cosenza/20017174,2001,37,serie_b
+Empoli,Ancona,3-1,https://www.besoccer.com/match/empoli-fc/ancona/20017175,2001,37,serie_b
+Ravenna FC,Venezia,0-3,https://www.besoccer.com/match/ravenna-calcio/venezia/20017176,2001,37,serie_b
+Cittadella,Siena,0-0,https://www.besoccer.com/match/as-cittadella/siena/20017167,2001,37,serie_b
+Salernitana,Torino,0-2,https://www.besoccer.com/match/salernitana-calcio-1919/torino-fc/20017157,2001,38,serie_b
+Pescara,Sampdoria,2-2,https://www.besoccer.com/match/pescara-calcio/sampdoria/20017158,2001,38,serie_b
+Cosenza Calcio,Ravenna FC,3-1,https://www.besoccer.com/match/fortitudo-cosenza/ravenna-calcio/20017159,2001,38,serie_b
+AC Monza,Pistoiese,3-1,https://www.besoccer.com/match/ac-monza-brianza-1912/pistoiese/20017160,2001,38,serie_b
+Venezia,Empoli,2-2,https://www.besoccer.com/match/venezia/empoli-fc/20017161,2001,38,serie_b
+Ternana Calcio,Crotone,0-0,https://www.besoccer.com/match/ternana-calcio/fc-crotone/20017162,2001,38,serie_b
+Ancona,Cittadella,1-1,https://www.besoccer.com/match/ancona/as-cittadella/20017163,2001,38,serie_b
+Siena,Chievo,1-1,https://www.besoccer.com/match/siena/chievo/20017164,2001,38,serie_b
+Genoa,Cagliari,2-0,https://www.besoccer.com/match/genoa/cagliari/20017165,2001,38,serie_b
+Piacenza,Treviso,1-1,https://www.besoccer.com/match/piacenza/treviso/20017166,2001,38,serie_b

@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Hellas Verona,Roma,1-1,https://www.besoccer.com/match/hellas-verona-fc/roma/201666744,2016,1,serie_a
+Lazio,Bologna,2-1,https://www.besoccer.com/match/lazio/bologna/201666747,2016,1,serie_a
+Juventus,Udinese,0-1,https://www.besoccer.com/match/juventus-fc/udinese/201666746,2016,1,serie_a
+Empoli,Chievo,1-3,https://www.besoccer.com/match/empoli-fc/chievo/201666741,2016,1,serie_a
+Fiorentina,Milan,2-0,https://www.besoccer.com/match/fiorentina/milan/201666742,2016,1,serie_a
+Frosinone,Torino,1-2,https://www.besoccer.com/match/frosinone-calcio/torino-fc/201666743,2016,1,serie_a
+Inter,Atalanta,1-0,https://www.besoccer.com/match/internazionale/atalanta/201666745,2016,1,serie_a
+Palermo FC,Genoa,1-0,https://www.besoccer.com/match/palermo/genoa/201666748,2016,1,serie_a
+Sampdoria,Carpi,5-2,https://www.besoccer.com/match/sampdoria/carpi/201666749,2016,1,serie_a
+Sassuolo,Napoli,2-1,https://www.besoccer.com/match/us-sassuolo-calcio/napoli/201666750,2016,1,serie_a
+Bologna,Sassuolo,0-1,https://www.besoccer.com/match/bologna/us-sassuolo-calcio/201666752,2016,2,serie_a
+Milan,Empoli,2-1,https://www.besoccer.com/match/milan/empoli-fc/201666756,2016,2,serie_a
+Roma,Juventus,2-1,https://www.besoccer.com/match/roma/juventus-fc/201666758,2016,2,serie_a
+Atalanta,Frosinone,2-0,https://www.besoccer.com/match/atalanta/frosinone-calcio/201666751,2016,2,serie_a
+Carpi,Inter,1-2,https://www.besoccer.com/match/carpi/internazionale/201666753,2016,2,serie_a
+Chievo,Lazio,4-0,https://www.besoccer.com/match/chievo/lazio/201666754,2016,2,serie_a
+Genoa,Hellas Verona,2-0,https://www.besoccer.com/match/genoa/hellas-verona-fc/201666755,2016,2,serie_a
+Napoli,Sampdoria,2-2,https://www.besoccer.com/match/napoli/sampdoria/201666757,2016,2,serie_a
+Torino,Fiorentina,3-1,https://www.besoccer.com/match/torino-fc/fiorentina/201666759,2016,2,serie_a
+Udinese,Palermo FC,0-1,https://www.besoccer.com/match/udinese/palermo/201666760,2016,2,serie_a
+Fiorentina,Genoa,1-0,https://www.besoccer.com/match/fiorentina/genoa/201666815,2016,3,serie_a
+Frosinone,Roma,0-2,https://www.besoccer.com/match/frosinone-calcio/roma/201666816,2016,3,serie_a
+Juventus,Chievo,1-1,https://www.besoccer.com/match/juventus-fc/chievo/201666819,2016,3,serie_a
+Hellas Verona,Torino,2-2,https://www.besoccer.com/match/hellas-verona-fc/torino-fc/201666817,2016,3,serie_a
+Empoli,Napoli,2-2,https://www.besoccer.com/match/empoli-fc/napoli/201666814,2016,3,serie_a
+Palermo FC,Carpi,2-2,https://www.besoccer.com/match/palermo/carpi/201666821,2016,3,serie_a
+Sassuolo,Atalanta,2-2,https://www.besoccer.com/match/us-sassuolo-calcio/atalanta/201666823,2016,3,serie_a
+Lazio,Udinese,2-0,https://www.besoccer.com/match/lazio/udinese/201666820,2016,3,serie_a
+Inter,Milan,1-0,https://www.besoccer.com/match/internazionale/milan/201666818,2016,3,serie_a
+Sampdoria,Bologna,2-0,https://www.besoccer.com/match/sampdoria/bologna/201666822,2016,3,serie_a
+Udinese,Empoli,1-2,https://www.besoccer.com/match/udinese/empoli-fc/201666833,2016,4,serie_a
+Milan,Palermo FC,3-2,https://www.besoccer.com/match/milan/palermo/201666829,2016,4,serie_a
+Chievo,Inter,0-1,https://www.besoccer.com/match/chievo/internazionale/201666827,2016,4,serie_a
+Atalanta,Hellas Verona,1-1,https://www.besoccer.com/match/atalanta/hellas-verona-fc/201666824,2016,4,serie_a
+Bologna,Frosinone,1-0,https://www.besoccer.com/match/bologna/frosinone-calcio/201666825,2016,4,serie_a
+Genoa,Juventus,0-2,https://www.besoccer.com/match/genoa/juventus-fc/201666828,2016,4,serie_a
+Roma,Sassuolo,2-2,https://www.besoccer.com/match/roma/us-sassuolo-calcio/201666831,2016,4,serie_a
+Torino,Sampdoria,2-0,https://www.besoccer.com/match/torino-fc/sampdoria/201666832,2016,4,serie_a
+Carpi,Fiorentina,0-1,https://www.besoccer.com/match/carpi/fiorentina/201666826,2016,4,serie_a
+Napoli,Lazio,5-0,https://www.besoccer.com/match/napoli/lazio/201666830,2016,4,serie_a
+Udinese,Milan,2-3,https://www.besoccer.com/match/udinese/milan/201666843,2016,5,serie_a
+Carpi,Napoli,0-0,https://www.besoccer.com/match/carpi/napoli/201666834,2016,5,serie_a
+Chievo,Torino,1-0,https://www.besoccer.com/match/chievo/torino-fc/201666835,2016,5,serie_a
+Fiorentina,Bologna,2-0,https://www.besoccer.com/match/fiorentina/bologna/201666837,2016,5,serie_a
+Inter,Hellas Verona,1-0,https://www.besoccer.com/match/internazionale/hellas-verona-fc/201666838,2016,5,serie_a
+Juventus,Frosinone,1-1,https://www.besoccer.com/match/juventus-fc/frosinone-calcio/201666839,2016,5,serie_a
+Lazio,Genoa,2-0,https://www.besoccer.com/match/lazio/genoa/201666840,2016,5,serie_a
+Palermo FC,Sassuolo,0-1,https://www.besoccer.com/match/palermo/us-sassuolo-calcio/201666841,2016,5,serie_a
+Sampdoria,Roma,2-1,https://www.besoccer.com/match/sampdoria/roma/201666842,2016,5,serie_a
+Empoli,Atalanta,0-1,https://www.besoccer.com/match/empoli-fc/atalanta/201666836,2016,5,serie_a
+Roma,Carpi,5-1,https://www.besoccer.com/match/roma/carpi/201666851,2016,6,serie_a
+Napoli,Juventus,2-1,https://www.besoccer.com/match/napoli/juventus-fc/201666850,2016,6,serie_a
+Genoa,Milan,1-0,https://www.besoccer.com/match/genoa/milan/201666847,2016,6,serie_a
+Bologna,Udinese,1-2,https://www.besoccer.com/match/bologna/udinese/201666845,2016,6,serie_a
+Hellas Verona,Lazio,1-2,https://www.besoccer.com/match/hellas-verona-fc/lazio/201666848,2016,6,serie_a
+Sassuolo,Chievo,1-1,https://www.besoccer.com/match/us-sassuolo-calcio/chievo/201666852,2016,6,serie_a
+Torino,Palermo FC,2-1,https://www.besoccer.com/match/torino-fc/palermo/201666853,2016,6,serie_a
+Inter,Fiorentina,1-4,https://www.besoccer.com/match/internazionale/fiorentina/201666849,2016,6,serie_a
+Frosinone,Empoli,2-0,https://www.besoccer.com/match/frosinone-calcio/empoli-fc/201666846,2016,6,serie_a
+Atalanta,Sampdoria,2-1,https://www.besoccer.com/match/atalanta/sampdoria/201666844,2016,6,serie_a
+Carpi,Torino,2-1,https://www.besoccer.com/match/carpi/torino-fc/201666854,2016,7,serie_a
+Chievo,Hellas Verona,1-1,https://www.besoccer.com/match/chievo/hellas-verona-fc/201666855,2016,7,serie_a
+Empoli,Sassuolo,1-0,https://www.besoccer.com/match/empoli-fc/us-sassuolo-calcio/201666856,2016,7,serie_a
+Palermo FC,Roma,2-4,https://www.besoccer.com/match/palermo/roma/201666861,2016,7,serie_a
+Sampdoria,Inter,1-1,https://www.besoccer.com/match/sampdoria/internazionale/201666862,2016,7,serie_a
+Udinese,Genoa,1-1,https://www.besoccer.com/match/udinese/genoa/201666863,2016,7,serie_a
+Juventus,Bologna,3-1,https://www.besoccer.com/match/juventus-fc/bologna/201666858,2016,7,serie_a
+Lazio,Frosinone,2-0,https://www.besoccer.com/match/lazio/frosinone-calcio/201666859,2016,7,serie_a
+Fiorentina,Atalanta,3-0,https://www.besoccer.com/match/fiorentina/atalanta/201666857,2016,7,serie_a
+Milan,Napoli,0-4,https://www.besoccer.com/match/milan/napoli/201666860,2016,7,serie_a
+Roma,Empoli,3-1,https://www.besoccer.com/match/roma/empoli-fc/201666871,2016,8,serie_a
+Torino,Milan,1-1,https://www.besoccer.com/match/torino-fc/milan/201666873,2016,8,serie_a
+Bologna,Palermo FC,0-1,https://www.besoccer.com/match/bologna/palermo/201666865,2016,8,serie_a
+Atalanta,Carpi,3-0,https://www.besoccer.com/match/atalanta/carpi/201666864,2016,8,serie_a
+Frosinone,Sampdoria,2-0,https://www.besoccer.com/match/frosinone-calcio/sampdoria/201666866,2016,8,serie_a
+Genoa,Chievo,3-2,https://www.besoccer.com/match/genoa/chievo/201666867,2016,8,serie_a
+Hellas Verona,Udinese,1-1,https://www.besoccer.com/match/hellas-verona-fc/udinese/201666868,2016,8,serie_a
+Napoli,Fiorentina,2-1,https://www.besoccer.com/match/napoli/fiorentina/201666870,2016,8,serie_a
+Sassuolo,Lazio,2-1,https://www.besoccer.com/match/us-sassuolo-calcio/lazio/201666872,2016,8,serie_a
+Inter,Juventus,0-0,https://www.besoccer.com/match/internazionale/juventus-fc/201666869,2016,8,serie_a
+Empoli,Genoa,2-0,https://www.besoccer.com/match/empoli-fc/genoa/201666876,2016,9,serie_a
+Carpi,Bologna,1-2,https://www.besoccer.com/match/carpi/bologna/201666874,2016,9,serie_a
+Palermo FC,Inter,1-1,https://www.besoccer.com/match/palermo/internazionale/201666881,2016,9,serie_a
+Sampdoria,Hellas Verona,4-1,https://www.besoccer.com/match/sampdoria/hellas-verona-fc/201666882,2016,9,serie_a
+Juventus,Atalanta,2-0,https://www.besoccer.com/match/juventus-fc/atalanta/201666878,2016,9,serie_a
+Milan,Sassuolo,2-1,https://www.besoccer.com/match/milan/us-sassuolo-calcio/201666880,2016,9,serie_a
+Udinese,Frosinone,1-0,https://www.besoccer.com/match/udinese/frosinone-calcio/201666883,2016,9,serie_a
+Fiorentina,Roma,1-2,https://www.besoccer.com/match/fiorentina/roma/201666877,2016,9,serie_a
+Lazio,Torino,3-0,https://www.besoccer.com/match/lazio/torino-fc/201666879,2016,9,serie_a
+Chievo,Napoli,0-1,https://www.besoccer.com/match/chievo/napoli/201666875,2016,9,serie_a
+Bologna,Inter,0-1,https://www.besoccer.com/match/bologna/internazionale/201666885,2016,10,serie_a
+Atalanta,Lazio,2-1,https://www.besoccer.com/match/atalanta/lazio/201666884,2016,10,serie_a
+Frosinone,Carpi,2-1,https://www.besoccer.com/match/frosinone-calcio/carpi/201666886,2016,10,serie_a
+Hellas Verona,Fiorentina,0-2,https://www.besoccer.com/match/hellas-verona-fc/fiorentina/201666887,2016,10,serie_a
+Milan,Chievo,1-0,https://www.besoccer.com/match/milan/chievo/201666888,2016,10,serie_a
+Napoli,Palermo FC,2-0,https://www.besoccer.com/match/napoli/palermo/201666889,2016,10,serie_a
+Roma,Udinese,3-1,https://www.besoccer.com/match/roma/udinese/201666890,2016,10,serie_a
+Sassuolo,Juventus,1-0,https://www.besoccer.com/match/us-sassuolo-calcio/juventus-fc/201666892,2016,10,serie_a
+Torino,Genoa,3-3,https://www.besoccer.com/match/torino-fc/genoa/201666893,2016,10,serie_a
+Sampdoria,Empoli,1-1,https://www.besoccer.com/match/sampdoria/empoli-fc/201666891,2016,10,serie_a
+Juventus,Torino,2-1,https://www.besoccer.com/match/juventus-fc/torino-fc/201666900,2016,11,serie_a
+Inter,Roma,1-0,https://www.besoccer.com/match/internazionale/roma/201666899,2016,11,serie_a
+Fiorentina,Frosinone,4-1,https://www.besoccer.com/match/fiorentina/frosinone-calcio/201666897,2016,11,serie_a
+Bologna,Atalanta,3-0,https://www.besoccer.com/match/bologna/atalanta/201666894,2016,11,serie_a
+Carpi,Hellas Verona,0-0,https://www.besoccer.com/match/carpi/hellas-verona-fc/201666895,2016,11,serie_a
+Genoa,Napoli,0-0,https://www.besoccer.com/match/genoa/napoli/201666898,2016,11,serie_a
+Udinese,Sassuolo,0-0,https://www.besoccer.com/match/udinese/us-sassuolo-calcio/201666903,2016,11,serie_a
+Lazio,Milan,1-3,https://www.besoccer.com/match/lazio/milan/201666901,2016,11,serie_a
+Chievo,Sampdoria,1-1,https://www.besoccer.com/match/chievo/sampdoria/201666896,2016,11,serie_a
+Palermo FC,Empoli,0-1,https://www.besoccer.com/match/palermo/empoli-fc/201666902,2016,11,serie_a
+Hellas Verona,Bologna,0-2,https://www.besoccer.com/match/hellas-verona-fc/bologna/201666906,2016,12,serie_a
+Milan,Atalanta,0-0,https://www.besoccer.com/match/milan/atalanta/201666907,2016,12,serie_a
+Torino,Inter,0-1,https://www.besoccer.com/match/torino-fc/internazionale/201666913,2016,12,serie_a
+Empoli,Juventus,1-3,https://www.besoccer.com/match/empoli-fc/juventus-fc/201666904,2016,12,serie_a
+Frosinone,Genoa,2-2,https://www.besoccer.com/match/frosinone-calcio/genoa/201666905,2016,12,serie_a
+Palermo FC,Chievo,1-0,https://www.besoccer.com/match/palermo/chievo/201666909,2016,12,serie_a
+Roma,Lazio,2-0,https://www.besoccer.com/match/roma/lazio/201666910,2016,12,serie_a
+Sassuolo,Carpi,1-0,https://www.besoccer.com/match/us-sassuolo-calcio/carpi/201666912,2016,12,serie_a
+Napoli,Udinese,1-0,https://www.besoccer.com/match/napoli/udinese/201666908,2016,12,serie_a
+Sampdoria,Fiorentina,0-2,https://www.besoccer.com/match/sampdoria/fiorentina/201666911,2016,12,serie_a
+Bologna,Roma,2-2,https://www.besoccer.com/match/bologna/roma/201666915,2016,13,serie_a
+Juventus,Milan,1-0,https://www.besoccer.com/match/juventus-fc/milan/201666921,2016,13,serie_a
+Hellas Verona,Napoli,0-2,https://www.besoccer.com/match/hellas-verona-fc/napoli/201666919,2016,13,serie_a
+Atalanta,Torino,0-1,https://www.besoccer.com/match/atalanta/torino-fc/201666914,2016,13,serie_a
+Carpi,Chievo,1-2,https://www.besoccer.com/match/carpi/chievo/201666916,2016,13,serie_a
+Fiorentina,Empoli,2-2,https://www.besoccer.com/match/fiorentina/empoli-fc/201666917,2016,13,serie_a
+Genoa,Sassuolo,2-1,https://www.besoccer.com/match/genoa/us-sassuolo-calcio/201666918,2016,13,serie_a
+Lazio,Palermo FC,1-1,https://www.besoccer.com/match/lazio/palermo/201666922,2016,13,serie_a
+Udinese,Sampdoria,1-0,https://www.besoccer.com/match/udinese/sampdoria/201666923,2016,13,serie_a
+Inter,Frosinone,4-0,https://www.besoccer.com/match/internazionale/frosinone-calcio/201666920,2016,13,serie_a
+Torino,Bologna,2-0,https://www.besoccer.com/match/torino-fc/bologna/201666933,2016,14,serie_a
+Milan,Sampdoria,4-1,https://www.besoccer.com/match/milan/sampdoria/201666928,2016,14,serie_a
+Chievo,Udinese,2-3,https://www.besoccer.com/match/chievo/udinese/201666924,2016,14,serie_a
+Frosinone,Hellas Verona,3-2,https://www.besoccer.com/match/frosinone-calcio/hellas-verona-fc/201666926,2016,14,serie_a
+Genoa,Carpi,1-2,https://www.besoccer.com/match/genoa/carpi/201666927,2016,14,serie_a
+Roma,Atalanta,0-2,https://www.besoccer.com/match/roma/atalanta/201666931,2016,14,serie_a
+Empoli,Lazio,1-0,https://www.besoccer.com/match/empoli-fc/lazio/201666925,2016,14,serie_a
+Palermo FC,Juventus,0-3,https://www.besoccer.com/match/palermo/juventus-fc/201666930,2016,14,serie_a
+Sassuolo,Fiorentina,1-1,https://www.besoccer.com/match/us-sassuolo-calcio/fiorentina/201666932,2016,14,serie_a
+Napoli,Inter,2-1,https://www.besoccer.com/match/napoli/internazionale/201666929,2016,14,serie_a
+Lazio,Juventus,0-2,https://www.besoccer.com/match/lazio/juventus-fc/201666941,2016,15,serie_a
+Torino,Roma,1-1,https://www.besoccer.com/match/torino-fc/roma/201666943,2016,15,serie_a
+Inter,Genoa,1-0,https://www.besoccer.com/match/internazionale/genoa/201666940,2016,15,serie_a
+Bologna,Napoli,3-2,https://www.besoccer.com/match/bologna/napoli/201666935,2016,15,serie_a
+Atalanta,Palermo FC,3-0,https://www.besoccer.com/match/atalanta/palermo/201666934,2016,15,serie_a
+Fiorentina,Udinese,3-0,https://www.besoccer.com/match/fiorentina/udinese/201666937,2016,15,serie_a
+Frosinone,Chievo,0-2,https://www.besoccer.com/match/frosinone-calcio/chievo/201666938,2016,15,serie_a
+Hellas Verona,Empoli,0-1,https://www.besoccer.com/match/hellas-verona-fc/empoli-fc/201666939,2016,15,serie_a
+Sampdoria,Sassuolo,1-3,https://www.besoccer.com/match/sampdoria/us-sassuolo-calcio/201666942,2016,15,serie_a
+Carpi,Milan,0-0,https://www.besoccer.com/match/carpi/milan/201666936,2016,15,serie_a
+Genoa,Bologna,0-1,https://www.besoccer.com/match/genoa/bologna/201666946,2016,16,serie_a
+Palermo FC,Frosinone,4-1,https://www.besoccer.com/match/palermo/frosinone-calcio/201666951,2016,16,serie_a
+Udinese,Inter,0-4,https://www.besoccer.com/match/udinese/internazionale/201666953,2016,16,serie_a
+Chievo,Atalanta,1-0,https://www.besoccer.com/match/chievo/atalanta/201666944,2016,16,serie_a
+Empoli,Carpi,3-0,https://www.besoccer.com/match/empoli-fc/carpi/201666945,2016,16,serie_a
+Milan,Hellas Verona,1-1,https://www.besoccer.com/match/milan/hellas-verona-fc/201666949,2016,16,serie_a
+Napoli,Roma,0-0,https://www.besoccer.com/match/napoli/roma/201666950,2016,16,serie_a
+Juventus,Fiorentina,3-1,https://www.besoccer.com/match/juventus-fc/fiorentina/201666947,2016,16,serie_a
+Lazio,Sampdoria,1-1,https://www.besoccer.com/match/lazio/sampdoria/201666948,2016,16,serie_a
+Sassuolo,Torino,1-1,https://www.besoccer.com/match/us-sassuolo-calcio/torino-fc/201666952,2016,16,serie_a
+Bologna,Empoli,2-3,https://www.besoccer.com/match/bologna/empoli-fc/201666955,2016,17,serie_a
+Carpi,Juventus,2-3,https://www.besoccer.com/match/carpi/juventus-fc/201666956,2016,17,serie_a
+Atalanta,Napoli,1-3,https://www.besoccer.com/match/atalanta/napoli/201666954,2016,17,serie_a
+Fiorentina,Chievo,2-0,https://www.besoccer.com/match/fiorentina/chievo/201666957,2016,17,serie_a
+Hellas Verona,Sassuolo,1-1,https://www.besoccer.com/match/hellas-verona-fc/us-sassuolo-calcio/201666959,2016,17,serie_a
+Roma,Genoa,2-0,https://www.besoccer.com/match/roma/genoa/201666961,2016,17,serie_a
+Frosinone,Milan,2-4,https://www.besoccer.com/match/frosinone-calcio/milan/201666958,2016,17,serie_a
+Sampdoria,Palermo FC,2-0,https://www.besoccer.com/match/sampdoria/palermo/201666962,2016,17,serie_a
+Torino,Udinese,0-1,https://www.besoccer.com/match/torino-fc/udinese/201666963,2016,17,serie_a
+Inter,Lazio,1-2,https://www.besoccer.com/match/internazionale/lazio/201666960,2016,17,serie_a
+Genoa,Sampdoria,2-3,https://www.besoccer.com/match/genoa/sampdoria/201666966,2016,18,serie_a
+Udinese,Atalanta,2-1,https://www.besoccer.com/match/udinese/atalanta/201666973,2016,18,serie_a
+Chievo,Roma,3-3,https://www.besoccer.com/match/chievo/roma/201666964,2016,18,serie_a
+Juventus,Hellas Verona,3-0,https://www.besoccer.com/match/juventus-fc/hellas-verona-fc/201666967,2016,18,serie_a
+Lazio,Carpi,0-0,https://www.besoccer.com/match/lazio/carpi/201666968,2016,18,serie_a
+Milan,Bologna,0-1,https://www.besoccer.com/match/milan/bologna/201666969,2016,18,serie_a
+Palermo FC,Fiorentina,1-3,https://www.besoccer.com/match/palermo/fiorentina/201666971,2016,18,serie_a
+Sassuolo,Frosinone,2-2,https://www.besoccer.com/match/us-sassuolo-calcio/frosinone-calcio/201666972,2016,18,serie_a
+Empoli,Inter,0-1,https://www.besoccer.com/match/empoli-fc/internazionale/201666965,2016,18,serie_a
+Napoli,Torino,2-1,https://www.besoccer.com/match/napoli/torino-fc/201666970,2016,18,serie_a
+Carpi,Udinese,2-1,https://www.besoccer.com/match/carpi/udinese/201666976,2016,19,serie_a
+Fiorentina,Lazio,1-3,https://www.besoccer.com/match/fiorentina/lazio/201666977,2016,19,serie_a
+Roma,Milan,1-1,https://www.besoccer.com/match/roma/milan/201666981,2016,19,serie_a
+Inter,Sassuolo,0-1,https://www.besoccer.com/match/internazionale/us-sassuolo-calcio/201666980,2016,19,serie_a
+Atalanta,Genoa,0-2,https://www.besoccer.com/match/atalanta/genoa/201666974,2016,19,serie_a
+Bologna,Chievo,0-1,https://www.besoccer.com/match/bologna/chievo/201666975,2016,19,serie_a
+Frosinone,Napoli,1-5,https://www.besoccer.com/match/frosinone-calcio/napoli/201666978,2016,19,serie_a
+Hellas Verona,Palermo FC,0-1,https://www.besoccer.com/match/hellas-verona-fc/palermo/201666979,2016,19,serie_a
+Torino,Empoli,0-1,https://www.besoccer.com/match/torino-fc/empoli-fc/201666983,2016,19,serie_a
+Sampdoria,Juventus,1-2,https://www.besoccer.com/match/sampdoria/juventus-fc/201666982,2016,19,serie_a
+Atalanta,Inter,1-1,https://www.besoccer.com/match/atalanta/internazionale/201666988,2016,20,serie_a
+Torino,Frosinone,4-2,https://www.besoccer.com/match/torino-fc/frosinone-calcio/201666986,2016,20,serie_a
+Napoli,Sassuolo,3-1,https://www.besoccer.com/match/napoli/us-sassuolo-calcio/201666993,2016,20,serie_a
+Genoa,Palermo FC,4-0,https://www.besoccer.com/match/genoa/palermo/201666991,2016,20,serie_a
+Chievo,Empoli,1-1,https://www.besoccer.com/match/chievo/empoli-fc/201666984,2016,20,serie_a
+Roma,Hellas Verona,1-1,https://www.besoccer.com/match/roma/hellas-verona-fc/201666987,2016,20,serie_a
+Udinese,Juventus,0-4,https://www.besoccer.com/match/udinese/juventus-fc/201666989,2016,20,serie_a
+Bologna,Lazio,2-2,https://www.besoccer.com/match/bologna/lazio/201666990,2016,20,serie_a
+Carpi,Sampdoria,2-1,https://www.besoccer.com/match/carpi/sampdoria/201666992,2016,20,serie_a
+Milan,Fiorentina,2-0,https://www.besoccer.com/match/milan/fiorentina/201666985,2016,20,serie_a
+Frosinone,Atalanta,0-0,https://www.besoccer.com/match/frosinone-calcio/atalanta/201666994,2016,21,serie_a
+Empoli,Milan,2-2,https://www.besoccer.com/match/empoli-fc/milan/201666999,2016,21,serie_a
+Fiorentina,Torino,2-0,https://www.besoccer.com/match/fiorentina/torino-fc/201667002,2016,21,serie_a
+Sassuolo,Bologna,0-2,https://www.besoccer.com/match/us-sassuolo-calcio/bologna/201666995,2016,21,serie_a
+Inter,Carpi,1-1,https://www.besoccer.com/match/internazionale/carpi/201666996,2016,21,serie_a
+Lazio,Chievo,4-1,https://www.besoccer.com/match/lazio/chievo/201666997,2016,21,serie_a
+Hellas Verona,Genoa,1-1,https://www.besoccer.com/match/hellas-verona-fc/genoa/201666998,2016,21,serie_a
+Sampdoria,Napoli,2-4,https://www.besoccer.com/match/sampdoria/napoli/201667000,2016,21,serie_a
+Palermo FC,Udinese,4-1,https://www.besoccer.com/match/palermo/udinese/201667003,2016,21,serie_a
+Juventus,Roma,1-0,https://www.besoccer.com/match/juventus-fc/roma/201667001,2016,21,serie_a
+Carpi,Palermo FC,1-1,https://www.besoccer.com/match/carpi/palermo/201667011,2016,22,serie_a
+Atalanta,Sassuolo,1-1,https://www.besoccer.com/match/atalanta/us-sassuolo-calcio/201667013,2016,22,serie_a
+Roma,Frosinone,3-1,https://www.besoccer.com/match/roma/frosinone-calcio/201667006,2016,22,serie_a
+Chievo,Juventus,0-4,https://www.besoccer.com/match/chievo/juventus-fc/201667009,2016,22,serie_a
+Napoli,Empoli,5-1,https://www.besoccer.com/match/napoli/empoli-fc/201667004,2016,22,serie_a
+Genoa,Fiorentina,0-0,https://www.besoccer.com/match/genoa/fiorentina/201667005,2016,22,serie_a
+Torino,Hellas Verona,0-0,https://www.besoccer.com/match/torino-fc/hellas-verona-fc/201667007,2016,22,serie_a
+Udinese,Lazio,0-0,https://www.besoccer.com/match/udinese/lazio/201667010,2016,22,serie_a
+Bologna,Sampdoria,3-2,https://www.besoccer.com/match/bologna/sampdoria/201667012,2016,22,serie_a
+Milan,Inter,3-0,https://www.besoccer.com/match/milan/internazionale/201667008,2016,22,serie_a
+Sassuolo,Roma,0-2,https://www.besoccer.com/match/us-sassuolo-calcio/roma/201667021,2016,23,serie_a
+Frosinone,Bologna,1-0,https://www.besoccer.com/match/frosinone-calcio/bologna/201667015,2016,23,serie_a
+Hellas Verona,Atalanta,2-1,https://www.besoccer.com/match/hellas-verona-fc/atalanta/201667014,2016,23,serie_a
+Fiorentina,Carpi,2-1,https://www.besoccer.com/match/fiorentina/carpi/201667016,2016,23,serie_a
+Inter,Chievo,1-0,https://www.besoccer.com/match/internazionale/chievo/201667017,2016,23,serie_a
+Juventus,Genoa,1-0,https://www.besoccer.com/match/juventus-fc/genoa/201667018,2016,23,serie_a
+Palermo FC,Milan,0-2,https://www.besoccer.com/match/palermo/milan/201667019,2016,23,serie_a
+Lazio,Napoli,0-2,https://www.besoccer.com/match/lazio/napoli/201667020,2016,23,serie_a
+Sampdoria,Torino,2-2,https://www.besoccer.com/match/sampdoria/torino-fc/201667022,2016,23,serie_a
+Empoli,Udinese,1-1,https://www.besoccer.com/match/empoli-fc/udinese/201667023,2016,23,serie_a
+Bologna,Fiorentina,1-1,https://www.besoccer.com/match/bologna/fiorentina/201667027,2016,24,serie_a
+Genoa,Lazio,0-0,https://www.besoccer.com/match/genoa/lazio/201667030,2016,24,serie_a
+Hellas Verona,Inter,3-3,https://www.besoccer.com/match/hellas-verona-fc/internazionale/201667028,2016,24,serie_a
+Napoli,Carpi,1-0,https://www.besoccer.com/match/napoli/carpi/201667024,2016,24,serie_a
+Torino,Chievo,1-2,https://www.besoccer.com/match/torino-fc/chievo/201667025,2016,24,serie_a
+Frosinone,Juventus,0-2,https://www.besoccer.com/match/frosinone-calcio/juventus-fc/201667029,2016,24,serie_a
+Sassuolo,Palermo FC,2-2,https://www.besoccer.com/match/us-sassuolo-calcio/palermo/201667031,2016,24,serie_a
+Milan,Udinese,1-1,https://www.besoccer.com/match/milan/udinese/201667033,2016,24,serie_a
+Atalanta,Empoli,0-0,https://www.besoccer.com/match/atalanta/empoli-fc/201667026,2016,24,serie_a
+Roma,Sampdoria,2-1,https://www.besoccer.com/match/roma/sampdoria/201667032,2016,24,serie_a
+Lazio,Hellas Verona,5-2,https://www.besoccer.com/match/lazio/hellas-verona-fc/201667038,2016,25,serie_a
+Carpi,Roma,1-3,https://www.besoccer.com/match/carpi/roma/201667041,2016,25,serie_a
+Empoli,Frosinone,1-2,https://www.besoccer.com/match/empoli-fc/frosinone-calcio/201667036,2016,25,serie_a
+Chievo,Sassuolo,1-1,https://www.besoccer.com/match/chievo/us-sassuolo-calcio/201667042,2016,25,serie_a
+Juventus,Napoli,1-0,https://www.besoccer.com/match/juventus-fc/napoli/201667040,2016,25,serie_a
+Milan,Genoa,2-1,https://www.besoccer.com/match/milan/genoa/201667037,2016,25,serie_a
+Sampdoria,Atalanta,0-0,https://www.besoccer.com/match/sampdoria/atalanta/201667034,2016,25,serie_a
+Udinese,Bologna,0-1,https://www.besoccer.com/match/udinese/bologna/201667035,2016,25,serie_a
+Palermo FC,Torino,1-3,https://www.besoccer.com/match/palermo/torino-fc/201667043,2016,25,serie_a
+Fiorentina,Inter,2-1,https://www.besoccer.com/match/fiorentina/internazionale/201667039,2016,25,serie_a
+Bologna,Juventus,0-0,https://www.besoccer.com/match/bologna/juventus-fc/201667048,2016,26,serie_a
+Hellas Verona,Chievo,3-1,https://www.besoccer.com/match/hellas-verona-fc/chievo/201667045,2016,26,serie_a
+Inter,Sampdoria,3-1,https://www.besoccer.com/match/internazionale/sampdoria/201667052,2016,26,serie_a
+Torino,Carpi,0-0,https://www.besoccer.com/match/torino-fc/carpi/201667044,2016,26,serie_a
+Sassuolo,Empoli,3-2,https://www.besoccer.com/match/us-sassuolo-calcio/empoli-fc/201667046,2016,26,serie_a
+Atalanta,Fiorentina,2-3,https://www.besoccer.com/match/atalanta/fiorentina/201667047,2016,26,serie_a
+Genoa,Udinese,2-1,https://www.besoccer.com/match/genoa/udinese/201667053,2016,26,serie_a
+Frosinone,Lazio,0-0,https://www.besoccer.com/match/frosinone-calcio/lazio/201667049,2016,26,serie_a
+Roma,Palermo FC,5-0,https://www.besoccer.com/match/roma/palermo/201667051,2016,26,serie_a
+Napoli,Milan,1-1,https://www.besoccer.com/match/napoli/milan/201667050,2016,26,serie_a
+Empoli,Roma,1-3,https://www.besoccer.com/match/empoli-fc/roma/201667061,2016,27,serie_a
+Milan,Torino,1-0,https://www.besoccer.com/match/milan/torino-fc/201667063,2016,27,serie_a
+Palermo FC,Bologna,0-0,https://www.besoccer.com/match/palermo/bologna/201667055,2016,27,serie_a
+Carpi,Atalanta,1-1,https://www.besoccer.com/match/carpi/atalanta/201667054,2016,27,serie_a
+Sampdoria,Frosinone,2-0,https://www.besoccer.com/match/sampdoria/frosinone-calcio/201667056,2016,27,serie_a
+Chievo,Genoa,1-0,https://www.besoccer.com/match/chievo/genoa/201667057,2016,27,serie_a
+Udinese,Hellas Verona,2-0,https://www.besoccer.com/match/udinese/hellas-verona-fc/201667058,2016,27,serie_a
+Juventus,Inter,2-0,https://www.besoccer.com/match/juventus-fc/internazionale/201667059,2016,27,serie_a
+Lazio,Sassuolo,0-2,https://www.besoccer.com/match/lazio/us-sassuolo-calcio/201667062,2016,27,serie_a
+Fiorentina,Napoli,1-1,https://www.besoccer.com/match/fiorentina/napoli/201667060,2016,27,serie_a
+Roma,Fiorentina,4-1,https://www.besoccer.com/match/roma/fiorentina/201667067,2016,28,serie_a
+Hellas Verona,Sampdoria,0-3,https://www.besoccer.com/match/hellas-verona-fc/sampdoria/201667072,2016,28,serie_a
+Napoli,Chievo,3-1,https://www.besoccer.com/match/napoli/chievo/201667065,2016,28,serie_a
+Torino,Lazio,1-1,https://www.besoccer.com/match/torino-fc/lazio/201667069,2016,28,serie_a
+Bologna,Carpi,0-0,https://www.besoccer.com/match/bologna/carpi/201667064,2016,28,serie_a
+Genoa,Empoli,1-0,https://www.besoccer.com/match/genoa/empoli-fc/201667066,2016,28,serie_a
+Atalanta,Juventus,0-2,https://www.besoccer.com/match/atalanta/juventus-fc/201667068,2016,28,serie_a
+Sassuolo,Milan,2-0,https://www.besoccer.com/match/us-sassuolo-calcio/milan/201667070,2016,28,serie_a
+Frosinone,Udinese,2-0,https://www.besoccer.com/match/frosinone-calcio/udinese/201667073,2016,28,serie_a
+Inter,Palermo FC,3-1,https://www.besoccer.com/match/internazionale/palermo/201667071,2016,28,serie_a
+Juventus,Sassuolo,1-0,https://www.besoccer.com/match/juventus-fc/us-sassuolo-calcio/201667082,2016,29,serie_a
+Empoli,Sampdoria,1-1,https://www.besoccer.com/match/empoli-fc/sampdoria/201667081,2016,29,serie_a
+Inter,Bologna,2-1,https://www.besoccer.com/match/internazionale/bologna/201667075,2016,29,serie_a
+Chievo,Milan,0-0,https://www.besoccer.com/match/chievo/milan/201667078,2016,29,serie_a
+Carpi,Frosinone,2-1,https://www.besoccer.com/match/carpi/frosinone-calcio/201667076,2016,29,serie_a
+Fiorentina,Hellas Verona,1-1,https://www.besoccer.com/match/fiorentina/hellas-verona-fc/201667077,2016,29,serie_a
+Udinese,Roma,1-2,https://www.besoccer.com/match/udinese/roma/201667080,2016,29,serie_a
+Genoa,Torino,3-2,https://www.besoccer.com/match/genoa/torino-fc/201667083,2016,29,serie_a
+Lazio,Atalanta,2-0,https://www.besoccer.com/match/lazio/atalanta/201667074,2016,29,serie_a
+Palermo FC,Napoli,0-1,https://www.besoccer.com/match/palermo/napoli/201667079,2016,29,serie_a
+Empoli,Palermo FC,0-0,https://www.besoccer.com/match/empoli-fc/palermo/201667092,2016,30,serie_a
+Roma,Inter,1-1,https://www.besoccer.com/match/roma/internazionale/201667089,2016,30,serie_a
+Atalanta,Bologna,2-0,https://www.besoccer.com/match/atalanta/bologna/201667084,2016,30,serie_a
+Hellas Verona,Carpi,1-2,https://www.besoccer.com/match/hellas-verona-fc/carpi/201667085,2016,30,serie_a
+Sampdoria,Chievo,0-1,https://www.besoccer.com/match/sampdoria/chievo/201667086,2016,30,serie_a
+Frosinone,Fiorentina,0-0,https://www.besoccer.com/match/frosinone-calcio/fiorentina/201667087,2016,30,serie_a
+Torino,Juventus,1-4,https://www.besoccer.com/match/torino-fc/juventus-fc/201667090,2016,30,serie_a
+Sassuolo,Udinese,1-1,https://www.besoccer.com/match/us-sassuolo-calcio/udinese/201667093,2016,30,serie_a
+Napoli,Genoa,3-1,https://www.besoccer.com/match/napoli/genoa/201667088,2016,30,serie_a
+Milan,Lazio,1-1,https://www.besoccer.com/match/milan/lazio/201667091,2016,30,serie_a
+Carpi,Sassuolo,1-3,https://www.besoccer.com/match/carpi/us-sassuolo-calcio/201667102,2016,31,serie_a
+Juventus,Empoli,1-0,https://www.besoccer.com/match/juventus-fc/empoli-fc/201667094,2016,31,serie_a
+Udinese,Napoli,3-1,https://www.besoccer.com/match/udinese/napoli/201667098,2016,31,serie_a
+Genoa,Frosinone,4-0,https://www.besoccer.com/match/genoa/frosinone-calcio/201667095,2016,31,serie_a
+Atalanta,Milan,2-1,https://www.besoccer.com/match/atalanta/milan/201667097,2016,31,serie_a
+Chievo,Palermo FC,3-1,https://www.besoccer.com/match/chievo/palermo/201667099,2016,31,serie_a
+Lazio,Roma,1-4,https://www.besoccer.com/match/lazio/roma/201667100,2016,31,serie_a
+Fiorentina,Sampdoria,1-1,https://www.besoccer.com/match/fiorentina/sampdoria/201667101,2016,31,serie_a
+Inter,Torino,1-2,https://www.besoccer.com/match/internazionale/torino-fc/201667103,2016,31,serie_a
+Bologna,Hellas Verona,0-1,https://www.besoccer.com/match/bologna/hellas-verona-fc/201667096,2016,31,serie_a
+Frosinone,Inter,0-1,https://www.besoccer.com/match/frosinone-calcio/internazionale/201667110,2016,32,serie_a
+Chievo,Carpi,1-0,https://www.besoccer.com/match/chievo/carpi/201667106,2016,32,serie_a
+Sassuolo,Genoa,0-1,https://www.besoccer.com/match/us-sassuolo-calcio/genoa/201667108,2016,32,serie_a
+Milan,Juventus,1-2,https://www.besoccer.com/match/milan/juventus-fc/201667111,2016,32,serie_a
+Empoli,Fiorentina,2-0,https://www.besoccer.com/match/empoli-fc/fiorentina/201667107,2016,32,serie_a
+Torino,Atalanta,2-1,https://www.besoccer.com/match/torino-fc/atalanta/201667104,2016,32,serie_a
+Napoli,Hellas Verona,3-0,https://www.besoccer.com/match/napoli/hellas-verona-fc/201667109,2016,32,serie_a
+Sampdoria,Udinese,2-0,https://www.besoccer.com/match/sampdoria/udinese/201667113,2016,32,serie_a
+Palermo FC,Lazio,0-3,https://www.besoccer.com/match/palermo/lazio/201667112,2016,32,serie_a
+Roma,Bologna,1-1,https://www.besoccer.com/match/roma/bologna/201667105,2016,32,serie_a
+Bologna,Torino,0-1,https://www.besoccer.com/match/bologna/torino-fc/201667123,2016,33,serie_a
+Carpi,Genoa,4-1,https://www.besoccer.com/match/carpi/genoa/201667117,2016,33,serie_a
+Inter,Napoli,2-0,https://www.besoccer.com/match/internazionale/napoli/201667119,2016,33,serie_a
+Atalanta,Roma,3-3,https://www.besoccer.com/match/atalanta/roma/201667121,2016,33,serie_a
+Udinese,Chievo,0-0,https://www.besoccer.com/match/udinese/chievo/201667114,2016,33,serie_a
+Hellas Verona,Frosinone,1-2,https://www.besoccer.com/match/hellas-verona-fc/frosinone-calcio/201667116,2016,33,serie_a
+Juventus,Palermo FC,4-0,https://www.besoccer.com/match/juventus-fc/palermo/201667120,2016,33,serie_a
+Fiorentina,Sassuolo,3-1,https://www.besoccer.com/match/fiorentina/us-sassuolo-calcio/201667122,2016,33,serie_a
+Lazio,Empoli,2-0,https://www.besoccer.com/match/lazio/empoli-fc/201667115,2016,33,serie_a
+Sampdoria,Milan,0-1,https://www.besoccer.com/match/sampdoria/milan/201667118,2016,33,serie_a
+Napoli,Bologna,6-0,https://www.besoccer.com/match/napoli/bologna/201667125,2016,34,serie_a
+Sassuolo,Sampdoria,0-0,https://www.besoccer.com/match/us-sassuolo-calcio/sampdoria/201667132,2016,34,serie_a
+Palermo FC,Atalanta,2-2,https://www.besoccer.com/match/palermo/atalanta/201667124,2016,34,serie_a
+Udinese,Fiorentina,2-1,https://www.besoccer.com/match/udinese/fiorentina/201667127,2016,34,serie_a
+Chievo,Frosinone,5-1,https://www.besoccer.com/match/chievo/frosinone-calcio/201667128,2016,34,serie_a
+Empoli,Hellas Verona,1-0,https://www.besoccer.com/match/empoli-fc/hellas-verona-fc/201667129,2016,34,serie_a
+Genoa,Inter,1-0,https://www.besoccer.com/match/genoa/internazionale/201667130,2016,34,serie_a
+Juventus,Lazio,3-0,https://www.besoccer.com/match/juventus-fc/lazio/201667131,2016,34,serie_a
+Roma,Torino,3-2,https://www.besoccer.com/match/roma/torino-fc/201667133,2016,34,serie_a
+Milan,Carpi,0-0,https://www.besoccer.com/match/milan/carpi/201667126,2016,34,serie_a
+Inter,Udinese,3-1,https://www.besoccer.com/match/internazionale/udinese/201667143,2016,35,serie_a
+Frosinone,Palermo FC,0-2,https://www.besoccer.com/match/frosinone-calcio/palermo/201667141,2016,35,serie_a
+Atalanta,Chievo,1-0,https://www.besoccer.com/match/atalanta/chievo/201667134,2016,35,serie_a
+Bologna,Genoa,2-0,https://www.besoccer.com/match/bologna/genoa/201667136,2016,35,serie_a
+Sampdoria,Lazio,2-1,https://www.besoccer.com/match/sampdoria/lazio/201667138,2016,35,serie_a
+Torino,Sassuolo,1-3,https://www.besoccer.com/match/torino-fc/us-sassuolo-calcio/201667142,2016,35,serie_a
+Fiorentina,Juventus,1-2,https://www.besoccer.com/match/fiorentina/juventus-fc/201667137,2016,35,serie_a
+Roma,Napoli,1-0,https://www.besoccer.com/match/roma/napoli/201667140,2016,35,serie_a
+Hellas Verona,Milan,2-1,https://www.besoccer.com/match/hellas-verona-fc/milan/201667139,2016,35,serie_a
+Carpi,Empoli,1-0,https://www.besoccer.com/match/carpi/empoli-fc/201667135,2016,35,serie_a
+Udinese,Torino,1-5,https://www.besoccer.com/match/udinese/torino-fc/201666793,2016,36,serie_a
+Chievo,Fiorentina,0-0,https://www.besoccer.com/match/chievo/fiorentina/201666787,2016,36,serie_a
+Juventus,Carpi,2-0,https://www.besoccer.com/match/juventus-fc/carpi/201666786,2016,36,serie_a
+Empoli,Bologna,0-0,https://www.besoccer.com/match/empoli-fc/bologna/201666785,2016,36,serie_a
+Milan,Frosinone,3-3,https://www.besoccer.com/match/milan/frosinone-calcio/201666788,2016,36,serie_a
+Sassuolo,Hellas Verona,1-0,https://www.besoccer.com/match/us-sassuolo-calcio/hellas-verona-fc/201666789,2016,36,serie_a
+Palermo FC,Sampdoria,2-0,https://www.besoccer.com/match/palermo/sampdoria/201666792,2016,36,serie_a
+Lazio,Inter,2-0,https://www.besoccer.com/match/lazio/internazionale/201666790,2016,36,serie_a
+Genoa,Roma,2-3,https://www.besoccer.com/match/genoa/roma/201666791,2016,36,serie_a
+Napoli,Atalanta,2-1,https://www.besoccer.com/match/napoli/atalanta/201666784,2016,36,serie_a
+Inter,Empoli,2-1,https://www.besoccer.com/match/internazionale/empoli-fc/201666775,2016,37,serie_a
+Bologna,Milan,0-1,https://www.besoccer.com/match/bologna/milan/201666779,2016,37,serie_a
+Roma,Chievo,3-0,https://www.besoccer.com/match/roma/chievo/201666774,2016,37,serie_a
+Sampdoria,Genoa,0-3,https://www.besoccer.com/match/sampdoria/genoa/201666776,2016,37,serie_a
+Carpi,Lazio,1-3,https://www.besoccer.com/match/carpi/lazio/201666778,2016,37,serie_a
+Fiorentina,Palermo FC,0-0,https://www.besoccer.com/match/fiorentina/palermo/201666781,2016,37,serie_a
+Frosinone,Sassuolo,0-1,https://www.besoccer.com/match/frosinone-calcio/us-sassuolo-calcio/201666782,2016,37,serie_a
+Atalanta,Udinese,1-1,https://www.besoccer.com/match/atalanta/udinese/201666783,2016,37,serie_a
+Hellas Verona,Juventus,2-1,https://www.besoccer.com/match/hellas-verona-fc/juventus-fc/201666777,2016,37,serie_a
+Torino,Napoli,1-2,https://www.besoccer.com/match/torino-fc/napoli/201666780,2016,37,serie_a
+Juventus,Sampdoria,5-0,https://www.besoccer.com/match/juventus-fc/sampdoria/201666772,2016,38,serie_a
+Sassuolo,Inter,3-1,https://www.besoccer.com/match/us-sassuolo-calcio/internazionale/201666770,2016,38,serie_a
+Napoli,Frosinone,4-0,https://www.besoccer.com/match/napoli/frosinone-calcio/201666768,2016,38,serie_a
+Milan,Roma,1-3,https://www.besoccer.com/match/milan/roma/201666771,2016,38,serie_a
+Genoa,Atalanta,1-2,https://www.besoccer.com/match/genoa/atalanta/201666764,2016,38,serie_a
+Chievo,Bologna,0-0,https://www.besoccer.com/match/chievo/bologna/201666765,2016,38,serie_a
+Empoli,Torino,2-1,https://www.besoccer.com/match/empoli-fc/torino-fc/201666773,2016,38,serie_a
+Udinese,Carpi,1-2,https://www.besoccer.com/match/udinese/carpi/201666766,2016,38,serie_a
+Lazio,Fiorentina,2-4,https://www.besoccer.com/match/lazio/fiorentina/201666767,2016,38,serie_a
+Palermo FC,Hellas Verona,3-2,https://www.besoccer.com/match/palermo/hellas-verona-fc/201666769,2016,38,serie_a

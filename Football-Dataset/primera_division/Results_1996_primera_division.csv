@@ -1,0 +1,463 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Deportivo,Valencia,3-0,https://www.besoccer.com/match/deportivo/valencia-cf/199610011,1996,1,primera_division
+Real Sporting,Albacete,3-0,https://www.besoccer.com/match/sporting-gijon/albacete/199610012,1996,1,primera_division
+Espanyol,UD Salamanca,3-1,https://www.besoccer.com/match/espanyol/salamanca/199610013,1996,1,primera_division
+Mérida CP,Real Betis,1-1,https://www.besoccer.com/match/merida-cp/betis/199610014,1996,1,primera_division
+Athletic,Racing,4-0,https://www.besoccer.com/match/athletic-bilbao/racing/199610015,1996,1,primera_division
+Atlético,R. Sociedad,4-1,https://www.besoccer.com/match/atletico-madrid/real-sociedad/199610016,1996,1,primera_division
+Sevilla,Tenerife,0-1,https://www.besoccer.com/match/sevilla/tenerife/199610017,1996,1,primera_division
+Celta,Compostela,0-1,https://www.besoccer.com/match/celta/sd-Compostela/199610018,1996,1,primera_division
+Real Zaragoza,Real Oviedo,1-0,https://www.besoccer.com/match/real-zaragoza/real-oviedo/199610019,1996,1,primera_division
+Rayo Vallecano,Real Madrid,1-5,https://www.besoccer.com/match/rayo-vallecano/real-madrid/199610020,1996,1,primera_division
+Real Valladolid,Barcelona,0-2,https://www.besoccer.com/match/valladolid/barcelona/199610021,1996,1,primera_division
+Albacete,Sevilla,3-2,https://www.besoccer.com/match/albacete/sevilla/199610022,1996,2,primera_division
+Barcelona,Mérida CP,2-2,https://www.besoccer.com/match/barcelona/merida-cp/199610023,1996,2,primera_division
+Real Madrid,Athletic,1-2,https://www.besoccer.com/match/real-madrid/athletic-bilbao/199610024,1996,2,primera_division
+Real Betis,Real Zaragoza,3-1,https://www.besoccer.com/match/betis/real-zaragoza/199610025,1996,2,primera_division
+R. Sociedad,Real Sporting,2-0,https://www.besoccer.com/match/real-sociedad/sporting-gijon/199610026,1996,2,primera_division
+Racing,Atlético,0-4,https://www.besoccer.com/match/racing/atletico-madrid/199610027,1996,2,primera_division
+Tenerife,Espanyol,1-4,https://www.besoccer.com/match/tenerife/espanyol/199610028,1996,2,primera_division
+UD Salamanca,Celta,0-1,https://www.besoccer.com/match/salamanca/celta/199610029,1996,2,primera_division
+Compostela,Deportivo,4-0,https://www.besoccer.com/match/sd-Compostela/deportivo/199610030,1996,2,primera_division
+Real Oviedo,Rayo Vallecano,2-0,https://www.besoccer.com/match/real-oviedo/rayo-vallecano/199610031,1996,2,primera_division
+Valencia,Real Valladolid,1-0,https://www.besoccer.com/match/valencia-cf/valladolid/199610032,1996,2,primera_division
+Athletic,Atlético,0-2,https://www.besoccer.com/match/athletic-bilbao/atletico-madrid/199610033,1996,3,primera_division
+Real Valladolid,Compostela,0-0,https://www.besoccer.com/match/valladolid/sd-Compostela/199610034,1996,3,primera_division
+Mérida CP,Valencia,0-2,https://www.besoccer.com/match/merida-cp/valencia-cf/199610035,1996,3,primera_division
+Real Sporting,Racing,4-2,https://www.besoccer.com/match/sporting-gijon/racing/199610036,1996,3,primera_division
+Sevilla,R. Sociedad,2-1,https://www.besoccer.com/match/sevilla/real-sociedad/199610037,1996,3,primera_division
+Espanyol,Albacete,1-0,https://www.besoccer.com/match/espanyol/albacete/199610038,1996,3,primera_division
+Celta,Tenerife,2-2,https://www.besoccer.com/match/celta/tenerife/199610039,1996,3,primera_division
+Real Zaragoza,Barcelona,0-3,https://www.besoccer.com/match/real-zaragoza/barcelona/199610040,1996,3,primera_division
+Rayo Vallecano,Real Betis,1-2,https://www.besoccer.com/match/rayo-vallecano/betis/199610041,1996,3,primera_division
+Real Madrid,Real Oviedo,2-3,https://www.besoccer.com/match/real-madrid/real-oviedo/199610042,1996,3,primera_division
+Deportivo,UD Salamanca,2-0,https://www.besoccer.com/match/deportivo/salamanca/199610043,1996,3,primera_division
+Racing,Sevilla,1-1,https://www.besoccer.com/match/racing/sevilla/199610044,1996,4,primera_division
+Barcelona,Rayo Vallecano,2-0,https://www.besoccer.com/match/barcelona/rayo-vallecano/199610045,1996,4,primera_division
+Real Betis,Real Madrid,0-0,https://www.besoccer.com/match/betis/real-madrid/199610046,1996,4,primera_division
+UD Salamanca,Real Valladolid,0-0,https://www.besoccer.com/match/salamanca/valladolid/199610047,1996,4,primera_division
+R. Sociedad,Espanyol,0-1,https://www.besoccer.com/match/real-sociedad/espanyol/199610048,1996,4,primera_division
+Atlético,Real Sporting,2-0,https://www.besoccer.com/match/atletico-madrid/sporting-gijon/199610049,1996,4,primera_division
+Albacete,Celta,4-0,https://www.besoccer.com/match/albacete/celta/199610050,1996,4,primera_division
+Tenerife,Deportivo,1-1,https://www.besoccer.com/match/tenerife/deportivo/199610051,1996,4,primera_division
+Valencia,Real Zaragoza,0-0,https://www.besoccer.com/match/valencia-cf/real-zaragoza/199610052,1996,4,primera_division
+Real Oviedo,Athletic,0-0,https://www.besoccer.com/match/real-oviedo/athletic-bilbao/199610053,1996,4,primera_division
+Compostela,Mérida CP,1-0,https://www.besoccer.com/match/sd-Compostela/merida-cp/199610054,1996,4,primera_division
+Real Madrid,Barcelona,1-1,https://www.besoccer.com/match/real-madrid/barcelona/199610055,1996,5,primera_division
+Athletic,Real Sporting,2-1,https://www.besoccer.com/match/athletic-bilbao/sporting-gijon/199610056,1996,5,primera_division
+Real Zaragoza,Compostela,1-0,https://www.besoccer.com/match/real-zaragoza/sd-Compostela/199610057,1996,5,primera_division
+Sevilla,Atlético,0-0,https://www.besoccer.com/match/sevilla/atletico-madrid/199610058,1996,5,primera_division
+Espanyol,Racing,1-0,https://www.besoccer.com/match/espanyol/racing/199610059,1996,5,primera_division
+Celta,R. Sociedad,1-1,https://www.besoccer.com/match/celta/real-sociedad/199610060,1996,5,primera_division
+Deportivo,Albacete,5-0,https://www.besoccer.com/match/deportivo/albacete/199610061,1996,5,primera_division
+Mérida CP,UD Salamanca,0-0,https://www.besoccer.com/match/merida-cp/salamanca/199610062,1996,5,primera_division
+Rayo Vallecano,Valencia,3-2,https://www.besoccer.com/match/rayo-vallecano/valencia-cf/199610063,1996,5,primera_division
+Real Oviedo,Real Betis,0-1,https://www.besoccer.com/match/real-oviedo/betis/199610064,1996,5,primera_division
+Real Valladolid,Tenerife,3-0,https://www.besoccer.com/match/valladolid/tenerife/199610065,1996,5,primera_division
+UD Salamanca,Real Zaragoza,0-1,https://www.besoccer.com/match/salamanca/real-zaragoza/199610066,1996,6,primera_division
+Real Sporting,Sevilla,3-1,https://www.besoccer.com/match/sporting-gijon/sevilla/199610067,1996,6,primera_division
+Racing,Celta,2-1,https://www.besoccer.com/match/racing/celta/199610068,1996,6,primera_division
+R. Sociedad,Deportivo,2-1,https://www.besoccer.com/match/real-sociedad/deportivo/199610069,1996,6,primera_division
+Compostela,Rayo Vallecano,1-0,https://www.besoccer.com/match/sd-Compostela/rayo-vallecano/199610070,1996,6,primera_division
+Valencia,Real Madrid,4-3,https://www.besoccer.com/match/valencia-cf/real-madrid/199610071,1996,6,primera_division
+Barcelona,Real Oviedo,4-1,https://www.besoccer.com/match/barcelona/real-oviedo/199610072,1996,6,primera_division
+Real Betis,Athletic,0-0,https://www.besoccer.com/match/betis/athletic-bilbao/199610073,1996,6,primera_division
+Albacete,Real Valladolid,4-2,https://www.besoccer.com/match/albacete/valladolid/199610074,1996,6,primera_division
+Tenerife,Mérida CP,1-0,https://www.besoccer.com/match/tenerife/merida-cp/199610075,1996,6,primera_division
+Atlético,Espanyol,2-1,https://www.besoccer.com/match/atletico-madrid/espanyol/199610076,1996,6,primera_division
+Real Betis,Barcelona,1-5,https://www.besoccer.com/match/betis/barcelona/199610077,1996,7,primera_division
+Real Zaragoza,Tenerife,0-2,https://www.besoccer.com/match/real-zaragoza/tenerife/199610078,1996,7,primera_division
+Athletic,Sevilla,1-1,https://www.besoccer.com/match/athletic-bilbao/sevilla/199610079,1996,7,primera_division
+Espanyol,Real Sporting,0-0,https://www.besoccer.com/match/espanyol/sporting-gijon/199610080,1996,7,primera_division
+Celta,Atlético,0-3,https://www.besoccer.com/match/celta/atletico-madrid/199610081,1996,7,primera_division
+Deportivo,Racing,2-3,https://www.besoccer.com/match/deportivo/racing/199610082,1996,7,primera_division
+Mérida CP,Albacete,1-1,https://www.besoccer.com/match/merida-cp/albacete/199610083,1996,7,primera_division
+Rayo Vallecano,UD Salamanca,1-4,https://www.besoccer.com/match/rayo-vallecano/salamanca/199610084,1996,7,primera_division
+Real Madrid,Compostela,2-1,https://www.besoccer.com/match/real-madrid/sd-Compostela/199610085,1996,7,primera_division
+Real Oviedo,Valencia,0-1,https://www.besoccer.com/match/real-oviedo/valencia-cf/199610086,1996,7,primera_division
+Real Valladolid,R. Sociedad,3-0,https://www.besoccer.com/match/valladolid/real-sociedad/199610087,1996,7,primera_division
+Sevilla,Espanyol,0-3,https://www.besoccer.com/match/sevilla/espanyol/199610088,1996,8,primera_division
+Atlético,Deportivo,1-0,https://www.besoccer.com/match/atletico-madrid/deportivo/199610089,1996,8,primera_division
+Valencia,Real Betis,1-1,https://www.besoccer.com/match/valencia-cf/betis/199610090,1996,8,primera_division
+Barcelona,Athletic,4-1,https://www.besoccer.com/match/barcelona/athletic-bilbao/199610091,1996,8,primera_division
+Compostela,Real Oviedo,4-1,https://www.besoccer.com/match/sd-Compostela/real-oviedo/199610092,1996,8,primera_division
+Racing,Real Valladolid,0-0,https://www.besoccer.com/match/racing/valladolid/199610093,1996,8,primera_division
+R. Sociedad,Mérida CP,1-2,https://www.besoccer.com/match/real-sociedad/merida-cp/199610094,1996,8,primera_division
+Albacete,Real Zaragoza,0-1,https://www.besoccer.com/match/albacete/real-zaragoza/199610095,1996,8,primera_division
+Real Sporting,Celta,1-0,https://www.besoccer.com/match/sporting-gijon/celta/199610096,1996,8,primera_division
+Tenerife,Rayo Vallecano,2-2,https://www.besoccer.com/match/tenerife/rayo-vallecano/199610097,1996,8,primera_division
+UD Salamanca,Real Madrid,0-2,https://www.besoccer.com/match/salamanca/real-madrid/199610098,1996,8,primera_division
+Real Valladolid,Atlético,0-1,https://www.besoccer.com/match/valladolid/atletico-madrid/199610099,1996,9,primera_division
+Real Madrid,Tenerife,2-0,https://www.besoccer.com/match/real-madrid/tenerife/199610100,1996,9,primera_division
+Athletic,Espanyol,0-0,https://www.besoccer.com/match/athletic-bilbao/espanyol/199610101,1996,9,primera_division
+Celta,Sevilla,4-0,https://www.besoccer.com/match/celta/sevilla/199610102,1996,9,primera_division
+Deportivo,Real Sporting,1-0,https://www.besoccer.com/match/deportivo/sporting-gijon/199610103,1996,9,primera_division
+Mérida CP,Racing,3-1,https://www.besoccer.com/match/merida-cp/racing/199610104,1996,9,primera_division
+Rayo Vallecano,Albacete,2-0,https://www.besoccer.com/match/rayo-vallecano/albacete/199610105,1996,9,primera_division
+Real Oviedo,UD Salamanca,2-2,https://www.besoccer.com/match/real-oviedo/salamanca/199610106,1996,9,primera_division
+Real Betis,Compostela,5-0,https://www.besoccer.com/match/betis/sd-Compostela/199610107,1996,9,primera_division
+Barcelona,Valencia,1-0,https://www.besoccer.com/match/barcelona/valencia-cf/199610108,1996,9,primera_division
+Real Zaragoza,R. Sociedad,1-2,https://www.besoccer.com/match/real-zaragoza/real-sociedad/199610109,1996,9,primera_division
+Compostela,Barcelona,2-1,https://www.besoccer.com/match/sd-Compostela/barcelona/199610110,1996,10,primera_division
+Sevilla,Deportivo,0-0,https://www.besoccer.com/match/sevilla/deportivo/199610111,1996,10,primera_division
+Albacete,Real Madrid,1-1,https://www.besoccer.com/match/albacete/real-madrid/199610112,1996,10,primera_division
+Racing,Real Zaragoza,0-0,https://www.besoccer.com/match/racing/real-zaragoza/199610113,1996,10,primera_division
+UD Salamanca,Real Betis,2-1,https://www.besoccer.com/match/salamanca/betis/199610114,1996,10,primera_division
+Espanyol,Celta,2-2,https://www.besoccer.com/match/espanyol/celta/199610115,1996,10,primera_division
+Real Sporting,Real Valladolid,4-2,https://www.besoccer.com/match/sporting-gijon/valladolid/199610116,1996,10,primera_division
+Atlético,Mérida CP,1-1,https://www.besoccer.com/match/atletico-madrid/merida-cp/199610117,1996,10,primera_division
+Valencia,Athletic,3-1,https://www.besoccer.com/match/valencia-cf/athletic-bilbao/199610118,1996,10,primera_division
+R. Sociedad,Rayo Vallecano,2-1,https://www.besoccer.com/match/real-sociedad/rayo-vallecano/199610119,1996,10,primera_division
+Tenerife,Real Oviedo,3-3,https://www.besoccer.com/match/tenerife/real-oviedo/199610120,1996,10,primera_division
+Real Madrid,R. Sociedad,3-2,https://www.besoccer.com/match/real-madrid/real-sociedad/199610121,1996,11,primera_division
+Real Oviedo,Albacete,1-0,https://www.besoccer.com/match/real-oviedo/albacete/199610122,1996,11,primera_division
+Deportivo,Espanyol,0-1,https://www.besoccer.com/match/deportivo/espanyol/199610123,1996,11,primera_division
+Real Valladolid,Sevilla,3-3,https://www.besoccer.com/match/valladolid/sevilla/199610124,1996,11,primera_division
+Mérida CP,Real Sporting,1-0,https://www.besoccer.com/match/merida-cp/sporting-gijon/199610125,1996,11,primera_division
+Rayo Vallecano,Racing,1-2,https://www.besoccer.com/match/rayo-vallecano/racing/199610126,1996,11,primera_division
+Real Betis,Tenerife,3-3,https://www.besoccer.com/match/betis/tenerife/199610127,1996,11,primera_division
+Barcelona,UD Salamanca,4-1,https://www.besoccer.com/match/barcelona/salamanca/199610128,1996,11,primera_division
+Valencia,Compostela,5-2,https://www.besoccer.com/match/valencia-cf/sd-Compostela/199610129,1996,11,primera_division
+Athletic,Celta,3-0,https://www.besoccer.com/match/athletic-bilbao/celta/199610130,1996,11,primera_division
+Real Zaragoza,Atlético,0-1,https://www.besoccer.com/match/real-zaragoza/atletico-madrid/199610131,1996,11,primera_division
+Celta,Deportivo,0-0,https://www.besoccer.com/match/celta/deportivo/199610132,1996,12,primera_division
+Racing,Real Madrid,2-0,https://www.besoccer.com/match/racing/real-madrid/199610133,1996,12,primera_division
+Sevilla,Mérida CP,3-0,https://www.besoccer.com/match/sevilla/merida-cp/199610134,1996,12,primera_division
+Espanyol,Real Valladolid,2-0,https://www.besoccer.com/match/espanyol/valladolid/199610135,1996,12,primera_division
+Real Sporting,Real Zaragoza,4-1,https://www.besoccer.com/match/sporting-gijon/real-zaragoza/199610136,1996,12,primera_division
+Atlético,Rayo Vallecano,0-0,https://www.besoccer.com/match/atletico-madrid/rayo-vallecano/199610137,1996,12,primera_division
+Albacete,Real Betis,0-0,https://www.besoccer.com/match/albacete/betis/199610138,1996,12,primera_division
+Tenerife,Barcelona,1-1,https://www.besoccer.com/match/tenerife/barcelona/199610139,1996,12,primera_division
+UD Salamanca,Valencia,4-0,https://www.besoccer.com/match/salamanca/valencia-cf/199610140,1996,12,primera_division
+Compostela,Athletic,2-1,https://www.besoccer.com/match/sd-Compostela/athletic-bilbao/199610141,1996,12,primera_division
+R. Sociedad,Real Oviedo,1-1,https://www.besoccer.com/match/real-sociedad/real-oviedo/199610142,1996,12,primera_division
+Real Zaragoza,Sevilla,0-1,https://www.besoccer.com/match/real-zaragoza/sevilla/199610143,1996,13,primera_division
+Real Madrid,Atlético,1-0,https://www.besoccer.com/match/real-madrid/atletico-madrid/199610144,1996,13,primera_division
+Real Betis,R. Sociedad,3-1,https://www.besoccer.com/match/betis/real-sociedad/199610145,1996,13,primera_division
+Barcelona,Albacete,3-0,https://www.besoccer.com/match/barcelona/albacete/199610146,1996,13,primera_division
+Compostela,UD Salamanca,0-0,https://www.besoccer.com/match/sd-Compostela/salamanca/199610147,1996,13,primera_division
+Real Valladolid,Celta,1-1,https://www.besoccer.com/match/valladolid/celta/199610148,1996,13,primera_division
+Mérida CP,Espanyol,0-1,https://www.besoccer.com/match/merida-cp/espanyol/199610149,1996,13,primera_division
+Rayo Vallecano,Real Sporting,2-0,https://www.besoccer.com/match/rayo-vallecano/sporting-gijon/199610150,1996,13,primera_division
+Valencia,Tenerife,2-2,https://www.besoccer.com/match/valencia-cf/tenerife/199610151,1996,13,primera_division
+Athletic,Deportivo,1-0,https://www.besoccer.com/match/athletic-bilbao/deportivo/199610152,1996,13,primera_division
+Real Oviedo,Racing,2-1,https://www.besoccer.com/match/real-oviedo/racing/199610153,1996,13,primera_division
+R. Sociedad,Barcelona,1-1,https://www.besoccer.com/match/real-sociedad/barcelona/199610154,1996,14,primera_division
+Tenerife,Compostela,1-1,https://www.besoccer.com/match/tenerife/sd-Compostela/199610155,1996,14,primera_division
+Celta,Mérida CP,2-0,https://www.besoccer.com/match/celta/merida-cp/199610156,1996,14,primera_division
+Deportivo,Real Valladolid,3-1,https://www.besoccer.com/match/deportivo/valladolid/199610157,1996,14,primera_division
+Espanyol,Real Zaragoza,1-1,https://www.besoccer.com/match/espanyol/real-zaragoza/199610158,1996,14,primera_division
+Real Sporting,Real Madrid,0-0,https://www.besoccer.com/match/sporting-gijon/real-madrid/199610159,1996,14,primera_division
+Sevilla,Rayo Vallecano,1-0,https://www.besoccer.com/match/sevilla/rayo-vallecano/199610160,1996,14,primera_division
+Atlético,Real Oviedo,3-0,https://www.besoccer.com/match/atletico-madrid/real-oviedo/199610161,1996,14,primera_division
+Racing,Real Betis,0-0,https://www.besoccer.com/match/racing/betis/199610162,1996,14,primera_division
+Albacete,Valencia,1-3,https://www.besoccer.com/match/albacete/valencia-cf/199610163,1996,14,primera_division
+UD Salamanca,Athletic,2-1,https://www.besoccer.com/match/salamanca/athletic-bilbao/199610164,1996,14,primera_division
+Real Madrid,Sevilla,4-1,https://www.besoccer.com/match/real-madrid/sevilla/199610165,1996,15,primera_division
+Barcelona,Racing,1-1,https://www.besoccer.com/match/barcelona/racing/199610166,1996,15,primera_division
+Rayo Vallecano,Espanyol,1-0,https://www.besoccer.com/match/rayo-vallecano/espanyol/199610167,1996,15,primera_division
+Athletic,Real Valladolid,2-1,https://www.besoccer.com/match/athletic-bilbao/valladolid/199610168,1996,15,primera_division
+Mérida CP,Deportivo,0-2,https://www.besoccer.com/match/merida-cp/deportivo/199610169,1996,15,primera_division
+Real Zaragoza,Celta,0-0,https://www.besoccer.com/match/real-zaragoza/celta/199610170,1996,15,primera_division
+Real Betis,Atlético,2-1,https://www.besoccer.com/match/betis/atletico-madrid/199610171,1996,15,primera_division
+Real Oviedo,Real Sporting,1-0,https://www.besoccer.com/match/real-oviedo/sporting-gijon/199610172,1996,15,primera_division
+Compostela,Albacete,3-1,https://www.besoccer.com/match/sd-Compostela/albacete/199610173,1996,15,primera_division
+UD Salamanca,Tenerife,1-2,https://www.besoccer.com/match/salamanca/tenerife/199610174,1996,15,primera_division
+Valencia,R. Sociedad,0-1,https://www.besoccer.com/match/valencia-cf/real-sociedad/199610175,1996,15,primera_division
+Racing,Valencia,0-3,https://www.besoccer.com/match/racing/valencia-cf/199610176,1996,16,primera_division
+Atlético,Barcelona,3-1,https://www.besoccer.com/match/atletico-madrid/barcelona/199610177,1996,16,primera_division
+R. Sociedad,Compostela,0-1,https://www.besoccer.com/match/real-sociedad/sd-Compostela/199610178,1996,16,primera_division
+Real Valladolid,Mérida CP,1-1,https://www.besoccer.com/match/valladolid/merida-cp/199610179,1996,16,primera_division
+Deportivo,Real Zaragoza,2-3,https://www.besoccer.com/match/deportivo/real-zaragoza/199610180,1996,16,primera_division
+Celta,Rayo Vallecano,2-0,https://www.besoccer.com/match/celta/rayo-vallecano/199610181,1996,16,primera_division
+Espanyol,Real Madrid,3-1,https://www.besoccer.com/match/espanyol/real-madrid/199610182,1996,16,primera_division
+Real Sporting,Real Betis,2-3,https://www.besoccer.com/match/sporting-gijon/betis/199610183,1996,16,primera_division
+Albacete,UD Salamanca,3-3,https://www.besoccer.com/match/albacete/salamanca/199610184,1996,16,primera_division
+Tenerife,Athletic,3-2,https://www.besoccer.com/match/tenerife/athletic-bilbao/199610185,1996,16,primera_division
+Sevilla,Real Oviedo,1-1,https://www.besoccer.com/match/sevilla/real-oviedo/199610186,1996,16,primera_division
+Barcelona,Real Sporting,1-0,https://www.besoccer.com/match/barcelona/sporting-gijon/199610187,1996,17,primera_division
+Real Betis,Sevilla,1-1,https://www.besoccer.com/match/betis/sevilla/199610188,1996,17,primera_division
+Real Madrid,Celta,1-0,https://www.besoccer.com/match/real-madrid/celta/199610189,1996,17,primera_division
+Compostela,Racing,2-0,https://www.besoccer.com/match/sd-Compostela/racing/199610190,1996,17,primera_division
+Athletic,Mérida CP,1-1,https://www.besoccer.com/match/athletic-bilbao/merida-cp/199610191,1996,17,primera_division
+Real Zaragoza,Real Valladolid,5-3,https://www.besoccer.com/match/real-zaragoza/valladolid/199610192,1996,17,primera_division
+Rayo Vallecano,Deportivo,0-6,https://www.besoccer.com/match/rayo-vallecano/deportivo/199610193,1996,17,primera_division
+UD Salamanca,R. Sociedad,3-3,https://www.besoccer.com/match/salamanca/real-sociedad/199610194,1996,17,primera_division
+Tenerife,Albacete,1-3,https://www.besoccer.com/match/tenerife/albacete/199610195,1996,17,primera_division
+Real Oviedo,Espanyol,1-2,https://www.besoccer.com/match/real-oviedo/espanyol/199610196,1996,17,primera_division
+Valencia,Atlético,0-1,https://www.besoccer.com/match/valencia-cf/atletico-madrid/199610197,1996,17,primera_division
+Real Sporting,Valencia,1-3,https://www.besoccer.com/match/sporting-gijon/valencia-cf/199610198,1996,18,primera_division
+Mérida CP,Real Zaragoza,1-1,https://www.besoccer.com/match/merida-cp/real-zaragoza/199610199,1996,18,primera_division
+Real Valladolid,Rayo Vallecano,1-1,https://www.besoccer.com/match/valladolid/rayo-vallecano/199610200,1996,18,primera_division
+Celta,Real Oviedo,1-0,https://www.besoccer.com/match/celta/real-oviedo/199610201,1996,18,primera_division
+Sevilla,Barcelona,1-0,https://www.besoccer.com/match/sevilla/barcelona/199610202,1996,18,primera_division
+Atlético,Compostela,3-0,https://www.besoccer.com/match/atletico-madrid/sd-Compostela/199610203,1996,18,primera_division
+Racing,UD Salamanca,2-1,https://www.besoccer.com/match/racing/salamanca/199610204,1996,18,primera_division
+R. Sociedad,Tenerife,0-1,https://www.besoccer.com/match/real-sociedad/tenerife/199610205,1996,18,primera_division
+Albacete,Athletic,2-0,https://www.besoccer.com/match/albacete/athletic-bilbao/199610206,1996,18,primera_division
+Espanyol,Real Betis,1-1,https://www.besoccer.com/match/espanyol/betis/199610207,1996,18,primera_division
+Deportivo,Real Madrid,3-0,https://www.besoccer.com/match/deportivo/real-madrid/199610208,1996,18,primera_division
+Real Oviedo,Deportivo,0-2,https://www.besoccer.com/match/real-oviedo/deportivo/199610209,1996,19,primera_division
+Athletic,Real Zaragoza,1-0,https://www.besoccer.com/match/athletic-bilbao/real-zaragoza/199610210,1996,19,primera_division
+Rayo Vallecano,Mérida CP,4-1,https://www.besoccer.com/match/rayo-vallecano/merida-cp/199610211,1996,19,primera_division
+Real Madrid,Real Valladolid,4-1,https://www.besoccer.com/match/real-madrid/valladolid/199610212,1996,19,primera_division
+Valencia,Sevilla,1-0,https://www.besoccer.com/match/valencia-cf/sevilla/199610213,1996,19,primera_division
+Compostela,Real Sporting,1-0,https://www.besoccer.com/match/sd-Compostela/sporting-gijon/199610214,1996,19,primera_division
+UD Salamanca,Atlético,1-3,https://www.besoccer.com/match/salamanca/atletico-madrid/199610215,1996,19,primera_division
+Tenerife,Racing,2-0,https://www.besoccer.com/match/tenerife/racing/199610216,1996,19,primera_division
+Albacete,R. Sociedad,3-5,https://www.besoccer.com/match/albacete/real-sociedad/199610217,1996,19,primera_division
+Real Betis,Celta,0-3,https://www.besoccer.com/match/betis/celta/199610218,1996,19,primera_division
+Barcelona,Espanyol,2-1,https://www.besoccer.com/match/barcelona/espanyol/199610219,1996,19,primera_division
+Atlético,Tenerife,3-1,https://www.besoccer.com/match/atletico-madrid/tenerife/199610220,1996,20,primera_division
+Athletic,R. Sociedad,0-0,https://www.besoccer.com/match/athletic-bilbao/real-sociedad/199610221,1996,20,primera_division
+Mérida CP,Real Madrid,2-2,https://www.besoccer.com/match/merida-cp/real-madrid/199610222,1996,20,primera_division
+Real Zaragoza,Rayo Vallecano,1-1,https://www.besoccer.com/match/real-zaragoza/rayo-vallecano/199610223,1996,20,primera_division
+Real Valladolid,Real Oviedo,2-2,https://www.besoccer.com/match/valladolid/real-oviedo/199610224,1996,20,primera_division
+Deportivo,Real Betis,0-0,https://www.besoccer.com/match/deportivo/betis/199610225,1996,20,primera_division
+Celta,Barcelona,1-0,https://www.besoccer.com/match/celta/barcelona/199610226,1996,20,primera_division
+Sevilla,Compostela,0-1,https://www.besoccer.com/match/sevilla/sd-Compostela/199610227,1996,20,primera_division
+Real Sporting,UD Salamanca,3-2,https://www.besoccer.com/match/sporting-gijon/salamanca/199610228,1996,20,primera_division
+Racing,Albacete,5-5,https://www.besoccer.com/match/racing/albacete/199610229,1996,20,primera_division
+Espanyol,Valencia,2-0,https://www.besoccer.com/match/espanyol/valencia-cf/199610230,1996,20,primera_division
+Albacete,Atlético,1-1,https://www.besoccer.com/match/albacete/atletico-madrid/199610231,1996,21,primera_division
+Real Betis,Real Valladolid,3-0,https://www.besoccer.com/match/betis/valladolid/199610232,1996,21,primera_division
+UD Salamanca,Sevilla,4-1,https://www.besoccer.com/match/salamanca/sevilla/199610233,1996,21,primera_division
+Rayo Vallecano,Athletic,2-2,https://www.besoccer.com/match/rayo-vallecano/athletic-bilbao/199610234,1996,21,primera_division
+Real Madrid,Real Zaragoza,2-2,https://www.besoccer.com/match/real-madrid/real-zaragoza/199610235,1996,21,primera_division
+Real Oviedo,Mérida CP,0-0,https://www.besoccer.com/match/real-oviedo/merida-cp/199610236,1996,21,primera_division
+Barcelona,Deportivo,1-1,https://www.besoccer.com/match/barcelona/deportivo/199610237,1996,21,primera_division
+Compostela,Espanyol,2-1,https://www.besoccer.com/match/sd-Compostela/espanyol/199610238,1996,21,primera_division
+Tenerife,Real Sporting,3-0,https://www.besoccer.com/match/tenerife/sporting-gijon/199610239,1996,21,primera_division
+R. Sociedad,Racing,2-1,https://www.besoccer.com/match/real-sociedad/racing/199610240,1996,21,primera_division
+Valencia,Celta,3-0,https://www.besoccer.com/match/valencia-cf/celta/199610241,1996,21,primera_division
+Valencia,Deportivo,2-1,https://www.besoccer.com/match/valencia-cf/deportivo/199610242,1996,22,primera_division
+UD Salamanca,Espanyol,2-2,https://www.besoccer.com/match/salamanca/espanyol/199610243,1996,22,primera_division
+Compostela,Celta,1-1,https://www.besoccer.com/match/sd-Compostela/celta/199610244,1996,22,primera_division
+Racing,Athletic,1-1,https://www.besoccer.com/match/racing/athletic-bilbao/199610245,1996,22,primera_division
+R. Sociedad,Atlético,1-0,https://www.besoccer.com/match/real-sociedad/atletico-madrid/199610246,1996,22,primera_division
+Albacete,Real Sporting,1-3,https://www.besoccer.com/match/albacete/sporting-gijon/199610247,1996,22,primera_division
+Barcelona,Real Valladolid,1-0,https://www.besoccer.com/match/barcelona/valladolid/199610248,1996,22,primera_division
+Real Betis,Mérida CP,0-1,https://www.besoccer.com/match/betis/merida-cp/199610249,1996,22,primera_division
+Real Oviedo,Real Zaragoza,1-1,https://www.besoccer.com/match/real-oviedo/real-zaragoza/199610250,1996,22,primera_division
+Real Madrid,Rayo Vallecano,1-2,https://www.besoccer.com/match/real-madrid/rayo-vallecano/199610251,1996,22,primera_division
+Tenerife,Sevilla,4-2,https://www.besoccer.com/match/tenerife/sevilla/199610252,1996,22,primera_division
+Deportivo,Compostela,2-0,https://www.besoccer.com/match/deportivo/sd-Compostela/199610253,1996,23,primera_division
+Atlético,Racing,2-0,https://www.besoccer.com/match/atletico-madrid/racing/199610254,1996,23,primera_division
+Real Sporting,R. Sociedad,1-1,https://www.besoccer.com/match/sporting-gijon/real-sociedad/199610255,1996,23,primera_division
+Sevilla,Albacete,1-1,https://www.besoccer.com/match/sevilla/albacete/199610256,1996,23,primera_division
+Celta,UD Salamanca,2-1,https://www.besoccer.com/match/celta/salamanca/199610257,1996,23,primera_division
+Real Valladolid,Valencia,2-5,https://www.besoccer.com/match/valladolid/valencia-cf/199610258,1996,23,primera_division
+Real Zaragoza,Real Betis,1-2,https://www.besoccer.com/match/real-zaragoza/betis/199610259,1996,23,primera_division
+Rayo Vallecano,Real Oviedo,1-2,https://www.besoccer.com/match/rayo-vallecano/real-oviedo/199610260,1996,23,primera_division
+Athletic,Real Madrid,0-5,https://www.besoccer.com/match/athletic-bilbao/real-madrid/199610261,1996,23,primera_division
+Espanyol,Tenerife,2-1,https://www.besoccer.com/match/espanyol/tenerife/199610262,1996,23,primera_division
+Mérida CP,Barcelona,0-0,https://www.besoccer.com/match/merida-cp/barcelona/199610263,1996,23,primera_division
+UD Salamanca,Deportivo,0-5,https://www.besoccer.com/match/salamanca/deportivo/199610264,1996,24,primera_division
+Albacete,Espanyol,0-0,https://www.besoccer.com/match/albacete/espanyol/199610265,1996,24,primera_division
+Valencia,Mérida CP,4-1,https://www.besoccer.com/match/valencia-cf/merida-cp/199610266,1996,24,primera_division
+Atlético,Athletic,4-1,https://www.besoccer.com/match/atletico-madrid/athletic-bilbao/199610267,1996,24,primera_division
+Racing,Real Sporting,1-1,https://www.besoccer.com/match/racing/sporting-gijon/199610268,1996,24,primera_division
+R. Sociedad,Sevilla,1-0,https://www.besoccer.com/match/real-sociedad/sevilla/199610269,1996,24,primera_division
+Barcelona,Real Zaragoza,3-1,https://www.besoccer.com/match/barcelona/real-zaragoza/199610270,1996,24,primera_division
+Real Betis,Rayo Vallecano,0-0,https://www.besoccer.com/match/betis/rayo-vallecano/199610271,1996,24,primera_division
+Real Oviedo,Real Madrid,1-2,https://www.besoccer.com/match/real-oviedo/real-madrid/199610272,1996,24,primera_division
+Tenerife,Celta,1-0,https://www.besoccer.com/match/tenerife/celta/199610273,1996,24,primera_division
+Compostela,Real Valladolid,1-3,https://www.besoccer.com/match/sd-Compostela/valladolid/199610274,1996,24,primera_division
+Real Sporting,Atlético,1-2,https://www.besoccer.com/match/sporting-gijon/atletico-madrid/199610275,1996,25,primera_division
+Real Zaragoza,Valencia,4-1,https://www.besoccer.com/match/real-zaragoza/valencia-cf/199610276,1996,25,primera_division
+Rayo Vallecano,Barcelona,1-1,https://www.besoccer.com/match/rayo-vallecano/barcelona/199610277,1996,25,primera_division
+Espanyol,R. Sociedad,0-0,https://www.besoccer.com/match/espanyol/real-sociedad/199610278,1996,25,primera_division
+Celta,Albacete,2-2,https://www.besoccer.com/match/celta/albacete/199610279,1996,25,primera_division
+Deportivo,Tenerife,1-1,https://www.besoccer.com/match/deportivo/tenerife/199610280,1996,25,primera_division
+Mérida CP,Compostela,0-2,https://www.besoccer.com/match/merida-cp/sd-Compostela/199610281,1996,25,primera_division
+Real Madrid,Real Betis,4-2,https://www.besoccer.com/match/real-madrid/betis/199610282,1996,25,primera_division
+Athletic,Real Oviedo,0-1,https://www.besoccer.com/match/athletic-bilbao/real-oviedo/199610283,1996,25,primera_division
+Sevilla,Racing,0-1,https://www.besoccer.com/match/sevilla/racing/199610284,1996,25,primera_division
+Real Valladolid,UD Salamanca,1-0,https://www.besoccer.com/match/valladolid/salamanca/199610285,1996,25,primera_division
+Valencia,Rayo Vallecano,3-0,https://www.besoccer.com/match/valencia-cf/rayo-vallecano/199610286,1996,26,primera_division
+Barcelona,Real Madrid,3-0,https://www.besoccer.com/match/barcelona/real-madrid/199610287,1996,26,primera_division
+Atlético,Sevilla,0-1,https://www.besoccer.com/match/atletico-madrid/sevilla/199610288,1996,26,primera_division
+Real Sporting,Athletic,1-2,https://www.besoccer.com/match/sporting-gijon/athletic-bilbao/199610289,1996,26,primera_division
+Racing,Espanyol,1-1,https://www.besoccer.com/match/racing/espanyol/199610290,1996,26,primera_division
+Tenerife,Real Valladolid,1-0,https://www.besoccer.com/match/tenerife/valladolid/199610291,1996,26,primera_division
+R. Sociedad,Celta,3-1,https://www.besoccer.com/match/real-sociedad/celta/199610292,1996,26,primera_division
+Albacete,Deportivo,1-0,https://www.besoccer.com/match/albacete/deportivo/199610293,1996,26,primera_division
+Compostela,Real Zaragoza,3-2,https://www.besoccer.com/match/sd-Compostela/real-zaragoza/199610294,1996,26,primera_division
+Real Betis,Real Oviedo,2-1,https://www.besoccer.com/match/betis/real-oviedo/199610295,1996,26,primera_division
+UD Salamanca,Mérida CP,2-2,https://www.besoccer.com/match/salamanca/merida-cp/199610296,1996,26,primera_division
+Real Zaragoza,UD Salamanca,1-1,https://www.besoccer.com/match/real-zaragoza/salamanca/199610297,1996,27,primera_division
+Real Madrid,Valencia,0-0,https://www.besoccer.com/match/real-madrid/valencia-cf/199610298,1996,27,primera_division
+Rayo Vallecano,Compostela,0-1,https://www.besoccer.com/match/rayo-vallecano/sd-Compostela/199610299,1996,27,primera_division
+Espanyol,Atlético,0-2,https://www.besoccer.com/match/espanyol/atletico-madrid/199610300,1996,27,primera_division
+Celta,Racing,0-0,https://www.besoccer.com/match/celta/racing/199610301,1996,27,primera_division
+Deportivo,R. Sociedad,1-1,https://www.besoccer.com/match/deportivo/real-sociedad/199610302,1996,27,primera_division
+Mérida CP,Tenerife,2-0,https://www.besoccer.com/match/merida-cp/tenerife/199610303,1996,27,primera_division
+Sevilla,Real Sporting,2-0,https://www.besoccer.com/match/sevilla/sporting-gijon/199610304,1996,27,primera_division
+Real Oviedo,Barcelona,1-2,https://www.besoccer.com/match/real-oviedo/barcelona/199610305,1996,27,primera_division
+Athletic,Real Betis,0-1,https://www.besoccer.com/match/athletic-bilbao/betis/199610306,1996,27,primera_division
+Real Valladolid,Albacete,3-0,https://www.besoccer.com/match/valladolid/albacete/199610307,1996,27,primera_division
+Racing,Deportivo,2-1,https://www.besoccer.com/match/racing/deportivo/199610308,1996,28,primera_division
+Albacete,Mérida CP,2-0,https://www.besoccer.com/match/albacete/merida-cp/199610309,1996,28,primera_division
+Real Sporting,Espanyol,2-3,https://www.besoccer.com/match/sporting-gijon/espanyol/199610310,1996,28,primera_division
+Sevilla,Athletic,1-1,https://www.besoccer.com/match/sevilla/athletic-bilbao/199610311,1996,28,primera_division
+Atlético,Celta,3-2,https://www.besoccer.com/match/atletico-madrid/celta/199610312,1996,28,primera_division
+R. Sociedad,Real Valladolid,1-0,https://www.besoccer.com/match/real-sociedad/valladolid/199610313,1996,28,primera_division
+Tenerife,Real Zaragoza,1-2,https://www.besoccer.com/match/tenerife/real-zaragoza/199610314,1996,28,primera_division
+UD Salamanca,Rayo Vallecano,1-2,https://www.besoccer.com/match/salamanca/rayo-vallecano/199610315,1996,28,primera_division
+Compostela,Real Madrid,3-3,https://www.besoccer.com/match/sd-Compostela/real-madrid/199610316,1996,28,primera_division
+Valencia,Real Oviedo,3-1,https://www.besoccer.com/match/valencia-cf/real-oviedo/199610317,1996,28,primera_division
+Barcelona,Real Betis,1-0,https://www.besoccer.com/match/barcelona/betis/199610318,1996,28,primera_division
+Mérida CP,R. Sociedad,1-2,https://www.besoccer.com/match/merida-cp/real-sociedad/199610319,1996,29,primera_division
+Real Valladolid,Racing,3-1,https://www.besoccer.com/match/valladolid/racing/199610320,1996,29,primera_division
+Real Madrid,UD Salamanca,5-0,https://www.besoccer.com/match/real-madrid/salamanca/199610321,1996,29,primera_division
+Athletic,Barcelona,0-0,https://www.besoccer.com/match/athletic-bilbao/barcelona/199610322,1996,29,primera_division
+Espanyol,Sevilla,0-1,https://www.besoccer.com/match/espanyol/sevilla/199610323,1996,29,primera_division
+Deportivo,Atlético,2-2,https://www.besoccer.com/match/deportivo/atletico-madrid/199610324,1996,29,primera_division
+Real Zaragoza,Albacete,3-1,https://www.besoccer.com/match/real-zaragoza/albacete/199610325,1996,29,primera_division
+Real Oviedo,Compostela,3-1,https://www.besoccer.com/match/real-oviedo/sd-Compostela/199610326,1996,29,primera_division
+Rayo Vallecano,Tenerife,2-4,https://www.besoccer.com/match/rayo-vallecano/tenerife/199610327,1996,29,primera_division
+Celta,Real Sporting,0-0,https://www.besoccer.com/match/celta/sporting-gijon/199610328,1996,29,primera_division
+Real Betis,Valencia,3-0,https://www.besoccer.com/match/betis/valencia-cf/199610329,1996,29,primera_division
+Valencia,Barcelona,4-1,https://www.besoccer.com/match/valencia-cf/barcelona/199610330,1996,30,primera_division
+Albacete,Rayo Vallecano,1-2,https://www.besoccer.com/match/albacete/rayo-vallecano/199610331,1996,30,primera_division
+Espanyol,Athletic,3-0,https://www.besoccer.com/match/espanyol/athletic-bilbao/199610332,1996,30,primera_division
+Sevilla,Celta,0-0,https://www.besoccer.com/match/sevilla/celta/199610333,1996,30,primera_division
+Real Sporting,Deportivo,1-1,https://www.besoccer.com/match/sporting-gijon/deportivo/199610334,1996,30,primera_division
+Atlético,Real Valladolid,0-2,https://www.besoccer.com/match/atletico-madrid/valladolid/199610335,1996,30,primera_division
+R. Sociedad,Real Zaragoza,3-1,https://www.besoccer.com/match/real-sociedad/real-zaragoza/199610336,1996,30,primera_division
+Tenerife,Real Madrid,3-0,https://www.besoccer.com/match/tenerife/real-madrid/199610337,1996,30,primera_division
+UD Salamanca,Real Oviedo,0-1,https://www.besoccer.com/match/salamanca/real-oviedo/199610338,1996,30,primera_division
+Compostela,Real Betis,1-2,https://www.besoccer.com/match/sd-Compostela/betis/199610339,1996,30,primera_division
+Racing,Mérida CP,2-0,https://www.besoccer.com/match/racing/merida-cp/199610340,1996,30,primera_division
+Barcelona,Compostela,1-0,https://www.besoccer.com/match/barcelona/sd-Compostela/199610341,1996,31,primera_division
+Real Zaragoza,Racing,1-2,https://www.besoccer.com/match/real-zaragoza/racing/199610342,1996,31,primera_division
+Real Madrid,Albacete,2-0,https://www.besoccer.com/match/real-madrid/albacete/199610343,1996,31,primera_division
+Mérida CP,Atlético,0-1,https://www.besoccer.com/match/merida-cp/atletico-madrid/199610344,1996,31,primera_division
+Real Betis,UD Salamanca,4-0,https://www.besoccer.com/match/betis/salamanca/199610345,1996,31,primera_division
+Celta,Espanyol,4-2,https://www.besoccer.com/match/celta/espanyol/199610346,1996,31,primera_division
+Deportivo,Sevilla,3-2,https://www.besoccer.com/match/deportivo/sevilla/199610347,1996,31,primera_division
+Real Valladolid,Real Sporting,1-0,https://www.besoccer.com/match/valladolid/sporting-gijon/199610348,1996,31,primera_division
+Athletic,Valencia,0-1,https://www.besoccer.com/match/athletic-bilbao/valencia-cf/199610349,1996,31,primera_division
+Rayo Vallecano,R. Sociedad,2-0,https://www.besoccer.com/match/rayo-vallecano/real-sociedad/199610350,1996,31,primera_division
+Real Oviedo,Tenerife,1-3,https://www.besoccer.com/match/real-oviedo/tenerife/199610351,1996,31,primera_division
+Real Sporting,Mérida CP,3-1,https://www.besoccer.com/match/sporting-gijon/merida-cp/199610352,1996,32,primera_division
+Tenerife,Real Betis,1-2,https://www.besoccer.com/match/tenerife/betis/199610353,1996,32,primera_division
+Albacete,Real Oviedo,0-1,https://www.besoccer.com/match/albacete/real-oviedo/199610354,1996,32,primera_division
+Espanyol,Deportivo,0-0,https://www.besoccer.com/match/espanyol/deportivo/199610355,1996,32,primera_division
+Sevilla,Real Valladolid,1-1,https://www.besoccer.com/match/sevilla/valladolid/199610356,1996,32,primera_division
+Atlético,Real Zaragoza,1-1,https://www.besoccer.com/match/atletico-madrid/real-zaragoza/199610357,1996,32,primera_division
+R. Sociedad,Real Madrid,1-1,https://www.besoccer.com/match/real-sociedad/real-madrid/199610358,1996,32,primera_division
+UD Salamanca,Barcelona,1-3,https://www.besoccer.com/match/salamanca/barcelona/199610359,1996,32,primera_division
+Compostela,Valencia,0-4,https://www.besoccer.com/match/sd-Compostela/valencia-cf/199610360,1996,32,primera_division
+Celta,Athletic,3-1,https://www.besoccer.com/match/celta/athletic-bilbao/199610361,1996,32,primera_division
+Racing,Rayo Vallecano,1-2,https://www.besoccer.com/match/racing/rayo-vallecano/199610362,1996,32,primera_division
+Real Zaragoza,Real Sporting,1-1,https://www.besoccer.com/match/real-zaragoza/sporting-gijon/199610363,1996,33,primera_division
+Deportivo,Celta,2-1,https://www.besoccer.com/match/deportivo/celta/199610364,1996,33,primera_division
+Real Valladolid,Espanyol,0-0,https://www.besoccer.com/match/valladolid/espanyol/199610365,1996,33,primera_division
+Mérida CP,Sevilla,3-2,https://www.besoccer.com/match/merida-cp/sevilla/199610366,1996,33,primera_division
+Real Madrid,Racing,1-2,https://www.besoccer.com/match/real-madrid/racing/199610367,1996,33,primera_division
+Real Betis,Albacete,2-3,https://www.besoccer.com/match/betis/albacete/199610368,1996,33,primera_division
+Barcelona,Tenerife,2-2,https://www.besoccer.com/match/barcelona/tenerife/199610369,1996,33,primera_division
+Valencia,UD Salamanca,2-0,https://www.besoccer.com/match/valencia-cf/salamanca/199610370,1996,33,primera_division
+Athletic,Compostela,0-0,https://www.besoccer.com/match/athletic-bilbao/sd-Compostela/199610371,1996,33,primera_division
+Rayo Vallecano,Atlético,0-3,https://www.besoccer.com/match/rayo-vallecano/atletico-madrid/199610372,1996,33,primera_division
+Real Oviedo,R. Sociedad,0-0,https://www.besoccer.com/match/real-oviedo/real-sociedad/199610373,1996,33,primera_division
+Albacete,Barcelona,0-1,https://www.besoccer.com/match/albacete/barcelona/199610374,1996,34,primera_division
+Atlético,Real Madrid,1-2,https://www.besoccer.com/match/atletico-madrid/real-madrid/199610375,1996,34,primera_division
+R. Sociedad,Real Betis,1-1,https://www.besoccer.com/match/real-sociedad/betis/199610376,1996,34,primera_division
+Celta,Real Valladolid,1-1,https://www.besoccer.com/match/celta/valladolid/199610377,1996,34,primera_division
+Espanyol,Mérida CP,3-0,https://www.besoccer.com/match/espanyol/merida-cp/199610378,1996,34,primera_division
+Sevilla,Real Zaragoza,1-1,https://www.besoccer.com/match/sevilla/real-zaragoza/199610379,1996,34,primera_division
+Racing,Real Oviedo,0-0,https://www.besoccer.com/match/racing/real-oviedo/199610380,1996,34,primera_division
+Deportivo,Athletic,0-0,https://www.besoccer.com/match/deportivo/athletic-bilbao/199610381,1996,34,primera_division
+Tenerife,Valencia,2-1,https://www.besoccer.com/match/tenerife/valencia-cf/199610382,1996,34,primera_division
+UD Salamanca,Compostela,1-0,https://www.besoccer.com/match/salamanca/sd-Compostela/199610383,1996,34,primera_division
+Real Sporting,Rayo Vallecano,3-1,https://www.besoccer.com/match/sporting-gijon/rayo-vallecano/199610384,1996,34,primera_division
+Real Zaragoza,Espanyol,1-1,https://www.besoccer.com/match/real-zaragoza/espanyol/199610385,1996,35,primera_division
+Barcelona,R. Sociedad,1-0,https://www.besoccer.com/match/barcelona/real-sociedad/199610386,1996,35,primera_division
+Real Oviedo,Atlético,1-1,https://www.besoccer.com/match/real-oviedo/atletico-madrid/199610387,1996,35,primera_division
+Real Betis,Racing,2-2,https://www.besoccer.com/match/betis/racing/199610388,1996,35,primera_division
+Mérida CP,Celta,2-0,https://www.besoccer.com/match/merida-cp/celta/199610389,1996,35,primera_division
+Real Valladolid,Deportivo,2-2,https://www.besoccer.com/match/valladolid/deportivo/199610390,1996,35,primera_division
+Rayo Vallecano,Sevilla,0-0,https://www.besoccer.com/match/rayo-vallecano/sevilla/199610391,1996,35,primera_division
+Real Madrid,Real Sporting,0-1,https://www.besoccer.com/match/real-madrid/sporting-gijon/199610392,1996,35,primera_division
+Valencia,Albacete,1-0,https://www.besoccer.com/match/valencia-cf/albacete/199610393,1996,35,primera_division
+Compostela,Tenerife,0-2,https://www.besoccer.com/match/sd-Compostela/tenerife/199610394,1996,35,primera_division
+Athletic,UD Salamanca,3-1,https://www.besoccer.com/match/athletic-bilbao/salamanca/199610395,1996,35,primera_division
+Sevilla,Real Madrid,0-1,https://www.besoccer.com/match/sevilla/real-madrid/199610396,1996,36,primera_division
+Racing,Barcelona,1-1,https://www.besoccer.com/match/racing/barcelona/199610397,1996,36,primera_division
+Real Sporting,Real Oviedo,0-1,https://www.besoccer.com/match/sporting-gijon/real-oviedo/199610398,1996,36,primera_division
+Deportivo,Mérida CP,2-1,https://www.besoccer.com/match/deportivo/merida-cp/199610399,1996,36,primera_division
+Celta,Real Zaragoza,1-1,https://www.besoccer.com/match/celta/real-zaragoza/199610400,1996,36,primera_division
+Tenerife,UD Salamanca,4-0,https://www.besoccer.com/match/tenerife/salamanca/199610401,1996,36,primera_division
+Espanyol,Rayo Vallecano,4-2,https://www.besoccer.com/match/espanyol/rayo-vallecano/199610402,1996,36,primera_division
+Real Valladolid,Athletic,1-1,https://www.besoccer.com/match/valladolid/athletic-bilbao/199610403,1996,36,primera_division
+Albacete,Compostela,2-1,https://www.besoccer.com/match/albacete/sd-Compostela/199610404,1996,36,primera_division
+Atlético,Real Betis,1-1,https://www.besoccer.com/match/atletico-madrid/betis/199610405,1996,36,primera_division
+R. Sociedad,Valencia,5-2,https://www.besoccer.com/match/real-sociedad/valencia-cf/199610406,1996,36,primera_division
+Barcelona,Atlético,1-3,https://www.besoccer.com/match/barcelona/atletico-madrid/199610407,1996,37,primera_division
+Valencia,Racing,2-1,https://www.besoccer.com/match/valencia-cf/racing/199610408,1996,37,primera_division
+Compostela,R. Sociedad,2-0,https://www.besoccer.com/match/sd-Compostela/real-sociedad/199610409,1996,37,primera_division
+Real Zaragoza,Deportivo,2-3,https://www.besoccer.com/match/real-zaragoza/deportivo/199610410,1996,37,primera_division
+Rayo Vallecano,Celta,1-3,https://www.besoccer.com/match/rayo-vallecano/celta/199610411,1996,37,primera_division
+Real Madrid,Espanyol,1-2,https://www.besoccer.com/match/real-madrid/espanyol/199610412,1996,37,primera_division
+Real Betis,Real Sporting,2-5,https://www.besoccer.com/match/betis/sporting-gijon/199610413,1996,37,primera_division
+Mérida CP,Real Valladolid,1-0,https://www.besoccer.com/match/merida-cp/valladolid/199610414,1996,37,primera_division
+UD Salamanca,Albacete,2-4,https://www.besoccer.com/match/salamanca/albacete/199610415,1996,37,primera_division
+Athletic,Tenerife,2-0,https://www.besoccer.com/match/athletic-bilbao/tenerife/199610416,1996,37,primera_division
+Real Oviedo,Sevilla,2-3,https://www.besoccer.com/match/real-oviedo/sevilla/199610417,1996,37,primera_division
+Atlético,Valencia,2-3,https://www.besoccer.com/match/atletico-madrid/valencia-cf/199610418,1996,38,primera_division
+Celta,Real Madrid,1-1,https://www.besoccer.com/match/celta/real-madrid/199610419,1996,38,primera_division
+Mérida CP,Athletic,1-0,https://www.besoccer.com/match/merida-cp/athletic-bilbao/199610420,1996,38,primera_division
+Real Valladolid,Real Zaragoza,0-0,https://www.besoccer.com/match/valladolid/real-zaragoza/199610421,1996,38,primera_division
+Deportivo,Rayo Vallecano,1-0,https://www.besoccer.com/match/deportivo/rayo-vallecano/199610422,1996,38,primera_division
+Sevilla,Real Betis,1-0,https://www.besoccer.com/match/sevilla/betis/199610423,1996,38,primera_division
+Real Sporting,Barcelona,0-3,https://www.besoccer.com/match/sporting-gijon/barcelona/199610424,1996,38,primera_division
+Racing,Compostela,1-0,https://www.besoccer.com/match/racing/sd-Compostela/199610425,1996,38,primera_division
+R. Sociedad,UD Salamanca,1-0,https://www.besoccer.com/match/real-sociedad/salamanca/199610426,1996,38,primera_division
+Albacete,Tenerife,0-0,https://www.besoccer.com/match/albacete/tenerife/199610427,1996,38,primera_division
+Espanyol,Real Oviedo,5-0,https://www.besoccer.com/match/espanyol/real-oviedo/199610428,1996,38,primera_division
+Compostela,Atlético,1-3,https://www.besoccer.com/match/sd-Compostela/atletico-madrid/199610429,1996,39,primera_division
+Valencia,Real Sporting,1-0,https://www.besoccer.com/match/valencia-cf/sporting-gijon/199610430,1996,39,primera_division
+Real Betis,Espanyol,2-3,https://www.besoccer.com/match/betis/espanyol/199610431,1996,39,primera_division
+Real Madrid,Deportivo,1-0,https://www.besoccer.com/match/real-madrid/deportivo/199610432,1996,39,primera_division
+Rayo Vallecano,Real Valladolid,0-2,https://www.besoccer.com/match/rayo-vallecano/valladolid/199610433,1996,39,primera_division
+Real Oviedo,Celta,1-1,https://www.besoccer.com/match/real-oviedo/celta/199610434,1996,39,primera_division
+UD Salamanca,Racing,5-0,https://www.besoccer.com/match/salamanca/racing/199610435,1996,39,primera_division
+Tenerife,R. Sociedad,1-0,https://www.besoccer.com/match/tenerife/real-sociedad/199610436,1996,39,primera_division
+Athletic,Albacete,2-2,https://www.besoccer.com/match/athletic-bilbao/albacete/199610437,1996,39,primera_division
+Real Zaragoza,Mérida CP,3-1,https://www.besoccer.com/match/real-zaragoza/merida-cp/199610438,1996,39,primera_division
+Barcelona,Sevilla,1-1,https://www.besoccer.com/match/barcelona/sevilla/199610439,1996,39,primera_division
+Sevilla,Valencia,1-2,https://www.besoccer.com/match/sevilla/valencia-cf/199610440,1996,40,primera_division
+Real Zaragoza,Athletic,1-0,https://www.besoccer.com/match/real-zaragoza/athletic-bilbao/199610441,1996,40,primera_division
+Mérida CP,Rayo Vallecano,0-1,https://www.besoccer.com/match/merida-cp/rayo-vallecano/199610442,1996,40,primera_division
+Real Valladolid,Real Madrid,0-3,https://www.besoccer.com/match/valladolid/real-madrid/199610443,1996,40,primera_division
+Celta,Real Betis,2-0,https://www.besoccer.com/match/celta/betis/199610444,1996,40,primera_division
+Real Sporting,Compostela,2-1,https://www.besoccer.com/match/sporting-gijon/sd-Compostela/199610445,1996,40,primera_division
+Atlético,UD Salamanca,2-1,https://www.besoccer.com/match/atletico-madrid/salamanca/199610446,1996,40,primera_division
+Racing,Tenerife,1-2,https://www.besoccer.com/match/racing/tenerife/199610447,1996,40,primera_division
+R. Sociedad,Albacete,8-1,https://www.besoccer.com/match/real-sociedad/albacete/199610448,1996,40,primera_division
+Deportivo,Real Oviedo,0-4,https://www.besoccer.com/match/deportivo/real-oviedo/199610449,1996,40,primera_division
+Espanyol,Barcelona,1-1,https://www.besoccer.com/match/espanyol/barcelona/199610450,1996,40,primera_division
+Tenerife,Atlético,1-1,https://www.besoccer.com/match/tenerife/atletico-madrid/199610451,1996,41,primera_division
+Barcelona,Celta,3-2,https://www.besoccer.com/match/barcelona/celta/199610452,1996,41,primera_division
+R. Sociedad,Athletic,2-2,https://www.besoccer.com/match/real-sociedad/athletic-bilbao/199610453,1996,41,primera_division
+Real Madrid,Mérida CP,4-0,https://www.besoccer.com/match/real-madrid/merida-cp/199610454,1996,41,primera_division
+Real Oviedo,Real Valladolid,3-8,https://www.besoccer.com/match/real-oviedo/valladolid/199610455,1996,41,primera_division
+Rayo Vallecano,Real Zaragoza,4-3,https://www.besoccer.com/match/rayo-vallecano/real-zaragoza/199610456,1996,41,primera_division
+Real Betis,Deportivo,1-0,https://www.besoccer.com/match/betis/deportivo/199610457,1996,41,primera_division
+Compostela,Sevilla,0-0,https://www.besoccer.com/match/sd-Compostela/sevilla/199610458,1996,41,primera_division
+Albacete,Racing,2-2,https://www.besoccer.com/match/albacete/racing/199610459,1996,41,primera_division
+Valencia,Espanyol,1-0,https://www.besoccer.com/match/valencia-cf/espanyol/199610460,1996,41,primera_division
+UD Salamanca,Real Sporting,3-0,https://www.besoccer.com/match/salamanca/sporting-gijon/199610461,1996,41,primera_division
+Real Sporting,Tenerife,0-2,https://www.besoccer.com/match/sporting-gijon/tenerife/199610462,1996,42,primera_division
+Athletic,Rayo Vallecano,3-1,https://www.besoccer.com/match/athletic-bilbao/rayo-vallecano/199610463,1996,42,primera_division
+Real Zaragoza,Real Madrid,0-1,https://www.besoccer.com/match/real-zaragoza/real-madrid/199610464,1996,42,primera_division
+Real Valladolid,Real Betis,3-1,https://www.besoccer.com/match/valladolid/betis/199610465,1996,42,primera_division
+Celta,Valencia,1-1,https://www.besoccer.com/match/celta/valencia-cf/199610466,1996,42,primera_division
+Sevilla,UD Salamanca,3-1,https://www.besoccer.com/match/sevilla/salamanca/199610467,1996,42,primera_division
+Atlético,Albacete,2-0,https://www.besoccer.com/match/atletico-madrid/albacete/199610468,1996,42,primera_division
+Racing,R. Sociedad,2-3,https://www.besoccer.com/match/racing/real-sociedad/199610469,1996,42,primera_division
+Espanyol,Compostela,0-0,https://www.besoccer.com/match/espanyol/sd-Compostela/199610470,1996,42,primera_division
+Deportivo,Barcelona,2-2,https://www.besoccer.com/match/deportivo/barcelona/199610471,1996,42,primera_division
+Mérida CP,Real Oviedo,3-1,https://www.besoccer.com/match/merida-cp/real-oviedo/199610472,1996,42,primera_division

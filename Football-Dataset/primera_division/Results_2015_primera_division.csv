@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Málaga,Athletic,1-0,https://www.besoccer.com/match/malaga/athletic-bilbao/201519620,2015,1,primera_division
+Sevilla,Valencia,1-1,https://www.besoccer.com/match/sevilla/valencia-cf/201519618,2015,1,primera_division
+Granada,Deportivo,2-1,https://www.besoccer.com/match/granada/deportivo/201519626,2015,1,primera_division
+Almería,Espanyol,1-1,https://www.besoccer.com/match/almeria/espanyol/201519624,2015,1,primera_division
+Eibar,R. Sociedad,1-0,https://www.besoccer.com/match/eibar/real-sociedad/201519625,2015,1,primera_division
+Celta,Getafe,3-1,https://www.besoccer.com/match/celta/getafe/201519622,2015,1,primera_division
+Barcelona,Elche,3-0,https://www.besoccer.com/match/barcelona/elche/201519623,2015,1,primera_division
+Levante,Villarreal,0-2,https://www.besoccer.com/match/levante/villarreal/201519619,2015,1,primera_division
+Real Madrid,Córdoba,2-0,https://www.besoccer.com/match/real-madrid/cordoba/201519627,2015,1,primera_division
+Rayo Vallecano,Atlético,0-0,https://www.besoccer.com/match/rayo-vallecano/atletico-madrid/201519621,2015,1,primera_division
+Getafe,Almería,1-0,https://www.besoccer.com/match/getafe/almeria/201519652,2015,2,primera_division
+Valencia,Málaga,3-0,https://www.besoccer.com/match/valencia-cf/malaga/201519647,2015,2,primera_division
+Córdoba,Celta,1-1,https://www.besoccer.com/match/cordoba/celta/201519654,2015,2,primera_division
+Athletic,Levante,3-0,https://www.besoccer.com/match/athletic-bilbao/levante/201519675,2015,2,primera_division
+Atlético,Eibar,2-1,https://www.besoccer.com/match/atletico-madrid/eibar/201519664,2015,2,primera_division
+Espanyol,Sevilla,1-2,https://www.besoccer.com/match/espanyol/sevilla/201519650,2015,2,primera_division
+Villarreal,Barcelona,0-1,https://www.besoccer.com/match/villarreal/barcelona/201519673,2015,2,primera_division
+R. Sociedad,Real Madrid,4-2,https://www.besoccer.com/match/real-sociedad/real-madrid/201519660,2015,2,primera_division
+Deportivo,Rayo Vallecano,2-2,https://www.besoccer.com/match/deportivo/rayo-vallecano/201519667,2015,2,primera_division
+Elche,Granada,1-1,https://www.besoccer.com/match/elche/granada/201519669,2015,2,primera_division
+Almería,Córdoba,1-1,https://www.besoccer.com/match/almeria/cordoba/201519684,2015,3,primera_division
+Barcelona,Athletic,2-0,https://www.besoccer.com/match/barcelona/athletic-bilbao/201519700,2015,3,primera_division
+Málaga,Levante,0-0,https://www.besoccer.com/match/malaga/levante/201519704,2015,3,primera_division
+Real Madrid,Atlético,1-2,https://www.besoccer.com/match/real-madrid/atletico-madrid/201519690,2015,3,primera_division
+Celta,R. Sociedad,2-2,https://www.besoccer.com/match/celta/real-sociedad/201519688,2015,3,primera_division
+Rayo Vallecano,Elche,2-3,https://www.besoccer.com/match/rayo-vallecano/elche/201519695,2015,3,primera_division
+Valencia,Espanyol,3-1,https://www.besoccer.com/match/valencia-cf/espanyol/201519679,2015,3,primera_division
+Sevilla,Getafe,2-0,https://www.besoccer.com/match/sevilla/getafe/201519681,2015,3,primera_division
+Granada,Villarreal,0-0,https://www.besoccer.com/match/granada/villarreal/201519696,2015,3,primera_division
+Eibar,Deportivo,0-1,https://www.besoccer.com/match/eibar/deportivo/201519692,2015,3,primera_division
+Elche,Eibar,0-2,https://www.besoccer.com/match/elche/eibar/201519732,2015,4,primera_division
+Deportivo,Real Madrid,2-8,https://www.besoccer.com/match/deportivo/real-madrid/201519730,2015,4,primera_division
+Athletic,Granada,0-1,https://www.besoccer.com/match/athletic-bilbao/granada/201519746,2015,4,primera_division
+Atlético,Celta,2-2,https://www.besoccer.com/match/atletico-madrid/celta/201519726,2015,4,primera_division
+Espanyol,Málaga,2-2,https://www.besoccer.com/match/espanyol/malaga/201519708,2015,4,primera_division
+R. Sociedad,Almería,1-2,https://www.besoccer.com/match/real-sociedad/almeria/201519722,2015,4,primera_division
+Villarreal,Rayo Vallecano,4-2,https://www.besoccer.com/match/villarreal/rayo-vallecano/201519734,2015,4,primera_division
+Córdoba,Sevilla,1-3,https://www.besoccer.com/match/cordoba/sevilla/201519714,2015,4,primera_division
+Levante,Barcelona,0-5,https://www.besoccer.com/match/levante/barcelona/201519748,2015,4,primera_division
+Getafe,Valencia,0-3,https://www.besoccer.com/match/getafe/valencia-cf/201519710,2015,4,primera_division
+Real Madrid,Elche,5-1,https://www.besoccer.com/match/real-madrid/elche/201519782,2015,5,primera_division
+Celta,Deportivo,2-1,https://www.besoccer.com/match/celta/deportivo/201519778,2015,5,primera_division
+Almería,Atlético,0-1,https://www.besoccer.com/match/almeria/atletico-madrid/201519775,2015,5,primera_division
+Eibar,Villarreal,1-1,https://www.besoccer.com/match/eibar/villarreal/201519786,2015,5,primera_division
+Rayo Vallecano,Athletic,2-1,https://www.besoccer.com/match/rayo-vallecano/athletic-bilbao/201519791,2015,5,primera_division
+Sevilla,R. Sociedad,1-0,https://www.besoccer.com/match/sevilla/real-sociedad/201519772,2015,5,primera_division
+Granada,Levante,0-1,https://www.besoccer.com/match/granada/levante/201519794,2015,5,primera_division
+Málaga,Barcelona,0-0,https://www.besoccer.com/match/malaga/barcelona/201519795,2015,5,primera_division
+Espanyol,Getafe,2-0,https://www.besoccer.com/match/espanyol/getafe/201519761,2015,5,primera_division
+Valencia,Córdoba,3-0,https://www.besoccer.com/match/valencia-cf/cordoba/201519768,2015,5,primera_division
+Elche,Celta,0-1,https://www.besoccer.com/match/elche/celta/201519865,2015,6,primera_division
+Villarreal,Real Madrid,0-2,https://www.besoccer.com/match/villarreal/real-madrid/201519870,2015,6,primera_division
+Barcelona,Granada,6-0,https://www.besoccer.com/match/barcelona/granada/201519881,2015,6,primera_division
+Atlético,Sevilla,4-0,https://www.besoccer.com/match/atletico-madrid/sevilla/201519856,2015,6,primera_division
+Athletic,Eibar,0-0,https://www.besoccer.com/match/athletic-bilbao/eibar/201519875,2015,6,primera_division
+Levante,Rayo Vallecano,0-2,https://www.besoccer.com/match/levante/rayo-vallecano/201519879,2015,6,primera_division
+Getafe,Málaga,1-0,https://www.besoccer.com/match/getafe/malaga/201519801,2015,6,primera_division
+Deportivo,Almería,0-1,https://www.besoccer.com/match/deportivo/almeria/201519861,2015,6,primera_division
+R. Sociedad,Valencia,1-1,https://www.besoccer.com/match/real-sociedad/valencia-cf/201519833,2015,6,primera_division
+Córdoba,Espanyol,0-0,https://www.besoccer.com/match/cordoba/espanyol/201519827,2015,6,primera_division
+Getafe,Córdoba,1-1,https://www.besoccer.com/match/getafe/cordoba/201519869,2015,7,primera_division
+Valencia,Atlético,3-1,https://www.besoccer.com/match/valencia-cf/atletico-madrid/201519888,2015,7,primera_division
+Rayo Vallecano,Barcelona,0-2,https://www.besoccer.com/match/rayo-vallecano/barcelona/201519910,2015,7,primera_division
+Eibar,Levante,3-3,https://www.besoccer.com/match/eibar/levante/201519907,2015,7,primera_division
+Almería,Elche,2-2,https://www.besoccer.com/match/almeria/elche/201519897,2015,7,primera_division
+Málaga,Granada,2-1,https://www.besoccer.com/match/malaga/granada/201519913,2015,7,primera_division
+Sevilla,Deportivo,4-1,https://www.besoccer.com/match/sevilla/deportivo/201519893,2015,7,primera_division
+Celta,Villarreal,1-3,https://www.besoccer.com/match/celta/villarreal/201519902,2015,7,primera_division
+Espanyol,R. Sociedad,2-0,https://www.besoccer.com/match/espanyol/real-sociedad/201519884,2015,7,primera_division
+Real Madrid,Athletic,5-0,https://www.besoccer.com/match/real-madrid/athletic-bilbao/201519904,2015,7,primera_division
+Granada,Rayo Vallecano,0-1,https://www.besoccer.com/match/granada/rayo-vallecano/201519942,2015,8,primera_division
+Levante,Real Madrid,0-5,https://www.besoccer.com/match/levante/real-madrid/201519936,2015,8,primera_division
+Athletic,Celta,1-1,https://www.besoccer.com/match/athletic-bilbao/celta/201519935,2015,8,primera_division
+Barcelona,Eibar,3-0,https://www.besoccer.com/match/barcelona/eibar/201519939,2015,8,primera_division
+Córdoba,Málaga,1-2,https://www.besoccer.com/match/cordoba/malaga/201519916,2015,8,primera_division
+Atlético,Espanyol,2-0,https://www.besoccer.com/match/atletico-madrid/espanyol/201527193,2015,8,primera_division
+Deportivo,Valencia,3-0,https://www.besoccer.com/match/deportivo/valencia-cf/201519925,2015,8,primera_division
+Elche,Sevilla,0-2,https://www.besoccer.com/match/elche/sevilla/201519928,2015,8,primera_division
+Villarreal,Almería,2-0,https://www.besoccer.com/match/villarreal/almeria/201519931,2015,8,primera_division
+R. Sociedad,Getafe,1-2,https://www.besoccer.com/match/real-sociedad/getafe/201519920,2015,8,primera_division
+Celta,Levante,3-0,https://www.besoccer.com/match/celta/levante/201519683,2015,9,primera_division
+Almería,Athletic,0-1,https://www.besoccer.com/match/almeria/athletic-bilbao/201519680,2015,9,primera_division
+Real Madrid,Barcelona,3-1,https://www.besoccer.com/match/real-madrid/barcelona/201519662,2015,9,primera_division
+Valencia,Elche,3-1,https://www.besoccer.com/match/valencia-cf/elche/201519674,2015,9,primera_division
+Córdoba,R. Sociedad,1-1,https://www.besoccer.com/match/cordoba/real-sociedad/201519658,2015,9,primera_division
+Eibar,Granada,1-1,https://www.besoccer.com/match/eibar/granada/201519685,2015,9,primera_division
+Málaga,Rayo Vallecano,4-0,https://www.besoccer.com/match/malaga/rayo-vallecano/201519687,2015,9,primera_division
+Espanyol,Deportivo,0-0,https://www.besoccer.com/match/espanyol/deportivo/201519671,2015,9,primera_division
+Sevilla,Villarreal,2-1,https://www.besoccer.com/match/sevilla/villarreal/201519676,2015,9,primera_division
+Getafe,Atlético,0-1,https://www.besoccer.com/match/getafe/atletico-madrid/201519668,2015,9,primera_division
+Deportivo,Getafe,1-2,https://www.besoccer.com/match/deportivo/getafe/201519699,2015,10,primera_division
+Granada,Real Madrid,0-4,https://www.besoccer.com/match/granada/real-madrid/201519725,2015,10,primera_division
+Atlético,Córdoba,4-2,https://www.besoccer.com/match/atletico-madrid/cordoba/201519697,2015,10,primera_division
+Barcelona,Celta,0-1,https://www.besoccer.com/match/barcelona/celta/201519721,2015,10,primera_division
+R. Sociedad,Málaga,0-1,https://www.besoccer.com/match/real-sociedad/malaga/201519694,2015,10,primera_division
+Athletic,Sevilla,1-0,https://www.besoccer.com/match/athletic-bilbao/sevilla/201519716,2015,10,primera_division
+Villarreal,Valencia,1-3,https://www.besoccer.com/match/villarreal/valencia-cf/201519712,2015,10,primera_division
+Levante,Almería,2-1,https://www.besoccer.com/match/levante/almeria/201519719,2015,10,primera_division
+Elche,Espanyol,2-1,https://www.besoccer.com/match/elche/espanyol/201519705,2015,10,primera_division
+Rayo Vallecano,Eibar,2-3,https://www.besoccer.com/match/rayo-vallecano/eibar/201519727,2015,10,primera_division
+Córdoba,Deportivo,0-0,https://www.besoccer.com/match/cordoba/deportivo/201519763,2015,11,primera_division
+Almería,Barcelona,1-2,https://www.besoccer.com/match/almeria/barcelona/201519779,2015,11,primera_division
+Getafe,Elche,0-0,https://www.besoccer.com/match/getafe/elche/201519767,2015,11,primera_division
+Real Madrid,Rayo Vallecano,5-1,https://www.besoccer.com/match/real-madrid/rayo-vallecano/201519785,2015,11,primera_division
+Celta,Granada,0-0,https://www.besoccer.com/match/celta/granada/201519783,2015,11,primera_division
+Málaga,Eibar,2-1,https://www.besoccer.com/match/malaga/eibar/201519789,2015,11,primera_division
+Sevilla,Levante,1-1,https://www.besoccer.com/match/sevilla/levante/201519777,2015,11,primera_division
+Espanyol,Villarreal,1-1,https://www.besoccer.com/match/espanyol/villarreal/201519770,2015,11,primera_division
+Valencia,Athletic,0-0,https://www.besoccer.com/match/valencia-cf/athletic-bilbao/201519774,2015,11,primera_division
+R. Sociedad,Atlético,2-1,https://www.besoccer.com/match/real-sociedad/atletico-madrid/201519750,2015,11,primera_division
+Athletic,Espanyol,3-1,https://www.besoccer.com/match/athletic-bilbao/espanyol/201519819,2015,12,primera_division
+Atlético,Málaga,3-1,https://www.besoccer.com/match/atletico-madrid/malaga/201519799,2015,12,primera_division
+Eibar,Real Madrid,0-4,https://www.besoccer.com/match/eibar/real-madrid/201519836,2015,12,primera_division
+Barcelona,Sevilla,5-1,https://www.besoccer.com/match/barcelona/sevilla/201519826,2015,12,primera_division
+Deportivo,R. Sociedad,0-0,https://www.besoccer.com/match/deportivo/real-sociedad/201519810,2015,12,primera_division
+Rayo Vallecano,Celta,1-0,https://www.besoccer.com/match/rayo-vallecano/celta/201519835,2015,12,primera_division
+Levante,Valencia,2-1,https://www.besoccer.com/match/levante/valencia-cf/201519822,2015,12,primera_division
+Elche,Córdoba,2-2,https://www.besoccer.com/match/elche/cordoba/201519814,2015,12,primera_division
+Villarreal,Getafe,2-1,https://www.besoccer.com/match/villarreal/getafe/201519816,2015,12,primera_division
+Granada,Almería,0-0,https://www.besoccer.com/match/granada/almeria/201519830,2015,12,primera_division
+R. Sociedad,Elche,3-0,https://www.besoccer.com/match/real-sociedad/elche/201519850,2015,13,primera_division
+Getafe,Athletic,1-2,https://www.besoccer.com/match/getafe/athletic-bilbao/201519858,2015,13,primera_division
+Espanyol,Levante,2-1,https://www.besoccer.com/match/espanyol/levante/201519863,2015,13,primera_division
+Málaga,Real Madrid,1-2,https://www.besoccer.com/match/malaga/real-madrid/201519880,2015,13,primera_division
+Celta,Eibar,0-1,https://www.besoccer.com/match/celta/eibar/201519878,2015,13,primera_division
+Atlético,Deportivo,2-0,https://www.besoccer.com/match/atletico-madrid/deportivo/201519846,2015,13,primera_division
+Sevilla,Granada,5-1,https://www.besoccer.com/match/sevilla/granada/201519872,2015,13,primera_division
+Córdoba,Villarreal,0-2,https://www.besoccer.com/match/cordoba/villarreal/201519853,2015,13,primera_division
+Valencia,Barcelona,0-1,https://www.besoccer.com/match/valencia-cf/barcelona/201519867,2015,13,primera_division
+Almería,Rayo Vallecano,0-1,https://www.besoccer.com/match/almeria/rayo-vallecano/201519876,2015,13,primera_division
+Elche,Atlético,0-2,https://www.besoccer.com/match/elche/atletico-madrid/201519889,2015,14,primera_division
+Athletic,Córdoba,0-1,https://www.besoccer.com/match/athletic-bilbao/cordoba/201519894,2015,14,primera_division
+Real Madrid,Celta,3-0,https://www.besoccer.com/match/real-madrid/celta/201519908,2015,14,primera_division
+Deportivo,Málaga,0-1,https://www.besoccer.com/match/deportivo/malaga/201519886,2015,14,primera_division
+Rayo Vallecano,Sevilla,0-1,https://www.besoccer.com/match/rayo-vallecano/sevilla/201519903,2015,14,primera_division
+Barcelona,Espanyol,5-1,https://www.besoccer.com/match/barcelona/espanyol/201519899,2015,14,primera_division
+Villarreal,R. Sociedad,4-0,https://www.besoccer.com/match/villarreal/real-sociedad/201519891,2015,14,primera_division
+Granada,Valencia,1-1,https://www.besoccer.com/match/granada/valencia-cf/201519900,2015,14,primera_division
+Eibar,Almería,5-2,https://www.besoccer.com/match/eibar/almeria/201519905,2015,14,primera_division
+Levante,Getafe,1-1,https://www.besoccer.com/match/levante/getafe/201519896,2015,14,primera_division
+Almería,Real Madrid,1-4,https://www.besoccer.com/match/almeria/real-madrid/201519932,2015,15,primera_division
+Getafe,Barcelona,0-0,https://www.besoccer.com/match/getafe/barcelona/201519922,2015,15,primera_division
+Valencia,Rayo Vallecano,3-0,https://www.besoccer.com/match/valencia-cf/rayo-vallecano/201519926,2015,15,primera_division
+Córdoba,Levante,0-0,https://www.besoccer.com/match/cordoba/levante/201519919,2015,15,primera_division
+Málaga,Celta,1-0,https://www.besoccer.com/match/malaga/celta/201519934,2015,15,primera_division
+Espanyol,Granada,2-1,https://www.besoccer.com/match/espanyol/granada/201519924,2015,15,primera_division
+Sevilla,Eibar,0-0,https://www.besoccer.com/match/sevilla/eibar/201519929,2015,15,primera_division
+Atlético,Villarreal,0-1,https://www.besoccer.com/match/atletico-madrid/villarreal/201519915,2015,15,primera_division
+R. Sociedad,Athletic,1-1,https://www.besoccer.com/match/real-sociedad/athletic-bilbao/201519917,2015,15,primera_division
+Deportivo,Elche,1-0,https://www.besoccer.com/match/deportivo/elche/201519912,2015,15,primera_division
+Celta,Almería,0-1,https://www.besoccer.com/match/celta/almeria/201519956,2015,16,primera_division
+Barcelona,Córdoba,5-0,https://www.besoccer.com/match/barcelona/cordoba/201519947,2015,16,primera_division
+Levante,R. Sociedad,1-1,https://www.besoccer.com/match/levante/real-sociedad/201519945,2015,16,primera_division
+Eibar,Valencia,0-1,https://www.besoccer.com/match/eibar/valencia-cf/201519952,2015,16,primera_division
+Rayo Vallecano,Espanyol,1-3,https://www.besoccer.com/match/rayo-vallecano/espanyol/201519951,2015,16,primera_division
+Villarreal,Deportivo,3-0,https://www.besoccer.com/match/villarreal/deportivo/201519940,2015,16,primera_division
+Granada,Getafe,1-1,https://www.besoccer.com/match/granada/getafe/201519949,2015,16,primera_division
+Elche,Málaga,1-2,https://www.besoccer.com/match/elche/malaga/201519937,2015,16,primera_division
+Athletic,Atlético,1-4,https://www.besoccer.com/match/athletic-bilbao/atletico-madrid/201519943,2015,16,primera_division
+Real Madrid,Sevilla,2-1,https://www.besoccer.com/match/real-madrid/sevilla/201519954,2015,16,primera_division
+Atlético,Levante,3-1,https://www.besoccer.com/match/atletico-madrid/levante/201519962,2015,17,primera_division
+Sevilla,Celta,1-0,https://www.besoccer.com/match/sevilla/celta/201519974,2015,17,primera_division
+Elche,Villarreal,2-2,https://www.besoccer.com/match/elche/villarreal/201519958,2015,17,primera_division
+Deportivo,Athletic,1-0,https://www.besoccer.com/match/deportivo/athletic-bilbao/201519961,2015,17,primera_division
+Málaga,Almería,1-2,https://www.besoccer.com/match/malaga/almeria/201519977,2015,17,primera_division
+Getafe,Rayo Vallecano,1-2,https://www.besoccer.com/match/getafe/rayo-vallecano/201519969,2015,17,primera_division
+Valencia,Real Madrid,2-1,https://www.besoccer.com/match/valencia-cf/real-madrid/201519972,2015,17,primera_division
+Espanyol,Eibar,1-2,https://www.besoccer.com/match/espanyol/eibar/201519971,2015,17,primera_division
+R. Sociedad,Barcelona,1-0,https://www.besoccer.com/match/real-sociedad/barcelona/201519965,2015,17,primera_division
+Córdoba,Granada,2-0,https://www.besoccer.com/match/cordoba/granada/201519967,2015,17,primera_division
+Levante,Deportivo,0-0,https://www.besoccer.com/match/levante/deportivo/201519968,2015,18,primera_division
+Real Madrid,Espanyol,3-0,https://www.besoccer.com/match/real-madrid/espanyol/201519982,2015,18,primera_division
+Málaga,Villarreal,1-1,https://www.besoccer.com/match/malaga/villarreal/201519960,2015,18,primera_division
+Celta,Valencia,1-1,https://www.besoccer.com/match/celta/valencia-cf/201519983,2015,18,primera_division
+Eibar,Getafe,2-1,https://www.besoccer.com/match/eibar/getafe/201519981,2015,18,primera_division
+Almería,Sevilla,0-2,https://www.besoccer.com/match/almeria/sevilla/201519985,2015,18,primera_division
+Athletic,Elche,1-2,https://www.besoccer.com/match/athletic-bilbao/elche/201519963,2015,18,primera_division
+Granada,R. Sociedad,1-1,https://www.besoccer.com/match/granada/real-sociedad/201519978,2015,18,primera_division
+Barcelona,Atlético,3-1,https://www.besoccer.com/match/barcelona/atletico-madrid/201519975,2015,18,primera_division
+Rayo Vallecano,Córdoba,0-1,https://www.besoccer.com/match/rayo-vallecano/cordoba/201519979,2015,18,primera_division
+Córdoba,Eibar,1-1,https://www.besoccer.com/match/cordoba/eibar/201519645,2015,19,primera_division
+R. Sociedad,Rayo Vallecano,0-1,https://www.besoccer.com/match/real-sociedad/rayo-vallecano/201519644,2015,19,primera_division
+Valencia,Almería,3-2,https://www.besoccer.com/match/valencia-cf/almeria/201519648,2015,19,primera_division
+Villarreal,Athletic,2-0,https://www.besoccer.com/match/villarreal/athletic-bilbao/201519639,2015,19,primera_division
+Espanyol,Celta,1-0,https://www.besoccer.com/match/espanyol/celta/201519646,2015,19,primera_division
+Getafe,Real Madrid,0-3,https://www.besoccer.com/match/getafe/real-madrid/201519638,2015,19,primera_division
+Atlético,Granada,2-0,https://www.besoccer.com/match/atletico-madrid/granada/201519642,2015,19,primera_division
+Deportivo,Barcelona,0-4,https://www.besoccer.com/match/deportivo/barcelona/201519641,2015,19,primera_division
+Elche,Levante,1-0,https://www.besoccer.com/match/elche/levante/201519640,2015,19,primera_division
+Sevilla,Málaga,2-0,https://www.besoccer.com/match/sevilla/malaga/201519651,2015,19,primera_division
+Córdoba,Real Madrid,1-2,https://www.besoccer.com/match/cordoba/real-madrid/201519659,2015,20,primera_division
+Elche,Barcelona,0-6,https://www.besoccer.com/match/elche/barcelona/201519666,2015,20,primera_division
+Atlético,Rayo Vallecano,3-1,https://www.besoccer.com/match/atletico-madrid/rayo-vallecano/201519663,2015,20,primera_division
+R. Sociedad,Eibar,1-0,https://www.besoccer.com/match/real-sociedad/eibar/201519661,2015,20,primera_division
+Villarreal,Levante,1-0,https://www.besoccer.com/match/villarreal/levante/201519672,2015,20,primera_division
+Deportivo,Granada,2-2,https://www.besoccer.com/match/deportivo/granada/201519665,2015,20,primera_division
+Athletic,Málaga,1-1,https://www.besoccer.com/match/athletic-bilbao/malaga/201519678,2015,20,primera_division
+Espanyol,Almería,3-0,https://www.besoccer.com/match/espanyol/almeria/201519656,2015,20,primera_division
+Valencia,Sevilla,3-1,https://www.besoccer.com/match/valencia-cf/sevilla/201519655,2015,20,primera_division
+Getafe,Celta,2-1,https://www.besoccer.com/match/getafe/celta/201519657,2015,20,primera_division
+Rayo Vallecano,Deportivo,1-2,https://www.besoccer.com/match/rayo-vallecano/deportivo/201519718,2015,21,primera_division
+Real Madrid,R. Sociedad,4-1,https://www.besoccer.com/match/real-madrid/real-sociedad/201519713,2015,21,primera_division
+Eibar,Atlético,1-3,https://www.besoccer.com/match/eibar/atletico-madrid/201519715,2015,21,primera_division
+Granada,Elche,1-0,https://www.besoccer.com/match/granada/elche/201519720,2015,21,primera_division
+Celta,Córdoba,1-0,https://www.besoccer.com/match/celta/cordoba/201519709,2015,21,primera_division
+Levante,Athletic,0-2,https://www.besoccer.com/match/levante/athletic-bilbao/201519729,2015,21,primera_division
+Almería,Getafe,1-0,https://www.besoccer.com/match/almeria/getafe/201519706,2015,21,primera_division
+Sevilla,Espanyol,3-2,https://www.besoccer.com/match/sevilla/espanyol/201519703,2015,21,primera_division
+Barcelona,Villarreal,3-2,https://www.besoccer.com/match/barcelona/villarreal/201519723,2015,21,primera_division
+Málaga,Valencia,1-0,https://www.besoccer.com/match/malaga/valencia-cf/201519701,2015,21,primera_division
+Deportivo,Eibar,2-0,https://www.besoccer.com/match/deportivo/eibar/201519995,2015,22,primera_division
+Atlético,Real Madrid,4-0,https://www.besoccer.com/match/atletico-madrid/real-madrid/201519993,2015,22,primera_division
+Villarreal,Granada,2-0,https://www.besoccer.com/match/villarreal/granada/201519998,2015,22,primera_division
+Levante,Málaga,4-1,https://www.besoccer.com/match/levante/malaga/201520001,2015,22,primera_division
+R. Sociedad,Celta,1-1,https://www.besoccer.com/match/real-sociedad/celta/201519992,2015,22,primera_division
+Córdoba,Almería,1-2,https://www.besoccer.com/match/cordoba/almeria/201519991,2015,22,primera_division
+Getafe,Sevilla,2-1,https://www.besoccer.com/match/getafe/sevilla/201519990,2015,22,primera_division
+Espanyol,Valencia,1-2,https://www.besoccer.com/match/espanyol/valencia-cf/201519989,2015,22,primera_division
+Athletic,Barcelona,2-5,https://www.besoccer.com/match/athletic-bilbao/barcelona/201520000,2015,22,primera_division
+Elche,Rayo Vallecano,2-0,https://www.besoccer.com/match/elche/rayo-vallecano/201519996,2015,22,primera_division
+Almería,R. Sociedad,2-2,https://www.besoccer.com/match/almeria/real-sociedad/201520002,2015,23,primera_division
+Sevilla,Córdoba,3-0,https://www.besoccer.com/match/sevilla/cordoba/201519999,2015,23,primera_division
+Real Madrid,Deportivo,2-0,https://www.besoccer.com/match/real-madrid/deportivo/201520006,2015,23,primera_division
+Granada,Athletic,0-0,https://www.besoccer.com/match/granada/athletic-bilbao/201520011,2015,23,primera_division
+Málaga,Espanyol,0-2,https://www.besoccer.com/match/malaga/espanyol/201519994,2015,23,primera_division
+Valencia,Getafe,1-0,https://www.besoccer.com/match/valencia-cf/getafe/201519997,2015,23,primera_division
+Barcelona,Levante,5-0,https://www.besoccer.com/match/barcelona/levante/201520013,2015,23,primera_division
+Rayo Vallecano,Villarreal,2-0,https://www.besoccer.com/match/rayo-vallecano/villarreal/201520009,2015,23,primera_division
+Celta,Atlético,2-0,https://www.besoccer.com/match/celta/atletico-madrid/201520004,2015,23,primera_division
+Eibar,Elche,0-1,https://www.besoccer.com/match/eibar/elche/201520008,2015,23,primera_division
+Getafe,Espanyol,2-1,https://www.besoccer.com/match/getafe/espanyol/201519762,2015,24,primera_division
+Barcelona,Málaga,0-1,https://www.besoccer.com/match/barcelona/malaga/201519792,2015,24,primera_division
+Córdoba,Valencia,1-2,https://www.besoccer.com/match/cordoba/valencia-cf/201519764,2015,24,primera_division
+Atlético,Almería,3-0,https://www.besoccer.com/match/atletico-madrid/almeria/201519766,2015,24,primera_division
+Deportivo,Celta,0-2,https://www.besoccer.com/match/deportivo/celta/201519771,2015,24,primera_division
+R. Sociedad,Sevilla,4-3,https://www.besoccer.com/match/real-sociedad/sevilla/201519765,2015,24,primera_division
+Athletic,Rayo Vallecano,1-0,https://www.besoccer.com/match/athletic-bilbao/rayo-vallecano/201519787,2015,24,primera_division
+Villarreal,Eibar,1-0,https://www.besoccer.com/match/villarreal/eibar/201520020,2015,24,primera_division
+Elche,Real Madrid,0-2,https://www.besoccer.com/match/elche/real-madrid/201519773,2015,24,primera_division
+Levante,Granada,2-1,https://www.besoccer.com/match/levante/granada/201519790,2015,24,primera_division
+Espanyol,Córdoba,1-0,https://www.besoccer.com/match/espanyol/cordoba/201519798,2015,25,primera_division
+Granada,Barcelona,1-3,https://www.besoccer.com/match/granada/barcelona/201519808,2015,25,primera_division
+Rayo Vallecano,Levante,4-2,https://www.besoccer.com/match/rayo-vallecano/levante/201519807,2015,25,primera_division
+Almería,Deportivo,0-0,https://www.besoccer.com/match/almeria/deportivo/201519803,2015,25,primera_division
+Málaga,Getafe,3-2,https://www.besoccer.com/match/malaga/getafe/201519796,2015,25,primera_division
+Valencia,R. Sociedad,2-0,https://www.besoccer.com/match/valencia-cf/real-sociedad/201519800,2015,25,primera_division
+Eibar,Athletic,0-1,https://www.besoccer.com/match/eibar/athletic-bilbao/201519806,2015,25,primera_division
+Sevilla,Atlético,0-0,https://www.besoccer.com/match/sevilla/atletico-madrid/201519802,2015,25,primera_division
+Real Madrid,Villarreal,1-1,https://www.besoccer.com/match/real-madrid/villarreal/201519805,2015,25,primera_division
+Celta,Elche,1-1,https://www.besoccer.com/match/celta/elche/201519804,2015,25,primera_division
+Levante,Eibar,2-1,https://www.besoccer.com/match/levante/eibar/201519829,2015,26,primera_division
+Deportivo,Sevilla,3-4,https://www.besoccer.com/match/deportivo/sevilla/201519820,2015,26,primera_division
+Athletic,Real Madrid,1-0,https://www.besoccer.com/match/athletic-bilbao/real-madrid/201519825,2015,26,primera_division
+Elche,Almería,1-0,https://www.besoccer.com/match/elche/almeria/201519821,2015,26,primera_division
+Granada,Málaga,1-0,https://www.besoccer.com/match/granada/malaga/201519832,2015,26,primera_division
+Barcelona,Rayo Vallecano,6-1,https://www.besoccer.com/match/barcelona/rayo-vallecano/201519831,2015,26,primera_division
+R. Sociedad,Espanyol,1-0,https://www.besoccer.com/match/real-sociedad/espanyol/201519813,2015,26,primera_division
+Villarreal,Celta,4-1,https://www.besoccer.com/match/villarreal/celta/201519824,2015,26,primera_division
+Atlético,Valencia,1-1,https://www.besoccer.com/match/atletico-madrid/valencia-cf/201519817,2015,26,primera_division
+Córdoba,Getafe,1-2,https://www.besoccer.com/match/cordoba/getafe/201519812,2015,26,primera_division
+Valencia,Deportivo,2-0,https://www.besoccer.com/match/valencia-cf/deportivo/201519841,2015,27,primera_division
+Espanyol,Atlético,0-0,https://www.besoccer.com/match/espanyol/atletico-madrid/201519840,2015,27,primera_division
+Eibar,Barcelona,0-2,https://www.besoccer.com/match/eibar/barcelona/201519849,2015,27,primera_division
+Rayo Vallecano,Granada,3-1,https://www.besoccer.com/match/rayo-vallecano/granada/201519851,2015,27,primera_division
+Celta,Athletic,1-2,https://www.besoccer.com/match/celta/athletic-bilbao/201519845,2015,27,primera_division
+Almería,Villarreal,0-0,https://www.besoccer.com/match/almeria/villarreal/201519844,2015,27,primera_division
+Málaga,Córdoba,2-0,https://www.besoccer.com/match/malaga/cordoba/201519837,2015,27,primera_division
+Sevilla,Elche,3-0,https://www.besoccer.com/match/sevilla/elche/201519843,2015,27,primera_division
+Real Madrid,Levante,2-0,https://www.besoccer.com/match/real-madrid/levante/201519848,2015,27,primera_division
+Getafe,R. Sociedad,0-1,https://www.besoccer.com/match/getafe/real-sociedad/201519839,2015,27,primera_division
+Elche,Valencia,0-4,https://www.besoccer.com/match/elche/valencia-cf/201519860,2015,28,primera_division
+Atlético,Getafe,2-0,https://www.besoccer.com/match/atletico-madrid/getafe/201519857,2015,28,primera_division
+Rayo Vallecano,Málaga,1-0,https://www.besoccer.com/match/rayo-vallecano/malaga/201519874,2015,28,primera_division
+Levante,Celta,0-1,https://www.besoccer.com/match/levante/celta/201519868,2015,28,primera_division
+Athletic,Almería,2-1,https://www.besoccer.com/match/athletic-bilbao/almeria/201519866,2015,28,primera_division
+Granada,Eibar,0-0,https://www.besoccer.com/match/granada/eibar/201519871,2015,28,primera_division
+Deportivo,Espanyol,0-0,https://www.besoccer.com/match/deportivo/espanyol/201519859,2015,28,primera_division
+Villarreal,Sevilla,0-2,https://www.besoccer.com/match/villarreal/sevilla/201519864,2015,28,primera_division
+R. Sociedad,Córdoba,3-1,https://www.besoccer.com/match/real-sociedad/cordoba/201519854,2015,28,primera_division
+Barcelona,Real Madrid,2-1,https://www.besoccer.com/match/barcelona/real-madrid/201519670,2015,28,primera_division
+Eibar,Rayo Vallecano,1-2,https://www.besoccer.com/match/eibar/rayo-vallecano/201519988,2015,29,primera_division
+Sevilla,Athletic,2-0,https://www.besoccer.com/match/sevilla/athletic-bilbao/201519980,2015,29,primera_division
+Córdoba,Atlético,0-2,https://www.besoccer.com/match/cordoba/atletico-madrid/201519966,2015,29,primera_division
+Almería,Levante,1-4,https://www.besoccer.com/match/almeria/levante/201519984,2015,29,primera_division
+Málaga,R. Sociedad,1-1,https://www.besoccer.com/match/malaga/real-sociedad/201519964,2015,29,primera_division
+Real Madrid,Granada,9-1,https://www.besoccer.com/match/real-madrid/granada/201519987,2015,29,primera_division
+Valencia,Villarreal,0-0,https://www.besoccer.com/match/valencia-cf/villarreal/201519976,2015,29,primera_division
+Getafe,Deportivo,2-1,https://www.besoccer.com/match/getafe/deportivo/201519970,2015,29,primera_division
+Celta,Barcelona,0-1,https://www.besoccer.com/match/celta/barcelona/201519986,2015,29,primera_division
+Espanyol,Elche,1-1,https://www.besoccer.com/match/espanyol/elche/201519973,2015,29,primera_division
+Atlético,R. Sociedad,2-0,https://www.besoccer.com/match/atletico-madrid/real-sociedad/201520003,2015,30,primera_division
+Levante,Sevilla,1-2,https://www.besoccer.com/match/levante/sevilla/201520014,2015,30,primera_division
+Eibar,Málaga,1-0,https://www.besoccer.com/match/eibar/malaga/201520018,2015,30,primera_division
+Deportivo,Córdoba,1-1,https://www.besoccer.com/match/deportivo/cordoba/201520005,2015,30,primera_division
+Barcelona,Almería,4-0,https://www.besoccer.com/match/barcelona/almeria/201520015,2015,30,primera_division
+Granada,Celta,1-1,https://www.besoccer.com/match/granada/celta/201520016,2015,30,primera_division
+Rayo Vallecano,Real Madrid,0-2,https://www.besoccer.com/match/rayo-vallecano/real-madrid/201520017,2015,30,primera_division
+Athletic,Valencia,1-1,https://www.besoccer.com/match/athletic-bilbao/valencia-cf/201520012,2015,30,primera_division
+Elche,Getafe,0-1,https://www.besoccer.com/match/elche/getafe/201520007,2015,30,primera_division
+Villarreal,Espanyol,0-3,https://www.besoccer.com/match/villarreal/espanyol/201520010,2015,30,primera_division
+Real Madrid,Eibar,3-0,https://www.besoccer.com/match/real-madrid/eibar/201519959,2015,31,primera_division
+Málaga,Atlético,2-2,https://www.besoccer.com/match/malaga/atletico-madrid/201519938,2015,31,primera_division
+Sevilla,Barcelona,2-2,https://www.besoccer.com/match/sevilla/barcelona/201519953,2015,31,primera_division
+Almería,Granada,3-0,https://www.besoccer.com/match/almeria/granada/201519955,2015,31,primera_division
+Celta,Rayo Vallecano,6-1,https://www.besoccer.com/match/celta/rayo-vallecano/201519957,2015,31,primera_division
+Getafe,Villarreal,1-1,https://www.besoccer.com/match/getafe/villarreal/201519946,2015,31,primera_division
+Espanyol,Athletic,1-0,https://www.besoccer.com/match/espanyol/athletic-bilbao/201519948,2015,31,primera_division
+R. Sociedad,Deportivo,2-2,https://www.besoccer.com/match/real-sociedad/deportivo/201519941,2015,31,primera_division
+Córdoba,Elche,0-2,https://www.besoccer.com/match/cordoba/elche/201519944,2015,31,primera_division
+Valencia,Levante,3-0,https://www.besoccer.com/match/valencia-cf/levante/201519950,2015,31,primera_division
+Levante,Espanyol,2-2,https://www.besoccer.com/match/levante/espanyol/201519914,2015,32,primera_division
+Barcelona,Valencia,2-0,https://www.besoccer.com/match/barcelona/valencia-cf/201519918,2015,32,primera_division
+Deportivo,Atlético,1-2,https://www.besoccer.com/match/deportivo/atletico-madrid/201519901,2015,32,primera_division
+Real Madrid,Málaga,3-1,https://www.besoccer.com/match/real-madrid/malaga/201519933,2015,32,primera_division
+Athletic,Getafe,4-0,https://www.besoccer.com/match/athletic-bilbao/getafe/201519911,2015,32,primera_division
+Rayo Vallecano,Almería,2-0,https://www.besoccer.com/match/rayo-vallecano/almeria/201519927,2015,32,primera_division
+Granada,Sevilla,1-1,https://www.besoccer.com/match/granada/sevilla/201519921,2015,32,primera_division
+Villarreal,Córdoba,0-0,https://www.besoccer.com/match/villarreal/cordoba/201519909,2015,32,primera_division
+Eibar,Celta,0-1,https://www.besoccer.com/match/eibar/celta/201519930,2015,32,primera_division
+Elche,R. Sociedad,1-0,https://www.besoccer.com/match/elche/real-sociedad/201519906,2015,32,primera_division
+Córdoba,Athletic,0-1,https://www.besoccer.com/match/cordoba/athletic-bilbao/201519883,2015,33,primera_division
+Espanyol,Barcelona,0-2,https://www.besoccer.com/match/espanyol/barcelona/201519887,2015,33,primera_division
+Atlético,Elche,3-0,https://www.besoccer.com/match/atletico-madrid/elche/201519877,2015,33,primera_division
+Getafe,Levante,0-1,https://www.besoccer.com/match/getafe/levante/201519885,2015,33,primera_division
+R. Sociedad,Villarreal,0-0,https://www.besoccer.com/match/real-sociedad/villarreal/201519882,2015,33,primera_division
+Málaga,Deportivo,1-1,https://www.besoccer.com/match/malaga/deportivo/201519873,2015,33,primera_division
+Almería,Eibar,2-0,https://www.besoccer.com/match/almeria/eibar/201519895,2015,33,primera_division
+Sevilla,Rayo Vallecano,2-0,https://www.besoccer.com/match/sevilla/rayo-vallecano/201519892,2015,33,primera_division
+Celta,Real Madrid,2-4,https://www.besoccer.com/match/celta/real-madrid/201519898,2015,33,primera_division
+Valencia,Granada,4-0,https://www.besoccer.com/match/valencia-cf/granada/201519890,2015,33,primera_division
+Barcelona,Getafe,6-0,https://www.besoccer.com/match/barcelona/getafe/201519838,2015,34,primera_division
+Athletic,R. Sociedad,1-1,https://www.besoccer.com/match/athletic-bilbao/real-sociedad/201519828,2015,34,primera_division
+Levante,Córdoba,1-0,https://www.besoccer.com/match/levante/cordoba/201519834,2015,34,primera_division
+Eibar,Sevilla,1-3,https://www.besoccer.com/match/eibar/sevilla/201519852,2015,34,primera_division
+Real Madrid,Almería,3-0,https://www.besoccer.com/match/real-madrid/almeria/201519855,2015,34,primera_division
+Celta,Málaga,1-0,https://www.besoccer.com/match/celta/malaga/201519862,2015,34,primera_division
+Elche,Deportivo,4-0,https://www.besoccer.com/match/elche/deportivo/201519818,2015,34,primera_division
+Villarreal,Atlético,0-1,https://www.besoccer.com/match/villarreal/atletico-madrid/201519823,2015,34,primera_division
+Rayo Vallecano,Valencia,1-1,https://www.besoccer.com/match/rayo-vallecano/valencia-cf/201519847,2015,34,primera_division
+Granada,Espanyol,1-2,https://www.besoccer.com/match/granada/espanyol/201519842,2015,34,primera_division
+R. Sociedad,Levante,3-0,https://www.besoccer.com/match/real-sociedad/levante/201519784,2015,35,primera_division
+Córdoba,Barcelona,0-8,https://www.besoccer.com/match/cordoba/barcelona/201519788,2015,35,primera_division
+Atlético,Athletic,0-0,https://www.besoccer.com/match/atletico-madrid/athletic-bilbao/201519780,2015,35,primera_division
+Sevilla,Real Madrid,2-3,https://www.besoccer.com/match/sevilla/real-madrid/201519811,2015,35,primera_division
+Deportivo,Villarreal,1-1,https://www.besoccer.com/match/deportivo/villarreal/201519776,2015,35,primera_division
+Espanyol,Rayo Vallecano,1-1,https://www.besoccer.com/match/espanyol/rayo-vallecano/201519797,2015,35,primera_division
+Getafe,Granada,1-2,https://www.besoccer.com/match/getafe/granada/201519793,2015,35,primera_division
+Valencia,Eibar,3-1,https://www.besoccer.com/match/valencia-cf/eibar/201519809,2015,35,primera_division
+Málaga,Elche,1-2,https://www.besoccer.com/match/malaga/elche/201519769,2015,35,primera_division
+Almería,Celta,2-2,https://www.besoccer.com/match/almeria/celta/201519815,2015,35,primera_division
+Eibar,Espanyol,0-2,https://www.besoccer.com/match/eibar/espanyol/201519733,2015,36,primera_division
+Granada,Córdoba,2-0,https://www.besoccer.com/match/granada/cordoba/201519728,2015,36,primera_division
+Barcelona,R. Sociedad,2-0,https://www.besoccer.com/match/barcelona/real-sociedad/201519724,2015,36,primera_division
+Real Madrid,Valencia,2-2,https://www.besoccer.com/match/real-madrid/valencia-cf/201519745,2015,36,primera_division
+Athletic,Deportivo,1-1,https://www.besoccer.com/match/athletic-bilbao/deportivo/201519711,2015,36,primera_division
+Levante,Atlético,2-2,https://www.besoccer.com/match/levante/atletico-madrid/201519717,2015,36,primera_division
+Villarreal,Elche,1-0,https://www.besoccer.com/match/villarreal/elche/201519707,2015,36,primera_division
+Almería,Málaga,1-2,https://www.besoccer.com/match/almeria/malaga/201519749,2015,36,primera_division
+Celta,Sevilla,1-1,https://www.besoccer.com/match/celta/sevilla/201519747,2015,36,primera_division
+Rayo Vallecano,Getafe,2-0,https://www.besoccer.com/match/rayo-vallecano/getafe/201519731,2015,36,primera_division
+Villarreal,Málaga,2-1,https://www.besoccer.com/match/villarreal/malaga/201519643,2015,37,primera_division
+Elche,Athletic,2-3,https://www.besoccer.com/match/elche/athletic-bilbao/201519649,2015,37,primera_division
+Deportivo,Levante,2-0,https://www.besoccer.com/match/deportivo/levante/201519653,2015,37,primera_division
+Atlético,Barcelona,0-1,https://www.besoccer.com/match/atletico-madrid/barcelona/201519682,2015,37,primera_division
+R. Sociedad,Granada,0-3,https://www.besoccer.com/match/real-sociedad/granada/201519686,2015,37,primera_division
+Córdoba,Rayo Vallecano,1-2,https://www.besoccer.com/match/cordoba/rayo-vallecano/201519689,2015,37,primera_division
+Getafe,Eibar,1-1,https://www.besoccer.com/match/getafe/eibar/201519691,2015,37,primera_division
+Espanyol,Real Madrid,1-4,https://www.besoccer.com/match/espanyol/real-madrid/201519693,2015,37,primera_division
+Valencia,Celta,1-1,https://www.besoccer.com/match/valencia-cf/celta/201519698,2015,37,primera_division
+Sevilla,Almería,2-1,https://www.besoccer.com/match/sevilla/almeria/201520019,2015,37,primera_division
+Levante,Elche,0-0,https://www.besoccer.com/match/levante/elche/201519629,2015,38,primera_division
+Athletic,Villarreal,4-0,https://www.besoccer.com/match/athletic-bilbao/villarreal/201519628,2015,38,primera_division
+Barcelona,Deportivo,2-2,https://www.besoccer.com/match/barcelona/deportivo/201519630,2015,38,primera_division
+Granada,Atlético,0-0,https://www.besoccer.com/match/granada/atletico-madrid/201519631,2015,38,primera_division
+Rayo Vallecano,R. Sociedad,2-4,https://www.besoccer.com/match/rayo-vallecano/real-sociedad/201519632,2015,38,primera_division
+Eibar,Córdoba,3-0,https://www.besoccer.com/match/eibar/cordoba/201519633,2015,38,primera_division
+Celta,Espanyol,3-2,https://www.besoccer.com/match/celta/espanyol/201519635,2015,38,primera_division
+Almería,Valencia,2-3,https://www.besoccer.com/match/almeria/valencia-cf/201519636,2015,38,primera_division
+Málaga,Sevilla,2-3,https://www.besoccer.com/match/malaga/sevilla/201519637,2015,38,primera_division
+Real Madrid,Getafe,7-3,https://www.besoccer.com/match/real-madrid/getafe/201519634,2015,38,primera_division

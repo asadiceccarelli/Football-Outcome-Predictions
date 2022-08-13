@@ -1,0 +1,463 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Mirandés,Getafe,1-1,https://www.besoccer.com/match/mirandes/getafe/201796670,2017,1,segunda_division
+Almería,Cádiz,1-1,https://www.besoccer.com/match/almeria/cadiz/201796684,2017,1,segunda_division
+Mallorca,Reus Deportiu,0-1,https://www.besoccer.com/match/mallorca/reus/201796675,2017,1,segunda_division
+Elche,Rayo Vallecano,2-1,https://www.besoccer.com/match/elche/rayo-vallecano/201796688,2017,1,segunda_division
+Alcorcón,Huesca,0-0,https://www.besoccer.com/match/ad-alcorcon/huesca/201796712,2017,1,segunda_division
+Córdoba,Tenerife,1-0,https://www.besoccer.com/match/cordoba/tenerife/201796698,2017,1,segunda_division
+Gimnàstic Tarragona,Lugo,2-2,https://www.besoccer.com/match/gimnastic-tarragona/lugo/201796707,2017,1,segunda_division
+Numancia,Levante,0-1,https://www.besoccer.com/match/numancia/levante/201796717,2017,1,segunda_division
+Sevilla At.,Girona,3-3,https://www.besoccer.com/match/sevilla-b/girona-fc/201796694,2017,1,segunda_division
+Real Valladolid,Real Oviedo,1-0,https://www.besoccer.com/match/valladolid/real-oviedo/201796901,2017,1,segunda_division
+Real Zaragoza,UCAM Murcia,3-1,https://www.besoccer.com/match/real-zaragoza/ucam-murcia-c-f/201796702,2017,1,segunda_division
+Getafe,Numancia,0-0,https://www.besoccer.com/match/getafe/numancia/201796722,2017,2,segunda_division
+Tenerife,Sevilla At.,1-1,https://www.besoccer.com/match/tenerife/sevilla-b/201796746,2017,2,segunda_division
+Reus Deportiu,Mirandés,1-1,https://www.besoccer.com/match/reus/mirandes/201796728,2017,2,segunda_division
+Real Oviedo,Almería,2-0,https://www.besoccer.com/match/real-oviedo/almeria/201796734,2017,2,segunda_division
+Girona,Elche,3-1,https://www.besoccer.com/match/girona-fc/elche/201796742,2017,2,segunda_division
+Lugo,Real Zaragoza,3-3,https://www.besoccer.com/match/lugo/real-zaragoza/201796754,2017,2,segunda_division
+UCAM Murcia,Córdoba,1-1,https://www.besoccer.com/match/ucam-murcia-c-f/cordoba/201796749,2017,2,segunda_division
+Huesca,Gimnàstic Tarragona,1-1,https://www.besoccer.com/match/huesca/gimnastic-tarragona/201796758,2017,2,segunda_division
+Levante,Alcorcón,2-0,https://www.besoccer.com/match/levante/ad-alcorcon/201796762,2017,2,segunda_division
+Rayo Vallecano,Real Valladolid,0-0,https://www.besoccer.com/match/rayo-vallecano/valladolid/201796737,2017,2,segunda_division
+Cádiz,Mallorca,1-1,https://www.besoccer.com/match/cadiz/mallorca/201796731,2017,2,segunda_division
+Sevilla At.,UCAM Murcia,1-1,https://www.besoccer.com/match/sevilla-b/ucam-murcia-c-f/201796800,2017,3,segunda_division
+Córdoba,Lugo,3-3,https://www.besoccer.com/match/cordoba/lugo/201796803,2017,3,segunda_division
+Mirandés,Cádiz,3-2,https://www.besoccer.com/match/mirandes/cadiz/201796772,2017,3,segunda_division
+Getafe,Reus Deportiu,1-1,https://www.besoccer.com/match/getafe/reus/201796768,2017,3,segunda_division
+Almería,Rayo Vallecano,3-0,https://www.besoccer.com/match/almeria/rayo-vallecano/201796786,2017,3,segunda_division
+Real Valladolid,Girona,2-1,https://www.besoccer.com/match/valladolid/girona-fc/201796792,2017,3,segunda_division
+Elche,Tenerife,3-1,https://www.besoccer.com/match/elche/tenerife/201796796,2017,3,segunda_division
+Numancia,Alcorcón,1-1,https://www.besoccer.com/match/numancia/ad-alcorcon/201796815,2017,3,segunda_division
+Gimnàstic Tarragona,Levante,1-1,https://www.besoccer.com/match/gimnastic-tarragona/levante/201796812,2017,3,segunda_division
+Mallorca,Real Oviedo,0-0,https://www.besoccer.com/match/mallorca/real-oviedo/201796776,2017,3,segunda_division
+Real Zaragoza,Huesca,1-0,https://www.besoccer.com/match/real-zaragoza/huesca/201796807,2017,3,segunda_division
+Lugo,Sevilla At.,1-0,https://www.besoccer.com/match/lugo/sevilla-b/201796853,2017,4,segunda_division
+Reus Deportiu,Numancia,1-1,https://www.besoccer.com/match/reus/numancia/201796821,2017,4,segunda_division
+Tenerife,Real Valladolid,1-0,https://www.besoccer.com/match/tenerife/valladolid/201796844,2017,4,segunda_division
+Levante,Real Zaragoza,4-2,https://www.besoccer.com/match/levante/real-zaragoza/201796862,2017,4,segunda_division
+Rayo Vallecano,Mallorca,1-0,https://www.besoccer.com/match/rayo-vallecano/mallorca/201796834,2017,4,segunda_division
+Real Oviedo,Mirandés,0-0,https://www.besoccer.com/match/real-oviedo/mirandes/201796828,2017,4,segunda_division
+Cádiz,Getafe,3-0,https://www.besoccer.com/match/cadiz/getafe/201796826,2017,4,segunda_division
+UCAM Murcia,Elche,1-1,https://www.besoccer.com/match/ucam-murcia-c-f/elche/201796848,2017,4,segunda_division
+Huesca,Córdoba,3-0,https://www.besoccer.com/match/huesca/cordoba/201796858,2017,4,segunda_division
+Alcorcón,Gimnàstic Tarragona,1-0,https://www.besoccer.com/match/ad-alcorcon/gimnastic-tarragona/201796864,2017,4,segunda_division
+Girona,Almería,3-3,https://www.besoccer.com/match/girona-fc/almeria/201796838,2017,4,segunda_division
+Numancia,Gimnàstic Tarragona,1-0,https://www.besoccer.com/match/numancia/gimnastic-tarragona/201796900,2017,5,segunda_division
+Reus Deportiu,Cádiz,1-0,https://www.besoccer.com/match/reus/cadiz/201796869,2017,5,segunda_division
+Real Valladolid,UCAM Murcia,0-1,https://www.besoccer.com/match/valladolid/ucam-murcia-c-f/201796887,2017,5,segunda_division
+Elche,Lugo,0-3,https://www.besoccer.com/match/elche/lugo/201796889,2017,5,segunda_division
+Córdoba,Levante,1-0,https://www.besoccer.com/match/cordoba/levante/201796896,2017,5,segunda_division
+Real Zaragoza,Alcorcón,2-0,https://www.besoccer.com/match/real-zaragoza/ad-alcorcon/201796898,2017,5,segunda_division
+Almería,Tenerife,0-1,https://www.besoccer.com/match/almeria/tenerife/201796884,2017,5,segunda_division
+Mirandés,Rayo Vallecano,2-1,https://www.besoccer.com/match/mirandes/rayo-vallecano/201796875,2017,5,segunda_division
+Getafe,Real Oviedo,2-1,https://www.besoccer.com/match/getafe/real-oviedo/201796874,2017,5,segunda_division
+Sevilla At.,Huesca,2-0,https://www.besoccer.com/match/sevilla-b/huesca/201796893,2017,5,segunda_division
+Mallorca,Girona,1-0,https://www.besoccer.com/match/mallorca/girona-fc/201796880,2017,5,segunda_division
+Lugo,Real Valladolid,1-0,https://www.besoccer.com/match/lugo/valladolid/201796708,2017,6,segunda_division
+Alcorcón,Córdoba,0-1,https://www.besoccer.com/match/ad-alcorcon/cordoba/201796724,2017,6,segunda_division
+Cádiz,Numancia,1-0,https://www.besoccer.com/match/cadiz/numancia/201796678,2017,6,segunda_division
+Gimnàstic Tarragona,Real Zaragoza,0-0,https://www.besoccer.com/match/gimnastic-tarragona/real-zaragoza/201796730,2017,6,segunda_division
+Huesca,Elche,0-3,https://www.besoccer.com/match/huesca/elche/201796714,2017,6,segunda_division
+Levante,Sevilla At.,1-0,https://www.besoccer.com/match/levante/sevilla-b/201796719,2017,6,segunda_division
+UCAM Murcia,Almería,4-0,https://www.besoccer.com/match/ucam-murcia-c-f/almeria/201796704,2017,6,segunda_division
+Real Oviedo,Reus Deportiu,0-1,https://www.besoccer.com/match/real-oviedo/reus/201796682,2017,6,segunda_division
+Rayo Vallecano,Getafe,2-0,https://www.besoccer.com/match/rayo-vallecano/getafe/201796686,2017,6,segunda_division
+Girona,Mirandés,1-1,https://www.besoccer.com/match/girona-fc/mirandes/201796692,2017,6,segunda_division
+Tenerife,Mallorca,0-0,https://www.besoccer.com/match/tenerife/mallorca/201796699,2017,6,segunda_division
+Sevilla At.,Alcorcón,1-1,https://www.besoccer.com/match/sevilla-b/ad-alcorcon/201796784,2017,7,segunda_division
+Real Valladolid,Huesca,1-2,https://www.besoccer.com/match/valladolid/huesca/201796771,2017,7,segunda_division
+Almería,Lugo,0-0,https://www.besoccer.com/match/almeria/lugo/201796765,2017,7,segunda_division
+Córdoba,Gimnàstic Tarragona,2-0,https://www.besoccer.com/match/cordoba/gimnastic-tarragona/201796789,2017,7,segunda_division
+Elche,Levante,0-1,https://www.besoccer.com/match/elche/levante/201796780,2017,7,segunda_division
+Cádiz,Real Oviedo,0-2,https://www.besoccer.com/match/cadiz/real-oviedo/201796739,2017,7,segunda_division
+Mirandés,Tenerife,3-2,https://www.besoccer.com/match/mirandes/tenerife/201796755,2017,7,segunda_division
+Getafe,Girona,0-2,https://www.besoccer.com/match/getafe/girona-fc/201796750,2017,7,segunda_division
+Mallorca,UCAM Murcia,0-0,https://www.besoccer.com/match/mallorca/ucam-murcia-c-f/201796760,2017,7,segunda_division
+Numancia,Real Zaragoza,2-1,https://www.besoccer.com/match/numancia/real-zaragoza/201796794,2017,7,segunda_division
+Reus Deportiu,Rayo Vallecano,1-1,https://www.besoccer.com/match/reus/rayo-vallecano/201796744,2017,7,segunda_division
+Huesca,Almería,2-0,https://www.besoccer.com/match/huesca/almeria/201796832,2017,8,segunda_division
+Lugo,Mallorca,3-1,https://www.besoccer.com/match/lugo/mallorca/201796830,2017,8,segunda_division
+Alcorcón,Elche,1-0,https://www.besoccer.com/match/ad-alcorcon/elche/201796847,2017,8,segunda_division
+Gimnàstic Tarragona,Sevilla At.,1-1,https://www.besoccer.com/match/gimnastic-tarragona/sevilla-b/201796854,2017,8,segunda_division
+Real Zaragoza,Córdoba,1-1,https://www.besoccer.com/match/real-zaragoza/cordoba/201796857,2017,8,segunda_division
+UCAM Murcia,Mirandés,2-2,https://www.besoccer.com/match/ucam-murcia-c-f/mirandes/201796825,2017,8,segunda_division
+Girona,Reus Deportiu,1-0,https://www.besoccer.com/match/girona-fc/reus/201796819,2017,8,segunda_division
+Levante,Real Valladolid,3-2,https://www.besoccer.com/match/levante/valladolid/201796841,2017,8,segunda_division
+Real Oviedo,Numancia,2-2,https://www.besoccer.com/match/real-oviedo/numancia/201796806,2017,8,segunda_division
+Tenerife,Getafe,0-0,https://www.besoccer.com/match/tenerife/getafe/201796823,2017,8,segunda_division
+Rayo Vallecano,Cádiz,3-0,https://www.besoccer.com/match/rayo-vallecano/cadiz/201796811,2017,8,segunda_division
+Reus Deportiu,Tenerife,0-0,https://www.besoccer.com/match/reus/tenerife/201796873,2017,9,segunda_division
+Getafe,UCAM Murcia,2-0,https://www.besoccer.com/match/getafe/ucam-murcia-c-f/201796878,2017,9,segunda_division
+Real Valladolid,Alcorcón,2-0,https://www.besoccer.com/match/valladolid/ad-alcorcon/201796892,2017,9,segunda_division
+Elche,Gimnàstic Tarragona,4-4,https://www.besoccer.com/match/elche/gimnastic-tarragona/201796895,2017,9,segunda_division
+Numancia,Córdoba,1-1,https://www.besoccer.com/match/numancia/cordoba/201796899,2017,9,segunda_division
+Sevilla At.,Real Zaragoza,2-1,https://www.besoccer.com/match/sevilla-b/real-zaragoza/201796897,2017,9,segunda_division
+Real Oviedo,Rayo Vallecano,2-0,https://www.besoccer.com/match/real-oviedo/rayo-vallecano/201796866,2017,9,segunda_division
+Mirandés,Lugo,2-2,https://www.besoccer.com/match/mirandes/lugo/201796881,2017,9,segunda_division
+Cádiz,Girona,0-0,https://www.besoccer.com/match/cadiz/girona-fc/201796871,2017,9,segunda_division
+Mallorca,Huesca,3-0,https://www.besoccer.com/match/mallorca/huesca/201796886,2017,9,segunda_division
+Almería,Levante,2-2,https://www.besoccer.com/match/almeria/levante/201796890,2017,9,segunda_division
+Lugo,Getafe,0-1,https://www.besoccer.com/match/lugo/getafe/201796691,2017,10,segunda_division
+Girona,Real Oviedo,0-0,https://www.besoccer.com/match/girona-fc/real-oviedo/201796677,2017,10,segunda_division
+Huesca,Mirandés,3-0,https://www.besoccer.com/match/huesca/mirandes/201796697,2017,10,segunda_division
+Alcorcón,Almería,0-0,https://www.besoccer.com/match/ad-alcorcon/almeria/201796710,2017,10,segunda_division
+Levante,Mallorca,2-1,https://www.besoccer.com/match/levante/mallorca/201796701,2017,10,segunda_division
+Real Zaragoza,Elche,1-3,https://www.besoccer.com/match/real-zaragoza/elche/201796721,2017,10,segunda_division
+Córdoba,Sevilla At.,0-1,https://www.besoccer.com/match/cordoba/sevilla-b/201796727,2017,10,segunda_division
+Rayo Vallecano,Numancia,3-3,https://www.besoccer.com/match/rayo-vallecano/numancia/201796674,2017,10,segunda_division
+UCAM Murcia,Reus Deportiu,0-2,https://www.besoccer.com/match/ucam-murcia-c-f/reus/201796687,2017,10,segunda_division
+Gimnàstic Tarragona,Real Valladolid,1-2,https://www.besoccer.com/match/gimnastic-tarragona/valladolid/201796716,2017,10,segunda_division
+Tenerife,Cádiz,1-1,https://www.besoccer.com/match/tenerife/cadiz/201796681,2017,10,segunda_division
+Elche,Córdoba,1-1,https://www.besoccer.com/match/elche/cordoba/201796797,2017,11,segunda_division
+Reus Deportiu,Lugo,2-1,https://www.besoccer.com/match/reus/lugo/201796752,2017,11,segunda_division
+Getafe,Huesca,1-1,https://www.besoccer.com/match/getafe/huesca/201796763,2017,11,segunda_division
+Numancia,Sevilla At.,1-2,https://www.besoccer.com/match/numancia/sevilla-b/201796801,2017,11,segunda_division
+Rayo Vallecano,Girona,1-0,https://www.besoccer.com/match/rayo-vallecano/girona-fc/201796736,2017,11,segunda_division
+Mallorca,Alcorcón,1-0,https://www.besoccer.com/match/mallorca/ad-alcorcon/201796773,2017,11,segunda_division
+Real Valladolid,Real Zaragoza,0-0,https://www.besoccer.com/match/valladolid/real-zaragoza/201796788,2017,11,segunda_division
+Almería,Gimnàstic Tarragona,3-0,https://www.besoccer.com/match/almeria/gimnastic-tarragona/201796777,2017,11,segunda_division
+Cádiz,UCAM Murcia,2-2,https://www.besoccer.com/match/cadiz/ucam-murcia-c-f/201796747,2017,11,segunda_division
+Mirandés,Levante,0-3,https://www.besoccer.com/match/mirandes/levante/201796767,2017,11,segunda_division
+Real Oviedo,Tenerife,2-0,https://www.besoccer.com/match/real-oviedo/tenerife/201796741,2017,11,segunda_division
+Huesca,Reus Deportiu,2-1,https://www.besoccer.com/match/huesca/reus/201796836,2017,12,segunda_division
+Tenerife,Rayo Vallecano,3-2,https://www.besoccer.com/match/tenerife/rayo-vallecano/201796816,2017,12,segunda_division
+Real Zaragoza,Almería,2-1,https://www.besoccer.com/match/real-zaragoza/almeria/201796859,2017,12,segunda_division
+Córdoba,Real Valladolid,1-1,https://www.besoccer.com/match/cordoba/valladolid/201796861,2017,12,segunda_division
+Girona,Numancia,3-0,https://www.besoccer.com/match/girona-fc/numancia/201796810,2017,12,segunda_division
+Sevilla At.,Elche,2-0,https://www.besoccer.com/match/sevilla-b/elche/201796867,2017,12,segunda_division
+Lugo,Cádiz,0-1,https://www.besoccer.com/match/lugo/cadiz/201796829,2017,12,segunda_division
+UCAM Murcia,Real Oviedo,0-1,https://www.besoccer.com/match/ucam-murcia-c-f/real-oviedo/201796827,2017,12,segunda_division
+Alcorcón,Mirandés,1-0,https://www.besoccer.com/match/ad-alcorcon/mirandes/201796846,2017,12,segunda_division
+Gimnàstic Tarragona,Mallorca,2-2,https://www.besoccer.com/match/gimnastic-tarragona/mallorca/201796852,2017,12,segunda_division
+Levante,Getafe,1-1,https://www.besoccer.com/match/levante/getafe/201796842,2017,12,segunda_division
+Cádiz,Huesca,1-0,https://www.besoccer.com/match/cadiz/huesca/201796894,2017,13,segunda_division
+Girona,Tenerife,1-1,https://www.besoccer.com/match/girona-fc/tenerife/201796870,2017,13,segunda_division
+Real Valladolid,Sevilla At.,2-0,https://www.besoccer.com/match/valladolid/sevilla-b/201796876,2017,13,segunda_division
+Rayo Vallecano,UCAM Murcia,0-1,https://www.besoccer.com/match/rayo-vallecano/ucam-murcia-c-f/201796877,2017,13,segunda_division
+Mallorca,Real Zaragoza,2-2,https://www.besoccer.com/match/mallorca/real-zaragoza/201796882,2017,13,segunda_division
+Mirandés,Gimnàstic Tarragona,0-1,https://www.besoccer.com/match/mirandes/gimnastic-tarragona/201796885,2017,13,segunda_division
+Numancia,Elche,2-2,https://www.besoccer.com/match/numancia/elche/201796872,2017,13,segunda_division
+Almería,Córdoba,3-1,https://www.besoccer.com/match/almeria/cordoba/201796879,2017,13,segunda_division
+Real Oviedo,Lugo,1-1,https://www.besoccer.com/match/real-oviedo/lugo/201796883,2017,13,segunda_division
+Getafe,Alcorcón,1-0,https://www.besoccer.com/match/getafe/ad-alcorcon/201796888,2017,13,segunda_division
+Reus Deportiu,Levante,0-1,https://www.besoccer.com/match/reus/levante/201796891,2017,13,segunda_division
+Córdoba,Mallorca,0-2,https://www.besoccer.com/match/cordoba/mallorca/201796733,2017,14,segunda_division
+Elche,Real Valladolid,2-0,https://www.besoccer.com/match/elche/valladolid/201796743,2017,14,segunda_division
+Gimnàstic Tarragona,Getafe,1-0,https://www.besoccer.com/match/gimnastic-tarragona/getafe/201796720,2017,14,segunda_division
+Huesca,Real Oviedo,4-0,https://www.besoccer.com/match/huesca/real-oviedo/201796705,2017,14,segunda_division
+Tenerife,Numancia,1-1,https://www.besoccer.com/match/tenerife/numancia/201796690,2017,14,segunda_division
+Alcorcón,Reus Deportiu,1-0,https://www.besoccer.com/match/ad-alcorcon/reus/201796715,2017,14,segunda_division
+Levante,Cádiz,0-0,https://www.besoccer.com/match/levante/cadiz/201796711,2017,14,segunda_division
+Lugo,Rayo Vallecano,1-0,https://www.besoccer.com/match/lugo/rayo-vallecano/201796700,2017,14,segunda_division
+Sevilla At.,Almería,1-0,https://www.besoccer.com/match/sevilla-b/almeria/201796738,2017,14,segunda_division
+UCAM Murcia,Girona,0-1,https://www.besoccer.com/match/ucam-murcia-c-f/girona-fc/201796695,2017,14,segunda_division
+Real Zaragoza,Mirandés,2-0,https://www.besoccer.com/match/real-zaragoza/mirandes/201796726,2017,14,segunda_division
+Almería,Elche,2-1,https://www.besoccer.com/match/almeria/elche/201796793,2017,15,segunda_division
+Numancia,Real Valladolid,2-1,https://www.besoccer.com/match/numancia/valladolid/201796798,2017,15,segunda_division
+Mallorca,Sevilla At.,2-2,https://www.besoccer.com/match/mallorca/sevilla-b/201796790,2017,15,segunda_division
+Real Oviedo,Levante,2-0,https://www.besoccer.com/match/real-oviedo/levante/201796769,2017,15,segunda_division
+Girona,Lugo,3-1,https://www.besoccer.com/match/girona-fc/lugo/201796756,2017,15,segunda_division
+Reus Deportiu,Gimnàstic Tarragona,1-0,https://www.besoccer.com/match/reus/gimnastic-tarragona/201796779,2017,15,segunda_division
+Getafe,Real Zaragoza,1-0,https://www.besoccer.com/match/getafe/real-zaragoza/201796782,2017,15,segunda_division
+Tenerife,UCAM Murcia,2-1,https://www.besoccer.com/match/tenerife/ucam-murcia-c-f/201796751,2017,15,segunda_division
+Rayo Vallecano,Huesca,2-2,https://www.besoccer.com/match/rayo-vallecano/huesca/201796759,2017,15,segunda_division
+Cádiz,Alcorcón,4-1,https://www.besoccer.com/match/cadiz/ad-alcorcon/201796774,2017,15,segunda_division
+Mirandés,Córdoba,1-1,https://www.besoccer.com/match/mirandes/cordoba/201796785,2017,15,segunda_division
+Gimnàstic Tarragona,Cádiz,1-0,https://www.besoccer.com/match/gimnastic-tarragona/cadiz/201796824,2017,16,segunda_division
+Lugo,Tenerife,1-3,https://www.besoccer.com/match/lugo/tenerife/201796808,2017,16,segunda_division
+UCAM Murcia,Numancia,3-2,https://www.besoccer.com/match/ucam-murcia-c-f/numancia/201796804,2017,16,segunda_division
+Alcorcón,Real Oviedo,5-1,https://www.besoccer.com/match/ad-alcorcon/real-oviedo/201796822,2017,16,segunda_division
+Real Valladolid,Almería,0-0,https://www.besoccer.com/match/valladolid/almeria/201796855,2017,16,segunda_division
+Real Zaragoza,Reus Deportiu,2-2,https://www.besoccer.com/match/real-zaragoza/reus/201796833,2017,16,segunda_division
+Elche,Mallorca,1-0,https://www.besoccer.com/match/elche/mallorca/201796849,2017,16,segunda_division
+Huesca,Girona,1-2,https://www.besoccer.com/match/huesca/girona-fc/201796813,2017,16,segunda_division
+Córdoba,Getafe,1-3,https://www.besoccer.com/match/cordoba/getafe/201796839,2017,16,segunda_division
+Sevilla At.,Mirandés,1-0,https://www.besoccer.com/match/sevilla-b/mirandes/201796843,2017,16,segunda_division
+Levante,Rayo Vallecano,1-0,https://www.besoccer.com/match/levante/rayo-vallecano/201796817,2017,16,segunda_division
+Getafe,Sevilla At.,2-0,https://www.besoccer.com/match/getafe/sevilla-b/201796856,2017,17,segunda_division
+UCAM Murcia,Lugo,1-2,https://www.besoccer.com/match/ucam-murcia-c-f/lugo/201796831,2017,17,segunda_division
+Mirandés,Elche,1-0,https://www.besoccer.com/match/mirandes/elche/201796860,2017,17,segunda_division
+Numancia,Almería,1-0,https://www.besoccer.com/match/numancia/almeria/201796865,2017,17,segunda_division
+Cádiz,Real Zaragoza,3-0,https://www.besoccer.com/match/cadiz/real-zaragoza/201796850,2017,17,segunda_division
+Girona,Levante,2-1,https://www.besoccer.com/match/girona-fc/levante/201796837,2017,17,segunda_division
+Rayo Vallecano,Alcorcón,2-0,https://www.besoccer.com/match/rayo-vallecano/ad-alcorcon/201796840,2017,17,segunda_division
+Real Oviedo,Gimnàstic Tarragona,1-0,https://www.besoccer.com/match/real-oviedo/gimnastic-tarragona/201796845,2017,17,segunda_division
+Tenerife,Huesca,1-1,https://www.besoccer.com/match/tenerife/huesca/201796835,2017,17,segunda_division
+Mallorca,Real Valladolid,0-3,https://www.besoccer.com/match/mallorca/valladolid/201796863,2017,17,segunda_division
+Reus Deportiu,Córdoba,1-2,https://www.besoccer.com/match/reus/cordoba/201796851,2017,17,segunda_division
+Sevilla At.,Reus Deportiu,0-1,https://www.besoccer.com/match/sevilla-b/reus/201796685,2017,18,segunda_division
+Gimnàstic Tarragona,Rayo Vallecano,0-1,https://www.besoccer.com/match/gimnastic-tarragona/rayo-vallecano/201796679,2017,18,segunda_division
+Huesca,UCAM Murcia,5-2,https://www.besoccer.com/match/huesca/ucam-murcia-c-f/201796671,2017,18,segunda_division
+Elche,Getafe,2-2,https://www.besoccer.com/match/elche/getafe/201796689,2017,18,segunda_division
+Levante,Tenerife,1-0,https://www.besoccer.com/match/levante/tenerife/201796673,2017,18,segunda_division
+Almería,Mallorca,2-1,https://www.besoccer.com/match/almeria/mallorca/201796696,2017,18,segunda_division
+Córdoba,Cádiz,1-3,https://www.besoccer.com/match/cordoba/cadiz/201796683,2017,18,segunda_division
+Lugo,Numancia,3-1,https://www.besoccer.com/match/lugo/numancia/201796669,2017,18,segunda_division
+Alcorcón,Girona,2-1,https://www.besoccer.com/match/ad-alcorcon/girona-fc/201796676,2017,18,segunda_division
+Real Valladolid,Mirandés,5-0,https://www.besoccer.com/match/valladolid/mirandes/201796693,2017,18,segunda_division
+Real Zaragoza,Real Oviedo,2-1,https://www.besoccer.com/match/real-zaragoza/real-oviedo/201796680,2017,18,segunda_division
+Reus Deportiu,Elche,0-1,https://www.besoccer.com/match/reus/elche/201796729,2017,19,segunda_division
+Getafe,Real Valladolid,3-1,https://www.besoccer.com/match/getafe/valladolid/201796732,2017,19,segunda_division
+Lugo,Huesca,1-1,https://www.besoccer.com/match/lugo/huesca/201796703,2017,19,segunda_division
+Tenerife,Alcorcón,2-0,https://www.besoccer.com/match/tenerife/ad-alcorcon/201796709,2017,19,segunda_division
+Real Oviedo,Córdoba,1-2,https://www.besoccer.com/match/real-oviedo/cordoba/201796723,2017,19,segunda_division
+Girona,Gimnàstic Tarragona,4-2,https://www.besoccer.com/match/girona-fc/gimnastic-tarragona/201796713,2017,19,segunda_division
+Rayo Vallecano,Real Zaragoza,1-2,https://www.besoccer.com/match/rayo-vallecano/real-zaragoza/201796718,2017,19,segunda_division
+Mirandés,Almería,2-1,https://www.besoccer.com/match/mirandes/almeria/201796735,2017,19,segunda_division
+Numancia,Mallorca,3-1,https://www.besoccer.com/match/numancia/mallorca/201796740,2017,19,segunda_division
+Cádiz,Sevilla At.,4-1,https://www.besoccer.com/match/cadiz/sevilla-b/201796725,2017,19,segunda_division
+UCAM Murcia,Levante,0-2,https://www.besoccer.com/match/ucam-murcia-c-f/levante/201796706,2017,19,segunda_division
+Real Valladolid,Reus Deportiu,1-0,https://www.besoccer.com/match/valladolid/reus/201796775,2017,20,segunda_division
+Almería,Getafe,0-1,https://www.besoccer.com/match/almeria/getafe/201796778,2017,20,segunda_division
+Numancia,Huesca,0-0,https://www.besoccer.com/match/numancia/huesca/201796745,2017,20,segunda_division
+Mallorca,Mirandés,2-0,https://www.besoccer.com/match/mallorca/mirandes/201796781,2017,20,segunda_division
+Levante,Lugo,1-0,https://www.besoccer.com/match/levante/lugo/201796748,2017,20,segunda_division
+Córdoba,Rayo Vallecano,0-0,https://www.besoccer.com/match/cordoba/rayo-vallecano/201796764,2017,20,segunda_division
+Alcorcón,UCAM Murcia,0-0,https://www.besoccer.com/match/ad-alcorcon/ucam-murcia-c-f/201796753,2017,20,segunda_division
+Gimnàstic Tarragona,Tenerife,1-1,https://www.besoccer.com/match/gimnastic-tarragona/tenerife/201796757,2017,20,segunda_division
+Real Zaragoza,Girona,0-2,https://www.besoccer.com/match/real-zaragoza/girona-fc/201796761,2017,20,segunda_division
+Elche,Cádiz,2-3,https://www.besoccer.com/match/elche/cadiz/201796770,2017,20,segunda_division
+Sevilla At.,Real Oviedo,5-3,https://www.besoccer.com/match/sevilla-b/real-oviedo/201796766,2017,20,segunda_division
+Cádiz,Real Valladolid,0-1,https://www.besoccer.com/match/cadiz/valladolid/201796809,2017,21,segunda_division
+Rayo Vallecano,Sevilla At.,1-1,https://www.besoccer.com/match/rayo-vallecano/sevilla-b/201796802,2017,21,segunda_division
+UCAM Murcia,Gimnàstic Tarragona,1-1,https://www.besoccer.com/match/ucam-murcia-c-f/gimnastic-tarragona/201796791,2017,21,segunda_division
+Real Oviedo,Elche,2-1,https://www.besoccer.com/match/real-oviedo/elche/201796805,2017,21,segunda_division
+Mirandés,Numancia,0-3,https://www.besoccer.com/match/mirandes/numancia/201796820,2017,21,segunda_division
+Tenerife,Real Zaragoza,1-0,https://www.besoccer.com/match/tenerife/real-zaragoza/201796795,2017,21,segunda_division
+Getafe,Mallorca,1-1,https://www.besoccer.com/match/getafe/mallorca/201796818,2017,21,segunda_division
+Reus Deportiu,Almería,1-0,https://www.besoccer.com/match/reus/almeria/201796814,2017,21,segunda_division
+Huesca,Levante,0-2,https://www.besoccer.com/match/huesca/levante/201796783,2017,21,segunda_division
+Lugo,Alcorcón,1-0,https://www.besoccer.com/match/lugo/ad-alcorcon/201796787,2017,21,segunda_division
+Girona,Córdoba,2-0,https://www.besoccer.com/match/girona-fc/cordoba/201796799,2017,21,segunda_division
+Real Oviedo,Real Valladolid,1-0,https://www.besoccer.com/match/real-oviedo/valladolid/201796912,2017,22,segunda_division
+Rayo Vallecano,Elche,1-1,https://www.besoccer.com/match/rayo-vallecano/elche/201796905,2017,22,segunda_division
+Tenerife,Córdoba,2-0,https://www.besoccer.com/match/tenerife/cordoba/201796907,2017,22,segunda_division
+Lugo,Gimnàstic Tarragona,2-3,https://www.besoccer.com/match/lugo/gimnastic-tarragona/201796909,2017,22,segunda_division
+Huesca,Alcorcón,0-1,https://www.besoccer.com/match/huesca/ad-alcorcon/201796910,2017,22,segunda_division
+UCAM Murcia,Real Zaragoza,1-0,https://www.besoccer.com/match/ucam-murcia-c-f/real-zaragoza/201796908,2017,22,segunda_division
+Levante,Numancia,1-0,https://www.besoccer.com/match/levante/numancia/201796911,2017,22,segunda_division
+Reus Deportiu,Mallorca,1-1,https://www.besoccer.com/match/reus/mallorca/201796903,2017,22,segunda_division
+Getafe,Mirandés,1-1,https://www.besoccer.com/match/getafe/mirandes/201796902,2017,22,segunda_division
+Girona,Sevilla At.,2-0,https://www.besoccer.com/match/girona-fc/sevilla-b/201796906,2017,22,segunda_division
+Cádiz,Almería,1-0,https://www.besoccer.com/match/cadiz/almeria/201796904,2017,22,segunda_division
+Elche,Girona,1-0,https://www.besoccer.com/match/elche/girona-fc/201796918,2017,23,segunda_division
+Sevilla At.,Tenerife,0-0,https://www.besoccer.com/match/sevilla-b/tenerife/201796919,2017,23,segunda_division
+Mirandés,Reus Deportiu,1-1,https://www.besoccer.com/match/mirandes/reus/201796914,2017,23,segunda_division
+Gimnàstic Tarragona,Huesca,0-0,https://www.besoccer.com/match/gimnastic-tarragona/huesca/201796922,2017,23,segunda_division
+Alcorcón,Levante,2-0,https://www.besoccer.com/match/ad-alcorcon/levante/201796923,2017,23,segunda_division
+Real Valladolid,Rayo Vallecano,2-1,https://www.besoccer.com/match/valladolid/rayo-vallecano/201796917,2017,23,segunda_division
+Numancia,Getafe,2-0,https://www.besoccer.com/match/numancia/getafe/201796913,2017,23,segunda_division
+Córdoba,UCAM Murcia,1-1,https://www.besoccer.com/match/cordoba/ucam-murcia-c-f/201796920,2017,23,segunda_division
+Mallorca,Cádiz,0-0,https://www.besoccer.com/match/mallorca/cadiz/201796915,2017,23,segunda_division
+Almería,Real Oviedo,3-0,https://www.besoccer.com/match/almeria/real-oviedo/201796916,2017,23,segunda_division
+Real Zaragoza,Lugo,1-1,https://www.besoccer.com/match/real-zaragoza/lugo/201796921,2017,23,segunda_division
+UCAM Murcia,Sevilla At.,1-0,https://www.besoccer.com/match/ucam-murcia-c-f/sevilla-b/201796930,2017,24,segunda_division
+Alcorcón,Numancia,2-3,https://www.besoccer.com/match/ad-alcorcon/numancia/201796934,2017,24,segunda_division
+Cádiz,Mirandés,2-1,https://www.besoccer.com/match/cadiz/mirandes/201796925,2017,24,segunda_division
+Tenerife,Elche,2-0,https://www.besoccer.com/match/tenerife/elche/201796929,2017,24,segunda_division
+Lugo,Córdoba,1-0,https://www.besoccer.com/match/lugo/cordoba/201796931,2017,24,segunda_division
+Huesca,Real Zaragoza,2-3,https://www.besoccer.com/match/huesca/real-zaragoza/201796932,2017,24,segunda_division
+Real Oviedo,Mallorca,2-1,https://www.besoccer.com/match/real-oviedo/mallorca/201796926,2017,24,segunda_division
+Rayo Vallecano,Almería,1-0,https://www.besoccer.com/match/rayo-vallecano/almeria/201796927,2017,24,segunda_division
+Reus Deportiu,Getafe,1-1,https://www.besoccer.com/match/reus/getafe/201796924,2017,24,segunda_division
+Levante,Gimnàstic Tarragona,2-1,https://www.besoccer.com/match/levante/gimnastic-tarragona/201796933,2017,24,segunda_division
+Girona,Real Valladolid,2-1,https://www.besoccer.com/match/girona-fc/valladolid/201796928,2017,24,segunda_division
+Sevilla At.,Lugo,1-1,https://www.besoccer.com/match/sevilla-b/lugo/201796942,2017,25,segunda_division
+Almería,Girona,0-0,https://www.besoccer.com/match/almeria/girona-fc/201796939,2017,25,segunda_division
+Real Zaragoza,Levante,0-1,https://www.besoccer.com/match/real-zaragoza/levante/201796944,2017,25,segunda_division
+Gimnàstic Tarragona,Alcorcón,1-1,https://www.besoccer.com/match/gimnastic-tarragona/ad-alcorcon/201796945,2017,25,segunda_division
+Getafe,Cádiz,3-2,https://www.besoccer.com/match/getafe/cadiz/201796936,2017,25,segunda_division
+Córdoba,Huesca,0-2,https://www.besoccer.com/match/cordoba/huesca/201796943,2017,25,segunda_division
+Real Valladolid,Tenerife,0-0,https://www.besoccer.com/match/valladolid/tenerife/201796940,2017,25,segunda_division
+Numancia,Reus Deportiu,1-0,https://www.besoccer.com/match/numancia/reus/201796935,2017,25,segunda_division
+Mirandés,Real Oviedo,0-2,https://www.besoccer.com/match/mirandes/real-oviedo/201796937,2017,25,segunda_division
+Elche,UCAM Murcia,1-1,https://www.besoccer.com/match/elche/ucam-murcia-c-f/201796941,2017,25,segunda_division
+Mallorca,Rayo Vallecano,2-1,https://www.besoccer.com/match/mallorca/rayo-vallecano/201796938,2017,25,segunda_division
+Lugo,Elche,1-2,https://www.besoccer.com/match/lugo/elche/201796952,2017,26,segunda_division
+UCAM Murcia,Real Valladolid,1-3,https://www.besoccer.com/match/ucam-murcia-c-f/valladolid/201796951,2017,26,segunda_division
+Tenerife,Almería,1-0,https://www.besoccer.com/match/tenerife/almeria/201796950,2017,26,segunda_division
+Levante,Córdoba,3-1,https://www.besoccer.com/match/levante/cordoba/201796954,2017,26,segunda_division
+Gimnàstic Tarragona,Numancia,2-0,https://www.besoccer.com/match/gimnastic-tarragona/numancia/201796956,2017,26,segunda_division
+Girona,Mallorca,1-0,https://www.besoccer.com/match/girona-fc/mallorca/201796949,2017,26,segunda_division
+Huesca,Sevilla At.,2-1,https://www.besoccer.com/match/huesca/sevilla-b/201796953,2017,26,segunda_division
+Cádiz,Reus Deportiu,0-0,https://www.besoccer.com/match/cadiz/reus/201796946,2017,26,segunda_division
+Real Oviedo,Getafe,2-1,https://www.besoccer.com/match/real-oviedo/getafe/201796947,2017,26,segunda_division
+Rayo Vallecano,Mirandés,1-2,https://www.besoccer.com/match/rayo-vallecano/mirandes/201796948,2017,26,segunda_division
+Alcorcón,Real Zaragoza,1-1,https://www.besoccer.com/match/ad-alcorcon/real-zaragoza/201796955,2017,26,segunda_division
+Reus Deportiu,Real Oviedo,1-1,https://www.besoccer.com/match/reus/real-oviedo/201796958,2017,27,segunda_division
+Córdoba,Alcorcón,1-0,https://www.besoccer.com/match/cordoba/ad-alcorcon/201796966,2017,27,segunda_division
+Mirandés,Girona,0-2,https://www.besoccer.com/match/mirandes/girona-fc/201796960,2017,27,segunda_division
+Mallorca,Tenerife,1-4,https://www.besoccer.com/match/mallorca/tenerife/201796961,2017,27,segunda_division
+Elche,Huesca,1-1,https://www.besoccer.com/match/elche/huesca/201796964,2017,27,segunda_division
+Getafe,Rayo Vallecano,1-0,https://www.besoccer.com/match/getafe/rayo-vallecano/201796959,2017,27,segunda_division
+Numancia,Cádiz,0-3,https://www.besoccer.com/match/numancia/cadiz/201796957,2017,27,segunda_division
+Almería,UCAM Murcia,2-3,https://www.besoccer.com/match/almeria/ucam-murcia-c-f/201796962,2017,27,segunda_division
+Real Valladolid,Lugo,1-1,https://www.besoccer.com/match/valladolid/lugo/201796963,2017,27,segunda_division
+Sevilla At.,Levante,1-1,https://www.besoccer.com/match/sevilla-b/levante/201796965,2017,27,segunda_division
+Real Zaragoza,Gimnàstic Tarragona,1-2,https://www.besoccer.com/match/real-zaragoza/gimnastic-tarragona/201796967,2017,27,segunda_division
+Tenerife,Mirandés,1-1,https://www.besoccer.com/match/tenerife/mirandes/201796971,2017,28,segunda_division
+Alcorcón,Sevilla At.,0-0,https://www.besoccer.com/match/ad-alcorcon/sevilla-b/201796976,2017,28,segunda_division
+Rayo Vallecano,Reus Deportiu,0-0,https://www.besoccer.com/match/rayo-vallecano/reus/201796969,2017,28,segunda_division
+Girona,Getafe,5-1,https://www.besoccer.com/match/girona-fc/getafe/201796970,2017,28,segunda_division
+Real Oviedo,Cádiz,2-1,https://www.besoccer.com/match/real-oviedo/cadiz/201796968,2017,28,segunda_division
+UCAM Murcia,Mallorca,1-1,https://www.besoccer.com/match/ucam-murcia-c-f/mallorca/201796972,2017,28,segunda_division
+Huesca,Real Valladolid,1-0,https://www.besoccer.com/match/huesca/valladolid/201796974,2017,28,segunda_division
+Lugo,Almería,1-2,https://www.besoccer.com/match/lugo/almeria/201796973,2017,28,segunda_division
+Levante,Elche,2-1,https://www.besoccer.com/match/levante/elche/201796975,2017,28,segunda_division
+Gimnàstic Tarragona,Córdoba,2-1,https://www.besoccer.com/match/gimnastic-tarragona/cordoba/201796977,2017,28,segunda_division
+Real Zaragoza,Numancia,3-0,https://www.besoccer.com/match/real-zaragoza/numancia/201796978,2017,28,segunda_division
+Elche,Alcorcón,0-0,https://www.besoccer.com/match/elche/ad-alcorcon/201796987,2017,29,segunda_division
+Mallorca,Lugo,1-1,https://www.besoccer.com/match/mallorca/lugo/201796984,2017,29,segunda_division
+Numancia,Real Oviedo,0-0,https://www.besoccer.com/match/numancia/real-oviedo/201796979,2017,29,segunda_division
+Mirandés,UCAM Murcia,1-1,https://www.besoccer.com/match/mirandes/ucam-murcia-c-f/201796983,2017,29,segunda_division
+Real Valladolid,Levante,0-4,https://www.besoccer.com/match/valladolid/levante/201796986,2017,29,segunda_division
+Córdoba,Real Zaragoza,2-1,https://www.besoccer.com/match/cordoba/real-zaragoza/201796989,2017,29,segunda_division
+Almería,Huesca,0-0,https://www.besoccer.com/match/almeria/huesca/201796985,2017,29,segunda_division
+Sevilla At.,Gimnàstic Tarragona,2-2,https://www.besoccer.com/match/sevilla-b/gimnastic-tarragona/201796988,2017,29,segunda_division
+Cádiz,Rayo Vallecano,1-0,https://www.besoccer.com/match/cadiz/rayo-vallecano/201796980,2017,29,segunda_division
+Reus Deportiu,Girona,1-2,https://www.besoccer.com/match/reus/girona-fc/201796981,2017,29,segunda_division
+Getafe,Tenerife,2-2,https://www.besoccer.com/match/getafe/tenerife/201796982,2017,29,segunda_division
+Gimnàstic Tarragona,Elche,1-3,https://www.besoccer.com/match/gimnastic-tarragona/elche/201796998,2017,30,segunda_division
+Córdoba,Numancia,0-0,https://www.besoccer.com/match/cordoba/numancia/201797000,2017,30,segunda_division
+UCAM Murcia,Getafe,2-0,https://www.besoccer.com/match/ucam-murcia-c-f/getafe/201796993,2017,30,segunda_division
+Lugo,Mirandés,2-1,https://www.besoccer.com/match/lugo/mirandes/201796994,2017,30,segunda_division
+Huesca,Mallorca,2-1,https://www.besoccer.com/match/huesca/mallorca/201796995,2017,30,segunda_division
+Real Zaragoza,Sevilla At.,1-2,https://www.besoccer.com/match/real-zaragoza/sevilla-b/201796999,2017,30,segunda_division
+Levante,Almería,1-0,https://www.besoccer.com/match/levante/almeria/201796996,2017,30,segunda_division
+Alcorcón,Real Valladolid,1-2,https://www.besoccer.com/match/ad-alcorcon/valladolid/201796997,2017,30,segunda_division
+Tenerife,Reus Deportiu,0-1,https://www.besoccer.com/match/tenerife/reus/201796992,2017,30,segunda_division
+Girona,Cádiz,1-2,https://www.besoccer.com/match/girona-fc/cadiz/201796991,2017,30,segunda_division
+Rayo Vallecano,Real Oviedo,2-0,https://www.besoccer.com/match/rayo-vallecano/real-oviedo/201796990,2017,30,segunda_division
+Real Valladolid,Gimnàstic Tarragona,1-2,https://www.besoccer.com/match/valladolid/gimnastic-tarragona/201797009,2017,31,segunda_division
+Numancia,Rayo Vallecano,0-0,https://www.besoccer.com/match/numancia/rayo-vallecano/201797001,2017,31,segunda_division
+Almería,Alcorcón,3-1,https://www.besoccer.com/match/almeria/ad-alcorcon/201797008,2017,31,segunda_division
+Mallorca,Levante,1-1,https://www.besoccer.com/match/mallorca/levante/201797007,2017,31,segunda_division
+Real Oviedo,Girona,2-0,https://www.besoccer.com/match/real-oviedo/girona-fc/201797002,2017,31,segunda_division
+Getafe,Lugo,2-0,https://www.besoccer.com/match/getafe/lugo/201797005,2017,31,segunda_division
+Cádiz,Tenerife,0-1,https://www.besoccer.com/match/cadiz/tenerife/201797003,2017,31,segunda_division
+Reus Deportiu,UCAM Murcia,0-0,https://www.besoccer.com/match/reus/ucam-murcia-c-f/201797004,2017,31,segunda_division
+Mirandés,Huesca,1-3,https://www.besoccer.com/match/mirandes/huesca/201797006,2017,31,segunda_division
+Sevilla At.,Córdoba,1-0,https://www.besoccer.com/match/sevilla-b/cordoba/201797011,2017,31,segunda_division
+Elche,Real Zaragoza,0-3,https://www.besoccer.com/match/elche/real-zaragoza/201797010,2017,31,segunda_division
+Alcorcón,Mallorca,1-0,https://www.besoccer.com/match/ad-alcorcon/mallorca/201797018,2017,32,segunda_division
+Levante,Mirandés,2-1,https://www.besoccer.com/match/levante/mirandes/201797017,2017,32,segunda_division
+UCAM Murcia,Cádiz,1-1,https://www.besoccer.com/match/ucam-murcia-c-f/cadiz/201797014,2017,32,segunda_division
+Huesca,Getafe,0-0,https://www.besoccer.com/match/huesca/getafe/201797016,2017,32,segunda_division
+Girona,Rayo Vallecano,1-3,https://www.besoccer.com/match/girona-fc/rayo-vallecano/201797012,2017,32,segunda_division
+Gimnàstic Tarragona,Almería,0-1,https://www.besoccer.com/match/gimnastic-tarragona/almeria/201797019,2017,32,segunda_division
+Lugo,Reus Deportiu,1-0,https://www.besoccer.com/match/lugo/reus/201797015,2017,32,segunda_division
+Tenerife,Real Oviedo,1-0,https://www.besoccer.com/match/tenerife/real-oviedo/201797013,2017,32,segunda_division
+Córdoba,Elche,1-0,https://www.besoccer.com/match/cordoba/elche/201797021,2017,32,segunda_division
+Real Zaragoza,Real Valladolid,1-1,https://www.besoccer.com/match/real-zaragoza/valladolid/201797020,2017,32,segunda_division
+Sevilla At.,Numancia,1-1,https://www.besoccer.com/match/sevilla-b/numancia/201797022,2017,32,segunda_division
+Mirandés,Alcorcón,2-0,https://www.besoccer.com/match/mirandes/ad-alcorcon/201797029,2017,33,segunda_division
+Mallorca,Gimnàstic Tarragona,0-0,https://www.besoccer.com/match/mallorca/gimnastic-tarragona/201797030,2017,33,segunda_division
+Cádiz,Lugo,1-1,https://www.besoccer.com/match/cadiz/lugo/201797026,2017,33,segunda_division
+Getafe,Levante,2-0,https://www.besoccer.com/match/getafe/levante/201797028,2017,33,segunda_division
+Rayo Vallecano,Tenerife,1-1,https://www.besoccer.com/match/rayo-vallecano/tenerife/201797024,2017,33,segunda_division
+Real Valladolid,Córdoba,2-1,https://www.besoccer.com/match/valladolid/cordoba/201797032,2017,33,segunda_division
+Elche,Sevilla At.,3-2,https://www.besoccer.com/match/elche/sevilla-b/201797033,2017,33,segunda_division
+Numancia,Girona,0-2,https://www.besoccer.com/match/numancia/girona-fc/201797023,2017,33,segunda_division
+Real Oviedo,UCAM Murcia,2-0,https://www.besoccer.com/match/real-oviedo/ucam-murcia-c-f/201797025,2017,33,segunda_division
+Reus Deportiu,Huesca,0-1,https://www.besoccer.com/match/reus/huesca/201797027,2017,33,segunda_division
+Almería,Real Zaragoza,2-2,https://www.besoccer.com/match/almeria/real-zaragoza/201797031,2017,33,segunda_division
+Elche,Numancia,1-3,https://www.besoccer.com/match/elche/numancia/201797035,2017,34,segunda_division
+Tenerife,Girona,3-3,https://www.besoccer.com/match/tenerife/girona-fc/201797034,2017,34,segunda_division
+Gimnàstic Tarragona,Mirandés,4-1,https://www.besoccer.com/match/gimnastic-tarragona/mirandes/201797041,2017,34,segunda_division
+Huesca,Cádiz,1-1,https://www.besoccer.com/match/huesca/cadiz/201797044,2017,34,segunda_division
+Sevilla At.,Real Valladolid,6-2,https://www.besoccer.com/match/sevilla-b/valladolid/201797036,2017,34,segunda_division
+Alcorcón,Getafe,0-3,https://www.besoccer.com/match/ad-alcorcon/getafe/201797042,2017,34,segunda_division
+UCAM Murcia,Rayo Vallecano,0-1,https://www.besoccer.com/match/ucam-murcia-c-f/rayo-vallecano/201797037,2017,34,segunda_division
+Córdoba,Almería,1-0,https://www.besoccer.com/match/cordoba/almeria/201797038,2017,34,segunda_division
+Lugo,Real Oviedo,2-1,https://www.besoccer.com/match/lugo/real-oviedo/201797040,2017,34,segunda_division
+Real Zaragoza,Mallorca,1-0,https://www.besoccer.com/match/real-zaragoza/mallorca/201797039,2017,34,segunda_division
+Levante,Reus Deportiu,0-0,https://www.besoccer.com/match/levante/reus/201797043,2017,34,segunda_division
+Real Oviedo,Huesca,1-1,https://www.besoccer.com/match/real-oviedo/huesca/201797048,2017,35,segunda_division
+Real Valladolid,Elche,2-1,https://www.besoccer.com/match/valladolid/elche/201797055,2017,35,segunda_division
+Rayo Vallecano,Lugo,2-0,https://www.besoccer.com/match/rayo-vallecano/lugo/201797047,2017,35,segunda_division
+Cádiz,Levante,1-1,https://www.besoccer.com/match/cadiz/levante/201797049,2017,35,segunda_division
+Getafe,Gimnàstic Tarragona,1-1,https://www.besoccer.com/match/getafe/gimnastic-tarragona/201797051,2017,35,segunda_division
+Girona,UCAM Murcia,1-2,https://www.besoccer.com/match/girona-fc/ucam-murcia-c-f/201797046,2017,35,segunda_division
+Numancia,Tenerife,1-1,https://www.besoccer.com/match/numancia/tenerife/201797045,2017,35,segunda_division
+Mirandés,Real Zaragoza,0-1,https://www.besoccer.com/match/mirandes/real-zaragoza/201797052,2017,35,segunda_division
+Mallorca,Córdoba,1-1,https://www.besoccer.com/match/mallorca/cordoba/201797053,2017,35,segunda_division
+Reus Deportiu,Alcorcón,0-0,https://www.besoccer.com/match/reus/ad-alcorcon/201797050,2017,35,segunda_division
+Almería,Sevilla At.,2-1,https://www.besoccer.com/match/almeria/sevilla-b/201797054,2017,35,segunda_division
+Elche,Almería,2-3,https://www.besoccer.com/match/elche/almeria/201797065,2017,36,segunda_division
+UCAM Murcia,Tenerife,1-0,https://www.besoccer.com/match/ucam-murcia-c-f/tenerife/201797056,2017,36,segunda_division
+Levante,Real Oviedo,1-0,https://www.besoccer.com/match/levante/real-oviedo/201797059,2017,36,segunda_division
+Real Valladolid,Numancia,1-1,https://www.besoccer.com/match/valladolid/numancia/201797066,2017,36,segunda_division
+Real Zaragoza,Getafe,1-2,https://www.besoccer.com/match/real-zaragoza/getafe/201797062,2017,36,segunda_division
+Alcorcón,Cádiz,0-2,https://www.besoccer.com/match/ad-alcorcon/cadiz/201797060,2017,36,segunda_division
+Lugo,Girona,1-2,https://www.besoccer.com/match/lugo/girona-fc/201797057,2017,36,segunda_division
+Córdoba,Mirandés,1-1,https://www.besoccer.com/match/cordoba/mirandes/201797063,2017,36,segunda_division
+Sevilla At.,Mallorca,2-3,https://www.besoccer.com/match/sevilla-b/mallorca/201797064,2017,36,segunda_division
+Huesca,Rayo Vallecano,2-0,https://www.besoccer.com/match/huesca/rayo-vallecano/201797058,2017,36,segunda_division
+Gimnàstic Tarragona,Reus Deportiu,0-1,https://www.besoccer.com/match/gimnastic-tarragona/reus/201797061,2017,36,segunda_division
+Real Oviedo,Alcorcón,0-1,https://www.besoccer.com/match/real-oviedo/ad-alcorcon/201797071,2017,37,segunda_division
+Mallorca,Elche,1-0,https://www.besoccer.com/match/mallorca/elche/201797076,2017,37,segunda_division
+Numancia,UCAM Murcia,1-0,https://www.besoccer.com/match/numancia/ucam-murcia-c-f/201797067,2017,37,segunda_division
+Rayo Vallecano,Levante,2-1,https://www.besoccer.com/match/rayo-vallecano/levante/201797070,2017,37,segunda_division
+Girona,Huesca,3-1,https://www.besoccer.com/match/girona-fc/huesca/201797069,2017,37,segunda_division
+Tenerife,Lugo,2-1,https://www.besoccer.com/match/tenerife/lugo/201797068,2017,37,segunda_division
+Mirandés,Sevilla At.,0-1,https://www.besoccer.com/match/mirandes/sevilla-b/201797075,2017,37,segunda_division
+Cádiz,Gimnàstic Tarragona,0-0,https://www.besoccer.com/match/cadiz/gimnastic-tarragona/201797072,2017,37,segunda_division
+Getafe,Córdoba,2-0,https://www.besoccer.com/match/getafe/cordoba/201797074,2017,37,segunda_division
+Almería,Real Valladolid,0-3,https://www.besoccer.com/match/almeria/valladolid/201797077,2017,37,segunda_division
+Reus Deportiu,Real Zaragoza,1-0,https://www.besoccer.com/match/reus/real-zaragoza/201797073,2017,37,segunda_division
+Sevilla At.,Getafe,2-1,https://www.besoccer.com/match/sevilla-b/getafe/201797085,2017,38,segunda_division
+Real Zaragoza,Cádiz,1-1,https://www.besoccer.com/match/real-zaragoza/cadiz/201797083,2017,38,segunda_division
+Real Valladolid,Mallorca,2-1,https://www.besoccer.com/match/valladolid/mallorca/201797087,2017,38,segunda_division
+Huesca,Tenerife,2-2,https://www.besoccer.com/match/huesca/tenerife/201797079,2017,38,segunda_division
+Elche,Mirandés,0-1,https://www.besoccer.com/match/elche/mirandes/201797086,2017,38,segunda_division
+Levante,Girona,2-1,https://www.besoccer.com/match/levante/girona-fc/201797080,2017,38,segunda_division
+Alcorcón,Rayo Vallecano,2-0,https://www.besoccer.com/match/ad-alcorcon/rayo-vallecano/201797081,2017,38,segunda_division
+Córdoba,Reus Deportiu,1-0,https://www.besoccer.com/match/cordoba/reus/201797084,2017,38,segunda_division
+Almería,Numancia,2-0,https://www.besoccer.com/match/almeria/numancia/201797088,2017,38,segunda_division
+Gimnàstic Tarragona,Real Oviedo,2-2,https://www.besoccer.com/match/gimnastic-tarragona/real-oviedo/201797082,2017,38,segunda_division
+Lugo,UCAM Murcia,0-0,https://www.besoccer.com/match/lugo/ucam-murcia-c-f/201797078,2017,38,segunda_division
+Rayo Vallecano,Gimnàstic Tarragona,2-0,https://www.besoccer.com/match/rayo-vallecano/gimnastic-tarragona/201797093,2017,39,segunda_division
+Getafe,Elche,2-0,https://www.besoccer.com/match/getafe/elche/201797097,2017,39,segunda_division
+UCAM Murcia,Huesca,3-1,https://www.besoccer.com/match/ucam-murcia-c-f/huesca/201797090,2017,39,segunda_division
+Tenerife,Levante,0-0,https://www.besoccer.com/match/tenerife/levante/201797091,2017,39,segunda_division
+Girona,Alcorcón,0-0,https://www.besoccer.com/match/girona-fc/ad-alcorcon/201797092,2017,39,segunda_division
+Reus Deportiu,Sevilla At.,2-1,https://www.besoccer.com/match/reus/sevilla-b/201797096,2017,39,segunda_division
+Mallorca,Almería,1-0,https://www.besoccer.com/match/mallorca/almeria/201797099,2017,39,segunda_division
+Real Oviedo,Real Zaragoza,0-0,https://www.besoccer.com/match/real-oviedo/real-zaragoza/201797094,2017,39,segunda_division
+Cádiz,Córdoba,1-1,https://www.besoccer.com/match/cadiz/cordoba/201797095,2017,39,segunda_division
+Mirandés,Real Valladolid,2-2,https://www.besoccer.com/match/mirandes/valladolid/201797098,2017,39,segunda_division
+Numancia,Lugo,0-1,https://www.besoccer.com/match/numancia/lugo/201797089,2017,39,segunda_division
+Levante,UCAM Murcia,3-1,https://www.besoccer.com/match/levante/ucam-murcia-c-f/201797101,2017,40,segunda_division
+Huesca,Lugo,1-0,https://www.besoccer.com/match/huesca/lugo/201797100,2017,40,segunda_division
+Sevilla At.,Cádiz,3-3,https://www.besoccer.com/match/sevilla-b/cadiz/201797106,2017,40,segunda_division
+Real Valladolid,Getafe,1-0,https://www.besoccer.com/match/valladolid/getafe/201797108,2017,40,segunda_division
+Almería,Mirandés,2-0,https://www.besoccer.com/match/almeria/mirandes/201797109,2017,40,segunda_division
+Alcorcón,Tenerife,1-3,https://www.besoccer.com/match/ad-alcorcon/tenerife/201797102,2017,40,segunda_division
+Real Zaragoza,Rayo Vallecano,1-1,https://www.besoccer.com/match/real-zaragoza/rayo-vallecano/201797104,2017,40,segunda_division
+Gimnàstic Tarragona,Girona,3-1,https://www.besoccer.com/match/gimnastic-tarragona/girona-fc/201797103,2017,40,segunda_division
+Elche,Reus Deportiu,1-1,https://www.besoccer.com/match/elche/reus/201797107,2017,40,segunda_division
+Mallorca,Numancia,0-0,https://www.besoccer.com/match/mallorca/numancia/201797110,2017,40,segunda_division
+Córdoba,Real Oviedo,4-2,https://www.besoccer.com/match/cordoba/real-oviedo/201797105,2017,40,segunda_division
+Lugo,Levante,1-0,https://www.besoccer.com/match/lugo/levante/201797112,2017,41,segunda_division
+Huesca,Numancia,0-0,https://www.besoccer.com/match/huesca/numancia/201797111,2017,41,segunda_division
+UCAM Murcia,Alcorcón,0-1,https://www.besoccer.com/match/ucam-murcia-c-f/ad-alcorcon/201797113,2017,41,segunda_division
+Tenerife,Gimnàstic Tarragona,0-1,https://www.besoccer.com/match/tenerife/gimnastic-tarragona/201797114,2017,41,segunda_division
+Girona,Real Zaragoza,0-0,https://www.besoccer.com/match/girona-fc/real-zaragoza/201797115,2017,41,segunda_division
+Rayo Vallecano,Córdoba,1-2,https://www.besoccer.com/match/rayo-vallecano/cordoba/201797116,2017,41,segunda_division
+Real Oviedo,Sevilla At.,1-0,https://www.besoccer.com/match/real-oviedo/sevilla-b/201797117,2017,41,segunda_division
+Cádiz,Elche,2-1,https://www.besoccer.com/match/cadiz/elche/201797118,2017,41,segunda_division
+Reus Deportiu,Real Valladolid,2-0,https://www.besoccer.com/match/reus/valladolid/201797119,2017,41,segunda_division
+Getafe,Almería,4-0,https://www.besoccer.com/match/getafe/almeria/201797120,2017,41,segunda_division
+Mirandés,Mallorca,2-2,https://www.besoccer.com/match/mirandes/mallorca/201797121,2017,41,segunda_division
+Sevilla At.,Rayo Vallecano,1-2,https://www.besoccer.com/match/sevilla-b/rayo-vallecano/201797127,2017,42,segunda_division
+Levante,Huesca,1-2,https://www.besoccer.com/match/levante/huesca/201797122,2017,42,segunda_division
+Alcorcón,Lugo,3-0,https://www.besoccer.com/match/ad-alcorcon/lugo/201797123,2017,42,segunda_division
+Gimnàstic Tarragona,UCAM Murcia,1-0,https://www.besoccer.com/match/gimnastic-tarragona/ucam-murcia-c-f/201797124,2017,42,segunda_division
+Real Zaragoza,Tenerife,1-2,https://www.besoccer.com/match/real-zaragoza/tenerife/201797125,2017,42,segunda_division
+Córdoba,Girona,2-1,https://www.besoccer.com/match/cordoba/girona-fc/201797126,2017,42,segunda_division
+Elche,Real Oviedo,0-2,https://www.besoccer.com/match/elche/real-oviedo/201797128,2017,42,segunda_division
+Real Valladolid,Cádiz,1-0,https://www.besoccer.com/match/valladolid/cadiz/201797129,2017,42,segunda_division
+Almería,Reus Deportiu,1-0,https://www.besoccer.com/match/almeria/reus/201797130,2017,42,segunda_division
+Mallorca,Getafe,3-3,https://www.besoccer.com/match/mallorca/getafe/201797131,2017,42,segunda_division
+Numancia,Mirandés,0-2,https://www.besoccer.com/match/numancia/mirandes/201797132,2017,42,segunda_division

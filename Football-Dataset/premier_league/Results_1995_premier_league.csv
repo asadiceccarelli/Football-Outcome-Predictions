@@ -1,0 +1,463 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+West Ham,Leeds United,0-0,https://www.besoccer.com/match/west-ham-united/leeds-united-afc/19957409,1995,1,premier_league
+Southampton,Blackburn Rovers,1-1,https://www.besoccer.com/match/southampton-fc/blackburn-rovers-fc/19957410,1995,1,premier_league
+Sheffield Wednesday,Tottenham Hotspur,3-4,https://www.besoccer.com/match/sheffield-wednesday-fc/tottenham-hotspur-fc/19957411,1995,1,premier_league
+Man. Utd,Queens Park Rangers,2-0,https://www.besoccer.com/match/manchester-united-fc/queens-park-rangers-fc/19957412,1995,1,premier_league
+Everton,Aston Villa,2-2,https://www.besoccer.com/match/everton-fc/aston-villa-fc/19957413,1995,1,premier_league
+Crystal Palace,Liverpool,1-6,https://www.besoccer.com/match/crystal-palace-fc/liverpool/19957414,1995,1,premier_league
+Coventry City,Wimbledon FC,1-1,https://www.besoccer.com/match/coventry-city/wimbledon-fc/19957415,1995,1,premier_league
+Chelsea,Norwich City,2-0,https://www.besoccer.com/match/chelsea-fc/norwich-city-fc/19957416,1995,1,premier_league
+Arsenal,Man. City,3-0,https://www.besoccer.com/match/arsenal/manchester-city-fc/19957417,1995,1,premier_league
+Ipswich Town,Nottingham Forest,0-1,https://www.besoccer.com/match/ipswich-town-fc/nottingham-forest-fc/19957418,1995,1,premier_league
+Leicester,Newcastle,1-3,https://www.besoccer.com/match/leicester-city-fc/newcastle-united-fc/19957419,1995,1,premier_league
+Nottingham Forest,Man. Utd,1-1,https://www.besoccer.com/match/nottingham-forest-fc/manchester-united-fc/19957420,1995,2,premier_league
+Wimbledon FC,Ipswich Town,1-1,https://www.besoccer.com/match/wimbledon-fc/ipswich-town-fc/19957421,1995,2,premier_league
+Leeds United,Arsenal,1-0,https://www.besoccer.com/match/leeds-united-afc/arsenal/19957422,1995,2,premier_league
+Blackburn Rovers,Leicester,3-0,https://www.besoccer.com/match/blackburn-rovers-fc/leicester-city-fc/19957423,1995,2,premier_league
+Aston Villa,Southampton,1-1,https://www.besoccer.com/match/aston-villa-fc/southampton-fc/19957424,1995,2,premier_league
+Tottenham Hotspur,Everton,2-1,https://www.besoccer.com/match/tottenham-hotspur-fc/everton-fc/19957425,1995,2,premier_league
+Queens Park Rangers,Sheffield Wednesday,3-2,https://www.besoccer.com/match/queens-park-rangers-fc/sheffield-wednesday-fc/19957426,1995,2,premier_league
+Norwich City,Crystal Palace,0-0,https://www.besoccer.com/match/norwich-city-fc/crystal-palace-fc/19957427,1995,2,premier_league
+Man. City,West Ham,3-0,https://www.besoccer.com/match/manchester-city-fc/west-ham-united/19957428,1995,2,premier_league
+Newcastle,Coventry City,4-0,https://www.besoccer.com/match/newcastle-united-fc/coventry-city/19957429,1995,2,premier_league
+Liverpool,Chelsea,3-1,https://www.besoccer.com/match/liverpool/chelsea-fc/19957430,1995,2,premier_league
+Norwich City,West Ham,1-0,https://www.besoccer.com/match/norwich-city-fc/west-ham-united/19957431,1995,3,premier_league
+Wimbledon FC,Sheffield Wednesday,0-1,https://www.besoccer.com/match/wimbledon-fc/sheffield-wednesday-fc/19957432,1995,3,premier_league
+Tottenham Hotspur,Man. Utd,0-1,https://www.besoccer.com/match/tottenham-hotspur-fc/manchester-united-fc/19957433,1995,3,premier_league
+Queens Park Rangers,Ipswich Town,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/ipswich-town-fc/19957434,1995,3,premier_league
+Newcastle,Southampton,5-1,https://www.besoccer.com/match/newcastle-united-fc/southampton-fc/19957435,1995,3,premier_league
+Man. City,Everton,4-0,https://www.besoccer.com/match/manchester-city-fc/everton-fc/19957436,1995,3,premier_league
+Leeds United,Chelsea,2-3,https://www.besoccer.com/match/leeds-united-afc/chelsea-fc/19957437,1995,3,premier_league
+Blackburn Rovers,Coventry City,4-0,https://www.besoccer.com/match/blackburn-rovers-fc/coventry-city/19957438,1995,3,premier_league
+Aston Villa,Crystal Palace,1-1,https://www.besoccer.com/match/aston-villa-fc/crystal-palace-fc/19957439,1995,3,premier_league
+Nottingham Forest,Leicester,1-0,https://www.besoccer.com/match/nottingham-forest-fc/leicester-city-fc/19957440,1995,3,premier_league
+Liverpool,Arsenal,3-0,https://www.besoccer.com/match/liverpool/arsenal/19957441,1995,3,premier_league
+Coventry City,Aston Villa,0-1,https://www.besoccer.com/match/coventry-city/aston-villa-fc/19957442,1995,4,premier_league
+Ipswich Town,Tottenham Hotspur,1-3,https://www.besoccer.com/match/ipswich-town-fc/tottenham-hotspur-fc/19957443,1995,4,premier_league
+Everton,Nottingham Forest,1-2,https://www.besoccer.com/match/everton-fc/nottingham-forest-fc/19957444,1995,4,premier_league
+Crystal Palace,Leeds United,1-2,https://www.besoccer.com/match/crystal-palace-fc/leeds-united-afc/19957445,1995,4,premier_league
+Chelsea,Man. City,3-0,https://www.besoccer.com/match/chelsea-fc/manchester-city-fc/19957446,1995,4,premier_league
+West Ham,Newcastle,1-3,https://www.besoccer.com/match/west-ham-united/newcastle-united-fc/19957447,1995,4,premier_league
+Southampton,Liverpool,0-2,https://www.besoccer.com/match/southampton-fc/liverpool/19957448,1995,4,premier_league
+Sheffield Wednesday,Norwich City,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/norwich-city-fc/19957449,1995,4,premier_league
+Leicester,Queens Park Rangers,1-1,https://www.besoccer.com/match/leicester-city-fc/queens-park-rangers-fc/19957450,1995,4,premier_league
+Arsenal,Blackburn Rovers,0-0,https://www.besoccer.com/match/arsenal/blackburn-rovers-fc/19957451,1995,4,premier_league
+Man. Utd,Wimbledon FC,3-0,https://www.besoccer.com/match/manchester-united-fc/wimbledon-fc/19957452,1995,4,premier_league
+Newcastle,Chelsea,4-2,https://www.besoccer.com/match/newcastle-united-fc/chelsea-fc/19957453,1995,5,premier_league
+Wimbledon FC,Leicester,2-1,https://www.besoccer.com/match/wimbledon-fc/leicester-city-fc/19957454,1995,5,premier_league
+Norwich City,Arsenal,0-0,https://www.besoccer.com/match/norwich-city-fc/arsenal/19957455,1995,5,premier_league
+Blackburn Rovers,Everton,3-0,https://www.besoccer.com/match/blackburn-rovers-fc/everton-fc/19957456,1995,5,premier_league
+Aston Villa,Ipswich Town,2-0,https://www.besoccer.com/match/aston-villa-fc/ipswich-town-fc/19957457,1995,5,premier_league
+Man. City,Crystal Palace,1-1,https://www.besoccer.com/match/manchester-city-fc/crystal-palace-fc/19957458,1995,5,premier_league
+Liverpool,West Ham,0-0,https://www.besoccer.com/match/liverpool/west-ham-united/19957459,1995,5,premier_league
+Queens Park Rangers,Coventry City,2-2,https://www.besoccer.com/match/queens-park-rangers-fc/coventry-city/19957460,1995,5,premier_league
+Nottingham Forest,Sheffield Wednesday,4-1,https://www.besoccer.com/match/nottingham-forest-fc/sheffield-wednesday-fc/19957461,1995,5,premier_league
+Leeds United,Man. Utd,2-1,https://www.besoccer.com/match/leeds-united-afc/manchester-united-fc/19957462,1995,5,premier_league
+Tottenham Hotspur,Southampton,1-2,https://www.besoccer.com/match/tottenham-hotspur-fc/southampton-fc/19957463,1995,5,premier_league
+Sheffield Wednesday,Man. City,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/manchester-city-fc/19957464,1995,6,premier_league
+Southampton,Nottingham Forest,1-1,https://www.besoccer.com/match/southampton-fc/nottingham-forest-fc/19957465,1995,6,premier_league
+Man. Utd,Liverpool,2-0,https://www.besoccer.com/match/manchester-united-fc/liverpool/19957466,1995,6,premier_league
+Leicester,Tottenham Hotspur,3-1,https://www.besoccer.com/match/leicester-city-fc/tottenham-hotspur-fc/19957467,1995,6,premier_league
+Everton,Queens Park Rangers,2-2,https://www.besoccer.com/match/everton-fc/queens-park-rangers-fc/19957468,1995,6,premier_league
+Crystal Palace,Wimbledon FC,0-0,https://www.besoccer.com/match/crystal-palace-fc/wimbledon-fc/19957469,1995,6,premier_league
+Coventry City,Leeds United,2-1,https://www.besoccer.com/match/coventry-city/leeds-united-afc/19957470,1995,6,premier_league
+West Ham,Aston Villa,1-0,https://www.besoccer.com/match/west-ham-united/aston-villa-fc/19957471,1995,6,premier_league
+Chelsea,Blackburn Rovers,1-2,https://www.besoccer.com/match/chelsea-fc/blackburn-rovers-fc/19957472,1995,6,premier_league
+Arsenal,Newcastle,2-3,https://www.besoccer.com/match/arsenal/newcastle-united-fc/19957473,1995,6,premier_league
+Ipswich Town,Norwich City,1-2,https://www.besoccer.com/match/ipswich-town-fc/norwich-city-fc/19957474,1995,6,premier_league
+Man. City,Norwich City,2-0,https://www.besoccer.com/match/manchester-city-fc/norwich-city-fc/19957475,1995,7,premier_league
+Tottenham Hotspur,Nottingham Forest,1-4,https://www.besoccer.com/match/tottenham-hotspur-fc/nottingham-forest-fc/19957476,1995,7,premier_league
+Queens Park Rangers,Wimbledon FC,0-1,https://www.besoccer.com/match/queens-park-rangers-fc/wimbledon-fc/19957477,1995,7,premier_league
+Ipswich Town,Man. Utd,3-2,https://www.besoccer.com/match/ipswich-town-fc/manchester-united-fc/19957478,1995,7,premier_league
+Everton,Leicester,1-1,https://www.besoccer.com/match/everton-fc/leicester-city-fc/19957479,1995,7,premier_league
+Crystal Palace,Chelsea,0-1,https://www.besoccer.com/match/crystal-palace-fc/chelsea-fc/19957480,1995,7,premier_league
+Coventry City,Southampton,1-3,https://www.besoccer.com/match/coventry-city/southampton-fc/19957481,1995,7,premier_league
+Blackburn Rovers,Aston Villa,3-1,https://www.besoccer.com/match/blackburn-rovers-fc/aston-villa-fc/19957482,1995,7,premier_league
+Newcastle,Liverpool,1-1,https://www.besoccer.com/match/newcastle-united-fc/liverpool/19957483,1995,7,premier_league
+West Ham,Arsenal,0-2,https://www.besoccer.com/match/west-ham-united/arsenal/19957484,1995,7,premier_league
+Sheffield Wednesday,Leeds United,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/leeds-united-afc/19957485,1995,7,premier_league
+Arsenal,Crystal Palace,1-2,https://www.besoccer.com/match/arsenal/crystal-palace-fc/19957486,1995,8,premier_league
+Norwich City,Blackburn Rovers,2-1,https://www.besoccer.com/match/norwich-city-fc/blackburn-rovers-fc/19957487,1995,8,premier_league
+Southampton,Ipswich Town,3-1,https://www.besoccer.com/match/southampton-fc/ipswich-town-fc/19957488,1995,8,premier_league
+Man. Utd,Everton,2-0,https://www.besoccer.com/match/manchester-united-fc/everton-fc/19957489,1995,8,premier_league
+Liverpool,Sheffield Wednesday,4-1,https://www.besoccer.com/match/liverpool/sheffield-wednesday-fc/19957490,1995,8,premier_league
+Leeds United,Man. City,2-0,https://www.besoccer.com/match/leeds-united-afc/manchester-city-fc/19957491,1995,8,premier_league
+Aston Villa,Newcastle,0-2,https://www.besoccer.com/match/aston-villa-fc/newcastle-united-fc/19957492,1995,8,premier_league
+Wimbledon FC,Tottenham Hotspur,1-2,https://www.besoccer.com/match/wimbledon-fc/tottenham-hotspur-fc/19957493,1995,8,premier_league
+Nottingham Forest,Queens Park Rangers,3-2,https://www.besoccer.com/match/nottingham-forest-fc/queens-park-rangers-fc/19957494,1995,8,premier_league
+Chelsea,West Ham,1-2,https://www.besoccer.com/match/chelsea-fc/west-ham-united/19957495,1995,8,premier_league
+Leicester,Coventry City,2-2,https://www.besoccer.com/match/leicester-city-fc/coventry-city/19957496,1995,8,premier_league
+Southampton,Everton,2-0,https://www.besoccer.com/match/southampton-fc/everton-fc/19957497,1995,9,premier_league
+Wimbledon FC,Arsenal,1-3,https://www.besoccer.com/match/wimbledon-fc/arsenal/19957498,1995,9,premier_league
+West Ham,Crystal Palace,1-0,https://www.besoccer.com/match/west-ham-united/crystal-palace-fc/19957499,1995,9,premier_league
+Tottenham Hotspur,Queens Park Rangers,1-1,https://www.besoccer.com/match/tottenham-hotspur-fc/queens-park-rangers-fc/19957500,1995,9,premier_league
+Sheffield Wednesday,Man. Utd,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/manchester-united-fc/19957501,1995,9,premier_league
+Norwich City,Leeds United,2-1,https://www.besoccer.com/match/norwich-city-fc/leeds-united-afc/19957502,1995,9,premier_league
+Man. City,Nottingham Forest,3-3,https://www.besoccer.com/match/manchester-city-fc/nottingham-forest-fc/19957503,1995,9,premier_league
+Chelsea,Leicester,4-0,https://www.besoccer.com/match/chelsea-fc/leicester-city-fc/19957504,1995,9,premier_league
+Liverpool,Aston Villa,3-2,https://www.besoccer.com/match/liverpool/aston-villa-fc/19957505,1995,9,premier_league
+Newcastle,Blackburn Rovers,1-1,https://www.besoccer.com/match/newcastle-united-fc/blackburn-rovers-fc/19957506,1995,9,premier_league
+Coventry City,Ipswich Town,2-0,https://www.besoccer.com/match/coventry-city/ipswich-town-fc/19957507,1995,9,premier_league
+Leeds United,Tottenham Hotspur,1-1,https://www.besoccer.com/match/leeds-united-afc/tottenham-hotspur-fc/19957508,1995,10,premier_league
+Queens Park Rangers,Man. City,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/manchester-city-fc/19957509,1995,10,premier_league
+Man. Utd,West Ham,1-0,https://www.besoccer.com/match/manchester-united-fc/west-ham-united/19957510,1995,10,premier_league
+Leicester,Southampton,4-3,https://www.besoccer.com/match/leicester-city-fc/southampton-fc/19957511,1995,10,premier_league
+Everton,Coventry City,0-2,https://www.besoccer.com/match/everton-fc/coventry-city/19957512,1995,10,premier_league
+Crystal Palace,Newcastle,0-1,https://www.besoccer.com/match/crystal-palace-fc/newcastle-united-fc/19957513,1995,10,premier_league
+Blackburn Rovers,Liverpool,3-2,https://www.besoccer.com/match/blackburn-rovers-fc/liverpool/19957514,1995,10,premier_league
+Aston Villa,Norwich City,1-1,https://www.besoccer.com/match/aston-villa-fc/norwich-city-fc/19957515,1995,10,premier_league
+Arsenal,Chelsea,3-1,https://www.besoccer.com/match/arsenal/chelsea-fc/19957516,1995,10,premier_league
+Ipswich Town,Sheffield Wednesday,1-2,https://www.besoccer.com/match/ipswich-town-fc/sheffield-wednesday-fc/19957517,1995,10,premier_league
+Nottingham Forest,Wimbledon FC,3-1,https://www.besoccer.com/match/nottingham-forest-fc/wimbledon-fc/19957518,1995,10,premier_league
+Norwich City,Queens Park Rangers,4-2,https://www.besoccer.com/match/norwich-city-fc/queens-park-rangers-fc/19957519,1995,11,premier_league
+Aston Villa,Nottingham Forest,0-2,https://www.besoccer.com/match/aston-villa-fc/nottingham-forest-fc/19957520,1995,11,premier_league
+West Ham,Southampton,2-0,https://www.besoccer.com/match/west-ham-united/southampton-fc/19957521,1995,11,premier_league
+Newcastle,Sheffield Wednesday,2-1,https://www.besoccer.com/match/newcastle-united-fc/sheffield-wednesday-fc/19957522,1995,11,premier_league
+Man. City,Tottenham Hotspur,5-2,https://www.besoccer.com/match/manchester-city-fc/tottenham-hotspur-fc/19957523,1995,11,premier_league
+Liverpool,Wimbledon FC,3-0,https://www.besoccer.com/match/liverpool/wimbledon-fc/19957524,1995,11,premier_league
+Crystal Palace,Everton,1-0,https://www.besoccer.com/match/crystal-palace-fc/everton-fc/19957525,1995,11,premier_league
+Chelsea,Ipswich Town,2-0,https://www.besoccer.com/match/chelsea-fc/ipswich-town-fc/19957526,1995,11,premier_league
+Blackburn Rovers,Man. Utd,2-4,https://www.besoccer.com/match/blackburn-rovers-fc/manchester-united-fc/19957527,1995,11,premier_league
+Arsenal,Coventry City,2-1,https://www.besoccer.com/match/arsenal/coventry-city/19957528,1995,11,premier_league
+Leeds United,Leicester,2-1,https://www.besoccer.com/match/leeds-united-afc/leicester-city-fc/19957529,1995,11,premier_league
+Nottingham Forest,Blackburn Rovers,0-2,https://www.besoccer.com/match/nottingham-forest-fc/blackburn-rovers-fc/19957530,1995,12,premier_league
+Queens Park Rangers,Aston Villa,2-0,https://www.besoccer.com/match/queens-park-rangers-fc/aston-villa-fc/19957531,1995,12,premier_league
+Tottenham Hotspur,West Ham,3-1,https://www.besoccer.com/match/tottenham-hotspur-fc/west-ham-united/19957532,1995,12,premier_league
+Southampton,Leeds United,1-3,https://www.besoccer.com/match/southampton-fc/leeds-united-afc/19957533,1995,12,premier_league
+Man. Utd,Newcastle,2-0,https://www.besoccer.com/match/manchester-united-fc/newcastle-united-fc/19957534,1995,12,premier_league
+Leicester,Crystal Palace,0-1,https://www.besoccer.com/match/leicester-city-fc/crystal-palace-fc/19957535,1995,12,premier_league
+Ipswich Town,Liverpool,1-3,https://www.besoccer.com/match/ipswich-town-fc/liverpool/19957536,1995,12,premier_league
+Everton,Arsenal,1-1,https://www.besoccer.com/match/everton-fc/arsenal/19957537,1995,12,premier_league
+Coventry City,Man. City,1-0,https://www.besoccer.com/match/coventry-city/manchester-city-fc/19957538,1995,12,premier_league
+Sheffield Wednesday,Chelsea,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/chelsea-fc/19957539,1995,12,premier_league
+Wimbledon FC,Norwich City,1-0,https://www.besoccer.com/match/wimbledon-fc/norwich-city-fc/19957540,1995,12,premier_league
+Queens Park Rangers,Liverpool,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/liverpool/19957541,1995,13,premier_league
+Ipswich Town,Leeds United,2-0,https://www.besoccer.com/match/ipswich-town-fc/leeds-united-afc/19957542,1995,13,premier_league
+Everton,West Ham,1-0,https://www.besoccer.com/match/everton-fc/west-ham-united/19957543,1995,13,premier_league
+Southampton,Norwich City,1-1,https://www.besoccer.com/match/southampton-fc/norwich-city-fc/19957544,1995,13,premier_league
+Sheffield Wednesday,Blackburn Rovers,0-1,https://www.besoccer.com/match/sheffield-wednesday-fc/blackburn-rovers-fc/19957545,1995,13,premier_league
+Coventry City,Crystal Palace,1-4,https://www.besoccer.com/match/coventry-city/crystal-palace-fc/19957546,1995,13,premier_league
+Nottingham Forest,Newcastle,0-0,https://www.besoccer.com/match/nottingham-forest-fc/newcastle-united-fc/19957547,1995,13,premier_league
+Wimbledon FC,Aston Villa,4-3,https://www.besoccer.com/match/wimbledon-fc/aston-villa-fc/19957548,1995,13,premier_league
+Man. Utd,Man. City,5-0,https://www.besoccer.com/match/manchester-united-fc/manchester-city-fc/19957549,1995,13,premier_league
+Leicester,Arsenal,2-1,https://www.besoccer.com/match/leicester-city-fc/arsenal/19957550,1995,13,premier_league
+Tottenham Hotspur,Chelsea,0-0,https://www.besoccer.com/match/tottenham-hotspur-fc/chelsea-fc/19957551,1995,13,premier_league
+West Ham,Leicester,1-0,https://www.besoccer.com/match/west-ham-united/leicester-city-fc/19957552,1995,14,premier_league
+Norwich City,Everton,0-0,https://www.besoccer.com/match/norwich-city-fc/everton-fc/19957553,1995,14,premier_league
+Newcastle,Queens Park Rangers,2-1,https://www.besoccer.com/match/newcastle-united-fc/queens-park-rangers-fc/19957554,1995,14,premier_league
+Liverpool,Nottingham Forest,1-0,https://www.besoccer.com/match/liverpool/nottingham-forest-fc/19957555,1995,14,premier_league
+Leeds United,Wimbledon FC,3-1,https://www.besoccer.com/match/leeds-united-afc/wimbledon-fc/19957556,1995,14,premier_league
+Crystal Palace,Ipswich Town,3-0,https://www.besoccer.com/match/crystal-palace-fc/ipswich-town-fc/19957557,1995,14,premier_league
+Man. City,Southampton,3-3,https://www.besoccer.com/match/manchester-city-fc/southampton-fc/19957558,1995,14,premier_league
+Blackburn Rovers,Tottenham Hotspur,2-0,https://www.besoccer.com/match/blackburn-rovers-fc/tottenham-hotspur-fc/19957559,1995,14,premier_league
+Aston Villa,Man. Utd,1-2,https://www.besoccer.com/match/aston-villa-fc/manchester-united-fc/19957560,1995,14,premier_league
+Arsenal,Sheffield Wednesday,0-0,https://www.besoccer.com/match/arsenal/sheffield-wednesday-fc/19957561,1995,14,premier_league
+Chelsea,Coventry City,2-2,https://www.besoccer.com/match/chelsea-fc/coventry-city/19957562,1995,14,premier_league
+Tottenham Hotspur,Aston Villa,3-4,https://www.besoccer.com/match/tottenham-hotspur-fc/aston-villa-fc/19957563,1995,15,premier_league
+Ipswich Town,Blackburn Rovers,1-3,https://www.besoccer.com/match/ipswich-town-fc/blackburn-rovers-fc/19957564,1995,15,premier_league
+Wimbledon FC,Newcastle,3-2,https://www.besoccer.com/match/wimbledon-fc/newcastle-united-fc/19957565,1995,15,premier_league
+Sheffield Wednesday,West Ham,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/west-ham-united/19957566,1995,15,premier_league
+Queens Park Rangers,Leeds United,3-2,https://www.besoccer.com/match/queens-park-rangers-fc/leeds-united-afc/19957567,1995,15,premier_league
+Nottingham Forest,Chelsea,0-1,https://www.besoccer.com/match/nottingham-forest-fc/chelsea-fc/19957568,1995,15,premier_league
+Man. Utd,Crystal Palace,3-0,https://www.besoccer.com/match/manchester-united-fc/crystal-palace-fc/19957569,1995,15,premier_league
+Coventry City,Norwich City,1-0,https://www.besoccer.com/match/coventry-city/norwich-city-fc/19957570,1995,15,premier_league
+Southampton,Arsenal,1-0,https://www.besoccer.com/match/southampton-fc/arsenal/19957571,1995,15,premier_league
+Leicester,Man. City,0-1,https://www.besoccer.com/match/leicester-city-fc/manchester-city-fc/19957572,1995,15,premier_league
+Everton,Liverpool,2-0,https://www.besoccer.com/match/everton-fc/liverpool/19957573,1995,15,premier_league
+Crystal Palace,Southampton,0-0,https://www.besoccer.com/match/crystal-palace-fc/southampton-fc/19957574,1995,16,premier_league
+West Ham,Coventry City,0-1,https://www.besoccer.com/match/west-ham-united/coventry-city/19957575,1995,16,premier_league
+Norwich City,Leicester,2-1,https://www.besoccer.com/match/norwich-city-fc/leicester-city-fc/19957576,1995,16,premier_league
+Newcastle,Ipswich Town,1-1,https://www.besoccer.com/match/newcastle-united-fc/ipswich-town-fc/19957577,1995,16,premier_league
+Man. City,Wimbledon FC,2-0,https://www.besoccer.com/match/manchester-city-fc/wimbledon-fc/19957578,1995,16,premier_league
+Chelsea,Everton,0-1,https://www.besoccer.com/match/chelsea-fc/everton-fc/19957579,1995,16,premier_league
+Blackburn Rovers,Queens Park Rangers,4-0,https://www.besoccer.com/match/blackburn-rovers-fc/queens-park-rangers-fc/19957580,1995,16,premier_league
+Arsenal,Man. Utd,0-0,https://www.besoccer.com/match/arsenal/manchester-united-fc/19957581,1995,16,premier_league
+Leeds United,Nottingham Forest,1-0,https://www.besoccer.com/match/leeds-united-afc/nottingham-forest-fc/19957582,1995,16,premier_league
+Liverpool,Tottenham Hotspur,1-1,https://www.besoccer.com/match/liverpool/tottenham-hotspur-fc/19957583,1995,16,premier_league
+Aston Villa,Sheffield Wednesday,1-1,https://www.besoccer.com/match/aston-villa-fc/sheffield-wednesday-fc/19957584,1995,16,premier_league
+Man. Utd,Norwich City,1-0,https://www.besoccer.com/match/manchester-united-fc/norwich-city-fc/19957585,1995,17,premier_league
+Wimbledon FC,Blackburn Rovers,0-3,https://www.besoccer.com/match/wimbledon-fc/blackburn-rovers-fc/19957586,1995,17,premier_league
+Tottenham Hotspur,Newcastle,4-2,https://www.besoccer.com/match/tottenham-hotspur-fc/newcastle-united-fc/19957587,1995,17,premier_league
+Southampton,Chelsea,0-1,https://www.besoccer.com/match/southampton-fc/chelsea-fc/19957588,1995,17,premier_league
+Nottingham Forest,Arsenal,2-2,https://www.besoccer.com/match/nottingham-forest-fc/arsenal/19957589,1995,17,premier_league
+Leicester,Aston Villa,1-1,https://www.besoccer.com/match/leicester-city-fc/aston-villa-fc/19957590,1995,17,premier_league
+Ipswich Town,Man. City,1-2,https://www.besoccer.com/match/ipswich-town-fc/manchester-city-fc/19957591,1995,17,premier_league
+Coventry City,Liverpool,1-1,https://www.besoccer.com/match/coventry-city/liverpool/19957592,1995,17,premier_league
+Sheffield Wednesday,Crystal Palace,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/crystal-palace-fc/19957593,1995,17,premier_league
+Queens Park Rangers,West Ham,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/west-ham-united/19957594,1995,17,premier_league
+Everton,Leeds United,3-0,https://www.besoccer.com/match/everton-fc/leeds-united-afc/19957595,1995,17,premier_league
+Newcastle,Leicester,3-1,https://www.besoccer.com/match/newcastle-united-fc/leicester-city-fc/19957596,1995,18,premier_league
+Aston Villa,Everton,0-0,https://www.besoccer.com/match/aston-villa-fc/everton-fc/19957597,1995,18,premier_league
+Leeds United,West Ham,2-2,https://www.besoccer.com/match/leeds-united-afc/west-ham-united/19957598,1995,18,premier_league
+Norwich City,Chelsea,3-0,https://www.besoccer.com/match/norwich-city-fc/chelsea-fc/19957599,1995,18,premier_league
+Nottingham Forest,Ipswich Town,4-1,https://www.besoccer.com/match/nottingham-forest-fc/ipswich-town-fc/19957600,1995,18,premier_league
+Queens Park Rangers,Man. Utd,2-3,https://www.besoccer.com/match/queens-park-rangers-fc/manchester-united-fc/19957601,1995,18,premier_league
+Tottenham Hotspur,Sheffield Wednesday,3-1,https://www.besoccer.com/match/tottenham-hotspur-fc/sheffield-wednesday-fc/19957602,1995,18,premier_league
+Wimbledon FC,Coventry City,2-0,https://www.besoccer.com/match/wimbledon-fc/coventry-city/19957603,1995,18,premier_league
+Blackburn Rovers,Southampton,3-2,https://www.besoccer.com/match/blackburn-rovers-fc/southampton-fc/19957604,1995,18,premier_league
+Liverpool,Crystal Palace,0-0,https://www.besoccer.com/match/liverpool/crystal-palace-fc/19957605,1995,18,premier_league
+Man. City,Arsenal,1-2,https://www.besoccer.com/match/manchester-city-fc/arsenal/19957606,1995,18,premier_league
+Ipswich Town,Wimbledon FC,2-2,https://www.besoccer.com/match/ipswich-town-fc/wimbledon-fc/19957607,1995,19,premier_league
+West Ham,Man. City,3-0,https://www.besoccer.com/match/west-ham-united/manchester-city-fc/19957608,1995,19,premier_league
+Sheffield Wednesday,Queens Park Rangers,0-2,https://www.besoccer.com/match/sheffield-wednesday-fc/queens-park-rangers-fc/19957609,1995,19,premier_league
+Man. Utd,Nottingham Forest,1-2,https://www.besoccer.com/match/manchester-united-fc/nottingham-forest-fc/19957610,1995,19,premier_league
+Leicester,Blackburn Rovers,0-0,https://www.besoccer.com/match/leicester-city-fc/blackburn-rovers-fc/19957611,1995,19,premier_league
+Crystal Palace,Norwich City,0-1,https://www.besoccer.com/match/crystal-palace-fc/norwich-city-fc/19957612,1995,19,premier_league
+Coventry City,Newcastle,0-0,https://www.besoccer.com/match/coventry-city/newcastle-united-fc/19957613,1995,19,premier_league
+Arsenal,Leeds United,1-3,https://www.besoccer.com/match/arsenal/leeds-united-afc/19957614,1995,19,premier_league
+Everton,Tottenham Hotspur,0-0,https://www.besoccer.com/match/everton-fc/tottenham-hotspur-fc/19957615,1995,19,premier_league
+Chelsea,Liverpool,0-0,https://www.besoccer.com/match/chelsea-fc/liverpool/19957616,1995,19,premier_league
+Southampton,Aston Villa,2-1,https://www.besoccer.com/match/southampton-fc/aston-villa-fc/19957617,1995,19,premier_league
+Everton,Sheffield Wednesday,1-4,https://www.besoccer.com/match/everton-fc/sheffield-wednesday-fc/19957618,1995,20,premier_league
+West Ham,Ipswich Town,1-1,https://www.besoccer.com/match/west-ham-united/ipswich-town-fc/19957619,1995,20,premier_league
+Southampton,Wimbledon FC,2-3,https://www.besoccer.com/match/southampton-fc/wimbledon-fc/19957620,1995,20,premier_league
+Norwich City,Tottenham Hotspur,0-2,https://www.besoccer.com/match/norwich-city-fc/tottenham-hotspur-fc/19957621,1995,20,premier_league
+Man. City,Blackburn Rovers,1-3,https://www.besoccer.com/match/manchester-city-fc/blackburn-rovers-fc/19957622,1995,20,premier_league
+Leeds United,Newcastle,0-0,https://www.besoccer.com/match/leeds-united-afc/newcastle-united-fc/19957623,1995,20,premier_league
+Crystal Palace,Queens Park Rangers,0-0,https://www.besoccer.com/match/crystal-palace-fc/queens-park-rangers-fc/19957624,1995,20,premier_league
+Coventry City,Nottingham Forest,0-0,https://www.besoccer.com/match/coventry-city/nottingham-forest-fc/19957625,1995,20,premier_league
+Chelsea,Man. Utd,2-3,https://www.besoccer.com/match/chelsea-fc/manchester-united-fc/19957626,1995,20,premier_league
+Arsenal,Aston Villa,0-0,https://www.besoccer.com/match/arsenal/aston-villa-fc/19957627,1995,20,premier_league
+Leicester,Liverpool,1-2,https://www.besoccer.com/match/leicester-city-fc/liverpool/19957628,1995,20,premier_league
+Nottingham Forest,Norwich City,1-0,https://www.besoccer.com/match/nottingham-forest-fc/norwich-city-fc/19957629,1995,21,premier_league
+Tottenham Hotspur,Crystal Palace,0-0,https://www.besoccer.com/match/tottenham-hotspur-fc/crystal-palace-fc/19957630,1995,21,premier_league
+Queens Park Rangers,Southampton,2-2,https://www.besoccer.com/match/queens-park-rangers-fc/southampton-fc/19957631,1995,21,premier_league
+Wimbledon FC,West Ham,1-0,https://www.besoccer.com/match/wimbledon-fc/west-ham-united/19957632,1995,21,premier_league
+Sheffield Wednesday,Coventry City,5-1,https://www.besoccer.com/match/sheffield-wednesday-fc/coventry-city/19957633,1995,21,premier_league
+Liverpool,Man. City,2-0,https://www.besoccer.com/match/liverpool/manchester-city-fc/19957634,1995,21,premier_league
+Ipswich Town,Arsenal,0-2,https://www.besoccer.com/match/ipswich-town-fc/arsenal/19957635,1995,21,premier_league
+Aston Villa,Chelsea,3-0,https://www.besoccer.com/match/aston-villa-fc/chelsea-fc/19957636,1995,21,premier_league
+Man. Utd,Leicester,1-1,https://www.besoccer.com/match/manchester-united-fc/leicester-city-fc/19957637,1995,21,premier_league
+Blackburn Rovers,Leeds United,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/leeds-united-afc/19957638,1995,21,premier_league
+Newcastle,Everton,2-0,https://www.besoccer.com/match/newcastle-united-fc/everton-fc/19957639,1995,21,premier_league
+Coventry City,Tottenham Hotspur,0-4,https://www.besoccer.com/match/coventry-city/tottenham-hotspur-fc/19957640,1995,22,premier_league
+Chelsea,Wimbledon FC,1-1,https://www.besoccer.com/match/chelsea-fc/wimbledon-fc/19957641,1995,22,premier_league
+Leicester,Sheffield Wednesday,0-1,https://www.besoccer.com/match/leicester-city-fc/sheffield-wednesday-fc/19957642,1995,22,premier_league
+Arsenal,Queens Park Rangers,1-3,https://www.besoccer.com/match/arsenal/queens-park-rangers-fc/19957643,1995,22,premier_league
+West Ham,Nottingham Forest,3-1,https://www.besoccer.com/match/west-ham-united/nottingham-forest-fc/19957644,1995,22,premier_league
+Southampton,Man. Utd,2-2,https://www.besoccer.com/match/southampton-fc/manchester-united-fc/19957645,1995,22,premier_league
+Man. City,Aston Villa,2-2,https://www.besoccer.com/match/manchester-city-fc/aston-villa-fc/19957646,1995,22,premier_league
+Leeds United,Liverpool,0-2,https://www.besoccer.com/match/leeds-united-afc/liverpool/19957647,1995,22,premier_league
+Everton,Ipswich Town,4-1,https://www.besoccer.com/match/everton-fc/ipswich-town-fc/19957648,1995,22,premier_league
+Crystal Palace,Blackburn Rovers,0-1,https://www.besoccer.com/match/crystal-palace-fc/blackburn-rovers-fc/19957649,1995,22,premier_league
+Norwich City,Newcastle,2-1,https://www.besoccer.com/match/norwich-city-fc/newcastle-united-fc/19957650,1995,22,premier_league
+Blackburn Rovers,West Ham,4-2,https://www.besoccer.com/match/blackburn-rovers-fc/west-ham-united/19957651,1995,23,premier_league
+Wimbledon FC,Everton,2-1,https://www.besoccer.com/match/wimbledon-fc/everton-fc/19957652,1995,23,premier_league
+Sheffield Wednesday,Southampton,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/southampton-fc/19957653,1995,23,premier_league
+Newcastle,Man. City,0-0,https://www.besoccer.com/match/newcastle-united-fc/manchester-city-fc/19957654,1995,23,premier_league
+Liverpool,Norwich City,4-0,https://www.besoccer.com/match/liverpool/norwich-city-fc/19957655,1995,23,premier_league
+Tottenham Hotspur,Arsenal,1-0,https://www.besoccer.com/match/tottenham-hotspur-fc/arsenal/19957656,1995,23,premier_league
+Ipswich Town,Leicester,4-1,https://www.besoccer.com/match/ipswich-town-fc/leicester-city-fc/19957657,1995,23,premier_league
+Aston Villa,Leeds United,0-0,https://www.besoccer.com/match/aston-villa-fc/leeds-united-afc/19957658,1995,23,premier_league
+Nottingham Forest,Crystal Palace,1-0,https://www.besoccer.com/match/nottingham-forest-fc/crystal-palace-fc/19957659,1995,23,premier_league
+Man. Utd,Coventry City,2-0,https://www.besoccer.com/match/manchester-united-fc/coventry-city/19957660,1995,23,premier_league
+Man. City,Newcastle,0-0,https://www.besoccer.com/match/manchester-city-fc/newcastle-united-fc/19957661,1995,23,premier_league
+Liverpool,Ipswich Town,0-1,https://www.besoccer.com/match/liverpool/ipswich-town-fc/19957662,1995,24,premier_league
+Leeds United,Southampton,0-0,https://www.besoccer.com/match/leeds-united-afc/southampton-fc/19957663,1995,24,premier_league
+West Ham,Tottenham Hotspur,1-2,https://www.besoccer.com/match/west-ham-united/tottenham-hotspur-fc/19957664,1995,24,premier_league
+Man. City,Coventry City,0-0,https://www.besoccer.com/match/manchester-city-fc/coventry-city/19957665,1995,24,premier_league
+Norwich City,Wimbledon FC,1-2,https://www.besoccer.com/match/norwich-city-fc/wimbledon-fc/19957666,1995,24,premier_league
+Crystal Palace,Leicester,2-0,https://www.besoccer.com/match/crystal-palace-fc/leicester-city-fc/19957667,1995,24,premier_league
+Chelsea,Sheffield Wednesday,1-1,https://www.besoccer.com/match/chelsea-fc/sheffield-wednesday-fc/19957668,1995,24,premier_league
+Blackburn Rovers,Nottingham Forest,3-0,https://www.besoccer.com/match/blackburn-rovers-fc/nottingham-forest-fc/19957669,1995,24,premier_league
+Aston Villa,Queens Park Rangers,2-1,https://www.besoccer.com/match/aston-villa-fc/queens-park-rangers-fc/19957670,1995,24,premier_league
+Arsenal,Everton,1-1,https://www.besoccer.com/match/arsenal/everton-fc/19957671,1995,24,premier_league
+Newcastle,Man. Utd,1-1,https://www.besoccer.com/match/newcastle-united-fc/manchester-united-fc/19957672,1995,24,premier_league
+Ipswich Town,Chelsea,2-2,https://www.besoccer.com/match/ipswich-town-fc/chelsea-fc/19957673,1995,25,premier_league
+Everton,Crystal Palace,3-1,https://www.besoccer.com/match/everton-fc/crystal-palace-fc/19957674,1995,25,premier_league
+Coventry City,Arsenal,0-1,https://www.besoccer.com/match/coventry-city/arsenal/19957675,1995,25,premier_league
+Nottingham Forest,Aston Villa,1-2,https://www.besoccer.com/match/nottingham-forest-fc/aston-villa-fc/19957676,1995,25,premier_league
+Sheffield Wednesday,Newcastle,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/newcastle-united-fc/19957677,1995,25,premier_league
+Man. Utd,Blackburn Rovers,1-0,https://www.besoccer.com/match/manchester-united-fc/blackburn-rovers-fc/19957678,1995,25,premier_league
+Queens Park Rangers,Norwich City,2-0,https://www.besoccer.com/match/queens-park-rangers-fc/norwich-city-fc/19957679,1995,25,premier_league
+Leicester,Leeds United,1-3,https://www.besoccer.com/match/leicester-city-fc/leeds-united-afc/19957680,1995,25,premier_league
+Southampton,West Ham,1-1,https://www.besoccer.com/match/southampton-fc/west-ham-united/19957681,1995,25,premier_league
+Tottenham Hotspur,Man. City,2-1,https://www.besoccer.com/match/tottenham-hotspur-fc/manchester-city-fc/19957682,1995,25,premier_league
+Wimbledon FC,Liverpool,0-0,https://www.besoccer.com/match/wimbledon-fc/liverpool/19957683,1995,25,premier_league
+West Ham,Sheffield Wednesday,0-2,https://www.besoccer.com/match/west-ham-united/sheffield-wednesday-fc/19957684,1995,26,premier_league
+Leeds United,Queens Park Rangers,4-0,https://www.besoccer.com/match/leeds-united-afc/queens-park-rangers-fc/19957685,1995,26,premier_league
+Arsenal,Southampton,1-1,https://www.besoccer.com/match/arsenal/southampton-fc/19957686,1995,26,premier_league
+Liverpool,Everton,0-0,https://www.besoccer.com/match/liverpool/everton-fc/19957687,1995,26,premier_league
+Chelsea,Nottingham Forest,0-2,https://www.besoccer.com/match/chelsea-fc/nottingham-forest-fc/19957688,1995,26,premier_league
+Man. City,Leicester,0-1,https://www.besoccer.com/match/manchester-city-fc/leicester-city-fc/19957689,1995,26,premier_league
+Crystal Palace,Man. Utd,1-1,https://www.besoccer.com/match/crystal-palace-fc/manchester-united-fc/19957690,1995,26,premier_league
+Aston Villa,Tottenham Hotspur,1-0,https://www.besoccer.com/match/aston-villa-fc/tottenham-hotspur-fc/19957691,1995,26,premier_league
+Norwich City,Coventry City,2-2,https://www.besoccer.com/match/norwich-city-fc/coventry-city/19957692,1995,26,premier_league
+Newcastle,Wimbledon FC,2-1,https://www.besoccer.com/match/newcastle-united-fc/wimbledon-fc/19957693,1995,26,premier_league
+Blackburn Rovers,Ipswich Town,4-1,https://www.besoccer.com/match/blackburn-rovers-fc/ipswich-town-fc/19957694,1995,26,premier_league
+Queens Park Rangers,Newcastle,3-0,https://www.besoccer.com/match/queens-park-rangers-fc/newcastle-united-fc/19957695,1995,27,premier_league
+Nottingham Forest,Liverpool,1-1,https://www.besoccer.com/match/nottingham-forest-fc/liverpool/19957696,1995,27,premier_league
+Southampton,Man. City,2-2,https://www.besoccer.com/match/southampton-fc/manchester-city-fc/19957697,1995,27,premier_league
+Leicester,West Ham,1-2,https://www.besoccer.com/match/leicester-city-fc/west-ham-united/19957698,1995,27,premier_league
+Ipswich Town,Crystal Palace,0-2,https://www.besoccer.com/match/ipswich-town-fc/crystal-palace-fc/19957699,1995,27,premier_league
+Sheffield Wednesday,Arsenal,3-1,https://www.besoccer.com/match/sheffield-wednesday-fc/arsenal/19957700,1995,27,premier_league
+Wimbledon FC,Leeds United,0-0,https://www.besoccer.com/match/wimbledon-fc/leeds-united-afc/19957701,1995,27,premier_league
+Man. Utd,Aston Villa,1-0,https://www.besoccer.com/match/manchester-united-fc/aston-villa-fc/19957702,1995,27,premier_league
+Everton,Norwich City,2-1,https://www.besoccer.com/match/everton-fc/norwich-city-fc/19957703,1995,27,premier_league
+Coventry City,Chelsea,2-2,https://www.besoccer.com/match/coventry-city/chelsea-fc/19957704,1995,27,premier_league
+Tottenham Hotspur,Blackburn Rovers,3-1,https://www.besoccer.com/match/tottenham-hotspur-fc/blackburn-rovers-fc/19957705,1995,27,premier_league
+Liverpool,Queens Park Rangers,1-1,https://www.besoccer.com/match/liverpool/queens-park-rangers-fc/19957706,1995,28,premier_league
+Chelsea,Tottenham Hotspur,1-1,https://www.besoccer.com/match/chelsea-fc/tottenham-hotspur-fc/19957707,1995,28,premier_league
+Man. City,Man. Utd,0-3,https://www.besoccer.com/match/manchester-city-fc/manchester-united-fc/19957708,1995,28,premier_league
+Norwich City,Southampton,2-2,https://www.besoccer.com/match/norwich-city-fc/southampton-fc/19957709,1995,28,premier_league
+Newcastle,Nottingham Forest,2-1,https://www.besoccer.com/match/newcastle-united-fc/nottingham-forest-fc/19957710,1995,28,premier_league
+Aston Villa,Wimbledon FC,7-1,https://www.besoccer.com/match/aston-villa-fc/wimbledon-fc/19957711,1995,28,premier_league
+Arsenal,Leicester,1-1,https://www.besoccer.com/match/arsenal/leicester-city-fc/19957712,1995,28,premier_league
+Crystal Palace,Coventry City,0-2,https://www.besoccer.com/match/crystal-palace-fc/coventry-city/19957713,1995,28,premier_league
+Blackburn Rovers,Sheffield Wednesday,3-1,https://www.besoccer.com/match/blackburn-rovers-fc/sheffield-wednesday-fc/19957714,1995,28,premier_league
+West Ham,Everton,2-2,https://www.besoccer.com/match/west-ham-united/everton-fc/19957715,1995,28,premier_league
+Leeds United,Ipswich Town,4-0,https://www.besoccer.com/match/leeds-united-afc/ipswich-town-fc/19957716,1995,28,premier_league
+Coventry City,West Ham,2-0,https://www.besoccer.com/match/coventry-city/west-ham-united/19957717,1995,29,premier_league
+Sheffield Wednesday,Aston Villa,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/aston-villa-fc/19957718,1995,29,premier_league
+Ipswich Town,Newcastle,0-2,https://www.besoccer.com/match/ipswich-town-fc/newcastle-united-fc/19957719,1995,29,premier_league
+Wimbledon FC,Man. City,2-0,https://www.besoccer.com/match/wimbledon-fc/manchester-city-fc/19957720,1995,29,premier_league
+Nottingham Forest,Leeds United,3-0,https://www.besoccer.com/match/nottingham-forest-fc/leeds-united-afc/19957721,1995,29,premier_league
+Tottenham Hotspur,Liverpool,0-0,https://www.besoccer.com/match/tottenham-hotspur-fc/liverpool/19957722,1995,29,premier_league
+Man. Utd,Arsenal,3-0,https://www.besoccer.com/match/manchester-united-fc/arsenal/19957723,1995,29,premier_league
+Queens Park Rangers,Blackburn Rovers,0-1,https://www.besoccer.com/match/queens-park-rangers-fc/blackburn-rovers-fc/19957724,1995,29,premier_league
+Leicester,Norwich City,1-0,https://www.besoccer.com/match/leicester-city-fc/norwich-city-fc/19957725,1995,29,premier_league
+Southampton,Crystal Palace,3-1,https://www.besoccer.com/match/southampton-fc/crystal-palace-fc/19957726,1995,29,premier_league
+Everton,Chelsea,3-3,https://www.besoccer.com/match/everton-fc/chelsea-fc/19957727,1995,29,premier_league
+Arsenal,Nottingham Forest,1-0,https://www.besoccer.com/match/arsenal/nottingham-forest-fc/19957728,1995,30,premier_league
+Norwich City,Man. Utd,0-2,https://www.besoccer.com/match/norwich-city-fc/manchester-united-fc/19957729,1995,30,premier_league
+Man. City,Ipswich Town,2-0,https://www.besoccer.com/match/manchester-city-fc/ipswich-town-fc/19957730,1995,30,premier_league
+Leeds United,Everton,1-0,https://www.besoccer.com/match/leeds-united-afc/everton-fc/19957731,1995,30,premier_league
+Aston Villa,Leicester,4-4,https://www.besoccer.com/match/aston-villa-fc/leicester-city-fc/19957732,1995,30,premier_league
+Blackburn Rovers,Wimbledon FC,2-1,https://www.besoccer.com/match/blackburn-rovers-fc/wimbledon-fc/19957733,1995,30,premier_league
+Crystal Palace,Sheffield Wednesday,2-1,https://www.besoccer.com/match/crystal-palace-fc/sheffield-wednesday-fc/19957734,1995,30,premier_league
+Liverpool,Coventry City,2-3,https://www.besoccer.com/match/liverpool/coventry-city/19957735,1995,30,premier_league
+Chelsea,Southampton,0-2,https://www.besoccer.com/match/chelsea-fc/southampton-fc/19957736,1995,30,premier_league
+West Ham,Queens Park Rangers,0-0,https://www.besoccer.com/match/west-ham-united/queens-park-rangers-fc/19957737,1995,30,premier_league
+Newcastle,Tottenham Hotspur,3-3,https://www.besoccer.com/match/newcastle-united-fc/tottenham-hotspur-fc/19957738,1995,30,premier_league
+Tottenham Hotspur,Wimbledon FC,1-2,https://www.besoccer.com/match/tottenham-hotspur-fc/wimbledon-fc/19957739,1995,31,premier_league
+Everton,Man. Utd,1-0,https://www.besoccer.com/match/everton-fc/manchester-united-fc/19957740,1995,31,premier_league
+Sheffield Wednesday,Liverpool,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/liverpool/19957741,1995,31,premier_league
+Newcastle,Aston Villa,3-1,https://www.besoccer.com/match/newcastle-united-fc/aston-villa-fc/19957742,1995,31,premier_league
+West Ham,Chelsea,1-2,https://www.besoccer.com/match/west-ham-united/chelsea-fc/19957743,1995,31,premier_league
+Crystal Palace,Arsenal,0-3,https://www.besoccer.com/match/crystal-palace-fc/arsenal/19957744,1995,31,premier_league
+Coventry City,Leicester,4-2,https://www.besoccer.com/match/coventry-city/leicester-city-fc/19957745,1995,31,premier_league
+Blackburn Rovers,Norwich City,0-0,https://www.besoccer.com/match/blackburn-rovers-fc/norwich-city-fc/19957746,1995,31,premier_league
+Man. City,Leeds United,0-0,https://www.besoccer.com/match/manchester-city-fc/leeds-united-afc/19957747,1995,31,premier_league
+Ipswich Town,Southampton,2-1,https://www.besoccer.com/match/ipswich-town-fc/southampton-fc/19957748,1995,31,premier_league
+Queens Park Rangers,Nottingham Forest,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/nottingham-forest-fc/19957749,1995,31,premier_league
+Leicester,Everton,2-2,https://www.besoccer.com/match/leicester-city-fc/everton-fc/19957750,1995,32,premier_league
+Wimbledon FC,Queens Park Rangers,1-3,https://www.besoccer.com/match/wimbledon-fc/queens-park-rangers-fc/19957751,1995,32,premier_league
+Southampton,Coventry City,0-0,https://www.besoccer.com/match/southampton-fc/coventry-city/19957752,1995,32,premier_league
+Nottingham Forest,Tottenham Hotspur,2-2,https://www.besoccer.com/match/nottingham-forest-fc/tottenham-hotspur-fc/19957753,1995,32,premier_league
+Norwich City,Man. City,1-1,https://www.besoccer.com/match/norwich-city-fc/manchester-city-fc/19957754,1995,32,premier_league
+Liverpool,Newcastle,2-0,https://www.besoccer.com/match/liverpool/newcastle-united-fc/19957755,1995,32,premier_league
+Leeds United,Sheffield Wednesday,0-1,https://www.besoccer.com/match/leeds-united-afc/sheffield-wednesday-fc/19957756,1995,32,premier_league
+Aston Villa,Blackburn Rovers,0-1,https://www.besoccer.com/match/aston-villa-fc/blackburn-rovers-fc/19957757,1995,32,premier_league
+Man. Utd,Ipswich Town,9-0,https://www.besoccer.com/match/manchester-united-fc/ipswich-town-fc/19957758,1995,32,premier_league
+Chelsea,Crystal Palace,0-0,https://www.besoccer.com/match/chelsea-fc/crystal-palace-fc/19957759,1995,32,premier_league
+Arsenal,West Ham,0-1,https://www.besoccer.com/match/arsenal/west-ham-united/19957760,1995,32,premier_league
+Aston Villa,Coventry City,0-0,https://www.besoccer.com/match/aston-villa-fc/coventry-city/19957761,1995,33,premier_league
+Wimbledon FC,Man. Utd,0-1,https://www.besoccer.com/match/wimbledon-fc/manchester-united-fc/19957762,1995,33,premier_league
+Blackburn Rovers,Arsenal,3-1,https://www.besoccer.com/match/blackburn-rovers-fc/arsenal/19957763,1995,33,premier_league
+Queens Park Rangers,Leicester,2-0,https://www.besoccer.com/match/queens-park-rangers-fc/leicester-city-fc/19957764,1995,33,premier_league
+Nottingham Forest,Everton,2-1,https://www.besoccer.com/match/nottingham-forest-fc/everton-fc/19957765,1995,33,premier_league
+Norwich City,Sheffield Wednesday,0-0,https://www.besoccer.com/match/norwich-city-fc/sheffield-wednesday-fc/19957766,1995,33,premier_league
+Tottenham Hotspur,Ipswich Town,3-0,https://www.besoccer.com/match/tottenham-hotspur-fc/ipswich-town-fc/19957767,1995,33,premier_league
+Newcastle,West Ham,2-0,https://www.besoccer.com/match/newcastle-united-fc/west-ham-united/19957768,1995,33,premier_league
+Man. City,Chelsea,1-2,https://www.besoccer.com/match/manchester-city-fc/chelsea-fc/19957769,1995,33,premier_league
+Liverpool,Southampton,3-1,https://www.besoccer.com/match/liverpool/southampton-fc/19957770,1995,33,premier_league
+Leeds United,Crystal Palace,3-1,https://www.besoccer.com/match/leeds-united-afc/crystal-palace-fc/19957771,1995,33,premier_league
+Sheffield Wednesday,Wimbledon FC,0-1,https://www.besoccer.com/match/sheffield-wednesday-fc/wimbledon-fc/19957772,1995,34,premier_league
+West Ham,Norwich City,2-2,https://www.besoccer.com/match/west-ham-united/norwich-city-fc/19957773,1995,34,premier_league
+Leicester,Nottingham Forest,2-4,https://www.besoccer.com/match/leicester-city-fc/nottingham-forest-fc/19957774,1995,34,premier_league
+Coventry City,Blackburn Rovers,1-1,https://www.besoccer.com/match/coventry-city/blackburn-rovers-fc/19957775,1995,34,premier_league
+Chelsea,Leeds United,0-3,https://www.besoccer.com/match/chelsea-fc/leeds-united-afc/19957776,1995,34,premier_league
+Man. Utd,Tottenham Hotspur,0-0,https://www.besoccer.com/match/manchester-united-fc/tottenham-hotspur-fc/19957777,1995,34,premier_league
+Everton,Man. City,1-1,https://www.besoccer.com/match/everton-fc/manchester-city-fc/19957778,1995,34,premier_league
+Southampton,Newcastle,3-1,https://www.besoccer.com/match/southampton-fc/newcastle-united-fc/19957779,1995,34,premier_league
+Crystal Palace,Aston Villa,0-0,https://www.besoccer.com/match/crystal-palace-fc/aston-villa-fc/19957780,1995,34,premier_league
+Ipswich Town,Queens Park Rangers,0-1,https://www.besoccer.com/match/ipswich-town-fc/queens-park-rangers-fc/19957781,1995,34,premier_league
+Arsenal,Liverpool,0-1,https://www.besoccer.com/match/arsenal/liverpool/19957782,1995,34,premier_league
+Queens Park Rangers,Everton,2-3,https://www.besoccer.com/match/queens-park-rangers-fc/everton-fc/19957783,1995,35,premier_league
+Wimbledon FC,Crystal Palace,2-0,https://www.besoccer.com/match/wimbledon-fc/crystal-palace-fc/19957784,1995,35,premier_league
+Tottenham Hotspur,Leicester,1-0,https://www.besoccer.com/match/tottenham-hotspur-fc/leicester-city-fc/19957785,1995,35,premier_league
+Man. City,Sheffield Wednesday,3-2,https://www.besoccer.com/match/manchester-city-fc/sheffield-wednesday-fc/19957786,1995,35,premier_league
+Leeds United,Coventry City,3-0,https://www.besoccer.com/match/leeds-united-afc/coventry-city/19957787,1995,35,premier_league
+Aston Villa,West Ham,0-2,https://www.besoccer.com/match/aston-villa-fc/west-ham-united/19957788,1995,35,premier_league
+Nottingham Forest,Southampton,3-0,https://www.besoccer.com/match/nottingham-forest-fc/southampton-fc/19957789,1995,35,premier_league
+Blackburn Rovers,Chelsea,2-1,https://www.besoccer.com/match/blackburn-rovers-fc/chelsea-fc/19957790,1995,35,premier_league
+Newcastle,Arsenal,1-0,https://www.besoccer.com/match/newcastle-united-fc/arsenal/19957791,1995,35,premier_league
+Liverpool,Man. Utd,2-0,https://www.besoccer.com/match/liverpool/manchester-united-fc/19957792,1995,35,premier_league
+Norwich City,Ipswich Town,3-0,https://www.besoccer.com/match/norwich-city-fc/ipswich-town-fc/19957793,1995,35,premier_league
+Sheffield Wednesday,Nottingham Forest,1-7,https://www.besoccer.com/match/sheffield-wednesday-fc/nottingham-forest-fc/19957794,1995,36,premier_league
+Leicester,Wimbledon FC,3-4,https://www.besoccer.com/match/leicester-city-fc/wimbledon-fc/19957795,1995,36,premier_league
+Everton,Blackburn Rovers,1-2,https://www.besoccer.com/match/everton-fc/blackburn-rovers-fc/19957796,1995,36,premier_league
+Crystal Palace,Man. City,2-1,https://www.besoccer.com/match/crystal-palace-fc/manchester-city-fc/19957797,1995,36,premier_league
+Arsenal,Norwich City,5-1,https://www.besoccer.com/match/arsenal/norwich-city-fc/19957798,1995,36,premier_league
+Ipswich Town,Aston Villa,0-1,https://www.besoccer.com/match/ipswich-town-fc/aston-villa-fc/19957799,1995,36,premier_league
+Coventry City,Queens Park Rangers,0-1,https://www.besoccer.com/match/coventry-city/queens-park-rangers-fc/19957800,1995,36,premier_league
+Chelsea,Newcastle,1-1,https://www.besoccer.com/match/chelsea-fc/newcastle-united-fc/19957801,1995,36,premier_league
+Man. Utd,Leeds United,0-0,https://www.besoccer.com/match/manchester-united-fc/leeds-united-afc/19957802,1995,36,premier_league
+Southampton,Tottenham Hotspur,4-3,https://www.besoccer.com/match/southampton-fc/tottenham-hotspur-fc/19957803,1995,36,premier_league
+West Ham,Liverpool,3-0,https://www.besoccer.com/match/west-ham-united/liverpool/19957804,1995,36,premier_league
+Sheffield Wednesday,Leicester,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/leicester-city-fc/19957805,1995,37,premier_league
+Queens Park Rangers,Arsenal,3-1,https://www.besoccer.com/match/queens-park-rangers-fc/arsenal/19957806,1995,37,premier_league
+Nottingham Forest,West Ham,1-1,https://www.besoccer.com/match/nottingham-forest-fc/west-ham-united/19957807,1995,37,premier_league
+Newcastle,Norwich City,3-0,https://www.besoccer.com/match/newcastle-united-fc/norwich-city-fc/19957808,1995,37,premier_league
+Liverpool,Leeds United,0-1,https://www.besoccer.com/match/liverpool/leeds-united-afc/19957809,1995,37,premier_league
+Wimbledon FC,Chelsea,1-1,https://www.besoccer.com/match/wimbledon-fc/chelsea-fc/19957810,1995,37,premier_league
+Blackburn Rovers,Crystal Palace,2-1,https://www.besoccer.com/match/blackburn-rovers-fc/crystal-palace-fc/19957811,1995,37,premier_league
+Aston Villa,Man. City,1-1,https://www.besoccer.com/match/aston-villa-fc/manchester-city-fc/19957812,1995,37,premier_league
+Tottenham Hotspur,Coventry City,1-3,https://www.besoccer.com/match/tottenham-hotspur-fc/coventry-city/19957813,1995,37,premier_league
+Ipswich Town,Everton,0-1,https://www.besoccer.com/match/ipswich-town-fc/everton-fc/19957814,1995,37,premier_league
+Man. Utd,Southampton,2-1,https://www.besoccer.com/match/manchester-united-fc/southampton-fc/19957815,1995,37,premier_league
+Norwich City,Nottingham Forest,0-1,https://www.besoccer.com/match/norwich-city-fc/nottingham-forest-fc/19957816,1995,38,premier_league
+West Ham,Wimbledon FC,3-0,https://www.besoccer.com/match/west-ham-united/wimbledon-fc/19957817,1995,38,premier_league
+Man. City,Liverpool,2-1,https://www.besoccer.com/match/manchester-city-fc/liverpool/19957818,1995,38,premier_league
+Everton,Newcastle,2-0,https://www.besoccer.com/match/everton-fc/newcastle-united-fc/19957819,1995,38,premier_league
+Crystal Palace,Tottenham Hotspur,1-1,https://www.besoccer.com/match/crystal-palace-fc/tottenham-hotspur-fc/19957820,1995,38,premier_league
+Coventry City,Sheffield Wednesday,2-0,https://www.besoccer.com/match/coventry-city/sheffield-wednesday-fc/19957821,1995,38,premier_league
+Southampton,Queens Park Rangers,2-1,https://www.besoccer.com/match/southampton-fc/queens-park-rangers-fc/19957822,1995,38,premier_league
+Leicester,Man. Utd,0-4,https://www.besoccer.com/match/leicester-city-fc/manchester-united-fc/19957823,1995,38,premier_league
+Leeds United,Blackburn Rovers,1-1,https://www.besoccer.com/match/leeds-united-afc/blackburn-rovers-fc/19957824,1995,38,premier_league
+Arsenal,Ipswich Town,4-1,https://www.besoccer.com/match/arsenal/ipswich-town-fc/19957825,1995,38,premier_league
+Chelsea,Aston Villa,1-0,https://www.besoccer.com/match/chelsea-fc/aston-villa-fc/19957826,1995,38,premier_league
+Wimbledon FC,Southampton,0-2,https://www.besoccer.com/match/wimbledon-fc/southampton-fc/19957827,1995,39,premier_league
+Tottenham Hotspur,Norwich City,1-0,https://www.besoccer.com/match/tottenham-hotspur-fc/norwich-city-fc/19957828,1995,39,premier_league
+Sheffield Wednesday,Everton,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/everton-fc/19957829,1995,39,premier_league
+Queens Park Rangers,Crystal Palace,0-1,https://www.besoccer.com/match/queens-park-rangers-fc/crystal-palace-fc/19957830,1995,39,premier_league
+Nottingham Forest,Coventry City,2-0,https://www.besoccer.com/match/nottingham-forest-fc/coventry-city/19957831,1995,39,premier_league
+Man. Utd,Chelsea,0-0,https://www.besoccer.com/match/manchester-united-fc/chelsea-fc/19957832,1995,39,premier_league
+Liverpool,Leicester,2-0,https://www.besoccer.com/match/liverpool/leicester-city-fc/19957833,1995,39,premier_league
+Ipswich Town,West Ham,1-1,https://www.besoccer.com/match/ipswich-town-fc/west-ham-united/19957834,1995,39,premier_league
+Blackburn Rovers,Man. City,2-3,https://www.besoccer.com/match/blackburn-rovers-fc/manchester-city-fc/19957835,1995,39,premier_league
+Aston Villa,Arsenal,0-4,https://www.besoccer.com/match/aston-villa-fc/arsenal/19957836,1995,39,premier_league
+Newcastle,Leeds United,1-2,https://www.besoccer.com/match/newcastle-united-fc/leeds-united-afc/19957837,1995,39,premier_league
+Chelsea,Queens Park Rangers,1-0,https://www.besoccer.com/match/chelsea-fc/queens-park-rangers-fc/19957838,1995,39,premier_league
+Queens Park Rangers,Chelsea,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/chelsea-fc/19957839,1995,40,premier_league
+Leeds United,Aston Villa,1-0,https://www.besoccer.com/match/leeds-united-afc/aston-villa-fc/19957840,1995,40,premier_league
+Southampton,Sheffield Wednesday,0-0,https://www.besoccer.com/match/southampton-fc/sheffield-wednesday-fc/19957841,1995,40,premier_league
+Norwich City,Liverpool,1-2,https://www.besoccer.com/match/norwich-city-fc/liverpool/19957842,1995,40,premier_league
+Arsenal,Tottenham Hotspur,1-1,https://www.besoccer.com/match/arsenal/tottenham-hotspur-fc/19957843,1995,40,premier_league
+Leicester,Ipswich Town,2-0,https://www.besoccer.com/match/leicester-city-fc/ipswich-town-fc/19957844,1995,40,premier_league
+Everton,Wimbledon FC,0-0,https://www.besoccer.com/match/everton-fc/wimbledon-fc/19957845,1995,40,premier_league
+Crystal Palace,Nottingham Forest,1-2,https://www.besoccer.com/match/crystal-palace-fc/nottingham-forest-fc/19957846,1995,40,premier_league
+West Ham,Blackburn Rovers,2-0,https://www.besoccer.com/match/west-ham-united/blackburn-rovers-fc/19957847,1995,40,premier_league
+Coventry City,Man. Utd,2-3,https://www.besoccer.com/match/coventry-city/manchester-united-fc/19957848,1995,40,premier_league
+Arsenal,Wimbledon FC,0-0,https://www.besoccer.com/match/arsenal/wimbledon-fc/19957849,1995,41,premier_league
+Aston Villa,Liverpool,2-0,https://www.besoccer.com/match/aston-villa-fc/liverpool/19957850,1995,41,premier_league
+Crystal Palace,West Ham,1-0,https://www.besoccer.com/match/crystal-palace-fc/west-ham-united/19957851,1995,41,premier_league
+Ipswich Town,Coventry City,2-0,https://www.besoccer.com/match/ipswich-town-fc/coventry-city/19957852,1995,41,premier_league
+Everton,Southampton,0-0,https://www.besoccer.com/match/everton-fc/southampton-fc/19957853,1995,41,premier_league
+Queens Park Rangers,Tottenham Hotspur,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/tottenham-hotspur-fc/19957854,1995,41,premier_league
+Nottingham Forest,Man. City,1-0,https://www.besoccer.com/match/nottingham-forest-fc/manchester-city-fc/19957855,1995,41,premier_league
+Leicester,Chelsea,1-1,https://www.besoccer.com/match/leicester-city-fc/chelsea-fc/19957856,1995,41,premier_league
+Leeds United,Norwich City,2-1,https://www.besoccer.com/match/leeds-united-afc/norwich-city-fc/19957857,1995,41,premier_league
+Man. Utd,Sheffield Wednesday,1-0,https://www.besoccer.com/match/manchester-united-fc/sheffield-wednesday-fc/19957858,1995,41,premier_league
+Blackburn Rovers,Newcastle,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/newcastle-united-fc/19957859,1995,41,premier_league
+Wimbledon FC,Nottingham Forest,2-2,https://www.besoccer.com/match/wimbledon-fc/nottingham-forest-fc/19957860,1995,42,premier_league
+Liverpool,Blackburn Rovers,2-1,https://www.besoccer.com/match/liverpool/blackburn-rovers-fc/19957861,1995,42,premier_league
+West Ham,Man. Utd,1-1,https://www.besoccer.com/match/west-ham-united/manchester-united-fc/19957862,1995,42,premier_league
+Tottenham Hotspur,Leeds United,1-1,https://www.besoccer.com/match/tottenham-hotspur-fc/leeds-united-afc/19957863,1995,42,premier_league
+Southampton,Leicester,2-2,https://www.besoccer.com/match/southampton-fc/leicester-city-fc/19957864,1995,42,premier_league
+Sheffield Wednesday,Ipswich Town,4-1,https://www.besoccer.com/match/sheffield-wednesday-fc/ipswich-town-fc/19957865,1995,42,premier_league
+Norwich City,Aston Villa,1-1,https://www.besoccer.com/match/norwich-city-fc/aston-villa-fc/19957866,1995,42,premier_league
+Coventry City,Everton,0-0,https://www.besoccer.com/match/coventry-city/everton-fc/19957867,1995,42,premier_league
+Chelsea,Arsenal,2-1,https://www.besoccer.com/match/chelsea-fc/arsenal/19957868,1995,42,premier_league
+Newcastle,Crystal Palace,3-2,https://www.besoccer.com/match/newcastle-united-fc/crystal-palace-fc/19957869,1995,42,premier_league
+Man. City,Queens Park Rangers,2-3,https://www.besoccer.com/match/manchester-city-fc/queens-park-rangers-fc/19957870,1995,42,premier_league

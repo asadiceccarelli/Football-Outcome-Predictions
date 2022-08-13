@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Arsenal,Leicester,4-3,https://www.besoccer.com/match/arsenal/leicester-city-fc/2018410977,2018,1,premier_league
+Watford,Liverpool,3-3,https://www.besoccer.com/match/watford-fc/liverpool/2018410990,2018,1,premier_league
+Chelsea,Burnley,2-3,https://www.besoccer.com/match/chelsea-fc/burnley-fc/2018410979,2018,1,premier_league
+Crystal Palace,Huddersfield Town,0-3,https://www.besoccer.com/match/crystal-palace-fc/huddersfield-town-fc/2018410982,2018,1,premier_league
+Everton,Stoke City,1-0,https://www.besoccer.com/match/everton-fc/stoke-city/2018410984,2018,1,premier_league
+Southampton,Swansea City,0-0,https://www.besoccer.com/match/southampton-fc/swansea-city-afc/2018410989,2018,1,premier_league
+West Bromwich Albion,AFC Bournemouth,1-0,https://www.besoccer.com/match/west-bromwich/afc-bournemouth/2018410992,2018,1,premier_league
+Brighton & Hove Albion,Man. City,0-2,https://www.besoccer.com/match/brighton-amp-hov/manchester-city-fc/2018410978,2018,1,premier_league
+Newcastle,Tottenham Hotspur,0-2,https://www.besoccer.com/match/newcastle-united-fc/tottenham-hotspur-fc/2018410988,2018,1,premier_league
+Man. Utd,West Ham,4-0,https://www.besoccer.com/match/manchester-united-fc/west-ham-united/2018410986,2018,1,premier_league
+Swansea City,Man. Utd,0-4,https://www.besoccer.com/match/swansea-city-afc/manchester-united-fc/2018411016,2018,2,premier_league
+AFC Bournemouth,Watford,0-2,https://www.besoccer.com/match/afc-bournemouth/watford-fc/2018411001,2018,2,premier_league
+Burnley,West Bromwich Albion,0-1,https://www.besoccer.com/match/burnley-fc/west-bromwich/2018411004,2018,2,premier_league
+Leicester,Brighton & Hove Albion,2-0,https://www.besoccer.com/match/leicester-city-fc/brighton-amp-hov/2018411008,2018,2,premier_league
+Liverpool,Crystal Palace,1-0,https://www.besoccer.com/match/liverpool/crystal-palace-fc/2018411009,2018,2,premier_league
+Southampton,West Ham,3-2,https://www.besoccer.com/match/southampton-fc/west-ham-united/2018411023,2018,2,premier_league
+Stoke City,Arsenal,1-0,https://www.besoccer.com/match/stoke-city/arsenal/2018411013,2018,2,premier_league
+Huddersfield Town,Newcastle,1-0,https://www.besoccer.com/match/huddersfield-town-fc/newcastle-united-fc/2018411006,2018,2,premier_league
+Tottenham Hotspur,Chelsea,1-2,https://www.besoccer.com/match/tottenham-hotspur-fc/chelsea-fc/2018410981,2018,2,premier_league
+Man. City,Everton,1-1,https://www.besoccer.com/match/manchester-city-fc/everton-fc/2018411012,2018,2,premier_league
+AFC Bournemouth,Man. City,1-2,https://www.besoccer.com/match/afc-bournemouth/manchester-city-fc/2018411017,2018,3,premier_league
+Crystal Palace,Swansea City,0-2,https://www.besoccer.com/match/crystal-palace-fc/swansea-city-afc/2018411020,2018,3,premier_league
+Huddersfield Town,Southampton,0-0,https://www.besoccer.com/match/huddersfield-town-fc/southampton-fc/2018411022,2018,3,premier_league
+Newcastle,West Ham,3-0,https://www.besoccer.com/match/newcastle-united-fc/west-ham-united/2018411027,2018,3,premier_league
+Watford,Brighton & Hove Albion,0-0,https://www.besoccer.com/match/watford-fc/brighton-amp-hov/2018411029,2018,3,premier_league
+Man. Utd,Leicester,2-0,https://www.besoccer.com/match/manchester-united-fc/leicester-city-fc/2018411026,2018,3,premier_league
+Chelsea,Everton,2-0,https://www.besoccer.com/match/chelsea-fc/everton-fc/2018411019,2018,3,premier_league
+West Bromwich Albion,Stoke City,1-1,https://www.besoccer.com/match/west-bromwich/stoke-city/2018411030,2018,3,premier_league
+Liverpool,Arsenal,4-0,https://www.besoccer.com/match/liverpool/arsenal/2018410995,2018,3,premier_league
+Tottenham Hotspur,Burnley,1-1,https://www.besoccer.com/match/tottenham-hotspur-fc/burnley-fc/2018411028,2018,3,premier_league
+Man. City,Liverpool,5-0,https://www.besoccer.com/match/manchester-city-fc/liverpool/2018411000,2018,4,premier_league
+Arsenal,AFC Bournemouth,3-0,https://www.besoccer.com/match/arsenal/afc-bournemouth/2018411032,2018,4,premier_league
+Brighton & Hove Albion,West Bromwich Albion,3-1,https://www.besoccer.com/match/brighton-amp-hov/west-bromwich/2018411034,2018,4,premier_league
+Everton,Tottenham Hotspur,0-3,https://www.besoccer.com/match/everton-fc/tottenham-hotspur-fc/2018411043,2018,4,premier_league
+Leicester,Chelsea,1-2,https://www.besoccer.com/match/leicester-city-fc/chelsea-fc/2018411046,2018,4,premier_league
+Southampton,Watford,0-2,https://www.besoccer.com/match/southampton-fc/watford-fc/2018411048,2018,4,premier_league
+Stoke City,Man. Utd,2-2,https://www.besoccer.com/match/stoke-city/manchester-united-fc/2018411050,2018,4,premier_league
+Burnley,Crystal Palace,1-0,https://www.besoccer.com/match/burnley-fc/crystal-palace-fc/2018411038,2018,4,premier_league
+Swansea City,Newcastle,0-1,https://www.besoccer.com/match/swansea-city-afc/newcastle-united-fc/2018411052,2018,4,premier_league
+West Ham,Huddersfield Town,2-0,https://www.besoccer.com/match/west-ham-united/huddersfield-town-fc/2018411055,2018,4,premier_league
+AFC Bournemouth,Brighton & Hove Albion,2-1,https://www.besoccer.com/match/afc-bournemouth/brighton-amp-hov/2018411036,2018,5,premier_league
+Crystal Palace,Southampton,0-1,https://www.besoccer.com/match/crystal-palace-fc/southampton-fc/2018411039,2018,5,premier_league
+Huddersfield Town,Leicester,1-1,https://www.besoccer.com/match/huddersfield-town-fc/leicester-city-fc/2018411042,2018,5,premier_league
+Liverpool,Burnley,1-1,https://www.besoccer.com/match/liverpool/burnley-fc/2018411045,2018,5,premier_league
+Newcastle,Stoke City,2-1,https://www.besoccer.com/match/newcastle-united-fc/stoke-city/2018411054,2018,5,premier_league
+Watford,Man. City,0-6,https://www.besoccer.com/match/watford-fc/manchester-city-fc/2018411058,2018,5,premier_league
+West Bromwich Albion,West Ham,0-0,https://www.besoccer.com/match/west-bromwich/west-ham-united/2018411060,2018,5,premier_league
+Tottenham Hotspur,Swansea City,0-0,https://www.besoccer.com/match/tottenham-hotspur-fc/swansea-city-afc/2018411057,2018,5,premier_league
+Chelsea,Arsenal,0-0,https://www.besoccer.com/match/chelsea-fc/arsenal/2018411007,2018,5,premier_league
+Man. Utd,Everton,4-0,https://www.besoccer.com/match/manchester-united-fc/everton-fc/2018411049,2018,5,premier_league
+West Ham,Tottenham Hotspur,2-3,https://www.besoccer.com/match/west-ham-united/tottenham-hotspur-fc/2018411085,2018,6,premier_league
+Burnley,Huddersfield Town,0-0,https://www.besoccer.com/match/burnley-fc/huddersfield-town-fc/2018411068,2018,6,premier_league
+Everton,AFC Bournemouth,2-1,https://www.besoccer.com/match/everton-fc/afc-bournemouth/2018411072,2018,6,premier_league
+Man. City,Crystal Palace,5-0,https://www.besoccer.com/match/manchester-city-fc/crystal-palace-fc/2018411076,2018,6,premier_league
+Southampton,Man. Utd,0-1,https://www.besoccer.com/match/southampton-fc/manchester-united-fc/2018411078,2018,6,premier_league
+Stoke City,Chelsea,0-4,https://www.besoccer.com/match/stoke-city/chelsea-fc/2018411082,2018,6,premier_league
+Swansea City,Watford,1-2,https://www.besoccer.com/match/swansea-city-afc/watford-fc/2018411084,2018,6,premier_league
+Leicester,Liverpool,2-3,https://www.besoccer.com/match/leicester-city-fc/liverpool/2018411074,2018,6,premier_league
+Brighton & Hove Albion,Newcastle,1-0,https://www.besoccer.com/match/brighton-amp-hov/newcastle-united-fc/2018411066,2018,6,premier_league
+Arsenal,West Bromwich Albion,2-0,https://www.besoccer.com/match/arsenal/west-bromwich/2018411063,2018,6,premier_league
+Huddersfield Town,Tottenham Hotspur,0-4,https://www.besoccer.com/match/huddersfield-town-fc/tottenham-hotspur-fc/2018411073,2018,7,premier_league
+AFC Bournemouth,Leicester,0-0,https://www.besoccer.com/match/afc-bournemouth/leicester-city-fc/2018411067,2018,7,premier_league
+Man. Utd,Crystal Palace,4-0,https://www.besoccer.com/match/manchester-united-fc/crystal-palace-fc/2018411077,2018,7,premier_league
+Stoke City,Southampton,2-1,https://www.besoccer.com/match/stoke-city/southampton-fc/2018411083,2018,7,premier_league
+West Bromwich Albion,Watford,2-2,https://www.besoccer.com/match/west-bromwich/watford-fc/2018411086,2018,7,premier_league
+West Ham,Swansea City,1-0,https://www.besoccer.com/match/west-ham-united/swansea-city-afc/2018411088,2018,7,premier_league
+Chelsea,Man. City,0-1,https://www.besoccer.com/match/chelsea-fc/manchester-city-fc/2018411015,2018,7,premier_league
+Arsenal,Brighton & Hove Albion,2-0,https://www.besoccer.com/match/arsenal/brighton-amp-hov/2018411065,2018,7,premier_league
+Everton,Burnley,0-1,https://www.besoccer.com/match/everton-fc/burnley-fc/2018411071,2018,7,premier_league
+Newcastle,Liverpool,1-1,https://www.besoccer.com/match/newcastle-united-fc/liverpool/2018411081,2018,7,premier_league
+Liverpool,Man. Utd,0-0,https://www.besoccer.com/match/liverpool/manchester-united-fc/2018411024,2018,8,premier_league
+Burnley,West Ham,1-1,https://www.besoccer.com/match/burnley-fc/west-ham-united/2018411091,2018,8,premier_league
+Crystal Palace,Chelsea,2-1,https://www.besoccer.com/match/crystal-palace-fc/chelsea-fc/2018411093,2018,8,premier_league
+Man. City,Stoke City,7-2,https://www.besoccer.com/match/manchester-city-fc/stoke-city/2018411097,2018,8,premier_league
+Swansea City,Huddersfield Town,2-0,https://www.besoccer.com/match/swansea-city-afc/huddersfield-town-fc/2018411102,2018,8,premier_league
+Tottenham Hotspur,AFC Bournemouth,1-0,https://www.besoccer.com/match/tottenham-hotspur-fc/afc-bournemouth/2018411105,2018,8,premier_league
+Watford,Arsenal,2-1,https://www.besoccer.com/match/watford-fc/arsenal/2018411107,2018,8,premier_league
+Brighton & Hove Albion,Everton,1-1,https://www.besoccer.com/match/brighton-amp-hov/everton-fc/2018411089,2018,8,premier_league
+Southampton,Newcastle,2-2,https://www.besoccer.com/match/southampton-fc/newcastle-united-fc/2018411099,2018,8,premier_league
+Leicester,West Bromwich Albion,1-1,https://www.besoccer.com/match/leicester-city-fc/west-bromwich/2018411095,2018,8,premier_league
+West Ham,Brighton & Hove Albion,0-3,https://www.besoccer.com/match/west-ham-united/brighton-amp-hov/2018411121,2018,9,premier_league
+Chelsea,Watford,4-2,https://www.besoccer.com/match/chelsea-fc/watford-fc/2018411092,2018,9,premier_league
+Huddersfield Town,Man. Utd,2-1,https://www.besoccer.com/match/huddersfield-town-fc/manchester-united-fc/2018411103,2018,9,premier_league
+Man. City,Burnley,3-0,https://www.besoccer.com/match/manchester-city-fc/burnley-fc/2018411106,2018,9,premier_league
+Newcastle,Crystal Palace,1-0,https://www.besoccer.com/match/newcastle-united-fc/crystal-palace-fc/2018411108,2018,9,premier_league
+Stoke City,AFC Bournemouth,1-2,https://www.besoccer.com/match/stoke-city/afc-bournemouth/2018411113,2018,9,premier_league
+Swansea City,Leicester,1-2,https://www.besoccer.com/match/swansea-city-afc/leicester-city-fc/2018411115,2018,9,premier_league
+Southampton,West Bromwich Albion,1-0,https://www.besoccer.com/match/southampton-fc/west-bromwich/2018411111,2018,9,premier_league
+Everton,Arsenal,2-5,https://www.besoccer.com/match/everton-fc/arsenal/2018411101,2018,9,premier_league
+Tottenham Hotspur,Liverpool,4-1,https://www.besoccer.com/match/tottenham-hotspur-fc/liverpool/2018411119,2018,9,premier_league
+Man. Utd,Tottenham Hotspur,1-0,https://www.besoccer.com/match/manchester-united-fc/tottenham-hotspur-fc/2018411124,2018,10,premier_league
+Arsenal,Swansea City,2-1,https://www.besoccer.com/match/arsenal/swansea-city-afc/2018411114,2018,10,premier_league
+Crystal Palace,West Ham,2-2,https://www.besoccer.com/match/crystal-palace-fc/west-ham-united/2018411120,2018,10,premier_league
+Liverpool,Huddersfield Town,3-0,https://www.besoccer.com/match/liverpool/huddersfield-town-fc/2018411123,2018,10,premier_league
+Watford,Stoke City,0-1,https://www.besoccer.com/match/watford-fc/stoke-city/2018411125,2018,10,premier_league
+West Bromwich Albion,Man. City,2-3,https://www.besoccer.com/match/west-bromwich/manchester-city-fc/2018411126,2018,10,premier_league
+AFC Bournemouth,Chelsea,0-1,https://www.besoccer.com/match/afc-bournemouth/chelsea-fc/2018411116,2018,10,premier_league
+Brighton & Hove Albion,Southampton,1-1,https://www.besoccer.com/match/brighton-amp-hov/southampton-fc/2018411117,2018,10,premier_league
+Leicester,Everton,2-0,https://www.besoccer.com/match/leicester-city-fc/everton-fc/2018411122,2018,10,premier_league
+Burnley,Newcastle,1-0,https://www.besoccer.com/match/burnley-fc/newcastle-united-fc/2018411118,2018,10,premier_league
+Stoke City,Leicester,2-2,https://www.besoccer.com/match/stoke-city/leicester-city-fc/2018411137,2018,11,premier_league
+Huddersfield Town,West Bromwich Albion,1-0,https://www.besoccer.com/match/huddersfield-town-fc/west-bromwich/2018411130,2018,11,premier_league
+Newcastle,AFC Bournemouth,0-1,https://www.besoccer.com/match/newcastle-united-fc/afc-bournemouth/2018411132,2018,11,premier_league
+Southampton,Burnley,0-1,https://www.besoccer.com/match/southampton-fc/burnley-fc/2018411135,2018,11,premier_league
+Swansea City,Brighton & Hove Albion,0-1,https://www.besoccer.com/match/swansea-city-afc/brighton-amp-hov/2018411139,2018,11,premier_league
+West Ham,Liverpool,1-4,https://www.besoccer.com/match/west-ham-united/liverpool/2018411141,2018,11,premier_league
+Tottenham Hotspur,Crystal Palace,1-0,https://www.besoccer.com/match/tottenham-hotspur-fc/crystal-palace-fc/2018411140,2018,11,premier_league
+Man. City,Arsenal,3-1,https://www.besoccer.com/match/manchester-city-fc/arsenal/2018411041,2018,11,premier_league
+Chelsea,Man. Utd,1-0,https://www.besoccer.com/match/chelsea-fc/manchester-united-fc/2018411035,2018,11,premier_league
+Everton,Watford,3-2,https://www.besoccer.com/match/everton-fc/watford-fc/2018411128,2018,11,premier_league
+Arsenal,Tottenham Hotspur,2-0,https://www.besoccer.com/match/arsenal/tottenham-hotspur-fc/2018411053,2018,12,premier_league
+AFC Bournemouth,Huddersfield Town,4-0,https://www.besoccer.com/match/afc-bournemouth/huddersfield-town-fc/2018411134,2018,12,premier_league
+Burnley,Swansea City,2-0,https://www.besoccer.com/match/burnley-fc/swansea-city-afc/2018411147,2018,12,premier_league
+Crystal Palace,Everton,2-2,https://www.besoccer.com/match/crystal-palace-fc/everton-fc/2018411149,2018,12,premier_league
+Leicester,Man. City,0-2,https://www.besoccer.com/match/leicester-city-fc/manchester-city-fc/2018411151,2018,12,premier_league
+Liverpool,Southampton,3-0,https://www.besoccer.com/match/liverpool/southampton-fc/2018411156,2018,12,premier_league
+West Bromwich Albion,Chelsea,0-4,https://www.besoccer.com/match/west-bromwich/chelsea-fc/2018411168,2018,12,premier_league
+Man. Utd,Newcastle,4-1,https://www.besoccer.com/match/manchester-united-fc/newcastle-united-fc/2018411158,2018,12,premier_league
+Watford,West Ham,2-0,https://www.besoccer.com/match/watford-fc/west-ham-united/2018411162,2018,12,premier_league
+Brighton & Hove Albion,Stoke City,2-2,https://www.besoccer.com/match/brighton-amp-hov/stoke-city/2018411145,2018,12,premier_league
+West Ham,Leicester,1-1,https://www.besoccer.com/match/west-ham-united/leicester-city-fc/2018411166,2018,13,premier_league
+Crystal Palace,Stoke City,2-1,https://www.besoccer.com/match/crystal-palace-fc/stoke-city/2018411152,2018,13,premier_league
+Man. Utd,Brighton & Hove Albion,1-0,https://www.besoccer.com/match/manchester-united-fc/brighton-amp-hov/2018411157,2018,13,premier_league
+Newcastle,Watford,0-3,https://www.besoccer.com/match/newcastle-united-fc/watford-fc/2018411159,2018,13,premier_league
+Swansea City,AFC Bournemouth,0-0,https://www.besoccer.com/match/swansea-city-afc/afc-bournemouth/2018411163,2018,13,premier_league
+Tottenham Hotspur,West Bromwich Albion,1-1,https://www.besoccer.com/match/tottenham-hotspur-fc/west-bromwich/2018411165,2018,13,premier_league
+Liverpool,Chelsea,1-1,https://www.besoccer.com/match/liverpool/chelsea-fc/2018411061,2018,13,premier_league
+Southampton,Everton,4-1,https://www.besoccer.com/match/southampton-fc/everton-fc/2018411161,2018,13,premier_league
+Burnley,Arsenal,0-1,https://www.besoccer.com/match/burnley-fc/arsenal/2018411148,2018,13,premier_league
+Huddersfield Town,Man. City,1-2,https://www.besoccer.com/match/huddersfield-town-fc/manchester-city-fc/2018411154,2018,13,premier_league
+Brighton & Hove Albion,Crystal Palace,0-0,https://www.besoccer.com/match/brighton-amp-hov/crystal-palace-fc/2018411175,2018,14,premier_league
+Leicester,Tottenham Hotspur,2-1,https://www.besoccer.com/match/leicester-city-fc/tottenham-hotspur-fc/2018411176,2018,14,premier_league
+Watford,Man. Utd,2-4,https://www.besoccer.com/match/watford-fc/manchester-united-fc/2018411179,2018,14,premier_league
+West Bromwich Albion,Newcastle,2-2,https://www.besoccer.com/match/west-bromwich/newcastle-united-fc/2018411183,2018,14,premier_league
+Arsenal,Huddersfield Town,5-0,https://www.besoccer.com/match/arsenal/huddersfield-town-fc/2018411172,2018,14,premier_league
+AFC Bournemouth,Burnley,1-2,https://www.besoccer.com/match/afc-bournemouth/burnley-fc/2018411173,2018,14,premier_league
+Chelsea,Swansea City,1-0,https://www.besoccer.com/match/chelsea-fc/swansea-city-afc/2018411185,2018,14,premier_league
+Everton,West Ham,4-0,https://www.besoccer.com/match/everton-fc/west-ham-united/2018411188,2018,14,premier_league
+Man. City,Southampton,2-1,https://www.besoccer.com/match/manchester-city-fc/southampton-fc/2018411192,2018,14,premier_league
+Stoke City,Liverpool,0-3,https://www.besoccer.com/match/stoke-city/liverpool/2018411193,2018,14,premier_league
+Chelsea,Newcastle,3-1,https://www.besoccer.com/match/chelsea-fc/newcastle-united-fc/2018411190,2018,15,premier_league
+Brighton & Hove Albion,Liverpool,1-5,https://www.besoccer.com/match/brighton-amp-hov/liverpool/2018411186,2018,15,premier_league
+Everton,Huddersfield Town,2-0,https://www.besoccer.com/match/everton-fc/huddersfield-town-fc/2018411196,2018,15,premier_league
+Leicester,Burnley,1-0,https://www.besoccer.com/match/leicester-city-fc/burnley-fc/2018411197,2018,15,premier_league
+Stoke City,Swansea City,2-1,https://www.besoccer.com/match/stoke-city/swansea-city-afc/2018411203,2018,15,premier_league
+Watford,Tottenham Hotspur,1-1,https://www.besoccer.com/match/watford-fc/tottenham-hotspur-fc/2018411205,2018,15,premier_league
+West Bromwich Albion,Crystal Palace,0-0,https://www.besoccer.com/match/west-bromwich/crystal-palace-fc/2018411209,2018,15,premier_league
+Arsenal,Man. Utd,1-3,https://www.besoccer.com/match/arsenal/manchester-united-fc/2018411070,2018,15,premier_league
+AFC Bournemouth,Southampton,1-1,https://www.besoccer.com/match/afc-bournemouth/southampton-fc/2018411180,2018,15,premier_league
+Man. City,West Ham,2-1,https://www.besoccer.com/match/manchester-city-fc/west-ham-united/2018411200,2018,15,premier_league
+West Ham,Chelsea,1-0,https://www.besoccer.com/match/west-ham-united/chelsea-fc/2018411244,2018,16,premier_league
+Burnley,Watford,1-0,https://www.besoccer.com/match/burnley-fc/watford-fc/2018411202,2018,16,premier_league
+Crystal Palace,AFC Bournemouth,2-2,https://www.besoccer.com/match/crystal-palace-fc/afc-bournemouth/2018411206,2018,16,premier_league
+Huddersfield Town,Brighton & Hove Albion,2-0,https://www.besoccer.com/match/huddersfield-town-fc/brighton-amp-hov/2018411208,2018,16,premier_league
+Swansea City,West Bromwich Albion,1-0,https://www.besoccer.com/match/swansea-city-afc/west-bromwich/2018411216,2018,16,premier_league
+Tottenham Hotspur,Stoke City,5-1,https://www.besoccer.com/match/tottenham-hotspur-fc/stoke-city/2018411218,2018,16,premier_league
+Newcastle,Leicester,2-3,https://www.besoccer.com/match/newcastle-united-fc/leicester-city-fc/2018411211,2018,16,premier_league
+Southampton,Arsenal,1-1,https://www.besoccer.com/match/southampton-fc/arsenal/2018411214,2018,16,premier_league
+Liverpool,Everton,1-1,https://www.besoccer.com/match/liverpool/everton-fc/2018411080,2018,16,premier_league
+Man. Utd,Man. City,1-2,https://www.besoccer.com/match/manchester-united-fc/manchester-city-fc/2018411087,2018,16,premier_league
+Burnley,Stoke City,1-0,https://www.besoccer.com/match/burnley-fc/stoke-city/2018411221,2018,17,premier_league
+Huddersfield Town,Chelsea,1-3,https://www.besoccer.com/match/huddersfield-town-fc/chelsea-fc/2018411223,2018,17,premier_league
+Crystal Palace,Watford,2-1,https://www.besoccer.com/match/crystal-palace-fc/watford-fc/2018411231,2018,17,premier_league
+Swansea City,Man. City,0-4,https://www.besoccer.com/match/swansea-city-afc/manchester-city-fc/2018411226,2018,17,premier_league
+Newcastle,Everton,0-1,https://www.besoccer.com/match/newcastle-united-fc/everton-fc/2018411236,2018,17,premier_league
+Southampton,Leicester,1-4,https://www.besoccer.com/match/southampton-fc/leicester-city-fc/2018411238,2018,17,premier_league
+West Ham,Arsenal,0-0,https://www.besoccer.com/match/west-ham-united/arsenal/2018411228,2018,17,premier_league
+Man. Utd,AFC Bournemouth,1-0,https://www.besoccer.com/match/manchester-united-fc/afc-bournemouth/2018411233,2018,17,premier_league
+Tottenham Hotspur,Brighton & Hove Albion,2-0,https://www.besoccer.com/match/tottenham-hotspur-fc/brighton-amp-hov/2018411240,2018,17,premier_league
+Liverpool,West Bromwich Albion,0-0,https://www.besoccer.com/match/liverpool/west-bromwich/2018411241,2018,17,premier_league
+Leicester,Crystal Palace,0-3,https://www.besoccer.com/match/leicester-city-fc/crystal-palace-fc/2018411225,2018,18,premier_league
+Arsenal,Newcastle,1-0,https://www.besoccer.com/match/arsenal/newcastle-united-fc/2018411210,2018,18,premier_league
+Brighton & Hove Albion,Burnley,0-0,https://www.besoccer.com/match/brighton-amp-hov/burnley-fc/2018411217,2018,18,premier_league
+Chelsea,Southampton,1-0,https://www.besoccer.com/match/chelsea-fc/southampton-fc/2018411219,2018,18,premier_league
+Watford,Huddersfield Town,1-4,https://www.besoccer.com/match/watford-fc/huddersfield-town-fc/2018411232,2018,18,premier_league
+Stoke City,West Ham,0-3,https://www.besoccer.com/match/stoke-city/west-ham-united/2018411229,2018,18,premier_league
+Man. City,Tottenham Hotspur,4-1,https://www.besoccer.com/match/manchester-city-fc/tottenham-hotspur-fc/2018411227,2018,18,premier_league
+West Bromwich Albion,Man. Utd,1-2,https://www.besoccer.com/match/west-bromwich/manchester-united-fc/2018411234,2018,18,premier_league
+AFC Bournemouth,Liverpool,0-4,https://www.besoccer.com/match/afc-bournemouth/liverpool/2018411213,2018,18,premier_league
+Everton,Swansea City,3-1,https://www.besoccer.com/match/everton-fc/swansea-city-afc/2018411222,2018,18,premier_league
+Arsenal,Liverpool,3-3,https://www.besoccer.com/match/arsenal/liverpool/2018411090,2018,19,premier_league
+Everton,Chelsea,0-0,https://www.besoccer.com/match/everton-fc/chelsea-fc/2018411184,2018,19,premier_league
+Brighton & Hove Albion,Watford,1-0,https://www.besoccer.com/match/brighton-amp-hov/watford-fc/2018411178,2018,19,premier_league
+Man. City,AFC Bournemouth,4-0,https://www.besoccer.com/match/manchester-city-fc/afc-bournemouth/2018411191,2018,19,premier_league
+Southampton,Huddersfield Town,1-1,https://www.besoccer.com/match/southampton-fc/huddersfield-town-fc/2018411194,2018,19,premier_league
+Stoke City,West Bromwich Albion,3-1,https://www.besoccer.com/match/stoke-city/west-bromwich/2018411198,2018,19,premier_league
+Swansea City,Crystal Palace,1-1,https://www.besoccer.com/match/swansea-city-afc/crystal-palace-fc/2018411199,2018,19,premier_league
+West Ham,Newcastle,2-3,https://www.besoccer.com/match/west-ham-united/newcastle-united-fc/2018411204,2018,19,premier_league
+Burnley,Tottenham Hotspur,0-3,https://www.besoccer.com/match/burnley-fc/tottenham-hotspur-fc/2018411181,2018,19,premier_league
+Leicester,Man. Utd,2-2,https://www.besoccer.com/match/leicester-city-fc/manchester-united-fc/2018411187,2018,19,premier_league
+Tottenham Hotspur,Southampton,5-2,https://www.besoccer.com/match/tottenham-hotspur-fc/southampton-fc/2018411449,2018,20,premier_league
+AFC Bournemouth,West Ham,3-3,https://www.besoccer.com/match/afc-bournemouth/west-ham-united/2018411442,2018,20,premier_league
+Chelsea,Brighton & Hove Albion,2-0,https://www.besoccer.com/match/chelsea-fc/brighton-amp-hov/2018411443,2018,20,premier_league
+Huddersfield Town,Stoke City,1-1,https://www.besoccer.com/match/huddersfield-town-fc/stoke-city/2018411445,2018,20,premier_league
+Man. Utd,Burnley,2-2,https://www.besoccer.com/match/manchester-united-fc/burnley-fc/2018411447,2018,20,premier_league
+Watford,Leicester,2-1,https://www.besoccer.com/match/watford-fc/leicester-city-fc/2018411450,2018,20,premier_league
+West Bromwich Albion,Everton,0-0,https://www.besoccer.com/match/west-bromwich/everton-fc/2018411451,2018,20,premier_league
+Liverpool,Swansea City,5-0,https://www.besoccer.com/match/liverpool/swansea-city-afc/2018411446,2018,20,premier_league
+Newcastle,Man. City,0-1,https://www.besoccer.com/match/newcastle-united-fc/manchester-city-fc/2018411448,2018,20,premier_league
+Crystal Palace,Arsenal,2-3,https://www.besoccer.com/match/crystal-palace-fc/arsenal/2018411444,2018,20,premier_league
+AFC Bournemouth,Everton,2-1,https://www.besoccer.com/match/afc-bournemouth/everton-fc/2018411452,2018,21,premier_league
+Chelsea,Stoke City,5-0,https://www.besoccer.com/match/chelsea-fc/stoke-city/2018411453,2018,21,premier_league
+Huddersfield Town,Burnley,0-0,https://www.besoccer.com/match/huddersfield-town-fc/burnley-fc/2018411455,2018,21,premier_league
+Liverpool,Leicester,2-1,https://www.besoccer.com/match/liverpool/leicester-city-fc/2018411456,2018,21,premier_league
+Newcastle,Brighton & Hove Albion,0-0,https://www.besoccer.com/match/newcastle-united-fc/brighton-amp-hov/2018411458,2018,21,premier_league
+Watford,Swansea City,1-2,https://www.besoccer.com/match/watford-fc/swansea-city-afc/2018411460,2018,21,premier_league
+Man. Utd,Southampton,0-0,https://www.besoccer.com/match/manchester-united-fc/southampton-fc/2018411457,2018,21,premier_league
+Crystal Palace,Man. City,0-0,https://www.besoccer.com/match/crystal-palace-fc/manchester-city-fc/2018411454,2018,21,premier_league
+West Bromwich Albion,Arsenal,1-1,https://www.besoccer.com/match/west-bromwich/arsenal/2018411461,2018,21,premier_league
+Tottenham Hotspur,West Ham,1-1,https://www.besoccer.com/match/tottenham-hotspur-fc/west-ham-united/2018411459,2018,21,premier_league
+Brighton & Hove Albion,AFC Bournemouth,2-2,https://www.besoccer.com/match/brighton-amp-hov/afc-bournemouth/2018411463,2018,22,premier_league
+Burnley,Liverpool,1-2,https://www.besoccer.com/match/burnley-fc/liverpool/2018411464,2018,22,premier_league
+Leicester,Huddersfield Town,3-0,https://www.besoccer.com/match/leicester-city-fc/huddersfield-town-fc/2018411466,2018,22,premier_league
+Stoke City,Newcastle,0-1,https://www.besoccer.com/match/stoke-city/newcastle-united-fc/2018411469,2018,22,premier_league
+Everton,Man. Utd,0-2,https://www.besoccer.com/match/everton-fc/manchester-united-fc/2018411465,2018,22,premier_league
+Southampton,Crystal Palace,1-2,https://www.besoccer.com/match/southampton-fc/crystal-palace-fc/2018411468,2018,22,premier_league
+Swansea City,Tottenham Hotspur,0-2,https://www.besoccer.com/match/swansea-city-afc/tottenham-hotspur-fc/2018411470,2018,22,premier_league
+West Ham,West Bromwich Albion,2-1,https://www.besoccer.com/match/west-ham-united/west-bromwich/2018411471,2018,22,premier_league
+Man. City,Watford,3-1,https://www.besoccer.com/match/manchester-city-fc/watford-fc/2018411467,2018,22,premier_league
+Arsenal,Chelsea,2-2,https://www.besoccer.com/match/arsenal/chelsea-fc/2018411109,2018,22,premier_league
+Chelsea,Leicester,0-0,https://www.besoccer.com/match/chelsea-fc/leicester-city-fc/2018411473,2018,23,premier_league
+Crystal Palace,Burnley,1-0,https://www.besoccer.com/match/crystal-palace-fc/burnley-fc/2018411474,2018,23,premier_league
+Huddersfield Town,West Ham,1-4,https://www.besoccer.com/match/huddersfield-town-fc/west-ham-united/2018411475,2018,23,premier_league
+Newcastle,Swansea City,1-1,https://www.besoccer.com/match/newcastle-united-fc/swansea-city-afc/2018411478,2018,23,premier_league
+Watford,Southampton,2-2,https://www.besoccer.com/match/watford-fc/southampton-fc/2018411480,2018,23,premier_league
+West Bromwich Albion,Brighton & Hove Albion,2-0,https://www.besoccer.com/match/west-bromwich/brighton-amp-hov/2018411481,2018,23,premier_league
+Tottenham Hotspur,Everton,4-0,https://www.besoccer.com/match/tottenham-hotspur-fc/everton-fc/2018411479,2018,23,premier_league
+AFC Bournemouth,Arsenal,2-1,https://www.besoccer.com/match/afc-bournemouth/arsenal/2018411472,2018,23,premier_league
+Liverpool,Man. City,4-3,https://www.besoccer.com/match/liverpool/manchester-city-fc/2018411476,2018,23,premier_league
+Man. Utd,Stoke City,3-0,https://www.besoccer.com/match/manchester-united-fc/stoke-city/2018411477,2018,23,premier_league
+Brighton & Hove Albion,Chelsea,0-4,https://www.besoccer.com/match/brighton-amp-hov/chelsea-fc/2018411483,2018,24,premier_league
+Arsenal,Crystal Palace,4-1,https://www.besoccer.com/match/arsenal/crystal-palace-fc/2018411482,2018,24,premier_league
+Burnley,Man. Utd,0-1,https://www.besoccer.com/match/burnley-fc/manchester-united-fc/2018411484,2018,24,premier_league
+Everton,West Bromwich Albion,1-1,https://www.besoccer.com/match/everton-fc/west-bromwich/2018411485,2018,24,premier_league
+Leicester,Watford,2-0,https://www.besoccer.com/match/leicester-city-fc/watford-fc/2018411486,2018,24,premier_league
+Stoke City,Huddersfield Town,2-0,https://www.besoccer.com/match/stoke-city/huddersfield-town-fc/2018411489,2018,24,premier_league
+West Ham,AFC Bournemouth,1-1,https://www.besoccer.com/match/west-ham-united/afc-bournemouth/2018411491,2018,24,premier_league
+Man. City,Newcastle,3-1,https://www.besoccer.com/match/manchester-city-fc/newcastle-united-fc/2018411487,2018,24,premier_league
+Southampton,Tottenham Hotspur,1-1,https://www.besoccer.com/match/southampton-fc/tottenham-hotspur-fc/2018411488,2018,24,premier_league
+Swansea City,Liverpool,1-0,https://www.besoccer.com/match/swansea-city-afc/liverpool/2018411490,2018,24,premier_league
+West Ham,Crystal Palace,1-1,https://www.besoccer.com/match/west-ham-united/crystal-palace-fc/2018411498,2018,25,premier_league
+Swansea City,Arsenal,3-1,https://www.besoccer.com/match/swansea-city-afc/arsenal/2018411497,2018,25,premier_league
+Huddersfield Town,Liverpool,0-3,https://www.besoccer.com/match/huddersfield-town-fc/liverpool/2018411494,2018,25,premier_league
+Chelsea,AFC Bournemouth,0-3,https://www.besoccer.com/match/chelsea-fc/afc-bournemouth/2018411492,2018,25,premier_league
+Everton,Leicester,2-1,https://www.besoccer.com/match/everton-fc/leicester-city-fc/2018411493,2018,25,premier_league
+Newcastle,Burnley,1-1,https://www.besoccer.com/match/newcastle-united-fc/burnley-fc/2018411495,2018,25,premier_league
+Southampton,Brighton & Hove Albion,1-1,https://www.besoccer.com/match/southampton-fc/brighton-amp-hov/2018411496,2018,25,premier_league
+Man. City,West Bromwich Albion,3-0,https://www.besoccer.com/match/manchester-city-fc/west-bromwich/2018411499,2018,25,premier_league
+Stoke City,Watford,0-0,https://www.besoccer.com/match/stoke-city/watford-fc/2018411500,2018,25,premier_league
+Tottenham Hotspur,Man. Utd,2-0,https://www.besoccer.com/match/tottenham-hotspur-fc/manchester-united-fc/2018411501,2018,25,premier_league
+Burnley,Man. City,1-1,https://www.besoccer.com/match/burnley-fc/manchester-city-fc/2018411505,2018,26,premier_league
+AFC Bournemouth,Stoke City,2-1,https://www.besoccer.com/match/afc-bournemouth/stoke-city/2018411503,2018,26,premier_league
+Brighton & Hove Albion,West Ham,3-1,https://www.besoccer.com/match/brighton-amp-hov/west-ham-united/2018411504,2018,26,premier_league
+Leicester,Swansea City,1-1,https://www.besoccer.com/match/leicester-city-fc/swansea-city-afc/2018411507,2018,26,premier_league
+Man. Utd,Huddersfield Town,2-0,https://www.besoccer.com/match/manchester-united-fc/huddersfield-town-fc/2018411509,2018,26,premier_league
+West Bromwich Albion,Southampton,2-3,https://www.besoccer.com/match/west-bromwich/southampton-fc/2018411511,2018,26,premier_league
+Arsenal,Everton,5-1,https://www.besoccer.com/match/arsenal/everton-fc/2018411502,2018,26,premier_league
+Crystal Palace,Newcastle,1-1,https://www.besoccer.com/match/crystal-palace-fc/newcastle-united-fc/2018411506,2018,26,premier_league
+Liverpool,Tottenham Hotspur,2-2,https://www.besoccer.com/match/liverpool/tottenham-hotspur-fc/2018411508,2018,26,premier_league
+Watford,Chelsea,4-1,https://www.besoccer.com/match/watford-fc/chelsea-fc/2018411510,2018,26,premier_league
+Tottenham Hotspur,Arsenal,1-0,https://www.besoccer.com/match/tottenham-hotspur-fc/arsenal/2018411520,2018,27,premier_league
+Stoke City,Brighton & Hove Albion,1-1,https://www.besoccer.com/match/stoke-city/brighton-amp-hov/2018411518,2018,27,premier_league
+Everton,Crystal Palace,3-1,https://www.besoccer.com/match/everton-fc/crystal-palace-fc/2018411513,2018,27,premier_league
+Swansea City,Burnley,1-0,https://www.besoccer.com/match/swansea-city-afc/burnley-fc/2018411519,2018,27,premier_league
+West Ham,Watford,2-0,https://www.besoccer.com/match/west-ham-united/watford-fc/2018411521,2018,27,premier_league
+Man. City,Leicester,5-1,https://www.besoccer.com/match/manchester-city-fc/leicester-city-fc/2018411515,2018,27,premier_league
+Huddersfield Town,AFC Bournemouth,4-1,https://www.besoccer.com/match/huddersfield-town-fc/afc-bournemouth/2018411514,2018,27,premier_league
+Newcastle,Man. Utd,1-0,https://www.besoccer.com/match/newcastle-united-fc/manchester-united-fc/2018411516,2018,27,premier_league
+Southampton,Liverpool,0-2,https://www.besoccer.com/match/southampton-fc/liverpool/2018411517,2018,27,premier_league
+Chelsea,West Bromwich Albion,3-0,https://www.besoccer.com/match/chelsea-fc/west-bromwich/2018411512,2018,27,premier_league
+Leicester,Stoke City,1-1,https://www.besoccer.com/match/leicester-city-fc/stoke-city/2018411527,2018,28,premier_league
+AFC Bournemouth,Newcastle,2-2,https://www.besoccer.com/match/afc-bournemouth/newcastle-united-fc/2018411523,2018,28,premier_league
+Brighton & Hove Albion,Swansea City,4-1,https://www.besoccer.com/match/brighton-amp-hov/swansea-city-afc/2018411524,2018,28,premier_league
+Burnley,Southampton,1-1,https://www.besoccer.com/match/burnley-fc/southampton-fc/2018411525,2018,28,premier_league
+Liverpool,West Ham,4-1,https://www.besoccer.com/match/liverpool/west-ham-united/2018411528,2018,28,premier_league
+West Bromwich Albion,Huddersfield Town,1-2,https://www.besoccer.com/match/west-bromwich/huddersfield-town-fc/2018411531,2018,28,premier_league
+Watford,Everton,1-0,https://www.besoccer.com/match/watford-fc/everton-fc/2018411530,2018,28,premier_league
+Crystal Palace,Tottenham Hotspur,0-1,https://www.besoccer.com/match/crystal-palace-fc/tottenham-hotspur-fc/2018411526,2018,28,premier_league
+Man. Utd,Chelsea,2-1,https://www.besoccer.com/match/manchester-united-fc/chelsea-fc/2018411529,2018,28,premier_league
+Arsenal,Man. City,0-3,https://www.besoccer.com/match/arsenal/manchester-city-fc/2018411522,2018,28,premier_league
+Burnley,Everton,2-1,https://www.besoccer.com/match/burnley-fc/everton-fc/2018411533,2018,29,premier_league
+Leicester,AFC Bournemouth,1-1,https://www.besoccer.com/match/leicester-city-fc/afc-bournemouth/2018411535,2018,29,premier_league
+Southampton,Stoke City,0-0,https://www.besoccer.com/match/southampton-fc/stoke-city/2018411538,2018,29,premier_league
+Swansea City,West Ham,4-1,https://www.besoccer.com/match/swansea-city-afc/west-ham-united/2018411539,2018,29,premier_league
+Tottenham Hotspur,Huddersfield Town,2-0,https://www.besoccer.com/match/tottenham-hotspur-fc/huddersfield-town-fc/2018411540,2018,29,premier_league
+Watford,West Bromwich Albion,1-0,https://www.besoccer.com/match/watford-fc/west-bromwich/2018411541,2018,29,premier_league
+Liverpool,Newcastle,2-0,https://www.besoccer.com/match/liverpool/newcastle-united-fc/2018411536,2018,29,premier_league
+Brighton & Hove Albion,Arsenal,2-1,https://www.besoccer.com/match/brighton-amp-hov/arsenal/2018411532,2018,29,premier_league
+Man. City,Chelsea,1-0,https://www.besoccer.com/match/manchester-city-fc/chelsea-fc/2018411537,2018,29,premier_league
+Crystal Palace,Man. Utd,2-3,https://www.besoccer.com/match/crystal-palace-fc/manchester-united-fc/2018411534,2018,29,premier_league
+Man. Utd,Liverpool,2-1,https://www.besoccer.com/match/manchester-united-fc/liverpool/2018411547,2018,30,premier_league
+Everton,Brighton & Hove Albion,2-0,https://www.besoccer.com/match/everton-fc/brighton-amp-hov/2018411545,2018,30,premier_league
+Huddersfield Town,Swansea City,0-0,https://www.besoccer.com/match/huddersfield-town-fc/swansea-city-afc/2018411546,2018,30,premier_league
+Newcastle,Southampton,3-0,https://www.besoccer.com/match/newcastle-united-fc/southampton-fc/2018411548,2018,30,premier_league
+West Bromwich Albion,Leicester,1-4,https://www.besoccer.com/match/west-bromwich/leicester-city-fc/2018411550,2018,30,premier_league
+West Ham,Burnley,0-3,https://www.besoccer.com/match/west-ham-united/burnley-fc/2018411551,2018,30,premier_league
+Chelsea,Crystal Palace,2-1,https://www.besoccer.com/match/chelsea-fc/crystal-palace-fc/2018411544,2018,30,premier_league
+Arsenal,Watford,3-0,https://www.besoccer.com/match/arsenal/watford-fc/2018411542,2018,30,premier_league
+AFC Bournemouth,Tottenham Hotspur,1-4,https://www.besoccer.com/match/afc-bournemouth/tottenham-hotspur-fc/2018411543,2018,30,premier_league
+Stoke City,Man. City,0-2,https://www.besoccer.com/match/stoke-city/manchester-city-fc/2018411549,2018,30,premier_league
+AFC Bournemouth,West Bromwich Albion,2-1,https://www.besoccer.com/match/afc-bournemouth/west-bromwich/2018411552,2018,31,premier_league
+Huddersfield Town,Crystal Palace,0-2,https://www.besoccer.com/match/huddersfield-town-fc/crystal-palace-fc/2018411554,2018,31,premier_league
+Stoke City,Everton,1-2,https://www.besoccer.com/match/stoke-city/everton-fc/2018411558,2018,31,premier_league
+Liverpool,Watford,5-0,https://www.besoccer.com/match/liverpool/watford-fc/2018411556,2018,31,premier_league
+Burnley,Chelsea,1-2,https://www.besoccer.com/match/burnley-fc/chelsea-fc/2018411553,2018,31,premier_league
+Swansea City,Southampton,0-1,https://www.besoccer.com/match/swansea-city-afc/southampton-fc/2018411559,2018,31,premier_league
+Leicester,Arsenal,3-1,https://www.besoccer.com/match/leicester-city-fc/arsenal/2018411555,2018,31,premier_league
+Man. City,Brighton & Hove Albion,3-1,https://www.besoccer.com/match/manchester-city-fc/brighton-amp-hov/2018411557,2018,31,premier_league
+Tottenham Hotspur,Newcastle,1-0,https://www.besoccer.com/match/tottenham-hotspur-fc/newcastle-united-fc/2018411560,2018,31,premier_league
+West Ham,Man. Utd,0-0,https://www.besoccer.com/match/west-ham-united/manchester-united-fc/2018411561,2018,31,premier_league
+Crystal Palace,Liverpool,1-2,https://www.besoccer.com/match/crystal-palace-fc/liverpool/2018411565,2018,32,premier_league
+Brighton & Hove Albion,Leicester,0-2,https://www.besoccer.com/match/brighton-amp-hov/leicester-city-fc/2018411563,2018,32,premier_league
+Man. Utd,Swansea City,2-0,https://www.besoccer.com/match/manchester-united-fc/swansea-city-afc/2018411567,2018,32,premier_league
+Newcastle,Huddersfield Town,1-0,https://www.besoccer.com/match/newcastle-united-fc/huddersfield-town-fc/2018411568,2018,32,premier_league
+West Ham,Southampton,3-0,https://www.besoccer.com/match/west-ham-united/southampton-fc/2018411569,2018,32,premier_league
+Watford,AFC Bournemouth,2-2,https://www.besoccer.com/match/watford-fc/afc-bournemouth/2018411570,2018,32,premier_league
+West Bromwich Albion,Burnley,1-2,https://www.besoccer.com/match/west-bromwich/burnley-fc/2018411571,2018,32,premier_league
+Everton,Man. City,1-3,https://www.besoccer.com/match/everton-fc/manchester-city-fc/2018411566,2018,32,premier_league
+Arsenal,Stoke City,3-0,https://www.besoccer.com/match/arsenal/stoke-city/2018411562,2018,32,premier_league
+Chelsea,Tottenham Hotspur,1-3,https://www.besoccer.com/match/chelsea-fc/tottenham-hotspur-fc/2018411564,2018,32,premier_league
+Everton,Liverpool,0-0,https://www.besoccer.com/match/everton-fc/liverpool/2018411576,2018,33,premier_league
+AFC Bournemouth,Crystal Palace,2-2,https://www.besoccer.com/match/afc-bournemouth/crystal-palace-fc/2018411573,2018,33,premier_league
+Brighton & Hove Albion,Huddersfield Town,1-1,https://www.besoccer.com/match/brighton-amp-hov/huddersfield-town-fc/2018411574,2018,33,premier_league
+Leicester,Newcastle,1-2,https://www.besoccer.com/match/leicester-city-fc/newcastle-united-fc/2018411577,2018,33,premier_league
+Stoke City,Tottenham Hotspur,1-2,https://www.besoccer.com/match/stoke-city/tottenham-hotspur-fc/2018411579,2018,33,premier_league
+Watford,Burnley,1-2,https://www.besoccer.com/match/watford-fc/burnley-fc/2018411580,2018,33,premier_league
+West Bromwich Albion,Swansea City,1-1,https://www.besoccer.com/match/west-bromwich/swansea-city-afc/2018411581,2018,33,premier_league
+Man. City,Man. Utd,2-3,https://www.besoccer.com/match/manchester-city-fc/manchester-united-fc/2018411578,2018,33,premier_league
+Arsenal,Southampton,3-2,https://www.besoccer.com/match/arsenal/southampton-fc/2018411572,2018,33,premier_league
+Chelsea,West Ham,1-1,https://www.besoccer.com/match/chelsea-fc/west-ham-united/2018411575,2018,33,premier_league
+Southampton,Chelsea,2-3,https://www.besoccer.com/match/southampton-fc/chelsea-fc/2018411588,2018,34,premier_league
+Burnley,Leicester,2-1,https://www.besoccer.com/match/burnley-fc/leicester-city-fc/2018411582,2018,34,premier_league
+Crystal Palace,Brighton & Hove Albion,3-2,https://www.besoccer.com/match/crystal-palace-fc/brighton-amp-hov/2018411583,2018,34,premier_league
+Huddersfield Town,Watford,1-0,https://www.besoccer.com/match/huddersfield-town-fc/watford-fc/2018411584,2018,34,premier_league
+Swansea City,Everton,1-1,https://www.besoccer.com/match/swansea-city-afc/everton-fc/2018411589,2018,34,premier_league
+Liverpool,AFC Bournemouth,3-0,https://www.besoccer.com/match/liverpool/afc-bournemouth/2018411585,2018,34,premier_league
+Tottenham Hotspur,Man. City,1-3,https://www.besoccer.com/match/tottenham-hotspur-fc/manchester-city-fc/2018411590,2018,34,premier_league
+Newcastle,Arsenal,2-1,https://www.besoccer.com/match/newcastle-united-fc/arsenal/2018411587,2018,34,premier_league
+Man. Utd,West Bromwich Albion,0-1,https://www.besoccer.com/match/manchester-united-fc/west-bromwich/2018411586,2018,34,premier_league
+West Ham,Stoke City,1-1,https://www.besoccer.com/match/west-ham-united/stoke-city/2018411591,2018,34,premier_league
+Brighton & Hove Albion,Tottenham Hotspur,1-1,https://www.besoccer.com/match/brighton-amp-hov/tottenham-hotspur-fc/2018411594,2018,35,premier_league
+AFC Bournemouth,Man. Utd,0-2,https://www.besoccer.com/match/afc-bournemouth/manchester-united-fc/2018411593,2018,35,premier_league
+Leicester,Southampton,0-0,https://www.besoccer.com/match/leicester-city-fc/southampton-fc/2018411597,2018,35,premier_league
+West Bromwich Albion,Liverpool,2-2,https://www.besoccer.com/match/west-bromwich/liverpool/2018411601,2018,35,premier_league
+Watford,Crystal Palace,0-0,https://www.besoccer.com/match/watford-fc/crystal-palace-fc/2018411600,2018,35,premier_league
+Arsenal,West Ham,4-1,https://www.besoccer.com/match/arsenal/west-ham-united/2018411592,2018,35,premier_league
+Stoke City,Burnley,1-1,https://www.besoccer.com/match/stoke-city/burnley-fc/2018411599,2018,35,premier_league
+Man. City,Swansea City,5-0,https://www.besoccer.com/match/manchester-city-fc/swansea-city-afc/2018411598,2018,35,premier_league
+Everton,Newcastle,1-0,https://www.besoccer.com/match/everton-fc/newcastle-united-fc/2018411596,2018,35,premier_league
+Chelsea,Huddersfield Town,1-1,https://www.besoccer.com/match/chelsea-fc/huddersfield-town-fc/2018411595,2018,35,premier_league
+Liverpool,Stoke City,0-0,https://www.besoccer.com/match/liverpool/stoke-city/2018411605,2018,36,premier_league
+Burnley,Brighton & Hove Albion,0-0,https://www.besoccer.com/match/burnley-fc/brighton-amp-hov/2018411602,2018,36,premier_league
+Crystal Palace,Leicester,5-0,https://www.besoccer.com/match/crystal-palace-fc/leicester-city-fc/2018411603,2018,36,premier_league
+Huddersfield Town,Everton,0-2,https://www.besoccer.com/match/huddersfield-town-fc/everton-fc/2018411604,2018,36,premier_league
+Newcastle,West Bromwich Albion,0-1,https://www.besoccer.com/match/newcastle-united-fc/west-bromwich/2018411607,2018,36,premier_league
+Southampton,AFC Bournemouth,2-1,https://www.besoccer.com/match/southampton-fc/afc-bournemouth/2018411608,2018,36,premier_league
+Swansea City,Chelsea,0-1,https://www.besoccer.com/match/swansea-city-afc/chelsea-fc/2018411609,2018,36,premier_league
+West Ham,Man. City,1-4,https://www.besoccer.com/match/west-ham-united/manchester-city-fc/2018411611,2018,36,premier_league
+Man. Utd,Arsenal,2-1,https://www.besoccer.com/match/manchester-united-fc/arsenal/2018411606,2018,36,premier_league
+Tottenham Hotspur,Watford,2-0,https://www.besoccer.com/match/tottenham-hotspur-fc/watford-fc/2018411610,2018,36,premier_league
+Brighton & Hove Albion,Man. Utd,1-0,https://www.besoccer.com/match/brighton-amp-hov/manchester-united-fc/2018411614,2018,37,premier_league
+Stoke City,Crystal Palace,1-2,https://www.besoccer.com/match/stoke-city/crystal-palace-fc/2018411619,2018,37,premier_league
+AFC Bournemouth,Swansea City,1-0,https://www.besoccer.com/match/afc-bournemouth/swansea-city-afc/2018411613,2018,37,premier_league
+Leicester,West Ham,0-2,https://www.besoccer.com/match/leicester-city-fc/west-ham-united/2018411617,2018,37,premier_league
+Watford,Newcastle,2-1,https://www.besoccer.com/match/watford-fc/newcastle-united-fc/2018411620,2018,37,premier_league
+West Bromwich Albion,Tottenham Hotspur,1-0,https://www.besoccer.com/match/west-bromwich/tottenham-hotspur-fc/2018411621,2018,37,premier_league
+Everton,Southampton,1-1,https://www.besoccer.com/match/everton-fc/southampton-fc/2018411616,2018,37,premier_league
+Man. City,Huddersfield Town,0-0,https://www.besoccer.com/match/manchester-city-fc/huddersfield-town-fc/2018411618,2018,37,premier_league
+Arsenal,Burnley,5-0,https://www.besoccer.com/match/arsenal/burnley-fc/2018411612,2018,37,premier_league
+Chelsea,Liverpool,1-0,https://www.besoccer.com/match/chelsea-fc/liverpool/2018411615,2018,37,premier_league
+Burnley,AFC Bournemouth,1-2,https://www.besoccer.com/match/burnley-fc/afc-bournemouth/2018411622,2018,38,premier_league
+Crystal Palace,West Bromwich Albion,2-0,https://www.besoccer.com/match/crystal-palace-fc/west-bromwich/2018411623,2018,38,premier_league
+Huddersfield Town,Arsenal,0-1,https://www.besoccer.com/match/huddersfield-town-fc/arsenal/2018411624,2018,38,premier_league
+Liverpool,Brighton & Hove Albion,4-0,https://www.besoccer.com/match/liverpool/brighton-amp-hov/2018411625,2018,38,premier_league
+Man. Utd,Watford,1-0,https://www.besoccer.com/match/manchester-united-fc/watford-fc/2018411626,2018,38,premier_league
+Newcastle,Chelsea,3-0,https://www.besoccer.com/match/newcastle-united-fc/chelsea-fc/2018411627,2018,38,premier_league
+Southampton,Man. City,0-1,https://www.besoccer.com/match/southampton-fc/manchester-city-fc/2018411628,2018,38,premier_league
+Swansea City,Stoke City,1-2,https://www.besoccer.com/match/swansea-city-afc/stoke-city/2018411629,2018,38,premier_league
+Tottenham Hotspur,Leicester,5-4,https://www.besoccer.com/match/tottenham-hotspur-fc/leicester-city-fc/2018411630,2018,38,premier_league
+West Ham,Everton,3-1,https://www.besoccer.com/match/west-ham-united/everton-fc/2018411631,2018,38,premier_league

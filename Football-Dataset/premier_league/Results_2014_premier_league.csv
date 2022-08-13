@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Liverpool,Stoke City,1-0,https://www.besoccer.com/match/liverpool/stoke-city/201410690,2014,1,premier_league
+Arsenal,Aston Villa,1-3,https://www.besoccer.com/match/arsenal/aston-villa-fc/201410687,2014,1,premier_league
+Norwich City,Everton,2-2,https://www.besoccer.com/match/norwich-city-fc/everton-fc/201410692,2014,1,premier_league
+Sunderland,Fulham,0-1,https://www.besoccer.com/match/sunderland-afc/fulham/201410693,2014,1,premier_league
+West Bromwich Albion,Southampton,0-1,https://www.besoccer.com/match/west-bromwich/southampton-fc/201410695,2014,1,premier_league
+West Ham,Cardiff City,2-0,https://www.besoccer.com/match/west-ham-united/cardiff-city-fc/201410696,2014,1,premier_league
+Swansea City,Man. Utd,1-4,https://www.besoccer.com/match/swansea-city-afc/manchester-united-fc/201410694,2014,1,premier_league
+Crystal Palace,Tottenham Hotspur,0-1,https://www.besoccer.com/match/crystal-palace-fc/tottenham-hotspur-fc/201410689,2014,1,premier_league
+Chelsea,Hull City,2-0,https://www.besoccer.com/match/chelsea-fc/hull-city/201410688,2014,1,premier_league
+Man. City,Newcastle,4-0,https://www.besoccer.com/match/manchester-city-fc/newcastle-united-fc/201410691,2014,1,premier_league
+Fulham,Arsenal,1-3,https://www.besoccer.com/match/fulham/arsenal/201410710,2014,2,premier_league
+Everton,West Bromwich Albion,0-0,https://www.besoccer.com/match/everton-fc/west-bromwich/201410709,2014,2,premier_league
+Hull City,Norwich City,1-0,https://www.besoccer.com/match/hull-city/norwich-city-fc/201410711,2014,2,premier_league
+Newcastle,West Ham,0-0,https://www.besoccer.com/match/newcastle-united-fc/west-ham-united/201410713,2014,2,premier_league
+Southampton,Sunderland,1-1,https://www.besoccer.com/match/southampton-fc/sunderland-afc/201410714,2014,2,premier_league
+Stoke City,Crystal Palace,2-1,https://www.besoccer.com/match/stoke-city/crystal-palace-fc/201410715,2014,2,premier_league
+Aston Villa,Liverpool,0-1,https://www.besoccer.com/match/aston-villa-fc/liverpool/201410707,2014,2,premier_league
+Cardiff City,Man. City,3-2,https://www.besoccer.com/match/cardiff-city-fc/manchester-city-fc/201410708,2014,2,premier_league
+Tottenham Hotspur,Swansea City,1-0,https://www.besoccer.com/match/tottenham-hotspur-fc/swansea-city-afc/201410716,2014,2,premier_league
+Man. Utd,Chelsea,0-0,https://www.besoccer.com/match/manchester-united-fc/chelsea-fc/201410712,2014,2,premier_league
+Chelsea,Aston Villa,2-1,https://www.besoccer.com/match/chelsea-fc/aston-villa-fc/201410729,2014,3,premier_league
+Man. City,Hull City,2-0,https://www.besoccer.com/match/manchester-city-fc/hull-city/201410732,2014,3,premier_league
+Cardiff City,Everton,0-0,https://www.besoccer.com/match/cardiff-city-fc/everton-fc/201410728,2014,3,premier_league
+Newcastle,Fulham,1-0,https://www.besoccer.com/match/newcastle-united-fc/fulham/201410733,2014,3,premier_league
+Norwich City,Southampton,1-0,https://www.besoccer.com/match/norwich-city-fc/southampton-fc/201410734,2014,3,premier_league
+West Ham,Stoke City,0-1,https://www.besoccer.com/match/west-ham-united/stoke-city/201410736,2014,3,premier_league
+Crystal Palace,Sunderland,3-1,https://www.besoccer.com/match/crystal-palace-fc/sunderland-afc/201410730,2014,3,premier_league
+Liverpool,Man. Utd,1-0,https://www.besoccer.com/match/liverpool/manchester-united-fc/201410731,2014,3,premier_league
+West Bromwich Albion,Swansea City,0-2,https://www.besoccer.com/match/west-bromwich/swansea-city-afc/201410735,2014,3,premier_league
+Arsenal,Tottenham Hotspur,1-0,https://www.besoccer.com/match/arsenal/tottenham-hotspur-fc/201410727,2014,3,premier_league
+Man. Utd,Crystal Palace,2-0,https://www.besoccer.com/match/manchester-united-fc/crystal-palace-fc/201410751,2014,4,premier_league
+Aston Villa,Newcastle,1-2,https://www.besoccer.com/match/aston-villa-fc/newcastle-united-fc/201410747,2014,4,premier_league
+Fulham,West Bromwich Albion,1-1,https://www.besoccer.com/match/fulham/west-bromwich/201410749,2014,4,premier_league
+Hull City,Cardiff City,1-1,https://www.besoccer.com/match/hull-city/cardiff-city-fc/201410750,2014,4,premier_league
+Stoke City,Man. City,0-0,https://www.besoccer.com/match/stoke-city/manchester-city-fc/201410753,2014,4,premier_league
+Sunderland,Arsenal,1-3,https://www.besoccer.com/match/sunderland-afc/arsenal/201410754,2014,4,premier_league
+Tottenham Hotspur,Norwich City,2-0,https://www.besoccer.com/match/tottenham-hotspur-fc/norwich-city-fc/201410756,2014,4,premier_league
+Everton,Chelsea,1-0,https://www.besoccer.com/match/everton-fc/chelsea-fc/201410748,2014,4,premier_league
+Southampton,West Ham,0-0,https://www.besoccer.com/match/southampton-fc/west-ham-united/201410752,2014,4,premier_league
+Swansea City,Liverpool,2-2,https://www.besoccer.com/match/swansea-city-afc/liverpool/201410755,2014,4,premier_league
+Norwich City,Aston Villa,0-1,https://www.besoccer.com/match/norwich-city-fc/aston-villa-fc/201410774,2014,5,premier_league
+Newcastle,Hull City,2-3,https://www.besoccer.com/match/newcastle-united-fc/hull-city/201410773,2014,5,premier_league
+Liverpool,Southampton,0-1,https://www.besoccer.com/match/liverpool/southampton-fc/201410771,2014,5,premier_league
+West Bromwich Albion,Sunderland,3-0,https://www.besoccer.com/match/west-bromwich/sunderland-afc/201410775,2014,5,premier_league
+West Ham,Everton,2-3,https://www.besoccer.com/match/west-ham-united/everton-fc/201410776,2014,5,premier_league
+Chelsea,Fulham,2-0,https://www.besoccer.com/match/chelsea-fc/fulham/201410769,2014,5,premier_league
+Arsenal,Stoke City,3-1,https://www.besoccer.com/match/arsenal/stoke-city/201410767,2014,5,premier_league
+Crystal Palace,Swansea City,0-2,https://www.besoccer.com/match/crystal-palace-fc/swansea-city-afc/201410770,2014,5,premier_league
+Cardiff City,Tottenham Hotspur,0-1,https://www.besoccer.com/match/cardiff-city-fc/tottenham-hotspur-fc/201410768,2014,5,premier_league
+Man. City,Man. Utd,4-1,https://www.besoccer.com/match/manchester-city-fc/manchester-united-fc/201410772,2014,5,premier_league
+Tottenham Hotspur,Chelsea,1-1,https://www.besoccer.com/match/tottenham-hotspur-fc/chelsea-fc/201410796,2014,6,premier_league
+Aston Villa,Man. City,3-2,https://www.besoccer.com/match/aston-villa-fc/manchester-city-fc/201410787,2014,6,premier_league
+Fulham,Cardiff City,1-2,https://www.besoccer.com/match/fulham/cardiff-city-fc/201410789,2014,6,premier_league
+Hull City,West Ham,1-0,https://www.besoccer.com/match/hull-city/west-ham-united/201410790,2014,6,premier_league
+Man. Utd,West Bromwich Albion,1-2,https://www.besoccer.com/match/manchester-united-fc/west-bromwich/201410791,2014,6,premier_league
+Southampton,Crystal Palace,2-0,https://www.besoccer.com/match/southampton-fc/crystal-palace-fc/201410792,2014,6,premier_league
+Swansea City,Arsenal,1-2,https://www.besoccer.com/match/swansea-city-afc/arsenal/201410795,2014,6,premier_league
+Stoke City,Norwich City,0-1,https://www.besoccer.com/match/stoke-city/norwich-city-fc/201410793,2014,6,premier_league
+Sunderland,Liverpool,1-3,https://www.besoccer.com/match/sunderland-afc/liverpool/201410794,2014,6,premier_league
+Everton,Newcastle,3-2,https://www.besoccer.com/match/everton-fc/newcastle-united-fc/201410788,2014,6,premier_league
+Man. City,Everton,3-1,https://www.besoccer.com/match/manchester-city-fc/everton-fc/201410811,2014,7,premier_league
+Cardiff City,Newcastle,1-2,https://www.besoccer.com/match/cardiff-city-fc/newcastle-united-fc/201410807,2014,7,premier_league
+Fulham,Stoke City,1-0,https://www.besoccer.com/match/fulham/stoke-city/201410808,2014,7,premier_league
+Hull City,Aston Villa,0-0,https://www.besoccer.com/match/hull-city/aston-villa-fc/201410809,2014,7,premier_league
+Liverpool,Crystal Palace,3-1,https://www.besoccer.com/match/liverpool/crystal-palace-fc/201410810,2014,7,premier_league
+Sunderland,Man. Utd,1-2,https://www.besoccer.com/match/sunderland-afc/manchester-united-fc/201410814,2014,7,premier_league
+Norwich City,Chelsea,1-3,https://www.besoccer.com/match/norwich-city-fc/chelsea-fc/201410812,2014,7,premier_league
+Southampton,Swansea City,2-0,https://www.besoccer.com/match/southampton-fc/swansea-city-afc/201410813,2014,7,premier_league
+Tottenham Hotspur,West Ham,0-3,https://www.besoccer.com/match/tottenham-hotspur-fc/west-ham-united/201410815,2014,7,premier_league
+West Bromwich Albion,Arsenal,1-1,https://www.besoccer.com/match/west-bromwich/arsenal/201410816,2014,7,premier_league
+Newcastle,Liverpool,2-2,https://www.besoccer.com/match/newcastle-united-fc/liverpool/201410833,2014,8,premier_league
+Arsenal,Norwich City,4-1,https://www.besoccer.com/match/arsenal/norwich-city-fc/201410827,2014,8,premier_league
+Chelsea,Cardiff City,4-1,https://www.besoccer.com/match/chelsea-fc/cardiff-city-fc/201410829,2014,8,premier_league
+Everton,Hull City,2-1,https://www.besoccer.com/match/everton-fc/hull-city/201410831,2014,8,premier_league
+Man. Utd,Southampton,1-1,https://www.besoccer.com/match/manchester-united-fc/southampton-fc/201410832,2014,8,premier_league
+Stoke City,West Bromwich Albion,0-0,https://www.besoccer.com/match/stoke-city/west-bromwich/201410834,2014,8,premier_league
+Swansea City,Sunderland,4-0,https://www.besoccer.com/match/swansea-city-afc/sunderland-afc/201410835,2014,8,premier_league
+West Ham,Man. City,1-3,https://www.besoccer.com/match/west-ham-united/manchester-city-fc/201410836,2014,8,premier_league
+Aston Villa,Tottenham Hotspur,0-2,https://www.besoccer.com/match/aston-villa-fc/tottenham-hotspur-fc/201410828,2014,8,premier_league
+Crystal Palace,Fulham,1-4,https://www.besoccer.com/match/crystal-palace-fc/fulham/201410830,2014,8,premier_league
+Crystal Palace,Arsenal,0-2,https://www.besoccer.com/match/crystal-palace-fc/arsenal/201410849,2014,9,premier_league
+Aston Villa,Everton,0-2,https://www.besoccer.com/match/aston-villa-fc/everton-fc/201410847,2014,9,premier_league
+Liverpool,West Bromwich Albion,4-1,https://www.besoccer.com/match/liverpool/west-bromwich/201410850,2014,9,premier_league
+Man. Utd,Stoke City,3-2,https://www.besoccer.com/match/manchester-united-fc/stoke-city/201410851,2014,9,premier_league
+Norwich City,Cardiff City,0-0,https://www.besoccer.com/match/norwich-city-fc/cardiff-city-fc/201410852,2014,9,premier_league
+Southampton,Fulham,2-0,https://www.besoccer.com/match/southampton-fc/fulham/201410853,2014,9,premier_league
+Sunderland,Newcastle,2-1,https://www.besoccer.com/match/sunderland-afc/newcastle-united-fc/201410854,2014,9,premier_league
+Chelsea,Man. City,2-1,https://www.besoccer.com/match/chelsea-fc/manchester-city-fc/201410848,2014,9,premier_league
+Swansea City,West Ham,0-0,https://www.besoccer.com/match/swansea-city-afc/west-ham-united/201410855,2014,9,premier_league
+Tottenham Hotspur,Hull City,1-0,https://www.besoccer.com/match/tottenham-hotspur-fc/hull-city/201410856,2014,9,premier_league
+Newcastle,Chelsea,2-0,https://www.besoccer.com/match/newcastle-united-fc/chelsea-fc/201410873,2014,10,premier_league
+Fulham,Man. Utd,1-3,https://www.besoccer.com/match/fulham/manchester-united-fc/201410870,2014,10,premier_league
+Hull City,Sunderland,1-0,https://www.besoccer.com/match/hull-city/sunderland-afc/201410871,2014,10,premier_league
+Man. City,Norwich City,7-0,https://www.besoccer.com/match/manchester-city-fc/norwich-city-fc/201410872,2014,10,premier_league
+Stoke City,Southampton,1-1,https://www.besoccer.com/match/stoke-city/southampton-fc/201410874,2014,10,premier_league
+West Bromwich Albion,Crystal Palace,2-0,https://www.besoccer.com/match/west-bromwich/crystal-palace-fc/201410875,2014,10,premier_league
+West Ham,Aston Villa,0-0,https://www.besoccer.com/match/west-ham-united/aston-villa-fc/201410876,2014,10,premier_league
+Arsenal,Liverpool,2-0,https://www.besoccer.com/match/arsenal/liverpool/201410867,2014,10,premier_league
+Everton,Tottenham Hotspur,0-0,https://www.besoccer.com/match/everton-fc/tottenham-hotspur-fc/201410869,2014,10,premier_league
+Cardiff City,Swansea City,1-0,https://www.besoccer.com/match/cardiff-city-fc/swansea-city-afc/201410868,2014,10,premier_league
+Aston Villa,Cardiff City,2-0,https://www.besoccer.com/match/aston-villa-fc/cardiff-city-fc/201410887,2014,11,premier_league
+Chelsea,West Bromwich Albion,2-2,https://www.besoccer.com/match/chelsea-fc/west-bromwich/201410888,2014,11,premier_league
+Crystal Palace,Everton,0-0,https://www.besoccer.com/match/crystal-palace-fc/everton-fc/201410889,2014,11,premier_league
+Liverpool,Fulham,4-0,https://www.besoccer.com/match/liverpool/fulham/201410890,2014,11,premier_league
+Southampton,Hull City,4-1,https://www.besoccer.com/match/southampton-fc/hull-city/201410894,2014,11,premier_league
+Norwich City,West Ham,3-1,https://www.besoccer.com/match/norwich-city-fc/west-ham-united/201410893,2014,11,premier_league
+Tottenham Hotspur,Newcastle,0-1,https://www.besoccer.com/match/tottenham-hotspur-fc/newcastle-united-fc/201410897,2014,11,premier_league
+Sunderland,Man. City,1-0,https://www.besoccer.com/match/sunderland-afc/manchester-city-fc/201410895,2014,11,premier_league
+Man. Utd,Arsenal,1-0,https://www.besoccer.com/match/manchester-united-fc/arsenal/201410891,2014,11,premier_league
+Swansea City,Stoke City,3-3,https://www.besoccer.com/match/swansea-city-afc/stoke-city/201410896,2014,11,premier_league
+Everton,Liverpool,3-3,https://www.besoccer.com/match/everton-fc/liverpool/201410910,2014,12,premier_league
+Arsenal,Southampton,2-0,https://www.besoccer.com/match/arsenal/southampton-fc/201410908,2014,12,premier_league
+Fulham,Swansea City,1-2,https://www.besoccer.com/match/fulham/swansea-city-afc/201410911,2014,12,premier_league
+Hull City,Crystal Palace,0-1,https://www.besoccer.com/match/hull-city/crystal-palace-fc/201410912,2014,12,premier_league
+Newcastle,Norwich City,2-1,https://www.besoccer.com/match/newcastle-united-fc/norwich-city-fc/201410914,2014,12,premier_league
+Stoke City,Sunderland,2-0,https://www.besoccer.com/match/stoke-city/sunderland-afc/201410915,2014,12,premier_league
+West Ham,Chelsea,0-3,https://www.besoccer.com/match/west-ham-united/chelsea-fc/201410917,2014,12,premier_league
+Man. City,Tottenham Hotspur,6-0,https://www.besoccer.com/match/manchester-city-fc/tottenham-hotspur-fc/201410913,2014,12,premier_league
+Cardiff City,Man. Utd,2-2,https://www.besoccer.com/match/cardiff-city-fc/manchester-united-fc/201410909,2014,12,premier_league
+West Bromwich Albion,Aston Villa,2-2,https://www.besoccer.com/match/west-bromwich/aston-villa-fc/201410916,2014,12,premier_league
+Aston Villa,Sunderland,0-0,https://www.besoccer.com/match/aston-villa-fc/sunderland-afc/201410928,2014,13,premier_league
+Cardiff City,Arsenal,0-3,https://www.besoccer.com/match/cardiff-city-fc/arsenal/201410929,2014,13,premier_league
+Everton,Stoke City,4-0,https://www.besoccer.com/match/everton-fc/stoke-city/201410931,2014,13,premier_league
+Norwich City,Crystal Palace,1-0,https://www.besoccer.com/match/norwich-city-fc/crystal-palace-fc/201410935,2014,13,premier_league
+West Ham,Fulham,3-0,https://www.besoccer.com/match/west-ham-united/fulham/201410937,2014,13,premier_league
+Newcastle,West Bromwich Albion,2-1,https://www.besoccer.com/match/newcastle-united-fc/west-bromwich/201410934,2014,13,premier_league
+Tottenham Hotspur,Man. Utd,2-2,https://www.besoccer.com/match/tottenham-hotspur-fc/manchester-united-fc/201410936,2014,13,premier_league
+Hull City,Liverpool,3-1,https://www.besoccer.com/match/hull-city/liverpool/201410932,2014,13,premier_league
+Chelsea,Southampton,3-1,https://www.besoccer.com/match/chelsea-fc/southampton-fc/201410930,2014,13,premier_league
+Man. City,Swansea City,3-0,https://www.besoccer.com/match/manchester-city-fc/swansea-city-afc/201410933,2014,13,premier_league
+Crystal Palace,West Ham,1-0,https://www.besoccer.com/match/crystal-palace-fc/west-ham-united/201410955,2014,14,premier_league
+Arsenal,Hull City,2-0,https://www.besoccer.com/match/arsenal/hull-city/201410948,2014,14,premier_league
+Man. Utd,Everton,0-1,https://www.besoccer.com/match/manchester-united-fc/everton-fc/201410949,2014,14,premier_league
+Southampton,Aston Villa,2-3,https://www.besoccer.com/match/southampton-fc/aston-villa-fc/201410950,2014,14,premier_league
+Stoke City,Cardiff City,0-0,https://www.besoccer.com/match/stoke-city/cardiff-city-fc/201410951,2014,14,premier_league
+Sunderland,Chelsea,3-4,https://www.besoccer.com/match/sunderland-afc/chelsea-fc/201410953,2014,14,premier_league
+Swansea City,Newcastle,3-0,https://www.besoccer.com/match/swansea-city-afc/newcastle-united-fc/201410954,2014,14,premier_league
+Liverpool,Norwich City,5-1,https://www.besoccer.com/match/liverpool/norwich-city-fc/201410956,2014,14,premier_league
+West Bromwich Albion,Man. City,2-3,https://www.besoccer.com/match/west-bromwich/manchester-city-fc/201410957,2014,14,premier_league
+Fulham,Tottenham Hotspur,1-2,https://www.besoccer.com/match/fulham/tottenham-hotspur-fc/201410958,2014,14,premier_league
+Man. Utd,Newcastle,0-1,https://www.besoccer.com/match/manchester-united-fc/newcastle-united-fc/201410973,2014,15,premier_league
+Crystal Palace,Cardiff City,2-0,https://www.besoccer.com/match/crystal-palace-fc/cardiff-city-fc/201410970,2014,15,premier_league
+Liverpool,West Ham,4-1,https://www.besoccer.com/match/liverpool/west-ham-united/201410972,2014,15,premier_league
+Southampton,Man. City,1-1,https://www.besoccer.com/match/southampton-fc/manchester-city-fc/201410974,2014,15,premier_league
+Stoke City,Chelsea,3-2,https://www.besoccer.com/match/stoke-city/chelsea-fc/201410975,2014,15,premier_league
+West Bromwich Albion,Norwich City,0-2,https://www.besoccer.com/match/west-bromwich/norwich-city-fc/201410978,2014,15,premier_league
+Sunderland,Tottenham Hotspur,1-2,https://www.besoccer.com/match/sunderland-afc/tottenham-hotspur-fc/201410976,2014,15,premier_league
+Fulham,Aston Villa,2-0,https://www.besoccer.com/match/fulham/aston-villa-fc/201410971,2014,15,premier_league
+Arsenal,Everton,1-1,https://www.besoccer.com/match/arsenal/everton-fc/201410969,2014,15,premier_league
+Swansea City,Hull City,1-1,https://www.besoccer.com/match/swansea-city-afc/hull-city/201410977,2014,15,premier_league
+Man. City,Arsenal,6-3,https://www.besoccer.com/match/manchester-city-fc/arsenal/201410995,2014,16,premier_league
+Cardiff City,West Bromwich Albion,1-0,https://www.besoccer.com/match/cardiff-city-fc/west-bromwich/201410991,2014,16,premier_league
+Chelsea,Crystal Palace,2-1,https://www.besoccer.com/match/chelsea-fc/crystal-palace-fc/201410992,2014,16,premier_league
+Everton,Fulham,4-1,https://www.besoccer.com/match/everton-fc/fulham/201410993,2014,16,premier_league
+Newcastle,Southampton,1-1,https://www.besoccer.com/match/newcastle-united-fc/southampton-fc/201410996,2014,16,premier_league
+West Ham,Sunderland,0-0,https://www.besoccer.com/match/west-ham-united/sunderland-afc/201410999,2014,16,premier_league
+Hull City,Stoke City,0-0,https://www.besoccer.com/match/hull-city/stoke-city/201410994,2014,16,premier_league
+Aston Villa,Man. Utd,0-3,https://www.besoccer.com/match/aston-villa-fc/manchester-united-fc/201410990,2014,16,premier_league
+Norwich City,Swansea City,1-1,https://www.besoccer.com/match/norwich-city-fc/swansea-city-afc/201410997,2014,16,premier_league
+Tottenham Hotspur,Liverpool,0-5,https://www.besoccer.com/match/tottenham-hotspur-fc/liverpool/201410998,2014,16,premier_league
+Liverpool,Cardiff City,3-1,https://www.besoccer.com/match/liverpool/cardiff-city-fc/201411013,2014,17,premier_league
+Crystal Palace,Newcastle,0-3,https://www.besoccer.com/match/crystal-palace-fc/newcastle-united-fc/201411011,2014,17,premier_league
+Fulham,Man. City,2-4,https://www.besoccer.com/match/fulham/manchester-city-fc/201411012,2014,17,premier_league
+Man. Utd,West Ham,3-1,https://www.besoccer.com/match/manchester-united-fc/west-ham-united/201411014,2014,17,premier_league
+Stoke City,Aston Villa,2-1,https://www.besoccer.com/match/stoke-city/aston-villa-fc/201411016,2014,17,premier_league
+Sunderland,Norwich City,0-0,https://www.besoccer.com/match/sunderland-afc/norwich-city-fc/201411017,2014,17,premier_league
+West Bromwich Albion,Hull City,1-1,https://www.besoccer.com/match/west-bromwich/hull-city/201411019,2014,17,premier_league
+Southampton,Tottenham Hotspur,2-3,https://www.besoccer.com/match/southampton-fc/tottenham-hotspur-fc/201411015,2014,17,premier_league
+Swansea City,Everton,1-2,https://www.besoccer.com/match/swansea-city-afc/everton-fc/201411018,2014,17,premier_league
+Arsenal,Chelsea,0-0,https://www.besoccer.com/match/arsenal/chelsea-fc/201411010,2014,17,premier_league
+Hull City,Man. Utd,2-3,https://www.besoccer.com/match/hull-city/manchester-united-fc/201411035,2014,18,premier_league
+Aston Villa,Crystal Palace,0-1,https://www.besoccer.com/match/aston-villa-fc/crystal-palace-fc/201411030,2014,18,premier_league
+Cardiff City,Southampton,0-3,https://www.besoccer.com/match/cardiff-city-fc/southampton-fc/201411031,2014,18,premier_league
+Chelsea,Swansea City,1-0,https://www.besoccer.com/match/chelsea-fc/swansea-city-afc/201411032,2014,18,premier_league
+Everton,Sunderland,0-1,https://www.besoccer.com/match/everton-fc/sunderland-afc/201411033,2014,18,premier_league
+Newcastle,Stoke City,5-1,https://www.besoccer.com/match/newcastle-united-fc/stoke-city/201411037,2014,18,premier_league
+Norwich City,Fulham,1-2,https://www.besoccer.com/match/norwich-city-fc/fulham/201411038,2014,18,premier_league
+Tottenham Hotspur,West Bromwich Albion,1-1,https://www.besoccer.com/match/tottenham-hotspur-fc/west-bromwich/201411039,2014,18,premier_league
+West Ham,Arsenal,1-3,https://www.besoccer.com/match/west-ham-united/arsenal/201411040,2014,18,premier_league
+Man. City,Liverpool,2-1,https://www.besoccer.com/match/manchester-city-fc/liverpool/201411036,2014,18,premier_league
+West Ham,West Bromwich Albion,3-3,https://www.besoccer.com/match/west-ham-united/west-bromwich/201411060,2014,19,premier_league
+Aston Villa,Swansea City,1-1,https://www.besoccer.com/match/aston-villa-fc/swansea-city-afc/201411051,2014,19,premier_league
+Hull City,Fulham,6-0,https://www.besoccer.com/match/hull-city/fulham/201411055,2014,19,premier_league
+Man. City,Crystal Palace,1-0,https://www.besoccer.com/match/manchester-city-fc/crystal-palace-fc/201411056,2014,19,premier_league
+Norwich City,Man. Utd,0-1,https://www.besoccer.com/match/norwich-city-fc/manchester-united-fc/201411058,2014,19,premier_league
+Cardiff City,Sunderland,2-2,https://www.besoccer.com/match/cardiff-city-fc/sunderland-afc/201411052,2014,19,premier_league
+Everton,Southampton,2-1,https://www.besoccer.com/match/everton-fc/southampton-fc/201411054,2014,19,premier_league
+Newcastle,Arsenal,0-1,https://www.besoccer.com/match/newcastle-united-fc/arsenal/201411057,2014,19,premier_league
+Chelsea,Liverpool,2-1,https://www.besoccer.com/match/chelsea-fc/liverpool/201411053,2014,19,premier_league
+Tottenham Hotspur,Stoke City,3-0,https://www.besoccer.com/match/tottenham-hotspur-fc/stoke-city/201411059,2014,19,premier_league
+Swansea City,Man. City,2-3,https://www.besoccer.com/match/swansea-city-afc/manchester-city-fc/201410943,2014,20,premier_league
+Sunderland,Aston Villa,0-1,https://www.besoccer.com/match/sunderland-afc/aston-villa-fc/201410938,2014,20,premier_league
+Arsenal,Cardiff City,2-0,https://www.besoccer.com/match/arsenal/cardiff-city-fc/201410939,2014,20,premier_league
+Southampton,Chelsea,0-3,https://www.besoccer.com/match/southampton-fc/chelsea-fc/201410940,2014,20,premier_league
+Stoke City,Everton,1-1,https://www.besoccer.com/match/stoke-city/everton-fc/201410941,2014,20,premier_league
+Liverpool,Hull City,2-0,https://www.besoccer.com/match/liverpool/hull-city/201410942,2014,20,premier_league
+West Bromwich Albion,Newcastle,1-0,https://www.besoccer.com/match/west-bromwich/newcastle-united-fc/201410944,2014,20,premier_league
+Crystal Palace,Norwich City,1-1,https://www.besoccer.com/match/crystal-palace-fc/norwich-city-fc/201410945,2014,20,premier_league
+Fulham,West Ham,2-1,https://www.besoccer.com/match/fulham/west-ham-united/201410947,2014,20,premier_league
+Man. Utd,Tottenham Hotspur,1-2,https://www.besoccer.com/match/manchester-united-fc/tottenham-hotspur-fc/201410946,2014,20,premier_league
+Hull City,Chelsea,0-2,https://www.besoccer.com/match/hull-city/chelsea-fc/201410698,2014,21,premier_league
+Tottenham Hotspur,Crystal Palace,2-0,https://www.besoccer.com/match/tottenham-hotspur-fc/crystal-palace-fc/201410699,2014,21,premier_league
+Everton,Norwich City,2-0,https://www.besoccer.com/match/everton-fc/norwich-city-fc/201410702,2014,21,premier_league
+Fulham,Sunderland,1-4,https://www.besoccer.com/match/fulham/sunderland-afc/201410703,2014,21,premier_league
+Southampton,West Bromwich Albion,1-0,https://www.besoccer.com/match/southampton-fc/west-bromwich/201410705,2014,21,premier_league
+Cardiff City,West Ham,0-2,https://www.besoccer.com/match/cardiff-city-fc/west-ham-united/201410706,2014,21,premier_league
+Man. Utd,Swansea City,2-0,https://www.besoccer.com/match/manchester-united-fc/swansea-city-afc/201410704,2014,21,premier_league
+Newcastle,Man. City,0-2,https://www.besoccer.com/match/newcastle-united-fc/manchester-city-fc/201410701,2014,21,premier_league
+Stoke City,Liverpool,3-5,https://www.besoccer.com/match/stoke-city/liverpool/201410700,2014,21,premier_league
+Aston Villa,Arsenal,1-2,https://www.besoccer.com/match/aston-villa-fc/arsenal/201410697,2014,21,premier_league
+Sunderland,Southampton,2-2,https://www.besoccer.com/match/sunderland-afc/southampton-fc/201410724,2014,22,premier_league
+Man. City,Cardiff City,4-2,https://www.besoccer.com/match/manchester-city-fc/cardiff-city-fc/201410718,2014,22,premier_league
+Arsenal,Fulham,2-0,https://www.besoccer.com/match/arsenal/fulham/201410720,2014,22,premier_league
+Norwich City,Hull City,1-0,https://www.besoccer.com/match/norwich-city-fc/hull-city/201410721,2014,22,premier_league
+West Ham,Newcastle,1-3,https://www.besoccer.com/match/west-ham-united/newcastle-united-fc/201410723,2014,22,premier_league
+Crystal Palace,Stoke City,1-0,https://www.besoccer.com/match/crystal-palace-fc/stoke-city/201410725,2014,22,premier_league
+Liverpool,Aston Villa,2-2,https://www.besoccer.com/match/liverpool/aston-villa-fc/201410717,2014,22,premier_league
+Swansea City,Tottenham Hotspur,1-3,https://www.besoccer.com/match/swansea-city-afc/tottenham-hotspur-fc/201410726,2014,22,premier_league
+Chelsea,Man. Utd,3-1,https://www.besoccer.com/match/chelsea-fc/manchester-united-fc/201410722,2014,22,premier_league
+West Bromwich Albion,Everton,1-1,https://www.besoccer.com/match/west-bromwich/everton-fc/201410719,2014,22,premier_league
+Southampton,Arsenal,2-2,https://www.besoccer.com/match/southampton-fc/arsenal/201410918,2014,23,premier_league
+Man. Utd,Cardiff City,2-0,https://www.besoccer.com/match/manchester-united-fc/cardiff-city-fc/201410919,2014,23,premier_league
+Swansea City,Fulham,2-0,https://www.besoccer.com/match/swansea-city-afc/fulham/201410921,2014,23,premier_league
+Norwich City,Newcastle,0-0,https://www.besoccer.com/match/norwich-city-fc/newcastle-united-fc/201410924,2014,23,premier_league
+Liverpool,Everton,4-0,https://www.besoccer.com/match/liverpool/everton-fc/201410920,2014,23,premier_league
+Crystal Palace,Hull City,1-0,https://www.besoccer.com/match/crystal-palace-fc/hull-city/201410922,2014,23,premier_league
+Tottenham Hotspur,Man. City,1-5,https://www.besoccer.com/match/tottenham-hotspur-fc/manchester-city-fc/201410923,2014,23,premier_league
+Sunderland,Stoke City,1-0,https://www.besoccer.com/match/sunderland-afc/stoke-city/201410925,2014,23,premier_league
+Aston Villa,West Bromwich Albion,4-3,https://www.besoccer.com/match/aston-villa-fc/west-bromwich/201410926,2014,23,premier_league
+Chelsea,West Ham,0-0,https://www.besoccer.com/match/chelsea-fc/west-ham-united/201410927,2014,23,premier_league
+West Ham,Swansea City,2-0,https://www.besoccer.com/match/west-ham-united/swansea-city-afc/201410865,2014,24,premier_league
+Newcastle,Sunderland,0-3,https://www.besoccer.com/match/newcastle-united-fc/sunderland-afc/201410864,2014,24,premier_league
+Everton,Aston Villa,2-1,https://www.besoccer.com/match/everton-fc/aston-villa-fc/201410857,2014,24,premier_league
+Stoke City,Man. Utd,2-1,https://www.besoccer.com/match/stoke-city/manchester-united-fc/201410861,2014,24,premier_league
+Cardiff City,Norwich City,2-1,https://www.besoccer.com/match/cardiff-city-fc/norwich-city-fc/201410862,2014,24,premier_league
+Fulham,Southampton,0-3,https://www.besoccer.com/match/fulham/southampton-fc/201410863,2014,24,premier_league
+Hull City,Tottenham Hotspur,1-1,https://www.besoccer.com/match/hull-city/tottenham-hotspur-fc/201410866,2014,24,premier_league
+West Bromwich Albion,Liverpool,1-1,https://www.besoccer.com/match/west-bromwich/liverpool/201410860,2014,24,premier_league
+Arsenal,Crystal Palace,2-0,https://www.besoccer.com/match/arsenal/crystal-palace-fc/201410859,2014,24,premier_league
+Man. City,Chelsea,0-1,https://www.besoccer.com/match/manchester-city-fc/chelsea-fc/201410858,2014,24,premier_league
+Liverpool,Arsenal,5-1,https://www.besoccer.com/match/liverpool/arsenal/201410877,2014,25,premier_league
+Sunderland,Hull City,0-2,https://www.besoccer.com/match/sunderland-afc/hull-city/201410881,2014,25,premier_league
+Norwich City,Man. City,0-0,https://www.besoccer.com/match/norwich-city-fc/manchester-city-fc/201410882,2014,25,premier_league
+Chelsea,Newcastle,3-0,https://www.besoccer.com/match/chelsea-fc/newcastle-united-fc/201410883,2014,25,premier_league
+Southampton,Stoke City,2-2,https://www.besoccer.com/match/southampton-fc/stoke-city/201410884,2014,25,premier_league
+Crystal Palace,West Bromwich Albion,3-1,https://www.besoccer.com/match/crystal-palace-fc/west-bromwich/201410885,2014,25,premier_league
+Aston Villa,West Ham,0-2,https://www.besoccer.com/match/aston-villa-fc/west-ham-united/201410886,2014,25,premier_league
+Swansea City,Cardiff City,3-0,https://www.besoccer.com/match/swansea-city-afc/cardiff-city-fc/201410878,2014,25,premier_league
+Tottenham Hotspur,Everton,1-0,https://www.besoccer.com/match/tottenham-hotspur-fc/everton-fc/201410879,2014,25,premier_league
+Man. Utd,Fulham,2-2,https://www.besoccer.com/match/manchester-united-fc/fulham/201410880,2014,25,premier_league
+Cardiff City,Aston Villa,0-0,https://www.besoccer.com/match/cardiff-city-fc/aston-villa-fc/201410898,2014,26,premier_league
+West Ham,Norwich City,2-0,https://www.besoccer.com/match/west-ham-united/norwich-city-fc/201410903,2014,26,premier_league
+Hull City,Southampton,0-1,https://www.besoccer.com/match/hull-city/southampton-fc/201410904,2014,26,premier_league
+West Bromwich Albion,Chelsea,1-1,https://www.besoccer.com/match/west-bromwich/chelsea-fc/201410899,2014,26,premier_league
+Arsenal,Man. Utd,0-0,https://www.besoccer.com/match/arsenal/manchester-united-fc/201410902,2014,26,premier_league
+Newcastle,Tottenham Hotspur,0-4,https://www.besoccer.com/match/newcastle-united-fc/tottenham-hotspur-fc/201410907,2014,26,premier_league
+Fulham,Liverpool,2-3,https://www.besoccer.com/match/fulham/liverpool/201410901,2014,26,premier_league
+Stoke City,Swansea City,1-1,https://www.besoccer.com/match/stoke-city/swansea-city-afc/201410906,2014,26,premier_league
+Everton,Crystal Palace,2-3,https://www.besoccer.com/match/everton-fc/crystal-palace-fc/201410900,2014,26,premier_league
+Man. City,Sunderland,2-2,https://www.besoccer.com/match/manchester-city-fc/sunderland-afc/201410905,2014,26,premier_league
+Chelsea,Everton,1-0,https://www.besoccer.com/match/chelsea-fc/everton-fc/201410758,2014,27,premier_league
+West Bromwich Albion,Fulham,1-1,https://www.besoccer.com/match/west-bromwich/fulham/201410759,2014,27,premier_league
+Cardiff City,Hull City,0-4,https://www.besoccer.com/match/cardiff-city-fc/hull-city/201410760,2014,27,premier_league
+West Ham,Southampton,3-1,https://www.besoccer.com/match/west-ham-united/southampton-fc/201410762,2014,27,premier_league
+Man. City,Stoke City,1-0,https://www.besoccer.com/match/manchester-city-fc/stoke-city/201410763,2014,27,premier_league
+Arsenal,Sunderland,4-1,https://www.besoccer.com/match/arsenal/sunderland-afc/201410764,2014,27,premier_league
+Crystal Palace,Man. Utd,0-2,https://www.besoccer.com/match/crystal-palace-fc/manchester-united-fc/201410761,2014,27,premier_league
+Newcastle,Aston Villa,1-0,https://www.besoccer.com/match/newcastle-united-fc/aston-villa-fc/201410757,2014,27,premier_league
+Liverpool,Swansea City,4-3,https://www.besoccer.com/match/liverpool/swansea-city-afc/201410765,2014,27,premier_league
+Norwich City,Tottenham Hotspur,1-0,https://www.besoccer.com/match/norwich-city-fc/tottenham-hotspur-fc/201410766,2014,27,premier_league
+Stoke City,Arsenal,1-0,https://www.besoccer.com/match/stoke-city/arsenal/201410777,2014,28,premier_league
+Fulham,Chelsea,1-3,https://www.besoccer.com/match/fulham/chelsea-fc/201410779,2014,28,premier_league
+Hull City,Newcastle,1-4,https://www.besoccer.com/match/hull-city/newcastle-united-fc/201410783,2014,28,premier_league
+Everton,West Ham,1-0,https://www.besoccer.com/match/everton-fc/west-ham-united/201410786,2014,28,premier_league
+Southampton,Liverpool,0-3,https://www.besoccer.com/match/southampton-fc/liverpool/201410781,2014,28,premier_league
+Tottenham Hotspur,Cardiff City,1-0,https://www.besoccer.com/match/tottenham-hotspur-fc/cardiff-city-fc/201410778,2014,28,premier_league
+Swansea City,Crystal Palace,1-1,https://www.besoccer.com/match/swansea-city-afc/crystal-palace-fc/201410780,2014,28,premier_league
+Aston Villa,Norwich City,4-1,https://www.besoccer.com/match/aston-villa-fc/norwich-city-fc/201410784,2014,28,premier_league
+Man. Utd,Man. City,0-3,https://www.besoccer.com/match/manchester-united-fc/manchester-city-fc/201410782,2014,28,premier_league
+Sunderland,West Bromwich Albion,2-0,https://www.besoccer.com/match/sunderland-afc/west-bromwich/201410785,2014,28,premier_league
+West Bromwich Albion,Man. Utd,0-3,https://www.besoccer.com/match/west-bromwich/manchester-united-fc/201410801,2014,29,premier_league
+Cardiff City,Fulham,3-1,https://www.besoccer.com/match/cardiff-city-fc/fulham/201410799,2014,29,premier_league
+Crystal Palace,Southampton,0-1,https://www.besoccer.com/match/crystal-palace-fc/southampton-fc/201410802,2014,29,premier_league
+Norwich City,Stoke City,1-1,https://www.besoccer.com/match/norwich-city-fc/stoke-city/201410803,2014,29,premier_league
+Chelsea,Tottenham Hotspur,4-0,https://www.besoccer.com/match/chelsea-fc/tottenham-hotspur-fc/201410806,2014,29,premier_league
+Newcastle,Everton,0-3,https://www.besoccer.com/match/newcastle-united-fc/everton-fc/201410798,2014,29,premier_league
+Arsenal,Swansea City,2-2,https://www.besoccer.com/match/arsenal/swansea-city-afc/201410805,2014,29,premier_league
+West Ham,Hull City,2-1,https://www.besoccer.com/match/west-ham-united/hull-city/201410800,2014,29,premier_league
+Liverpool,Sunderland,2-1,https://www.besoccer.com/match/liverpool/sunderland-afc/201410804,2014,29,premier_league
+Man. City,Aston Villa,4-0,https://www.besoccer.com/match/manchester-city-fc/aston-villa-fc/201410797,2014,29,premier_league
+Hull City,Man. City,0-2,https://www.besoccer.com/match/hull-city/manchester-city-fc/201410742,2014,30,premier_league
+Everton,Cardiff City,2-1,https://www.besoccer.com/match/everton-fc/cardiff-city-fc/201410738,2014,30,premier_league
+Sunderland,Crystal Palace,0-0,https://www.besoccer.com/match/sunderland-afc/crystal-palace-fc/201410740,2014,30,premier_league
+Fulham,Newcastle,1-0,https://www.besoccer.com/match/fulham/newcastle-united-fc/201410743,2014,30,premier_league
+Southampton,Norwich City,4-2,https://www.besoccer.com/match/southampton-fc/norwich-city-fc/201410744,2014,30,premier_league
+Swansea City,West Bromwich Albion,1-2,https://www.besoccer.com/match/swansea-city-afc/west-bromwich/201410745,2014,30,premier_league
+Stoke City,West Ham,3-1,https://www.besoccer.com/match/stoke-city/west-ham-united/201410746,2014,30,premier_league
+Aston Villa,Chelsea,1-0,https://www.besoccer.com/match/aston-villa-fc/chelsea-fc/201410739,2014,30,premier_league
+Man. Utd,Liverpool,0-3,https://www.besoccer.com/match/manchester-united-fc/liverpool/201410741,2014,30,premier_league
+Tottenham Hotspur,Arsenal,0-1,https://www.besoccer.com/match/tottenham-hotspur-fc/arsenal/201410737,2014,30,premier_league
+Chelsea,Arsenal,6-0,https://www.besoccer.com/match/chelsea-fc/arsenal/201411020,2014,31,premier_league
+Newcastle,Crystal Palace,1-0,https://www.besoccer.com/match/newcastle-united-fc/crystal-palace-fc/201411021,2014,31,premier_league
+Man. City,Fulham,5-0,https://www.besoccer.com/match/manchester-city-fc/fulham/201411022,2014,31,premier_league
+Cardiff City,Liverpool,3-6,https://www.besoccer.com/match/cardiff-city-fc/liverpool/201411023,2014,31,premier_league
+Norwich City,Sunderland,2-0,https://www.besoccer.com/match/norwich-city-fc/sunderland-afc/201411027,2014,31,premier_league
+Everton,Swansea City,3-2,https://www.besoccer.com/match/everton-fc/swansea-city-afc/201411028,2014,31,premier_league
+Hull City,West Bromwich Albion,2-0,https://www.besoccer.com/match/hull-city/west-bromwich/201411029,2014,31,premier_league
+West Ham,Man. Utd,0-2,https://www.besoccer.com/match/west-ham-united/manchester-united-fc/201411024,2014,31,premier_league
+Tottenham Hotspur,Southampton,3-2,https://www.besoccer.com/match/tottenham-hotspur-fc/southampton-fc/201411025,2014,31,premier_league
+Aston Villa,Stoke City,1-4,https://www.besoccer.com/match/aston-villa-fc/stoke-city/201411026,2014,31,premier_league
+Man. Utd,Aston Villa,4-1,https://www.besoccer.com/match/manchester-united-fc/aston-villa-fc/201411000,2014,32,premier_league
+West Bromwich Albion,Cardiff City,3-3,https://www.besoccer.com/match/west-bromwich/cardiff-city-fc/201411001,2014,32,premier_league
+Crystal Palace,Chelsea,1-0,https://www.besoccer.com/match/crystal-palace-fc/chelsea-fc/201411002,2014,32,premier_league
+Stoke City,Hull City,1-0,https://www.besoccer.com/match/stoke-city/hull-city/201411004,2014,32,premier_league
+Southampton,Newcastle,4-0,https://www.besoccer.com/match/southampton-fc/newcastle-united-fc/201411006,2014,32,premier_league
+Swansea City,Norwich City,3-0,https://www.besoccer.com/match/swansea-city-afc/norwich-city-fc/201411007,2014,32,premier_league
+Arsenal,Man. City,1-1,https://www.besoccer.com/match/arsenal/manchester-city-fc/201411005,2014,32,premier_league
+Fulham,Everton,1-3,https://www.besoccer.com/match/fulham/everton-fc/201411003,2014,32,premier_league
+Liverpool,Tottenham Hotspur,4-0,https://www.besoccer.com/match/liverpool/tottenham-hotspur-fc/201411008,2014,32,premier_league
+Sunderland,West Ham,1-2,https://www.besoccer.com/match/sunderland-afc/west-ham-united/201411009,2014,32,premier_league
+Man. City,Southampton,4-1,https://www.besoccer.com/match/manchester-city-fc/southampton-fc/201410984,2014,33,premier_league
+Cardiff City,Crystal Palace,0-3,https://www.besoccer.com/match/cardiff-city-fc/crystal-palace-fc/201410980,2014,33,premier_league
+Aston Villa,Fulham,1-2,https://www.besoccer.com/match/aston-villa-fc/fulham/201410981,2014,33,premier_league
+Newcastle,Man. Utd,0-4,https://www.besoccer.com/match/newcastle-united-fc/manchester-united-fc/201410983,2014,33,premier_league
+Hull City,Swansea City,1-0,https://www.besoccer.com/match/hull-city/swansea-city-afc/201410987,2014,33,premier_league
+Norwich City,West Bromwich Albion,0-1,https://www.besoccer.com/match/norwich-city-fc/west-bromwich/201410988,2014,33,premier_league
+Chelsea,Stoke City,3-0,https://www.besoccer.com/match/chelsea-fc/stoke-city/201410985,2014,33,premier_league
+Everton,Arsenal,3-0,https://www.besoccer.com/match/everton-fc/arsenal/201410979,2014,33,premier_league
+West Ham,Liverpool,1-2,https://www.besoccer.com/match/west-ham-united/liverpool/201410982,2014,33,premier_league
+Tottenham Hotspur,Sunderland,5-1,https://www.besoccer.com/match/tottenham-hotspur-fc/sunderland-afc/201410986,2014,33,premier_league
+Crystal Palace,Aston Villa,1-0,https://www.besoccer.com/match/crystal-palace-fc/aston-villa-fc/201411041,2014,34,premier_league
+Southampton,Cardiff City,0-1,https://www.besoccer.com/match/southampton-fc/cardiff-city-fc/201411042,2014,34,premier_league
+Sunderland,Everton,0-1,https://www.besoccer.com/match/sunderland-afc/everton-fc/201411044,2014,34,premier_league
+Stoke City,Newcastle,1-0,https://www.besoccer.com/match/stoke-city/newcastle-united-fc/201411047,2014,34,premier_league
+Fulham,Norwich City,1-0,https://www.besoccer.com/match/fulham/norwich-city-fc/201411048,2014,34,premier_league
+West Bromwich Albion,Tottenham Hotspur,3-3,https://www.besoccer.com/match/west-bromwich/tottenham-hotspur-fc/201411049,2014,34,premier_league
+Liverpool,Man. City,3-2,https://www.besoccer.com/match/liverpool/manchester-city-fc/201411046,2014,34,premier_league
+Swansea City,Chelsea,0-1,https://www.besoccer.com/match/swansea-city-afc/chelsea-fc/201411043,2014,34,premier_league
+Arsenal,West Ham,3-1,https://www.besoccer.com/match/arsenal/west-ham-united/201411050,2014,34,premier_league
+Man. Utd,Hull City,3-1,https://www.besoccer.com/match/manchester-united-fc/hull-city/201411045,2014,34,premier_league
+Tottenham Hotspur,Fulham,3-1,https://www.besoccer.com/match/tottenham-hotspur-fc/fulham/201410968,2014,35,premier_league
+Aston Villa,Southampton,0-0,https://www.besoccer.com/match/aston-villa-fc/southampton-fc/201410961,2014,35,premier_league
+Cardiff City,Stoke City,1-1,https://www.besoccer.com/match/cardiff-city-fc/stoke-city/201410962,2014,35,premier_league
+Newcastle,Swansea City,1-2,https://www.besoccer.com/match/newcastle-united-fc/swansea-city-afc/201410964,2014,35,premier_league
+West Ham,Crystal Palace,0-1,https://www.besoccer.com/match/west-ham-united/crystal-palace-fc/201410965,2014,35,premier_league
+Chelsea,Sunderland,1-2,https://www.besoccer.com/match/chelsea-fc/sunderland-afc/201410963,2014,35,premier_league
+Norwich City,Liverpool,2-3,https://www.besoccer.com/match/norwich-city-fc/liverpool/201410966,2014,35,premier_league
+Hull City,Arsenal,0-3,https://www.besoccer.com/match/hull-city/arsenal/201410959,2014,35,premier_league
+Everton,Man. Utd,2-0,https://www.besoccer.com/match/everton-fc/manchester-united-fc/201410960,2014,35,premier_league
+Man. City,West Bromwich Albion,3-1,https://www.besoccer.com/match/manchester-city-fc/west-bromwich/201410967,2014,35,premier_league
+Southampton,Everton,2-0,https://www.besoccer.com/match/southampton-fc/everton-fc/201411064,2014,36,premier_league
+Swansea City,Aston Villa,4-1,https://www.besoccer.com/match/swansea-city-afc/aston-villa-fc/201411061,2014,36,premier_league
+Fulham,Hull City,2-2,https://www.besoccer.com/match/fulham/hull-city/201411065,2014,36,premier_league
+Stoke City,Tottenham Hotspur,0-1,https://www.besoccer.com/match/stoke-city/tottenham-hotspur-fc/201411069,2014,36,premier_league
+West Bromwich Albion,West Ham,1-0,https://www.besoccer.com/match/west-bromwich/west-ham-united/201411070,2014,36,premier_league
+Man. Utd,Norwich City,4-0,https://www.besoccer.com/match/manchester-united-fc/norwich-city-fc/201411068,2014,36,premier_league
+Sunderland,Cardiff City,4-0,https://www.besoccer.com/match/sunderland-afc/cardiff-city-fc/201411062,2014,36,premier_league
+Liverpool,Chelsea,0-2,https://www.besoccer.com/match/liverpool/chelsea-fc/201411063,2014,36,premier_league
+Crystal Palace,Man. City,0-2,https://www.besoccer.com/match/crystal-palace-fc/manchester-city-fc/201411066,2014,36,premier_league
+Arsenal,Newcastle,3-0,https://www.besoccer.com/match/arsenal/newcastle-united-fc/201411067,2014,36,premier_league
+West Ham,Tottenham Hotspur,2-0,https://www.besoccer.com/match/west-ham-united/tottenham-hotspur-fc/201410825,2014,37,premier_league
+Newcastle,Cardiff City,3-0,https://www.besoccer.com/match/newcastle-united-fc/cardiff-city-fc/201410817,2014,37,premier_league
+Stoke City,Fulham,4-1,https://www.besoccer.com/match/stoke-city/fulham/201410818,2014,37,premier_league
+Aston Villa,Hull City,3-1,https://www.besoccer.com/match/aston-villa-fc/hull-city/201410819,2014,37,premier_league
+Swansea City,Southampton,0-1,https://www.besoccer.com/match/swansea-city-afc/southampton-fc/201410823,2014,37,premier_league
+Man. Utd,Sunderland,0-1,https://www.besoccer.com/match/manchester-united-fc/sunderland-afc/201410824,2014,37,premier_league
+Everton,Man. City,2-3,https://www.besoccer.com/match/everton-fc/manchester-city-fc/201410821,2014,37,premier_league
+Arsenal,West Bromwich Albion,1-0,https://www.besoccer.com/match/arsenal/west-bromwich/201410826,2014,37,premier_league
+Chelsea,Norwich City,0-0,https://www.besoccer.com/match/chelsea-fc/norwich-city-fc/201410822,2014,37,premier_league
+Crystal Palace,Liverpool,3-3,https://www.besoccer.com/match/crystal-palace-fc/liverpool/201410820,2014,37,premier_league
+Norwich City,Arsenal,0-2,https://www.besoccer.com/match/norwich-city-fc/arsenal/201410837,2014,38,premier_league
+Tottenham Hotspur,Aston Villa,3-0,https://www.besoccer.com/match/tottenham-hotspur-fc/aston-villa-fc/201410838,2014,38,premier_league
+Cardiff City,Chelsea,1-2,https://www.besoccer.com/match/cardiff-city-fc/chelsea-fc/201410839,2014,38,premier_league
+Fulham,Crystal Palace,2-2,https://www.besoccer.com/match/fulham/crystal-palace-fc/201410840,2014,38,premier_league
+Hull City,Everton,0-2,https://www.besoccer.com/match/hull-city/everton-fc/201410841,2014,38,premier_league
+Southampton,Man. Utd,1-1,https://www.besoccer.com/match/southampton-fc/manchester-united-fc/201410842,2014,38,premier_league
+Liverpool,Newcastle,2-1,https://www.besoccer.com/match/liverpool/newcastle-united-fc/201410843,2014,38,premier_league
+West Bromwich Albion,Stoke City,1-2,https://www.besoccer.com/match/west-bromwich/stoke-city/201410844,2014,38,premier_league
+Sunderland,Swansea City,1-3,https://www.besoccer.com/match/sunderland-afc/swansea-city-afc/201410845,2014,38,premier_league
+Man. City,West Ham,2-0,https://www.besoccer.com/match/manchester-city-fc/west-ham-united/201410846,2014,38,premier_league

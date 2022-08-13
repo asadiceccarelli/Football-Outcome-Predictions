@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Siena,Fiorentina,0-0,https://www.besoccer.com/match/siena/fiorentina/201226118,2012,1,serie_a
+Cagliari,Milan,0-2,https://www.besoccer.com/match/cagliari/milan/201226112,2012,1,serie_a
+Udinese,Juventus,0-0,https://www.besoccer.com/match/udinese/juventus-fc/201226119,2012,1,serie_a
+Atalanta,Cesena,4-1,https://www.besoccer.com/match/atalanta/ac-cesena/201226110,2012,1,serie_a
+Bologna,Roma,0-2,https://www.besoccer.com/match/bologna/roma/201226111,2012,1,serie_a
+Inter,Lecce,4-1,https://www.besoccer.com/match/internazionale/lecce/201226113,2012,1,serie_a
+Lazio,Chievo,0-0,https://www.besoccer.com/match/lazio/chievo/201226114,2012,1,serie_a
+Napoli,Genoa,6-1,https://www.besoccer.com/match/napoli/genoa/201226115,2012,1,serie_a
+Novara,Palermo FC,2-2,https://www.besoccer.com/match/novara-calcio/palermo/201226116,2012,1,serie_a
+Parma,Catania,3-3,https://www.besoccer.com/match/parma-fc/catania/201226117,2012,1,serie_a
+Milan,Lazio,2-2,https://www.besoccer.com/match/milan/lazio/201226127,2012,2,serie_a
+Cesena,Napoli,1-3,https://www.besoccer.com/match/ac-cesena/napoli/201226121,2012,2,serie_a
+Juventus,Parma,4-1,https://www.besoccer.com/match/juventus-fc/parma-fc/201226125,2012,2,serie_a
+Catania,Siena,0-0,https://www.besoccer.com/match/catania/siena/201226120,2012,2,serie_a
+Chievo,Novara,2-2,https://www.besoccer.com/match/chievo/novara-calcio/201226122,2012,2,serie_a
+Fiorentina,Bologna,2-0,https://www.besoccer.com/match/fiorentina/bologna/201226123,2012,2,serie_a
+Genoa,Atalanta,2-2,https://www.besoccer.com/match/genoa/atalanta/201226124,2012,2,serie_a
+Lecce,Udinese,0-2,https://www.besoccer.com/match/lecce/udinese/201226126,2012,2,serie_a
+Roma,Cagliari,1-2,https://www.besoccer.com/match/roma/cagliari/201226129,2012,2,serie_a
+Palermo FC,Inter,4-3,https://www.besoccer.com/match/palermo/internazionale/201226128,2012,2,serie_a
+Cagliari,Novara,2-1,https://www.besoccer.com/match/cagliari/novara-calcio/201226132,2012,3,serie_a
+Inter,Roma,0-0,https://www.besoccer.com/match/internazionale/roma/201226134,2012,3,serie_a
+Atalanta,Palermo FC,1-0,https://www.besoccer.com/match/atalanta/palermo/201226130,2012,3,serie_a
+Bologna,Lecce,0-2,https://www.besoccer.com/match/bologna/lecce/201226131,2012,3,serie_a
+Catania,Cesena,1-0,https://www.besoccer.com/match/catania/ac-cesena/201226133,2012,3,serie_a
+Lazio,Genoa,1-2,https://www.besoccer.com/match/lazio/genoa/201226135,2012,3,serie_a
+Parma,Chievo,2-1,https://www.besoccer.com/match/parma-fc/chievo/201226137,2012,3,serie_a
+Siena,Juventus,0-1,https://www.besoccer.com/match/siena/juventus-fc/201226138,2012,3,serie_a
+Udinese,Fiorentina,2-0,https://www.besoccer.com/match/udinese/fiorentina/201226139,2012,3,serie_a
+Napoli,Milan,3-1,https://www.besoccer.com/match/napoli/milan/201226136,2012,3,serie_a
+Novara,Inter,3-1,https://www.besoccer.com/match/novara-calcio/internazionale/201226147,2012,4,serie_a
+Cesena,Lazio,1-2,https://www.besoccer.com/match/ac-cesena/lazio/201226140,2012,4,serie_a
+Chievo,Napoli,1-0,https://www.besoccer.com/match/chievo/napoli/201226141,2012,4,serie_a
+Fiorentina,Parma,3-0,https://www.besoccer.com/match/fiorentina/parma-fc/201226142,2012,4,serie_a
+Genoa,Catania,3-0,https://www.besoccer.com/match/genoa/catania/201226143,2012,4,serie_a
+Juventus,Bologna,1-1,https://www.besoccer.com/match/juventus-fc/bologna/201226144,2012,4,serie_a
+Lecce,Atalanta,1-2,https://www.besoccer.com/match/lecce/atalanta/201226145,2012,4,serie_a
+Milan,Udinese,1-1,https://www.besoccer.com/match/milan/udinese/201226146,2012,4,serie_a
+Palermo FC,Cagliari,3-2,https://www.besoccer.com/match/palermo/cagliari/201226148,2012,4,serie_a
+Roma,Siena,1-1,https://www.besoccer.com/match/roma/siena/201226149,2012,4,serie_a
+Bologna,Inter,1-3,https://www.besoccer.com/match/bologna/internazionale/201226151,2012,5,serie_a
+Milan,Cesena,1-0,https://www.besoccer.com/match/milan/ac-cesena/201226156,2012,5,serie_a
+Napoli,Fiorentina,0-0,https://www.besoccer.com/match/napoli/fiorentina/201226157,2012,5,serie_a
+Chievo,Genoa,2-1,https://www.besoccer.com/match/chievo/genoa/201226154,2012,5,serie_a
+Atalanta,Novara,2-1,https://www.besoccer.com/match/atalanta/novara-calcio/201226150,2012,5,serie_a
+Cagliari,Udinese,0-0,https://www.besoccer.com/match/cagliari/udinese/201226152,2012,5,serie_a
+Catania,Juventus,1-1,https://www.besoccer.com/match/catania/juventus-fc/201226153,2012,5,serie_a
+Lazio,Palermo FC,0-0,https://www.besoccer.com/match/lazio/palermo/201226155,2012,5,serie_a
+Siena,Lecce,3-0,https://www.besoccer.com/match/siena/lecce/201226159,2012,5,serie_a
+Parma,Roma,0-1,https://www.besoccer.com/match/parma-fc/roma/201226158,2012,5,serie_a
+Roma,Atalanta,3-1,https://www.besoccer.com/match/roma/atalanta/201226168,2012,6,serie_a
+Inter,Napoli,0-3,https://www.besoccer.com/match/internazionale/napoli/201226162,2012,6,serie_a
+Novara,Catania,3-3,https://www.besoccer.com/match/novara-calcio/catania/201226165,2012,6,serie_a
+Cesena,Chievo,0-0,https://www.besoccer.com/match/ac-cesena/chievo/201226160,2012,6,serie_a
+Fiorentina,Lazio,1-2,https://www.besoccer.com/match/fiorentina/lazio/201226161,2012,6,serie_a
+Lecce,Cagliari,0-2,https://www.besoccer.com/match/lecce/cagliari/201226164,2012,6,serie_a
+Palermo FC,Siena,2-0,https://www.besoccer.com/match/palermo/siena/201226166,2012,6,serie_a
+Parma,Genoa,3-1,https://www.besoccer.com/match/parma-fc/genoa/201226167,2012,6,serie_a
+Udinese,Bologna,2-0,https://www.besoccer.com/match/udinese/bologna/201226169,2012,6,serie_a
+Juventus,Milan,2-0,https://www.besoccer.com/match/juventus-fc/milan/201226163,2012,6,serie_a
+Catania,Inter,2-1,https://www.besoccer.com/match/catania/internazionale/201226172,2012,7,serie_a
+Milan,Palermo FC,3-0,https://www.besoccer.com/match/milan/palermo/201226177,2012,7,serie_a
+Napoli,Parma,1-2,https://www.besoccer.com/match/napoli/parma-fc/201226178,2012,7,serie_a
+Cesena,Fiorentina,0-0,https://www.besoccer.com/match/ac-cesena/fiorentina/201226173,2012,7,serie_a
+Atalanta,Udinese,0-0,https://www.besoccer.com/match/atalanta/udinese/201226170,2012,7,serie_a
+Cagliari,Siena,0-0,https://www.besoccer.com/match/cagliari/siena/201226171,2012,7,serie_a
+Chievo,Juventus,0-0,https://www.besoccer.com/match/chievo/juventus-fc/201226174,2012,7,serie_a
+Genoa,Lecce,0-0,https://www.besoccer.com/match/genoa/lecce/201226175,2012,7,serie_a
+Novara,Bologna,0-2,https://www.besoccer.com/match/novara-calcio/bologna/201226179,2012,7,serie_a
+Lazio,Roma,2-1,https://www.besoccer.com/match/lazio/roma/201226176,2012,7,serie_a
+Fiorentina,Catania,2-2,https://www.besoccer.com/match/fiorentina/catania/201226182,2012,8,serie_a
+Juventus,Genoa,2-2,https://www.besoccer.com/match/juventus-fc/genoa/201226184,2012,8,serie_a
+Lecce,Milan,3-4,https://www.besoccer.com/match/lecce/milan/201226185,2012,8,serie_a
+Cagliari,Napoli,0-0,https://www.besoccer.com/match/cagliari/napoli/201226181,2012,8,serie_a
+Inter,Chievo,1-0,https://www.besoccer.com/match/internazionale/chievo/201226183,2012,8,serie_a
+Parma,Atalanta,1-2,https://www.besoccer.com/match/parma-fc/atalanta/201226186,2012,8,serie_a
+Roma,Palermo FC,1-0,https://www.besoccer.com/match/roma/palermo/201226187,2012,8,serie_a
+Siena,Cesena,2-0,https://www.besoccer.com/match/siena/ac-cesena/201226188,2012,8,serie_a
+Udinese,Novara,3-0,https://www.besoccer.com/match/udinese/novara-calcio/201226189,2012,8,serie_a
+Bologna,Lazio,0-2,https://www.besoccer.com/match/bologna/lazio/201226180,2012,8,serie_a
+Juventus,Fiorentina,2-1,https://www.besoccer.com/match/juventus-fc/fiorentina/201226194,2012,9,serie_a
+Atalanta,Inter,1-1,https://www.besoccer.com/match/atalanta/internazionale/201226190,2012,9,serie_a
+Cesena,Cagliari,1-1,https://www.besoccer.com/match/ac-cesena/cagliari/201226191,2012,9,serie_a
+Chievo,Bologna,0-1,https://www.besoccer.com/match/chievo/bologna/201226192,2012,9,serie_a
+Genoa,Roma,2-1,https://www.besoccer.com/match/genoa/roma/201226193,2012,9,serie_a
+Lazio,Catania,1-1,https://www.besoccer.com/match/lazio/catania/201226195,2012,9,serie_a
+Milan,Parma,4-1,https://www.besoccer.com/match/milan/parma-fc/201226196,2012,9,serie_a
+Napoli,Udinese,2-0,https://www.besoccer.com/match/napoli/udinese/201226197,2012,9,serie_a
+Novara,Siena,1-1,https://www.besoccer.com/match/novara-calcio/siena/201226198,2012,9,serie_a
+Palermo FC,Lecce,2-0,https://www.besoccer.com/match/palermo/lecce/201226199,2012,9,serie_a
+Catania,Napoli,2-1,https://www.besoccer.com/match/catania/napoli/201226202,2012,10,serie_a
+Roma,Milan,2-3,https://www.besoccer.com/match/roma/milan/201226207,2012,10,serie_a
+Inter,Juventus,1-2,https://www.besoccer.com/match/internazionale/juventus-fc/201226204,2012,10,serie_a
+Siena,Chievo,4-1,https://www.besoccer.com/match/siena/chievo/201226208,2012,10,serie_a
+Bologna,Atalanta,3-1,https://www.besoccer.com/match/bologna/atalanta/201226200,2012,10,serie_a
+Fiorentina,Genoa,1-0,https://www.besoccer.com/match/fiorentina/genoa/201226203,2012,10,serie_a
+Lecce,Novara,1-1,https://www.besoccer.com/match/lecce/novara-calcio/201226205,2012,10,serie_a
+Parma,Cesena,2-0,https://www.besoccer.com/match/parma-fc/ac-cesena/201226206,2012,10,serie_a
+Udinese,Palermo FC,1-0,https://www.besoccer.com/match/udinese/palermo/201226209,2012,10,serie_a
+Cagliari,Lazio,0-3,https://www.besoccer.com/match/cagliari/lazio/201226201,2012,10,serie_a
+Palermo FC,Bologna,3-1,https://www.besoccer.com/match/palermo/bologna/201226218,2012,11,serie_a
+Novara,Roma,0-2,https://www.besoccer.com/match/novara-calcio/roma/201226217,2012,11,serie_a
+Atalanta,Cagliari,1-0,https://www.besoccer.com/match/atalanta/cagliari/201226210,2012,11,serie_a
+Cesena,Lecce,0-1,https://www.besoccer.com/match/ac-cesena/lecce/201226211,2012,11,serie_a
+Chievo,Fiorentina,1-0,https://www.besoccer.com/match/chievo/fiorentina/201226212,2012,11,serie_a
+Lazio,Parma,1-0,https://www.besoccer.com/match/lazio/parma-fc/201226214,2012,11,serie_a
+Milan,Catania,4-0,https://www.besoccer.com/match/milan/catania/201226215,2012,11,serie_a
+Udinese,Siena,2-1,https://www.besoccer.com/match/udinese/siena/201226219,2012,11,serie_a
+Napoli,Juventus,3-3,https://www.besoccer.com/match/napoli/juventus-fc/201226216,2012,11,serie_a
+Genoa,Inter,0-1,https://www.besoccer.com/match/genoa/internazionale/201226213,2012,11,serie_a
+Inter,Cagliari,2-1,https://www.besoccer.com/match/internazionale/cagliari/201226224,2012,12,serie_a
+Fiorentina,Milan,0-0,https://www.besoccer.com/match/fiorentina/milan/201226222,2012,12,serie_a
+Napoli,Lazio,0-0,https://www.besoccer.com/match/napoli/lazio/201226226,2012,12,serie_a
+Bologna,Cesena,0-1,https://www.besoccer.com/match/bologna/ac-cesena/201226220,2012,12,serie_a
+Catania,Chievo,1-2,https://www.besoccer.com/match/catania/chievo/201226221,2012,12,serie_a
+Genoa,Novara,1-0,https://www.besoccer.com/match/genoa/novara-calcio/201226223,2012,12,serie_a
+Juventus,Palermo FC,3-0,https://www.besoccer.com/match/juventus-fc/palermo/201226225,2012,12,serie_a
+Parma,Udinese,2-0,https://www.besoccer.com/match/parma-fc/udinese/201226227,2012,12,serie_a
+Siena,Atalanta,2-2,https://www.besoccer.com/match/siena/atalanta/201226229,2012,12,serie_a
+Roma,Lecce,2-1,https://www.besoccer.com/match/roma/lecce/201226228,2012,12,serie_a
+Udinese,Roma,2-0,https://www.besoccer.com/match/udinese/roma/201226239,2012,13,serie_a
+Novara,Parma,2-1,https://www.besoccer.com/match/novara-calcio/parma-fc/201226236,2012,13,serie_a
+Lecce,Catania,0-1,https://www.besoccer.com/match/lecce/catania/201226234,2012,13,serie_a
+Atalanta,Napoli,1-1,https://www.besoccer.com/match/atalanta/napoli/201226230,2012,13,serie_a
+Lazio,Juventus,0-1,https://www.besoccer.com/match/lazio/juventus-fc/201226233,2012,13,serie_a
+Cagliari,Bologna,1-1,https://www.besoccer.com/match/cagliari/bologna/201226231,2012,13,serie_a
+Cesena,Genoa,2-0,https://www.besoccer.com/match/ac-cesena/genoa/201226232,2012,13,serie_a
+Palermo FC,Fiorentina,2-0,https://www.besoccer.com/match/palermo/fiorentina/201226237,2012,13,serie_a
+Siena,Inter,0-1,https://www.besoccer.com/match/siena/internazionale/201226238,2012,13,serie_a
+Milan,Chievo,4-0,https://www.besoccer.com/match/milan/chievo/201226235,2012,13,serie_a
+Genoa,Milan,0-2,https://www.besoccer.com/match/genoa/milan/201226244,2012,14,serie_a
+Inter,Udinese,0-1,https://www.besoccer.com/match/internazionale/udinese/201226245,2012,14,serie_a
+Napoli,Lecce,4-2,https://www.besoccer.com/match/napoli/lecce/201226248,2012,14,serie_a
+Catania,Cagliari,0-1,https://www.besoccer.com/match/catania/cagliari/201226241,2012,14,serie_a
+Bologna,Siena,1-0,https://www.besoccer.com/match/bologna/siena/201226240,2012,14,serie_a
+Chievo,Atalanta,0-0,https://www.besoccer.com/match/chievo/atalanta/201226242,2012,14,serie_a
+Fiorentina,Roma,3-0,https://www.besoccer.com/match/fiorentina/roma/201226243,2012,14,serie_a
+Juventus,Cesena,2-0,https://www.besoccer.com/match/juventus-fc/ac-cesena/201226246,2012,14,serie_a
+Parma,Palermo FC,0-0,https://www.besoccer.com/match/parma-fc/palermo/201226249,2012,14,serie_a
+Lazio,Novara,3-0,https://www.besoccer.com/match/lazio/novara-calcio/201226247,2012,14,serie_a
+Siena,Genoa,0-2,https://www.besoccer.com/match/siena/genoa/201226258,2012,15,serie_a
+Lecce,Lazio,2-3,https://www.besoccer.com/match/lecce/lazio/201226254,2012,15,serie_a
+Inter,Fiorentina,2-0,https://www.besoccer.com/match/internazionale/fiorentina/201226253,2012,15,serie_a
+Palermo FC,Cesena,0-1,https://www.besoccer.com/match/palermo/ac-cesena/201226256,2012,15,serie_a
+Atalanta,Catania,1-1,https://www.besoccer.com/match/atalanta/catania/201226250,2012,15,serie_a
+Bologna,Milan,2-2,https://www.besoccer.com/match/bologna/milan/201226251,2012,15,serie_a
+Cagliari,Parma,0-0,https://www.besoccer.com/match/cagliari/parma-fc/201226252,2012,15,serie_a
+Udinese,Chievo,2-1,https://www.besoccer.com/match/udinese/chievo/201226259,2012,15,serie_a
+Novara,Napoli,1-1,https://www.besoccer.com/match/novara-calcio/napoli/201226255,2012,15,serie_a
+Roma,Juventus,1-1,https://www.besoccer.com/match/roma/juventus-fc/201226257,2012,15,serie_a
+Chievo,Cagliari,2-0,https://www.besoccer.com/match/chievo/cagliari/201226262,2012,16,serie_a
+Fiorentina,Atalanta,2-2,https://www.besoccer.com/match/fiorentina/atalanta/201226263,2012,16,serie_a
+Milan,Siena,2-0,https://www.besoccer.com/match/milan/siena/201226267,2012,16,serie_a
+Catania,Palermo FC,2-0,https://www.besoccer.com/match/catania/palermo/201226260,2012,16,serie_a
+Cesena,Inter,0-1,https://www.besoccer.com/match/ac-cesena/internazionale/201226261,2012,16,serie_a
+Genoa,Bologna,2-1,https://www.besoccer.com/match/genoa/bologna/201226264,2012,16,serie_a
+Juventus,Novara,2-0,https://www.besoccer.com/match/juventus-fc/novara-calcio/201226265,2012,16,serie_a
+Parma,Lecce,3-3,https://www.besoccer.com/match/parma-fc/lecce/201226269,2012,16,serie_a
+Lazio,Udinese,2-2,https://www.besoccer.com/match/lazio/udinese/201226266,2012,16,serie_a
+Napoli,Roma,1-3,https://www.besoccer.com/match/napoli/roma/201226268,2012,16,serie_a
+Siena,Lazio,4-0,https://www.besoccer.com/match/siena/lazio/201226278,2012,17,serie_a
+Inter,Parma,5-0,https://www.besoccer.com/match/internazionale/parma-fc/201226273,2012,17,serie_a
+Udinese,Cesena,4-1,https://www.besoccer.com/match/udinese/ac-cesena/201226279,2012,17,serie_a
+Atalanta,Milan,0-2,https://www.besoccer.com/match/atalanta/milan/201226270,2012,17,serie_a
+Bologna,Catania,2-0,https://www.besoccer.com/match/bologna/catania/201226271,2012,17,serie_a
+Cagliari,Genoa,3-0,https://www.besoccer.com/match/cagliari/genoa/201226272,2012,17,serie_a
+Lecce,Juventus,0-1,https://www.besoccer.com/match/lecce/juventus-fc/201226274,2012,17,serie_a
+Novara,Fiorentina,0-3,https://www.besoccer.com/match/novara-calcio/fiorentina/201226275,2012,17,serie_a
+Roma,Chievo,2-0,https://www.besoccer.com/match/roma/chievo/201226277,2012,17,serie_a
+Palermo FC,Napoli,1-3,https://www.besoccer.com/match/palermo/napoli/201226276,2012,17,serie_a
+Lazio,Atalanta,2-0,https://www.besoccer.com/match/lazio/atalanta/201226286,2012,18,serie_a
+Cesena,Novara,3-1,https://www.besoccer.com/match/ac-cesena/novara-calcio/201226281,2012,18,serie_a
+Chievo,Palermo FC,1-0,https://www.besoccer.com/match/chievo/palermo/201226282,2012,18,serie_a
+Fiorentina,Lecce,0-1,https://www.besoccer.com/match/fiorentina/lecce/201226283,2012,18,serie_a
+Genoa,Udinese,3-2,https://www.besoccer.com/match/genoa/udinese/201226284,2012,18,serie_a
+Juventus,Cagliari,1-1,https://www.besoccer.com/match/juventus-fc/cagliari/201226285,2012,18,serie_a
+Parma,Siena,3-1,https://www.besoccer.com/match/parma-fc/siena/201226289,2012,18,serie_a
+Milan,Inter,0-1,https://www.besoccer.com/match/milan/internazionale/201226287,2012,18,serie_a
+Napoli,Bologna,1-1,https://www.besoccer.com/match/napoli/bologna/201226288,2012,18,serie_a
+Catania,Roma,1-1,https://www.besoccer.com/match/catania/roma/201226280,2012,18,serie_a
+Roma,Cesena,5-1,https://www.besoccer.com/match/roma/ac-cesena/201226297,2012,19,serie_a
+Atalanta,Juventus,0-2,https://www.besoccer.com/match/atalanta/juventus-fc/201226290,2012,19,serie_a
+Bologna,Parma,0-0,https://www.besoccer.com/match/bologna/parma-fc/201226291,2012,19,serie_a
+Lecce,Chievo,2-2,https://www.besoccer.com/match/lecce/chievo/201226294,2012,19,serie_a
+Novara,Milan,0-3,https://www.besoccer.com/match/novara-calcio/milan/201226295,2012,19,serie_a
+Palermo FC,Genoa,5-3,https://www.besoccer.com/match/palermo/genoa/201226296,2012,19,serie_a
+Siena,Napoli,1-1,https://www.besoccer.com/match/siena/napoli/201226298,2012,19,serie_a
+Udinese,Catania,2-1,https://www.besoccer.com/match/udinese/catania/201226299,2012,19,serie_a
+Cagliari,Fiorentina,0-0,https://www.besoccer.com/match/cagliari/fiorentina/201226292,2012,19,serie_a
+Inter,Lazio,2-1,https://www.besoccer.com/match/internazionale/lazio/201226293,2012,19,serie_a
+Catania,Parma,1-1,https://www.besoccer.com/match/catania/parma-fc/201226307,2012,20,serie_a
+Juventus,Udinese,2-1,https://www.besoccer.com/match/juventus-fc/udinese/201226309,2012,20,serie_a
+Fiorentina,Siena,2-1,https://www.besoccer.com/match/fiorentina/siena/201226308,2012,20,serie_a
+Cesena,Atalanta,0-1,https://www.besoccer.com/match/ac-cesena/atalanta/201226300,2012,20,serie_a
+Roma,Bologna,1-1,https://www.besoccer.com/match/roma/bologna/201226301,2012,20,serie_a
+Lecce,Inter,1-0,https://www.besoccer.com/match/lecce/internazionale/201226303,2012,20,serie_a
+Chievo,Lazio,0-3,https://www.besoccer.com/match/chievo/lazio/201226304,2012,20,serie_a
+Genoa,Napoli,3-2,https://www.besoccer.com/match/genoa/napoli/201226305,2012,20,serie_a
+Palermo FC,Novara,2-0,https://www.besoccer.com/match/palermo/novara-calcio/201226306,2012,20,serie_a
+Milan,Cagliari,3-0,https://www.besoccer.com/match/milan/cagliari/201226302,2012,20,serie_a
+Udinese,Lecce,2-1,https://www.besoccer.com/match/udinese/lecce/201226316,2012,21,serie_a
+Napoli,Cesena,0-0,https://www.besoccer.com/match/napoli/ac-cesena/201226311,2012,21,serie_a
+Lazio,Milan,2-0,https://www.besoccer.com/match/lazio/milan/201226317,2012,21,serie_a
+Inter,Palermo FC,4-4,https://www.besoccer.com/match/internazionale/palermo/201226318,2012,21,serie_a
+Cagliari,Roma,4-2,https://www.besoccer.com/match/cagliari/roma/201226319,2012,21,serie_a
+Novara,Chievo,1-2,https://www.besoccer.com/match/novara-calcio/chievo/201226312,2012,21,serie_a
+Atalanta,Genoa,1-0,https://www.besoccer.com/match/atalanta/genoa/201226314,2012,21,serie_a
+Parma,Juventus,0-0,https://www.besoccer.com/match/parma-fc/juventus-fc/201226315,2012,21,serie_a
+Bologna,Fiorentina,2-0,https://www.besoccer.com/match/bologna/fiorentina/201226313,2012,21,serie_a
+Siena,Catania,0-1,https://www.besoccer.com/match/siena/catania/201226310,2012,21,serie_a
+Genoa,Lazio,3-2,https://www.besoccer.com/match/genoa/lazio/201226325,2012,22,serie_a
+Palermo FC,Atalanta,2-1,https://www.besoccer.com/match/palermo/atalanta/201226320,2012,22,serie_a
+Lecce,Bologna,0-0,https://www.besoccer.com/match/lecce/bologna/201226321,2012,22,serie_a
+Novara,Cagliari,0-0,https://www.besoccer.com/match/novara-calcio/cagliari/201226322,2012,22,serie_a
+Roma,Inter,4-0,https://www.besoccer.com/match/roma/internazionale/201226324,2012,22,serie_a
+Milan,Napoli,0-0,https://www.besoccer.com/match/milan/napoli/201226326,2012,22,serie_a
+Chievo,Parma,1-2,https://www.besoccer.com/match/chievo/parma-fc/201226327,2012,22,serie_a
+Juventus,Siena,0-0,https://www.besoccer.com/match/juventus-fc/siena/201226328,2012,22,serie_a
+Fiorentina,Udinese,3-2,https://www.besoccer.com/match/fiorentina/udinese/201226329,2012,22,serie_a
+Cesena,Catania,0-0,https://www.besoccer.com/match/ac-cesena/catania/201226323,2012,22,serie_a
+Lazio,Cesena,3-2,https://www.besoccer.com/match/lazio/ac-cesena/201226330,2012,23,serie_a
+Udinese,Milan,1-2,https://www.besoccer.com/match/udinese/milan/201226336,2012,23,serie_a
+Cagliari,Palermo FC,2-1,https://www.besoccer.com/match/cagliari/palermo/201226338,2012,23,serie_a
+Catania,Genoa,4-0,https://www.besoccer.com/match/catania/genoa/201226333,2012,23,serie_a
+Atalanta,Lecce,0-0,https://www.besoccer.com/match/atalanta/lecce/201226335,2012,23,serie_a
+Inter,Novara,0-1,https://www.besoccer.com/match/internazionale/novara-calcio/201226337,2012,23,serie_a
+Napoli,Chievo,2-0,https://www.besoccer.com/match/napoli/chievo/201226331,2012,23,serie_a
+Siena,Roma,1-0,https://www.besoccer.com/match/siena/roma/201226339,2012,23,serie_a
+Parma,Fiorentina,2-2,https://www.besoccer.com/match/parma-fc/fiorentina/201226332,2012,23,serie_a
+Bologna,Juventus,1-1,https://www.besoccer.com/match/bologna/juventus-fc/201226334,2012,23,serie_a
+Inter,Bologna,0-3,https://www.besoccer.com/match/internazionale/bologna/201226341,2012,24,serie_a
+Fiorentina,Napoli,0-3,https://www.besoccer.com/match/fiorentina/napoli/201226347,2012,24,serie_a
+Juventus,Catania,3-1,https://www.besoccer.com/match/juventus-fc/catania/201226343,2012,24,serie_a
+Lecce,Siena,4-1,https://www.besoccer.com/match/lecce/siena/201226349,2012,24,serie_a
+Novara,Atalanta,0-0,https://www.besoccer.com/match/novara-calcio/atalanta/201226340,2012,24,serie_a
+Genoa,Chievo,0-1,https://www.besoccer.com/match/genoa/chievo/201226344,2012,24,serie_a
+Cesena,Milan,1-3,https://www.besoccer.com/match/ac-cesena/milan/201226346,2012,24,serie_a
+Roma,Parma,1-0,https://www.besoccer.com/match/roma/parma-fc/201226348,2012,24,serie_a
+Udinese,Cagliari,0-0,https://www.besoccer.com/match/udinese/cagliari/201226342,2012,24,serie_a
+Palermo FC,Lazio,5-1,https://www.besoccer.com/match/palermo/lazio/201226345,2012,24,serie_a
+Genoa,Parma,2-2,https://www.besoccer.com/match/genoa/parma-fc/201226357,2012,25,serie_a
+Milan,Juventus,1-1,https://www.besoccer.com/match/milan/juventus-fc/201226353,2012,25,serie_a
+Chievo,Cesena,1-0,https://www.besoccer.com/match/chievo/ac-cesena/201226350,2012,25,serie_a
+Cagliari,Lecce,1-2,https://www.besoccer.com/match/cagliari/lecce/201226354,2012,25,serie_a
+Catania,Novara,3-1,https://www.besoccer.com/match/catania/novara-calcio/201226355,2012,25,serie_a
+Siena,Palermo FC,4-1,https://www.besoccer.com/match/siena/palermo/201226356,2012,25,serie_a
+Atalanta,Roma,4-1,https://www.besoccer.com/match/atalanta/roma/201226358,2012,25,serie_a
+Lazio,Fiorentina,1-0,https://www.besoccer.com/match/lazio/fiorentina/201226351,2012,25,serie_a
+Napoli,Inter,1-0,https://www.besoccer.com/match/napoli/internazionale/201226352,2012,25,serie_a
+Bologna,Udinese,1-3,https://www.besoccer.com/match/bologna/udinese/201226359,2012,25,serie_a
+Palermo FC,Milan,0-4,https://www.besoccer.com/match/palermo/milan/201226367,2012,26,serie_a
+Juventus,Chievo,1-1,https://www.besoccer.com/match/juventus-fc/chievo/201226364,2012,26,serie_a
+Parma,Napoli,1-2,https://www.besoccer.com/match/parma-fc/napoli/201226368,2012,26,serie_a
+Udinese,Atalanta,0-0,https://www.besoccer.com/match/udinese/atalanta/201226360,2012,26,serie_a
+Siena,Cagliari,3-0,https://www.besoccer.com/match/siena/cagliari/201226361,2012,26,serie_a
+Fiorentina,Cesena,2-0,https://www.besoccer.com/match/fiorentina/ac-cesena/201226363,2012,26,serie_a
+Lecce,Genoa,2-2,https://www.besoccer.com/match/lecce/genoa/201226365,2012,26,serie_a
+Roma,Lazio,1-2,https://www.besoccer.com/match/roma/lazio/201226366,2012,26,serie_a
+Bologna,Novara,1-0,https://www.besoccer.com/match/bologna/novara-calcio/201226369,2012,26,serie_a
+Inter,Catania,2-2,https://www.besoccer.com/match/internazionale/catania/201226362,2012,26,serie_a
+Napoli,Cagliari,6-3,https://www.besoccer.com/match/napoli/cagliari/201226371,2012,27,serie_a
+Chievo,Inter,0-2,https://www.besoccer.com/match/chievo/internazionale/201226373,2012,27,serie_a
+Palermo FC,Roma,0-1,https://www.besoccer.com/match/palermo/roma/201226377,2012,27,serie_a
+Catania,Fiorentina,1-0,https://www.besoccer.com/match/catania/fiorentina/201226372,2012,27,serie_a
+Genoa,Juventus,0-0,https://www.besoccer.com/match/genoa/juventus-fc/201226374,2012,27,serie_a
+Milan,Lecce,2-0,https://www.besoccer.com/match/milan/lecce/201226375,2012,27,serie_a
+Atalanta,Parma,1-1,https://www.besoccer.com/match/atalanta/parma-fc/201226376,2012,27,serie_a
+Cesena,Siena,0-2,https://www.besoccer.com/match/ac-cesena/siena/201226378,2012,27,serie_a
+Lazio,Bologna,1-3,https://www.besoccer.com/match/lazio/bologna/201226370,2012,27,serie_a
+Novara,Udinese,1-0,https://www.besoccer.com/match/novara-calcio/udinese/201226379,2012,27,serie_a
+Parma,Milan,0-2,https://www.besoccer.com/match/parma-fc/milan/201226386,2012,28,serie_a
+Fiorentina,Juventus,0-5,https://www.besoccer.com/match/fiorentina/juventus-fc/201226384,2012,28,serie_a
+Cagliari,Cesena,3-0,https://www.besoccer.com/match/cagliari/ac-cesena/201226381,2012,28,serie_a
+Inter,Atalanta,0-0,https://www.besoccer.com/match/internazionale/atalanta/201226380,2012,28,serie_a
+Bologna,Chievo,2-2,https://www.besoccer.com/match/bologna/chievo/201226382,2012,28,serie_a
+Catania,Lazio,1-0,https://www.besoccer.com/match/catania/lazio/201226385,2012,28,serie_a
+Siena,Novara,0-2,https://www.besoccer.com/match/siena/novara-calcio/201226388,2012,28,serie_a
+Lecce,Palermo FC,1-1,https://www.besoccer.com/match/lecce/palermo/201226389,2012,28,serie_a
+Udinese,Napoli,2-2,https://www.besoccer.com/match/udinese/napoli/201226387,2012,28,serie_a
+Roma,Genoa,1-0,https://www.besoccer.com/match/roma/genoa/201226383,2012,28,serie_a
+Milan,Roma,2-1,https://www.besoccer.com/match/milan/roma/201226397,2012,29,serie_a
+Palermo FC,Udinese,1-1,https://www.besoccer.com/match/palermo/udinese/201226399,2012,29,serie_a
+Atalanta,Bologna,2-0,https://www.besoccer.com/match/atalanta/bologna/201226390,2012,29,serie_a
+Lazio,Cagliari,1-0,https://www.besoccer.com/match/lazio/cagliari/201226391,2012,29,serie_a
+Napoli,Catania,2-2,https://www.besoccer.com/match/napoli/catania/201226392,2012,29,serie_a
+Genoa,Fiorentina,2-2,https://www.besoccer.com/match/genoa/fiorentina/201226393,2012,29,serie_a
+Novara,Lecce,0-0,https://www.besoccer.com/match/novara-calcio/lecce/201226395,2012,29,serie_a
+Cesena,Parma,2-2,https://www.besoccer.com/match/ac-cesena/parma-fc/201226396,2012,29,serie_a
+Chievo,Siena,1-1,https://www.besoccer.com/match/chievo/siena/201226398,2012,29,serie_a
+Juventus,Inter,2-0,https://www.besoccer.com/match/juventus-fc/internazionale/201226394,2012,29,serie_a
+Catania,Milan,1-1,https://www.besoccer.com/match/catania/milan/201226405,2012,30,serie_a
+Parma,Lazio,3-1,https://www.besoccer.com/match/parma-fc/lazio/201226404,2012,30,serie_a
+Roma,Novara,5-2,https://www.besoccer.com/match/roma/novara-calcio/201226407,2012,30,serie_a
+Cagliari,Atalanta,2-0,https://www.besoccer.com/match/cagliari/atalanta/201226400,2012,30,serie_a
+Lecce,Cesena,0-0,https://www.besoccer.com/match/lecce/ac-cesena/201226401,2012,30,serie_a
+Fiorentina,Chievo,1-2,https://www.besoccer.com/match/fiorentina/chievo/201226402,2012,30,serie_a
+Inter,Genoa,5-4,https://www.besoccer.com/match/internazionale/genoa/201226403,2012,30,serie_a
+Bologna,Palermo FC,1-3,https://www.besoccer.com/match/bologna/palermo/201226408,2012,30,serie_a
+Siena,Udinese,1-0,https://www.besoccer.com/match/siena/udinese/201226409,2012,30,serie_a
+Juventus,Napoli,3-0,https://www.besoccer.com/match/juventus-fc/napoli/201226406,2012,30,serie_a
+Cesena,Bologna,0-0,https://www.besoccer.com/match/ac-cesena/bologna/201226410,2012,31,serie_a
+Chievo,Catania,3-2,https://www.besoccer.com/match/chievo/catania/201226411,2012,31,serie_a
+Milan,Fiorentina,1-2,https://www.besoccer.com/match/milan/fiorentina/201226412,2012,31,serie_a
+Novara,Genoa,1-1,https://www.besoccer.com/match/novara-calcio/genoa/201226413,2012,31,serie_a
+Cagliari,Inter,2-2,https://www.besoccer.com/match/cagliari/internazionale/201226414,2012,31,serie_a
+Udinese,Parma,3-1,https://www.besoccer.com/match/udinese/parma-fc/201226417,2012,31,serie_a
+Lecce,Roma,4-2,https://www.besoccer.com/match/lecce/roma/201226418,2012,31,serie_a
+Atalanta,Siena,1-2,https://www.besoccer.com/match/atalanta/siena/201226419,2012,31,serie_a
+Palermo FC,Juventus,0-2,https://www.besoccer.com/match/palermo/juventus-fc/201226415,2012,31,serie_a
+Lazio,Napoli,3-1,https://www.besoccer.com/match/lazio/napoli/201226416,2012,31,serie_a
+Chievo,Milan,0-1,https://www.besoccer.com/match/chievo/milan/201226425,2012,32,serie_a
+Napoli,Atalanta,1-3,https://www.besoccer.com/match/napoli/atalanta/201226420,2012,32,serie_a
+Genoa,Cesena,1-1,https://www.besoccer.com/match/genoa/ac-cesena/201226422,2012,32,serie_a
+Juventus,Lazio,2-1,https://www.besoccer.com/match/juventus-fc/lazio/201226423,2012,32,serie_a
+Catania,Lecce,1-2,https://www.besoccer.com/match/catania/lecce/201226424,2012,32,serie_a
+Parma,Novara,2-0,https://www.besoccer.com/match/parma-fc/novara-calcio/201226426,2012,32,serie_a
+Fiorentina,Palermo FC,0-0,https://www.besoccer.com/match/fiorentina/palermo/201226427,2012,32,serie_a
+Inter,Siena,2-1,https://www.besoccer.com/match/internazionale/siena/201226428,2012,32,serie_a
+Roma,Udinese,3-1,https://www.besoccer.com/match/roma/udinese/201226429,2012,32,serie_a
+Bologna,Cagliari,1-0,https://www.besoccer.com/match/bologna/cagliari/201226421,2012,32,serie_a
+Cagliari,Catania,3-0,https://www.besoccer.com/match/cagliari/catania/201226431,2012,33,serie_a
+Atalanta,Chievo,1-0,https://www.besoccer.com/match/atalanta/chievo/201226432,2012,33,serie_a
+Novara,Lazio,2-1,https://www.besoccer.com/match/novara-calcio/lazio/201226437,2012,33,serie_a
+Siena,Bologna,2-0,https://www.besoccer.com/match/siena/bologna/201226430,2012,33,serie_a
+Roma,Fiorentina,1-2,https://www.besoccer.com/match/roma/fiorentina/201226433,2012,33,serie_a
+Udinese,Inter,1-3,https://www.besoccer.com/match/udinese/internazionale/201226435,2012,33,serie_a
+Lecce,Napoli,0-2,https://www.besoccer.com/match/lecce/napoli/201226438,2012,33,serie_a
+Palermo FC,Parma,1-2,https://www.besoccer.com/match/palermo/parma-fc/201226439,2012,33,serie_a
+Milan,Genoa,1-0,https://www.besoccer.com/match/milan/genoa/201226434,2012,33,serie_a
+Cesena,Juventus,0-1,https://www.besoccer.com/match/ac-cesena/juventus-fc/201226436,2012,33,serie_a
+Parma,Cagliari,3-0,https://www.besoccer.com/match/parma-fc/cagliari/201226442,2012,34,serie_a
+Chievo,Udinese,0-0,https://www.besoccer.com/match/chievo/udinese/201226449,2012,34,serie_a
+Catania,Atalanta,2-0,https://www.besoccer.com/match/catania/atalanta/201226440,2012,34,serie_a
+Napoli,Novara,2-0,https://www.besoccer.com/match/napoli/novara-calcio/201226445,2012,34,serie_a
+Fiorentina,Inter,0-0,https://www.besoccer.com/match/fiorentina/internazionale/201226443,2012,34,serie_a
+Milan,Bologna,1-1,https://www.besoccer.com/match/milan/bologna/201226441,2012,34,serie_a
+Lazio,Lecce,1-1,https://www.besoccer.com/match/lazio/lecce/201226444,2012,34,serie_a
+Cesena,Palermo FC,2-2,https://www.besoccer.com/match/ac-cesena/palermo/201226446,2012,34,serie_a
+Genoa,Siena,1-4,https://www.besoccer.com/match/genoa/siena/201226448,2012,34,serie_a
+Juventus,Roma,4-0,https://www.besoccer.com/match/juventus-fc/roma/201226447,2012,34,serie_a
+Palermo FC,Catania,1-1,https://www.besoccer.com/match/palermo/catania/201226450,2012,35,serie_a
+Cagliari,Chievo,0-0,https://www.besoccer.com/match/cagliari/chievo/201226452,2012,35,serie_a
+Roma,Napoli,2-2,https://www.besoccer.com/match/roma/napoli/201226458,2012,35,serie_a
+Bologna,Genoa,3-2,https://www.besoccer.com/match/bologna/genoa/201226454,2012,35,serie_a
+Inter,Cesena,2-1,https://www.besoccer.com/match/internazionale/ac-cesena/201226451,2012,35,serie_a
+Atalanta,Fiorentina,2-0,https://www.besoccer.com/match/atalanta/fiorentina/201226453,2012,35,serie_a
+Novara,Juventus,0-4,https://www.besoccer.com/match/novara-calcio/juventus-fc/201226455,2012,35,serie_a
+Siena,Milan,1-4,https://www.besoccer.com/match/siena/milan/201226457,2012,35,serie_a
+Lecce,Parma,1-2,https://www.besoccer.com/match/lecce/parma-fc/201226459,2012,35,serie_a
+Udinese,Lazio,2-0,https://www.besoccer.com/match/udinese/lazio/201226456,2012,35,serie_a
+Chievo,Roma,0-0,https://www.besoccer.com/match/chievo/roma/201226467,2012,36,serie_a
+Napoli,Palermo FC,2-0,https://www.besoccer.com/match/napoli/palermo/201226466,2012,36,serie_a
+Milan,Atalanta,2-0,https://www.besoccer.com/match/milan/atalanta/201226460,2012,36,serie_a
+Catania,Bologna,0-1,https://www.besoccer.com/match/catania/bologna/201226461,2012,36,serie_a
+Genoa,Cagliari,2-1,https://www.besoccer.com/match/genoa/cagliari/201226462,2012,36,serie_a
+Parma,Inter,3-1,https://www.besoccer.com/match/parma-fc/internazionale/201226463,2012,36,serie_a
+Juventus,Lecce,1-1,https://www.besoccer.com/match/juventus-fc/lecce/201226464,2012,36,serie_a
+Fiorentina,Novara,2-2,https://www.besoccer.com/match/fiorentina/novara-calcio/201226465,2012,36,serie_a
+Lazio,Siena,1-1,https://www.besoccer.com/match/lazio/siena/201226468,2012,36,serie_a
+Cesena,Udinese,0-1,https://www.besoccer.com/match/ac-cesena/udinese/201226469,2012,36,serie_a
+Lecce,Fiorentina,0-1,https://www.besoccer.com/match/lecce/fiorentina/201226473,2012,37,serie_a
+Roma,Catania,2-2,https://www.besoccer.com/match/roma/catania/201226470,2012,37,serie_a
+Siena,Parma,0-2,https://www.besoccer.com/match/siena/parma-fc/201226479,2012,37,serie_a
+Novara,Cesena,3-0,https://www.besoccer.com/match/novara-calcio/ac-cesena/201226471,2012,37,serie_a
+Palermo FC,Chievo,4-4,https://www.besoccer.com/match/palermo/chievo/201226472,2012,37,serie_a
+Udinese,Genoa,2-0,https://www.besoccer.com/match/udinese/genoa/201226474,2012,37,serie_a
+Atalanta,Lazio,0-2,https://www.besoccer.com/match/atalanta/lazio/201226476,2012,37,serie_a
+Bologna,Napoli,2-0,https://www.besoccer.com/match/bologna/napoli/201226478,2012,37,serie_a
+Cagliari,Juventus,0-2,https://www.besoccer.com/match/cagliari/juventus-fc/201226475,2012,37,serie_a
+Inter,Milan,4-2,https://www.besoccer.com/match/internazionale/milan/201226477,2012,37,serie_a
+Juventus,Atalanta,3-1,https://www.besoccer.com/match/juventus-fc/atalanta/201226480,2012,38,serie_a
+Fiorentina,Cagliari,0-0,https://www.besoccer.com/match/fiorentina/cagliari/201226482,2012,38,serie_a
+Milan,Novara,2-1,https://www.besoccer.com/match/milan/novara-calcio/201226485,2012,38,serie_a
+Parma,Bologna,1-0,https://www.besoccer.com/match/parma-fc/bologna/201226481,2012,38,serie_a
+Cesena,Roma,2-3,https://www.besoccer.com/match/ac-cesena/roma/201226487,2012,38,serie_a
+Lazio,Inter,3-1,https://www.besoccer.com/match/lazio/internazionale/201226483,2012,38,serie_a
+Chievo,Lecce,1-0,https://www.besoccer.com/match/chievo/lecce/201226484,2012,38,serie_a
+Genoa,Palermo FC,2-0,https://www.besoccer.com/match/genoa/palermo/201226486,2012,38,serie_a
+Napoli,Siena,2-1,https://www.besoccer.com/match/napoli/siena/201226488,2012,38,serie_a
+Catania,Udinese,0-2,https://www.besoccer.com/match/catania/udinese/201226489,2012,38,serie_a

@@ -1,0 +1,463 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Parma,Cremonese,1-0,https://www.besoccer.com/match/parma-fc/us-cremonese/2018539560,2018,1,serie_b
+Avellino,Brescia,2-1,https://www.besoccer.com/match/us-avellino/brescia/2018539555,2018,1,serie_b
+Carpi,Novara,1-0,https://www.besoccer.com/match/carpi/novara-calcio/2018539557,2018,1,serie_b
+Cittadella,Ascoli,3-2,https://www.besoccer.com/match/as-cittadella/ascoli/2018539558,2018,1,serie_b
+Palermo FC,Spezia,2-0,https://www.besoccer.com/match/palermo/asd-spezia/2018539559,2018,1,serie_b
+Pro Vercelli,Frosinone,0-2,https://www.besoccer.com/match/us-pro-vercelli-calcio/frosinone-calcio/2018539562,2018,1,serie_b
+Ternana Calcio,Empoli,1-1,https://www.besoccer.com/match/ternana-calcio/empoli-fc/2018539563,2018,1,serie_b
+Virtus Entella,Perugia,1-5,https://www.besoccer.com/match/virtus-entella/perugia/2018539564,2018,1,serie_b
+Venezia,Salernitana,0-0,https://www.besoccer.com/match/venezia/salernitana-calcio-1919/2018539565,2018,1,serie_b
+Pescara,Calcio Foggia,5-1,https://www.besoccer.com/match/pescara-calcio/us-foggia/2018539561,2018,1,serie_b
+SSC Bari,Cesena,3-0,https://www.besoccer.com/match/as-bari/ac-cesena/2018539556,2018,1,serie_b
+Brescia,Palermo FC,0-0,https://www.besoccer.com/match/brescia/palermo/2018539567,2018,2,serie_b
+Empoli,SSC Bari,3-2,https://www.besoccer.com/match/empoli-fc/as-bari/2018539570,2018,2,serie_b
+Ascoli,Pro Vercelli,1-0,https://www.besoccer.com/match/ascoli/us-pro-vercelli-calcio/2018539566,2018,2,serie_b
+Cesena,Venezia,0-0,https://www.besoccer.com/match/ac-cesena/venezia/2018539568,2018,2,serie_b
+Cremonese,Avellino,3-1,https://www.besoccer.com/match/us-cremonese/us-avellino/2018539569,2018,2,serie_b
+Calcio Foggia,Virtus Entella,1-1,https://www.besoccer.com/match/us-foggia/virtus-entella/2018539571,2018,2,serie_b
+Frosinone,Cittadella,2-1,https://www.besoccer.com/match/frosinone-calcio/as-cittadella/2018539572,2018,2,serie_b
+Novara,Parma,0-1,https://www.besoccer.com/match/novara-calcio/parma-fc/2018539573,2018,2,serie_b
+Perugia,Pescara,4-2,https://www.besoccer.com/match/perugia/pescara-calcio/2018539574,2018,2,serie_b
+Spezia,Carpi,0-1,https://www.besoccer.com/match/asd-spezia/carpi/2018539576,2018,2,serie_b
+Salernitana,Ternana Calcio,3-3,https://www.besoccer.com/match/salernitana-calcio-1919/ternana-calcio/2018539575,2018,2,serie_b
+Pescara,Frosinone,3-3,https://www.besoccer.com/match/pescara-calcio/frosinone-calcio/2018539584,2018,3,serie_b
+Ascoli,Novara,1-2,https://www.besoccer.com/match/ascoli/novara-calcio/2018539577,2018,3,serie_b
+Avellino,Calcio Foggia,5-1,https://www.besoccer.com/match/us-avellino/us-foggia/2018539578,2018,3,serie_b
+SSC Bari,Venezia,0-2,https://www.besoccer.com/match/as-bari/venezia/2018539579,2018,3,serie_b
+Carpi,Salernitana,1-0,https://www.besoccer.com/match/carpi/salernitana-calcio-1919/2018539580,2018,3,serie_b
+Palermo FC,Empoli,3-3,https://www.besoccer.com/match/palermo/empoli-fc/2018539582,2018,3,serie_b
+Pro Vercelli,Cremonese,1-4,https://www.besoccer.com/match/us-pro-vercelli-calcio/us-cremonese/2018539585,2018,3,serie_b
+Spezia,Virtus Entella,2-1,https://www.besoccer.com/match/asd-spezia/virtus-entella/2018539586,2018,3,serie_b
+Ternana Calcio,Cesena,1-0,https://www.besoccer.com/match/ternana-calcio/ac-cesena/2018539587,2018,3,serie_b
+Parma,Brescia,0-1,https://www.besoccer.com/match/parma-fc/brescia/2018539583,2018,3,serie_b
+Cittadella,Perugia,1-1,https://www.besoccer.com/match/as-cittadella/perugia/2018539581,2018,3,serie_b
+Venezia,Spezia,0-0,https://www.besoccer.com/match/venezia/asd-spezia/2018539598,2018,4,serie_b
+Cesena,Avellino,3-1,https://www.besoccer.com/match/ac-cesena/us-avellino/2018539589,2018,4,serie_b
+Brescia,Pro Vercelli,0-0,https://www.besoccer.com/match/brescia/us-pro-vercelli-calcio/2018539588,2018,4,serie_b
+Cremonese,Carpi,1-1,https://www.besoccer.com/match/us-cremonese/carpi/2018539590,2018,4,serie_b
+Empoli,Ascoli,3-0,https://www.besoccer.com/match/empoli-fc/ascoli/2018539591,2018,4,serie_b
+Calcio Foggia,Palermo FC,1-1,https://www.besoccer.com/match/us-foggia/palermo/2018539592,2018,4,serie_b
+Frosinone,SSC Bari,3-2,https://www.besoccer.com/match/frosinone-calcio/as-bari/2018539593,2018,4,serie_b
+Novara,Cittadella,1-0,https://www.besoccer.com/match/novara-calcio/as-cittadella/2018539594,2018,4,serie_b
+Perugia,Parma,3-0,https://www.besoccer.com/match/perugia/parma-fc/2018539595,2018,4,serie_b
+Salernitana,Pescara,2-2,https://www.besoccer.com/match/salernitana-calcio-1919/pescara-calcio/2018539596,2018,4,serie_b
+Virtus Entella,Ternana Calcio,3-1,https://www.besoccer.com/match/virtus-entella/ternana-calcio/2018539597,2018,4,serie_b
+Avellino,Venezia,1-1,https://www.besoccer.com/match/us-avellino/venezia/2018539600,2018,5,serie_b
+Ascoli,Frosinone,0-1,https://www.besoccer.com/match/ascoli/frosinone-calcio/2018539599,2018,5,serie_b
+SSC Bari,Cremonese,1-0,https://www.besoccer.com/match/as-bari/us-cremonese/2018539601,2018,5,serie_b
+Carpi,Calcio Foggia,1-3,https://www.besoccer.com/match/carpi/us-foggia/2018539602,2018,5,serie_b
+Cittadella,Cesena,4-0,https://www.besoccer.com/match/as-cittadella/ac-cesena/2018539603,2018,5,serie_b
+Palermo FC,Perugia,1-0,https://www.besoccer.com/match/palermo/perugia/2018539604,2018,5,serie_b
+Parma,Empoli,1-2,https://www.besoccer.com/match/parma-fc/empoli-fc/2018539605,2018,5,serie_b
+Pescara,Virtus Entella,2-2,https://www.besoccer.com/match/pescara-calcio/virtus-entella/2018539606,2018,5,serie_b
+Pro Vercelli,Salernitana,1-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/salernitana-calcio-1919/2018539607,2018,5,serie_b
+Spezia,Novara,1-0,https://www.besoccer.com/match/asd-spezia/novara-calcio/2018539608,2018,5,serie_b
+Ternana Calcio,Brescia,1-1,https://www.besoccer.com/match/ternana-calcio/brescia/2018539609,2018,5,serie_b
+SSC Bari,Ternana Calcio,3-0,https://www.besoccer.com/match/as-bari/ternana-calcio/2018539610,2018,6,serie_b
+Brescia,Calcio Foggia,2-2,https://www.besoccer.com/match/brescia/us-foggia/2018539611,2018,6,serie_b
+Cremonese,Pescara,0-0,https://www.besoccer.com/match/us-cremonese/pescara-calcio/2018539613,2018,6,serie_b
+Empoli,Cittadella,0-1,https://www.besoccer.com/match/empoli-fc/as-cittadella/2018539614,2018,6,serie_b
+Novara,Avellino,1-2,https://www.besoccer.com/match/novara-calcio/us-avellino/2018539615,2018,6,serie_b
+Perugia,Frosinone,1-0,https://www.besoccer.com/match/perugia/frosinone-calcio/2018539617,2018,6,serie_b
+Salernitana,Spezia,2-0,https://www.besoccer.com/match/salernitana-calcio-1919/asd-spezia/2018539618,2018,6,serie_b
+Virtus Entella,Carpi,0-0,https://www.besoccer.com/match/virtus-entella/carpi/2018539619,2018,6,serie_b
+Venezia,Parma,0-1,https://www.besoccer.com/match/venezia/parma-fc/2018539620,2018,6,serie_b
+Cesena,Ascoli,0-2,https://www.besoccer.com/match/ac-cesena/ascoli/2018539612,2018,6,serie_b
+Palermo FC,Pro Vercelli,2-1,https://www.besoccer.com/match/palermo/us-pro-vercelli-calcio/2018539616,2018,6,serie_b
+Parma,Salernitana,2-2,https://www.besoccer.com/match/parma-fc/salernitana-calcio-1919/2018539628,2018,7,serie_b
+Ascoli,Palermo FC,0-0,https://www.besoccer.com/match/ascoli/palermo/2018539621,2018,7,serie_b
+Avellino,Empoli,3-2,https://www.besoccer.com/match/us-avellino/empoli-fc/2018539622,2018,7,serie_b
+Brescia,Perugia,2-1,https://www.besoccer.com/match/brescia/perugia/2018539623,2018,7,serie_b
+Carpi,Pescara,0-1,https://www.besoccer.com/match/carpi/pescara-calcio/2018539624,2018,7,serie_b
+Cittadella,Virtus Entella,0-1,https://www.besoccer.com/match/as-cittadella/virtus-entella/2018539625,2018,7,serie_b
+Pro Vercelli,Cesena,5-2,https://www.besoccer.com/match/us-pro-vercelli-calcio/ac-cesena/2018539629,2018,7,serie_b
+Spezia,SSC Bari,1-0,https://www.besoccer.com/match/asd-spezia/as-bari/2018539630,2018,7,serie_b
+Ternana Calcio,Venezia,2-3,https://www.besoccer.com/match/ternana-calcio/venezia/2018539631,2018,7,serie_b
+Calcio Foggia,Novara,2-2,https://www.besoccer.com/match/us-foggia/novara-calcio/2018539626,2018,7,serie_b
+Frosinone,Cremonese,0-0,https://www.besoccer.com/match/frosinone-calcio/us-cremonese/2018539627,2018,7,serie_b
+Salernitana,Ascoli,0-0,https://www.besoccer.com/match/salernitana-calcio-1919/ascoli/2018539640,2018,8,serie_b
+Cesena,Spezia,1-0,https://www.besoccer.com/match/ac-cesena/asd-spezia/2018539633,2018,8,serie_b
+Pescara,Cittadella,1-2,https://www.besoccer.com/match/pescara-calcio/as-cittadella/2018539639,2018,8,serie_b
+SSC Bari,Avellino,2-1,https://www.besoccer.com/match/as-bari/us-avellino/2018539632,2018,8,serie_b
+Cremonese,Ternana Calcio,3-3,https://www.besoccer.com/match/us-cremonese/ternana-calcio/2018539634,2018,8,serie_b
+Empoli,Calcio Foggia,3-1,https://www.besoccer.com/match/empoli-fc/us-foggia/2018539635,2018,8,serie_b
+Palermo FC,Parma,1-1,https://www.besoccer.com/match/palermo/parma-fc/2018539637,2018,8,serie_b
+Perugia,Pro Vercelli,1-5,https://www.besoccer.com/match/perugia/us-pro-vercelli-calcio/2018539638,2018,8,serie_b
+Virtus Entella,Brescia,3-0,https://www.besoccer.com/match/virtus-entella/brescia/2018539641,2018,8,serie_b
+Venezia,Carpi,2-0,https://www.besoccer.com/match/venezia/carpi/2018539642,2018,8,serie_b
+Novara,Frosinone,2-1,https://www.besoccer.com/match/novara-calcio/frosinone-calcio/2018539636,2018,8,serie_b
+Calcio Foggia,Perugia,2-1,https://www.besoccer.com/match/us-foggia/perugia/2018539648,2018,9,serie_b
+Ascoli,Venezia,3-3,https://www.besoccer.com/match/ascoli/venezia/2018539643,2018,9,serie_b
+Brescia,Novara,0-1,https://www.besoccer.com/match/brescia/novara-calcio/2018539645,2018,9,serie_b
+Carpi,Cesena,2-1,https://www.besoccer.com/match/carpi/ac-cesena/2018539646,2018,9,serie_b
+Cittadella,Cremonese,1-2,https://www.besoccer.com/match/as-cittadella/us-cremonese/2018539647,2018,9,serie_b
+Frosinone,Palermo FC,0-0,https://www.besoccer.com/match/frosinone-calcio/palermo/2018539649,2018,9,serie_b
+Parma,Pescara,0-1,https://www.besoccer.com/match/parma-fc/pescara-calcio/2018539650,2018,9,serie_b
+Pro Vercelli,SSC Bari,2-2,https://www.besoccer.com/match/us-pro-vercelli-calcio/as-bari/2018539651,2018,9,serie_b
+Ternana Calcio,Spezia,4-2,https://www.besoccer.com/match/ternana-calcio/asd-spezia/2018539652,2018,9,serie_b
+Avellino,Salernitana,2-3,https://www.besoccer.com/match/us-avellino/salernitana-calcio-1919/2018539644,2018,9,serie_b
+Virtus Entella,Empoli,2-3,https://www.besoccer.com/match/virtus-entella/empoli-fc/2018539653,2018,9,serie_b
+Cremonese,Brescia,2-0,https://www.besoccer.com/match/us-cremonese/brescia/2018539656,2018,10,serie_b
+SSC Bari,Cittadella,4-2,https://www.besoccer.com/match/as-bari/as-cittadella/2018539654,2018,10,serie_b
+Cesena,Calcio Foggia,3-3,https://www.besoccer.com/match/ac-cesena/us-foggia/2018539655,2018,10,serie_b
+Palermo FC,Novara,0-2,https://www.besoccer.com/match/palermo/novara-calcio/2018539657,2018,10,serie_b
+Parma,Virtus Entella,3-1,https://www.besoccer.com/match/parma-fc/virtus-entella/2018539658,2018,10,serie_b
+Pescara,Avellino,2-1,https://www.besoccer.com/match/pescara-calcio/us-avellino/2018539659,2018,10,serie_b
+Pro Vercelli,Carpi,0-0,https://www.besoccer.com/match/us-pro-vercelli-calcio/carpi/2018539660,2018,10,serie_b
+Salernitana,Frosinone,1-1,https://www.besoccer.com/match/salernitana-calcio-1919/frosinone-calcio/2018539661,2018,10,serie_b
+Spezia,Perugia,4-2,https://www.besoccer.com/match/asd-spezia/perugia/2018539662,2018,10,serie_b
+Ternana Calcio,Ascoli,1-1,https://www.besoccer.com/match/ternana-calcio/ascoli/2018539663,2018,10,serie_b
+Venezia,Empoli,1-0,https://www.besoccer.com/match/venezia/empoli-fc/2018539664,2018,10,serie_b
+Brescia,SSC Bari,2-1,https://www.besoccer.com/match/brescia/as-bari/2018539667,2018,11,serie_b
+Ascoli,Spezia,3-1,https://www.besoccer.com/match/ascoli/asd-spezia/2018539665,2018,11,serie_b
+Avellino,Pro Vercelli,1-0,https://www.besoccer.com/match/us-avellino/us-pro-vercelli-calcio/2018539666,2018,11,serie_b
+Carpi,Palermo FC,1-3,https://www.besoccer.com/match/carpi/palermo/2018539668,2018,11,serie_b
+Cittadella,Venezia,2-1,https://www.besoccer.com/match/as-cittadella/venezia/2018539669,2018,11,serie_b
+Empoli,Pescara,3-1,https://www.besoccer.com/match/empoli-fc/pescara-calcio/2018539670,2018,11,serie_b
+Calcio Foggia,Parma,0-3,https://www.besoccer.com/match/us-foggia/parma-fc/2018539671,2018,11,serie_b
+Frosinone,Ternana Calcio,4-2,https://www.besoccer.com/match/frosinone-calcio/ternana-calcio/2018539672,2018,11,serie_b
+Novara,Salernitana,2-3,https://www.besoccer.com/match/novara-calcio/salernitana-calcio-1919/2018539673,2018,11,serie_b
+Perugia,Cesena,0-3,https://www.besoccer.com/match/perugia/ac-cesena/2018539674,2018,11,serie_b
+Virtus Entella,Cremonese,1-1,https://www.besoccer.com/match/virtus-entella/us-cremonese/2018539675,2018,11,serie_b
+SSC Bari,Ascoli,3-0,https://www.besoccer.com/match/as-bari/ascoli/2018539676,2018,12,serie_b
+Cesena,Novara,2-2,https://www.besoccer.com/match/ac-cesena/novara-calcio/2018539677,2018,12,serie_b
+Cremonese,Perugia,3-3,https://www.besoccer.com/match/us-cremonese/perugia/2018539678,2018,12,serie_b
+Palermo FC,Virtus Entella,2-0,https://www.besoccer.com/match/palermo/virtus-entella/2018539679,2018,12,serie_b
+Pescara,Brescia,0-3,https://www.besoccer.com/match/pescara-calcio/brescia/2018539681,2018,12,serie_b
+Salernitana,Empoli,2-1,https://www.besoccer.com/match/salernitana-calcio-1919/empoli-fc/2018539683,2018,12,serie_b
+Spezia,Cittadella,0-0,https://www.besoccer.com/match/asd-spezia/as-cittadella/2018539684,2018,12,serie_b
+Venezia,Frosinone,1-1,https://www.besoccer.com/match/venezia/frosinone-calcio/2018539686,2018,12,serie_b
+Parma,Avellino,2-0,https://www.besoccer.com/match/parma-fc/us-avellino/2018539680,2018,12,serie_b
+Pro Vercelli,Calcio Foggia,1-4,https://www.besoccer.com/match/us-pro-vercelli-calcio/us-foggia/2018539682,2018,12,serie_b
+Ternana Calcio,Carpi,0-0,https://www.besoccer.com/match/ternana-calcio/carpi/2018539685,2018,12,serie_b
+Pescara,Palermo FC,2-2,https://www.besoccer.com/match/pescara-calcio/palermo/2018539695,2018,13,serie_b
+Brescia,Venezia,1-2,https://www.besoccer.com/match/brescia/venezia/2018539687,2018,13,serie_b
+Carpi,Ascoli,4-2,https://www.besoccer.com/match/carpi/ascoli/2018539688,2018,13,serie_b
+Cittadella,Ternana Calcio,1-1,https://www.besoccer.com/match/as-cittadella/ternana-calcio/2018539689,2018,13,serie_b
+Calcio Foggia,Cremonese,2-3,https://www.besoccer.com/match/us-foggia/us-cremonese/2018539691,2018,13,serie_b
+Frosinone,Parma,2-1,https://www.besoccer.com/match/frosinone-calcio/parma-fc/2018539692,2018,13,serie_b
+Novara,Pro Vercelli,0-1,https://www.besoccer.com/match/novara-calcio/us-pro-vercelli-calcio/2018539693,2018,13,serie_b
+Salernitana,SSC Bari,2-2,https://www.besoccer.com/match/salernitana-calcio-1919/as-bari/2018539696,2018,13,serie_b
+Virtus Entella,Cesena,2-2,https://www.besoccer.com/match/virtus-entella/ac-cesena/2018539697,2018,13,serie_b
+Empoli,Spezia,1-1,https://www.besoccer.com/match/empoli-fc/asd-spezia/2018539690,2018,13,serie_b
+Perugia,Avellino,1-1,https://www.besoccer.com/match/perugia/us-avellino/2018539694,2018,13,serie_b
+Pro Vercelli,Empoli,2-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/empoli-fc/2018539705,2018,14,serie_b
+Avellino,Virtus Entella,0-0,https://www.besoccer.com/match/us-avellino/virtus-entella/2018539699,2018,14,serie_b
+Spezia,Frosinone,1-1,https://www.besoccer.com/match/asd-spezia/frosinone-calcio/2018539706,2018,14,serie_b
+Venezia,Perugia,1-0,https://www.besoccer.com/match/venezia/perugia/2018539708,2018,14,serie_b
+Ascoli,Calcio Foggia,0-2,https://www.besoccer.com/match/ascoli/us-foggia/2018539698,2018,14,serie_b
+Carpi,Brescia,1-1,https://www.besoccer.com/match/carpi/brescia/2018539701,2018,14,serie_b
+Cesena,Salernitana,3-3,https://www.besoccer.com/match/ac-cesena/salernitana-calcio-1919/2018539702,2018,14,serie_b
+Cittadella,Parma,1-2,https://www.besoccer.com/match/as-cittadella/parma-fc/2018539703,2018,14,serie_b
+Cremonese,Palermo FC,1-2,https://www.besoccer.com/match/us-cremonese/palermo/2018539704,2018,14,serie_b
+Ternana Calcio,Novara,1-1,https://www.besoccer.com/match/ternana-calcio/novara-calcio/2018539707,2018,14,serie_b
+SSC Bari,Pescara,1-0,https://www.besoccer.com/match/as-bari/pescara-calcio/2018539700,2018,14,serie_b
+Frosinone,Avellino,1-1,https://www.besoccer.com/match/frosinone-calcio/us-avellino/2018539712,2018,15,serie_b
+Brescia,Spezia,1-1,https://www.besoccer.com/match/brescia/asd-spezia/2018539709,2018,15,serie_b
+Empoli,Cesena,5-3,https://www.besoccer.com/match/empoli-fc/ac-cesena/2018539710,2018,15,serie_b
+Calcio Foggia,Ternana Calcio,1-1,https://www.besoccer.com/match/us-foggia/ternana-calcio/2018539711,2018,15,serie_b
+Novara,SSC Bari,1-2,https://www.besoccer.com/match/novara-calcio/as-bari/2018539713,2018,15,serie_b
+Parma,Ascoli,4-0,https://www.besoccer.com/match/parma-fc/ascoli/2018539715,2018,15,serie_b
+Perugia,Carpi,5-0,https://www.besoccer.com/match/perugia/carpi/2018539716,2018,15,serie_b
+Pescara,Pro Vercelli,3-1,https://www.besoccer.com/match/pescara-calcio/us-pro-vercelli-calcio/2018539717,2018,15,serie_b
+Virtus Entella,Venezia,0-0,https://www.besoccer.com/match/virtus-entella/venezia/2018539719,2018,15,serie_b
+Salernitana,Cremonese,1-1,https://www.besoccer.com/match/salernitana-calcio-1919/us-cremonese/2018539718,2018,15,serie_b
+Palermo FC,Cittadella,0-3,https://www.besoccer.com/match/palermo/as-cittadella/2018539714,2018,15,serie_b
+Empoli,Frosinone,3-3,https://www.besoccer.com/match/empoli-fc/frosinone-calcio/2018539726,2018,16,serie_b
+Ascoli,Cremonese,0-0,https://www.besoccer.com/match/ascoli/us-cremonese/2018539720,2018,16,serie_b
+Avellino,Palermo FC,1-3,https://www.besoccer.com/match/us-avellino/palermo/2018539721,2018,16,serie_b
+Carpi,Parma,2-1,https://www.besoccer.com/match/carpi/parma-fc/2018539723,2018,16,serie_b
+Cittadella,Salernitana,2-1,https://www.besoccer.com/match/as-cittadella/salernitana-calcio-1919/2018539725,2018,16,serie_b
+Pro Vercelli,Virtus Entella,1-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/virtus-entella/2018539727,2018,16,serie_b
+Spezia,Pescara,4-0,https://www.besoccer.com/match/asd-spezia/pescara-calcio/2018539728,2018,16,serie_b
+Venezia,Novara,1-3,https://www.besoccer.com/match/venezia/novara-calcio/2018539730,2018,16,serie_b
+SSC Bari,Calcio Foggia,1-0,https://www.besoccer.com/match/as-bari/us-foggia/2018539722,2018,16,serie_b
+Ternana Calcio,Perugia,1-1,https://www.besoccer.com/match/ternana-calcio/perugia/2018539729,2018,16,serie_b
+Cesena,Brescia,1-0,https://www.besoccer.com/match/ac-cesena/brescia/2018539724,2018,16,serie_b
+Brescia,Salernitana,2-0,https://www.besoccer.com/match/brescia/salernitana-calcio-1919/2018539732,2018,17,serie_b
+Cremonese,Spezia,1-0,https://www.besoccer.com/match/us-cremonese/asd-spezia/2018539733,2018,17,serie_b
+Calcio Foggia,Cittadella,1-3,https://www.besoccer.com/match/us-foggia/as-cittadella/2018539734,2018,17,serie_b
+Frosinone,Cesena,3-3,https://www.besoccer.com/match/frosinone-calcio/ac-cesena/2018539735,2018,17,serie_b
+Novara,Empoli,1-1,https://www.besoccer.com/match/novara-calcio/empoli-fc/2018539736,2018,17,serie_b
+Parma,Pro Vercelli,3-0,https://www.besoccer.com/match/parma-fc/us-pro-vercelli-calcio/2018539738,2018,17,serie_b
+Pescara,Ternana Calcio,3-3,https://www.besoccer.com/match/pescara-calcio/ternana-calcio/2018539740,2018,17,serie_b
+Palermo FC,Venezia,0-0,https://www.besoccer.com/match/palermo/venezia/2018539737,2018,17,serie_b
+Avellino,Carpi,1-1,https://www.besoccer.com/match/us-avellino/carpi/2018539731,2018,17,serie_b
+Virtus Entella,SSC Bari,3-1,https://www.besoccer.com/match/virtus-entella/as-bari/2018539741,2018,17,serie_b
+Perugia,Ascoli,1-0,https://www.besoccer.com/match/perugia/ascoli/2018539739,2018,17,serie_b
+Novara,Cremonese,1-1,https://www.besoccer.com/match/novara-calcio/us-cremonese/2018539748,2018,18,serie_b
+Ternana Calcio,Parma,1-1,https://www.besoccer.com/match/ternana-calcio/parma-fc/2018539751,2018,18,serie_b
+Cesena,Pescara,4-2,https://www.besoccer.com/match/ac-cesena/pescara-calcio/2018539744,2018,18,serie_b
+Spezia,Calcio Foggia,1-0,https://www.besoccer.com/match/asd-spezia/us-foggia/2018539750,2018,18,serie_b
+Salernitana,Perugia,1-1,https://www.besoccer.com/match/salernitana-calcio-1919/perugia/2018539749,2018,18,serie_b
+Ascoli,Virtus Entella,1-1,https://www.besoccer.com/match/ascoli/virtus-entella/2018539742,2018,18,serie_b
+Cittadella,Avellino,2-2,https://www.besoccer.com/match/as-cittadella/us-avellino/2018539745,2018,18,serie_b
+Empoli,Carpi,1-0,https://www.besoccer.com/match/empoli-fc/carpi/2018539746,2018,18,serie_b
+Frosinone,Brescia,2-0,https://www.besoccer.com/match/frosinone-calcio/brescia/2018539747,2018,18,serie_b
+Venezia,Pro Vercelli,1-1,https://www.besoccer.com/match/venezia/us-pro-vercelli-calcio/2018539752,2018,18,serie_b
+SSC Bari,Palermo FC,0-3,https://www.besoccer.com/match/as-bari/palermo/2018539743,2018,18,serie_b
+Calcio Foggia,Venezia,2-2,https://www.besoccer.com/match/us-foggia/venezia/2018539757,2018,19,serie_b
+Avellino,Ascoli,1-1,https://www.besoccer.com/match/us-avellino/ascoli/2018539753,2018,19,serie_b
+Carpi,Frosinone,1-1,https://www.besoccer.com/match/carpi/frosinone-calcio/2018539755,2018,19,serie_b
+Cremonese,Empoli,1-1,https://www.besoccer.com/match/us-cremonese/empoli-fc/2018539756,2018,19,serie_b
+Palermo FC,Ternana Calcio,1-0,https://www.besoccer.com/match/palermo/ternana-calcio/2018539758,2018,19,serie_b
+Parma,Cesena,0-0,https://www.besoccer.com/match/parma-fc/ac-cesena/2018539759,2018,19,serie_b
+Perugia,SSC Bari,1-3,https://www.besoccer.com/match/perugia/as-bari/2018539760,2018,19,serie_b
+Pro Vercelli,Spezia,0-2,https://www.besoccer.com/match/us-pro-vercelli-calcio/asd-spezia/2018539762,2018,19,serie_b
+Virtus Entella,Salernitana,0-2,https://www.besoccer.com/match/virtus-entella/salernitana-calcio-1919/2018539763,2018,19,serie_b
+Brescia,Cittadella,1-1,https://www.besoccer.com/match/brescia/as-cittadella/2018539754,2018,19,serie_b
+Pescara,Novara,1-0,https://www.besoccer.com/match/pescara-calcio/novara-calcio/2018539761,2018,19,serie_b
+Venezia,Cremonese,1-1,https://www.besoccer.com/match/venezia/us-cremonese/2018539774,2018,20,serie_b
+Ascoli,Pescara,1-1,https://www.besoccer.com/match/ascoli/pescara-calcio/2018539764,2018,20,serie_b
+SSC Bari,Parma,0-0,https://www.besoccer.com/match/as-bari/parma-fc/2018539765,2018,20,serie_b
+Cesena,Palermo FC,1-1,https://www.besoccer.com/match/ac-cesena/palermo/2018539766,2018,20,serie_b
+Cittadella,Carpi,0-1,https://www.besoccer.com/match/as-cittadella/carpi/2018539767,2018,20,serie_b
+Empoli,Brescia,1-1,https://www.besoccer.com/match/empoli-fc/brescia/2018539768,2018,20,serie_b
+Frosinone,Virtus Entella,4-3,https://www.besoccer.com/match/frosinone-calcio/virtus-entella/2018539769,2018,20,serie_b
+Novara,Perugia,1-1,https://www.besoccer.com/match/novara-calcio/perugia/2018539770,2018,20,serie_b
+Salernitana,Calcio Foggia,0-3,https://www.besoccer.com/match/salernitana-calcio-1919/us-foggia/2018539771,2018,20,serie_b
+Spezia,Avellino,1-0,https://www.besoccer.com/match/asd-spezia/us-avellino/2018539772,2018,20,serie_b
+Ternana Calcio,Pro Vercelli,4-3,https://www.besoccer.com/match/ternana-calcio/us-pro-vercelli-calcio/2018539773,2018,20,serie_b
+Parma,Spezia,0-0,https://www.besoccer.com/match/parma-fc/asd-spezia/2018539781,2018,21,serie_b
+Avellino,Ternana Calcio,2-1,https://www.besoccer.com/match/us-avellino/ternana-calcio/2018539775,2018,21,serie_b
+Brescia,Ascoli,0-1,https://www.besoccer.com/match/brescia/ascoli/2018539776,2018,21,serie_b
+Carpi,SSC Bari,0-0,https://www.besoccer.com/match/carpi/as-bari/2018539777,2018,21,serie_b
+Cremonese,Cesena,1-0,https://www.besoccer.com/match/us-cremonese/ac-cesena/2018539778,2018,21,serie_b
+Calcio Foggia,Frosinone,1-2,https://www.besoccer.com/match/us-foggia/frosinone-calcio/2018539779,2018,21,serie_b
+Palermo FC,Salernitana,3-0,https://www.besoccer.com/match/palermo/salernitana-calcio-1919/2018539780,2018,21,serie_b
+Perugia,Empoli,2-4,https://www.besoccer.com/match/perugia/empoli-fc/2018539782,2018,21,serie_b
+Pescara,Venezia,1-0,https://www.besoccer.com/match/pescara-calcio/venezia/2018539783,2018,21,serie_b
+Pro Vercelli,Cittadella,1-2,https://www.besoccer.com/match/us-pro-vercelli-calcio/as-cittadella/2018539784,2018,21,serie_b
+Virtus Entella,Novara,2-1,https://www.besoccer.com/match/virtus-entella/novara-calcio/2018539785,2018,21,serie_b
+Novara,Carpi,1-0,https://www.besoccer.com/match/novara-calcio/carpi/2018539788,2018,22,serie_b
+Ascoli,Cittadella,1-2,https://www.besoccer.com/match/ascoli/as-cittadella/2018539789,2018,22,serie_b
+Cremonese,Parma,1-0,https://www.besoccer.com/match/us-cremonese/parma-fc/2018539791,2018,22,serie_b
+Calcio Foggia,Pescara,0-1,https://www.besoccer.com/match/us-foggia/pescara-calcio/2018539792,2018,22,serie_b
+Frosinone,Pro Vercelli,4-0,https://www.besoccer.com/match/frosinone-calcio/us-pro-vercelli-calcio/2018539793,2018,22,serie_b
+Empoli,Ternana Calcio,2-1,https://www.besoccer.com/match/empoli-fc/ternana-calcio/2018539794,2018,22,serie_b
+Perugia,Virtus Entella,2-0,https://www.besoccer.com/match/perugia/virtus-entella/2018539795,2018,22,serie_b
+Salernitana,Venezia,3-2,https://www.besoccer.com/match/salernitana-calcio-1919/venezia/2018539796,2018,22,serie_b
+Spezia,Palermo FC,0-0,https://www.besoccer.com/match/asd-spezia/palermo/2018539790,2018,22,serie_b
+Cesena,SSC Bari,1-1,https://www.besoccer.com/match/ac-cesena/as-bari/2018539787,2018,22,serie_b
+Brescia,Avellino,2-3,https://www.besoccer.com/match/brescia/us-avellino/2018539786,2018,22,serie_b
+Pescara,Perugia,0-2,https://www.besoccer.com/match/pescara-calcio/perugia/2018539805,2018,23,serie_b
+Pro Vercelli,Ascoli,2-0,https://www.besoccer.com/match/us-pro-vercelli-calcio/ascoli/2018539797,2018,23,serie_b
+Palermo FC,Brescia,2-0,https://www.besoccer.com/match/palermo/brescia/2018539798,2018,23,serie_b
+Venezia,Cesena,1-0,https://www.besoccer.com/match/venezia/ac-cesena/2018539799,2018,23,serie_b
+Avellino,Cremonese,0-0,https://www.besoccer.com/match/us-avellino/us-cremonese/2018539800,2018,23,serie_b
+SSC Bari,Empoli,0-4,https://www.besoccer.com/match/as-bari/empoli-fc/2018539801,2018,23,serie_b
+Virtus Entella,Calcio Foggia,1-2,https://www.besoccer.com/match/virtus-entella/us-foggia/2018539802,2018,23,serie_b
+Parma,Novara,3-0,https://www.besoccer.com/match/parma-fc/novara-calcio/2018539804,2018,23,serie_b
+Carpi,Spezia,2-1,https://www.besoccer.com/match/carpi/asd-spezia/2018539807,2018,23,serie_b
+Cittadella,Frosinone,1-2,https://www.besoccer.com/match/as-cittadella/frosinone-calcio/2018539803,2018,23,serie_b
+Ternana Calcio,Salernitana,2-2,https://www.besoccer.com/match/ternana-calcio/salernitana-calcio-1919/2018539806,2018,23,serie_b
+Empoli,Palermo FC,4-0,https://www.besoccer.com/match/empoli-fc/palermo/2018539813,2018,24,serie_b
+Novara,Ascoli,1-2,https://www.besoccer.com/match/novara-calcio/ascoli/2018539808,2018,24,serie_b
+Calcio Foggia,Avellino,2-1,https://www.besoccer.com/match/us-foggia/us-avellino/2018539809,2018,24,serie_b
+Venezia,SSC Bari,3-1,https://www.besoccer.com/match/venezia/as-bari/2018539810,2018,24,serie_b
+Salernitana,Carpi,1-2,https://www.besoccer.com/match/salernitana-calcio-1919/carpi/2018539811,2018,24,serie_b
+Perugia,Cittadella,1-3,https://www.besoccer.com/match/perugia/as-cittadella/2018539812,2018,24,serie_b
+Brescia,Parma,2-1,https://www.besoccer.com/match/brescia/parma-fc/2018539814,2018,24,serie_b
+Frosinone,Pescara,3-0,https://www.besoccer.com/match/frosinone-calcio/pescara-calcio/2018539815,2018,24,serie_b
+Cremonese,Pro Vercelli,2-3,https://www.besoccer.com/match/us-cremonese/us-pro-vercelli-calcio/2018539816,2018,24,serie_b
+Cesena,Ternana Calcio,4-3,https://www.besoccer.com/match/ac-cesena/ternana-calcio/2018539818,2018,24,serie_b
+Virtus Entella,Spezia,0-1,https://www.besoccer.com/match/virtus-entella/asd-spezia/2018539817,2018,24,serie_b
+Pro Vercelli,Brescia,0-0,https://www.besoccer.com/match/us-pro-vercelli-calcio/brescia/2018539819,2018,25,serie_b
+Avellino,Cesena,1-1,https://www.besoccer.com/match/us-avellino/ac-cesena/2018539820,2018,25,serie_b
+Carpi,Cremonese,1-1,https://www.besoccer.com/match/carpi/us-cremonese/2018539821,2018,25,serie_b
+Ascoli,Empoli,1-2,https://www.besoccer.com/match/ascoli/empoli-fc/2018539822,2018,25,serie_b
+SSC Bari,Frosinone,1-0,https://www.besoccer.com/match/as-bari/frosinone-calcio/2018539824,2018,25,serie_b
+Pescara,Salernitana,1-0,https://www.besoccer.com/match/pescara-calcio/salernitana-calcio-1919/2018539827,2018,25,serie_b
+Ternana Calcio,Virtus Entella,0-1,https://www.besoccer.com/match/ternana-calcio/virtus-entella/2018539828,2018,25,serie_b
+Spezia,Venezia,1-1,https://www.besoccer.com/match/asd-spezia/venezia/2018539829,2018,25,serie_b
+Parma,Perugia,1-1,https://www.besoccer.com/match/parma-fc/perugia/2018539826,2018,25,serie_b
+Cittadella,Novara,1-3,https://www.besoccer.com/match/as-cittadella/novara-calcio/2018539825,2018,25,serie_b
+Palermo FC,Calcio Foggia,1-2,https://www.besoccer.com/match/palermo/us-foggia/2018539823,2018,25,serie_b
+Cremonese,SSC Bari,0-1,https://www.besoccer.com/match/us-cremonese/as-bari/2018539832,2018,26,serie_b
+Venezia,Avellino,3-1,https://www.besoccer.com/match/venezia/us-avellino/2018539831,2018,26,serie_b
+Calcio Foggia,Carpi,3-0,https://www.besoccer.com/match/us-foggia/carpi/2018539833,2018,26,serie_b
+Cesena,Cittadella,0-1,https://www.besoccer.com/match/ac-cesena/as-cittadella/2018539834,2018,26,serie_b
+Perugia,Palermo FC,1-0,https://www.besoccer.com/match/perugia/palermo/2018539835,2018,26,serie_b
+Empoli,Parma,4-0,https://www.besoccer.com/match/empoli-fc/parma-fc/2018539836,2018,26,serie_b
+Virtus Entella,Pescara,0-0,https://www.besoccer.com/match/virtus-entella/pescara-calcio/2018539837,2018,26,serie_b
+Salernitana,Pro Vercelli,0-0,https://www.besoccer.com/match/salernitana-calcio-1919/us-pro-vercelli-calcio/2018539838,2018,26,serie_b
+Novara,Spezia,1-1,https://www.besoccer.com/match/novara-calcio/asd-spezia/2018539839,2018,26,serie_b
+Frosinone,Ascoli,2-0,https://www.besoccer.com/match/frosinone-calcio/ascoli/2018539830,2018,26,serie_b
+Brescia,Ternana Calcio,3-1,https://www.besoccer.com/match/brescia/ternana-calcio/2018539840,2018,26,serie_b
+Spezia,Salernitana,3-0,https://www.besoccer.com/match/asd-spezia/salernitana-calcio-1919/2018539849,2018,27,serie_b
+Parma,Venezia,1-1,https://www.besoccer.com/match/parma-fc/venezia/2018539851,2018,27,serie_b
+Ternana Calcio,SSC Bari,1-2,https://www.besoccer.com/match/ternana-calcio/as-bari/2018539841,2018,27,serie_b
+Calcio Foggia,Brescia,1-2,https://www.besoccer.com/match/us-foggia/brescia/2018539842,2018,27,serie_b
+Ascoli,Cesena,2-1,https://www.besoccer.com/match/ascoli/ac-cesena/2018539843,2018,27,serie_b
+Pescara,Cremonese,0-0,https://www.besoccer.com/match/pescara-calcio/us-cremonese/2018539844,2018,27,serie_b
+Cittadella,Empoli,1-1,https://www.besoccer.com/match/as-cittadella/empoli-fc/2018539845,2018,27,serie_b
+Avellino,Novara,2-1,https://www.besoccer.com/match/us-avellino/novara-calcio/2018539846,2018,27,serie_b
+Pro Vercelli,Palermo FC,0-0,https://www.besoccer.com/match/us-pro-vercelli-calcio/palermo/2018539847,2018,27,serie_b
+Frosinone,Perugia,1-3,https://www.besoccer.com/match/frosinone-calcio/perugia/2018539848,2018,27,serie_b
+Carpi,Virtus Entella,0-0,https://www.besoccer.com/match/carpi/virtus-entella/2018539850,2018,27,serie_b
+Salernitana,Parma,0-1,https://www.besoccer.com/match/salernitana-calcio-1919/parma-fc/2018539859,2018,28,serie_b
+Palermo FC,Ascoli,4-1,https://www.besoccer.com/match/palermo/ascoli/2018539852,2018,28,serie_b
+Empoli,Avellino,1-1,https://www.besoccer.com/match/empoli-fc/us-avellino/2018539853,2018,28,serie_b
+Virtus Entella,Cittadella,0-1,https://www.besoccer.com/match/virtus-entella/as-cittadella/2018539856,2018,28,serie_b
+Novara,Calcio Foggia,0-1,https://www.besoccer.com/match/novara-calcio/us-foggia/2018539857,2018,28,serie_b
+Cremonese,Frosinone,2-2,https://www.besoccer.com/match/us-cremonese/frosinone-calcio/2018539858,2018,28,serie_b
+Venezia,Ternana Calcio,2-0,https://www.besoccer.com/match/venezia/ternana-calcio/2018539862,2018,28,serie_b
+Perugia,Brescia,2-0,https://www.besoccer.com/match/perugia/brescia/2018539854,2018,28,serie_b
+Cesena,Pro Vercelli,2-2,https://www.besoccer.com/match/ac-cesena/us-pro-vercelli-calcio/2018539860,2018,28,serie_b
+Pescara,Carpi,0-1,https://www.besoccer.com/match/pescara-calcio/carpi/2018539855,2018,28,serie_b
+SSC Bari,Spezia,1-1,https://www.besoccer.com/match/as-bari/asd-spezia/2018539861,2018,28,serie_b
+Spezia,Cesena,1-2,https://www.besoccer.com/match/asd-spezia/ac-cesena/2018539864,2018,29,serie_b
+Ternana Calcio,Cremonese,2-1,https://www.besoccer.com/match/ternana-calcio/us-cremonese/2018539865,2018,29,serie_b
+Frosinone,Novara,1-0,https://www.besoccer.com/match/frosinone-calcio/novara-calcio/2018539867,2018,29,serie_b
+Cittadella,Pescara,2-0,https://www.besoccer.com/match/as-cittadella/pescara-calcio/2018539870,2018,29,serie_b
+Ascoli,Salernitana,1-3,https://www.besoccer.com/match/ascoli/salernitana-calcio-1919/2018539871,2018,29,serie_b
+Calcio Foggia,Empoli,0-3,https://www.besoccer.com/match/us-foggia/empoli-fc/2018539866,2018,29,serie_b
+Avellino,SSC Bari,1-2,https://www.besoccer.com/match/us-avellino/as-bari/2018539863,2018,29,serie_b
+Carpi,Venezia,0-0,https://www.besoccer.com/match/carpi/venezia/2018539873,2018,29,serie_b
+Parma,Palermo FC,3-2,https://www.besoccer.com/match/parma-fc/palermo/2018539868,2018,29,serie_b
+Pro Vercelli,Perugia,0-2,https://www.besoccer.com/match/us-pro-vercelli-calcio/perugia/2018539869,2018,29,serie_b
+Brescia,Virtus Entella,0-0,https://www.besoccer.com/match/brescia/virtus-entella/2018539872,2018,29,serie_b
+Venezia,Ascoli,1-0,https://www.besoccer.com/match/venezia/ascoli/2018539874,2018,30,serie_b
+Cesena,Carpi,0-0,https://www.besoccer.com/match/ac-cesena/carpi/2018539877,2018,30,serie_b
+Cremonese,Cittadella,1-1,https://www.besoccer.com/match/us-cremonese/as-cittadella/2018539878,2018,30,serie_b
+Perugia,Calcio Foggia,2-0,https://www.besoccer.com/match/perugia/us-foggia/2018539879,2018,30,serie_b
+Pescara,Parma,1-4,https://www.besoccer.com/match/pescara-calcio/parma-fc/2018539881,2018,30,serie_b
+SSC Bari,Pro Vercelli,2-2,https://www.besoccer.com/match/as-bari/us-pro-vercelli-calcio/2018539882,2018,30,serie_b
+Spezia,Ternana Calcio,1-1,https://www.besoccer.com/match/asd-spezia/ternana-calcio/2018539883,2018,30,serie_b
+Palermo FC,Frosinone,1-0,https://www.besoccer.com/match/palermo/frosinone-calcio/2018539880,2018,30,serie_b
+Salernitana,Avellino,2-0,https://www.besoccer.com/match/salernitana-calcio-1919/us-avellino/2018539875,2018,30,serie_b
+Empoli,Virtus Entella,2-1,https://www.besoccer.com/match/empoli-fc/virtus-entella/2018539884,2018,30,serie_b
+Novara,Brescia,2-1,https://www.besoccer.com/match/novara-calcio/brescia/2018539876,2018,30,serie_b
+Calcio Foggia,Cesena,2-1,https://www.besoccer.com/match/us-foggia/ac-cesena/2018539886,2018,31,serie_b
+Cittadella,SSC Bari,0-0,https://www.besoccer.com/match/as-cittadella/as-bari/2018539885,2018,31,serie_b
+Brescia,Cremonese,1-1,https://www.besoccer.com/match/brescia/us-cremonese/2018539887,2018,31,serie_b
+Novara,Palermo FC,2-2,https://www.besoccer.com/match/novara-calcio/palermo/2018539888,2018,31,serie_b
+Virtus Entella,Parma,2-0,https://www.besoccer.com/match/virtus-entella/parma-fc/2018539889,2018,31,serie_b
+Frosinone,Salernitana,0-0,https://www.besoccer.com/match/frosinone-calcio/salernitana-calcio-1919/2018539892,2018,31,serie_b
+Perugia,Spezia,3-0,https://www.besoccer.com/match/perugia/asd-spezia/2018539893,2018,31,serie_b
+Ascoli,Ternana Calcio,2-1,https://www.besoccer.com/match/ascoli/ternana-calcio/2018539894,2018,31,serie_b
+Empoli,Venezia,3-2,https://www.besoccer.com/match/empoli-fc/venezia/2018539895,2018,31,serie_b
+Avellino,Pescara,2-2,https://www.besoccer.com/match/us-avellino/pescara-calcio/2018539890,2018,31,serie_b
+Carpi,Pro Vercelli,2-0,https://www.besoccer.com/match/carpi/us-pro-vercelli-calcio/2018539891,2018,31,serie_b
+Spezia,Ascoli,1-1,https://www.besoccer.com/match/asd-spezia/ascoli/2018539896,2018,32,serie_b
+SSC Bari,Brescia,3-0,https://www.besoccer.com/match/as-bari/brescia/2018539898,2018,32,serie_b
+Parma,Calcio Foggia,3-1,https://www.besoccer.com/match/parma-fc/us-foggia/2018539902,2018,32,serie_b
+Pro Vercelli,Avellino,0-0,https://www.besoccer.com/match/us-pro-vercelli-calcio/us-avellino/2018539897,2018,32,serie_b
+Palermo FC,Carpi,4-0,https://www.besoccer.com/match/palermo/carpi/2018539899,2018,32,serie_b
+Pescara,Empoli,0-1,https://www.besoccer.com/match/pescara-calcio/empoli-fc/2018539901,2018,32,serie_b
+Ternana Calcio,Frosinone,0-0,https://www.besoccer.com/match/ternana-calcio/frosinone-calcio/2018539903,2018,32,serie_b
+Salernitana,Novara,1-0,https://www.besoccer.com/match/salernitana-calcio-1919/novara-calcio/2018539904,2018,32,serie_b
+Cremonese,Virtus Entella,0-1,https://www.besoccer.com/match/us-cremonese/virtus-entella/2018539906,2018,32,serie_b
+Venezia,Cittadella,2-1,https://www.besoccer.com/match/venezia/as-cittadella/2018539900,2018,32,serie_b
+Cesena,Perugia,1-1,https://www.besoccer.com/match/ac-cesena/perugia/2018539905,2018,32,serie_b
+Ascoli,SSC Bari,1-0,https://www.besoccer.com/match/ascoli/as-bari/2018539907,2018,33,serie_b
+Virtus Entella,Palermo FC,1-2,https://www.besoccer.com/match/virtus-entella/palermo/2018539910,2018,33,serie_b
+Avellino,Parma,1-2,https://www.besoccer.com/match/us-avellino/parma-fc/2018539911,2018,33,serie_b
+Brescia,Pescara,2-1,https://www.besoccer.com/match/brescia/pescara-calcio/2018539912,2018,33,serie_b
+Calcio Foggia,Pro Vercelli,2-1,https://www.besoccer.com/match/us-foggia/us-pro-vercelli-calcio/2018539913,2018,33,serie_b
+Empoli,Salernitana,2-0,https://www.besoccer.com/match/empoli-fc/salernitana-calcio-1919/2018539914,2018,33,serie_b
+Cittadella,Spezia,1-2,https://www.besoccer.com/match/as-cittadella/asd-spezia/2018539915,2018,33,serie_b
+Carpi,Ternana Calcio,2-1,https://www.besoccer.com/match/carpi/ternana-calcio/2018539916,2018,33,serie_b
+Frosinone,Venezia,2-1,https://www.besoccer.com/match/frosinone-calcio/venezia/2018539917,2018,33,serie_b
+Novara,Cesena,1-0,https://www.besoccer.com/match/novara-calcio/ac-cesena/2018539908,2018,33,serie_b
+Perugia,Cremonese,1-0,https://www.besoccer.com/match/perugia/us-cremonese/2018539909,2018,33,serie_b
+Ascoli,Carpi,2-0,https://www.besoccer.com/match/ascoli/carpi/2018539919,2018,34,serie_b
+Ternana Calcio,Cittadella,5-1,https://www.besoccer.com/match/ternana-calcio/as-cittadella/2018539920,2018,34,serie_b
+Spezia,Empoli,1-1,https://www.besoccer.com/match/asd-spezia/empoli-fc/2018539921,2018,34,serie_b
+Cremonese,Calcio Foggia,0-4,https://www.besoccer.com/match/us-cremonese/us-foggia/2018539922,2018,34,serie_b
+Parma,Frosinone,2-0,https://www.besoccer.com/match/parma-fc/frosinone-calcio/2018539923,2018,34,serie_b
+Palermo FC,Pescara,1-1,https://www.besoccer.com/match/palermo/pescara-calcio/2018539926,2018,34,serie_b
+SSC Bari,Salernitana,1-1,https://www.besoccer.com/match/as-bari/salernitana-calcio-1919/2018539927,2018,34,serie_b
+Venezia,Brescia,1-2,https://www.besoccer.com/match/venezia/brescia/2018539918,2018,34,serie_b
+Pro Vercelli,Novara,0-0,https://www.besoccer.com/match/us-pro-vercelli-calcio/novara-calcio/2018539924,2018,34,serie_b
+Cesena,Virtus Entella,3-0,https://www.besoccer.com/match/ac-cesena/virtus-entella/2018539928,2018,34,serie_b
+Avellino,Perugia,2-0,https://www.besoccer.com/match/us-avellino/perugia/2018539925,2018,34,serie_b
+Calcio Foggia,Ascoli,3-0,https://www.besoccer.com/match/us-foggia/ascoli/2018539929,2018,35,serie_b
+Parma,Cittadella,0-0,https://www.besoccer.com/match/parma-fc/as-cittadella/2018539934,2018,35,serie_b
+Virtus Entella,Avellino,1-1,https://www.besoccer.com/match/virtus-entella/us-avellino/2018539930,2018,35,serie_b
+Pescara,SSC Bari,2-2,https://www.besoccer.com/match/pescara-calcio/as-bari/2018539931,2018,35,serie_b
+Brescia,Carpi,1-1,https://www.besoccer.com/match/brescia/carpi/2018539932,2018,35,serie_b
+Salernitana,Cesena,1-1,https://www.besoccer.com/match/salernitana-calcio-1919/ac-cesena/2018539933,2018,35,serie_b
+Palermo FC,Cremonese,1-1,https://www.besoccer.com/match/palermo/us-cremonese/2018539935,2018,35,serie_b
+Empoli,Pro Vercelli,3-2,https://www.besoccer.com/match/empoli-fc/us-pro-vercelli-calcio/2018539936,2018,35,serie_b
+Frosinone,Spezia,1-1,https://www.besoccer.com/match/frosinone-calcio/asd-spezia/2018539937,2018,35,serie_b
+Novara,Ternana Calcio,0-3,https://www.besoccer.com/match/novara-calcio/ternana-calcio/2018539938,2018,35,serie_b
+Perugia,Venezia,1-1,https://www.besoccer.com/match/perugia/venezia/2018539939,2018,35,serie_b
+Ascoli,Parma,0-1,https://www.besoccer.com/match/ascoli/parma-fc/2018539946,2018,36,serie_b
+Spezia,Brescia,0-1,https://www.besoccer.com/match/asd-spezia/brescia/2018539940,2018,36,serie_b
+Cesena,Empoli,2-3,https://www.besoccer.com/match/ac-cesena/empoli-fc/2018539941,2018,36,serie_b
+Ternana Calcio,Calcio Foggia,2-2,https://www.besoccer.com/match/ternana-calcio/us-foggia/2018539942,2018,36,serie_b
+Avellino,Frosinone,0-2,https://www.besoccer.com/match/us-avellino/frosinone-calcio/2018539943,2018,36,serie_b
+SSC Bari,Novara,1-1,https://www.besoccer.com/match/as-bari/novara-calcio/2018539944,2018,36,serie_b
+Cittadella,Palermo FC,0-0,https://www.besoccer.com/match/as-cittadella/palermo/2018539945,2018,36,serie_b
+Carpi,Perugia,1-2,https://www.besoccer.com/match/carpi/perugia/2018539947,2018,36,serie_b
+Pro Vercelli,Pescara,3-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/pescara-calcio/2018539948,2018,36,serie_b
+Cremonese,Salernitana,1-1,https://www.besoccer.com/match/us-cremonese/salernitana-calcio-1919/2018539949,2018,36,serie_b
+Venezia,Virtus Entella,2-0,https://www.besoccer.com/match/venezia/virtus-entella/2018539950,2018,36,serie_b
+Cremonese,Ascoli,1-2,https://www.besoccer.com/match/us-cremonese/ascoli/2018539951,2018,37,serie_b
+Palermo FC,Avellino,3-0,https://www.besoccer.com/match/palermo/us-avellino/2018539952,2018,37,serie_b
+Calcio Foggia,SSC Bari,1-1,https://www.besoccer.com/match/us-foggia/as-bari/2018539953,2018,37,serie_b
+Parma,Carpi,2-1,https://www.besoccer.com/match/parma-fc/carpi/2018539954,2018,37,serie_b
+Brescia,Cesena,0-0,https://www.besoccer.com/match/brescia/ac-cesena/2018539955,2018,37,serie_b
+Salernitana,Cittadella,1-3,https://www.besoccer.com/match/salernitana-calcio-1919/as-cittadella/2018539956,2018,37,serie_b
+Virtus Entella,Pro Vercelli,3-2,https://www.besoccer.com/match/virtus-entella/us-pro-vercelli-calcio/2018539958,2018,37,serie_b
+Novara,Venezia,1-3,https://www.besoccer.com/match/novara-calcio/venezia/2018539961,2018,37,serie_b
+Perugia,Ternana Calcio,2-3,https://www.besoccer.com/match/perugia/ternana-calcio/2018539960,2018,37,serie_b
+Pescara,Spezia,3-2,https://www.besoccer.com/match/pescara-calcio/asd-spezia/2018539959,2018,37,serie_b
+Frosinone,Empoli,2-4,https://www.besoccer.com/match/frosinone-calcio/empoli-fc/2018539957,2018,37,serie_b
+Venezia,Palermo FC,3-0,https://www.besoccer.com/match/venezia/palermo/2018539968,2018,38,serie_b
+SSC Bari,Virtus Entella,1-0,https://www.besoccer.com/match/as-bari/virtus-entella/2018539972,2018,38,serie_b
+Carpi,Avellino,0-0,https://www.besoccer.com/match/carpi/us-avellino/2018539962,2018,38,serie_b
+Salernitana,Brescia,4-2,https://www.besoccer.com/match/salernitana-calcio-1919/brescia/2018539963,2018,38,serie_b
+Spezia,Cremonese,1-0,https://www.besoccer.com/match/asd-spezia/us-cremonese/2018539964,2018,38,serie_b
+Cittadella,Calcio Foggia,3-1,https://www.besoccer.com/match/as-cittadella/us-foggia/2018539965,2018,38,serie_b
+Cesena,Frosinone,1-0,https://www.besoccer.com/match/ac-cesena/frosinone-calcio/2018539966,2018,38,serie_b
+Empoli,Novara,1-1,https://www.besoccer.com/match/empoli-fc/novara-calcio/2018539967,2018,38,serie_b
+Pro Vercelli,Parma,1-0,https://www.besoccer.com/match/us-pro-vercelli-calcio/parma-fc/2018539969,2018,38,serie_b
+Ascoli,Perugia,2-2,https://www.besoccer.com/match/ascoli/perugia/2018539970,2018,38,serie_b
+Ternana Calcio,Pescara,0-3,https://www.besoccer.com/match/ternana-calcio/pescara-calcio/2018539971,2018,38,serie_b
+Palermo FC,SSC Bari,1-1,https://www.besoccer.com/match/palermo/as-bari/2018539974,2018,39,serie_b
+Avellino,Cittadella,0-2,https://www.besoccer.com/match/us-avellino/as-cittadella/2018539976,2018,39,serie_b
+Virtus Entella,Ascoli,1-1,https://www.besoccer.com/match/virtus-entella/ascoli/2018539973,2018,39,serie_b
+Pescara,Cesena,0-0,https://www.besoccer.com/match/pescara-calcio/ac-cesena/2018539975,2018,39,serie_b
+Carpi,Empoli,0-0,https://www.besoccer.com/match/carpi/empoli-fc/2018539977,2018,39,serie_b
+Brescia,Frosinone,1-2,https://www.besoccer.com/match/brescia/frosinone-calcio/2018539978,2018,39,serie_b
+Cremonese,Novara,1-1,https://www.besoccer.com/match/us-cremonese/novara-calcio/2018539979,2018,39,serie_b
+Calcio Foggia,Spezia,2-1,https://www.besoccer.com/match/us-foggia/asd-spezia/2018539981,2018,39,serie_b
+Parma,Ternana Calcio,2-0,https://www.besoccer.com/match/parma-fc/ternana-calcio/2018539982,2018,39,serie_b
+Pro Vercelli,Venezia,0-2,https://www.besoccer.com/match/us-pro-vercelli-calcio/venezia/2018539983,2018,39,serie_b
+Perugia,Salernitana,1-1,https://www.besoccer.com/match/perugia/salernitana-calcio-1919/2018539980,2018,39,serie_b
+Ascoli,Avellino,1-1,https://www.besoccer.com/match/ascoli/us-avellino/2018539984,2018,40,serie_b
+Cittadella,Brescia,2-2,https://www.besoccer.com/match/as-cittadella/brescia/2018539985,2018,40,serie_b
+Frosinone,Carpi,1-0,https://www.besoccer.com/match/frosinone-calcio/carpi/2018539986,2018,40,serie_b
+Venezia,Calcio Foggia,2-1,https://www.besoccer.com/match/venezia/us-foggia/2018539988,2018,40,serie_b
+Ternana Calcio,Palermo FC,2-3,https://www.besoccer.com/match/ternana-calcio/palermo/2018539989,2018,40,serie_b
+SSC Bari,Perugia,3-1,https://www.besoccer.com/match/as-bari/perugia/2018539991,2018,40,serie_b
+Novara,Pescara,1-1,https://www.besoccer.com/match/novara-calcio/pescara-calcio/2018539992,2018,40,serie_b
+Spezia,Pro Vercelli,5-1,https://www.besoccer.com/match/asd-spezia/us-pro-vercelli-calcio/2018539993,2018,40,serie_b
+Salernitana,Virtus Entella,1-0,https://www.besoccer.com/match/salernitana-calcio-1919/virtus-entella/2018539994,2018,40,serie_b
+Cesena,Parma,2-1,https://www.besoccer.com/match/ac-cesena/parma-fc/2018539990,2018,40,serie_b
+Empoli,Cremonese,1-1,https://www.besoccer.com/match/empoli-fc/us-cremonese/2018539987,2018,40,serie_b
+Avellino,Spezia,1-0,https://www.besoccer.com/match/us-avellino/asd-spezia/2018540003,2018,41,serie_b
+Pescara,Ascoli,0-1,https://www.besoccer.com/match/pescara-calcio/ascoli/2018539995,2018,41,serie_b
+Parma,SSC Bari,1-0,https://www.besoccer.com/match/parma-fc/as-bari/2018539996,2018,41,serie_b
+Palermo FC,Cesena,0-0,https://www.besoccer.com/match/palermo/ac-cesena/2018539997,2018,41,serie_b
+Carpi,Cittadella,1-1,https://www.besoccer.com/match/carpi/as-cittadella/2018539998,2018,41,serie_b
+Brescia,Empoli,0-2,https://www.besoccer.com/match/brescia/empoli-fc/2018539999,2018,41,serie_b
+Virtus Entella,Frosinone,0-1,https://www.besoccer.com/match/virtus-entella/frosinone-calcio/2018540000,2018,41,serie_b
+Perugia,Novara,1-1,https://www.besoccer.com/match/perugia/novara-calcio/2018540001,2018,41,serie_b
+Calcio Foggia,Salernitana,1-0,https://www.besoccer.com/match/us-foggia/salernitana-calcio-1919/2018540002,2018,41,serie_b
+Pro Vercelli,Ternana Calcio,2-1,https://www.besoccer.com/match/us-pro-vercelli-calcio/ternana-calcio/2018540004,2018,41,serie_b
+Cremonese,Venezia,5-1,https://www.besoccer.com/match/us-cremonese/venezia/2018540005,2018,41,serie_b
+Ternana Calcio,Avellino,1-2,https://www.besoccer.com/match/ternana-calcio/us-avellino/2018539544,2018,42,serie_b
+Ascoli,Brescia,0-0,https://www.besoccer.com/match/ascoli/brescia/2018539545,2018,42,serie_b
+SSC Bari,Carpi,2-0,https://www.besoccer.com/match/as-bari/carpi/2018539546,2018,42,serie_b
+Cesena,Cremonese,1-0,https://www.besoccer.com/match/ac-cesena/us-cremonese/2018539547,2018,42,serie_b
+Frosinone,Calcio Foggia,2-2,https://www.besoccer.com/match/frosinone-calcio/us-foggia/2018539548,2018,42,serie_b
+Salernitana,Palermo FC,0-2,https://www.besoccer.com/match/salernitana-calcio-1919/palermo/2018539549,2018,42,serie_b
+Spezia,Parma,0-2,https://www.besoccer.com/match/asd-spezia/parma-fc/2018539550,2018,42,serie_b
+Empoli,Perugia,2-1,https://www.besoccer.com/match/empoli-fc/perugia/2018539551,2018,42,serie_b
+Venezia,Pescara,0-0,https://www.besoccer.com/match/venezia/pescara-calcio/2018539552,2018,42,serie_b
+Cittadella,Pro Vercelli,2-0,https://www.besoccer.com/match/as-cittadella/us-pro-vercelli-calcio/2018539553,2018,42,serie_b
+Novara,Virtus Entella,0-1,https://www.besoccer.com/match/novara-calcio/virtus-entella/2018539554,2018,42,serie_b

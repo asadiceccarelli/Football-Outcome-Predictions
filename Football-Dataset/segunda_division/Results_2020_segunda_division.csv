@@ -1,0 +1,463 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Racing,Málaga,0-1,https://www.besoccer.com/match/racing/malaga/202046684,2020,1,segunda_division
+Lugo,Extremadura,0-0,https://www.besoccer.com/match/lugo/extremadura-ud/202046679,2020,1,segunda_division
+Almería,Albacete,3-0,https://www.besoccer.com/match/almeria/albacete/202046665,2020,1,segunda_division
+Elche,Fuenlabrada,0-2,https://www.besoccer.com/match/elche/fuenlabrada/202046668,2020,1,segunda_division
+Rayo Vallecano,Mirandés,2-2,https://www.besoccer.com/match/rayo-vallecano/mirandes/202046687,2020,1,segunda_division
+Real Zaragoza,Tenerife,2-0,https://www.besoccer.com/match/real-zaragoza/tenerife/202046690,2020,1,segunda_division
+Deportivo,Real Oviedo,3-2,https://www.besoccer.com/match/deportivo/real-oviedo/202046667,2020,1,segunda_division
+Numancia,Alcorcón,0-1,https://www.besoccer.com/match/numancia/ad-alcorcon/202046681,2020,1,segunda_division
+Girona,Real Sporting,1-1,https://www.besoccer.com/match/girona-fc/sporting-gijon/202046673,2020,1,segunda_division
+Cádiz,Ponferradina,3-1,https://www.besoccer.com/match/cadiz/ponferradina-sd/202046666,2020,1,segunda_division
+Las Palmas,Huesca,0-1,https://www.besoccer.com/match/ud-palmas/huesca/202046676,2020,1,segunda_division
+Albacete,Girona,1-0,https://www.besoccer.com/match/albacete/girona-fc/202046670,2020,2,segunda_division
+Real Oviedo,Lugo,1-1,https://www.besoccer.com/match/real-oviedo/lugo/202046688,2020,2,segunda_division
+Racing,Almería,1-1,https://www.besoccer.com/match/racing/almeria/202046691,2020,2,segunda_division
+Mirandés,Cádiz,1-2,https://www.besoccer.com/match/mirandes/cadiz/202046680,2020,2,segunda_division
+Alcorcón,Elche,1-2,https://www.besoccer.com/match/ad-alcorcon/elche/202046671,2020,2,segunda_division
+Málaga,Las Palmas,1-1,https://www.besoccer.com/match/malaga/ud-palmas/202046683,2020,2,segunda_division
+Ponferradina,Real Zaragoza,1-1,https://www.besoccer.com/match/ponferradina-sd/real-zaragoza/202046686,2020,2,segunda_division
+Real Sporting,Rayo Vallecano,1-1,https://www.besoccer.com/match/sporting-gijon/rayo-vallecano/202046695,2020,2,segunda_division
+Huesca,Deportivo,3-1,https://www.besoccer.com/match/huesca/deportivo/202046677,2020,2,segunda_division
+Tenerife,Numancia,3-2,https://www.besoccer.com/match/tenerife/numancia/202046692,2020,2,segunda_division
+Extremadura,Fuenlabrada,1-2,https://www.besoccer.com/match/extremadura-ud/fuenlabrada/202046674,2020,2,segunda_division
+Real Zaragoza,Elche,1-0,https://www.besoccer.com/match/real-zaragoza/elche/202046722,2020,3,segunda_division
+Numancia,Mirandés,2-0,https://www.besoccer.com/match/numancia/mirandes/202046710,2020,3,segunda_division
+Fuenlabrada,Real Oviedo,2-1,https://www.besoccer.com/match/fuenlabrada/real-oviedo/202046698,2020,3,segunda_division
+Almería,Huesca,1-0,https://www.besoccer.com/match/almeria/huesca/202046694,2020,3,segunda_division
+Las Palmas,Racing,2-2,https://www.besoccer.com/match/ud-palmas/racing/202046704,2020,3,segunda_division
+Lugo,Alcorcón,2-4,https://www.besoccer.com/match/lugo/ad-alcorcon/202046706,2020,3,segunda_division
+Rayo Vallecano,Deportivo,3-1,https://www.besoccer.com/match/rayo-vallecano/deportivo/202046717,2020,3,segunda_division
+Real Sporting,Albacete,2-0,https://www.besoccer.com/match/sporting-gijon/albacete/202046720,2020,3,segunda_division
+Girona,Málaga,1-0,https://www.besoccer.com/match/girona-fc/malaga/202046701,2020,3,segunda_division
+Ponferradina,Tenerife,4-0,https://www.besoccer.com/match/ponferradina-sd/tenerife/202046713,2020,3,segunda_division
+Cádiz,Extremadura,2-1,https://www.besoccer.com/match/cadiz/extremadura-ud/202046696,2020,3,segunda_division
+Racing,Cádiz,1-2,https://www.besoccer.com/match/racing/cadiz/202046721,2020,4,segunda_division
+Deportivo,Albacete,0-1,https://www.besoccer.com/match/deportivo/albacete/202046703,2020,4,segunda_division
+Málaga,Almería,0-1,https://www.besoccer.com/match/malaga/almeria/202046719,2020,4,segunda_division
+Extremadura,Numancia,0-0,https://www.besoccer.com/match/extremadura-ud/numancia/202046708,2020,4,segunda_division
+Fuenlabrada,Ponferradina,1-1,https://www.besoccer.com/match/fuenlabrada/ponferradina-sd/202046709,2020,4,segunda_division
+Tenerife,Las Palmas,0-0,https://www.besoccer.com/match/tenerife/ud-palmas/202046724,2020,4,segunda_division
+Huesca,Real Sporting,1-0,https://www.besoccer.com/match/huesca/sporting-gijon/202046714,2020,4,segunda_division
+Girona,Rayo Vallecano,3-1,https://www.besoccer.com/match/girona-fc/rayo-vallecano/202046712,2020,4,segunda_division
+Elche,Lugo,1-1,https://www.besoccer.com/match/elche/lugo/202046705,2020,4,segunda_division
+Mirandés,Real Oviedo,2-1,https://www.besoccer.com/match/mirandes/real-oviedo/202046716,2020,4,segunda_division
+Alcorcón,Real Zaragoza,0-3,https://www.besoccer.com/match/ad-alcorcon/real-zaragoza/202046699,2020,4,segunda_division
+Rayo Vallecano,Racing,2-0,https://www.besoccer.com/match/rayo-vallecano/racing/202046748,2020,5,segunda_division
+Mirandés,Málaga,1-1,https://www.besoccer.com/match/mirandes/malaga/202046738,2020,5,segunda_division
+Numancia,Huesca,1-0,https://www.besoccer.com/match/numancia/huesca/202046742,2020,5,segunda_division
+Las Palmas,Almería,0-3,https://www.besoccer.com/match/ud-palmas/almeria/202046731,2020,5,segunda_division
+Cádiz,Girona,2-0,https://www.besoccer.com/match/cadiz/girona-fc/202046728,2020,5,segunda_division
+Ponferradina,Alcorcón,1-1,https://www.besoccer.com/match/ponferradina-sd/ad-alcorcon/202046745,2020,5,segunda_division
+Albacete,Tenerife,0-4,https://www.besoccer.com/match/albacete/tenerife/202046726,2020,5,segunda_division
+Real Oviedo,Elche,0-2,https://www.besoccer.com/match/real-oviedo/elche/202046746,2020,5,segunda_division
+Real Zaragoza,Extremadura,3-1,https://www.besoccer.com/match/real-zaragoza/extremadura-ud/202046754,2020,5,segunda_division
+Lugo,Fuenlabrada,2-0,https://www.besoccer.com/match/lugo/fuenlabrada/202046734,2020,5,segunda_division
+Real Sporting,Deportivo,1-1,https://www.besoccer.com/match/sporting-gijon/deportivo/202046751,2020,5,segunda_division
+Málaga,Rayo Vallecano,1-1,https://www.besoccer.com/match/malaga/rayo-vallecano/202046750,2020,6,segunda_division
+Almería,Girona,3-1,https://www.besoccer.com/match/almeria/girona-fc/202046732,2020,6,segunda_division
+Racing,Mirandés,4-0,https://www.besoccer.com/match/racing/mirandes/202046755,2020,6,segunda_division
+Alcorcón,Cádiz,3-0,https://www.besoccer.com/match/ad-alcorcon/cadiz/202046730,2020,6,segunda_division
+Huesca,Albacete,0-1,https://www.besoccer.com/match/huesca/albacete/202046741,2020,6,segunda_division
+Lugo,Ponferradina,2-2,https://www.besoccer.com/match/lugo/ponferradina-sd/202046747,2020,6,segunda_division
+Deportivo,Numancia,3-3,https://www.besoccer.com/match/deportivo/numancia/202046733,2020,6,segunda_division
+Elche,Tenerife,1-1,https://www.besoccer.com/match/elche/tenerife/202046737,2020,6,segunda_division
+Real Oviedo,Extremadura,1-1,https://www.besoccer.com/match/real-oviedo/extremadura-ud/202046753,2020,6,segunda_division
+Las Palmas,Real Sporting,1-0,https://www.besoccer.com/match/ud-palmas/sporting-gijon/202046743,2020,6,segunda_division
+Fuenlabrada,Real Zaragoza,2-1,https://www.besoccer.com/match/fuenlabrada/real-zaragoza/202046739,2020,6,segunda_division
+Mirandés,Alcorcón,2-2,https://www.besoccer.com/match/mirandes/ad-alcorcon/202046769,2020,7,segunda_division
+Cádiz,Deportivo,0-0,https://www.besoccer.com/match/cadiz/deportivo/202046760,2020,7,segunda_division
+Real Zaragoza,Lugo,0-0,https://www.besoccer.com/match/real-zaragoza/lugo/202046793,2020,7,segunda_division
+Rayo Vallecano,Almería,1-1,https://www.besoccer.com/match/rayo-vallecano/almeria/202046779,2020,7,segunda_division
+Albacete,Málaga,1-0,https://www.besoccer.com/match/albacete/malaga/202046757,2020,7,segunda_division
+Ponferradina,Real Oviedo,2-1,https://www.besoccer.com/match/ponferradina-sd/real-oviedo/202046775,2020,7,segunda_division
+Girona,Las Palmas,1-0,https://www.besoccer.com/match/girona-fc/ud-palmas/202046767,2020,7,segunda_division
+Numancia,Elche,1-1,https://www.besoccer.com/match/numancia/elche/202046774,2020,7,segunda_division
+Real Sporting,Racing,1-1,https://www.besoccer.com/match/sporting-gijon/racing/202046788,2020,7,segunda_division
+Extremadura,Huesca,0-1,https://www.besoccer.com/match/extremadura-ud/huesca/202046763,2020,7,segunda_division
+Tenerife,Fuenlabrada,0-1,https://www.besoccer.com/match/tenerife/fuenlabrada/202046783,2020,7,segunda_division
+Las Palmas,Albacete,3-2,https://www.besoccer.com/match/ud-palmas/albacete/202046778,2020,8,segunda_division
+Fuenlabrada,Rayo Vallecano,2-2,https://www.besoccer.com/match/fuenlabrada/rayo-vallecano/202046770,2020,8,segunda_division
+Alcorcón,Extremadura,0-2,https://www.besoccer.com/match/ad-alcorcon/extremadura-ud/202046758,2020,8,segunda_division
+Huesca,Girona,1-0,https://www.besoccer.com/match/huesca/girona-fc/202046772,2020,8,segunda_division
+Elche,Ponferradina,1-0,https://www.besoccer.com/match/elche/ponferradina-sd/202046765,2020,8,segunda_division
+Racing,Numancia,0-0,https://www.besoccer.com/match/racing/numancia/202046789,2020,8,segunda_division
+Málaga,Real Sporting,0-0,https://www.besoccer.com/match/malaga/sporting-gijon/202046781,2020,8,segunda_division
+Almería,Cádiz,1-2,https://www.besoccer.com/match/almeria/cadiz/202046761,2020,8,segunda_division
+Real Oviedo,Real Zaragoza,2-2,https://www.besoccer.com/match/real-oviedo/real-zaragoza/202046786,2020,8,segunda_division
+Deportivo,Mirandés,1-1,https://www.besoccer.com/match/deportivo/mirandes/202046762,2020,8,segunda_division
+Lugo,Tenerife,1-4,https://www.besoccer.com/match/lugo/tenerife/202046780,2020,8,segunda_division
+Albacete,Racing,0-0,https://www.besoccer.com/match/albacete/racing/202046766,2020,9,segunda_division
+Extremadura,Elche,2-0,https://www.besoccer.com/match/extremadura-ud/elche/202046777,2020,9,segunda_division
+Numancia,Fuenlabrada,1-0,https://www.besoccer.com/match/numancia/fuenlabrada/202046795,2020,9,segunda_division
+Rayo Vallecano,Alcorcón,1-1,https://www.besoccer.com/match/rayo-vallecano/ad-alcorcon/202046809,2020,9,segunda_division
+Cádiz,Huesca,1-0,https://www.besoccer.com/match/cadiz/huesca/202046771,2020,9,segunda_division
+Mirandés,Lugo,1-1,https://www.besoccer.com/match/mirandes/lugo/202046790,2020,9,segunda_division
+Ponferradina,Las Palmas,0-2,https://www.besoccer.com/match/ponferradina-sd/ud-palmas/202046799,2020,9,segunda_division
+Tenerife,Real Oviedo,0-1,https://www.besoccer.com/match/tenerife/real-oviedo/202046816,2020,9,segunda_division
+Real Sporting,Almería,4-2,https://www.besoccer.com/match/sporting-gijon/almeria/202046822,2020,9,segunda_division
+Real Zaragoza,Málaga,2-2,https://www.besoccer.com/match/real-zaragoza/malaga/202046831,2020,9,segunda_division
+Girona,Deportivo,3-1,https://www.besoccer.com/match/girona-fc/deportivo/202046784,2020,9,segunda_division
+Alcorcón,Albacete,0-1,https://www.besoccer.com/match/ad-alcorcon/albacete/202046794,2020,10,segunda_division
+Lugo,Las Palmas,0-2,https://www.besoccer.com/match/lugo/ud-palmas/202046811,2020,10,segunda_division
+Elche,Rayo Vallecano,1-1,https://www.besoccer.com/match/elche/rayo-vallecano/202046800,2020,10,segunda_division
+Ponferradina,Mirandés,2-0,https://www.besoccer.com/match/ponferradina-sd/mirandes/202046814,2020,10,segunda_division
+Tenerife,Extremadura,1-2,https://www.besoccer.com/match/tenerife/extremadura-ud/202046823,2020,10,segunda_division
+Fuenlabrada,Real Sporting,2-0,https://www.besoccer.com/match/fuenlabrada/sporting-gijon/202046804,2020,10,segunda_division
+Real Oviedo,Numancia,1-1,https://www.besoccer.com/match/real-oviedo/numancia/202046819,2020,10,segunda_division
+Real Zaragoza,Cádiz,0-2,https://www.besoccer.com/match/real-zaragoza/cadiz/202046827,2020,10,segunda_division
+Deportivo,Almería,0-0,https://www.besoccer.com/match/deportivo/almeria/202046797,2020,10,segunda_division
+Huesca,Málaga,2-0,https://www.besoccer.com/match/huesca/malaga/202046807,2020,10,segunda_division
+Racing,Girona,0-3,https://www.besoccer.com/match/racing/girona-fc/202046821,2020,10,segunda_division
+Rayo Vallecano,Tenerife,2-1,https://www.besoccer.com/match/rayo-vallecano/tenerife/202046836,2020,11,segunda_division
+Girona,Elche,0-2,https://www.besoccer.com/match/girona-fc/elche/202046813,2020,11,segunda_division
+Almería,Lugo,0-0,https://www.besoccer.com/match/almeria/lugo/202046805,2020,11,segunda_division
+Real Sporting,Alcorcón,1-3,https://www.besoccer.com/match/sporting-gijon/ad-alcorcon/202046841,2020,11,segunda_division
+Extremadura,Ponferradina,1-1,https://www.besoccer.com/match/extremadura-ud/ponferradina-sd/202046810,2020,11,segunda_division
+Málaga,Cádiz,1-2,https://www.besoccer.com/match/malaga/cadiz/202046828,2020,11,segunda_division
+Mirandés,Fuenlabrada,2-1,https://www.besoccer.com/match/mirandes/fuenlabrada/202046824,2020,11,segunda_division
+Numancia,Real Zaragoza,0-1,https://www.besoccer.com/match/numancia/real-zaragoza/202046832,2020,11,segunda_division
+Albacete,Real Oviedo,1-2,https://www.besoccer.com/match/albacete/real-oviedo/202046802,2020,11,segunda_division
+Huesca,Racing,1-1,https://www.besoccer.com/match/huesca/racing/202046818,2020,11,segunda_division
+Las Palmas,Deportivo,3-0,https://www.besoccer.com/match/ud-palmas/deportivo/202046820,2020,11,segunda_division
+Cádiz,Las Palmas,2-0,https://www.besoccer.com/match/cadiz/ud-palmas/202046791,2020,12,segunda_division
+Alcorcón,Almería,2-2,https://www.besoccer.com/match/ad-alcorcon/almeria/202046785,2020,12,segunda_division
+Ponferradina,Numancia,1-1,https://www.besoccer.com/match/ponferradina-sd/numancia/202046833,2020,12,segunda_division
+Elche,Real Sporting,0-1,https://www.besoccer.com/match/elche/sporting-gijon/202046801,2020,12,segunda_division
+Lugo,Huesca,3-2,https://www.besoccer.com/match/lugo/huesca/202046826,2020,12,segunda_division
+Extremadura,Rayo Vallecano,0-3,https://www.besoccer.com/match/extremadura-ud/rayo-vallecano/202046806,2020,12,segunda_division
+Fuenlabrada,Albacete,0-1,https://www.besoccer.com/match/fuenlabrada/albacete/202046812,2020,12,segunda_division
+Deportivo,Málaga,0-2,https://www.besoccer.com/match/deportivo/malaga/202046796,2020,12,segunda_division
+Real Oviedo,Girona,4-2,https://www.besoccer.com/match/real-oviedo/girona-fc/202046838,2020,12,segunda_division
+Tenerife,Racing,3-3,https://www.besoccer.com/match/tenerife/racing/202046842,2020,12,segunda_division
+Real Zaragoza,Mirandés,1-2,https://www.besoccer.com/match/real-zaragoza/mirandes/202046846,2020,12,segunda_division
+Albacete,Cádiz,1-0,https://www.besoccer.com/match/albacete/cadiz/202046830,2020,13,segunda_division
+Rayo Vallecano,Ponferradina,1-3,https://www.besoccer.com/match/rayo-vallecano/ponferradina-sd/202046861,2020,13,segunda_division
+Mirandés,Tenerife,0-0,https://www.besoccer.com/match/mirandes/tenerife/202046850,2020,13,segunda_division
+Racing,Deportivo,1-1,https://www.besoccer.com/match/racing/deportivo/202046859,2020,13,segunda_division
+Málaga,Real Oviedo,2-1,https://www.besoccer.com/match/malaga/real-oviedo/202046853,2020,13,segunda_division
+Numancia,Lugo,3-1,https://www.besoccer.com/match/numancia/lugo/202046856,2020,13,segunda_division
+Girona,Alcorcón,0-0,https://www.besoccer.com/match/girona-fc/ad-alcorcon/202046837,2020,13,segunda_division
+Real Sporting,Real Zaragoza,4-0,https://www.besoccer.com/match/sporting-gijon/real-zaragoza/202046863,2020,13,segunda_division
+Huesca,Elche,2-0,https://www.besoccer.com/match/huesca/elche/202046840,2020,13,segunda_division
+Las Palmas,Fuenlabrada,1-3,https://www.besoccer.com/match/ud-palmas/fuenlabrada/202046844,2020,13,segunda_division
+Almería,Extremadura,3-2,https://www.besoccer.com/match/almeria/extremadura-ud/202046834,2020,13,segunda_division
+Numancia,Albacete,1-0,https://www.besoccer.com/match/numancia/albacete/202046884,2020,14,segunda_division
+Cádiz,Real Sporting,3-1,https://www.besoccer.com/match/cadiz/sporting-gijon/202046858,2020,14,segunda_division
+Ponferradina,Málaga,1-0,https://www.besoccer.com/match/ponferradina-sd/malaga/202046890,2020,14,segunda_division
+Real Oviedo,Almería,0-0,https://www.besoccer.com/match/real-oviedo/almeria/202046898,2020,14,segunda_division
+Fuenlabrada,Deportivo,1-1,https://www.besoccer.com/match/fuenlabrada/deportivo/202046875,2020,14,segunda_division
+Alcorcón,Racing,1-0,https://www.besoccer.com/match/ad-alcorcon/racing/202046852,2020,14,segunda_division
+Tenerife,Huesca,0-0,https://www.besoccer.com/match/tenerife/huesca/202046902,2020,14,segunda_division
+Extremadura,Girona,1-3,https://www.besoccer.com/match/extremadura-ud/girona-fc/202046869,2020,14,segunda_division
+Lugo,Rayo Vallecano,1-0,https://www.besoccer.com/match/lugo/rayo-vallecano/202046880,2020,14,segunda_division
+Real Zaragoza,Las Palmas,3-0,https://www.besoccer.com/match/real-zaragoza/ud-palmas/202046908,2020,14,segunda_division
+Elche,Mirandés,4-2,https://www.besoccer.com/match/elche/mirandes/202046865,2020,14,segunda_division
+Girona,Tenerife,1-0,https://www.besoccer.com/match/girona-fc/tenerife/202046857,2020,15,segunda_division
+Huesca,Real Oviedo,3-1,https://www.besoccer.com/match/huesca/real-oviedo/202046860,2020,15,segunda_division
+Mirandés,Extremadura,2-0,https://www.besoccer.com/match/mirandes/extremadura-ud/202046866,2020,15,segunda_division
+Albacete,Lugo,0-1,https://www.besoccer.com/match/albacete/lugo/202046848,2020,15,segunda_division
+Real Sporting,Numancia,0-1,https://www.besoccer.com/match/sporting-gijon/numancia/202046877,2020,15,segunda_division
+Las Palmas,Alcorcón,1-1,https://www.besoccer.com/match/ud-palmas/ad-alcorcon/202046862,2020,15,segunda_division
+Deportivo,Elche,1-3,https://www.besoccer.com/match/deportivo/elche/202046854,2020,15,segunda_division
+Almería,Real Zaragoza,1-1,https://www.besoccer.com/match/almeria/real-zaragoza/202046851,2020,15,segunda_division
+Málaga,Fuenlabrada,0-0,https://www.besoccer.com/match/malaga/fuenlabrada/202046867,2020,15,segunda_division
+Racing,Ponferradina,2-2,https://www.besoccer.com/match/racing/ponferradina-sd/202046870,2020,15,segunda_division
+Rayo Vallecano,Cádiz,1-1,https://www.besoccer.com/match/rayo-vallecano/cadiz/202046872,2020,15,segunda_division
+Fuenlabrada,Huesca,3-2,https://www.besoccer.com/match/fuenlabrada/huesca/202046878,2020,16,segunda_division
+Extremadura,Deportivo,2-0,https://www.besoccer.com/match/extremadura-ud/deportivo/202046876,2020,16,segunda_division
+Elche,Almería,1-1,https://www.besoccer.com/match/elche/almeria/202046874,2020,16,segunda_division
+Numancia,Rayo Vallecano,2-2,https://www.besoccer.com/match/numancia/rayo-vallecano/202046885,2020,16,segunda_division
+Real Zaragoza,Albacete,0-1,https://www.besoccer.com/match/real-zaragoza/albacete/202046896,2020,16,segunda_division
+Ponferradina,Girona,1-1,https://www.besoccer.com/match/ponferradina-sd/girona-fc/202046887,2020,16,segunda_division
+Alcorcón,Málaga,1-0,https://www.besoccer.com/match/ad-alcorcon/malaga/202046871,2020,16,segunda_division
+Real Oviedo,Real Sporting,0-0,https://www.besoccer.com/match/real-oviedo/sporting-gijon/202046891,2020,16,segunda_division
+Lugo,Racing,1-1,https://www.besoccer.com/match/lugo/racing/202046881,2020,16,segunda_division
+Mirandés,Las Palmas,2-1,https://www.besoccer.com/match/mirandes/ud-palmas/202046883,2020,16,segunda_division
+Tenerife,Cádiz,1-1,https://www.besoccer.com/match/tenerife/cadiz/202046892,2020,16,segunda_division
+Real Sporting,Tenerife,0-2,https://www.besoccer.com/match/sporting-gijon/tenerife/202046920,2020,17,segunda_division
+Rayo Vallecano,Real Zaragoza,0-1,https://www.besoccer.com/match/rayo-vallecano/real-zaragoza/202046918,2020,17,segunda_division
+Racing,Extremadura,3-0,https://www.besoccer.com/match/racing/extremadura-ud/202046914,2020,17,segunda_division
+Deportivo,Alcorcón,0-0,https://www.besoccer.com/match/deportivo/ad-alcorcon/202046897,2020,17,segunda_division
+Huesca,Ponferradina,2-0,https://www.besoccer.com/match/huesca/ponferradina-sd/202046903,2020,17,segunda_division
+Almería,Numancia,2-0,https://www.besoccer.com/match/almeria/numancia/202046889,2020,17,segunda_division
+Albacete,Mirandés,1-2,https://www.besoccer.com/match/albacete/mirandes/202046886,2020,17,segunda_division
+Málaga,Elche,3-3,https://www.besoccer.com/match/malaga/elche/202046911,2020,17,segunda_division
+Girona,Fuenlabrada,2-0,https://www.besoccer.com/match/girona-fc/fuenlabrada/202046900,2020,17,segunda_division
+Las Palmas,Real Oviedo,3-1,https://www.besoccer.com/match/ud-palmas/real-oviedo/202046907,2020,17,segunda_division
+Cádiz,Lugo,2-1,https://www.besoccer.com/match/cadiz/lugo/202046893,2020,17,segunda_division
+Numancia,Málaga,0-0,https://www.besoccer.com/match/numancia/malaga/202046924,2020,18,segunda_division
+Alcorcón,Huesca,0-2,https://www.besoccer.com/match/ad-alcorcon/huesca/202046906,2020,18,segunda_division
+Mirandés,Real Sporting,0-0,https://www.besoccer.com/match/mirandes/sporting-gijon/202046921,2020,18,segunda_division
+Ponferradina,Albacete,1-1,https://www.besoccer.com/match/ponferradina-sd/albacete/202046926,2020,18,segunda_division
+Tenerife,Almería,1-3,https://www.besoccer.com/match/tenerife/almeria/202046933,2020,18,segunda_division
+Real Zaragoza,Girona,3-3,https://www.besoccer.com/match/real-zaragoza/girona-fc/202046938,2020,18,segunda_division
+Fuenlabrada,Cádiz,1-0,https://www.besoccer.com/match/fuenlabrada/cadiz/202046916,2020,18,segunda_division
+Real Oviedo,Rayo Vallecano,2-1,https://www.besoccer.com/match/real-oviedo/rayo-vallecano/202046930,2020,18,segunda_division
+Elche,Racing,2-0,https://www.besoccer.com/match/elche/racing/202046909,2020,18,segunda_division
+Lugo,Deportivo,0-0,https://www.besoccer.com/match/lugo/deportivo/202046919,2020,18,segunda_division
+Extremadura,Las Palmas,0-1,https://www.besoccer.com/match/extremadura-ud/ud-palmas/202046912,2020,18,segunda_division
+Albacete,Extremadura,1-1,https://www.besoccer.com/match/albacete/extremadura-ud/202046923,2020,19,segunda_division
+Racing,Fuenlabrada,2-2,https://www.besoccer.com/match/racing/fuenlabrada/202046979,2020,19,segunda_division
+Alcorcón,Real Oviedo,1-3,https://www.besoccer.com/match/ad-alcorcon/real-oviedo/202046929,2020,19,segunda_division
+Málaga,Tenerife,2-0,https://www.besoccer.com/match/malaga/tenerife/202046971,2020,19,segunda_division
+Huesca,Rayo Vallecano,0-2,https://www.besoccer.com/match/huesca/rayo-vallecano/202046959,2020,19,segunda_division
+Real Sporting,Ponferradina,1-0,https://www.besoccer.com/match/sporting-gijon/ponferradina-sd/202046984,2020,19,segunda_division
+Almería,Mirandés,3-1,https://www.besoccer.com/match/almeria/mirandes/202046936,2020,19,segunda_division
+Girona,Lugo,3-1,https://www.besoccer.com/match/girona-fc/lugo/202046954,2020,19,segunda_division
+Deportivo,Real Zaragoza,1-3,https://www.besoccer.com/match/deportivo/real-zaragoza/202046948,2020,19,segunda_division
+Las Palmas,Numancia,3-1,https://www.besoccer.com/match/ud-palmas/numancia/202046966,2020,19,segunda_division
+Cádiz,Elche,0-0,https://www.besoccer.com/match/cadiz/elche/202046942,2020,19,segunda_division
+Numancia,Girona,2-0,https://www.besoccer.com/match/numancia/girona-fc/202046946,2020,20,segunda_division
+Mirandés,Huesca,2-0,https://www.besoccer.com/match/mirandes/huesca/202046943,2020,20,segunda_division
+Ponferradina,Deportivo,2-0,https://www.besoccer.com/match/ponferradina-sd/deportivo/202046949,2020,20,segunda_division
+Tenerife,Alcorcón,0-0,https://www.besoccer.com/match/tenerife/ad-alcorcon/202046958,2020,20,segunda_division
+Real Zaragoza,Racing,2-0,https://www.besoccer.com/match/real-zaragoza/racing/202046963,2020,20,segunda_division
+Extremadura,Málaga,0-0,https://www.besoccer.com/match/extremadura-ud/malaga/202046932,2020,20,segunda_division
+Real Oviedo,Cádiz,0-2,https://www.besoccer.com/match/real-oviedo/cadiz/202046953,2020,20,segunda_division
+Elche,Las Palmas,2-3,https://www.besoccer.com/match/elche/ud-palmas/202046927,2020,20,segunda_division
+Lugo,Real Sporting,1-2,https://www.besoccer.com/match/lugo/sporting-gijon/202046939,2020,20,segunda_division
+Fuenlabrada,Almería,2-2,https://www.besoccer.com/match/fuenlabrada/almeria/202046937,2020,20,segunda_division
+Rayo Vallecano,Albacete,1-0,https://www.besoccer.com/match/rayo-vallecano/albacete/202046956,2020,20,segunda_division
+Deportivo,Tenerife,2-1,https://www.besoccer.com/match/deportivo/tenerife/202046967,2020,21,segunda_division
+Albacete,Elche,0-1,https://www.besoccer.com/match/albacete/elche/202046951,2020,21,segunda_division
+Málaga,Lugo,1-1,https://www.besoccer.com/match/malaga/lugo/202046980,2020,21,segunda_division
+Las Palmas,Rayo Vallecano,1-1,https://www.besoccer.com/match/ud-palmas/rayo-vallecano/202046978,2020,21,segunda_division
+Real Sporting,Extremadura,0-1,https://www.besoccer.com/match/sporting-gijon/extremadura-ud/202046986,2020,21,segunda_division
+Racing,Real Oviedo,1-1,https://www.besoccer.com/match/racing/real-oviedo/202046983,2020,21,segunda_division
+Cádiz,Numancia,2-4,https://www.besoccer.com/match/cadiz/numancia/202046964,2020,21,segunda_division
+Almería,Ponferradina,2-3,https://www.besoccer.com/match/almeria/ponferradina-sd/202046960,2020,21,segunda_division
+Huesca,Real Zaragoza,2-1,https://www.besoccer.com/match/huesca/real-zaragoza/202046974,2020,21,segunda_division
+Alcorcón,Fuenlabrada,1-1,https://www.besoccer.com/match/ad-alcorcon/fuenlabrada/202046955,2020,21,segunda_division
+Girona,Mirandés,0-3,https://www.besoccer.com/match/girona-fc/mirandes/202046969,2020,21,segunda_division
+Extremadura,Alcorcón,0-0,https://www.besoccer.com/match/extremadura-ud/ad-alcorcon/202046975,2020,22,segunda_division
+Fuenlabrada,Las Palmas,0-0,https://www.besoccer.com/match/fuenlabrada/ud-palmas/202046981,2020,22,segunda_division
+Ponferradina,Cádiz,0-0,https://www.besoccer.com/match/ponferradina-sd/cadiz/202046991,2020,22,segunda_division
+Lugo,Almería,0-4,https://www.besoccer.com/match/lugo/almeria/202046985,2020,22,segunda_division
+Tenerife,Albacete,4-2,https://www.besoccer.com/match/tenerife/albacete/202046998,2020,22,segunda_division
+Elche,Huesca,1-1,https://www.besoccer.com/match/elche/huesca/202046972,2020,22,segunda_division
+Mirandés,Racing,0-0,https://www.besoccer.com/match/mirandes/racing/202046987,2020,22,segunda_division
+Numancia,Deportivo,0-1,https://www.besoccer.com/match/numancia/deportivo/202046989,2020,22,segunda_division
+Rayo Vallecano,Girona,1-0,https://www.besoccer.com/match/rayo-vallecano/girona-fc/202046995,2020,22,segunda_division
+Real Oviedo,Málaga,1-1,https://www.besoccer.com/match/real-oviedo/malaga/202046994,2020,22,segunda_division
+Real Zaragoza,Real Sporting,2-0,https://www.besoccer.com/match/real-zaragoza/sporting-gijon/202047002,2020,22,segunda_division
+Real Sporting,Elche,1-0,https://www.besoccer.com/match/sporting-gijon/elche/202047045,2020,23,segunda_division
+Albacete,Fuenlabrada,1-1,https://www.besoccer.com/match/albacete/fuenlabrada/202046996,2020,23,segunda_division
+Málaga,Ponferradina,1-0,https://www.besoccer.com/match/malaga/ponferradina-sd/202047033,2020,23,segunda_division
+Las Palmas,Real Zaragoza,0-1,https://www.besoccer.com/match/ud-palmas/real-zaragoza/202047025,2020,23,segunda_division
+Alcorcón,Numancia,2-2,https://www.besoccer.com/match/ad-alcorcon/numancia/202047000,2020,23,segunda_division
+Huesca,Tenerife,2-1,https://www.besoccer.com/match/huesca/tenerife/202047021,2020,23,segunda_division
+Rayo Vallecano,Lugo,1-0,https://www.besoccer.com/match/rayo-vallecano/lugo/202047041,2020,23,segunda_division
+Cádiz,Mirandés,3-3,https://www.besoccer.com/match/cadiz/mirandes/202047008,2020,23,segunda_division
+Deportivo,Racing,2-1,https://www.besoccer.com/match/deportivo/racing/202047010,2020,23,segunda_division
+Girona,Extremadura,3-1,https://www.besoccer.com/match/girona-fc/extremadura-ud/202047016,2020,23,segunda_division
+Almería,Real Oviedo,2-0,https://www.besoccer.com/match/almeria/real-oviedo/202047005,2020,23,segunda_division
+Fuenlabrada,Málaga,0-0,https://www.besoccer.com/match/fuenlabrada/malaga/202047020,2020,24,segunda_division
+Numancia,Real Sporting,2-0,https://www.besoccer.com/match/numancia/sporting-gijon/202047031,2020,24,segunda_division
+Lugo,Albacete,1-0,https://www.besoccer.com/match/lugo/albacete/202047024,2020,24,segunda_division
+Ponferradina,Rayo Vallecano,1-1,https://www.besoccer.com/match/ponferradina-sd/rayo-vallecano/202047036,2020,24,segunda_division
+Elche,Alcorcón,1-1,https://www.besoccer.com/match/elche/ad-alcorcon/202047014,2020,24,segunda_division
+Deportivo,Cádiz,1-0,https://www.besoccer.com/match/deportivo/cadiz/202047012,2020,24,segunda_division
+Real Oviedo,Huesca,1-1,https://www.besoccer.com/match/real-oviedo/huesca/202047039,2020,24,segunda_division
+Racing,Las Palmas,1-1,https://www.besoccer.com/match/racing/ud-palmas/202047044,2020,24,segunda_division
+Extremadura,Almería,1-2,https://www.besoccer.com/match/extremadura-ud/almeria/202047018,2020,24,segunda_division
+Tenerife,Girona,1-0,https://www.besoccer.com/match/tenerife/girona-fc/202047048,2020,24,segunda_division
+Mirandés,Real Zaragoza,1-1,https://www.besoccer.com/match/mirandes/real-zaragoza/202047027,2020,24,segunda_division
+Cádiz,Racing,1-0,https://www.besoccer.com/match/cadiz/racing/202047035,2020,25,segunda_division
+Huesca,Lugo,2-1,https://www.besoccer.com/match/huesca/lugo/202047040,2020,25,segunda_division
+Real Sporting,Fuenlabrada,1-0,https://www.besoccer.com/match/sporting-gijon/fuenlabrada/202047050,2020,25,segunda_division
+Las Palmas,Tenerife,0-0,https://www.besoccer.com/match/ud-palmas/tenerife/202047043,2020,25,segunda_division
+Real Zaragoza,Numancia,1-0,https://www.besoccer.com/match/real-zaragoza/numancia/202047054,2020,25,segunda_division
+Málaga,Mirandés,2-2,https://www.besoccer.com/match/malaga/mirandes/202047046,2020,25,segunda_division
+Albacete,Deportivo,0-1,https://www.besoccer.com/match/albacete/deportivo/202047013,2020,25,segunda_division
+Almería,Elche,0-2,https://www.besoccer.com/match/almeria/elche/202047030,2020,25,segunda_division
+Alcorcón,Ponferradina,3-1,https://www.besoccer.com/match/ad-alcorcon/ponferradina-sd/202047026,2020,25,segunda_division
+Rayo Vallecano,Extremadura,1-1,https://www.besoccer.com/match/rayo-vallecano/extremadura-ud/202047049,2020,25,segunda_division
+Girona,Real Oviedo,1-1,https://www.besoccer.com/match/girona-fc/real-oviedo/202047038,2020,25,segunda_division
+Tenerife,Real Sporting,2-1,https://www.besoccer.com/match/tenerife/sporting-gijon/202047099,2020,26,segunda_division
+Extremadura,Lugo,1-0,https://www.besoccer.com/match/extremadura-ud/lugo/202047068,2020,26,segunda_division
+Deportivo,Las Palmas,2-1,https://www.besoccer.com/match/deportivo/ud-palmas/202047060,2020,26,segunda_division
+Ponferradina,Huesca,3-1,https://www.besoccer.com/match/ponferradina-sd/huesca/202047083,2020,26,segunda_division
+Elche,Málaga,2-0,https://www.besoccer.com/match/elche/malaga/202047064,2020,26,segunda_division
+Fuenlabrada,Girona,0-1,https://www.besoccer.com/match/fuenlabrada/girona-fc/202047071,2020,26,segunda_division
+Cádiz,Real Zaragoza,1-1,https://www.besoccer.com/match/cadiz/real-zaragoza/202047055,2020,26,segunda_division
+Mirandés,Rayo Vallecano,0-0,https://www.besoccer.com/match/mirandes/rayo-vallecano/202047075,2020,26,segunda_division
+Numancia,Almería,1-1,https://www.besoccer.com/match/numancia/almeria/202047078,2020,26,segunda_division
+Real Oviedo,Albacete,3-1,https://www.besoccer.com/match/real-oviedo/albacete/202047087,2020,26,segunda_division
+Racing,Alcorcón,1-1,https://www.besoccer.com/match/racing/ad-alcorcon/202047093,2020,26,segunda_division
+Almería,Racing,0-1,https://www.besoccer.com/match/almeria/racing/202047067,2020,27,segunda_division
+Extremadura,Tenerife,2-4,https://www.besoccer.com/match/extremadura-ud/tenerife/202047073,2020,27,segunda_division
+Girona,Huesca,1-0,https://www.besoccer.com/match/girona-fc/huesca/202047077,2020,27,segunda_division
+Las Palmas,Cádiz,1-2,https://www.besoccer.com/match/ud-palmas/cadiz/202047084,2020,27,segunda_division
+Real Zaragoza,Fuenlabrada,0-0,https://www.besoccer.com/match/real-zaragoza/fuenlabrada/202047124,2020,27,segunda_division
+Albacete,Ponferradina,1-1,https://www.besoccer.com/match/albacete/ponferradina-sd/202047058,2020,27,segunda_division
+Alcorcón,Deportivo,0-1,https://www.besoccer.com/match/ad-alcorcon/deportivo/202047061,2020,27,segunda_division
+Real Sporting,Mirandés,2-2,https://www.besoccer.com/match/sporting-gijon/mirandes/202047105,2020,27,segunda_division
+Lugo,Elche,2-2,https://www.besoccer.com/match/lugo/elche/202047090,2020,27,segunda_division
+Rayo Vallecano,Real Oviedo,1-1,https://www.besoccer.com/match/rayo-vallecano/real-oviedo/202047101,2020,27,segunda_division
+Málaga,Numancia,2-1,https://www.besoccer.com/match/malaga/numancia/202047096,2020,27,segunda_division
+Deportivo,Girona,2-2,https://www.besoccer.com/match/deportivo/girona-fc/202046868,2020,28,segunda_division
+Huesca,Almería,3-2,https://www.besoccer.com/match/huesca/almeria/202046882,2020,28,segunda_division
+Numancia,Las Palmas,1-1,https://www.besoccer.com/match/numancia/ud-palmas/202046894,2020,28,segunda_division
+Real Oviedo,Alcorcón,1-2,https://www.besoccer.com/match/real-oviedo/ad-alcorcon/202046905,2020,28,segunda_division
+Elche,Real Zaragoza,1-2,https://www.besoccer.com/match/elche/real-zaragoza/202046873,2020,28,segunda_division
+Fuenlabrada,Lugo,0-1,https://www.besoccer.com/match/fuenlabrada/lugo/202046879,2020,28,segunda_division
+Mirandés,Albacete,1-1,https://www.besoccer.com/match/mirandes/albacete/202046888,2020,28,segunda_division
+Cádiz,Málaga,0-1,https://www.besoccer.com/match/cadiz/malaga/202046864,2020,28,segunda_division
+Ponferradina,Extremadura,0-0,https://www.besoccer.com/match/ponferradina-sd/extremadura-ud/202046899,2020,28,segunda_division
+Racing,Real Sporting,0-2,https://www.besoccer.com/match/racing/sporting-gijon/202046910,2020,28,segunda_division
+Tenerife,Rayo Vallecano,0-0,https://www.besoccer.com/match/tenerife/rayo-vallecano/202046915,2020,28,segunda_division
+Real Sporting,Cádiz,1-0,https://www.besoccer.com/match/sporting-gijon/cadiz/202046973,2020,29,segunda_division
+Alcorcón,Las Palmas,1-1,https://www.besoccer.com/match/ad-alcorcon/ud-palmas/202046935,2020,29,segunda_division
+Almería,Fuenlabrada,0-0,https://www.besoccer.com/match/almeria/fuenlabrada/202046940,2020,29,segunda_division
+Girona,Ponferradina,2-0,https://www.besoccer.com/match/girona-fc/ponferradina-sd/202046947,2020,29,segunda_division
+Tenerife,Elche,1-0,https://www.besoccer.com/match/tenerife/elche/202046968,2020,29,segunda_division
+Albacete,Numancia,2-1,https://www.besoccer.com/match/albacete/numancia/202046928,2020,29,segunda_division
+Lugo,Real Oviedo,1-0,https://www.besoccer.com/match/lugo/real-oviedo/202046952,2020,29,segunda_division
+Real Zaragoza,Deportivo,3-1,https://www.besoccer.com/match/real-zaragoza/deportivo/202046977,2020,29,segunda_division
+Extremadura,Mirandés,3-2,https://www.besoccer.com/match/extremadura-ud/mirandes/202046944,2020,29,segunda_division
+Málaga,Racing,2-0,https://www.besoccer.com/match/malaga/racing/202046957,2020,29,segunda_division
+Rayo Vallecano,Huesca,2-0,https://www.besoccer.com/match/rayo-vallecano/huesca/202046961,2020,29,segunda_division
+Las Palmas,Málaga,1-1,https://www.besoccer.com/match/ud-palmas/malaga/202047017,2020,30,segunda_division
+Huesca,Extremadura,2-2,https://www.besoccer.com/match/huesca/extremadura-ud/202047011,2020,30,segunda_division
+Ponferradina,Real Sporting,1-0,https://www.besoccer.com/match/ponferradina-sd/sporting-gijon/202047028,2020,30,segunda_division
+Cádiz,Almería,2-1,https://www.besoccer.com/match/cadiz/almeria/202047001,2020,30,segunda_division
+Albacete,Rayo Vallecano,1-1,https://www.besoccer.com/match/albacete/rayo-vallecano/202046993,2020,30,segunda_division
+Racing,Real Zaragoza,2-2,https://www.besoccer.com/match/racing/real-zaragoza/202047037,2020,30,segunda_division
+Mirandés,Girona,1-1,https://www.besoccer.com/match/mirandes/girona-fc/202047022,2020,30,segunda_division
+Deportivo,Lugo,0-0,https://www.besoccer.com/match/deportivo/lugo/202047004,2020,30,segunda_division
+Elche,Numancia,2-0,https://www.besoccer.com/match/elche/numancia/202047007,2020,30,segunda_division
+Real Oviedo,Tenerife,1-0,https://www.besoccer.com/match/real-oviedo/tenerife/202047032,2020,30,segunda_division
+Fuenlabrada,Alcorcón,3-4,https://www.besoccer.com/match/fuenlabrada/ad-alcorcon/202047009,2020,30,segunda_division
+Lugo,Cádiz,1-1,https://www.besoccer.com/match/lugo/cadiz/202047081,2020,31,segunda_division
+Extremadura,Real Oviedo,1-2,https://www.besoccer.com/match/extremadura-ud/real-oviedo/202047062,2020,31,segunda_division
+Girona,Albacete,1-1,https://www.besoccer.com/match/girona-fc/albacete/202047065,2020,31,segunda_division
+Huesca,Fuenlabrada,2-0,https://www.besoccer.com/match/huesca/fuenlabrada/202047070,2020,31,segunda_division
+Numancia,Racing,1-2,https://www.besoccer.com/match/numancia/racing/202047092,2020,31,segunda_division
+Almería,Deportivo,4-0,https://www.besoccer.com/match/almeria/deportivo/202047056,2020,31,segunda_division
+Rayo Vallecano,Elche,2-3,https://www.besoccer.com/match/rayo-vallecano/elche/202047097,2020,31,segunda_division
+Málaga,Real Zaragoza,0-1,https://www.besoccer.com/match/malaga/real-zaragoza/202047088,2020,31,segunda_division
+Alcorcón,Mirandés,1-2,https://www.besoccer.com/match/ad-alcorcon/mirandes/202047053,2020,31,segunda_division
+Real Sporting,Las Palmas,4-0,https://www.besoccer.com/match/sporting-gijon/ud-palmas/202047106,2020,31,segunda_division
+Tenerife,Ponferradina,1-0,https://www.besoccer.com/match/tenerife/ponferradina-sd/202047103,2020,31,segunda_division
+Elche,Extremadura,1-1,https://www.besoccer.com/match/elche/extremadura-ud/202047076,2020,32,segunda_division
+Fuenlabrada,Tenerife,1-0,https://www.besoccer.com/match/fuenlabrada/tenerife/202047079,2020,32,segunda_division
+Málaga,Huesca,1-3,https://www.besoccer.com/match/malaga/huesca/202047091,2020,32,segunda_division
+Real Oviedo,Ponferradina,0-0,https://www.besoccer.com/match/real-oviedo/ponferradina-sd/202047094,2020,32,segunda_division
+Racing,Lugo,1-2,https://www.besoccer.com/match/racing/lugo/202047098,2020,32,segunda_division
+Las Palmas,Girona,0-0,https://www.besoccer.com/match/ud-palmas/girona-fc/202047082,2020,32,segunda_division
+Real Zaragoza,Alcorcón,1-3,https://www.besoccer.com/match/real-zaragoza/ad-alcorcon/202047102,2020,32,segunda_division
+Deportivo,Real Sporting,0-0,https://www.besoccer.com/match/deportivo/sporting-gijon/202047072,2020,32,segunda_division
+Mirandés,Numancia,2-1,https://www.besoccer.com/match/mirandes/numancia/202047086,2020,32,segunda_division
+Albacete,Almería,0-1,https://www.besoccer.com/match/albacete/almeria/202047066,2020,32,segunda_division
+Cádiz,Rayo Vallecano,1-1,https://www.besoccer.com/match/cadiz/rayo-vallecano/202047069,2020,32,segunda_division
+Ponferradina,Elche,2-1,https://www.besoccer.com/match/ponferradina-sd/elche/202047123,2020,33,segunda_division
+Tenerife,Málaga,0-0,https://www.besoccer.com/match/tenerife/malaga/202047133,2020,33,segunda_division
+Lugo,Real Zaragoza,1-3,https://www.besoccer.com/match/lugo/real-zaragoza/202047118,2020,33,segunda_division
+Girona,Racing,0-0,https://www.besoccer.com/match/girona-fc/racing/202047115,2020,33,segunda_division
+Almería,Las Palmas,0-1,https://www.besoccer.com/match/almeria/ud-palmas/202047110,2020,33,segunda_division
+Extremadura,Albacete,0-1,https://www.besoccer.com/match/extremadura-ud/albacete/202047113,2020,33,segunda_division
+Real Oviedo,Deportivo,2-2,https://www.besoccer.com/match/real-oviedo/deportivo/202047127,2020,33,segunda_division
+Rayo Vallecano,Fuenlabrada,1-0,https://www.besoccer.com/match/rayo-vallecano/fuenlabrada/202047130,2020,33,segunda_division
+Huesca,Mirandés,1-2,https://www.besoccer.com/match/huesca/mirandes/202047116,2020,33,segunda_division
+Numancia,Cádiz,1-2,https://www.besoccer.com/match/numancia/cadiz/202047121,2020,33,segunda_division
+Alcorcón,Real Sporting,0-2,https://www.besoccer.com/match/ad-alcorcon/sporting-gijon/202047108,2020,33,segunda_division
+Elche,Girona,1-0,https://www.besoccer.com/match/elche/girona-fc/202047119,2020,34,segunda_division
+Deportivo,Rayo Vallecano,3-3,https://www.besoccer.com/match/deportivo/rayo-vallecano/202047114,2020,34,segunda_division
+Las Palmas,Lugo,1-0,https://www.besoccer.com/match/ud-palmas/lugo/202047126,2020,34,segunda_division
+Real Zaragoza,Almería,0-2,https://www.besoccer.com/match/real-zaragoza/almeria/202047139,2020,34,segunda_division
+Málaga,Extremadura,1-1,https://www.besoccer.com/match/malaga/extremadura-ud/202047132,2020,34,segunda_division
+Mirandés,Ponferradina,1-2,https://www.besoccer.com/match/mirandes/ponferradina-sd/202047129,2020,34,segunda_division
+Racing,Tenerife,1-2,https://www.besoccer.com/match/racing/tenerife/202047135,2020,34,segunda_division
+Albacete,Huesca,2-2,https://www.besoccer.com/match/albacete/huesca/202047109,2020,34,segunda_division
+Cádiz,Alcorcón,1-1,https://www.besoccer.com/match/cadiz/ad-alcorcon/202047112,2020,34,segunda_division
+Fuenlabrada,Numancia,2-0,https://www.besoccer.com/match/fuenlabrada/numancia/202047122,2020,34,segunda_division
+Real Sporting,Real Oviedo,0-1,https://www.besoccer.com/match/sporting-gijon/real-oviedo/202047137,2020,34,segunda_division
+Lugo,Málaga,0-0,https://www.besoccer.com/match/lugo/malaga/202047138,2020,35,segunda_division
+Elche,Deportivo,0-1,https://www.besoccer.com/match/elche/deportivo/202047125,2020,35,segunda_division
+Extremadura,Real Zaragoza,1-2,https://www.besoccer.com/match/extremadura-ud/real-zaragoza/202047128,2020,35,segunda_division
+Girona,Numancia,2-0,https://www.besoccer.com/match/girona-fc/numancia/202047131,2020,35,segunda_division
+Huesca,Cádiz,1-1,https://www.besoccer.com/match/huesca/cadiz/202047134,2020,35,segunda_division
+Tenerife,Mirandés,4-1,https://www.besoccer.com/match/tenerife/mirandes/202047143,2020,35,segunda_division
+Albacete,Las Palmas,0-0,https://www.besoccer.com/match/albacete/ud-palmas/202047117,2020,35,segunda_division
+Ponferradina,Racing,1-1,https://www.besoccer.com/match/ponferradina-sd/racing/202047140,2020,35,segunda_division
+Almería,Alcorcón,0-1,https://www.besoccer.com/match/almeria/ad-alcorcon/202047120,2020,35,segunda_division
+Rayo Vallecano,Real Sporting,1-1,https://www.besoccer.com/match/rayo-vallecano/sporting-gijon/202047142,2020,35,segunda_division
+Real Oviedo,Fuenlabrada,0-0,https://www.besoccer.com/match/real-oviedo/fuenlabrada/202047141,2020,35,segunda_division
+Deportivo,Ponferradina,2-1,https://www.besoccer.com/match/deportivo/ponferradina-sd/202047023,2020,36,segunda_division
+Cádiz,Tenerife,0-2,https://www.besoccer.com/match/cadiz/tenerife/202047019,2020,36,segunda_division
+Las Palmas,Elche,1-1,https://www.besoccer.com/match/ud-palmas/elche/202047080,2020,36,segunda_division
+Racing,Albacete,1-2,https://www.besoccer.com/match/racing/albacete/202047104,2020,36,segunda_division
+Mirandés,Almería,2-2,https://www.besoccer.com/match/mirandes/almeria/202047085,2020,36,segunda_division
+Real Sporting,Lugo,2-0,https://www.besoccer.com/match/sporting-gijon/lugo/202047107,2020,36,segunda_division
+Málaga,Girona,2-0,https://www.besoccer.com/match/malaga/girona-fc/202047089,2020,36,segunda_division
+Numancia,Real Oviedo,1-0,https://www.besoccer.com/match/numancia/real-oviedo/202047100,2020,36,segunda_division
+Fuenlabrada,Extremadura,1-1,https://www.besoccer.com/match/fuenlabrada/extremadura-ud/202047074,2020,36,segunda_division
+Alcorcón,Rayo Vallecano,3-2,https://www.besoccer.com/match/ad-alcorcon/rayo-vallecano/202047015,2020,36,segunda_division
+Real Zaragoza,Huesca,0-1,https://www.besoccer.com/match/real-zaragoza/huesca/202047111,2020,36,segunda_division
+Tenerife,Deportivo,1-1,https://www.besoccer.com/match/tenerife/deportivo/202047006,2020,37,segunda_division
+Elche,Cádiz,0-0,https://www.besoccer.com/match/elche/cadiz/202046970,2020,37,segunda_division
+Almería,Real Sporting,1-0,https://www.besoccer.com/match/almeria/sporting-gijon/202046965,2020,37,segunda_division
+Lugo,Numancia,3-1,https://www.besoccer.com/match/lugo/numancia/202046990,2020,37,segunda_division
+Real Oviedo,Mirandés,1-0,https://www.besoccer.com/match/real-oviedo/mirandes/202046997,2020,37,segunda_division
+Extremadura,Racing,3-1,https://www.besoccer.com/match/extremadura-ud/racing/202046976,2020,37,segunda_division
+Ponferradina,Fuenlabrada,0-3,https://www.besoccer.com/match/ponferradina-sd/fuenlabrada/202046992,2020,37,segunda_division
+Huesca,Las Palmas,1-0,https://www.besoccer.com/match/huesca/ud-palmas/202046988,2020,37,segunda_division
+Albacete,Alcorcón,1-1,https://www.besoccer.com/match/albacete/ad-alcorcon/202046962,2020,37,segunda_division
+Rayo Vallecano,Málaga,0-0,https://www.besoccer.com/match/rayo-vallecano/malaga/202047003,2020,37,segunda_division
+Girona,Real Zaragoza,1-0,https://www.besoccer.com/match/girona-fc/real-zaragoza/202046982,2020,37,segunda_division
+Racing,Elche,1-2,https://www.besoccer.com/match/racing/elche/202046941,2020,38,segunda_division
+Numancia,Extremadura,1-0,https://www.besoccer.com/match/numancia/extremadura-ud/202046934,2020,38,segunda_division
+Almería,Tenerife,1-2,https://www.besoccer.com/match/almeria/tenerife/202046901,2020,38,segunda_division
+Cádiz,Real Oviedo,2-0,https://www.besoccer.com/match/cadiz/real-oviedo/202046913,2020,38,segunda_division
+Fuenlabrada,Mirandés,2-2,https://www.besoccer.com/match/fuenlabrada/mirandes/202046922,2020,38,segunda_division
+Deportivo,Huesca,2-1,https://www.besoccer.com/match/deportivo/huesca/202046917,2020,38,segunda_division
+Las Palmas,Ponferradina,3-0,https://www.besoccer.com/match/ud-palmas/ponferradina-sd/202046925,2020,38,segunda_division
+Málaga,Albacete,0-0,https://www.besoccer.com/match/malaga/albacete/202046931,2020,38,segunda_division
+Alcorcón,Lugo,2-2,https://www.besoccer.com/match/ad-alcorcon/lugo/202046895,2020,38,segunda_division
+Real Sporting,Girona,0-0,https://www.besoccer.com/match/sporting-gijon/girona-fc/202046945,2020,38,segunda_division
+Real Zaragoza,Rayo Vallecano,2-4,https://www.besoccer.com/match/real-zaragoza/rayo-vallecano/202046950,2020,38,segunda_division
+Mirandés,Elche,1-0,https://www.besoccer.com/match/mirandes/elche/202046835,2020,39,segunda_division
+Fuenlabrada,Racing,1-0,https://www.besoccer.com/match/fuenlabrada/racing/202046815,2020,39,segunda_division
+Extremadura,Cádiz,0-1,https://www.besoccer.com/match/extremadura-ud/cadiz/202046808,2020,39,segunda_division
+Málaga,Deportivo,1-0,https://www.besoccer.com/match/malaga/deportivo/202046839,2020,39,segunda_division
+Real Oviedo,Las Palmas,2-1,https://www.besoccer.com/match/real-oviedo/ud-palmas/202046847,2020,39,segunda_division
+Huesca,Alcorcón,2-1,https://www.besoccer.com/match/huesca/ad-alcorcon/202046829,2020,39,segunda_division
+Ponferradina,Lugo,0-1,https://www.besoccer.com/match/ponferradina-sd/lugo/202046843,2020,39,segunda_division
+Albacete,Real Sporting,1-1,https://www.besoccer.com/match/albacete/sporting-gijon/202046803,2020,39,segunda_division
+Rayo Vallecano,Numancia,3-2,https://www.besoccer.com/match/rayo-vallecano/numancia/202046849,2020,39,segunda_division
+Girona,Almería,1-0,https://www.besoccer.com/match/girona-fc/almeria/202046825,2020,39,segunda_division
+Tenerife,Real Zaragoza,1-1,https://www.besoccer.com/match/tenerife/real-zaragoza/202046855,2020,39,segunda_division
+Racing,Huesca,1-0,https://www.besoccer.com/match/racing/huesca/202046787,2020,40,segunda_division
+Las Palmas,Mirandés,1-0,https://www.besoccer.com/match/ud-palmas/mirandes/202046768,2020,40,segunda_division
+Cádiz,Fuenlabrada,0-1,https://www.besoccer.com/match/cadiz/fuenlabrada/202046756,2020,40,segunda_division
+Deportivo,Extremadura,2-3,https://www.besoccer.com/match/deportivo/extremadura-ud/202046759,2020,40,segunda_division
+Lugo,Girona,2-2,https://www.besoccer.com/match/lugo/girona-fc/202046773,2020,40,segunda_division
+Numancia,Ponferradina,1-0,https://www.besoccer.com/match/numancia/ponferradina-sd/202046782,2020,40,segunda_division
+Real Zaragoza,Real Oviedo,2-4,https://www.besoccer.com/match/real-zaragoza/real-oviedo/202046798,2020,40,segunda_division
+Almería,Rayo Vallecano,3-2,https://www.besoccer.com/match/almeria/rayo-vallecano/202046752,2020,40,segunda_division
+Real Sporting,Málaga,2-1,https://www.besoccer.com/match/sporting-gijon/malaga/202046792,2020,40,segunda_division
+Alcorcón,Tenerife,0-0,https://www.besoccer.com/match/ad-alcorcon/tenerife/202046749,2020,40,segunda_division
+Elche,Albacete,2-0,https://www.besoccer.com/match/elche/albacete/202046764,2020,40,segunda_division
+Albacete,Real Zaragoza,4-1,https://www.besoccer.com/match/albacete/real-zaragoza/202046707,2020,41,segunda_division
+Extremadura,Real Sporting,2-0,https://www.besoccer.com/match/extremadura-ud/sporting-gijon/202046711,2020,41,segunda_division
+Fuenlabrada,Elche,3-1,https://www.besoccer.com/match/fuenlabrada/elche/202046715,2020,41,segunda_division
+Girona,Cádiz,2-1,https://www.besoccer.com/match/girona-fc/cadiz/202046718,2020,41,segunda_division
+Huesca,Numancia,3-0,https://www.besoccer.com/match/huesca/numancia/202046723,2020,41,segunda_division
+Mirandés,Deportivo,1-0,https://www.besoccer.com/match/mirandes/deportivo/202046725,2020,41,segunda_division
+Málaga,Alcorcón,2-0,https://www.besoccer.com/match/malaga/ad-alcorcon/202046729,2020,41,segunda_division
+Ponferradina,Almería,2-1,https://www.besoccer.com/match/ponferradina-sd/almeria/202046735,2020,41,segunda_division
+Real Oviedo,Racing,1-0,https://www.besoccer.com/match/real-oviedo/racing/202046736,2020,41,segunda_division
+Rayo Vallecano,Las Palmas,2-2,https://www.besoccer.com/match/rayo-vallecano/ud-palmas/202046740,2020,41,segunda_division
+Tenerife,Lugo,1-2,https://www.besoccer.com/match/tenerife/lugo/202046744,2020,41,segunda_division
+Las Palmas,Extremadura,5-1,https://www.besoccer.com/match/ud-palmas/extremadura-ud/202046685,2020,42,segunda_division
+Alcorcón,Girona,2-0,https://www.besoccer.com/match/ad-alcorcon/girona-fc/202046669,2020,42,segunda_division
+Almería,Málaga,0-0,https://www.besoccer.com/match/almeria/malaga/202046672,2020,42,segunda_division
+Cádiz,Albacete,0-1,https://www.besoccer.com/match/cadiz/albacete/202046675,2020,42,segunda_division
+Elche,Real Oviedo,2-1,https://www.besoccer.com/match/elche/real-oviedo/202046682,2020,42,segunda_division
+Lugo,Mirandés,2-1,https://www.besoccer.com/match/lugo/mirandes/202046689,2020,42,segunda_division
+Numancia,Tenerife,2-1,https://www.besoccer.com/match/numancia/tenerife/202046693,2020,42,segunda_division
+Racing,Rayo Vallecano,1-2,https://www.besoccer.com/match/racing/rayo-vallecano/202046697,2020,42,segunda_division
+Real Sporting,Huesca,0-1,https://www.besoccer.com/match/sporting-gijon/huesca/202046700,2020,42,segunda_division
+Real Zaragoza,Ponferradina,2-1,https://www.besoccer.com/match/real-zaragoza/ponferradina-sd/202046702,2020,42,segunda_division
+Deportivo,Fuenlabrada,2-1,https://www.besoccer.com/match/deportivo/fuenlabrada/202046678,2020,42,segunda_division
