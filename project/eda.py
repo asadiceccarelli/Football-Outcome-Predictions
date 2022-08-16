@@ -92,6 +92,21 @@ def plot_capacity():
     capcity_outcome_scatter.write_image('README-images/capacity.png')
 
 
+def plot_cards():
+    main_df['home_cards'] = main_df.apply(lambda x: x['home_yellow'] + x['home_red'], axis=1)
+    home_cards = main_df.groupby('home_team')['home_cards'].mean()
+    capacity_cards = pd.merge(home_cards, main_df, left_on='home_team', right_on='home_team', how='left')
+    capacity_cards
+    capacity_cards_scatter = px.scatter(
+        x=capacity_cards['capacity'], y=capacity_cards['home_cards_x'],
+        trendline='ols',
+        trendline_color_override='red',
+        labels={'x': 'capacity', 'y': 'average no. cards per game'},
+        title='The effect of stadium size on the number of cards in a match'
+        )
+    capacity_cards_scatter.write_image('README-images/cards.png')
+
+
 if __name__ == '__main__':
     concatenate_data()
     clean_data()
