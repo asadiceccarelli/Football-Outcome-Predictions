@@ -104,8 +104,18 @@ Other data that could be looked at is the frequency of cards given by each refer
 - The features that will affect the yellow and red cards in a game will be the past number of cards the club has received and the referee of that game.
 - Stadium size will have a impact on both these labels - the larger the stadium the larger the liklelihood of a home win and less cards received. 
 
+More features will be added and inspected as the project progresses.
 
 ## Milestone 3: Feature Engineering
+
+### ELO
+
+The ELO is a points system which is given to each team in relation their previous results where the stronger a team is, the greater their ELO value. This value is calculated automatically by a predetermined algorithm after each game, but comparing the two teams score will almost certainly be a key feature in predicting the outcome of games. This data is loaded using ```pickle``` and merged into the main dataframe.
+```python 
+elo_dict = pickle.load(open('elo_dict.pkl', 'rb'))
+elo_df = pd.DataFrame.from_dict(elo_dict)
+elo_df = elo_df.transpose().reset_index().rename(columns={'index': 'Link'})
+```
 
 ## Milestone 4: Uploading to a Database
 

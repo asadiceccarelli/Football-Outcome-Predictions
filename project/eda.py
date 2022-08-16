@@ -1,4 +1,5 @@
 import glob
+import pickle
 import pandas as pd
 import plotly.express as px
 
@@ -22,8 +23,13 @@ def concatenate_data():
     raw_df['clean_link'] = raw_df['Link'].apply(clean_link)
     match_info_df = pd.read_csv('https://aicore-files.s3.amazonaws.com/Data-Science/Match_Info.csv')
     team_info_df = pd.read_csv("https://aicore-files.s3.amazonaws.com/Data-Science/Team_Info.csv")
+    elo_dict = pickle.load(open('elo_dict.pkl', 'rb'))
+    elo_df = pd.DataFrame.from_dict(elo_dict)
+    elo_df = elo_df.transpose().reset_index().rename(columns={'index': 'Link'})
+
     match_df = pd.merge(raw_df, match_info_df, left_on='clean_link', right_on='Link')
-    main_df = pd.merge(match_df, team_info_df, left_on='Home_Team', right_on='Team', how='left')
+    mach_elo_df = pd.merge(match_df, elo_df, left_on='Link_x', right_on='Link', how='left')
+    main_df = pd.merge(mach_elo_df, team_info_df, left_on='Home_Team', right_on='Team', how='left')
 
 
 def clean_data():
@@ -105,6 +111,16 @@ def plot_cards():
         title='The effect of stadium size on the number of cards in a match'
         )
     capacity_cards_scatter.write_image('README-images/cards.png')
+
+
+def get_main_df():
+    concatenate_data()
+    clean_data()
+    create_outcome()
+    return main_df
+
+def test():
+    pass
 
 
 if __name__ == '__main__':
