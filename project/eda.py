@@ -1,12 +1,11 @@
 import glob
 import pandas as pd
-import missingno as msno
-import matplotlib.pyplot as plt
+import plotly.express as px
 
 
 def concatenate_data():
-    '''Combine all dataframes into one singular dataframe to be inspected.'''
-    global match_df
+    """Combine all dataframes into one singular dataframe, main_df."""
+    global main_df
     paths = glob.glob('Football-Dataset/*/*')
     pd_list = []
     for path in paths:
@@ -22,74 +21,82 @@ def concatenate_data():
     
     raw_df['clean_link'] = raw_df['Link'].apply(clean_link)
     match_info_df = pd.read_csv('https://aicore-files.s3.amazonaws.com/Data-Science/Match_Info.csv')
+    team_info_df = pd.read_csv("https://aicore-files.s3.amazonaws.com/Data-Science/Team_Info.csv")
     match_df = pd.merge(raw_df, match_info_df, left_on='clean_link', right_on='Link')
-    msno.matrix(match_df)
+    main_df = pd.merge(match_df, team_info_df, left_on='Home_Team', right_on='Team', how='left')
 
 
-
-def clean_data(df):
-    df.columns= df.columns.str.lower()
-    match_df.drop(['link_x', 'link_y'], axis=1, inplace=True)
-    df.drop_duplicates('clean_link', inplace=True)
-
-    def clean_referee(ref):
-        if isinstance(ref, str) == True:
-            new_ref = ref.split('\r\n')[1][9:]
-            return new_ref
-
-    df['referee'] = df['referee'].apply(clean_referee)
+def clean_data():
+    """Cleans the dataframe by dropping unnecessary columns, removing duplicates and cleaning referee and capacity data."""
+    main_df.columns= main_df.columns.str.lower()
+    main_df.drop(['link_x', 'link_y', 'team'], axis=1, inplace=True)
+    main_df.drop_duplicates('clean_link', inplace=True)
+    main_df.drop(main_df[main_df['league'] == 'eerste_divisie'].index, inplace=True)
+    main_df.drop(main_df[main_df['league'] == 'segunda_liga'].index, inplace=True)
+    main_df.drop(main_df[(main_df.league == 'championship') & (main_df.season == 1998)].index, inplace=True)
+    main_df['referee'] = main_df['referee'].apply(lambda x: x.split('\r\n')[1][9:] if type(x)==str else x)
+    main_df['capacity'] = main_df['capacity'].apply(lambda x: int(x.replace(',', '')) if type(x)==str else x)
 
 
-def create_outcome(df):
-    '''Creates an outcome column where a home win == 1, draw == 0 and away win == -1. Drops uneccessary link and result columns.'''
-    df.drop(df[df['Result'].str.len() != 3].index, inplace=True)  # Remove any scores set as dates
-    df['Home_Goals'] = df['Result'].apply(lambda x: x.split('-')[0])
-    df['Away_Goals'] = df['Result'].apply(lambda x: x.split('-')[-1])
-    df['Outcome'] = df[['Home_Goals', 'Away_Goals']].apply(
-        lambda x: 1 if x['Home_Goals'] > x['Away_Goals'] else (-1 if x['Home_Goals'] < x['Away_Goals'] else 0), axis=1)
-    df.drop('Link', axis=1, inplace=True)
+def create_outcome():
+    """Creates an outcome column where a home win == 1, draw == 0 and away win == -1. Drops uneccessary link and result columns."""
+    main_df.drop(main_df[main_df['result'].str.len() != 3].index, inplace=True)  # Remove any scores set as dates
+    main_df['home_goals'] = main_df['result'].apply(lambda x: x.split('-')[0])
+    main_df['away_goals'] = main_df['result'].apply(lambda x: x.split('-')[-1])
+    main_df.drop('result', axis=1, inplace=True)
+    main_df['outcome'] = main_df[['home_goals', 'away_goals']].apply(
+        lambda x: 1 if x['home_goals'] > x['away_goals'] else (-1 if x['home_goals'] < x['away_goals'] else 0), axis=1)
 
 
-def plot_outcome(df):
-    '''Plots the outcome of all leagues against time and saves the figure to README-images.'''
-    plt.figure(0)
-    df.groupby('Season')['Outcome'].mean().plot()
-    plt.xlabel('Year')
-    plt.ylabel('Result')
-    plt.savefig('README-images/outcome-over-time.jpg', bbox_inches='tight', dpi=300)
+def plot_outcome():
+    """Plots the outcome of all leagues against time and saves the figure to README-images."""
+    outcome_line = px.line(main_df.groupby('season')['outcome'].mean(), title='Outcome of matches over time')
+    outcome_line.update_layout(showlegend=False)
+    outcome_line.write_image('README-images/outcome-over-time.png')
 
 
-def plot_goals(df):
-    '''Removes matches where scores not set as integers.
-    Plots the average goals per game of each league and saves the figure to README-images.'''
-    df.drop(df[df['Result'].str.len() != 3].index, inplace=True)  # Remove any scores set as dates
-    df['Home_Goals'] = df['Home_Goals'].astype('int64')
-    df['Away_Goals'] = df['Away_Goals'].astype('int64')
-    df['Total_Goals'] = df[['Home_Goals','Away_Goals']].apply(lambda x: x['Home_Goals'] + x['Away_Goals'], axis=1)
-
-    plt.figure(1)
-    df.groupby('League')['Total_Goals'].mean().plot(kind='bar')
-    plt.xlabel('Year')
-    plt.ylabel('Goals')
-    plt.savefig('README-images/average-goals.jpg', bbox_inches='tight', dpi=300)
+def plot_goals():
+    """ Plots the average goals per game of each league and saves the figure to README-images."""
+    main_df['home_goals'] = main_df['home_goals'].astype('int64')
+    main_df['away_goals'] = main_df['away_goals'].astype('int64')
+    main_df['total_goals'] = main_df[['home_goals','away_goals']].apply(lambda x: x['home_goals'] + x['away_goals'], axis=1)
+    goals_bar = px.bar(main_df.groupby('league')['total_goals'].mean(), title='Average number of goals per game')
+    goals_bar.update_layout(showlegend=False)
+    goals_bar.write_image('README-images/average_goals.png')
 
 
-def plot_rounds(df):
-    '''Plots the number of rounds in each league against time and saves the figure to README-images.'''
-    plt.figure(2)
-    plt.tight_layout(pad=5)
-    df_leagues = df['League'].unique()
-    for league in df_leagues:
-        df[df['League'] == f'{league}'].groupby('Season')['Round'].max().plot()
-    plt.xlabel('Year')
-    plt.ylabel('Number of Rounds')
-    plt.legend(df_leagues, bbox_to_anchor =(1, 1.03))
-    plt.savefig('README-images/rounds.jpg', bbox_inches='tight', dpi=300)
+def plot_rounds():
+    """Plots a line graph of the number of rounds in each league against time and saves the figure to README-images."""
+    dict = {}
+    leagues = main_df['league'].unique()
+    for league in leagues:
+        dict[league] = main_df[main_df['league'] == f'{league}'].groupby('season')['round'].max()
+    rounds_line = px.line(
+        dict, labels={'value': 'no. rounds'},
+        title='Rounds per season for each league',
+        color_discrete_sequence=px.colors.qualitative.Light24
+        )
+    rounds_line.write_image('README-images/rounds.png')
+
+def plot_capacity():
+    """Plots a scatter chart of stadium size vs the average home outcome of each game and saves the figure to README-images."""
+    home_outcome = main_df.groupby('home_team')['outcome'].mean()
+    capcity_outcome = pd.merge(home_outcome, main_df, left_on='home_team', right_on='home_team', how='left')
+    capcity_outcome_scatter = px.scatter(
+        x=capcity_outcome['capacity'], y=capcity_outcome['outcome_x'],
+        trendline='ols',
+        trendline_color_override='red',
+        labels={'x': 'capacity', 'y': 'average outcome'},
+        title='The effect of stadium size on the outcome of a match'
+        )
+    capcity_outcome_scatter.write_image('README-images/capacity.png')
 
 
 if __name__ == '__main__':
     concatenate_data()
-    # create_outcome(df)
-    # plot_outcome(df)
-    # plot_goals(df)
-    # plot_rounds(df)
+    clean_data()
+    # plot_rounds()
+    create_outcome()
+    plot_outcome()
+    plot_goals()
+    plot_capacity()
