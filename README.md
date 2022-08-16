@@ -21,9 +21,9 @@ Exploratory Data Analysis (EDA) is the first step that must be undertaken before
 ### Data Cleaning
 
 After concatenating the data provided into a singular dataframe ```main_df``` and running the ```describe()``` method on it, several key pieces of information show up:
-  - The data contains information from 142536 matches spanning 32 years across 14 different leagues.
-  - There is a discrepancy between the total number of links (142536) and the number of unique links (128379). Reasons for this could be some matches do not contain a link, contain the wrong link or there may be duplicates of matches in the dataframe.
-  - There is a discrepancy between the number of unique home teams (533) and the number of unique away teams (540). These too, should in theory have the same value.
+- The data contains information from 142536 matches spanning 32 years across 14 different leagues.
+- There is a discrepancy between the total number of links (142536) and the number of unique links (128379). Reasons for this could be some matches do not contain a link, contain the wrong link or there may be duplicates of matches in the dataframe.
+- There is a discrepancy between the number of unique home teams (533) and the number of unique away teams (540). These too, should in theory have the same value.
 
 Missing data can be visualised using the ```missingno``` package and running ```missingno.matix(main_df)```.
 
@@ -87,7 +87,23 @@ In order to investigate the effect that the stadium size has on the outcome of a
   >
 </p>
 
+Similarly, the number of cards per game a home team receives is plotted as a function of stadium capacity. Here the trend is less pronounced, but  demonstrating a negative coefficient nonetheless. This is perhaps due to teams playing in smaller stadium being from lower leagues where the game is potentially a little more 'old school', resulting in more cardable offences. Furthermore, the home team is less likely to receive cards in comparison the away team.
+
+<p align='center'>
+  <img 
+    width='400'
+    src='README-images/cards.png'
+  >
+</p>
+
 Other data that could be looked at is the frequency of cards given by each referee, the number of draws per league and if the time of year affects the goals/outcome.
+
+### Hypothesis
+
+- The feature with the greatest impact on the result will be the past results of each club. Other important features will be the past number of goals score and conceeded and the stadium size.
+- The features that will affect the yellow and red cards in a game will be the past number of cards the club has received and the referee of that game.
+- Stadium size will have a impact on both these labels - the larger the stadium the larger the liklelihood of a home win and less cards received. 
+
 
 ## Milestone 3: Feature Engineering
 
