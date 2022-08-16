@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Chievo,Juventus,0-1,https://www.besoccer.com/match/chievo/juventus-fc/201528784,2015,1,serie_a
+Roma,Fiorentina,2-0,https://www.besoccer.com/match/roma/fiorentina/201528782,2015,1,serie_a
+Milan,Lazio,3-1,https://www.besoccer.com/match/milan/lazio/201528783,2015,1,serie_a
+Atalanta,Hellas Verona,0-0,https://www.besoccer.com/match/atalanta/hellas-verona-fc/201528785,2015,1,serie_a
+Palermo FC,Sampdoria,1-1,https://www.besoccer.com/match/palermo/sampdoria/201528778,2015,1,serie_a
+Genoa,Napoli,1-2,https://www.besoccer.com/match/genoa/napoli/201528779,2015,1,serie_a
+Cesena,Parma,1-0,https://www.besoccer.com/match/ac-cesena/parma-fc/201528780,2015,1,serie_a
+Torino,Inter,0-0,https://www.besoccer.com/match/torino-fc/internazionale/201528781,2015,1,serie_a
+Udinese,Empoli,2-0,https://www.besoccer.com/match/udinese/empoli-fc/201528786,2015,1,serie_a
+Sassuolo,Cagliari,1-1,https://www.besoccer.com/match/us-sassuolo-calcio/cagliari/201528787,2015,1,serie_a
+Empoli,Roma,0-1,https://www.besoccer.com/match/empoli-fc/roma/201528797,2015,2,serie_a
+Juventus,Udinese,2-0,https://www.besoccer.com/match/juventus-fc/udinese/201528795,2015,2,serie_a
+Sampdoria,Torino,2-0,https://www.besoccer.com/match/sampdoria/torino-fc/201528793,2015,2,serie_a
+Lazio,Cesena,3-0,https://www.besoccer.com/match/lazio/ac-cesena/201528789,2015,2,serie_a
+Inter,Sassuolo,7-0,https://www.besoccer.com/match/internazionale/us-sassuolo-calcio/201528790,2015,2,serie_a
+Fiorentina,Genoa,0-0,https://www.besoccer.com/match/fiorentina/genoa/201528791,2015,2,serie_a
+Cagliari,Atalanta,1-2,https://www.besoccer.com/match/cagliari/atalanta/201528792,2015,2,serie_a
+Napoli,Chievo,0-1,https://www.besoccer.com/match/napoli/chievo/201528794,2015,2,serie_a
+Parma,Milan,4-5,https://www.besoccer.com/match/parma-fc/milan/201528788,2015,2,serie_a
+Hellas Verona,Palermo FC,2-1,https://www.besoccer.com/match/hellas-verona-fc/palermo/201528796,2015,2,serie_a
+Cesena,Empoli,2-2,https://www.besoccer.com/match/ac-cesena/empoli-fc/201528804,2015,3,serie_a
+Milan,Juventus,0-1,https://www.besoccer.com/match/milan/juventus-fc/201528807,2015,3,serie_a
+Chievo,Parma,2-3,https://www.besoccer.com/match/chievo/parma-fc/201528798,2015,3,serie_a
+Sassuolo,Sampdoria,0-0,https://www.besoccer.com/match/us-sassuolo-calcio/sampdoria/201528801,2015,3,serie_a
+Genoa,Lazio,1-0,https://www.besoccer.com/match/genoa/lazio/201528803,2015,3,serie_a
+Roma,Cagliari,2-0,https://www.besoccer.com/match/roma/cagliari/201528806,2015,3,serie_a
+Atalanta,Fiorentina,0-1,https://www.besoccer.com/match/atalanta/fiorentina/201528799,2015,3,serie_a
+Udinese,Napoli,1-0,https://www.besoccer.com/match/udinese/napoli/201528800,2015,3,serie_a
+Palermo FC,Inter,1-1,https://www.besoccer.com/match/palermo/internazionale/201528802,2015,3,serie_a
+Torino,Hellas Verona,0-1,https://www.besoccer.com/match/torino-fc/hellas-verona-fc/201528805,2015,3,serie_a
+Empoli,Milan,2-2,https://www.besoccer.com/match/empoli-fc/milan/201528811,2015,4,serie_a
+Napoli,Palermo FC,3-3,https://www.besoccer.com/match/napoli/palermo/201528808,2015,4,serie_a
+Juventus,Cesena,3-0,https://www.besoccer.com/match/juventus-fc/ac-cesena/201528809,2015,4,serie_a
+Hellas Verona,Genoa,2-2,https://www.besoccer.com/match/hellas-verona-fc/genoa/201528810,2015,4,serie_a
+Parma,Roma,1-2,https://www.besoccer.com/match/parma-fc/roma/201528812,2015,4,serie_a
+Inter,Atalanta,2-0,https://www.besoccer.com/match/internazionale/atalanta/201528814,2015,4,serie_a
+Fiorentina,Sassuolo,0-0,https://www.besoccer.com/match/fiorentina/us-sassuolo-calcio/201528815,2015,4,serie_a
+Cagliari,Torino,1-2,https://www.besoccer.com/match/cagliari/torino-fc/201528816,2015,4,serie_a
+Sampdoria,Chievo,2-1,https://www.besoccer.com/match/sampdoria/chievo/201528817,2015,4,serie_a
+Lazio,Udinese,0-1,https://www.besoccer.com/match/lazio/udinese/201528813,2015,4,serie_a
+Roma,Hellas Verona,2-0,https://www.besoccer.com/match/roma/hellas-verona-fc/201528819,2015,5,serie_a
+Atalanta,Juventus,0-3,https://www.besoccer.com/match/atalanta/juventus-fc/201528822,2015,5,serie_a
+Sassuolo,Napoli,0-1,https://www.besoccer.com/match/us-sassuolo-calcio/napoli/201528824,2015,5,serie_a
+Torino,Fiorentina,1-1,https://www.besoccer.com/match/torino-fc/fiorentina/201528818,2015,5,serie_a
+Inter,Cagliari,1-4,https://www.besoccer.com/match/internazionale/cagliari/201528820,2015,5,serie_a
+Chievo,Empoli,1-1,https://www.besoccer.com/match/chievo/empoli-fc/201528821,2015,5,serie_a
+Cesena,Milan,1-1,https://www.besoccer.com/match/ac-cesena/milan/201528827,2015,5,serie_a
+Genoa,Sampdoria,0-1,https://www.besoccer.com/match/genoa/sampdoria/201528826,2015,5,serie_a
+Udinese,Parma,4-2,https://www.besoccer.com/match/udinese/parma-fc/201528823,2015,5,serie_a
+Palermo FC,Lazio,0-4,https://www.besoccer.com/match/palermo/lazio/201528825,2015,5,serie_a
+Hellas Verona,Cagliari,1-0,https://www.besoccer.com/match/hellas-verona-fc/cagliari/201528829,2015,6,serie_a
+Milan,Chievo,2-0,https://www.besoccer.com/match/milan/chievo/201528833,2015,6,serie_a
+Empoli,Palermo FC,3-0,https://www.besoccer.com/match/empoli-fc/palermo/201528830,2015,6,serie_a
+Lazio,Sassuolo,3-2,https://www.besoccer.com/match/lazio/us-sassuolo-calcio/201528828,2015,6,serie_a
+Udinese,Cesena,1-1,https://www.besoccer.com/match/udinese/ac-cesena/201528831,2015,6,serie_a
+Parma,Genoa,1-2,https://www.besoccer.com/match/parma-fc/genoa/201528832,2015,6,serie_a
+Sampdoria,Atalanta,1-0,https://www.besoccer.com/match/sampdoria/atalanta/201528836,2015,6,serie_a
+Juventus,Roma,3-2,https://www.besoccer.com/match/juventus-fc/roma/201528834,2015,6,serie_a
+Fiorentina,Inter,3-0,https://www.besoccer.com/match/fiorentina/internazionale/201528835,2015,6,serie_a
+Napoli,Torino,2-1,https://www.besoccer.com/match/napoli/torino-fc/201528837,2015,6,serie_a
+Roma,Chievo,3-0,https://www.besoccer.com/match/roma/chievo/201528839,2015,7,serie_a
+Sassuolo,Juventus,1-1,https://www.besoccer.com/match/us-sassuolo-calcio/juventus-fc/201528843,2015,7,serie_a
+Fiorentina,Lazio,0-2,https://www.besoccer.com/match/fiorentina/lazio/201528846,2015,7,serie_a
+Torino,Udinese,1-0,https://www.besoccer.com/match/torino-fc/udinese/201528838,2015,7,serie_a
+Cagliari,Sampdoria,2-2,https://www.besoccer.com/match/cagliari/sampdoria/201528842,2015,7,serie_a
+Palermo FC,Cesena,2-1,https://www.besoccer.com/match/palermo/ac-cesena/201528844,2015,7,serie_a
+Hellas Verona,Milan,1-3,https://www.besoccer.com/match/hellas-verona-fc/milan/201528845,2015,7,serie_a
+Atalanta,Parma,1-0,https://www.besoccer.com/match/atalanta/parma-fc/201528847,2015,7,serie_a
+Inter,Napoli,2-2,https://www.besoccer.com/match/internazionale/napoli/201528840,2015,7,serie_a
+Genoa,Empoli,1-1,https://www.besoccer.com/match/genoa/empoli-fc/201528841,2015,7,serie_a
+Empoli,Cagliari,0-4,https://www.besoccer.com/match/empoli-fc/cagliari/201528851,2015,8,serie_a
+Parma,Sassuolo,1-3,https://www.besoccer.com/match/parma-fc/us-sassuolo-calcio/201528854,2015,8,serie_a
+Sampdoria,Roma,0-0,https://www.besoccer.com/match/sampdoria/roma/201528848,2015,8,serie_a
+Udinese,Atalanta,2-0,https://www.besoccer.com/match/udinese/atalanta/201528853,2015,8,serie_a
+Juventus,Palermo FC,2-0,https://www.besoccer.com/match/juventus-fc/palermo/201528856,2015,8,serie_a
+Chievo,Genoa,1-2,https://www.besoccer.com/match/chievo/genoa/201528857,2015,8,serie_a
+Napoli,Hellas Verona,6-2,https://www.besoccer.com/match/napoli/hellas-verona-fc/201528849,2015,8,serie_a
+Lazio,Torino,2-1,https://www.besoccer.com/match/lazio/torino-fc/201528850,2015,8,serie_a
+Cesena,Inter,0-1,https://www.besoccer.com/match/ac-cesena/internazionale/201528852,2015,8,serie_a
+Milan,Fiorentina,1-1,https://www.besoccer.com/match/milan/fiorentina/201528855,2015,8,serie_a
+Sassuolo,Empoli,3-1,https://www.besoccer.com/match/us-sassuolo-calcio/empoli-fc/201528867,2015,9,serie_a
+Palermo FC,Chievo,1-0,https://www.besoccer.com/match/palermo/chievo/201528858,2015,9,serie_a
+Fiorentina,Udinese,3-0,https://www.besoccer.com/match/fiorentina/udinese/201528860,2015,9,serie_a
+Atalanta,Napoli,1-1,https://www.besoccer.com/match/atalanta/napoli/201528861,2015,9,serie_a
+Torino,Parma,1-0,https://www.besoccer.com/match/torino-fc/parma-fc/201528862,2015,9,serie_a
+Roma,Cesena,2-0,https://www.besoccer.com/match/roma/ac-cesena/201528863,2015,9,serie_a
+Inter,Sampdoria,1-0,https://www.besoccer.com/match/internazionale/sampdoria/201528864,2015,9,serie_a
+Genoa,Juventus,1-0,https://www.besoccer.com/match/genoa/juventus-fc/201528865,2015,9,serie_a
+Cagliari,Milan,1-1,https://www.besoccer.com/match/cagliari/milan/201528866,2015,9,serie_a
+Hellas Verona,Lazio,1-1,https://www.besoccer.com/match/hellas-verona-fc/lazio/201528859,2015,9,serie_a
+Napoli,Roma,2-0,https://www.besoccer.com/match/napoli/roma/201528870,2015,10,serie_a
+Empoli,Juventus,0-2,https://www.besoccer.com/match/empoli-fc/juventus-fc/201528876,2015,10,serie_a
+Parma,Inter,2-0,https://www.besoccer.com/match/parma-fc/internazionale/201528874,2015,10,serie_a
+Udinese,Genoa,2-4,https://www.besoccer.com/match/udinese/genoa/201528868,2015,10,serie_a
+Sampdoria,Fiorentina,3-1,https://www.besoccer.com/match/sampdoria/fiorentina/201528869,2015,10,serie_a
+Chievo,Sassuolo,0-0,https://www.besoccer.com/match/chievo/us-sassuolo-calcio/201528872,2015,10,serie_a
+Torino,Atalanta,0-0,https://www.besoccer.com/match/torino-fc/atalanta/201528873,2015,10,serie_a
+Milan,Palermo FC,0-2,https://www.besoccer.com/match/milan/palermo/201528875,2015,10,serie_a
+Cesena,Hellas Verona,1-1,https://www.besoccer.com/match/ac-cesena/hellas-verona-fc/201528877,2015,10,serie_a
+Lazio,Cagliari,4-2,https://www.besoccer.com/match/lazio/cagliari/201528871,2015,10,serie_a
+Sassuolo,Atalanta,0-0,https://www.besoccer.com/match/us-sassuolo-calcio/atalanta/201528884,2015,11,serie_a
+Sampdoria,Milan,2-2,https://www.besoccer.com/match/sampdoria/milan/201528879,2015,11,serie_a
+Cagliari,Genoa,1-1,https://www.besoccer.com/match/cagliari/genoa/201528883,2015,11,serie_a
+Chievo,Cesena,2-1,https://www.besoccer.com/match/chievo/ac-cesena/201528878,2015,11,serie_a
+Palermo FC,Udinese,1-1,https://www.besoccer.com/match/palermo/udinese/201528880,2015,11,serie_a
+Empoli,Lazio,2-1,https://www.besoccer.com/match/empoli-fc/lazio/201528882,2015,11,serie_a
+Juventus,Parma,7-0,https://www.besoccer.com/match/juventus-fc/parma-fc/201528886,2015,11,serie_a
+Fiorentina,Napoli,0-1,https://www.besoccer.com/match/fiorentina/napoli/201528887,2015,11,serie_a
+Inter,Hellas Verona,2-2,https://www.besoccer.com/match/internazionale/hellas-verona-fc/201528881,2015,11,serie_a
+Roma,Torino,3-0,https://www.besoccer.com/match/roma/torino-fc/201528885,2015,11,serie_a
+Atalanta,Roma,1-2,https://www.besoccer.com/match/atalanta/roma/201528889,2015,12,serie_a
+Lazio,Juventus,0-3,https://www.besoccer.com/match/lazio/juventus-fc/201528891,2015,12,serie_a
+Torino,Sassuolo,0-1,https://www.besoccer.com/match/torino-fc/us-sassuolo-calcio/201528888,2015,12,serie_a
+Napoli,Cagliari,3-3,https://www.besoccer.com/match/napoli/cagliari/201528890,2015,12,serie_a
+Udinese,Chievo,1-1,https://www.besoccer.com/match/udinese/chievo/201528893,2015,12,serie_a
+Parma,Empoli,0-2,https://www.besoccer.com/match/parma-fc/empoli-fc/201528894,2015,12,serie_a
+Hellas Verona,Fiorentina,1-2,https://www.besoccer.com/match/hellas-verona-fc/fiorentina/201528896,2015,12,serie_a
+Cesena,Sampdoria,1-1,https://www.besoccer.com/match/ac-cesena/sampdoria/201528897,2015,12,serie_a
+Milan,Inter,1-1,https://www.besoccer.com/match/milan/internazionale/201528895,2015,12,serie_a
+Genoa,Palermo FC,1-1,https://www.besoccer.com/match/genoa/palermo/201528892,2015,12,serie_a
+Sassuolo,Hellas Verona,2-1,https://www.besoccer.com/match/us-sassuolo-calcio/hellas-verona-fc/201528901,2015,13,serie_a
+Chievo,Lazio,0-0,https://www.besoccer.com/match/chievo/lazio/201528899,2015,13,serie_a
+Cagliari,Fiorentina,0-4,https://www.besoccer.com/match/cagliari/fiorentina/201528900,2015,13,serie_a
+Milan,Udinese,2-0,https://www.besoccer.com/match/milan/udinese/201528903,2015,13,serie_a
+Empoli,Atalanta,0-0,https://www.besoccer.com/match/empoli-fc/atalanta/201528904,2015,13,serie_a
+Cesena,Genoa,0-3,https://www.besoccer.com/match/ac-cesena/genoa/201528905,2015,13,serie_a
+Palermo FC,Parma,2-1,https://www.besoccer.com/match/palermo/parma-fc/201528907,2015,13,serie_a
+Juventus,Torino,2-1,https://www.besoccer.com/match/juventus-fc/torino-fc/201528898,2015,13,serie_a
+Roma,Inter,4-2,https://www.besoccer.com/match/roma/internazionale/201528902,2015,13,serie_a
+Sampdoria,Napoli,1-1,https://www.besoccer.com/match/sampdoria/napoli/201528906,2015,13,serie_a
+Fiorentina,Juventus,0-0,https://www.besoccer.com/match/fiorentina/juventus-fc/201528916,2015,14,serie_a
+Roma,Sassuolo,2-2,https://www.besoccer.com/match/roma/us-sassuolo-calcio/201528913,2015,14,serie_a
+Torino,Palermo FC,2-2,https://www.besoccer.com/match/torino-fc/palermo/201528908,2015,14,serie_a
+Napoli,Empoli,2-2,https://www.besoccer.com/match/napoli/empoli-fc/201528914,2015,14,serie_a
+Parma,Lazio,1-2,https://www.besoccer.com/match/parma-fc/lazio/201528909,2015,14,serie_a
+Genoa,Milan,1-0,https://www.besoccer.com/match/genoa/milan/201528911,2015,14,serie_a
+Atalanta,Cesena,3-2,https://www.besoccer.com/match/atalanta/ac-cesena/201528917,2015,14,serie_a
+Inter,Udinese,1-2,https://www.besoccer.com/match/internazionale/udinese/201528910,2015,14,serie_a
+Cagliari,Chievo,0-2,https://www.besoccer.com/match/cagliari/chievo/201528912,2015,14,serie_a
+Hellas Verona,Sampdoria,1-3,https://www.besoccer.com/match/hellas-verona-fc/sampdoria/201528915,2015,14,serie_a
+Palermo FC,Sassuolo,2-1,https://www.besoccer.com/match/palermo/us-sassuolo-calcio/201528925,2015,15,serie_a
+Lazio,Atalanta,3-0,https://www.besoccer.com/match/lazio/atalanta/201528926,2015,15,serie_a
+Juventus,Sampdoria,1-1,https://www.besoccer.com/match/juventus-fc/sampdoria/201528921,2015,15,serie_a
+Parma,Cagliari,0-0,https://www.besoccer.com/match/parma-fc/cagliari/201528919,2015,15,serie_a
+Udinese,Hellas Verona,1-2,https://www.besoccer.com/match/udinese/hellas-verona-fc/201528924,2015,15,serie_a
+Genoa,Roma,0-1,https://www.besoccer.com/match/genoa/roma/201528927,2015,15,serie_a
+Cesena,Fiorentina,1-4,https://www.besoccer.com/match/ac-cesena/fiorentina/201528923,2015,15,serie_a
+Milan,Napoli,2-0,https://www.besoccer.com/match/milan/napoli/201528920,2015,15,serie_a
+Empoli,Torino,0-0,https://www.besoccer.com/match/empoli-fc/torino-fc/201528922,2015,15,serie_a
+Chievo,Inter,0-2,https://www.besoccer.com/match/chievo/internazionale/201528918,2015,15,serie_a
+Cagliari,Juventus,1-3,https://www.besoccer.com/match/cagliari/juventus-fc/201528936,2015,16,serie_a
+Napoli,Parma,2-0,https://www.besoccer.com/match/napoli/parma-fc/201528934,2015,16,serie_a
+Sassuolo,Cesena,1-1,https://www.besoccer.com/match/us-sassuolo-calcio/ac-cesena/201528937,2015,16,serie_a
+Roma,Milan,0-0,https://www.besoccer.com/match/roma/milan/201528928,2015,16,serie_a
+Hellas Verona,Chievo,0-1,https://www.besoccer.com/match/hellas-verona-fc/chievo/201528935,2015,16,serie_a
+Fiorentina,Empoli,1-1,https://www.besoccer.com/match/fiorentina/empoli-fc/201528930,2015,16,serie_a
+Atalanta,Palermo FC,3-3,https://www.besoccer.com/match/atalanta/palermo/201528931,2015,16,serie_a
+Torino,Genoa,2-1,https://www.besoccer.com/match/torino-fc/genoa/201528932,2015,16,serie_a
+Sampdoria,Udinese,2-2,https://www.besoccer.com/match/sampdoria/udinese/201528933,2015,16,serie_a
+Inter,Lazio,2-2,https://www.besoccer.com/match/internazionale/lazio/201528929,2015,16,serie_a
+Lazio,Sampdoria,3-0,https://www.besoccer.com/match/lazio/sampdoria/201528940,2015,17,serie_a
+Udinese,Roma,0-1,https://www.besoccer.com/match/udinese/roma/201528938,2015,17,serie_a
+Palermo FC,Cagliari,5-0,https://www.besoccer.com/match/palermo/cagliari/201528939,2015,17,serie_a
+Genoa,Atalanta,2-2,https://www.besoccer.com/match/genoa/atalanta/201528941,2015,17,serie_a
+Chievo,Torino,0-0,https://www.besoccer.com/match/chievo/torino-fc/201528942,2015,17,serie_a
+Parma,Fiorentina,1-0,https://www.besoccer.com/match/parma-fc/fiorentina/201528943,2015,17,serie_a
+Milan,Sassuolo,1-2,https://www.besoccer.com/match/milan/us-sassuolo-calcio/201528944,2015,17,serie_a
+Empoli,Hellas Verona,0-0,https://www.besoccer.com/match/empoli-fc/hellas-verona-fc/201528946,2015,17,serie_a
+Cesena,Napoli,1-4,https://www.besoccer.com/match/ac-cesena/napoli/201528947,2015,17,serie_a
+Juventus,Inter,1-1,https://www.besoccer.com/match/juventus-fc/internazionale/201528945,2015,17,serie_a
+Sassuolo,Udinese,1-1,https://www.besoccer.com/match/us-sassuolo-calcio/udinese/201528950,2015,18,serie_a
+Torino,Milan,1-1,https://www.besoccer.com/match/torino-fc/milan/201528955,2015,18,serie_a
+Inter,Genoa,3-1,https://www.besoccer.com/match/internazionale/genoa/201528952,2015,18,serie_a
+Hellas Verona,Parma,3-1,https://www.besoccer.com/match/hellas-verona-fc/parma-fc/201528948,2015,18,serie_a
+Cagliari,Cesena,2-1,https://www.besoccer.com/match/cagliari/ac-cesena/201528949,2015,18,serie_a
+Roma,Lazio,2-2,https://www.besoccer.com/match/roma/lazio/201528951,2015,18,serie_a
+Fiorentina,Palermo FC,4-3,https://www.besoccer.com/match/fiorentina/palermo/201528953,2015,18,serie_a
+Atalanta,Chievo,1-1,https://www.besoccer.com/match/atalanta/chievo/201528954,2015,18,serie_a
+Sampdoria,Empoli,1-0,https://www.besoccer.com/match/sampdoria/empoli-fc/201528956,2015,18,serie_a
+Napoli,Juventus,1-3,https://www.besoccer.com/match/napoli/juventus-fc/201528957,2015,18,serie_a
+Empoli,Inter,0-0,https://www.besoccer.com/match/empoli-fc/internazionale/201528961,2015,19,serie_a
+Palermo FC,Roma,1-1,https://www.besoccer.com/match/palermo/roma/201528964,2015,19,serie_a
+Lazio,Napoli,0-1,https://www.besoccer.com/match/lazio/napoli/201528965,2015,19,serie_a
+Parma,Sampdoria,0-2,https://www.besoccer.com/match/parma-fc/sampdoria/201528958,2015,19,serie_a
+Milan,Atalanta,0-1,https://www.besoccer.com/match/milan/atalanta/201528959,2015,19,serie_a
+Cesena,Torino,2-3,https://www.besoccer.com/match/ac-cesena/torino-fc/201528962,2015,19,serie_a
+Udinese,Cagliari,2-2,https://www.besoccer.com/match/udinese/cagliari/201528963,2015,19,serie_a
+Genoa,Sassuolo,3-3,https://www.besoccer.com/match/genoa/us-sassuolo-calcio/201528966,2015,19,serie_a
+Chievo,Fiorentina,1-2,https://www.besoccer.com/match/chievo/fiorentina/201528967,2015,19,serie_a
+Juventus,Hellas Verona,4-0,https://www.besoccer.com/match/juventus-fc/hellas-verona-fc/201528960,2015,19,serie_a
+Cagliari,Sassuolo,2-1,https://www.besoccer.com/match/cagliari/us-sassuolo-calcio/201528969,2015,20,serie_a
+Lazio,Milan,3-1,https://www.besoccer.com/match/lazio/milan/201528975,2015,20,serie_a
+Sampdoria,Palermo FC,1-1,https://www.besoccer.com/match/sampdoria/palermo/201528970,2015,20,serie_a
+Parma,Cesena,1-2,https://www.besoccer.com/match/parma-fc/ac-cesena/201528972,2015,20,serie_a
+Inter,Torino,0-1,https://www.besoccer.com/match/internazionale/torino-fc/201528973,2015,20,serie_a
+Juventus,Chievo,2-0,https://www.besoccer.com/match/juventus-fc/chievo/201528976,2015,20,serie_a
+Hellas Verona,Atalanta,1-0,https://www.besoccer.com/match/hellas-verona-fc/atalanta/201528977,2015,20,serie_a
+Fiorentina,Roma,1-1,https://www.besoccer.com/match/fiorentina/roma/201528974,2015,20,serie_a
+Empoli,Udinese,1-2,https://www.besoccer.com/match/empoli-fc/udinese/201528968,2015,20,serie_a
+Napoli,Genoa,2-1,https://www.besoccer.com/match/napoli/genoa/201528971,2015,20,serie_a
+Genoa,Fiorentina,1-1,https://www.besoccer.com/match/genoa/fiorentina/201528984,2015,21,serie_a
+Roma,Empoli,1-1,https://www.besoccer.com/match/roma/empoli-fc/201528980,2015,21,serie_a
+Sassuolo,Inter,3-1,https://www.besoccer.com/match/us-sassuolo-calcio/internazionale/201528983,2015,21,serie_a
+Udinese,Juventus,0-0,https://www.besoccer.com/match/udinese/juventus-fc/201528978,2015,21,serie_a
+Palermo FC,Hellas Verona,2-1,https://www.besoccer.com/match/palermo/hellas-verona-fc/201528979,2015,21,serie_a
+Cesena,Lazio,2-1,https://www.besoccer.com/match/ac-cesena/lazio/201528982,2015,21,serie_a
+Atalanta,Cagliari,2-1,https://www.besoccer.com/match/atalanta/cagliari/201528985,2015,21,serie_a
+Torino,Sampdoria,5-1,https://www.besoccer.com/match/torino-fc/sampdoria/201528986,2015,21,serie_a
+Chievo,Napoli,1-2,https://www.besoccer.com/match/chievo/napoli/201528987,2015,21,serie_a
+Milan,Parma,3-1,https://www.besoccer.com/match/milan/parma-fc/201528981,2015,21,serie_a
+Hellas Verona,Torino,1-3,https://www.besoccer.com/match/hellas-verona-fc/torino-fc/201528988,2015,22,serie_a
+Juventus,Milan,3-1,https://www.besoccer.com/match/juventus-fc/milan/201528990,2015,22,serie_a
+Fiorentina,Atalanta,3-2,https://www.besoccer.com/match/fiorentina/atalanta/201528992,2015,22,serie_a
+Cagliari,Roma,1-2,https://www.besoccer.com/match/cagliari/roma/201528989,2015,22,serie_a
+Napoli,Udinese,3-1,https://www.besoccer.com/match/napoli/udinese/201528993,2015,22,serie_a
+Sampdoria,Sassuolo,1-1,https://www.besoccer.com/match/sampdoria/us-sassuolo-calcio/201528994,2015,22,serie_a
+Empoli,Cesena,2-0,https://www.besoccer.com/match/empoli-fc/ac-cesena/201528997,2015,22,serie_a
+Inter,Palermo FC,3-0,https://www.besoccer.com/match/internazionale/palermo/201528995,2015,22,serie_a
+Lazio,Genoa,0-1,https://www.besoccer.com/match/lazio/genoa/201528996,2015,22,serie_a
+Parma,Chievo,0-1,https://www.besoccer.com/match/parma-fc/chievo/201528991,2015,22,serie_a
+Sassuolo,Fiorentina,1-3,https://www.besoccer.com/match/us-sassuolo-calcio/fiorentina/201529005,2015,23,serie_a
+Palermo FC,Napoli,3-1,https://www.besoccer.com/match/palermo/napoli/201529007,2015,23,serie_a
+Milan,Empoli,1-1,https://www.besoccer.com/match/milan/empoli-fc/201529003,2015,23,serie_a
+Torino,Cagliari,1-1,https://www.besoccer.com/match/torino-fc/cagliari/201528999,2015,23,serie_a
+Genoa,Hellas Verona,5-2,https://www.besoccer.com/match/genoa/hellas-verona-fc/201529000,2015,23,serie_a
+Roma,Parma,0-0,https://www.besoccer.com/match/roma/parma-fc/201529001,2015,23,serie_a
+Udinese,Lazio,0-1,https://www.besoccer.com/match/udinese/lazio/201529002,2015,23,serie_a
+Atalanta,Inter,1-4,https://www.besoccer.com/match/atalanta/internazionale/201529004,2015,23,serie_a
+Chievo,Sampdoria,2-1,https://www.besoccer.com/match/chievo/sampdoria/201529006,2015,23,serie_a
+Cesena,Juventus,2-2,https://www.besoccer.com/match/ac-cesena/juventus-fc/201528998,2015,23,serie_a
+Juventus,Atalanta,2-1,https://www.besoccer.com/match/juventus-fc/atalanta/201529012,2015,24,serie_a
+Hellas Verona,Roma,1-1,https://www.besoccer.com/match/hellas-verona-fc/roma/201529009,2015,24,serie_a
+Empoli,Chievo,3-0,https://www.besoccer.com/match/empoli-fc/chievo/201529011,2015,24,serie_a
+Lazio,Palermo FC,2-1,https://www.besoccer.com/match/lazio/palermo/201529015,2015,24,serie_a
+Milan,Cesena,2-0,https://www.besoccer.com/match/milan/ac-cesena/201529017,2015,24,serie_a
+Fiorentina,Torino,1-1,https://www.besoccer.com/match/fiorentina/torino-fc/201529008,2015,24,serie_a
+Napoli,Sassuolo,2-0,https://www.besoccer.com/match/napoli/us-sassuolo-calcio/201529014,2015,24,serie_a
+Cagliari,Inter,1-2,https://www.besoccer.com/match/cagliari/internazionale/201529010,2015,24,serie_a
+Sampdoria,Genoa,1-1,https://www.besoccer.com/match/sampdoria/genoa/201529016,2015,24,serie_a
+Parma,Udinese,1-0,https://www.besoccer.com/match/parma-fc/udinese/201529013,2015,24,serie_a
+Chievo,Milan,0-0,https://www.besoccer.com/match/chievo/milan/201529022,2015,25,serie_a
+Cagliari,Hellas Verona,1-2,https://www.besoccer.com/match/cagliari/hellas-verona-fc/201529018,2015,25,serie_a
+Palermo FC,Empoli,0-0,https://www.besoccer.com/match/palermo/empoli-fc/201529019,2015,25,serie_a
+Cesena,Udinese,1-0,https://www.besoccer.com/match/ac-cesena/udinese/201529020,2015,25,serie_a
+Atalanta,Sampdoria,1-2,https://www.besoccer.com/match/atalanta/sampdoria/201529025,2015,25,serie_a
+Sassuolo,Lazio,0-3,https://www.besoccer.com/match/us-sassuolo-calcio/lazio/201529027,2015,25,serie_a
+Inter,Fiorentina,0-1,https://www.besoccer.com/match/internazionale/fiorentina/201529024,2015,25,serie_a
+Torino,Napoli,1-0,https://www.besoccer.com/match/torino-fc/napoli/201529026,2015,25,serie_a
+Roma,Juventus,1-1,https://www.besoccer.com/match/roma/juventus-fc/201529023,2015,25,serie_a
+Genoa,Parma,2-0,https://www.besoccer.com/match/genoa/parma-fc/201529021,2015,25,serie_a
+Sampdoria,Cagliari,2-0,https://www.besoccer.com/match/sampdoria/cagliari/201529031,2015,26,serie_a
+Milan,Hellas Verona,2-2,https://www.besoccer.com/match/milan/hellas-verona-fc/201529034,2015,26,serie_a
+Cesena,Palermo FC,0-0,https://www.besoccer.com/match/ac-cesena/palermo/201529033,2015,26,serie_a
+Chievo,Roma,0-0,https://www.besoccer.com/match/chievo/roma/201529028,2015,26,serie_a
+Empoli,Genoa,1-1,https://www.besoccer.com/match/empoli-fc/genoa/201529030,2015,26,serie_a
+Parma,Atalanta,0-0,https://www.besoccer.com/match/parma-fc/atalanta/201529036,2015,26,serie_a
+Udinese,Torino,3-2,https://www.besoccer.com/match/udinese/torino-fc/201529037,2015,26,serie_a
+Napoli,Inter,2-2,https://www.besoccer.com/match/napoli/internazionale/201529029,2015,26,serie_a
+Lazio,Fiorentina,4-0,https://www.besoccer.com/match/lazio/fiorentina/201529035,2015,26,serie_a
+Juventus,Sassuolo,1-0,https://www.besoccer.com/match/juventus-fc/us-sassuolo-calcio/201529032,2015,26,serie_a
+Palermo FC,Juventus,0-1,https://www.besoccer.com/match/palermo/juventus-fc/201529046,2015,27,serie_a
+Cagliari,Empoli,1-1,https://www.besoccer.com/match/cagliari/empoli-fc/201529041,2015,27,serie_a
+Atalanta,Udinese,0-0,https://www.besoccer.com/match/atalanta/udinese/201529043,2015,27,serie_a
+Sassuolo,Parma,4-1,https://www.besoccer.com/match/us-sassuolo-calcio/parma-fc/201529044,2015,27,serie_a
+Genoa,Chievo,0-2,https://www.besoccer.com/match/genoa/chievo/201529047,2015,27,serie_a
+Hellas Verona,Napoli,2-0,https://www.besoccer.com/match/hellas-verona-fc/napoli/201529039,2015,27,serie_a
+Inter,Cesena,1-1,https://www.besoccer.com/match/internazionale/ac-cesena/201529042,2015,27,serie_a
+Torino,Lazio,0-2,https://www.besoccer.com/match/torino-fc/lazio/201529040,2015,27,serie_a
+Fiorentina,Milan,2-1,https://www.besoccer.com/match/fiorentina/milan/201529045,2015,27,serie_a
+Roma,Sampdoria,0-2,https://www.besoccer.com/match/roma/sampdoria/201529038,2015,27,serie_a
+Chievo,Palermo FC,1-0,https://www.besoccer.com/match/chievo/palermo/201529057,2015,28,serie_a
+Milan,Cagliari,3-1,https://www.besoccer.com/match/milan/cagliari/201529055,2015,28,serie_a
+Empoli,Sassuolo,3-1,https://www.besoccer.com/match/empoli-fc/us-sassuolo-calcio/201529056,2015,28,serie_a
+Juventus,Genoa,1-0,https://www.besoccer.com/match/juventus-fc/genoa/201529054,2015,28,serie_a
+Lazio,Hellas Verona,2-0,https://www.besoccer.com/match/lazio/hellas-verona-fc/201529048,2015,28,serie_a
+Udinese,Fiorentina,2-2,https://www.besoccer.com/match/udinese/fiorentina/201529049,2015,28,serie_a
+Napoli,Atalanta,1-1,https://www.besoccer.com/match/napoli/atalanta/201529050,2015,28,serie_a
+Parma,Torino,0-2,https://www.besoccer.com/match/parma-fc/torino-fc/201529051,2015,28,serie_a
+Cesena,Roma,0-1,https://www.besoccer.com/match/ac-cesena/roma/201529052,2015,28,serie_a
+Sampdoria,Inter,1-0,https://www.besoccer.com/match/sampdoria/internazionale/201529053,2015,28,serie_a
+Roma,Napoli,1-0,https://www.besoccer.com/match/roma/napoli/201529060,2015,29,serie_a
+Genoa,Udinese,1-1,https://www.besoccer.com/match/genoa/udinese/201529058,2015,29,serie_a
+Cagliari,Lazio,1-3,https://www.besoccer.com/match/cagliari/lazio/201529061,2015,29,serie_a
+Sassuolo,Chievo,1-0,https://www.besoccer.com/match/us-sassuolo-calcio/chievo/201529062,2015,29,serie_a
+Atalanta,Torino,1-2,https://www.besoccer.com/match/atalanta/torino-fc/201529063,2015,29,serie_a
+Inter,Parma,1-1,https://www.besoccer.com/match/internazionale/parma-fc/201529064,2015,29,serie_a
+Palermo FC,Milan,1-2,https://www.besoccer.com/match/palermo/milan/201529065,2015,29,serie_a
+Hellas Verona,Cesena,3-3,https://www.besoccer.com/match/hellas-verona-fc/ac-cesena/201529067,2015,29,serie_a
+Fiorentina,Sampdoria,2-0,https://www.besoccer.com/match/fiorentina/sampdoria/201529059,2015,29,serie_a
+Juventus,Empoli,2-0,https://www.besoccer.com/match/juventus-fc/empoli-fc/201529066,2015,29,serie_a
+Genoa,Cagliari,2-0,https://www.besoccer.com/match/genoa/cagliari/201529072,2015,30,serie_a
+Parma,Juventus,1-0,https://www.besoccer.com/match/parma-fc/juventus-fc/201529075,2015,30,serie_a
+Hellas Verona,Inter,0-3,https://www.besoccer.com/match/hellas-verona-fc/internazionale/201529070,2015,30,serie_a
+Cesena,Chievo,0-1,https://www.besoccer.com/match/ac-cesena/chievo/201529077,2015,30,serie_a
+Udinese,Palermo FC,1-3,https://www.besoccer.com/match/udinese/palermo/201529069,2015,30,serie_a
+Lazio,Empoli,4-0,https://www.besoccer.com/match/lazio/empoli-fc/201529071,2015,30,serie_a
+Atalanta,Sassuolo,2-1,https://www.besoccer.com/match/atalanta/us-sassuolo-calcio/201529073,2015,30,serie_a
+Torino,Roma,1-1,https://www.besoccer.com/match/torino-fc/roma/201529074,2015,30,serie_a
+Napoli,Fiorentina,3-0,https://www.besoccer.com/match/napoli/fiorentina/201529076,2015,30,serie_a
+Milan,Sampdoria,1-1,https://www.besoccer.com/match/milan/sampdoria/201529068,2015,30,serie_a
+Sampdoria,Cesena,0-0,https://www.besoccer.com/match/sampdoria/ac-cesena/201529086,2015,31,serie_a
+Juventus,Lazio,2-0,https://www.besoccer.com/match/juventus-fc/lazio/201529079,2015,31,serie_a
+Sassuolo,Torino,1-1,https://www.besoccer.com/match/us-sassuolo-calcio/torino-fc/201529087,2015,31,serie_a
+Palermo FC,Genoa,2-1,https://www.besoccer.com/match/palermo/genoa/201529080,2015,31,serie_a
+Roma,Atalanta,1-1,https://www.besoccer.com/match/roma/atalanta/201529081,2015,31,serie_a
+Chievo,Udinese,1-1,https://www.besoccer.com/match/chievo/udinese/201529082,2015,31,serie_a
+Empoli,Parma,2-2,https://www.besoccer.com/match/empoli-fc/parma-fc/201529083,2015,31,serie_a
+Cagliari,Napoli,0-3,https://www.besoccer.com/match/cagliari/napoli/201529078,2015,31,serie_a
+Inter,Milan,0-0,https://www.besoccer.com/match/internazionale/milan/201529084,2015,31,serie_a
+Fiorentina,Hellas Verona,0-1,https://www.besoccer.com/match/fiorentina/hellas-verona-fc/201529085,2015,31,serie_a
+Udinese,Milan,2-1,https://www.besoccer.com/match/udinese/milan/201529090,2015,32,serie_a
+Inter,Roma,2-1,https://www.besoccer.com/match/internazionale/roma/201529089,2015,32,serie_a
+Atalanta,Empoli,2-2,https://www.besoccer.com/match/atalanta/empoli-fc/201529091,2015,32,serie_a
+Hellas Verona,Sassuolo,3-2,https://www.besoccer.com/match/hellas-verona-fc/us-sassuolo-calcio/201529088,2015,32,serie_a
+Genoa,Cesena,3-1,https://www.besoccer.com/match/genoa/ac-cesena/201529092,2015,32,serie_a
+Parma,Palermo FC,1-0,https://www.besoccer.com/match/parma-fc/palermo/201529094,2015,32,serie_a
+Torino,Juventus,2-1,https://www.besoccer.com/match/torino-fc/juventus-fc/201529095,2015,32,serie_a
+Lazio,Chievo,1-1,https://www.besoccer.com/match/lazio/chievo/201529096,2015,32,serie_a
+Fiorentina,Cagliari,1-3,https://www.besoccer.com/match/fiorentina/cagliari/201529097,2015,32,serie_a
+Napoli,Sampdoria,4-2,https://www.besoccer.com/match/napoli/sampdoria/201529093,2015,32,serie_a
+Udinese,Inter,1-2,https://www.besoccer.com/match/udinese/internazionale/201529106,2015,33,serie_a
+Chievo,Cagliari,1-0,https://www.besoccer.com/match/chievo/cagliari/201529098,2015,33,serie_a
+Sassuolo,Roma,0-3,https://www.besoccer.com/match/us-sassuolo-calcio/roma/201529099,2015,33,serie_a
+Sampdoria,Hellas Verona,1-1,https://www.besoccer.com/match/sampdoria/hellas-verona-fc/201529101,2015,33,serie_a
+Juventus,Fiorentina,3-2,https://www.besoccer.com/match/juventus-fc/fiorentina/201529102,2015,33,serie_a
+Cesena,Atalanta,2-2,https://www.besoccer.com/match/ac-cesena/atalanta/201529103,2015,33,serie_a
+Palermo FC,Torino,2-2,https://www.besoccer.com/match/palermo/torino-fc/201529104,2015,33,serie_a
+Lazio,Parma,4-0,https://www.besoccer.com/match/lazio/parma-fc/201529105,2015,33,serie_a
+Milan,Genoa,1-3,https://www.besoccer.com/match/milan/genoa/201529107,2015,33,serie_a
+Empoli,Napoli,4-2,https://www.besoccer.com/match/empoli-fc/napoli/201529100,2015,33,serie_a
+Sampdoria,Juventus,0-1,https://www.besoccer.com/match/sampdoria/juventus-fc/201529116,2015,34,serie_a
+Sassuolo,Palermo FC,0-0,https://www.besoccer.com/match/us-sassuolo-calcio/palermo/201529109,2015,34,serie_a
+Roma,Genoa,2-0,https://www.besoccer.com/match/roma/genoa/201529112,2015,34,serie_a
+Hellas Verona,Udinese,0-1,https://www.besoccer.com/match/hellas-verona-fc/udinese/201529108,2015,34,serie_a
+Atalanta,Lazio,1-1,https://www.besoccer.com/match/atalanta/lazio/201529110,2015,34,serie_a
+Fiorentina,Cesena,3-1,https://www.besoccer.com/match/fiorentina/ac-cesena/201529113,2015,34,serie_a
+Inter,Chievo,0-0,https://www.besoccer.com/match/internazionale/chievo/201529117,2015,34,serie_a
+Napoli,Milan,3-0,https://www.besoccer.com/match/napoli/milan/201529115,2015,34,serie_a
+Cagliari,Parma,4-0,https://www.besoccer.com/match/cagliari/parma-fc/201529114,2015,34,serie_a
+Torino,Empoli,0-1,https://www.besoccer.com/match/torino-fc/empoli-fc/201529111,2015,34,serie_a
+Juventus,Cagliari,1-1,https://www.besoccer.com/match/juventus-fc/cagliari/201529127,2015,35,serie_a
+Milan,Roma,2-1,https://www.besoccer.com/match/milan/roma/201529119,2015,35,serie_a
+Chievo,Hellas Verona,2-2,https://www.besoccer.com/match/chievo/hellas-verona-fc/201529126,2015,35,serie_a
+Cesena,Sassuolo,2-3,https://www.besoccer.com/match/ac-cesena/us-sassuolo-calcio/201529118,2015,35,serie_a
+Palermo FC,Atalanta,2-3,https://www.besoccer.com/match/palermo/atalanta/201529122,2015,35,serie_a
+Udinese,Sampdoria,1-4,https://www.besoccer.com/match/udinese/sampdoria/201529124,2015,35,serie_a
+Empoli,Fiorentina,2-3,https://www.besoccer.com/match/empoli-fc/fiorentina/201529121,2015,35,serie_a
+Parma,Napoli,2-2,https://www.besoccer.com/match/parma-fc/napoli/201529125,2015,35,serie_a
+Lazio,Inter,1-2,https://www.besoccer.com/match/lazio/internazionale/201529120,2015,35,serie_a
+Genoa,Torino,5-1,https://www.besoccer.com/match/genoa/torino-fc/201529123,2015,35,serie_a
+Inter,Juventus,1-2,https://www.besoccer.com/match/internazionale/juventus-fc/201529128,2015,36,serie_a
+Sampdoria,Lazio,0-1,https://www.besoccer.com/match/sampdoria/lazio/201529133,2015,36,serie_a
+Sassuolo,Milan,3-2,https://www.besoccer.com/match/us-sassuolo-calcio/milan/201529137,2015,36,serie_a
+Hellas Verona,Empoli,2-1,https://www.besoccer.com/match/hellas-verona-fc/empoli-fc/201529129,2015,36,serie_a
+Cagliari,Palermo FC,0-1,https://www.besoccer.com/match/cagliari/palermo/201529132,2015,36,serie_a
+Atalanta,Genoa,1-4,https://www.besoccer.com/match/atalanta/genoa/201529134,2015,36,serie_a
+Torino,Chievo,2-0,https://www.besoccer.com/match/torino-fc/chievo/201529135,2015,36,serie_a
+Roma,Udinese,2-1,https://www.besoccer.com/match/roma/udinese/201529131,2015,36,serie_a
+Fiorentina,Parma,3-0,https://www.besoccer.com/match/fiorentina/parma-fc/201529136,2015,36,serie_a
+Napoli,Cesena,3-2,https://www.besoccer.com/match/napoli/ac-cesena/20151365853,2015,36,serie_a
+Juventus,Napoli,3-1,https://www.besoccer.com/match/juventus-fc/napoli/201529140,2015,37,serie_a
+Genoa,Inter,3-2,https://www.besoccer.com/match/genoa/internazionale/201529145,2015,37,serie_a
+Empoli,Sampdoria,1-1,https://www.besoccer.com/match/empoli-fc/sampdoria/201529139,2015,37,serie_a
+Parma,Hellas Verona,2-2,https://www.besoccer.com/match/parma-fc/hellas-verona-fc/201529141,2015,37,serie_a
+Cesena,Cagliari,0-1,https://www.besoccer.com/match/ac-cesena/cagliari/201529142,2015,37,serie_a
+Udinese,Sassuolo,0-1,https://www.besoccer.com/match/udinese/us-sassuolo-calcio/201529143,2015,37,serie_a
+Palermo FC,Fiorentina,2-3,https://www.besoccer.com/match/palermo/fiorentina/201529146,2015,37,serie_a
+Chievo,Atalanta,1-1,https://www.besoccer.com/match/chievo/atalanta/201529147,2015,37,serie_a
+Milan,Torino,3-0,https://www.besoccer.com/match/milan/torino-fc/201529138,2015,37,serie_a
+Lazio,Roma,1-2,https://www.besoccer.com/match/lazio/roma/201529144,2015,37,serie_a
+Hellas Verona,Juventus,2-2,https://www.besoccer.com/match/hellas-verona-fc/juventus-fc/201529151,2015,38,serie_a
+Atalanta,Milan,1-3,https://www.besoccer.com/match/atalanta/milan/201529150,2015,38,serie_a
+Cagliari,Udinese,4-3,https://www.besoccer.com/match/cagliari/udinese/201529154,2015,38,serie_a
+Fiorentina,Chievo,3-0,https://www.besoccer.com/match/fiorentina/chievo/201529148,2015,38,serie_a
+Sampdoria,Parma,2-2,https://www.besoccer.com/match/sampdoria/parma-fc/201529149,2015,38,serie_a
+Inter,Empoli,4-3,https://www.besoccer.com/match/internazionale/empoli-fc/201529152,2015,38,serie_a
+Torino,Cesena,5-0,https://www.besoccer.com/match/torino-fc/ac-cesena/201529153,2015,38,serie_a
+Roma,Palermo FC,1-2,https://www.besoccer.com/match/roma/palermo/201529155,2015,38,serie_a
+Napoli,Lazio,2-4,https://www.besoccer.com/match/napoli/lazio/201529156,2015,38,serie_a
+Sassuolo,Genoa,3-1,https://www.besoccer.com/match/us-sassuolo-calcio/genoa/201529157,2015,38,serie_a

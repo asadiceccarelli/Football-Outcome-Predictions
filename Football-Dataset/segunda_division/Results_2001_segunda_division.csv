@@ -1,0 +1,463 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Lleida,Eibar,0-0,https://www.besoccer.com/match/ue-lleida/eibar/20015036,2001,1,segunda_division
+Albacete,Tenerife,1-0,https://www.besoccer.com/match/albacete/tenerife/20015037,2001,1,segunda_division
+Getafe,Córdoba,0-0,https://www.besoccer.com/match/getafe/cordoba/20015038,2001,1,segunda_division
+Real Jaén,Racing Ferrol,1-0,https://www.besoccer.com/match/real-jaen/racing-club-ferrol/20015028,2001,1,segunda_division
+Compostela,Real Betis,0-0,https://www.besoccer.com/match/sd-Compostela/betis/20015029,2001,1,segunda_division
+Elche,UD Salamanca,2-0,https://www.besoccer.com/match/elche/salamanca/20015030,2001,1,segunda_division
+Sevilla,Real Murcia,2-1,https://www.besoccer.com/match/sevilla/real-murcia/20015031,2001,1,segunda_division
+Leganés,CF Extremadura,1-1,https://www.besoccer.com/match/leganes/cf-extremadura/20015032,2001,1,segunda_division
+Real Sporting,Universidad LPGC,0-0,https://www.besoccer.com/match/sporting-gijon/universidad-lpgc/20015033,2001,1,segunda_division
+Levante,Atlético,4-1,https://www.besoccer.com/match/levante/atletico-madrid/20015034,2001,1,segunda_division
+Recreativo,CD Badajoz,0-0,https://www.besoccer.com/match/recreativo/badajoz/20015035,2001,1,segunda_division
+Atlético,Recreativo,0-1,https://www.besoccer.com/match/atletico-madrid/recreativo/20015027,2001,2,segunda_division
+Universidad LPGC,Getafe,0-1,https://www.besoccer.com/match/universidad-lpgc/getafe/20015026,2001,2,segunda_division
+CD Badajoz,Real Jaén,0-1,https://www.besoccer.com/match/badajoz/real-jaen/20015017,2001,2,segunda_division
+Racing Ferrol,Compostela,1-3,https://www.besoccer.com/match/racing-club-ferrol/sd-Compostela/20015018,2001,2,segunda_division
+Real Betis,Elche,1-2,https://www.besoccer.com/match/betis/elche/20015019,2001,2,segunda_division
+UD Salamanca,Sevilla,0-1,https://www.besoccer.com/match/salamanca/sevilla/20015020,2001,2,segunda_division
+Real Murcia,Lleida,0-0,https://www.besoccer.com/match/real-murcia/ue-lleida/20015021,2001,2,segunda_division
+Eibar,Leganés,0-1,https://www.besoccer.com/match/eibar/leganes/20015022,2001,2,segunda_division
+CF Extremadura,Albacete,1-1,https://www.besoccer.com/match/cf-extremadura/albacete/20015023,2001,2,segunda_division
+Tenerife,Real Sporting,1-0,https://www.besoccer.com/match/tenerife/sporting-gijon/20015024,2001,2,segunda_division
+Córdoba,Levante,1-1,https://www.besoccer.com/match/cordoba/levante/20015025,2001,2,segunda_division
+Albacete,Eibar,1-3,https://www.besoccer.com/match/albacete/eibar/20015016,2001,3,segunda_division
+Elche,Sevilla,1-2,https://www.besoccer.com/match/elche/sevilla/20015015,2001,3,segunda_division
+Real Jaén,Atlético,1-0,https://www.besoccer.com/match/real-jaen/atletico-madrid/20015006,2001,3,segunda_division
+Compostela,CD Badajoz,0-1,https://www.besoccer.com/match/sd-Compostela/badajoz/20015007,2001,3,segunda_division
+Real Betis,Racing Ferrol,2-1,https://www.besoccer.com/match/betis/racing-club-ferrol/20015008,2001,3,segunda_division
+Lleida,UD Salamanca,0-3,https://www.besoccer.com/match/ue-lleida/salamanca/20015009,2001,3,segunda_division
+Leganés,Real Murcia,3-2,https://www.besoccer.com/match/leganes/real-murcia/20015010,2001,3,segunda_division
+Real Sporting,CF Extremadura,2-0,https://www.besoccer.com/match/sporting-gijon/cf-extremadura/20015011,2001,3,segunda_division
+Getafe,Tenerife,0-5,https://www.besoccer.com/match/getafe/tenerife/20015012,2001,3,segunda_division
+Levante,Universidad LPGC,2-0,https://www.besoccer.com/match/levante/universidad-lpgc/20015013,2001,3,segunda_division
+Recreativo,Córdoba,1-0,https://www.besoccer.com/match/recreativo/cordoba/20015014,2001,3,segunda_division
+Universidad LPGC,Recreativo,0-0,https://www.besoccer.com/match/universidad-lpgc/recreativo/20015000,2001,4,segunda_division
+Tenerife,Levante,1-1,https://www.besoccer.com/match/tenerife/levante/20015002,2001,4,segunda_division
+Córdoba,Real Jaén,1-0,https://www.besoccer.com/match/cordoba/real-jaen/20015003,2001,4,segunda_division
+Atlético,Compostela,2-0,https://www.besoccer.com/match/atletico-madrid/sd-Compostela/20015004,2001,4,segunda_division
+Racing Ferrol,Elche,2-1,https://www.besoccer.com/match/racing-club-ferrol/elche/20015005,2001,4,segunda_division
+Sevilla,Lleida,2-0,https://www.besoccer.com/match/sevilla/ue-lleida/20014995,2001,4,segunda_division
+UD Salamanca,Leganés,1-1,https://www.besoccer.com/match/salamanca/leganes/20014996,2001,4,segunda_division
+Real Murcia,Albacete,2-0,https://www.besoccer.com/match/real-murcia/albacete/20014997,2001,4,segunda_division
+Eibar,Real Sporting,0-0,https://www.besoccer.com/match/eibar/sporting-gijon/20014998,2001,4,segunda_division
+CF Extremadura,Getafe,1-0,https://www.besoccer.com/match/cf-extremadura/getafe/20014999,2001,4,segunda_division
+CD Badajoz,Real Betis,0-0,https://www.besoccer.com/match/badajoz/betis/20015001,2001,4,segunda_division
+Leganés,Sevilla,1-1,https://www.besoccer.com/match/leganes/sevilla/20014992,2001,5,segunda_division
+Elche,Lleida,2-1,https://www.besoccer.com/match/elche/ue-lleida/20014991,2001,5,segunda_division
+Recreativo,Tenerife,0-0,https://www.besoccer.com/match/recreativo/tenerife/20014993,2001,5,segunda_division
+Racing Ferrol,CD Badajoz,2-2,https://www.besoccer.com/match/racing-club-ferrol/badajoz/20014994,2001,5,segunda_division
+Albacete,UD Salamanca,1-0,https://www.besoccer.com/match/albacete/salamanca/20014984,2001,5,segunda_division
+Real Sporting,Real Murcia,2-2,https://www.besoccer.com/match/sporting-gijon/real-murcia/20014985,2001,5,segunda_division
+Getafe,Eibar,0-0,https://www.besoccer.com/match/getafe/eibar/20014986,2001,5,segunda_division
+Levante,CF Extremadura,1-0,https://www.besoccer.com/match/levante/cf-extremadura/20014987,2001,5,segunda_division
+Real Jaén,Universidad LPGC,1-0,https://www.besoccer.com/match/real-jaen/universidad-lpgc/20014988,2001,5,segunda_division
+Compostela,Córdoba,0-1,https://www.besoccer.com/match/sd-Compostela/cordoba/20014989,2001,5,segunda_division
+Real Betis,Atlético,1-1,https://www.besoccer.com/match/betis/atletico-madrid/20014990,2001,5,segunda_division
+Córdoba,Real Betis,1-0,https://www.besoccer.com/match/cordoba/betis/20014983,2001,6,segunda_division
+Eibar,Levante,0-0,https://www.besoccer.com/match/eibar/levante/20014982,2001,6,segunda_division
+Atlético,Racing Ferrol,1-1,https://www.besoccer.com/match/atletico-madrid/racing-club-ferrol/20014973,2001,6,segunda_division
+CD Badajoz,Elche,1-1,https://www.besoccer.com/match/badajoz/elche/20014974,2001,6,segunda_division
+Lleida,Leganés,1-0,https://www.besoccer.com/match/ue-lleida/leganes/20014975,2001,6,segunda_division
+Sevilla,Albacete,1-0,https://www.besoccer.com/match/sevilla/albacete/20014976,2001,6,segunda_division
+UD Salamanca,Real Sporting,2-1,https://www.besoccer.com/match/salamanca/sporting-gijon/20014977,2001,6,segunda_division
+Real Murcia,Getafe,2-1,https://www.besoccer.com/match/real-murcia/getafe/20014978,2001,6,segunda_division
+CF Extremadura,Recreativo,1-1,https://www.besoccer.com/match/cf-extremadura/recreativo/20014979,2001,6,segunda_division
+Tenerife,Real Jaén,1-1,https://www.besoccer.com/match/tenerife/real-jaen/20014980,2001,6,segunda_division
+Universidad LPGC,Compostela,1-1,https://www.besoccer.com/match/universidad-lpgc/sd-Compostela/20014981,2001,6,segunda_division
+CD Badajoz,Atlético,0-0,https://www.besoccer.com/match/badajoz/atletico-madrid/20014972,2001,7,segunda_division
+Real Betis,Universidad LPGC,2-0,https://www.besoccer.com/match/betis/universidad-lpgc/20014971,2001,7,segunda_division
+Racing Ferrol,Córdoba,0-2,https://www.besoccer.com/match/racing-club-ferrol/cordoba/20014962,2001,7,segunda_division
+Elche,Leganés,1-1,https://www.besoccer.com/match/elche/leganes/20014963,2001,7,segunda_division
+Albacete,Lleida,2-1,https://www.besoccer.com/match/albacete/ue-lleida/20014964,2001,7,segunda_division
+Real Sporting,Sevilla,3-0,https://www.besoccer.com/match/sporting-gijon/sevilla/20014965,2001,7,segunda_division
+Getafe,UD Salamanca,1-2,https://www.besoccer.com/match/getafe/salamanca/20014966,2001,7,segunda_division
+Levante,Real Murcia,2-3,https://www.besoccer.com/match/levante/real-murcia/20014967,2001,7,segunda_division
+Recreativo,Eibar,3-0,https://www.besoccer.com/match/recreativo/eibar/20014968,2001,7,segunda_division
+Real Jaén,CF Extremadura,0-0,https://www.besoccer.com/match/real-jaen/cf-extremadura/20014969,2001,7,segunda_division
+Compostela,Tenerife,0-2,https://www.besoccer.com/match/sd-Compostela/tenerife/20014970,2001,7,segunda_division
+Tenerife,Real Betis,0-1,https://www.besoccer.com/match/tenerife/betis/20014959,2001,8,segunda_division
+Universidad LPGC,Racing Ferrol,1-3,https://www.besoccer.com/match/universidad-lpgc/racing-club-ferrol/20014960,2001,8,segunda_division
+Atlético,Elche,2-0,https://www.besoccer.com/match/atletico-madrid/elche/20014961,2001,8,segunda_division
+Leganés,Albacete,0-0,https://www.besoccer.com/match/leganes/albacete/20014951,2001,8,segunda_division
+Lleida,Real Sporting,0-1,https://www.besoccer.com/match/ue-lleida/sporting-gijon/20014952,2001,8,segunda_division
+Sevilla,Getafe,1-1,https://www.besoccer.com/match/sevilla/getafe/20014953,2001,8,segunda_division
+UD Salamanca,Levante,1-1,https://www.besoccer.com/match/salamanca/levante/20014954,2001,8,segunda_division
+Real Murcia,Recreativo,2-0,https://www.besoccer.com/match/real-murcia/recreativo/20014955,2001,8,segunda_division
+Eibar,Real Jaén,1-0,https://www.besoccer.com/match/eibar/real-jaen/20014956,2001,8,segunda_division
+CF Extremadura,Compostela,3-2,https://www.besoccer.com/match/cf-extremadura/sd-Compostela/20014957,2001,8,segunda_division
+Córdoba,CD Badajoz,2-0,https://www.besoccer.com/match/cordoba/badajoz/20014958,2001,8,segunda_division
+Compostela,Eibar,2-1,https://www.besoccer.com/match/sd-Compostela/eibar/20014946,2001,9,segunda_division
+Racing Ferrol,Tenerife,1-2,https://www.besoccer.com/match/racing-club-ferrol/tenerife/20014947,2001,9,segunda_division
+CD Badajoz,Universidad LPGC,3-1,https://www.besoccer.com/match/badajoz/universidad-lpgc/20014948,2001,9,segunda_division
+Levante,Sevilla,2-0,https://www.besoccer.com/match/levante/sevilla/20014949,2001,9,segunda_division
+Recreativo,UD Salamanca,0-0,https://www.besoccer.com/match/recreativo/salamanca/20014950,2001,9,segunda_division
+Elche,Albacete,0-1,https://www.besoccer.com/match/elche/albacete/20014940,2001,9,segunda_division
+Real Sporting,Leganés,2-2,https://www.besoccer.com/match/sporting-gijon/leganes/20014941,2001,9,segunda_division
+Getafe,Lleida,2-1,https://www.besoccer.com/match/getafe/ue-lleida/20014942,2001,9,segunda_division
+Real Jaén,Real Murcia,2-1,https://www.besoccer.com/match/real-jaen/real-murcia/20014943,2001,9,segunda_division
+Real Betis,CF Extremadura,1-0,https://www.besoccer.com/match/betis/cf-extremadura/20014944,2001,9,segunda_division
+Atlético,Córdoba,1-1,https://www.besoccer.com/match/atletico-madrid/cordoba/20014945,2001,9,segunda_division
+Universidad LPGC,Atlético,2-1,https://www.besoccer.com/match/universidad-lpgc/atletico-madrid/20014929,2001,10,segunda_division
+Córdoba,Elche,0-1,https://www.besoccer.com/match/cordoba/elche/20014930,2001,10,segunda_division
+Albacete,Real Sporting,3-1,https://www.besoccer.com/match/albacete/sporting-gijon/20014931,2001,10,segunda_division
+Leganés,Getafe,2-3,https://www.besoccer.com/match/leganes/getafe/20014932,2001,10,segunda_division
+Lleida,Levante,3-3,https://www.besoccer.com/match/ue-lleida/levante/20014933,2001,10,segunda_division
+Sevilla,Recreativo,0-0,https://www.besoccer.com/match/sevilla/recreativo/20014934,2001,10,segunda_division
+UD Salamanca,Real Jaén,1-0,https://www.besoccer.com/match/salamanca/real-jaen/20014935,2001,10,segunda_division
+Real Murcia,Compostela,2-0,https://www.besoccer.com/match/real-murcia/sd-Compostela/20014936,2001,10,segunda_division
+Eibar,Real Betis,0-0,https://www.besoccer.com/match/eibar/betis/20014937,2001,10,segunda_division
+CF Extremadura,Racing Ferrol,1-0,https://www.besoccer.com/match/cf-extremadura/racing-club-ferrol/20014938,2001,10,segunda_division
+Tenerife,CD Badajoz,3-0,https://www.besoccer.com/match/tenerife/badajoz/20014939,2001,10,segunda_division
+Real Jaén,Sevilla,2-1,https://www.besoccer.com/match/real-jaen/sevilla/20014928,2001,11,segunda_division
+Córdoba,Universidad LPGC,2-1,https://www.besoccer.com/match/cordoba/universidad-lpgc/20014918,2001,11,segunda_division
+Elche,Real Sporting,2-2,https://www.besoccer.com/match/elche/sporting-gijon/20014919,2001,11,segunda_division
+Getafe,Albacete,1-1,https://www.besoccer.com/match/getafe/albacete/20014920,2001,11,segunda_division
+Levante,Leganés,0-2,https://www.besoccer.com/match/levante/leganes/20014921,2001,11,segunda_division
+Recreativo,Lleida,1-1,https://www.besoccer.com/match/recreativo/ue-lleida/20014922,2001,11,segunda_division
+Compostela,UD Salamanca,2-1,https://www.besoccer.com/match/sd-Compostela/salamanca/20014923,2001,11,segunda_division
+Real Betis,Real Murcia,2-1,https://www.besoccer.com/match/betis/real-murcia/20014924,2001,11,segunda_division
+Racing Ferrol,Eibar,0-1,https://www.besoccer.com/match/racing-club-ferrol/eibar/20014925,2001,11,segunda_division
+CD Badajoz,CF Extremadura,1-1,https://www.besoccer.com/match/badajoz/cf-extremadura/20014926,2001,11,segunda_division
+Atlético,Tenerife,1-2,https://www.besoccer.com/match/atletico-madrid/tenerife/20014927,2001,11,segunda_division
+Universidad LPGC,Elche,2-2,https://www.besoccer.com/match/universidad-lpgc/elche/20014917,2001,12,segunda_division
+CF Extremadura,Atlético,0-1,https://www.besoccer.com/match/cf-extremadura/atletico-madrid/20014916,2001,12,segunda_division
+Real Sporting,Getafe,3-1,https://www.besoccer.com/match/sporting-gijon/getafe/20014907,2001,12,segunda_division
+Albacete,Levante,1-1,https://www.besoccer.com/match/albacete/levante/20014908,2001,12,segunda_division
+Leganés,Recreativo,1-1,https://www.besoccer.com/match/leganes/recreativo/20014909,2001,12,segunda_division
+Lleida,Real Jaén,5-2,https://www.besoccer.com/match/ue-lleida/real-jaen/20014910,2001,12,segunda_division
+Sevilla,Compostela,4-0,https://www.besoccer.com/match/sevilla/sd-Compostela/20014911,2001,12,segunda_division
+UD Salamanca,Real Betis,1-0,https://www.besoccer.com/match/salamanca/betis/20014912,2001,12,segunda_division
+Real Murcia,Racing Ferrol,1-1,https://www.besoccer.com/match/real-murcia/racing-club-ferrol/20014913,2001,12,segunda_division
+Eibar,CD Badajoz,0-1,https://www.besoccer.com/match/eibar/badajoz/20014914,2001,12,segunda_division
+Tenerife,Córdoba,3-0,https://www.besoccer.com/match/tenerife/cordoba/20014915,2001,12,segunda_division
+Universidad LPGC,Tenerife,0-1,https://www.besoccer.com/match/universidad-lpgc/tenerife/20014904,2001,13,segunda_division
+Recreativo,Albacete,1-0,https://www.besoccer.com/match/recreativo/albacete/20014905,2001,13,segunda_division
+Atlético,Eibar,1-1,https://www.besoccer.com/match/atletico-madrid/eibar/20014906,2001,13,segunda_division
+Elche,Getafe,1-4,https://www.besoccer.com/match/elche/getafe/20014896,2001,13,segunda_division
+Levante,Real Sporting,1-1,https://www.besoccer.com/match/levante/sporting-gijon/20014897,2001,13,segunda_division
+Real Jaén,Leganés,0-0,https://www.besoccer.com/match/real-jaen/leganes/20014898,2001,13,segunda_division
+Compostela,Lleida,2-1,https://www.besoccer.com/match/sd-Compostela/ue-lleida/20014899,2001,13,segunda_division
+Real Betis,Sevilla,1-3,https://www.besoccer.com/match/betis/sevilla/20014900,2001,13,segunda_division
+Racing Ferrol,UD Salamanca,0-1,https://www.besoccer.com/match/racing-club-ferrol/salamanca/20014901,2001,13,segunda_division
+CD Badajoz,Real Murcia,1-1,https://www.besoccer.com/match/badajoz/real-murcia/20014902,2001,13,segunda_division
+Córdoba,CF Extremadura,2-0,https://www.besoccer.com/match/cordoba/cf-extremadura/20014903,2001,13,segunda_division
+Lleida,Real Betis,0-1,https://www.besoccer.com/match/ue-lleida/betis/20014895,2001,14,segunda_division
+CF Extremadura,Universidad LPGC,2-1,https://www.besoccer.com/match/cf-extremadura/universidad-lpgc/20014894,2001,14,segunda_division
+Getafe,Levante,1-2,https://www.besoccer.com/match/getafe/levante/20014885,2001,14,segunda_division
+Real Sporting,Recreativo,0-1,https://www.besoccer.com/match/sporting-gijon/recreativo/20014886,2001,14,segunda_division
+Albacete,Real Jaén,2-1,https://www.besoccer.com/match/albacete/real-jaen/20014887,2001,14,segunda_division
+Leganés,Compostela,3-0,https://www.besoccer.com/match/leganes/sd-Compostela/20014888,2001,14,segunda_division
+Sevilla,Racing Ferrol,3-0,https://www.besoccer.com/match/sevilla/racing-club-ferrol/20014889,2001,14,segunda_division
+UD Salamanca,CD Badajoz,1-1,https://www.besoccer.com/match/salamanca/badajoz/20014890,2001,14,segunda_division
+Real Murcia,Atlético,1-1,https://www.besoccer.com/match/real-murcia/atletico-madrid/20014891,2001,14,segunda_division
+Eibar,Córdoba,3-0,https://www.besoccer.com/match/eibar/cordoba/20014892,2001,14,segunda_division
+Tenerife,Elche,3-1,https://www.besoccer.com/match/tenerife/elche/20014893,2001,14,segunda_division
+Universidad LPGC,Eibar,0-0,https://www.besoccer.com/match/universidad-lpgc/eibar/20014880,2001,15,segunda_division
+Elche,Levante,1-1,https://www.besoccer.com/match/elche/levante/20014881,2001,15,segunda_division
+Recreativo,Getafe,0-0,https://www.besoccer.com/match/recreativo/getafe/20014882,2001,15,segunda_division
+Racing Ferrol,Lleida,3-1,https://www.besoccer.com/match/racing-club-ferrol/ue-lleida/20014883,2001,15,segunda_division
+Atlético,UD Salamanca,3-0,https://www.besoccer.com/match/atletico-madrid/salamanca/20014884,2001,15,segunda_division
+Real Jaén,Real Sporting,0-2,https://www.besoccer.com/match/real-jaen/sporting-gijon/20014874,2001,15,segunda_division
+Compostela,Albacete,0-2,https://www.besoccer.com/match/sd-Compostela/albacete/20014875,2001,15,segunda_division
+Real Betis,Leganés,2-1,https://www.besoccer.com/match/betis/leganes/20014876,2001,15,segunda_division
+CD Badajoz,Sevilla,2-0,https://www.besoccer.com/match/badajoz/sevilla/20014877,2001,15,segunda_division
+Córdoba,Real Murcia,1-3,https://www.besoccer.com/match/cordoba/real-murcia/20014878,2001,15,segunda_division
+Tenerife,CF Extremadura,0-2,https://www.besoccer.com/match/tenerife/cf-extremadura/20014879,2001,15,segunda_division
+Getafe,Real Jaén,0-1,https://www.besoccer.com/match/getafe/real-jaen/20014869,2001,16,segunda_division
+Lleida,CD Badajoz,1-1,https://www.besoccer.com/match/ue-lleida/badajoz/20014870,2001,16,segunda_division
+UD Salamanca,Córdoba,1-1,https://www.besoccer.com/match/salamanca/cordoba/20014871,2001,16,segunda_division
+Eibar,Tenerife,2-2,https://www.besoccer.com/match/eibar/tenerife/20014872,2001,16,segunda_division
+CF Extremadura,Elche,1-2,https://www.besoccer.com/match/cf-extremadura/elche/20014873,2001,16,segunda_division
+Levante,Recreativo,1-1,https://www.besoccer.com/match/levante/recreativo/20014863,2001,16,segunda_division
+Real Sporting,Compostela,5-2,https://www.besoccer.com/match/sporting-gijon/sd-Compostela/20014864,2001,16,segunda_division
+Albacete,Real Betis,0-0,https://www.besoccer.com/match/albacete/betis/20014865,2001,16,segunda_division
+Leganés,Racing Ferrol,1-1,https://www.besoccer.com/match/leganes/racing-club-ferrol/20014866,2001,16,segunda_division
+Sevilla,Atlético,3-1,https://www.besoccer.com/match/sevilla/atletico-madrid/20014867,2001,16,segunda_division
+Real Murcia,Universidad LPGC,1-1,https://www.besoccer.com/match/real-murcia/universidad-lpgc/20014868,2001,16,segunda_division
+Real Jaén,Levante,0-1,https://www.besoccer.com/match/real-jaen/levante/20014860,2001,17,segunda_division
+Universidad LPGC,UD Salamanca,1-3,https://www.besoccer.com/match/universidad-lpgc/salamanca/20014861,2001,17,segunda_division
+Tenerife,Real Murcia,1-0,https://www.besoccer.com/match/tenerife/real-murcia/20014862,2001,17,segunda_division
+Elche,Recreativo,0-1,https://www.besoccer.com/match/elche/recreativo/20014853,2001,17,segunda_division
+Compostela,Getafe,1-1,https://www.besoccer.com/match/sd-Compostela/getafe/20014854,2001,17,segunda_division
+Real Betis,Real Sporting,1-0,https://www.besoccer.com/match/betis/sporting-gijon/20014855,2001,17,segunda_division
+CD Badajoz,Leganés,1-0,https://www.besoccer.com/match/badajoz/leganes/20014856,2001,17,segunda_division
+Atlético,Lleida,3-2,https://www.besoccer.com/match/atletico-madrid/ue-lleida/20014857,2001,17,segunda_division
+Córdoba,Sevilla,0-1,https://www.besoccer.com/match/cordoba/sevilla/20014858,2001,17,segunda_division
+CF Extremadura,Eibar,2-0,https://www.besoccer.com/match/cf-extremadura/eibar/20014859,2001,17,segunda_division
+Racing Ferrol,Albacete,3-2,https://www.besoccer.com/match/racing-club-ferrol/albacete/20014852,2001,17,segunda_division
+Eibar,Elche,2-1,https://www.besoccer.com/match/eibar/elche/20014842,2001,18,segunda_division
+Recreativo,Real Jaén,2-0,https://www.besoccer.com/match/recreativo/real-jaen/20014843,2001,18,segunda_division
+Levante,Compostela,0-2,https://www.besoccer.com/match/levante/sd-Compostela/20014844,2001,18,segunda_division
+Getafe,Real Betis,0-2,https://www.besoccer.com/match/getafe/betis/20014845,2001,18,segunda_division
+Real Sporting,Racing Ferrol,1-1,https://www.besoccer.com/match/sporting-gijon/racing-club-ferrol/20014846,2001,18,segunda_division
+Albacete,CD Badajoz,1-1,https://www.besoccer.com/match/albacete/badajoz/20014847,2001,18,segunda_division
+Lleida,Córdoba,2-0,https://www.besoccer.com/match/ue-lleida/cordoba/20014848,2001,18,segunda_division
+Sevilla,Universidad LPGC,2-2,https://www.besoccer.com/match/sevilla/universidad-lpgc/20014849,2001,18,segunda_division
+UD Salamanca,Tenerife,3-1,https://www.besoccer.com/match/salamanca/tenerife/20014850,2001,18,segunda_division
+Real Murcia,CF Extremadura,1-3,https://www.besoccer.com/match/real-murcia/cf-extremadura/20014851,2001,18,segunda_division
+Leganés,Atlético,1-2,https://www.besoccer.com/match/leganes/atletico-madrid/20014841,2001,18,segunda_division
+Real Betis,Levante,1-0,https://www.besoccer.com/match/betis/levante/20014840,2001,19,segunda_division
+Elche,Real Jaén,0-0,https://www.besoccer.com/match/elche/real-jaen/20014830,2001,19,segunda_division
+Compostela,Recreativo,2-0,https://www.besoccer.com/match/sd-Compostela/recreativo/20014831,2001,19,segunda_division
+Racing Ferrol,Getafe,2-1,https://www.besoccer.com/match/racing-club-ferrol/getafe/20014832,2001,19,segunda_division
+CD Badajoz,Real Sporting,2-0,https://www.besoccer.com/match/badajoz/sporting-gijon/20014833,2001,19,segunda_division
+Atlético,Albacete,0-0,https://www.besoccer.com/match/atletico-madrid/albacete/20014834,2001,19,segunda_division
+Córdoba,Leganés,1-1,https://www.besoccer.com/match/cordoba/leganes/20014835,2001,19,segunda_division
+Universidad LPGC,Lleida,0-0,https://www.besoccer.com/match/universidad-lpgc/ue-lleida/20014836,2001,19,segunda_division
+Tenerife,Sevilla,1-2,https://www.besoccer.com/match/tenerife/sevilla/20014837,2001,19,segunda_division
+CF Extremadura,UD Salamanca,0-1,https://www.besoccer.com/match/cf-extremadura/salamanca/20014838,2001,19,segunda_division
+Eibar,Real Murcia,0-1,https://www.besoccer.com/match/eibar/real-murcia/20014839,2001,19,segunda_division
+Sevilla,CF Extremadura,3-0,https://www.besoccer.com/match/sevilla/cf-extremadura/20014829,2001,20,segunda_division
+Lleida,Tenerife,1-1,https://www.besoccer.com/match/ue-lleida/tenerife/20014828,2001,20,segunda_division
+Real Jaén,Compostela,1-1,https://www.besoccer.com/match/real-jaen/sd-Compostela/20014819,2001,20,segunda_division
+Recreativo,Real Betis,1-1,https://www.besoccer.com/match/recreativo/betis/20014820,2001,20,segunda_division
+Levante,Racing Ferrol,0-0,https://www.besoccer.com/match/levante/racing-club-ferrol/20014821,2001,20,segunda_division
+Getafe,CD Badajoz,2-1,https://www.besoccer.com/match/getafe/badajoz/20014822,2001,20,segunda_division
+Real Sporting,Atlético,1-0,https://www.besoccer.com/match/sporting-gijon/atletico-madrid/20014823,2001,20,segunda_division
+Albacete,Córdoba,0-0,https://www.besoccer.com/match/albacete/cordoba/20014824,2001,20,segunda_division
+Leganés,Universidad LPGC,1-1,https://www.besoccer.com/match/leganes/universidad-lpgc/20014825,2001,20,segunda_division
+UD Salamanca,Eibar,0-2,https://www.besoccer.com/match/salamanca/eibar/20014826,2001,20,segunda_division
+Elche,Real Murcia,1-1,https://www.besoccer.com/match/elche/real-murcia/20014827,2001,20,segunda_division
+Atlético,Getafe,2-1,https://www.besoccer.com/match/atletico-madrid/getafe/20014816,2001,21,segunda_division
+Compostela,Elche,1-1,https://www.besoccer.com/match/sd-Compostela/elche/20014815,2001,21,segunda_division
+Universidad LPGC,Albacete,1-0,https://www.besoccer.com/match/universidad-lpgc/albacete/20014817,2001,21,segunda_division
+Eibar,Sevilla,1-0,https://www.besoccer.com/match/eibar/sevilla/20014818,2001,21,segunda_division
+Racing Ferrol,Recreativo,1-0,https://www.besoccer.com/match/racing-club-ferrol/recreativo/20014808,2001,21,segunda_division
+CD Badajoz,Levante,1-1,https://www.besoccer.com/match/badajoz/levante/20014809,2001,21,segunda_division
+Córdoba,Real Sporting,2-0,https://www.besoccer.com/match/cordoba/sporting-gijon/20014810,2001,21,segunda_division
+Tenerife,Leganés,3-2,https://www.besoccer.com/match/tenerife/leganes/20014811,2001,21,segunda_division
+CF Extremadura,Lleida,0-0,https://www.besoccer.com/match/cf-extremadura/ue-lleida/20014812,2001,21,segunda_division
+Real Murcia,UD Salamanca,1-2,https://www.besoccer.com/match/real-murcia/salamanca/20014813,2001,21,segunda_division
+Real Betis,Real Jaén,1-0,https://www.besoccer.com/match/betis/real-jaen/20014814,2001,21,segunda_division
+Real Betis,Compostela,2-0,https://www.besoccer.com/match/betis/sd-Compostela/20014807,2001,22,segunda_division
+Atlético,Levante,1-1,https://www.besoccer.com/match/atletico-madrid/levante/20014806,2001,22,segunda_division
+Real Murcia,Sevilla,1-1,https://www.besoccer.com/match/real-murcia/sevilla/20014797,2001,22,segunda_division
+Eibar,Lleida,2-0,https://www.besoccer.com/match/eibar/ue-lleida/20014798,2001,22,segunda_division
+CF Extremadura,Leganés,0-3,https://www.besoccer.com/match/cf-extremadura/leganes/20014799,2001,22,segunda_division
+Tenerife,Albacete,1-0,https://www.besoccer.com/match/tenerife/albacete/20014800,2001,22,segunda_division
+Universidad LPGC,Real Sporting,0-2,https://www.besoccer.com/match/universidad-lpgc/sporting-gijon/20014801,2001,22,segunda_division
+Córdoba,Getafe,4-1,https://www.besoccer.com/match/cordoba/getafe/20014802,2001,22,segunda_division
+CD Badajoz,Recreativo,1-1,https://www.besoccer.com/match/badajoz/recreativo/20014803,2001,22,segunda_division
+Racing Ferrol,Real Jaén,1-1,https://www.besoccer.com/match/racing-club-ferrol/real-jaen/20014804,2001,22,segunda_division
+UD Salamanca,Elche,2-0,https://www.besoccer.com/match/salamanca/elche/20014805,2001,22,segunda_division
+Recreativo,Atlético,1-1,https://www.besoccer.com/match/recreativo/atletico-madrid/20014796,2001,23,segunda_division
+Lleida,Real Murcia,0-1,https://www.besoccer.com/match/ue-lleida/real-murcia/20014786,2001,23,segunda_division
+Leganés,Eibar,1-1,https://www.besoccer.com/match/leganes/eibar/20014787,2001,23,segunda_division
+Albacete,CF Extremadura,2-1,https://www.besoccer.com/match/albacete/cf-extremadura/20014788,2001,23,segunda_division
+Real Sporting,Tenerife,0-0,https://www.besoccer.com/match/sporting-gijon/tenerife/20014789,2001,23,segunda_division
+Getafe,Universidad LPGC,0-0,https://www.besoccer.com/match/getafe/universidad-lpgc/20014790,2001,23,segunda_division
+Levante,Córdoba,2-1,https://www.besoccer.com/match/levante/cordoba/20014791,2001,23,segunda_division
+Real Jaén,CD Badajoz,0-0,https://www.besoccer.com/match/real-jaen/badajoz/20014792,2001,23,segunda_division
+Compostela,Racing Ferrol,0-5,https://www.besoccer.com/match/sd-Compostela/racing-club-ferrol/20014793,2001,23,segunda_division
+Elche,Real Betis,1-1,https://www.besoccer.com/match/elche/betis/20014794,2001,23,segunda_division
+Sevilla,UD Salamanca,2-0,https://www.besoccer.com/match/sevilla/salamanca/20014795,2001,23,segunda_division
+Sevilla,Elche,1-1,https://www.besoccer.com/match/sevilla/elche/20014785,2001,24,segunda_division
+Eibar,Albacete,0-0,https://www.besoccer.com/match/eibar/albacete/20014775,2001,24,segunda_division
+CF Extremadura,Real Sporting,1-2,https://www.besoccer.com/match/cf-extremadura/sporting-gijon/20014776,2001,24,segunda_division
+Tenerife,Getafe,3-0,https://www.besoccer.com/match/tenerife/getafe/20014777,2001,24,segunda_division
+Universidad LPGC,Levante,2-2,https://www.besoccer.com/match/universidad-lpgc/levante/20014778,2001,24,segunda_division
+Córdoba,Recreativo,1-3,https://www.besoccer.com/match/cordoba/recreativo/20014779,2001,24,segunda_division
+Atlético,Real Jaén,5-0,https://www.besoccer.com/match/atletico-madrid/real-jaen/20014780,2001,24,segunda_division
+CD Badajoz,Compostela,2-1,https://www.besoccer.com/match/badajoz/sd-Compostela/20014781,2001,24,segunda_division
+Racing Ferrol,Real Betis,0-1,https://www.besoccer.com/match/racing-club-ferrol/betis/20014782,2001,24,segunda_division
+UD Salamanca,Lleida,2-0,https://www.besoccer.com/match/salamanca/ue-lleida/20014783,2001,24,segunda_division
+Real Murcia,Leganés,2-2,https://www.besoccer.com/match/real-murcia/leganes/20014784,2001,24,segunda_division
+Recreativo,Universidad LPGC,4-1,https://www.besoccer.com/match/recreativo/universidad-lpgc/20014772,2001,25,segunda_division
+Real Jaén,Córdoba,0-0,https://www.besoccer.com/match/real-jaen/cordoba/20014773,2001,25,segunda_division
+Compostela,Atlético,2-3,https://www.besoccer.com/match/sd-Compostela/atletico-madrid/20014774,2001,25,segunda_division
+Albacete,Real Murcia,2-1,https://www.besoccer.com/match/albacete/real-murcia/20014764,2001,25,segunda_division
+Real Sporting,Eibar,0-0,https://www.besoccer.com/match/sporting-gijon/eibar/20014765,2001,25,segunda_division
+Getafe,CF Extremadura,0-1,https://www.besoccer.com/match/getafe/cf-extremadura/20014766,2001,25,segunda_division
+Levante,Tenerife,2-0,https://www.besoccer.com/match/levante/tenerife/20014767,2001,25,segunda_division
+Real Betis,CD Badajoz,1-1,https://www.besoccer.com/match/betis/badajoz/20014768,2001,25,segunda_division
+Elche,Racing Ferrol,2-0,https://www.besoccer.com/match/elche/racing-club-ferrol/20014769,2001,25,segunda_division
+Lleida,Sevilla,0-1,https://www.besoccer.com/match/ue-lleida/sevilla/20014770,2001,25,segunda_division
+Leganés,UD Salamanca,0-1,https://www.besoccer.com/match/leganes/salamanca/20014771,2001,25,segunda_division
+Lleida,Elche,1-1,https://www.besoccer.com/match/ue-lleida/elche/20014761,2001,26,segunda_division
+Eibar,Getafe,0-0,https://www.besoccer.com/match/eibar/getafe/20014762,2001,26,segunda_division
+Tenerife,Recreativo,1-1,https://www.besoccer.com/match/tenerife/recreativo/20014763,2001,26,segunda_division
+CF Extremadura,Levante,2-1,https://www.besoccer.com/match/cf-extremadura/levante/20014753,2001,26,segunda_division
+Universidad LPGC,Real Jaén,0-0,https://www.besoccer.com/match/universidad-lpgc/real-jaen/20014754,2001,26,segunda_division
+Córdoba,Compostela,0-0,https://www.besoccer.com/match/cordoba/sd-Compostela/20014755,2001,26,segunda_division
+Atlético,Real Betis,2-1,https://www.besoccer.com/match/atletico-madrid/betis/20014756,2001,26,segunda_division
+CD Badajoz,Racing Ferrol,1-0,https://www.besoccer.com/match/badajoz/racing-club-ferrol/20014757,2001,26,segunda_division
+Sevilla,Leganés,4-2,https://www.besoccer.com/match/sevilla/leganes/20014758,2001,26,segunda_division
+UD Salamanca,Albacete,1-2,https://www.besoccer.com/match/salamanca/albacete/20014759,2001,26,segunda_division
+Real Murcia,Real Sporting,5-0,https://www.besoccer.com/match/real-murcia/sporting-gijon/20014760,2001,26,segunda_division
+Levante,Eibar,0-0,https://www.besoccer.com/match/levante/eibar/20014750,2001,27,segunda_division
+Compostela,Universidad LPGC,0-0,https://www.besoccer.com/match/sd-Compostela/universidad-lpgc/20014751,2001,27,segunda_division
+Real Betis,Córdoba,1-1,https://www.besoccer.com/match/betis/cordoba/20014752,2001,27,segunda_division
+Recreativo,CF Extremadura,3-1,https://www.besoccer.com/match/recreativo/cf-extremadura/20014742,2001,27,segunda_division
+Real Jaén,Tenerife,0-0,https://www.besoccer.com/match/real-jaen/tenerife/20014743,2001,27,segunda_division
+Racing Ferrol,Atlético,0-2,https://www.besoccer.com/match/racing-club-ferrol/atletico-madrid/20014744,2001,27,segunda_division
+Elche,CD Badajoz,0-0,https://www.besoccer.com/match/elche/badajoz/20014745,2001,27,segunda_division
+Leganés,Lleida,0-0,https://www.besoccer.com/match/leganes/ue-lleida/20014746,2001,27,segunda_division
+Albacete,Sevilla,2-1,https://www.besoccer.com/match/albacete/sevilla/20014747,2001,27,segunda_division
+Real Sporting,UD Salamanca,2-0,https://www.besoccer.com/match/sporting-gijon/salamanca/20014748,2001,27,segunda_division
+Getafe,Real Murcia,4-0,https://www.besoccer.com/match/getafe/real-murcia/20014749,2001,27,segunda_division
+Atlético,CD Badajoz,2-0,https://www.besoccer.com/match/atletico-madrid/badajoz/20014741,2001,28,segunda_division
+Sevilla,Real Sporting,1-1,https://www.besoccer.com/match/sevilla/sporting-gijon/20014740,2001,28,segunda_division
+Eibar,Recreativo,2-1,https://www.besoccer.com/match/eibar/recreativo/20014731,2001,28,segunda_division
+CF Extremadura,Real Jaén,2-0,https://www.besoccer.com/match/cf-extremadura/real-jaen/20014732,2001,28,segunda_division
+Tenerife,Compostela,4-0,https://www.besoccer.com/match/tenerife/sd-Compostela/20014733,2001,28,segunda_division
+Universidad LPGC,Real Betis,1-1,https://www.besoccer.com/match/universidad-lpgc/betis/20014734,2001,28,segunda_division
+Córdoba,Racing Ferrol,0-1,https://www.besoccer.com/match/cordoba/racing-club-ferrol/20014735,2001,28,segunda_division
+Leganés,Elche,2-0,https://www.besoccer.com/match/leganes/elche/20014736,2001,28,segunda_division
+Lleida,Albacete,1-2,https://www.besoccer.com/match/ue-lleida/albacete/20014737,2001,28,segunda_division
+UD Salamanca,Getafe,4-2,https://www.besoccer.com/match/salamanca/getafe/20014738,2001,28,segunda_division
+Real Murcia,Levante,2-0,https://www.besoccer.com/match/real-murcia/levante/20014739,2001,28,segunda_division
+Elche,Atlético,2-1,https://www.besoccer.com/match/elche/atletico-madrid/20014730,2001,29,segunda_division
+CD Badajoz,Córdoba,0-0,https://www.besoccer.com/match/badajoz/cordoba/20014729,2001,29,segunda_division
+Recreativo,Real Murcia,4-1,https://www.besoccer.com/match/recreativo/real-murcia/20014720,2001,29,segunda_division
+Real Jaén,Eibar,1-0,https://www.besoccer.com/match/real-jaen/eibar/20014721,2001,29,segunda_division
+Compostela,CF Extremadura,3-2,https://www.besoccer.com/match/sd-Compostela/cf-extremadura/20014722,2001,29,segunda_division
+Real Betis,Tenerife,0-2,https://www.besoccer.com/match/betis/tenerife/20014723,2001,29,segunda_division
+Racing Ferrol,Universidad LPGC,1-2,https://www.besoccer.com/match/racing-club-ferrol/universidad-lpgc/20014724,2001,29,segunda_division
+Albacete,Leganés,0-0,https://www.besoccer.com/match/albacete/leganes/20014725,2001,29,segunda_division
+Real Sporting,Lleida,1-2,https://www.besoccer.com/match/sporting-gijon/ue-lleida/20014726,2001,29,segunda_division
+Getafe,Sevilla,0-1,https://www.besoccer.com/match/getafe/sevilla/20014727,2001,29,segunda_division
+Levante,UD Salamanca,2-0,https://www.besoccer.com/match/levante/salamanca/20014728,2001,29,segunda_division
+Córdoba,Atlético,1-1,https://www.besoccer.com/match/cordoba/atletico-madrid/20014719,2001,30,segunda_division
+Real Murcia,Real Jaén,2-2,https://www.besoccer.com/match/real-murcia/real-jaen/20014709,2001,30,segunda_division
+Eibar,Compostela,0-0,https://www.besoccer.com/match/eibar/sd-Compostela/20014710,2001,30,segunda_division
+CF Extremadura,Real Betis,1-0,https://www.besoccer.com/match/cf-extremadura/betis/20014711,2001,30,segunda_division
+Tenerife,Racing Ferrol,1-1,https://www.besoccer.com/match/tenerife/racing-club-ferrol/20014712,2001,30,segunda_division
+Universidad LPGC,CD Badajoz,1-1,https://www.besoccer.com/match/universidad-lpgc/badajoz/20014713,2001,30,segunda_division
+Albacete,Elche,2-0,https://www.besoccer.com/match/albacete/elche/20014714,2001,30,segunda_division
+Leganés,Real Sporting,0-1,https://www.besoccer.com/match/leganes/sporting-gijon/20014715,2001,30,segunda_division
+Lleida,Getafe,1-2,https://www.besoccer.com/match/ue-lleida/getafe/20014716,2001,30,segunda_division
+Sevilla,Levante,3-2,https://www.besoccer.com/match/sevilla/levante/20014717,2001,30,segunda_division
+UD Salamanca,Recreativo,0-1,https://www.besoccer.com/match/salamanca/recreativo/20014718,2001,30,segunda_division
+Racing Ferrol,CF Extremadura,1-1,https://www.besoccer.com/match/racing-club-ferrol/cf-extremadura/20014706,2001,31,segunda_division
+Getafe,Leganés,0-1,https://www.besoccer.com/match/getafe/leganes/20014705,2001,31,segunda_division
+Atlético,Universidad LPGC,2-0,https://www.besoccer.com/match/atletico-madrid/universidad-lpgc/20014707,2001,31,segunda_division
+Elche,Córdoba,1-2,https://www.besoccer.com/match/elche/cordoba/20014708,2001,31,segunda_division
+Real Betis,Eibar,1-0,https://www.besoccer.com/match/betis/eibar/20014698,2001,31,segunda_division
+CD Badajoz,Tenerife,1-2,https://www.besoccer.com/match/badajoz/tenerife/20014699,2001,31,segunda_division
+Real Sporting,Albacete,4-2,https://www.besoccer.com/match/sporting-gijon/albacete/20014700,2001,31,segunda_division
+Levante,Lleida,3-2,https://www.besoccer.com/match/levante/ue-lleida/20014701,2001,31,segunda_division
+Recreativo,Sevilla,1-1,https://www.besoccer.com/match/recreativo/sevilla/20014702,2001,31,segunda_division
+Real Jaén,UD Salamanca,2-1,https://www.besoccer.com/match/real-jaen/salamanca/20014703,2001,31,segunda_division
+Compostela,Real Murcia,2-0,https://www.besoccer.com/match/sd-Compostela/real-murcia/20014704,2001,31,segunda_division
+Lleida,Recreativo,0-0,https://www.besoccer.com/match/ue-lleida/recreativo/20014695,2001,32,segunda_division
+Sevilla,Real Jaén,0-1,https://www.besoccer.com/match/sevilla/real-jaen/20014696,2001,32,segunda_division
+Universidad LPGC,Córdoba,0-2,https://www.besoccer.com/match/universidad-lpgc/cordoba/20014697,2001,32,segunda_division
+Eibar,Racing Ferrol,1-1,https://www.besoccer.com/match/eibar/racing-club-ferrol/20014687,2001,32,segunda_division
+CF Extremadura,CD Badajoz,1-0,https://www.besoccer.com/match/cf-extremadura/badajoz/20014688,2001,32,segunda_division
+Tenerife,Atlético,1-2,https://www.besoccer.com/match/tenerife/atletico-madrid/20014689,2001,32,segunda_division
+Real Sporting,Elche,2-1,https://www.besoccer.com/match/sporting-gijon/elche/20014690,2001,32,segunda_division
+Albacete,Getafe,2-1,https://www.besoccer.com/match/albacete/getafe/20014691,2001,32,segunda_division
+Leganés,Levante,1-0,https://www.besoccer.com/match/leganes/levante/20014692,2001,32,segunda_division
+UD Salamanca,Compostela,1-2,https://www.besoccer.com/match/salamanca/sd-Compostela/20014693,2001,32,segunda_division
+Real Murcia,Real Betis,1-3,https://www.besoccer.com/match/real-murcia/betis/20014694,2001,32,segunda_division
+Córdoba,Tenerife,1-0,https://www.besoccer.com/match/cordoba/tenerife/20014686,2001,33,segunda_division
+Compostela,Sevilla,0-2,https://www.besoccer.com/match/sd-Compostela/sevilla/20014685,2001,33,segunda_division
+CD Badajoz,Eibar,1-0,https://www.besoccer.com/match/badajoz/eibar/20014676,2001,33,segunda_division
+Atlético,CF Extremadura,2-0,https://www.besoccer.com/match/atletico-madrid/cf-extremadura/20014677,2001,33,segunda_division
+Elche,Universidad LPGC,0-1,https://www.besoccer.com/match/elche/universidad-lpgc/20014678,2001,33,segunda_division
+Getafe,Real Sporting,3-1,https://www.besoccer.com/match/getafe/sporting-gijon/20014679,2001,33,segunda_division
+Levante,Albacete,0-0,https://www.besoccer.com/match/levante/albacete/20014680,2001,33,segunda_division
+Recreativo,Leganés,1-1,https://www.besoccer.com/match/recreativo/leganes/20014681,2001,33,segunda_division
+Real Jaén,Lleida,2-1,https://www.besoccer.com/match/real-jaen/ue-lleida/20014682,2001,33,segunda_division
+Real Betis,UD Salamanca,2-1,https://www.besoccer.com/match/betis/salamanca/20014683,2001,33,segunda_division
+Racing Ferrol,Real Murcia,1-1,https://www.besoccer.com/match/racing-club-ferrol/real-murcia/20014684,2001,33,segunda_division
+Tenerife,Universidad LPGC,2-0,https://www.besoccer.com/match/tenerife/universidad-lpgc/20014675,2001,34,segunda_division
+Leganés,Real Jaén,0-0,https://www.besoccer.com/match/leganes/real-jaen/20014674,2001,34,segunda_division
+Real Murcia,CD Badajoz,0-0,https://www.besoccer.com/match/real-murcia/badajoz/20014665,2001,34,segunda_division
+Eibar,Atlético,2-1,https://www.besoccer.com/match/eibar/atletico-madrid/20014666,2001,34,segunda_division
+CF Extremadura,Córdoba,1-0,https://www.besoccer.com/match/cf-extremadura/cordoba/20014667,2001,34,segunda_division
+Getafe,Elche,1-1,https://www.besoccer.com/match/getafe/elche/20014668,2001,34,segunda_division
+Real Sporting,Levante,1-2,https://www.besoccer.com/match/sporting-gijon/levante/20014669,2001,34,segunda_division
+Albacete,Recreativo,0-2,https://www.besoccer.com/match/albacete/recreativo/20014670,2001,34,segunda_division
+Lleida,Compostela,1-2,https://www.besoccer.com/match/ue-lleida/sd-Compostela/20014671,2001,34,segunda_division
+Sevilla,Real Betis,1-1,https://www.besoccer.com/match/sevilla/betis/20014672,2001,34,segunda_division
+UD Salamanca,Racing Ferrol,1-1,https://www.besoccer.com/match/salamanca/racing-club-ferrol/20014673,2001,34,segunda_division
+Real Betis,Lleida,4-1,https://www.besoccer.com/match/betis/ue-lleida/20014662,2001,35,segunda_division
+Compostela,Leganés,1-1,https://www.besoccer.com/match/sd-Compostela/leganes/20014661,2001,35,segunda_division
+CD Badajoz,UD Salamanca,0-1,https://www.besoccer.com/match/badajoz/salamanca/20014663,2001,35,segunda_division
+Atlético,Real Murcia,0-3,https://www.besoccer.com/match/atletico-madrid/real-murcia/20014664,2001,35,segunda_division
+Elche,Tenerife,0-2,https://www.besoccer.com/match/elche/tenerife/20014654,2001,35,segunda_division
+Levante,Getafe,3-3,https://www.besoccer.com/match/levante/getafe/20014655,2001,35,segunda_division
+Recreativo,Real Sporting,1-1,https://www.besoccer.com/match/recreativo/sporting-gijon/20014656,2001,35,segunda_division
+Real Jaén,Albacete,3-0,https://www.besoccer.com/match/real-jaen/albacete/20014657,2001,35,segunda_division
+Racing Ferrol,Sevilla,1-1,https://www.besoccer.com/match/racing-club-ferrol/sevilla/20014658,2001,35,segunda_division
+Córdoba,Eibar,2-0,https://www.besoccer.com/match/cordoba/eibar/20014659,2001,35,segunda_division
+Universidad LPGC,CF Extremadura,1-0,https://www.besoccer.com/match/universidad-lpgc/cf-extremadura/20014660,2001,35,segunda_division
+Getafe,Recreativo,0-1,https://www.besoccer.com/match/getafe/recreativo/20014651,2001,36,segunda_division
+Levante,Elche,3-3,https://www.besoccer.com/match/levante/elche/20014650,2001,36,segunda_division
+Lleida,Racing Ferrol,0-1,https://www.besoccer.com/match/ue-lleida/racing-club-ferrol/20014652,2001,36,segunda_division
+Eibar,Universidad LPGC,3-0,https://www.besoccer.com/match/eibar/universidad-lpgc/20014653,2001,36,segunda_division
+Real Sporting,Real Jaén,1-0,https://www.besoccer.com/match/sporting-gijon/real-jaen/20014643,2001,36,segunda_division
+Albacete,Compostela,2-0,https://www.besoccer.com/match/albacete/sd-Compostela/20014644,2001,36,segunda_division
+Leganés,Real Betis,1-1,https://www.besoccer.com/match/leganes/betis/20014645,2001,36,segunda_division
+Sevilla,CD Badajoz,5-2,https://www.besoccer.com/match/sevilla/badajoz/20014646,2001,36,segunda_division
+UD Salamanca,Atlético,1-3,https://www.besoccer.com/match/salamanca/atletico-madrid/20014647,2001,36,segunda_division
+Real Murcia,Córdoba,0-0,https://www.besoccer.com/match/real-murcia/cordoba/20014648,2001,36,segunda_division
+CF Extremadura,Tenerife,1-0,https://www.besoccer.com/match/cf-extremadura/tenerife/20014649,2001,36,segunda_division
+Atlético,Sevilla,2-0,https://www.besoccer.com/match/atletico-madrid/sevilla/20014642,2001,37,segunda_division
+Universidad LPGC,Real Murcia,2-1,https://www.besoccer.com/match/universidad-lpgc/real-murcia/20014632,2001,37,segunda_division
+Tenerife,Eibar,0-0,https://www.besoccer.com/match/tenerife/eibar/20014633,2001,37,segunda_division
+Elche,CF Extremadura,3-1,https://www.besoccer.com/match/elche/cf-extremadura/20014634,2001,37,segunda_division
+Recreativo,Levante,1-1,https://www.besoccer.com/match/recreativo/levante/20014635,2001,37,segunda_division
+Real Jaén,Getafe,3-1,https://www.besoccer.com/match/real-jaen/getafe/20014636,2001,37,segunda_division
+Compostela,Real Sporting,1-2,https://www.besoccer.com/match/sd-Compostela/sporting-gijon/20014637,2001,37,segunda_division
+Real Betis,Albacete,1-2,https://www.besoccer.com/match/betis/albacete/20014638,2001,37,segunda_division
+Racing Ferrol,Leganés,1-0,https://www.besoccer.com/match/racing-club-ferrol/leganes/20014639,2001,37,segunda_division
+CD Badajoz,Lleida,1-0,https://www.besoccer.com/match/badajoz/ue-lleida/20014640,2001,37,segunda_division
+Córdoba,UD Salamanca,1-1,https://www.besoccer.com/match/cordoba/salamanca/20014641,2001,37,segunda_division
+Getafe,Compostela,0-3,https://www.besoccer.com/match/getafe/sd-Compostela/20014629,2001,38,segunda_division
+Real Sporting,Real Betis,1-2,https://www.besoccer.com/match/sporting-gijon/betis/20014630,2001,38,segunda_division
+Real Murcia,Tenerife,0-1,https://www.besoccer.com/match/real-murcia/tenerife/20014631,2001,38,segunda_division
+Eibar,CF Extremadura,0-0,https://www.besoccer.com/match/eibar/cf-extremadura/20014621,2001,38,segunda_division
+Recreativo,Elche,0-0,https://www.besoccer.com/match/recreativo/elche/20014622,2001,38,segunda_division
+Levante,Real Jaén,2-2,https://www.besoccer.com/match/levante/real-jaen/20014623,2001,38,segunda_division
+Albacete,Racing Ferrol,1-0,https://www.besoccer.com/match/albacete/racing-club-ferrol/20014624,2001,38,segunda_division
+Leganés,CD Badajoz,0-0,https://www.besoccer.com/match/leganes/badajoz/20014625,2001,38,segunda_division
+Lleida,Atlético,1-1,https://www.besoccer.com/match/ue-lleida/atletico-madrid/20014626,2001,38,segunda_division
+Sevilla,Córdoba,2-0,https://www.besoccer.com/match/sevilla/cordoba/20014627,2001,38,segunda_division
+UD Salamanca,Universidad LPGC,4-0,https://www.besoccer.com/match/salamanca/universidad-lpgc/20014628,2001,38,segunda_division
+Universidad LPGC,Sevilla,1-3,https://www.besoccer.com/match/universidad-lpgc/sevilla/20014618,2001,39,segunda_division
+Racing Ferrol,Real Sporting,2-3,https://www.besoccer.com/match/racing-club-ferrol/sporting-gijon/20014617,2001,39,segunda_division
+Elche,Eibar,2-0,https://www.besoccer.com/match/elche/eibar/20014619,2001,39,segunda_division
+Real Jaén,Recreativo,3-1,https://www.besoccer.com/match/real-jaen/recreativo/20014620,2001,39,segunda_division
+Compostela,Levante,1-1,https://www.besoccer.com/match/sd-Compostela/levante/20014610,2001,39,segunda_division
+Real Betis,Getafe,1-0,https://www.besoccer.com/match/betis/getafe/20014611,2001,39,segunda_division
+CD Badajoz,Albacete,0-0,https://www.besoccer.com/match/badajoz/albacete/20014612,2001,39,segunda_division
+Atlético,Leganés,1-0,https://www.besoccer.com/match/atletico-madrid/leganes/20014613,2001,39,segunda_division
+Córdoba,Lleida,3-0,https://www.besoccer.com/match/cordoba/ue-lleida/20014614,2001,39,segunda_division
+Tenerife,UD Salamanca,1-1,https://www.besoccer.com/match/tenerife/salamanca/20014615,2001,39,segunda_division
+CF Extremadura,Real Murcia,2-0,https://www.besoccer.com/match/cf-extremadura/real-murcia/20014616,2001,39,segunda_division
+Levante,Real Betis,3-2,https://www.besoccer.com/match/levante/betis/20014609,2001,40,segunda_division
+UD Salamanca,CF Extremadura,1-2,https://www.besoccer.com/match/salamanca/cf-extremadura/20014599,2001,40,segunda_division
+Real Murcia,Eibar,1-0,https://www.besoccer.com/match/real-murcia/eibar/20014600,2001,40,segunda_division
+Real Jaén,Elche,3-1,https://www.besoccer.com/match/real-jaen/elche/20014601,2001,40,segunda_division
+Recreativo,Compostela,2-0,https://www.besoccer.com/match/recreativo/sd-Compostela/20014602,2001,40,segunda_division
+Getafe,Racing Ferrol,1-2,https://www.besoccer.com/match/getafe/racing-club-ferrol/20014603,2001,40,segunda_division
+Real Sporting,CD Badajoz,1-0,https://www.besoccer.com/match/sporting-gijon/badajoz/20014604,2001,40,segunda_division
+Albacete,Atlético,0-1,https://www.besoccer.com/match/albacete/atletico-madrid/20014605,2001,40,segunda_division
+Leganés,Córdoba,4-0,https://www.besoccer.com/match/leganes/cordoba/20014606,2001,40,segunda_division
+Lleida,Universidad LPGC,4-2,https://www.besoccer.com/match/ue-lleida/universidad-lpgc/20014607,2001,40,segunda_division
+Sevilla,Tenerife,1-0,https://www.besoccer.com/match/sevilla/tenerife/20014608,2001,40,segunda_division
+CF Extremadura,Sevilla,1-1,https://www.besoccer.com/match/cf-extremadura/sevilla/20014598,2001,41,segunda_division
+Eibar,UD Salamanca,1-3,https://www.besoccer.com/match/eibar/salamanca/20014588,2001,41,segunda_division
+Real Murcia,Elche,0-1,https://www.besoccer.com/match/real-murcia/elche/20014589,2001,41,segunda_division
+Compostela,Real Jaén,0-0,https://www.besoccer.com/match/sd-Compostela/real-jaen/20014590,2001,41,segunda_division
+Real Betis,Recreativo,1-0,https://www.besoccer.com/match/betis/recreativo/20014591,2001,41,segunda_division
+Racing Ferrol,Levante,1-1,https://www.besoccer.com/match/racing-club-ferrol/levante/20014592,2001,41,segunda_division
+CD Badajoz,Getafe,2-2,https://www.besoccer.com/match/badajoz/getafe/20014593,2001,41,segunda_division
+Atlético,Real Sporting,1-0,https://www.besoccer.com/match/atletico-madrid/sporting-gijon/20014594,2001,41,segunda_division
+Córdoba,Albacete,1-4,https://www.besoccer.com/match/cordoba/albacete/20014595,2001,41,segunda_division
+Universidad LPGC,Leganés,2-1,https://www.besoccer.com/match/universidad-lpgc/leganes/20014596,2001,41,segunda_division
+Tenerife,Lleida,3-2,https://www.besoccer.com/match/tenerife/ue-lleida/20014597,2001,41,segunda_division
+UD Salamanca,Real Murcia,1-2,https://www.besoccer.com/match/salamanca/real-murcia/20014585,2001,42,segunda_division
+Sevilla,Eibar,2-1,https://www.besoccer.com/match/sevilla/eibar/20014584,2001,42,segunda_division
+Recreativo,Racing Ferrol,1-2,https://www.besoccer.com/match/recreativo/racing-club-ferrol/20014586,2001,42,segunda_division
+Lleida,CF Extremadura,2-2,https://www.besoccer.com/match/ue-lleida/cf-extremadura/20014587,2001,42,segunda_division
+Elche,Compostela,2-2,https://www.besoccer.com/match/elche/sd-Compostela/20014577,2001,42,segunda_division
+Real Jaén,Real Betis,0-2,https://www.besoccer.com/match/real-jaen/betis/20014578,2001,42,segunda_division
+Levante,CD Badajoz,2-1,https://www.besoccer.com/match/levante/badajoz/20014579,2001,42,segunda_division
+Getafe,Atlético,0-1,https://www.besoccer.com/match/getafe/atletico-madrid/20014580,2001,42,segunda_division
+Real Sporting,Córdoba,2-2,https://www.besoccer.com/match/sporting-gijon/cordoba/20014581,2001,42,segunda_division
+Albacete,Universidad LPGC,2-3,https://www.besoccer.com/match/albacete/universidad-lpgc/20014582,2001,42,segunda_division
+Leganés,Tenerife,0-1,https://www.besoccer.com/match/leganes/tenerife/20014583,2001,42,segunda_division

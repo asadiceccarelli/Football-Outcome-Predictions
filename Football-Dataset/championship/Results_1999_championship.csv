@@ -1,0 +1,553 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Wolves,Tranmere Rovers,2-0,https://www.besoccer.com/match/wolverhampton/tranmere-rovers/199949029,1999,1,championship
+Sunderland,Queens Park Rangers,1-0,https://www.besoccer.com/match/sunderland-afc/queens-park-rangers-fc/199949030,1999,1,championship
+Sheffield United,Swindon Town,2-1,https://www.besoccer.com/match/sheffield-united/swindon-town/199949031,1999,1,championship
+Portsmouth,Watford,1-2,https://www.besoccer.com/match/portsmouth/watford-fc/199949032,1999,1,championship
+Port Vale,Birmingham City,0-2,https://www.besoccer.com/match/port-vale/birmingham-city-fc/199949033,1999,1,championship
+Norwich City,Crewe Alexandra,2-1,https://www.besoccer.com/match/norwich-city-fc/crewe-alexandra/199949034,1999,1,championship
+Crystal Palace,Bolton Wanderers,2-2,https://www.besoccer.com/match/crystal-palace-fc/bolton-wanderers-fc/199949035,1999,1,championship
+Bury,Huddersfield Town,1-0,https://www.besoccer.com/match/bury/huddersfield-town-fc/199949036,1999,1,championship
+Bristol City,Oxford City,2-2,https://www.besoccer.com/match/bristol-city-fc/oxford-city/199949037,1999,1,championship
+Bradford City,Stockport County,1-2,https://www.besoccer.com/match/bradford-city/stockport-county/199949038,1999,1,championship
+Barnsley,West Bromwich Albion,2-2,https://www.besoccer.com/match/barnsley-fc/west-bromwich/199949039,1999,1,championship
+Grimsby Town,Ipswich Town,0-0,https://www.besoccer.com/match/grimsby-town/ipswich-town-fc/199949040,1999,1,championship
+West Bromwich Albion,Sheffield United,4-1,https://www.besoccer.com/match/west-bromwich/sheffield-united/199949041,1999,2,championship
+Watford,Bradford City,1-0,https://www.besoccer.com/match/watford-fc/bradford-city/199949042,1999,2,championship
+Tranmere Rovers,Portsmouth,1-1,https://www.besoccer.com/match/tranmere-rovers/portsmouth/199949043,1999,2,championship
+Swindon Town,Sunderland,1-1,https://www.besoccer.com/match/swindon-town/sunderland-afc/199949044,1999,2,championship
+Stockport County,Norwich City,0-2,https://www.besoccer.com/match/stockport-county/norwich-city-fc/199949045,1999,2,championship
+Queens Park Rangers,Bristol City,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/bristol-city-fc/199949046,1999,2,championship
+Oxford City,Wolves,0-2,https://www.besoccer.com/match/oxford-city/wolverhampton/199949047,1999,2,championship
+Ipswich Town,Bury,0-0,https://www.besoccer.com/match/ipswich-town-fc/bury/199949048,1999,2,championship
+Huddersfield Town,Port Vale,2-1,https://www.besoccer.com/match/huddersfield-town-fc/port-vale/199949049,1999,2,championship
+Crewe Alexandra,Barnsley,3-1,https://www.besoccer.com/match/crewe-alexandra/barnsley-fc/199949050,1999,2,championship
+Bolton Wanderers,Grimsby Town,2-0,https://www.besoccer.com/match/bolton-wanderers-fc/grimsby-town/199949051,1999,2,championship
+Birmingham City,Crystal Palace,3-1,https://www.besoccer.com/match/birmingham-city-fc/crystal-palace-fc/199949052,1999,2,championship
+Barnsley,Stockport County,1-1,https://www.besoccer.com/match/barnsley-fc/stockport-county/199949053,1999,3,championship
+Wolves,Swindon Town,1-0,https://www.besoccer.com/match/wolverhampton/swindon-town/199949054,1999,3,championship
+Sunderland,Tranmere Rovers,5-0,https://www.besoccer.com/match/sunderland-afc/tranmere-rovers/199949055,1999,3,championship
+Sheffield United,Birmingham City,0-2,https://www.besoccer.com/match/sheffield-united/birmingham-city-fc/199949056,1999,3,championship
+Portsmouth,Ipswich Town,0-0,https://www.besoccer.com/match/portsmouth/ipswich-town-fc/199949057,1999,3,championship
+Port Vale,West Bromwich Albion,0-3,https://www.besoccer.com/match/port-vale/west-bromwich/199949058,1999,3,championship
+Norwich City,Queens Park Rangers,4-2,https://www.besoccer.com/match/norwich-city-fc/queens-park-rangers-fc/199949059,1999,3,championship
+Grimsby Town,Huddersfield Town,1-0,https://www.besoccer.com/match/grimsby-town/huddersfield-town-fc/199949060,1999,3,championship
+Crystal Palace,Oxford City,2-0,https://www.besoccer.com/match/crystal-palace-fc/oxford-city/199949061,1999,3,championship
+Bury,Crewe Alexandra,1-0,https://www.besoccer.com/match/bury/crewe-alexandra/199949062,1999,3,championship
+Bristol City,Watford,1-4,https://www.besoccer.com/match/bristol-city-fc/watford-fc/199949063,1999,3,championship
+Bradford City,Bolton Wanderers,2-2,https://www.besoccer.com/match/bradford-city/bolton-wanderers-fc/199949064,1999,3,championship
+Watford,Wolves,0-2,https://www.besoccer.com/match/watford-fc/wolverhampton/199949065,1999,4,championship
+Crewe Alexandra,Bradford City,2-1,https://www.besoccer.com/match/crewe-alexandra/bradford-city/199949066,1999,4,championship
+West Bromwich Albion,Norwich City,2-0,https://www.besoccer.com/match/west-bromwich/norwich-city-fc/199949067,1999,4,championship
+Tranmere Rovers,Bristol City,1-1,https://www.besoccer.com/match/tranmere-rovers/bristol-city-fc/199949068,1999,4,championship
+Swindon Town,Port Vale,1-1,https://www.besoccer.com/match/swindon-town/port-vale/199949069,1999,4,championship
+Stockport County,Crystal Palace,1-1,https://www.besoccer.com/match/stockport-county/crystal-palace-fc/199949070,1999,4,championship
+Queens Park Rangers,Bury,0-0,https://www.besoccer.com/match/queens-park-rangers-fc/bury/199949071,1999,4,championship
+Oxford City,Grimsby Town,0-0,https://www.besoccer.com/match/oxford-city/grimsby-town/199949072,1999,4,championship
+Ipswich Town,Sunderland,0-2,https://www.besoccer.com/match/ipswich-town-fc/sunderland-afc/199949073,1999,4,championship
+Huddersfield Town,Portsmouth,3-3,https://www.besoccer.com/match/huddersfield-town-fc/portsmouth/199949074,1999,4,championship
+Bolton Wanderers,Sheffield United,2-2,https://www.besoccer.com/match/bolton-wanderers-fc/sheffield-united/199949075,1999,4,championship
+Birmingham City,Barnsley,0-0,https://www.besoccer.com/match/birmingham-city-fc/barnsley-fc/199949076,1999,4,championship
+Sunderland,Watford,4-1,https://www.besoccer.com/match/sunderland-afc/watford-fc/199949077,1999,5,championship
+Wolves,Stockport County,2-2,https://www.besoccer.com/match/wolverhampton/stockport-county/199949078,1999,5,championship
+Sheffield United,Crewe Alexandra,3-1,https://www.besoccer.com/match/sheffield-united/crewe-alexandra/199949079,1999,5,championship
+Portsmouth,Queens Park Rangers,3-0,https://www.besoccer.com/match/portsmouth/queens-park-rangers-fc/199949080,1999,5,championship
+Port Vale,Ipswich Town,0-3,https://www.besoccer.com/match/port-vale/ipswich-town-fc/199949081,1999,5,championship
+Grimsby Town,West Bromwich Albion,5-1,https://www.besoccer.com/match/grimsby-town/west-bromwich/199949082,1999,5,championship
+Bury,Swindon Town,3-0,https://www.besoccer.com/match/bury/swindon-town/199949083,1999,5,championship
+Bristol City,Huddersfield Town,1-2,https://www.besoccer.com/match/bristol-city-fc/huddersfield-town-fc/199949084,1999,5,championship
+Bradford City,Birmingham City,2-1,https://www.besoccer.com/match/bradford-city/birmingham-city-fc/199949085,1999,5,championship
+Barnsley,Oxford City,1-0,https://www.besoccer.com/match/barnsley-fc/oxford-city/199949086,1999,5,championship
+Crystal Palace,Tranmere Rovers,1-1,https://www.besoccer.com/match/crystal-palace-fc/tranmere-rovers/199949087,1999,5,championship
+Norwich City,Bolton Wanderers,2-2,https://www.besoccer.com/match/norwich-city-fc/bolton-wanderers-fc/199949088,1999,5,championship
+Swindon Town,Bristol City,3-2,https://www.besoccer.com/match/swindon-town/bristol-city-fc/199949089,1999,6,championship
+Stockport County,Grimsby Town,2-0,https://www.besoccer.com/match/stockport-county/grimsby-town/199949090,1999,6,championship
+Huddersfield Town,Sheffield United,1-0,https://www.besoccer.com/match/huddersfield-town-fc/sheffield-united/199949091,1999,6,championship
+Birmingham City,Bury,1-0,https://www.besoccer.com/match/birmingham-city-fc/bury/199949092,1999,6,championship
+Oxford City,Portsmouth,3-0,https://www.besoccer.com/match/oxford-city/portsmouth/199949093,1999,6,championship
+West Bromwich Albion,Crystal Palace,3-2,https://www.besoccer.com/match/west-bromwich/crystal-palace-fc/199949094,1999,6,championship
+Watford,Norwich City,1-1,https://www.besoccer.com/match/watford-fc/norwich-city-fc/199949095,1999,6,championship
+Ipswich Town,Wolves,2-0,https://www.besoccer.com/match/ipswich-town-fc/wolverhampton/199949096,1999,6,championship
+Crewe Alexandra,Sunderland,1-4,https://www.besoccer.com/match/crewe-alexandra/sunderland-afc/199949097,1999,6,championship
+Queens Park Rangers,Barnsley,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/barnsley-fc/199949098,1999,6,championship
+Bolton Wanderers,Port Vale,3-1,https://www.besoccer.com/match/bolton-wanderers-fc/port-vale/199949099,1999,6,championship
+Tranmere Rovers,Bradford City,0-1,https://www.besoccer.com/match/tranmere-rovers/bradford-city/199949100,1999,6,championship
+West Bromwich Albion,Bolton Wanderers,2-3,https://www.besoccer.com/match/west-bromwich/bolton-wanderers-fc/199949101,1999,7,championship
+Sunderland,Bristol City,1-1,https://www.besoccer.com/match/sunderland-afc/bristol-city-fc/199949102,1999,7,championship
+Sheffield United,Grimsby Town,3-2,https://www.besoccer.com/match/sheffield-united/grimsby-town/199949103,1999,7,championship
+Queens Park Rangers,Tranmere Rovers,0-0,https://www.besoccer.com/match/queens-park-rangers-fc/tranmere-rovers/199949104,1999,7,championship
+Port Vale,Wolves,2-1,https://www.besoccer.com/match/port-vale/wolverhampton/199949105,1999,7,championship
+Ipswich Town,Bradford City,3-0,https://www.besoccer.com/match/ipswich-town-fc/bradford-city/199949106,1999,7,championship
+Huddersfield Town,Watford,2-0,https://www.besoccer.com/match/huddersfield-town-fc/watford-fc/199949107,1999,7,championship
+Crewe Alexandra,Crystal Palace,0-1,https://www.besoccer.com/match/crewe-alexandra/crystal-palace-fc/199949108,1999,7,championship
+Bury,Portsmouth,2-1,https://www.besoccer.com/match/bury/portsmouth/199949109,1999,7,championship
+Birmingham City,Stockport County,2-0,https://www.besoccer.com/match/birmingham-city-fc/stockport-county/199949110,1999,7,championship
+Barnsley,Norwich City,1-3,https://www.besoccer.com/match/barnsley-fc/norwich-city-fc/199949111,1999,7,championship
+Swindon Town,Oxford City,4-1,https://www.besoccer.com/match/swindon-town/oxford-city/199949112,1999,7,championship
+Tranmere Rovers,Huddersfield Town,2-3,https://www.besoccer.com/match/tranmere-rovers/huddersfield-town-fc/199949113,1999,8,championship
+Wolves,Sunderland,1-1,https://www.besoccer.com/match/wolverhampton/sunderland-afc/199949114,1999,8,championship
+Watford,Queens Park Rangers,2-1,https://www.besoccer.com/match/watford-fc/queens-park-rangers-fc/199949115,1999,8,championship
+Stockport County,Crewe Alexandra,1-1,https://www.besoccer.com/match/stockport-county/crewe-alexandra/199949116,1999,8,championship
+Portsmouth,Swindon Town,5-2,https://www.besoccer.com/match/portsmouth/swindon-town/199949117,1999,8,championship
+Oxford City,Ipswich Town,3-3,https://www.besoccer.com/match/oxford-city/ipswich-town-fc/199949118,1999,8,championship
+Grimsby Town,Barnsley,1-2,https://www.besoccer.com/match/grimsby-town/barnsley-fc/199949119,1999,8,championship
+Crystal Palace,Port Vale,0-1,https://www.besoccer.com/match/crystal-palace-fc/port-vale/199949120,1999,8,championship
+Bradford City,Sheffield United,2-2,https://www.besoccer.com/match/bradford-city/sheffield-united/199949121,1999,8,championship
+Bolton Wanderers,Birmingham City,3-1,https://www.besoccer.com/match/bolton-wanderers-fc/birmingham-city-fc/199949122,1999,8,championship
+Norwich City,Bury,0-0,https://www.besoccer.com/match/norwich-city-fc/bury/199949123,1999,8,championship
+Bristol City,West Bromwich Albion,1-3,https://www.besoccer.com/match/bristol-city-fc/west-bromwich/199949124,1999,8,championship
+Swindon Town,Watford,1-4,https://www.besoccer.com/match/swindon-town/watford-fc/199949125,1999,9,championship
+Sunderland,Oxford City,7-0,https://www.besoccer.com/match/sunderland-afc/oxford-city/199949126,1999,9,championship
+Sheffield United,Norwich City,2-1,https://www.besoccer.com/match/sheffield-united/norwich-city-fc/199949127,1999,9,championship
+Queens Park Rangers,Stockport County,2-0,https://www.besoccer.com/match/queens-park-rangers-fc/stockport-county/199949128,1999,9,championship
+Port Vale,Portsmouth,0-2,https://www.besoccer.com/match/port-vale/portsmouth/199949129,1999,9,championship
+Ipswich Town,Bristol City,3-1,https://www.besoccer.com/match/ipswich-town-fc/bristol-city-fc/199949130,1999,9,championship
+Huddersfield Town,Wolves,2-1,https://www.besoccer.com/match/huddersfield-town-fc/wolverhampton/199949131,1999,9,championship
+Crewe Alexandra,Bolton Wanderers,4-4,https://www.besoccer.com/match/crewe-alexandra/bolton-wanderers-fc/199949132,1999,9,championship
+Bury,Tranmere Rovers,0-0,https://www.besoccer.com/match/bury/tranmere-rovers/199949133,1999,9,championship
+Birmingham City,Grimsby Town,0-1,https://www.besoccer.com/match/birmingham-city-fc/grimsby-town/199949134,1999,9,championship
+Barnsley,Crystal Palace,4-0,https://www.besoccer.com/match/barnsley-fc/crystal-palace-fc/199949135,1999,9,championship
+West Bromwich Albion,Bradford City,0-2,https://www.besoccer.com/match/west-bromwich/bradford-city/199949136,1999,9,championship
+Tranmere Rovers,Swindon Town,0-0,https://www.besoccer.com/match/tranmere-rovers/swindon-town/199949137,1999,10,championship
+Wolves,Bury,1-0,https://www.besoccer.com/match/wolverhampton/bury/199949138,1999,10,championship
+Watford,Ipswich Town,1-0,https://www.besoccer.com/match/watford-fc/ipswich-town-fc/199949139,1999,10,championship
+Stockport County,West Bromwich Albion,2-2,https://www.besoccer.com/match/stockport-county/west-bromwich/199949140,1999,10,championship
+Portsmouth,Sunderland,1-1,https://www.besoccer.com/match/portsmouth/sunderland-afc/199949141,1999,10,championship
+Oxford City,Queens Park Rangers,4-1,https://www.besoccer.com/match/oxford-city/queens-park-rangers-fc/199949142,1999,10,championship
+Norwich City,Birmingham City,2-0,https://www.besoccer.com/match/norwich-city-fc/birmingham-city-fc/199949143,1999,10,championship
+Grimsby Town,Port Vale,2-2,https://www.besoccer.com/match/grimsby-town/port-vale/199949144,1999,10,championship
+Bristol City,Crewe Alexandra,5-2,https://www.besoccer.com/match/bristol-city-fc/crewe-alexandra/199949145,1999,10,championship
+Bradford City,Barnsley,2-1,https://www.besoccer.com/match/bradford-city/barnsley-fc/199949146,1999,10,championship
+Bolton Wanderers,Huddersfield Town,3-0,https://www.besoccer.com/match/bolton-wanderers-fc/huddersfield-town-fc/199949147,1999,10,championship
+Crystal Palace,Sheffield United,1-0,https://www.besoccer.com/match/crystal-palace-fc/sheffield-united/199949148,1999,10,championship
+Wolves,Queens Park Rangers,1-2,https://www.besoccer.com/match/wolverhampton/queens-park-rangers-fc/199949149,1999,11,championship
+Watford,Sheffield United,1-1,https://www.besoccer.com/match/watford-fc/sheffield-united/199949150,1999,11,championship
+Tranmere Rovers,Ipswich Town,0-2,https://www.besoccer.com/match/tranmere-rovers/ipswich-town-fc/199949151,1999,11,championship
+Stockport County,Huddersfield Town,1-1,https://www.besoccer.com/match/stockport-county/huddersfield-town-fc/199949152,1999,11,championship
+Portsmouth,Birmingham City,0-1,https://www.besoccer.com/match/portsmouth/birmingham-city-fc/199949153,1999,11,championship
+Oxford City,West Bromwich Albion,3-0,https://www.besoccer.com/match/oxford-city/west-bromwich/199949154,1999,11,championship
+Norwich City,Sunderland,2-2,https://www.besoccer.com/match/norwich-city-fc/sunderland-afc/199949155,1999,11,championship
+Grimsby Town,Crewe Alexandra,1-1,https://www.besoccer.com/match/grimsby-town/crewe-alexandra/199949156,1999,11,championship
+Bristol City,Barnsley,1-1,https://www.besoccer.com/match/bristol-city-fc/barnsley-fc/199949157,1999,11,championship
+Bradford City,Port Vale,4-0,https://www.besoccer.com/match/bradford-city/port-vale/199949158,1999,11,championship
+Bolton Wanderers,Swindon Town,2-1,https://www.besoccer.com/match/bolton-wanderers-fc/swindon-town/199949159,1999,11,championship
+Crystal Palace,Bury,4-2,https://www.besoccer.com/match/crystal-palace-fc/bury/199949160,1999,11,championship
+Swindon Town,Stockport County,2-3,https://www.besoccer.com/match/swindon-town/stockport-county/199949161,1999,12,championship
+Sunderland,Bradford City,0-0,https://www.besoccer.com/match/sunderland-afc/bradford-city/199949162,1999,12,championship
+Sheffield United,Portsmouth,2-1,https://www.besoccer.com/match/sheffield-united/portsmouth/199949163,1999,12,championship
+Queens Park Rangers,Grimsby Town,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/grimsby-town/199949164,1999,12,championship
+Port Vale,Norwich City,1-0,https://www.besoccer.com/match/port-vale/norwich-city-fc/199949165,1999,12,championship
+Ipswich Town,Crystal Palace,3-0,https://www.besoccer.com/match/ipswich-town-fc/crystal-palace-fc/199949166,1999,12,championship
+Huddersfield Town,Oxford City,2-0,https://www.besoccer.com/match/huddersfield-town-fc/oxford-city/199949167,1999,12,championship
+Crewe Alexandra,Wolves,0-0,https://www.besoccer.com/match/crewe-alexandra/wolverhampton/199949168,1999,12,championship
+Bury,Bristol City,0-1,https://www.besoccer.com/match/bury/bristol-city-fc/199949169,1999,12,championship
+Birmingham City,Tranmere Rovers,2-2,https://www.besoccer.com/match/birmingham-city-fc/tranmere-rovers/199949170,1999,12,championship
+Barnsley,Bolton Wanderers,2-2,https://www.besoccer.com/match/barnsley-fc/bolton-wanderers-fc/199949171,1999,12,championship
+West Bromwich Albion,Watford,4-1,https://www.besoccer.com/match/west-bromwich/watford-fc/199949172,1999,12,championship
+Swindon Town,Huddersfield Town,3-0,https://www.besoccer.com/match/swindon-town/huddersfield-town-fc/199949173,1999,13,championship
+Bradford City,Bury,3-0,https://www.besoccer.com/match/bradford-city/bury/199949174,1999,13,championship
+Watford,Birmingham City,1-1,https://www.besoccer.com/match/watford-fc/birmingham-city-fc/199949175,1999,13,championship
+Oxford City,Tranmere Rovers,1-2,https://www.besoccer.com/match/oxford-city/tranmere-rovers/199949176,1999,13,championship
+Bristol City,Portsmouth,2-2,https://www.besoccer.com/match/bristol-city-fc/portsmouth/199949177,1999,13,championship
+Barnsley,Port Vale,0-2,https://www.besoccer.com/match/barnsley-fc/port-vale/199949178,1999,13,championship
+Wolves,Sheffield United,2-1,https://www.besoccer.com/match/wolverhampton/sheffield-united/199949179,1999,13,championship
+Stockport County,Bolton Wanderers,0-1,https://www.besoccer.com/match/stockport-county/bolton-wanderers-fc/199949180,1999,13,championship
+Queens Park Rangers,Ipswich Town,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/ipswich-town-fc/199949181,1999,13,championship
+Norwich City,Grimsby Town,3-1,https://www.besoccer.com/match/norwich-city-fc/grimsby-town/199949182,1999,13,championship
+Crewe Alexandra,West Bromwich Albion,1-1,https://www.besoccer.com/match/crewe-alexandra/west-bromwich/199949183,1999,13,championship
+Sunderland,Crystal Palace,2-0,https://www.besoccer.com/match/sunderland-afc/crystal-palace-fc/199949184,1999,13,championship
+Tranmere Rovers,Watford,3-2,https://www.besoccer.com/match/tranmere-rovers/watford-fc/199949185,1999,14,championship
+Sheffield United,Barnsley,1-1,https://www.besoccer.com/match/sheffield-united/barnsley-fc/199949186,1999,14,championship
+Portsmouth,Wolves,1-0,https://www.besoccer.com/match/portsmouth/wolverhampton/199949187,1999,14,championship
+Port Vale,Bristol City,3-2,https://www.besoccer.com/match/port-vale/bristol-city-fc/199949188,1999,14,championship
+Ipswich Town,Swindon Town,1-0,https://www.besoccer.com/match/ipswich-town-fc/swindon-town/199949189,1999,14,championship
+Huddersfield Town,Queens Park Rangers,2-0,https://www.besoccer.com/match/huddersfield-town-fc/queens-park-rangers-fc/199949190,1999,14,championship
+Grimsby Town,Bradford City,2-0,https://www.besoccer.com/match/grimsby-town/bradford-city/199949191,1999,14,championship
+Crystal Palace,Norwich City,5-1,https://www.besoccer.com/match/crystal-palace-fc/norwich-city-fc/199949192,1999,14,championship
+Bury,Stockport County,1-1,https://www.besoccer.com/match/bury/stockport-county/199949193,1999,14,championship
+Bolton Wanderers,Oxford City,1-1,https://www.besoccer.com/match/bolton-wanderers-fc/oxford-city/199949194,1999,14,championship
+Birmingham City,Crewe Alexandra,3-1,https://www.besoccer.com/match/birmingham-city-fc/crewe-alexandra/199949195,1999,14,championship
+West Bromwich Albion,Sunderland,2-3,https://www.besoccer.com/match/west-bromwich/sunderland-afc/199949196,1999,14,championship
+Tranmere Rovers,Barnsley,3-0,https://www.besoccer.com/match/tranmere-rovers/barnsley-fc/199949197,1999,15,championship
+Sheffield United,Stockport County,1-1,https://www.besoccer.com/match/sheffield-united/stockport-county/199949198,1999,15,championship
+Portsmouth,Bradford City,2-4,https://www.besoccer.com/match/portsmouth/bradford-city/199949199,1999,15,championship
+Port Vale,Crewe Alexandra,1-0,https://www.besoccer.com/match/port-vale/crewe-alexandra/199949200,1999,15,championship
+Ipswich Town,Norwich City,0-1,https://www.besoccer.com/match/ipswich-town-fc/norwich-city-fc/199949201,1999,15,championship
+Grimsby Town,Bristol City,2-1,https://www.besoccer.com/match/grimsby-town/bristol-city-fc/199949202,1999,15,championship
+Crystal Palace,Wolves,3-2,https://www.besoccer.com/match/crystal-palace-fc/wolverhampton/199949203,1999,15,championship
+Bury,Oxford City,1-0,https://www.besoccer.com/match/bury/oxford-city/199949204,1999,15,championship
+Bolton Wanderers,Watford,1-2,https://www.besoccer.com/match/bolton-wanderers-fc/watford-fc/199949205,1999,15,championship
+Birmingham City,Swindon Town,1-1,https://www.besoccer.com/match/birmingham-city-fc/swindon-town/199949206,1999,15,championship
+West Bromwich Albion,Queens Park Rangers,2-0,https://www.besoccer.com/match/west-bromwich/queens-park-rangers-fc/199949207,1999,15,championship
+Huddersfield Town,Sunderland,1-1,https://www.besoccer.com/match/huddersfield-town-fc/sunderland-afc/199949208,1999,15,championship
+Bristol City,Bolton Wanderers,2-1,https://www.besoccer.com/match/bristol-city-fc/bolton-wanderers-fc/199949209,1999,16,championship
+Wolves,Grimsby Town,2-0,https://www.besoccer.com/match/wolverhampton/grimsby-town/199949210,1999,16,championship
+Watford,Port Vale,2-2,https://www.besoccer.com/match/watford-fc/port-vale/199949211,1999,16,championship
+Swindon Town,West Bromwich Albion,2-2,https://www.besoccer.com/match/swindon-town/west-bromwich/199949212,1999,16,championship
+Sunderland,Bury,1-0,https://www.besoccer.com/match/sunderland-afc/bury/199949213,1999,16,championship
+Stockport County,Ipswich Town,0-1,https://www.besoccer.com/match/stockport-county/ipswich-town-fc/199949214,1999,16,championship
+Oxford City,Sheffield United,0-2,https://www.besoccer.com/match/oxford-city/sheffield-united/199949215,1999,16,championship
+Norwich City,Huddersfield Town,4-1,https://www.besoccer.com/match/norwich-city-fc/huddersfield-town-fc/199949216,1999,16,championship
+Crewe Alexandra,Tranmere Rovers,1-4,https://www.besoccer.com/match/crewe-alexandra/tranmere-rovers/199949217,1999,16,championship
+Barnsley,Portsmouth,2-1,https://www.besoccer.com/match/barnsley-fc/portsmouth/199949218,1999,16,championship
+Queens Park Rangers,Birmingham City,0-1,https://www.besoccer.com/match/queens-park-rangers-fc/birmingham-city-fc/199949219,1999,16,championship
+Bradford City,Crystal Palace,2-1,https://www.besoccer.com/match/bradford-city/crystal-palace-fc/199949220,1999,16,championship
+Wolves,Barnsley,1-1,https://www.besoccer.com/match/wolverhampton/barnsley-fc/199949221,1999,17,championship
+Tranmere Rovers,Stockport County,1-1,https://www.besoccer.com/match/tranmere-rovers/stockport-county/199949222,1999,17,championship
+Swindon Town,Queens Park Rangers,3-1,https://www.besoccer.com/match/swindon-town/queens-park-rangers-fc/199949223,1999,17,championship
+Port Vale,Sheffield United,2-3,https://www.besoccer.com/match/port-vale/sheffield-united/199949224,1999,17,championship
+Oxford City,Crewe Alexandra,1-1,https://www.besoccer.com/match/oxford-city/crewe-alexandra/199949225,1999,17,championship
+Ipswich Town,West Bromwich Albion,2-0,https://www.besoccer.com/match/ipswich-town-fc/west-bromwich/199949226,1999,17,championship
+Grimsby Town,Crystal Palace,2-0,https://www.besoccer.com/match/grimsby-town/crystal-palace-fc/199949227,1999,17,championship
+Bury,Watford,1-3,https://www.besoccer.com/match/bury/watford-fc/199949228,1999,17,championship
+Bradford City,Bristol City,5-0,https://www.besoccer.com/match/bradford-city/bristol-city-fc/199949229,1999,17,championship
+Birmingham City,Huddersfield Town,1-1,https://www.besoccer.com/match/birmingham-city-fc/huddersfield-town-fc/199949230,1999,17,championship
+Bolton Wanderers,Sunderland,0-3,https://www.besoccer.com/match/bolton-wanderers-fc/sunderland-afc/199949231,1999,17,championship
+Portsmouth,Norwich City,1-2,https://www.besoccer.com/match/portsmouth/norwich-city-fc/199949232,1999,17,championship
+West Bromwich Albion,Birmingham City,1-3,https://www.besoccer.com/match/west-bromwich/birmingham-city-fc/199949233,1999,18,championship
+Watford,Oxford City,2-0,https://www.besoccer.com/match/watford-fc/oxford-city/199949234,1999,18,championship
+Sunderland,Grimsby Town,3-1,https://www.besoccer.com/match/sunderland-afc/grimsby-town/199949235,1999,18,championship
+Sheffield United,Tranmere Rovers,2-2,https://www.besoccer.com/match/sheffield-united/tranmere-rovers/199949236,1999,18,championship
+Queens Park Rangers,Bolton Wanderers,2-0,https://www.besoccer.com/match/queens-park-rangers-fc/bolton-wanderers-fc/199949237,1999,18,championship
+Norwich City,Bradford City,2-2,https://www.besoccer.com/match/norwich-city-fc/bradford-city/199949238,1999,18,championship
+Huddersfield Town,Ipswich Town,2-2,https://www.besoccer.com/match/huddersfield-town-fc/ipswich-town-fc/199949239,1999,18,championship
+Crystal Palace,Portsmouth,4-1,https://www.besoccer.com/match/crystal-palace-fc/portsmouth/199949240,1999,18,championship
+Crewe Alexandra,Swindon Town,0-2,https://www.besoccer.com/match/crewe-alexandra/swindon-town/199949241,1999,18,championship
+Bristol City,Wolves,1-6,https://www.besoccer.com/match/bristol-city-fc/wolverhampton/199949242,1999,18,championship
+Barnsley,Bury,1-1,https://www.besoccer.com/match/barnsley-fc/bury/199949243,1999,18,championship
+Stockport County,Port Vale,4-2,https://www.besoccer.com/match/stockport-county/port-vale/199949244,1999,18,championship
+West Bromwich Albion,Huddersfield Town,3-1,https://www.besoccer.com/match/west-bromwich/huddersfield-town-fc/199949245,1999,19,championship
+Stockport County,Watford,1-1,https://www.besoccer.com/match/stockport-county/watford-fc/199949246,1999,19,championship
+Sheffield United,Bury,3-1,https://www.besoccer.com/match/sheffield-united/bury/199949247,1999,19,championship
+Port Vale,Sunderland,0-2,https://www.besoccer.com/match/port-vale/sunderland-afc/199949248,1999,19,championship
+Norwich City,Wolves,0-0,https://www.besoccer.com/match/norwich-city-fc/wolverhampton/199949249,1999,19,championship
+Grimsby Town,Portsmouth,1-1,https://www.besoccer.com/match/grimsby-town/portsmouth/199949250,1999,19,championship
+Crystal Palace,Bristol City,2-1,https://www.besoccer.com/match/crystal-palace-fc/bristol-city-fc/199949251,1999,19,championship
+Crewe Alexandra,Queens Park Rangers,0-2,https://www.besoccer.com/match/crewe-alexandra/queens-park-rangers-fc/199949252,1999,19,championship
+Bradford City,Swindon Town,3-0,https://www.besoccer.com/match/bradford-city/swindon-town/199949253,1999,19,championship
+Bolton Wanderers,Tranmere Rovers,2-2,https://www.besoccer.com/match/bolton-wanderers-fc/tranmere-rovers/199949254,1999,19,championship
+Birmingham City,Oxford City,0-1,https://www.besoccer.com/match/birmingham-city-fc/oxford-city/199949255,1999,19,championship
+Barnsley,Ipswich Town,0-1,https://www.besoccer.com/match/barnsley-fc/ipswich-town-fc/199949256,1999,19,championship
+Watford,Crewe Alexandra,4-2,https://www.besoccer.com/match/watford-fc/crewe-alexandra/199949257,1999,20,championship
+Tranmere Rovers,Norwich City,1-3,https://www.besoccer.com/match/tranmere-rovers/norwich-city-fc/199949258,1999,20,championship
+Swindon Town,Crystal Palace,2-0,https://www.besoccer.com/match/swindon-town/crystal-palace-fc/199949259,1999,20,championship
+Sunderland,Barnsley,2-3,https://www.besoccer.com/match/sunderland-afc/barnsley-fc/199949260,1999,20,championship
+Queens Park Rangers,Sheffield United,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/sheffield-united/199949261,1999,20,championship
+Portsmouth,West Bromwich Albion,2-1,https://www.besoccer.com/match/portsmouth/west-bromwich/199949262,1999,20,championship
+Oxford City,Port Vale,2-1,https://www.besoccer.com/match/oxford-city/port-vale/199949263,1999,20,championship
+Ipswich Town,Bolton Wanderers,0-1,https://www.besoccer.com/match/ipswich-town-fc/bolton-wanderers-fc/199949264,1999,20,championship
+Huddersfield Town,Bradford City,2-1,https://www.besoccer.com/match/huddersfield-town-fc/bradford-city/199949265,1999,20,championship
+Bury,Grimsby Town,1-0,https://www.besoccer.com/match/bury/grimsby-town/199949266,1999,20,championship
+Bristol City,Stockport County,1-1,https://www.besoccer.com/match/bristol-city-fc/stockport-county/199949267,1999,20,championship
+Wolves,Birmingham City,3-1,https://www.besoccer.com/match/wolverhampton/birmingham-city-fc/199949268,1999,20,championship
+Barnsley,Huddersfield Town,7-1,https://www.besoccer.com/match/barnsley-fc/huddersfield-town-fc/199949269,1999,21,championship
+Stockport County,Portsmouth,2-0,https://www.besoccer.com/match/stockport-county/portsmouth/199949270,1999,21,championship
+Sheffield United,Sunderland,0-4,https://www.besoccer.com/match/sheffield-united/sunderland-afc/199949271,1999,21,championship
+Port Vale,Tranmere Rovers,2-2,https://www.besoccer.com/match/port-vale/tranmere-rovers/199949272,1999,21,championship
+Grimsby Town,Swindon Town,1-0,https://www.besoccer.com/match/grimsby-town/swindon-town/199949273,1999,21,championship
+Crystal Palace,Watford,2-2,https://www.besoccer.com/match/crystal-palace-fc/watford-fc/199949274,1999,21,championship
+Crewe Alexandra,Ipswich Town,0-3,https://www.besoccer.com/match/crewe-alexandra/ipswich-town-fc/199949275,1999,21,championship
+Bradford City,Queens Park Rangers,0-3,https://www.besoccer.com/match/bradford-city/queens-park-rangers-fc/199949276,1999,21,championship
+Bolton Wanderers,Bury,4-0,https://www.besoccer.com/match/bolton-wanderers-fc/bury/199949277,1999,21,championship
+Birmingham City,Bristol City,4-2,https://www.besoccer.com/match/birmingham-city-fc/bristol-city-fc/199949278,1999,21,championship
+West Bromwich Albion,Wolves,2-0,https://www.besoccer.com/match/west-bromwich/wolverhampton/199949279,1999,21,championship
+Norwich City,Oxford City,1-3,https://www.besoccer.com/match/norwich-city-fc/oxford-city/199949280,1999,21,championship
+Wolves,Bolton Wanderers,1-1,https://www.besoccer.com/match/wolverhampton/bolton-wanderers-fc/199949281,1999,22,championship
+Watford,Barnsley,0-0,https://www.besoccer.com/match/watford-fc/barnsley-fc/199949282,1999,22,championship
+Tranmere Rovers,Grimsby Town,1-2,https://www.besoccer.com/match/tranmere-rovers/grimsby-town/199949283,1999,22,championship
+Swindon Town,Norwich City,1-1,https://www.besoccer.com/match/swindon-town/norwich-city-fc/199949284,1999,22,championship
+Sunderland,Stockport County,1-0,https://www.besoccer.com/match/sunderland-afc/stockport-county/199949285,1999,22,championship
+Queens Park Rangers,Port Vale,3-2,https://www.besoccer.com/match/queens-park-rangers-fc/port-vale/199949286,1999,22,championship
+Portsmouth,Crewe Alexandra,2-0,https://www.besoccer.com/match/portsmouth/crewe-alexandra/199949287,1999,22,championship
+Oxford City,Bradford City,0-1,https://www.besoccer.com/match/oxford-city/bradford-city/199949288,1999,22,championship
+Ipswich Town,Birmingham City,1-0,https://www.besoccer.com/match/ipswich-town-fc/birmingham-city-fc/199949289,1999,22,championship
+Huddersfield Town,Crystal Palace,4-0,https://www.besoccer.com/match/huddersfield-town-fc/crystal-palace-fc/199949290,1999,22,championship
+Bury,West Bromwich Albion,2-0,https://www.besoccer.com/match/bury/west-bromwich/199949291,1999,22,championship
+Bristol City,Sheffield United,2-0,https://www.besoccer.com/match/bristol-city-fc/sheffield-united/199949292,1999,22,championship
+Bury,Sheffield United,3-3,https://www.besoccer.com/match/bury/sheffield-united/199949293,1999,23,championship
+Wolves,Norwich City,2-2,https://www.besoccer.com/match/wolverhampton/norwich-city-fc/199949294,1999,23,championship
+Watford,Stockport County,4-2,https://www.besoccer.com/match/watford-fc/stockport-county/199949295,1999,23,championship
+Tranmere Rovers,Bolton Wanderers,1-1,https://www.besoccer.com/match/tranmere-rovers/bolton-wanderers-fc/199949296,1999,23,championship
+Swindon Town,Bradford City,1-4,https://www.besoccer.com/match/swindon-town/bradford-city/199949297,1999,23,championship
+Sunderland,Port Vale,2-0,https://www.besoccer.com/match/sunderland-afc/port-vale/199949298,1999,23,championship
+Queens Park Rangers,Crewe Alexandra,0-1,https://www.besoccer.com/match/queens-park-rangers-fc/crewe-alexandra/199949299,1999,23,championship
+Oxford City,Birmingham City,1-7,https://www.besoccer.com/match/oxford-city/birmingham-city-fc/199949300,1999,23,championship
+Ipswich Town,Barnsley,0-2,https://www.besoccer.com/match/ipswich-town-fc/barnsley-fc/199949301,1999,23,championship
+Huddersfield Town,West Bromwich Albion,0-3,https://www.besoccer.com/match/huddersfield-town-fc/west-bromwich/199949302,1999,23,championship
+Bristol City,Crystal Palace,1-1,https://www.besoccer.com/match/bristol-city-fc/crystal-palace-fc/199949303,1999,23,championship
+Portsmouth,Grimsby Town,0-1,https://www.besoccer.com/match/portsmouth/grimsby-town/199949304,1999,23,championship
+West Bromwich Albion,Tranmere Rovers,0-2,https://www.besoccer.com/match/west-bromwich/tranmere-rovers/199949305,1999,24,championship
+Stockport County,Oxford City,2-0,https://www.besoccer.com/match/stockport-county/oxford-city/199949306,1999,24,championship
+Port Vale,Bury,1-0,https://www.besoccer.com/match/port-vale/bury/199949307,1999,24,championship
+Norwich City,Bristol City,2-1,https://www.besoccer.com/match/norwich-city-fc/bristol-city-fc/199949308,1999,24,championship
+Grimsby Town,Watford,2-1,https://www.besoccer.com/match/grimsby-town/watford-fc/199949309,1999,24,championship
+Crystal Palace,Queens Park Rangers,1-1,https://www.besoccer.com/match/crystal-palace-fc/queens-park-rangers-fc/199949310,1999,24,championship
+Crewe Alexandra,Huddersfield Town,1-2,https://www.besoccer.com/match/crewe-alexandra/huddersfield-town-fc/199949311,1999,24,championship
+Bradford City,Wolves,2-1,https://www.besoccer.com/match/bradford-city/wolverhampton/199949312,1999,24,championship
+Bolton Wanderers,Portsmouth,3-1,https://www.besoccer.com/match/bolton-wanderers-fc/portsmouth/199949313,1999,24,championship
+Birmingham City,Sunderland,0-0,https://www.besoccer.com/match/birmingham-city-fc/sunderland-afc/199949314,1999,24,championship
+Barnsley,Swindon Town,1-3,https://www.besoccer.com/match/barnsley-fc/swindon-town/199949315,1999,24,championship
+Sheffield United,Ipswich Town,1-2,https://www.besoccer.com/match/sheffield-united/ipswich-town-fc/199949316,1999,24,championship
+West Bromwich Albion,Port Vale,3-2,https://www.besoccer.com/match/west-bromwich/port-vale/199949317,1999,25,championship
+Watford,Bristol City,1-0,https://www.besoccer.com/match/watford-fc/bristol-city-fc/199949318,1999,25,championship
+Tranmere Rovers,Sunderland,1-0,https://www.besoccer.com/match/tranmere-rovers/sunderland-afc/199949319,1999,25,championship
+Swindon Town,Wolves,1-0,https://www.besoccer.com/match/swindon-town/wolverhampton/199949320,1999,25,championship
+Stockport County,Barnsley,0-1,https://www.besoccer.com/match/stockport-county/barnsley-fc/199949321,1999,25,championship
+Queens Park Rangers,Norwich City,2-0,https://www.besoccer.com/match/queens-park-rangers-fc/norwich-city-fc/199949322,1999,25,championship
+Oxford City,Crystal Palace,1-3,https://www.besoccer.com/match/oxford-city/crystal-palace-fc/199949323,1999,25,championship
+Ipswich Town,Portsmouth,3-0,https://www.besoccer.com/match/ipswich-town-fc/portsmouth/199949324,1999,25,championship
+Huddersfield Town,Grimsby Town,2-0,https://www.besoccer.com/match/huddersfield-town-fc/grimsby-town/199949325,1999,25,championship
+Crewe Alexandra,Bury,3-1,https://www.besoccer.com/match/crewe-alexandra/bury/199949326,1999,25,championship
+Bolton Wanderers,Bradford City,0-0,https://www.besoccer.com/match/bolton-wanderers-fc/bradford-city/199949327,1999,25,championship
+Birmingham City,Sheffield United,1-0,https://www.besoccer.com/match/birmingham-city-fc/sheffield-united/199949328,1999,25,championship
+Wolves,Ipswich Town,1-0,https://www.besoccer.com/match/wolverhampton/ipswich-town-fc/199949329,1999,26,championship
+Sunderland,Crewe Alexandra,2-0,https://www.besoccer.com/match/sunderland-afc/crewe-alexandra/199949330,1999,26,championship
+Sheffield United,Huddersfield Town,2-1,https://www.besoccer.com/match/sheffield-united/huddersfield-town-fc/199949331,1999,26,championship
+Portsmouth,Oxford City,2-2,https://www.besoccer.com/match/portsmouth/oxford-city/199949332,1999,26,championship
+Port Vale,Bolton Wanderers,0-2,https://www.besoccer.com/match/port-vale/bolton-wanderers-fc/199949333,1999,26,championship
+Grimsby Town,Stockport County,1-0,https://www.besoccer.com/match/grimsby-town/stockport-county/199949334,1999,26,championship
+Crystal Palace,West Bromwich Albion,1-1,https://www.besoccer.com/match/crystal-palace-fc/west-bromwich/199949335,1999,26,championship
+Bury,Birmingham City,2-4,https://www.besoccer.com/match/bury/birmingham-city-fc/199949336,1999,26,championship
+Bristol City,Swindon Town,3-1,https://www.besoccer.com/match/bristol-city-fc/swindon-town/199949337,1999,26,championship
+Bradford City,Tranmere Rovers,2-0,https://www.besoccer.com/match/bradford-city/tranmere-rovers/199949338,1999,26,championship
+Barnsley,Queens Park Rangers,1-0,https://www.besoccer.com/match/barnsley-fc/queens-park-rangers-fc/199949339,1999,26,championship
+Norwich City,Watford,1-1,https://www.besoccer.com/match/norwich-city-fc/watford-fc/199949340,1999,26,championship
+Tranmere Rovers,Wolves,1-2,https://www.besoccer.com/match/tranmere-rovers/wolverhampton/199949341,1999,27,championship
+West Bromwich Albion,Barnsley,2-0,https://www.besoccer.com/match/west-bromwich/barnsley-fc/199949342,1999,27,championship
+Watford,Portsmouth,0-0,https://www.besoccer.com/match/watford-fc/portsmouth/199949343,1999,27,championship
+Swindon Town,Sheffield United,2-2,https://www.besoccer.com/match/swindon-town/sheffield-united/199949344,1999,27,championship
+Stockport County,Bradford City,1-2,https://www.besoccer.com/match/stockport-county/bradford-city/199949345,1999,27,championship
+Queens Park Rangers,Sunderland,2-2,https://www.besoccer.com/match/queens-park-rangers-fc/sunderland-afc/199949346,1999,27,championship
+Oxford City,Bristol City,0-0,https://www.besoccer.com/match/oxford-city/bristol-city-fc/199949347,1999,27,championship
+Ipswich Town,Grimsby Town,0-1,https://www.besoccer.com/match/ipswich-town-fc/grimsby-town/199949348,1999,27,championship
+Huddersfield Town,Bury,2-2,https://www.besoccer.com/match/huddersfield-town-fc/bury/199949349,1999,27,championship
+Crewe Alexandra,Norwich City,3-2,https://www.besoccer.com/match/crewe-alexandra/norwich-city-fc/199949350,1999,27,championship
+Birmingham City,Port Vale,1-0,https://www.besoccer.com/match/birmingham-city-fc/port-vale/199949351,1999,27,championship
+Bolton Wanderers,Crystal Palace,3-0,https://www.besoccer.com/match/bolton-wanderers-fc/crystal-palace-fc/199949352,1999,27,championship
+Wolves,Watford,0-0,https://www.besoccer.com/match/wolverhampton/watford-fc/199949353,1999,28,championship
+Sheffield United,Bolton Wanderers,1-2,https://www.besoccer.com/match/sheffield-united/bolton-wanderers-fc/199949354,1999,28,championship
+Portsmouth,Huddersfield Town,1-0,https://www.besoccer.com/match/portsmouth/huddersfield-town-fc/199949355,1999,28,championship
+Port Vale,Swindon Town,0-1,https://www.besoccer.com/match/port-vale/swindon-town/199949356,1999,28,championship
+Norwich City,West Bromwich Albion,1-1,https://www.besoccer.com/match/norwich-city-fc/west-bromwich/199949357,1999,28,championship
+Grimsby Town,Oxford City,1-0,https://www.besoccer.com/match/grimsby-town/oxford-city/199949358,1999,28,championship
+Crystal Palace,Stockport County,2-2,https://www.besoccer.com/match/crystal-palace-fc/stockport-county/199949359,1999,28,championship
+Bury,Queens Park Rangers,1-1,https://www.besoccer.com/match/bury/queens-park-rangers-fc/199949360,1999,28,championship
+Bristol City,Tranmere Rovers,1-1,https://www.besoccer.com/match/bristol-city-fc/tranmere-rovers/199949361,1999,28,championship
+Bradford City,Crewe Alexandra,4-1,https://www.besoccer.com/match/bradford-city/crewe-alexandra/199949362,1999,28,championship
+Barnsley,Birmingham City,0-0,https://www.besoccer.com/match/barnsley-fc/birmingham-city-fc/199949363,1999,28,championship
+Sunderland,Ipswich Town,2-1,https://www.besoccer.com/match/sunderland-afc/ipswich-town-fc/199949364,1999,28,championship
+West Bromwich Albion,Grimsby Town,1-1,https://www.besoccer.com/match/west-bromwich/grimsby-town/199949365,1999,29,championship
+Watford,Sunderland,2-1,https://www.besoccer.com/match/watford-fc/sunderland-afc/199949366,1999,29,championship
+Tranmere Rovers,Crystal Palace,3-1,https://www.besoccer.com/match/tranmere-rovers/crystal-palace-fc/199949367,1999,29,championship
+Swindon Town,Bury,1-1,https://www.besoccer.com/match/swindon-town/bury/199949368,1999,29,championship
+Stockport County,Wolves,1-2,https://www.besoccer.com/match/stockport-county/wolverhampton/199949369,1999,29,championship
+Queens Park Rangers,Portsmouth,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/portsmouth/199949370,1999,29,championship
+Oxford City,Barnsley,1-0,https://www.besoccer.com/match/oxford-city/barnsley-fc/199949371,1999,29,championship
+Ipswich Town,Port Vale,1-0,https://www.besoccer.com/match/ipswich-town-fc/port-vale/199949372,1999,29,championship
+Huddersfield Town,Bristol City,2-2,https://www.besoccer.com/match/huddersfield-town-fc/bristol-city-fc/199949373,1999,29,championship
+Crewe Alexandra,Sheffield United,1-2,https://www.besoccer.com/match/crewe-alexandra/sheffield-united/199949374,1999,29,championship
+Bolton Wanderers,Norwich City,2-0,https://www.besoccer.com/match/bolton-wanderers-fc/norwich-city-fc/199949375,1999,29,championship
+Birmingham City,Bradford City,2-1,https://www.besoccer.com/match/birmingham-city-fc/bradford-city/199949376,1999,29,championship
+Bristol City,Queens Park Rangers,0-0,https://www.besoccer.com/match/bristol-city-fc/queens-park-rangers-fc/199949377,1999,30,championship
+Wolves,Oxford City,1-1,https://www.besoccer.com/match/wolverhampton/oxford-city/199949378,1999,30,championship
+Sunderland,Swindon Town,2-0,https://www.besoccer.com/match/sunderland-afc/swindon-town/199949379,1999,30,championship
+Sheffield United,West Bromwich Albion,3-0,https://www.besoccer.com/match/sheffield-united/west-bromwich/199949380,1999,30,championship
+Portsmouth,Tranmere Rovers,1-1,https://www.besoccer.com/match/portsmouth/tranmere-rovers/199949381,1999,30,championship
+Port Vale,Huddersfield Town,2-0,https://www.besoccer.com/match/port-vale/huddersfield-town-fc/199949382,1999,30,championship
+Norwich City,Stockport County,0-2,https://www.besoccer.com/match/norwich-city-fc/stockport-county/199949383,1999,30,championship
+Grimsby Town,Bolton Wanderers,0-1,https://www.besoccer.com/match/grimsby-town/bolton-wanderers-fc/199949384,1999,30,championship
+Crystal Palace,Birmingham City,1-1,https://www.besoccer.com/match/crystal-palace-fc/birmingham-city-fc/199949385,1999,30,championship
+Bury,Ipswich Town,0-3,https://www.besoccer.com/match/bury/ipswich-town-fc/199949386,1999,30,championship
+Bradford City,Watford,2-0,https://www.besoccer.com/match/bradford-city/watford-fc/199949387,1999,30,championship
+Barnsley,Crewe Alexandra,2-2,https://www.besoccer.com/match/barnsley-fc/crewe-alexandra/199949388,1999,30,championship
+Wolves,Port Vale,3-1,https://www.besoccer.com/match/wolverhampton/port-vale/199949389,1999,31,championship
+Tranmere Rovers,Queens Park Rangers,3-2,https://www.besoccer.com/match/tranmere-rovers/queens-park-rangers-fc/199949390,1999,31,championship
+Stockport County,Birmingham City,1-0,https://www.besoccer.com/match/stockport-county/birmingham-city-fc/199949391,1999,31,championship
+Portsmouth,Bury,2-1,https://www.besoccer.com/match/portsmouth/bury/199949392,1999,31,championship
+Oxford City,Swindon Town,2-0,https://www.besoccer.com/match/oxford-city/swindon-town/199949393,1999,31,championship
+Crystal Palace,Crewe Alexandra,1-1,https://www.besoccer.com/match/crystal-palace-fc/crewe-alexandra/199949394,1999,31,championship
+Bristol City,Sunderland,0-1,https://www.besoccer.com/match/bristol-city-fc/sunderland-afc/199949395,1999,31,championship
+Bradford City,Ipswich Town,0-0,https://www.besoccer.com/match/bradford-city/ipswich-town-fc/199949396,1999,31,championship
+Bolton Wanderers,West Bromwich Albion,2-1,https://www.besoccer.com/match/bolton-wanderers-fc/west-bromwich/199949397,1999,31,championship
+Watford,Huddersfield Town,1-1,https://www.besoccer.com/match/watford-fc/huddersfield-town-fc/199949398,1999,31,championship
+Norwich City,Barnsley,0-0,https://www.besoccer.com/match/norwich-city-fc/barnsley-fc/199949399,1999,31,championship
+Grimsby Town,Sheffield United,1-2,https://www.besoccer.com/match/grimsby-town/sheffield-united/199949400,1999,31,championship
+Sheffield United,Bradford City,2-2,https://www.besoccer.com/match/sheffield-united/bradford-city/199949401,1999,32,championship
+West Bromwich Albion,Bristol City,2-2,https://www.besoccer.com/match/west-bromwich/bristol-city-fc/199949402,1999,32,championship
+Swindon Town,Portsmouth,3-3,https://www.besoccer.com/match/swindon-town/portsmouth/199949403,1999,32,championship
+Sunderland,Wolves,2-1,https://www.besoccer.com/match/sunderland-afc/wolverhampton/199949404,1999,32,championship
+Queens Park Rangers,Watford,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/watford-fc/199949405,1999,32,championship
+Port Vale,Crystal Palace,1-0,https://www.besoccer.com/match/port-vale/crystal-palace-fc/199949406,1999,32,championship
+Ipswich Town,Oxford City,2-1,https://www.besoccer.com/match/ipswich-town-fc/oxford-city/199949407,1999,32,championship
+Huddersfield Town,Tranmere Rovers,0-0,https://www.besoccer.com/match/huddersfield-town-fc/tranmere-rovers/199949408,1999,32,championship
+Crewe Alexandra,Stockport County,0-2,https://www.besoccer.com/match/crewe-alexandra/stockport-county/199949409,1999,32,championship
+Bury,Norwich City,0-2,https://www.besoccer.com/match/bury/norwich-city-fc/199949410,1999,32,championship
+Barnsley,Grimsby Town,0-0,https://www.besoccer.com/match/barnsley-fc/grimsby-town/199949411,1999,32,championship
+Birmingham City,Bolton Wanderers,0-0,https://www.besoccer.com/match/birmingham-city-fc/bolton-wanderers-fc/199949412,1999,32,championship
+Watford,Swindon Town,0-1,https://www.besoccer.com/match/watford-fc/swindon-town/199949413,1999,33,championship
+Wolves,Huddersfield Town,2-2,https://www.besoccer.com/match/wolverhampton/huddersfield-town-fc/199949414,1999,33,championship
+Tranmere Rovers,Bury,4-0,https://www.besoccer.com/match/tranmere-rovers/bury/199949415,1999,33,championship
+Stockport County,Queens Park Rangers,0-0,https://www.besoccer.com/match/stockport-county/queens-park-rangers-fc/199949416,1999,33,championship
+Portsmouth,Port Vale,4-0,https://www.besoccer.com/match/portsmouth/port-vale/199949417,1999,33,championship
+Oxford City,Sunderland,0-0,https://www.besoccer.com/match/oxford-city/sunderland-afc/199949418,1999,33,championship
+Norwich City,Sheffield United,1-1,https://www.besoccer.com/match/norwich-city-fc/sheffield-united/199949419,1999,33,championship
+Grimsby Town,Birmingham City,0-3,https://www.besoccer.com/match/grimsby-town/birmingham-city-fc/199949420,1999,33,championship
+Bristol City,Ipswich Town,0-1,https://www.besoccer.com/match/bristol-city-fc/ipswich-town-fc/199949421,1999,33,championship
+Bradford City,West Bromwich Albion,1-0,https://www.besoccer.com/match/bradford-city/west-bromwich/199949422,1999,33,championship
+Bolton Wanderers,Crewe Alexandra,1-3,https://www.besoccer.com/match/bolton-wanderers-fc/crewe-alexandra/199949423,1999,33,championship
+Crystal Palace,Barnsley,1-0,https://www.besoccer.com/match/crystal-palace-fc/barnsley-fc/199949424,1999,33,championship
+West Bromwich Albion,Stockport County,3-1,https://www.besoccer.com/match/west-bromwich/stockport-county/199949425,1999,34,championship
+Sunderland,Portsmouth,2-0,https://www.besoccer.com/match/sunderland-afc/portsmouth/199949426,1999,34,championship
+Sheffield United,Crystal Palace,1-1,https://www.besoccer.com/match/sheffield-united/crystal-palace-fc/199949427,1999,34,championship
+Ipswich Town,Watford,3-2,https://www.besoccer.com/match/ipswich-town-fc/watford-fc/199949428,1999,34,championship
+Huddersfield Town,Bolton Wanderers,3-2,https://www.besoccer.com/match/huddersfield-town-fc/bolton-wanderers-fc/199949429,1999,34,championship
+Birmingham City,Norwich City,0-0,https://www.besoccer.com/match/birmingham-city-fc/norwich-city-fc/199949430,1999,34,championship
+Swindon Town,Tranmere Rovers,2-3,https://www.besoccer.com/match/swindon-town/tranmere-rovers/199949431,1999,34,championship
+Queens Park Rangers,Oxford City,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/oxford-city/199949432,1999,34,championship
+Barnsley,Bradford City,0-1,https://www.besoccer.com/match/barnsley-fc/bradford-city/199949433,1999,34,championship
+Bury,Wolves,0-0,https://www.besoccer.com/match/bury/wolverhampton/199949434,1999,34,championship
+Port Vale,Grimsby Town,0-1,https://www.besoccer.com/match/port-vale/grimsby-town/199949435,1999,34,championship
+Crewe Alexandra,Bristol City,1-0,https://www.besoccer.com/match/crewe-alexandra/bristol-city-fc/199949436,1999,34,championship
+West Bromwich Albion,Oxford City,2-0,https://www.besoccer.com/match/west-bromwich/oxford-city/199949437,1999,35,championship
+Swindon Town,Bolton Wanderers,3-3,https://www.besoccer.com/match/swindon-town/bolton-wanderers-fc/199949438,1999,35,championship
+Sunderland,Norwich City,1-0,https://www.besoccer.com/match/sunderland-afc/norwich-city-fc/199949439,1999,35,championship
+Sheffield United,Watford,3-0,https://www.besoccer.com/match/sheffield-united/watford-fc/199949440,1999,35,championship
+Queens Park Rangers,Wolves,0-1,https://www.besoccer.com/match/queens-park-rangers-fc/wolverhampton/199949441,1999,35,championship
+Ipswich Town,Tranmere Rovers,1-0,https://www.besoccer.com/match/ipswich-town-fc/tranmere-rovers/199949442,1999,35,championship
+Huddersfield Town,Stockport County,3-0,https://www.besoccer.com/match/huddersfield-town-fc/stockport-county/199949443,1999,35,championship
+Bury,Crystal Palace,0-0,https://www.besoccer.com/match/bury/crystal-palace-fc/199949444,1999,35,championship
+Birmingham City,Portsmouth,4-1,https://www.besoccer.com/match/birmingham-city-fc/portsmouth/199949445,1999,35,championship
+Crewe Alexandra,Grimsby Town,0-0,https://www.besoccer.com/match/crewe-alexandra/grimsby-town/199949446,1999,35,championship
+Barnsley,Bristol City,2-0,https://www.besoccer.com/match/barnsley-fc/bristol-city-fc/199949447,1999,35,championship
+Port Vale,Bradford City,1-1,https://www.besoccer.com/match/port-vale/bradford-city/199949448,1999,35,championship
+Watford,West Bromwich Albion,0-2,https://www.besoccer.com/match/watford-fc/west-bromwich/199949449,1999,36,championship
+Tranmere Rovers,Birmingham City,0-1,https://www.besoccer.com/match/tranmere-rovers/birmingham-city-fc/199949450,1999,36,championship
+Stockport County,Swindon Town,2-1,https://www.besoccer.com/match/stockport-county/swindon-town/199949451,1999,36,championship
+Portsmouth,Sheffield United,1-0,https://www.besoccer.com/match/portsmouth/sheffield-united/199949452,1999,36,championship
+Oxford City,Huddersfield Town,2-2,https://www.besoccer.com/match/oxford-city/huddersfield-town-fc/199949453,1999,36,championship
+Norwich City,Port Vale,3-4,https://www.besoccer.com/match/norwich-city-fc/port-vale/199949454,1999,36,championship
+Crystal Palace,Ipswich Town,3-2,https://www.besoccer.com/match/crystal-palace-fc/ipswich-town-fc/199949455,1999,36,championship
+Bristol City,Bury,1-1,https://www.besoccer.com/match/bristol-city-fc/bury/199949456,1999,36,championship
+Bradford City,Sunderland,0-1,https://www.besoccer.com/match/bradford-city/sunderland-afc/199949457,1999,36,championship
+Bolton Wanderers,Barnsley,3-3,https://www.besoccer.com/match/bolton-wanderers-fc/barnsley-fc/199949458,1999,36,championship
+Wolves,Crewe Alexandra,3-0,https://www.besoccer.com/match/wolverhampton/crewe-alexandra/199949459,1999,36,championship
+Grimsby Town,Queens Park Rangers,1-0,https://www.besoccer.com/match/grimsby-town/queens-park-rangers-fc/199949460,1999,36,championship
+Wolves,Bristol City,3-0,https://www.besoccer.com/match/wolverhampton/bristol-city-fc/199949461,1999,37,championship
+Tranmere Rovers,Sheffield United,2-3,https://www.besoccer.com/match/tranmere-rovers/sheffield-united/199949462,1999,37,championship
+Swindon Town,Crewe Alexandra,1-2,https://www.besoccer.com/match/swindon-town/crewe-alexandra/199949463,1999,37,championship
+Portsmouth,Crystal Palace,1-1,https://www.besoccer.com/match/portsmouth/crystal-palace-fc/199949464,1999,37,championship
+Port Vale,Stockport County,1-1,https://www.besoccer.com/match/port-vale/stockport-county/199949465,1999,37,championship
+Oxford City,Watford,0-0,https://www.besoccer.com/match/oxford-city/watford-fc/199949466,1999,37,championship
+Ipswich Town,Huddersfield Town,3-0,https://www.besoccer.com/match/ipswich-town-fc/huddersfield-town-fc/199949467,1999,37,championship
+Grimsby Town,Sunderland,0-2,https://www.besoccer.com/match/grimsby-town/sunderland-afc/199949468,1999,37,championship
+Bury,Barnsley,0-0,https://www.besoccer.com/match/bury/barnsley-fc/199949469,1999,37,championship
+Bradford City,Norwich City,4-1,https://www.besoccer.com/match/bradford-city/norwich-city-fc/199949470,1999,37,championship
+Bolton Wanderers,Queens Park Rangers,2-1,https://www.besoccer.com/match/bolton-wanderers-fc/queens-park-rangers-fc/199949471,1999,37,championship
+Birmingham City,West Bromwich Albion,4-0,https://www.besoccer.com/match/birmingham-city-fc/west-bromwich/199949472,1999,37,championship
+West Bromwich Albion,Ipswich Town,0-1,https://www.besoccer.com/match/west-bromwich/ipswich-town-fc/199949473,1999,38,championship
+Watford,Bury,0-0,https://www.besoccer.com/match/watford-fc/bury/199949474,1999,38,championship
+Sunderland,Bolton Wanderers,3-1,https://www.besoccer.com/match/sunderland-afc/bolton-wanderers-fc/199949475,1999,38,championship
+Stockport County,Tranmere Rovers,0-0,https://www.besoccer.com/match/stockport-county/tranmere-rovers/199949476,1999,38,championship
+Sheffield United,Port Vale,3-0,https://www.besoccer.com/match/sheffield-united/port-vale/199949477,1999,38,championship
+Queens Park Rangers,Swindon Town,4-0,https://www.besoccer.com/match/queens-park-rangers-fc/swindon-town/199949478,1999,38,championship
+Norwich City,Portsmouth,0-0,https://www.besoccer.com/match/norwich-city-fc/portsmouth/199949479,1999,38,championship
+Huddersfield Town,Birmingham City,1-1,https://www.besoccer.com/match/huddersfield-town-fc/birmingham-city-fc/199949480,1999,38,championship
+Crystal Palace,Grimsby Town,3-1,https://www.besoccer.com/match/crystal-palace-fc/grimsby-town/199949481,1999,38,championship
+Crewe Alexandra,Oxford City,3-1,https://www.besoccer.com/match/crewe-alexandra/oxford-city/199949482,1999,38,championship
+Bristol City,Bradford City,2-3,https://www.besoccer.com/match/bristol-city-fc/bradford-city/199949483,1999,38,championship
+Barnsley,Wolves,2-3,https://www.besoccer.com/match/barnsley-fc/wolverhampton/199949484,1999,38,championship
+Huddersfield Town,Norwich City,1-1,https://www.besoccer.com/match/huddersfield-town-fc/norwich-city-fc/199949485,1999,39,championship
+Tranmere Rovers,Crewe Alexandra,3-0,https://www.besoccer.com/match/tranmere-rovers/crewe-alexandra/199949486,1999,39,championship
+Sheffield United,Oxford City,1-2,https://www.besoccer.com/match/sheffield-united/oxford-city/199949487,1999,39,championship
+Portsmouth,Barnsley,1-3,https://www.besoccer.com/match/portsmouth/barnsley-fc/199949488,1999,39,championship
+Crystal Palace,Bradford City,1-0,https://www.besoccer.com/match/crystal-palace-fc/bradford-city/199949489,1999,39,championship
+West Bromwich Albion,Swindon Town,1-1,https://www.besoccer.com/match/west-bromwich/swindon-town/199949490,1999,39,championship
+Bury,Sunderland,2-5,https://www.besoccer.com/match/bury/sunderland-afc/199949491,1999,39,championship
+Bolton Wanderers,Bristol City,1-0,https://www.besoccer.com/match/bolton-wanderers-fc/bristol-city-fc/199949492,1999,39,championship
+Ipswich Town,Stockport County,1-0,https://www.besoccer.com/match/ipswich-town-fc/stockport-county/199949493,1999,39,championship
+Birmingham City,Queens Park Rangers,1-0,https://www.besoccer.com/match/birmingham-city-fc/queens-park-rangers-fc/199949494,1999,39,championship
+Port Vale,Watford,1-2,https://www.besoccer.com/match/port-vale/watford-fc/199949495,1999,39,championship
+Grimsby Town,Wolves,0-0,https://www.besoccer.com/match/grimsby-town/wolverhampton/199949496,1999,39,championship
+Crewe Alexandra,Birmingham City,0-0,https://www.besoccer.com/match/crewe-alexandra/birmingham-city-fc/199949497,1999,40,championship
+Wolves,Portsmouth,2-0,https://www.besoccer.com/match/wolverhampton/portsmouth/199949498,1999,40,championship
+Watford,Tranmere Rovers,2-1,https://www.besoccer.com/match/watford-fc/tranmere-rovers/199949499,1999,40,championship
+Swindon Town,Ipswich Town,0-6,https://www.besoccer.com/match/swindon-town/ipswich-town-fc/199949500,1999,40,championship
+Sunderland,West Bromwich Albion,3-0,https://www.besoccer.com/match/sunderland-afc/west-bromwich/199949501,1999,40,championship
+Stockport County,Bury,0-0,https://www.besoccer.com/match/stockport-county/bury/199949502,1999,40,championship
+Queens Park Rangers,Huddersfield Town,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/huddersfield-town-fc/199949503,1999,40,championship
+Oxford City,Bolton Wanderers,0-0,https://www.besoccer.com/match/oxford-city/bolton-wanderers-fc/199949504,1999,40,championship
+Norwich City,Crystal Palace,0-1,https://www.besoccer.com/match/norwich-city-fc/crystal-palace-fc/199949505,1999,40,championship
+Bristol City,Port Vale,2-0,https://www.besoccer.com/match/bristol-city-fc/port-vale/199949506,1999,40,championship
+Bradford City,Grimsby Town,3-0,https://www.besoccer.com/match/bradford-city/grimsby-town/199949507,1999,40,championship
+Barnsley,Sheffield United,2-1,https://www.besoccer.com/match/barnsley-fc/sheffield-united/199949508,1999,40,championship
+West Bromwich Albion,Crewe Alexandra,1-5,https://www.besoccer.com/match/west-bromwich/crewe-alexandra/199949509,1999,41,championship
+Tranmere Rovers,Oxford City,2-2,https://www.besoccer.com/match/tranmere-rovers/oxford-city/199949510,1999,41,championship
+Sheffield United,Wolves,1-1,https://www.besoccer.com/match/sheffield-united/wolverhampton/199949511,1999,41,championship
+Portsmouth,Bristol City,0-1,https://www.besoccer.com/match/portsmouth/bristol-city-fc/199949512,1999,41,championship
+Port Vale,Barnsley,1-0,https://www.besoccer.com/match/port-vale/barnsley-fc/199949513,1999,41,championship
+Ipswich Town,Queens Park Rangers,3-1,https://www.besoccer.com/match/ipswich-town-fc/queens-park-rangers-fc/199949514,1999,41,championship
+Huddersfield Town,Swindon Town,1-2,https://www.besoccer.com/match/huddersfield-town-fc/swindon-town/199949515,1999,41,championship
+Grimsby Town,Norwich City,0-1,https://www.besoccer.com/match/grimsby-town/norwich-city-fc/199949516,1999,41,championship
+Crystal Palace,Sunderland,1-1,https://www.besoccer.com/match/crystal-palace-fc/sunderland-afc/199949517,1999,41,championship
+Bury,Bradford City,0-2,https://www.besoccer.com/match/bury/bradford-city/199949518,1999,41,championship
+Bolton Wanderers,Stockport County,1-2,https://www.besoccer.com/match/bolton-wanderers-fc/stockport-county/199949519,1999,41,championship
+Birmingham City,Watford,1-2,https://www.besoccer.com/match/birmingham-city-fc/watford-fc/199949520,1999,41,championship
+Wolves,Crystal Palace,0-0,https://www.besoccer.com/match/wolverhampton/crystal-palace-fc/199949521,1999,42,championship
+Watford,Bolton Wanderers,2-0,https://www.besoccer.com/match/watford-fc/bolton-wanderers-fc/199949522,1999,42,championship
+Swindon Town,Birmingham City,0-1,https://www.besoccer.com/match/swindon-town/birmingham-city-fc/199949523,1999,42,championship
+Sunderland,Huddersfield Town,2-0,https://www.besoccer.com/match/sunderland-afc/huddersfield-town-fc/199949524,1999,42,championship
+Stockport County,Sheffield United,1-0,https://www.besoccer.com/match/stockport-county/sheffield-united/199949525,1999,42,championship
+Queens Park Rangers,West Bromwich Albion,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/west-bromwich/199949526,1999,42,championship
+Oxford City,Bury,0-1,https://www.besoccer.com/match/oxford-city/bury/199949527,1999,42,championship
+Crewe Alexandra,Port Vale,0-0,https://www.besoccer.com/match/crewe-alexandra/port-vale/199949528,1999,42,championship
+Bristol City,Grimsby Town,4-1,https://www.besoccer.com/match/bristol-city-fc/grimsby-town/199949529,1999,42,championship
+Bradford City,Portsmouth,2-1,https://www.besoccer.com/match/bradford-city/portsmouth/199949530,1999,42,championship
+Barnsley,Tranmere Rovers,1-1,https://www.besoccer.com/match/barnsley-fc/tranmere-rovers/199949531,1999,42,championship
+Norwich City,Ipswich Town,0-0,https://www.besoccer.com/match/norwich-city-fc/ipswich-town-fc/199949532,1999,42,championship
+Barnsley,Sunderland,1-3,https://www.besoccer.com/match/barnsley-fc/sunderland-afc/199949533,1999,43,championship
+West Bromwich Albion,Portsmouth,2-2,https://www.besoccer.com/match/west-bromwich/portsmouth/199949534,1999,43,championship
+Stockport County,Bristol City,2-2,https://www.besoccer.com/match/stockport-county/bristol-city-fc/199949535,1999,43,championship
+Sheffield United,Queens Park Rangers,2-0,https://www.besoccer.com/match/sheffield-united/queens-park-rangers-fc/199949536,1999,43,championship
+Port Vale,Oxford City,1-0,https://www.besoccer.com/match/port-vale/oxford-city/199949537,1999,43,championship
+Norwich City,Tranmere Rovers,2-2,https://www.besoccer.com/match/norwich-city-fc/tranmere-rovers/199949538,1999,43,championship
+Grimsby Town,Bury,0-0,https://www.besoccer.com/match/grimsby-town/bury/199949539,1999,43,championship
+Crystal Palace,Swindon Town,0-1,https://www.besoccer.com/match/crystal-palace-fc/swindon-town/199949540,1999,43,championship
+Crewe Alexandra,Watford,0-1,https://www.besoccer.com/match/crewe-alexandra/watford-fc/199949541,1999,43,championship
+Bradford City,Huddersfield Town,2-3,https://www.besoccer.com/match/bradford-city/huddersfield-town-fc/199949542,1999,43,championship
+Bolton Wanderers,Ipswich Town,2-0,https://www.besoccer.com/match/bolton-wanderers-fc/ipswich-town-fc/199949543,1999,43,championship
+Birmingham City,Wolves,0-1,https://www.besoccer.com/match/birmingham-city-fc/wolverhampton/199949544,1999,43,championship
+Bury,Bolton Wanderers,2-1,https://www.besoccer.com/match/bury/bolton-wanderers-fc/199949545,1999,44,championship
+Watford,Crystal Palace,2-1,https://www.besoccer.com/match/watford-fc/crystal-palace-fc/199949546,1999,44,championship
+Tranmere Rovers,Port Vale,1-1,https://www.besoccer.com/match/tranmere-rovers/port-vale/199949547,1999,44,championship
+Swindon Town,Grimsby Town,2-0,https://www.besoccer.com/match/swindon-town/grimsby-town/199949548,1999,44,championship
+Sunderland,Sheffield United,0-0,https://www.besoccer.com/match/sunderland-afc/sheffield-united/199949549,1999,44,championship
+Queens Park Rangers,Bradford City,1-3,https://www.besoccer.com/match/queens-park-rangers-fc/bradford-city/199949550,1999,44,championship
+Portsmouth,Stockport County,3-1,https://www.besoccer.com/match/portsmouth/stockport-county/199949551,1999,44,championship
+Oxford City,Norwich City,2-4,https://www.besoccer.com/match/oxford-city/norwich-city-fc/199949552,1999,44,championship
+Ipswich Town,Crewe Alexandra,1-2,https://www.besoccer.com/match/ipswich-town-fc/crewe-alexandra/199949553,1999,44,championship
+Huddersfield Town,Barnsley,0-1,https://www.besoccer.com/match/huddersfield-town-fc/barnsley-fc/199949554,1999,44,championship
+Bristol City,Birmingham City,1-2,https://www.besoccer.com/match/bristol-city-fc/birmingham-city-fc/199949555,1999,44,championship
+Wolves,West Bromwich Albion,1-1,https://www.besoccer.com/match/wolverhampton/west-bromwich/199949556,1999,44,championship
+Bolton Wanderers,Wolves,1-1,https://www.besoccer.com/match/bolton-wanderers-fc/wolverhampton/199949557,1999,45,championship
+West Bromwich Albion,Bury,1-0,https://www.besoccer.com/match/west-bromwich/bury/199949558,1999,45,championship
+Stockport County,Sunderland,0-1,https://www.besoccer.com/match/stockport-county/sunderland-afc/199949559,1999,45,championship
+Sheffield United,Bristol City,3-1,https://www.besoccer.com/match/sheffield-united/bristol-city-fc/199949560,1999,45,championship
+Port Vale,Queens Park Rangers,2-0,https://www.besoccer.com/match/port-vale/queens-park-rangers-fc/199949561,1999,45,championship
+Norwich City,Swindon Town,2-1,https://www.besoccer.com/match/norwich-city-fc/swindon-town/199949562,1999,45,championship
+Grimsby Town,Tranmere Rovers,1-0,https://www.besoccer.com/match/grimsby-town/tranmere-rovers/199949563,1999,45,championship
+Crystal Palace,Huddersfield Town,2-2,https://www.besoccer.com/match/crystal-palace-fc/huddersfield-town-fc/199949564,1999,45,championship
+Crewe Alexandra,Portsmouth,3-1,https://www.besoccer.com/match/crewe-alexandra/portsmouth/199949565,1999,45,championship
+Bradford City,Oxford City,0-0,https://www.besoccer.com/match/bradford-city/oxford-city/199949566,1999,45,championship
+Barnsley,Watford,2-2,https://www.besoccer.com/match/barnsley-fc/watford-fc/199949567,1999,45,championship
+Birmingham City,Ipswich Town,1-0,https://www.besoccer.com/match/birmingham-city-fc/ipswich-town-fc/199949568,1999,45,championship
+Wolves,Bradford City,2-3,https://www.besoccer.com/match/wolverhampton/bradford-city/199949569,1999,46,championship
+Watford,Grimsby Town,1-0,https://www.besoccer.com/match/watford-fc/grimsby-town/199949570,1999,46,championship
+Tranmere Rovers,West Bromwich Albion,3-1,https://www.besoccer.com/match/tranmere-rovers/west-bromwich/199949571,1999,46,championship
+Swindon Town,Barnsley,1-3,https://www.besoccer.com/match/swindon-town/barnsley-fc/199949572,1999,46,championship
+Sunderland,Birmingham City,2-1,https://www.besoccer.com/match/sunderland-afc/birmingham-city-fc/199949573,1999,46,championship
+Queens Park Rangers,Crystal Palace,6-0,https://www.besoccer.com/match/queens-park-rangers-fc/crystal-palace-fc/199949574,1999,46,championship
+Portsmouth,Bolton Wanderers,0-2,https://www.besoccer.com/match/portsmouth/bolton-wanderers-fc/199949575,1999,46,championship
+Oxford City,Stockport County,5-0,https://www.besoccer.com/match/oxford-city/stockport-county/199949576,1999,46,championship
+Ipswich Town,Sheffield United,4-1,https://www.besoccer.com/match/ipswich-town-fc/sheffield-united/199949577,1999,46,championship
+Huddersfield Town,Crewe Alexandra,0-0,https://www.besoccer.com/match/huddersfield-town-fc/crewe-alexandra/199949578,1999,46,championship
+Bury,Port Vale,1-0,https://www.besoccer.com/match/bury/port-vale/199949579,1999,46,championship
+Bristol City,Norwich City,1-0,https://www.besoccer.com/match/bristol-city-fc/norwich-city-fc/199949580,1999,46,championship

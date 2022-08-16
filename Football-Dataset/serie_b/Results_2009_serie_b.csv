@@ -1,0 +1,463 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Parma,Rimini,1-1,https://www.besoccer.com/match/parma-fc/rimini-calcio/200935513,2009,1,serie_b
+Ascoli,Vicenza ,1-0,https://www.besoccer.com/match/ascoli/vicenza-calcio/200935514,2009,1,serie_b
+Avellino,Livorno,1-3,https://www.besoccer.com/match/us-avellino/livorno/200935515,2009,1,serie_b
+Empoli,Brescia,2-2,https://www.besoccer.com/match/empoli-fc/brescia/200935516,2009,1,serie_b
+Mantova,Frosinone,2-0,https://www.besoccer.com/match/ac-mantova/frosinone-calcio/200935517,2009,1,serie_b
+Modena,AlbinoLeffe,0-2,https://www.besoccer.com/match/modena-fc/uc-albinoleffe/200935518,2009,1,serie_b
+Piacenza,Cittadella,1-0,https://www.besoccer.com/match/piacenza/as-cittadella/200935519,2009,1,serie_b
+Pisa,Grosseto,1-2,https://www.besoccer.com/match/pisa-calcio/us-grosseto/200935520,2009,1,serie_b
+Salernitana,Sassuolo,1-0,https://www.besoccer.com/match/salernitana-calcio-1919/us-sassuolo-calcio/200935521,2009,1,serie_b
+Treviso,Ancona,2-2,https://www.besoccer.com/match/treviso/ancona/200935522,2009,1,serie_b
+SSC Bari,Triestina ,1-1,https://www.besoccer.com/match/as-bari/us-triestina-calcio/200935523,2009,1,serie_b
+Ancona,Ascoli,0-0,https://www.besoccer.com/match/ancona/ascoli/200935524,2009,2,serie_b
+Cittadella,Salernitana,0-0,https://www.besoccer.com/match/as-cittadella/salernitana-calcio-1919/200935525,2009,2,serie_b
+Frosinone,SSC Bari,0-0,https://www.besoccer.com/match/frosinone-calcio/as-bari/200935526,2009,2,serie_b
+Grosseto,Piacenza,3-0,https://www.besoccer.com/match/us-grosseto/piacenza/200935527,2009,2,serie_b
+Rimini,Modena,4-3,https://www.besoccer.com/match/rimini-calcio/modena-fc/200935528,2009,2,serie_b
+Triestina ,Avellino,3-1,https://www.besoccer.com/match/us-triestina-calcio/us-avellino/200935529,2009,2,serie_b
+Livorno,Mantova,1-1,https://www.besoccer.com/match/livorno/ac-mantova/200935530,2009,2,serie_b
+Vicenza ,Empoli,1-1,https://www.besoccer.com/match/vicenza-calcio/empoli-fc/200935531,2009,2,serie_b
+AlbinoLeffe,Parma,1-0,https://www.besoccer.com/match/uc-albinoleffe/parma-fc/200935532,2009,2,serie_b
+Brescia,Treviso,0-0,https://www.besoccer.com/match/brescia/treviso/200935533,2009,2,serie_b
+Sassuolo,Pisa,3-1,https://www.besoccer.com/match/us-sassuolo-calcio/pisa-calcio/200935534,2009,2,serie_b
+Piacenza,Livorno,1-1,https://www.besoccer.com/match/piacenza/livorno/200935535,2009,3,serie_b
+Avellino,Cittadella,0-0,https://www.besoccer.com/match/us-avellino/as-cittadella/200935536,2009,3,serie_b
+SSC Bari,Brescia,1-1,https://www.besoccer.com/match/as-bari/brescia/200935537,2009,3,serie_b
+Empoli,AlbinoLeffe,0-0,https://www.besoccer.com/match/empoli-fc/uc-albinoleffe/200935538,2009,3,serie_b
+Parma,Ancona,4-1,https://www.besoccer.com/match/parma-fc/ancona/200935539,2009,3,serie_b
+Pisa,Modena,1-0,https://www.besoccer.com/match/pisa-calcio/modena-fc/200935540,2009,3,serie_b
+Sassuolo,Grosseto,4-0,https://www.besoccer.com/match/us-sassuolo-calcio/us-grosseto/200935541,2009,3,serie_b
+Treviso,Rimini,1-0,https://www.besoccer.com/match/treviso/rimini-calcio/200935542,2009,3,serie_b
+Ascoli,Triestina ,1-1,https://www.besoccer.com/match/ascoli/us-triestina-calcio/200935543,2009,3,serie_b
+Salernitana,Frosinone,3-2,https://www.besoccer.com/match/salernitana-calcio-1919/frosinone-calcio/200935544,2009,3,serie_b
+Mantova,Vicenza ,0-0,https://www.besoccer.com/match/ac-mantova/vicenza-calcio/200935545,2009,3,serie_b
+Cittadella,Mantova,0-2,https://www.besoccer.com/match/as-cittadella/ac-mantova/200935546,2009,4,serie_b
+Modena,Salernitana,0-1,https://www.besoccer.com/match/modena-fc/salernitana-calcio-1919/200935547,2009,4,serie_b
+AlbinoLeffe,Avellino,2-1,https://www.besoccer.com/match/uc-albinoleffe/us-avellino/200935548,2009,4,serie_b
+Ancona,Piacenza,0-1,https://www.besoccer.com/match/ancona/piacenza/200935549,2009,4,serie_b
+Brescia,Ascoli,2-1,https://www.besoccer.com/match/brescia/ascoli/200935550,2009,4,serie_b
+Frosinone,Treviso,1-0,https://www.besoccer.com/match/frosinone-calcio/treviso/200935551,2009,4,serie_b
+Grosseto,Parma,1-0,https://www.besoccer.com/match/us-grosseto/parma-fc/200935552,2009,4,serie_b
+Livorno,Pisa,1-1,https://www.besoccer.com/match/livorno/pisa-calcio/200935553,2009,4,serie_b
+Rimini,Empoli,0-1,https://www.besoccer.com/match/rimini-calcio/empoli-fc/200935554,2009,4,serie_b
+Triestina ,Sassuolo,1-1,https://www.besoccer.com/match/us-triestina-calcio/us-sassuolo-calcio/200935555,2009,4,serie_b
+Vicenza ,SSC Bari,1-2,https://www.besoccer.com/match/vicenza-calcio/as-bari/200935556,2009,4,serie_b
+Ancona,Brescia,2-0,https://www.besoccer.com/match/ancona/brescia/200935557,2009,5,serie_b
+Avellino,Grosseto,2-2,https://www.besoccer.com/match/us-avellino/us-grosseto/200935558,2009,5,serie_b
+SSC Bari,Livorno,0-0,https://www.besoccer.com/match/as-bari/livorno/200935559,2009,5,serie_b
+Empoli,Modena,3-1,https://www.besoccer.com/match/empoli-fc/modena-fc/200935560,2009,5,serie_b
+Mantova,Ascoli,0-0,https://www.besoccer.com/match/ac-mantova/ascoli/200935561,2009,5,serie_b
+Parma,Frosinone,2-2,https://www.besoccer.com/match/parma-fc/frosinone-calcio/200935562,2009,5,serie_b
+Piacenza,Rimini,0-0,https://www.besoccer.com/match/piacenza/rimini-calcio/200935563,2009,5,serie_b
+Pisa,Vicenza ,0-2,https://www.besoccer.com/match/pisa-calcio/vicenza-calcio/200935564,2009,5,serie_b
+Salernitana,Triestina ,0-1,https://www.besoccer.com/match/salernitana-calcio-1919/us-triestina-calcio/200935565,2009,5,serie_b
+Sassuolo,AlbinoLeffe,1-0,https://www.besoccer.com/match/us-sassuolo-calcio/uc-albinoleffe/200935566,2009,5,serie_b
+Treviso,Cittadella,0-1,https://www.besoccer.com/match/treviso/as-cittadella/200935567,2009,5,serie_b
+AlbinoLeffe,Piacenza,0-0,https://www.besoccer.com/match/uc-albinoleffe/piacenza/200935568,2009,6,serie_b
+Ascoli,SSC Bari,0-1,https://www.besoccer.com/match/ascoli/as-bari/200935569,2009,6,serie_b
+Cittadella,Empoli,0-2,https://www.besoccer.com/match/as-cittadella/empoli-fc/200935570,2009,6,serie_b
+Livorno,Grosseto,0-0,https://www.besoccer.com/match/livorno/us-grosseto/200935571,2009,6,serie_b
+Modena,Treviso,1-1,https://www.besoccer.com/match/modena-fc/treviso/200935572,2009,6,serie_b
+Rimini,Sassuolo,1-2,https://www.besoccer.com/match/rimini-calcio/us-sassuolo-calcio/200935573,2009,6,serie_b
+Salernitana,Pisa,1-1,https://www.besoccer.com/match/salernitana-calcio-1919/pisa-calcio/200935574,2009,6,serie_b
+Triestina ,Mantova,1-0,https://www.besoccer.com/match/us-triestina-calcio/ac-mantova/200935575,2009,6,serie_b
+Vicenza ,Avellino,3-0,https://www.besoccer.com/match/vicenza-calcio/us-avellino/200935576,2009,6,serie_b
+Frosinone,Ancona,1-0,https://www.besoccer.com/match/frosinone-calcio/ancona/200935577,2009,6,serie_b
+Brescia,Parma,0-0,https://www.besoccer.com/match/brescia/parma-fc/200935578,2009,6,serie_b
+SSC Bari,Mantova,1-0,https://www.besoccer.com/match/as-bari/ac-mantova/200935579,2009,7,serie_b
+Ancona,Rimini,5-0,https://www.besoccer.com/match/ancona/rimini-calcio/200935580,2009,7,serie_b
+Avellino,Ascoli,0-2,https://www.besoccer.com/match/us-avellino/ascoli/200935581,2009,7,serie_b
+Brescia,Frosinone,2-1,https://www.besoccer.com/match/brescia/frosinone-calcio/200935582,2009,7,serie_b
+Grosseto,AlbinoLeffe,2-2,https://www.besoccer.com/match/us-grosseto/uc-albinoleffe/200935583,2009,7,serie_b
+Parma,Modena,0-0,https://www.besoccer.com/match/parma-fc/modena-fc/200935584,2009,7,serie_b
+Piacenza,Salernitana,0-1,https://www.besoccer.com/match/piacenza/salernitana-calcio-1919/200935585,2009,7,serie_b
+Pisa,Triestina ,3-1,https://www.besoccer.com/match/pisa-calcio/us-triestina-calcio/200935586,2009,7,serie_b
+Sassuolo,Treviso,2-0,https://www.besoccer.com/match/us-sassuolo-calcio/treviso/200935587,2009,7,serie_b
+Cittadella,Vicenza ,0-1,https://www.besoccer.com/match/as-cittadella/vicenza-calcio/200935588,2009,7,serie_b
+Empoli,Livorno,2-1,https://www.besoccer.com/match/empoli-fc/livorno/200935589,2009,7,serie_b
+Ascoli,Grosseto,0-2,https://www.besoccer.com/match/ascoli/us-grosseto/200935590,2009,8,serie_b
+Livorno,Frosinone,5-2,https://www.besoccer.com/match/livorno/frosinone-calcio/200935591,2009,8,serie_b
+Mantova,Avellino,1-1,https://www.besoccer.com/match/ac-mantova/us-avellino/200935592,2009,8,serie_b
+Modena,Piacenza,1-0,https://www.besoccer.com/match/modena-fc/piacenza/200935593,2009,8,serie_b
+Treviso,Parma,2-2,https://www.besoccer.com/match/treviso/parma-fc/200935594,2009,8,serie_b
+Triestina ,Cittadella,2-1,https://www.besoccer.com/match/us-triestina-calcio/as-cittadella/200935595,2009,8,serie_b
+Vicenza ,Ancona,0-0,https://www.besoccer.com/match/vicenza-calcio/ancona/200935596,2009,8,serie_b
+Salernitana,Empoli,0-1,https://www.besoccer.com/match/salernitana-calcio-1919/empoli-fc/200935597,2009,8,serie_b
+AlbinoLeffe,Pisa,1-1,https://www.besoccer.com/match/uc-albinoleffe/pisa-calcio/200935598,2009,8,serie_b
+SSC Bari,Sassuolo,0-3,https://www.besoccer.com/match/as-bari/us-sassuolo-calcio/200935599,2009,8,serie_b
+Rimini,Brescia,2-0,https://www.besoccer.com/match/rimini-calcio/brescia/200935600,2009,8,serie_b
+Ancona,Modena,3-1,https://www.besoccer.com/match/ancona/modena-fc/200935601,2009,9,serie_b
+AlbinoLeffe,Vicenza ,0-4,https://www.besoccer.com/match/uc-albinoleffe/vicenza-calcio/200935602,2009,9,serie_b
+Avellino,SSC Bari,2-1,https://www.besoccer.com/match/us-avellino/as-bari/200935603,2009,9,serie_b
+Brescia,Triestina ,3-2,https://www.besoccer.com/match/brescia/us-triestina-calcio/200935604,2009,9,serie_b
+Cittadella,Livorno,0-0,https://www.besoccer.com/match/as-cittadella/livorno/200935605,2009,9,serie_b
+Frosinone,Rimini,3-1,https://www.besoccer.com/match/frosinone-calcio/rimini-calcio/200935606,2009,9,serie_b
+Grosseto,Salernitana,6-2,https://www.besoccer.com/match/us-grosseto/salernitana-calcio-1919/200935607,2009,9,serie_b
+Parma,Empoli,1-0,https://www.besoccer.com/match/parma-fc/empoli-fc/200935608,2009,9,serie_b
+Pisa,Treviso,2-1,https://www.besoccer.com/match/pisa-calcio/treviso/200935609,2009,9,serie_b
+Sassuolo,Mantova,1-2,https://www.besoccer.com/match/us-sassuolo-calcio/ac-mantova/200935610,2009,9,serie_b
+Piacenza,Ascoli,2-0,https://www.besoccer.com/match/piacenza/ascoli/200935611,2009,9,serie_b
+Empoli,Pisa,0-3,https://www.besoccer.com/match/empoli-fc/pisa-calcio/200935612,2009,10,serie_b
+Triestina ,AlbinoLeffe,1-1,https://www.besoccer.com/match/us-triestina-calcio/uc-albinoleffe/200935613,2009,10,serie_b
+Ascoli,Cittadella,1-2,https://www.besoccer.com/match/ascoli/as-cittadella/200935614,2009,10,serie_b
+Avellino,Frosinone,0-0,https://www.besoccer.com/match/us-avellino/frosinone-calcio/200935615,2009,10,serie_b
+SSC Bari,Grosseto,3-1,https://www.besoccer.com/match/as-bari/us-grosseto/200935616,2009,10,serie_b
+Livorno,Rimini,2-1,https://www.besoccer.com/match/livorno/rimini-calcio/200935617,2009,10,serie_b
+Mantova,Parma,1-3,https://www.besoccer.com/match/ac-mantova/parma-fc/200935618,2009,10,serie_b
+Modena,Brescia,1-3,https://www.besoccer.com/match/modena-fc/brescia/200935619,2009,10,serie_b
+Salernitana,Ancona,2-1,https://www.besoccer.com/match/salernitana-calcio-1919/ancona/200935620,2009,10,serie_b
+Treviso,Piacenza,3-2,https://www.besoccer.com/match/treviso/piacenza/200935621,2009,10,serie_b
+Vicenza ,Sassuolo,1-0,https://www.besoccer.com/match/vicenza-calcio/us-sassuolo-calcio/200935622,2009,10,serie_b
+AlbinoLeffe,Ascoli,2-0,https://www.besoccer.com/match/uc-albinoleffe/ascoli/200935623,2009,11,serie_b
+Ancona,Livorno,2-2,https://www.besoccer.com/match/ancona/livorno/200935624,2009,11,serie_b
+Brescia,Salernitana,1-0,https://www.besoccer.com/match/brescia/salernitana-calcio-1919/200935625,2009,11,serie_b
+Cittadella,SSC Bari,1-1,https://www.besoccer.com/match/as-cittadella/as-bari/200935626,2009,11,serie_b
+Frosinone,Piacenza,1-0,https://www.besoccer.com/match/frosinone-calcio/piacenza/200935627,2009,11,serie_b
+Grosseto,Treviso,4-1,https://www.besoccer.com/match/us-grosseto/treviso/200935628,2009,11,serie_b
+Parma,Triestina ,2-1,https://www.besoccer.com/match/parma-fc/us-triestina-calcio/200935629,2009,11,serie_b
+Pisa,Avellino,1-1,https://www.besoccer.com/match/pisa-calcio/us-avellino/200935630,2009,11,serie_b
+Rimini,Mantova,1-0,https://www.besoccer.com/match/rimini-calcio/ac-mantova/200935631,2009,11,serie_b
+Sassuolo,Empoli,0-4,https://www.besoccer.com/match/us-sassuolo-calcio/empoli-fc/200935632,2009,11,serie_b
+Vicenza ,Modena,2-2,https://www.besoccer.com/match/vicenza-calcio/modena-fc/200935633,2009,11,serie_b
+Avellino,Sassuolo,0-0,https://www.besoccer.com/match/us-avellino/us-sassuolo-calcio/200935634,2009,12,serie_b
+SSC Bari,Pisa,1-0,https://www.besoccer.com/match/as-bari/pisa-calcio/200935635,2009,12,serie_b
+Empoli,Ancona,1-3,https://www.besoccer.com/match/empoli-fc/ancona/200935636,2009,12,serie_b
+Mantova,Grosseto,2-1,https://www.besoccer.com/match/ac-mantova/us-grosseto/200935637,2009,12,serie_b
+Modena,Cittadella,3-3,https://www.besoccer.com/match/modena-fc/as-cittadella/200935638,2009,12,serie_b
+Piacenza,Parma,1-1,https://www.besoccer.com/match/piacenza/parma-fc/200935639,2009,12,serie_b
+Salernitana,Vicenza ,0-0,https://www.besoccer.com/match/salernitana-calcio-1919/vicenza-calcio/200935640,2009,12,serie_b
+Treviso,AlbinoLeffe,1-1,https://www.besoccer.com/match/treviso/uc-albinoleffe/200935641,2009,12,serie_b
+Triestina ,Frosinone,2-2,https://www.besoccer.com/match/us-triestina-calcio/frosinone-calcio/200935642,2009,12,serie_b
+Ascoli,Rimini,1-1,https://www.besoccer.com/match/ascoli/rimini-calcio/200935643,2009,12,serie_b
+Livorno,Brescia,2-0,https://www.besoccer.com/match/livorno/brescia/200935644,2009,12,serie_b
+Treviso,Salernitana,2-2,https://www.besoccer.com/match/treviso/salernitana-calcio-1919/200935645,2009,13,serie_b
+AlbinoLeffe,Mantova,1-2,https://www.besoccer.com/match/uc-albinoleffe/ac-mantova/200935646,2009,13,serie_b
+Ancona,Avellino,0-1,https://www.besoccer.com/match/ancona/us-avellino/200935647,2009,13,serie_b
+Brescia,Piacenza,0-1,https://www.besoccer.com/match/brescia/piacenza/200935648,2009,13,serie_b
+Frosinone,Empoli,0-1,https://www.besoccer.com/match/frosinone-calcio/empoli-fc/200935649,2009,13,serie_b
+Grosseto,Modena,2-1,https://www.besoccer.com/match/us-grosseto/modena-fc/200935650,2009,13,serie_b
+Pisa,Ascoli,1-1,https://www.besoccer.com/match/pisa-calcio/ascoli/200935651,2009,13,serie_b
+Rimini,Triestina ,0-2,https://www.besoccer.com/match/rimini-calcio/us-triestina-calcio/200935652,2009,13,serie_b
+Sassuolo,Cittadella,3-1,https://www.besoccer.com/match/us-sassuolo-calcio/as-cittadella/200935653,2009,13,serie_b
+Vicenza ,Livorno,0-1,https://www.besoccer.com/match/vicenza-calcio/livorno/200935654,2009,13,serie_b
+Parma,SSC Bari,1-1,https://www.besoccer.com/match/parma-fc/as-bari/200935655,2009,13,serie_b
+Mantova,Pisa,2-1,https://www.besoccer.com/match/ac-mantova/pisa-calcio/200935656,2009,14,serie_b
+Avellino,Brescia,1-1,https://www.besoccer.com/match/us-avellino/brescia/200935657,2009,14,serie_b
+SSC Bari,Ancona,2-1,https://www.besoccer.com/match/as-bari/ancona/200935658,2009,14,serie_b
+Cittadella,AlbinoLeffe,0-0,https://www.besoccer.com/match/as-cittadella/uc-albinoleffe/200935659,2009,14,serie_b
+Livorno,Treviso,0-0,https://www.besoccer.com/match/livorno/treviso/200935660,2009,14,serie_b
+Modena,Frosinone,2-0,https://www.besoccer.com/match/modena-fc/frosinone-calcio/200935661,2009,14,serie_b
+Piacenza,Sassuolo,2-2,https://www.besoccer.com/match/piacenza/us-sassuolo-calcio/200935662,2009,14,serie_b
+Salernitana,Rimini,2-3,https://www.besoccer.com/match/salernitana-calcio-1919/rimini-calcio/200935663,2009,14,serie_b
+Triestina ,Vicenza ,2-1,https://www.besoccer.com/match/us-triestina-calcio/vicenza-calcio/200935664,2009,14,serie_b
+Ascoli,Parma,0-1,https://www.besoccer.com/match/ascoli/parma-fc/200935665,2009,14,serie_b
+Empoli,Grosseto,1-1,https://www.besoccer.com/match/empoli-fc/us-grosseto/200935666,2009,14,serie_b
+Piacenza,Avellino,1-2,https://www.besoccer.com/match/piacenza/us-avellino/200935667,2009,15,serie_b
+AlbinoLeffe,Salernitana,1-0,https://www.besoccer.com/match/uc-albinoleffe/salernitana-calcio-1919/200935668,2009,15,serie_b
+Ancona,Mantova,2-1,https://www.besoccer.com/match/ancona/ac-mantova/200935669,2009,15,serie_b
+Brescia,Vicenza ,2-1,https://www.besoccer.com/match/brescia/vicenza-calcio/200935670,2009,15,serie_b
+Frosinone,Ascoli,2-0,https://www.besoccer.com/match/frosinone-calcio/ascoli/200935671,2009,15,serie_b
+Grosseto,Triestina ,1-0,https://www.besoccer.com/match/us-grosseto/us-triestina-calcio/200935672,2009,15,serie_b
+Parma,Livorno,0-0,https://www.besoccer.com/match/parma-fc/livorno/200935673,2009,15,serie_b
+Pisa,Cittadella,0-3,https://www.besoccer.com/match/pisa-calcio/as-cittadella/200935674,2009,15,serie_b
+Rimini,SSC Bari,1-1,https://www.besoccer.com/match/rimini-calcio/as-bari/200935675,2009,15,serie_b
+Treviso,Empoli,2-0,https://www.besoccer.com/match/treviso/empoli-fc/200935676,2009,15,serie_b
+Sassuolo,Modena,3-0,https://www.besoccer.com/match/us-sassuolo-calcio/modena-fc/200935677,2009,15,serie_b
+Salernitana,Parma,1-2,https://www.besoccer.com/match/salernitana-calcio-1919/parma-fc/200935678,2009,16,serie_b
+Ascoli,Sassuolo,1-1,https://www.besoccer.com/match/ascoli/us-sassuolo-calcio/200935679,2009,16,serie_b
+Avellino,Rimini,0-2,https://www.besoccer.com/match/us-avellino/rimini-calcio/200935680,2009,16,serie_b
+SSC Bari,AlbinoLeffe,1-2,https://www.besoccer.com/match/as-bari/uc-albinoleffe/200935681,2009,16,serie_b
+Cittadella,Ancona,0-0,https://www.besoccer.com/match/as-cittadella/ancona/200935682,2009,16,serie_b
+Empoli,Piacenza,3-2,https://www.besoccer.com/match/empoli-fc/piacenza/200935683,2009,16,serie_b
+Mantova,Brescia,0-2,https://www.besoccer.com/match/ac-mantova/brescia/200935684,2009,16,serie_b
+Modena,Livorno,0-0,https://www.besoccer.com/match/modena-fc/livorno/200935685,2009,16,serie_b
+Pisa,Frosinone,3-1,https://www.besoccer.com/match/pisa-calcio/frosinone-calcio/200935686,2009,16,serie_b
+Vicenza ,Grosseto,5-0,https://www.besoccer.com/match/vicenza-calcio/us-grosseto/200935687,2009,16,serie_b
+Triestina ,Treviso,0-0,https://www.besoccer.com/match/us-triestina-calcio/treviso/200935688,2009,16,serie_b
+Empoli,SSC Bari,2-0,https://www.besoccer.com/match/empoli-fc/as-bari/200935689,2009,17,serie_b
+Ancona,Pisa,2-4,https://www.besoccer.com/match/ancona/pisa-calcio/200935690,2009,17,serie_b
+Brescia,AlbinoLeffe,1-0,https://www.besoccer.com/match/brescia/uc-albinoleffe/200935691,2009,17,serie_b
+Frosinone,Sassuolo,2-2,https://www.besoccer.com/match/frosinone-calcio/us-sassuolo-calcio/200935692,2009,17,serie_b
+Grosseto,Cittadella,1-1,https://www.besoccer.com/match/us-grosseto/as-cittadella/200935693,2009,17,serie_b
+Livorno,Salernitana,3-0,https://www.besoccer.com/match/livorno/salernitana-calcio-1919/200935694,2009,17,serie_b
+Modena,Ascoli,3-0,https://www.besoccer.com/match/modena-fc/ascoli/200935695,2009,17,serie_b
+Parma,Avellino,1-0,https://www.besoccer.com/match/parma-fc/us-avellino/200935696,2009,17,serie_b
+Piacenza,Triestina ,0-2,https://www.besoccer.com/match/piacenza/us-triestina-calcio/200935697,2009,17,serie_b
+Treviso,Mantova,0-0,https://www.besoccer.com/match/treviso/ac-mantova/200935698,2009,17,serie_b
+Rimini,Vicenza ,0-1,https://www.besoccer.com/match/rimini-calcio/vicenza-calcio/200935699,2009,17,serie_b
+AlbinoLeffe,Frosinone,2-2,https://www.besoccer.com/match/uc-albinoleffe/frosinone-calcio/200935700,2009,18,serie_b
+Ascoli,Empoli,1-0,https://www.besoccer.com/match/ascoli/empoli-fc/200935701,2009,18,serie_b
+Avellino,Salernitana,1-1,https://www.besoccer.com/match/us-avellino/salernitana-calcio-1919/200935702,2009,18,serie_b
+SSC Bari,Piacenza,1-0,https://www.besoccer.com/match/as-bari/piacenza/200935703,2009,18,serie_b
+Cittadella,Brescia,2-0,https://www.besoccer.com/match/as-cittadella/brescia/200935704,2009,18,serie_b
+Grosseto,Rimini,1-3,https://www.besoccer.com/match/us-grosseto/rimini-calcio/200935705,2009,18,serie_b
+Mantova,Modena,2-2,https://www.besoccer.com/match/ac-mantova/modena-fc/200935706,2009,18,serie_b
+Pisa,Parma,2-1,https://www.besoccer.com/match/pisa-calcio/parma-fc/200935707,2009,18,serie_b
+Triestina ,Livorno,1-1,https://www.besoccer.com/match/us-triestina-calcio/livorno/200935708,2009,18,serie_b
+Vicenza ,Treviso,1-1,https://www.besoccer.com/match/vicenza-calcio/treviso/200935709,2009,18,serie_b
+Sassuolo,Ancona,1-0,https://www.besoccer.com/match/us-sassuolo-calcio/ancona/200935710,2009,18,serie_b
+Brescia,Grosseto,1-0,https://www.besoccer.com/match/brescia/us-grosseto/200935711,2009,19,serie_b
+Parma,Cittadella,1-0,https://www.besoccer.com/match/parma-fc/as-cittadella/200935712,2009,19,serie_b
+Ancona,Triestina ,2-1,https://www.besoccer.com/match/ancona/us-triestina-calcio/200935713,2009,19,serie_b
+Empoli,Mantova,1-1,https://www.besoccer.com/match/empoli-fc/ac-mantova/200935714,2009,19,serie_b
+Livorno,Sassuolo,3-2,https://www.besoccer.com/match/livorno/us-sassuolo-calcio/200935715,2009,19,serie_b
+Modena,SSC Bari,0-2,https://www.besoccer.com/match/modena-fc/as-bari/200935716,2009,19,serie_b
+Piacenza,Pisa,1-0,https://www.besoccer.com/match/piacenza/pisa-calcio/200935717,2009,19,serie_b
+Rimini,AlbinoLeffe,1-1,https://www.besoccer.com/match/rimini-calcio/uc-albinoleffe/200935718,2009,19,serie_b
+Salernitana,Ascoli,1-2,https://www.besoccer.com/match/salernitana-calcio-1919/ascoli/200935719,2009,19,serie_b
+Treviso,Avellino,2-1,https://www.besoccer.com/match/treviso/us-avellino/200935720,2009,19,serie_b
+Frosinone,Vicenza ,0-0,https://www.besoccer.com/match/frosinone-calcio/vicenza-calcio/200935721,2009,19,serie_b
+AlbinoLeffe,Livorno,0-1,https://www.besoccer.com/match/uc-albinoleffe/livorno/200935723,2009,20,serie_b
+Ascoli,Treviso,1-0,https://www.besoccer.com/match/ascoli/treviso/200935724,2009,20,serie_b
+Avellino,Modena,4-3,https://www.besoccer.com/match/us-avellino/modena-fc/200935725,2009,20,serie_b
+SSC Bari,Salernitana,1-0,https://www.besoccer.com/match/as-bari/salernitana-calcio-1919/200935726,2009,20,serie_b
+Cittadella,Frosinone,0-0,https://www.besoccer.com/match/as-cittadella/frosinone-calcio/200935727,2009,20,serie_b
+Grosseto,Ancona,2-1,https://www.besoccer.com/match/us-grosseto/ancona/200935728,2009,20,serie_b
+Mantova,Piacenza,0-0,https://www.besoccer.com/match/ac-mantova/piacenza/200935729,2009,20,serie_b
+Triestina ,Empoli,2-0,https://www.besoccer.com/match/us-triestina-calcio/empoli-fc/200935730,2009,20,serie_b
+Vicenza ,Parma,1-1,https://www.besoccer.com/match/vicenza-calcio/parma-fc/200935731,2009,20,serie_b
+Pisa,Rimini,1-3,https://www.besoccer.com/match/pisa-calcio/rimini-calcio/200935732,2009,20,serie_b
+Sassuolo,Brescia,0-0,https://www.besoccer.com/match/us-sassuolo-calcio/brescia/200935722,2009,20,serie_b
+Livorno,Ascoli,1-0,https://www.besoccer.com/match/livorno/ascoli/200935733,2009,21,serie_b
+Ancona,AlbinoLeffe,1-0,https://www.besoccer.com/match/ancona/uc-albinoleffe/200935734,2009,21,serie_b
+Brescia,Pisa,4-0,https://www.besoccer.com/match/brescia/pisa-calcio/200935735,2009,21,serie_b
+Empoli,Avellino,1-1,https://www.besoccer.com/match/empoli-fc/us-avellino/200935736,2009,21,serie_b
+Modena,Triestina ,0-0,https://www.besoccer.com/match/modena-fc/us-triestina-calcio/200935737,2009,21,serie_b
+Parma,Sassuolo,1-1,https://www.besoccer.com/match/parma-fc/us-sassuolo-calcio/200935738,2009,21,serie_b
+Piacenza,Vicenza ,1-0,https://www.besoccer.com/match/piacenza/vicenza-calcio/200935739,2009,21,serie_b
+Rimini,Cittadella,1-0,https://www.besoccer.com/match/rimini-calcio/as-cittadella/200935740,2009,21,serie_b
+Salernitana,Mantova,2-1,https://www.besoccer.com/match/salernitana-calcio-1919/ac-mantova/200935741,2009,21,serie_b
+Treviso,SSC Bari,0-2,https://www.besoccer.com/match/treviso/as-bari/200935742,2009,21,serie_b
+Frosinone,Grosseto,2-0,https://www.besoccer.com/match/frosinone-calcio/us-grosseto/200935743,2009,21,serie_b
+Triestina ,SSC Bari,1-2,https://www.besoccer.com/match/us-triestina-calcio/as-bari/200935753,2009,22,serie_b
+AlbinoLeffe,Modena,2-1,https://www.besoccer.com/match/uc-albinoleffe/modena-fc/200935744,2009,22,serie_b
+Brescia,Empoli,2-0,https://www.besoccer.com/match/brescia/empoli-fc/200935746,2009,22,serie_b
+Cittadella,Piacenza,4-4,https://www.besoccer.com/match/as-cittadella/piacenza/200935747,2009,22,serie_b
+Frosinone,Mantova,1-2,https://www.besoccer.com/match/frosinone-calcio/ac-mantova/200935748,2009,22,serie_b
+Grosseto,Pisa,4-1,https://www.besoccer.com/match/us-grosseto/pisa-calcio/200935749,2009,22,serie_b
+Livorno,Avellino,0-0,https://www.besoccer.com/match/livorno/us-avellino/200935750,2009,22,serie_b
+Rimini,Parma,0-0,https://www.besoccer.com/match/rimini-calcio/parma-fc/200935751,2009,22,serie_b
+Sassuolo,Salernitana,1-0,https://www.besoccer.com/match/us-sassuolo-calcio/salernitana-calcio-1919/200935752,2009,22,serie_b
+Vicenza ,Ascoli,3-1,https://www.besoccer.com/match/vicenza-calcio/ascoli/200935754,2009,22,serie_b
+Ancona,Treviso,2-1,https://www.besoccer.com/match/ancona/treviso/200935745,2009,22,serie_b
+Ascoli,Ancona,2-0,https://www.besoccer.com/match/ascoli/ancona/200935755,2009,23,serie_b
+SSC Bari,Frosinone,2-1,https://www.besoccer.com/match/as-bari/frosinone-calcio/200935757,2009,23,serie_b
+Avellino,Triestina ,1-2,https://www.besoccer.com/match/us-avellino/us-triestina-calcio/200935756,2009,23,serie_b
+Empoli,Vicenza ,2-0,https://www.besoccer.com/match/empoli-fc/vicenza-calcio/200935758,2009,23,serie_b
+Parma,AlbinoLeffe,3-1,https://www.besoccer.com/match/parma-fc/uc-albinoleffe/200935761,2009,23,serie_b
+Piacenza,Grosseto,2-3,https://www.besoccer.com/match/piacenza/us-grosseto/200935762,2009,23,serie_b
+Pisa,Sassuolo,0-0,https://www.besoccer.com/match/pisa-calcio/us-sassuolo-calcio/200935763,2009,23,serie_b
+Salernitana,Cittadella,1-2,https://www.besoccer.com/match/salernitana-calcio-1919/as-cittadella/200935764,2009,23,serie_b
+Treviso,Brescia,3-2,https://www.besoccer.com/match/treviso/brescia/200935765,2009,23,serie_b
+Mantova,Livorno,2-5,https://www.besoccer.com/match/ac-mantova/livorno/200935759,2009,23,serie_b
+Modena,Rimini,1-1,https://www.besoccer.com/match/modena-fc/rimini-calcio/200935760,2009,23,serie_b
+Ancona,Parma,2-0,https://www.besoccer.com/match/ancona/parma-fc/200935767,2009,24,serie_b
+AlbinoLeffe,Empoli,0-0,https://www.besoccer.com/match/uc-albinoleffe/empoli-fc/200935766,2009,24,serie_b
+Brescia,SSC Bari,0-0,https://www.besoccer.com/match/brescia/as-bari/200935768,2009,24,serie_b
+Frosinone,Salernitana,0-2,https://www.besoccer.com/match/frosinone-calcio/salernitana-calcio-1919/200935770,2009,24,serie_b
+Grosseto,Sassuolo,1-2,https://www.besoccer.com/match/us-grosseto/us-sassuolo-calcio/200935771,2009,24,serie_b
+Livorno,Piacenza,3-0,https://www.besoccer.com/match/livorno/piacenza/200935772,2009,24,serie_b
+Modena,Pisa,3-3,https://www.besoccer.com/match/modena-fc/pisa-calcio/200935773,2009,24,serie_b
+Rimini,Treviso,2-2,https://www.besoccer.com/match/rimini-calcio/treviso/200935774,2009,24,serie_b
+Triestina ,Ascoli,1-2,https://www.besoccer.com/match/us-triestina-calcio/ascoli/200935775,2009,24,serie_b
+Vicenza ,Mantova,1-0,https://www.besoccer.com/match/vicenza-calcio/ac-mantova/200935776,2009,24,serie_b
+Cittadella,Avellino,4-0,https://www.besoccer.com/match/as-cittadella/us-avellino/200935769,2009,24,serie_b
+Sassuolo,Triestina ,1-1,https://www.besoccer.com/match/us-sassuolo-calcio/us-triestina-calcio/200935786,2009,25,serie_b
+SSC Bari,Vicenza ,1-1,https://www.besoccer.com/match/as-bari/vicenza-calcio/200935779,2009,25,serie_b
+Salernitana,Modena,3-2,https://www.besoccer.com/match/salernitana-calcio-1919/modena-fc/200935785,2009,25,serie_b
+Ascoli,Brescia,1-0,https://www.besoccer.com/match/ascoli/brescia/200935777,2009,25,serie_b
+Avellino,AlbinoLeffe,0-0,https://www.besoccer.com/match/us-avellino/uc-albinoleffe/200935778,2009,25,serie_b
+Empoli,Rimini,2-1,https://www.besoccer.com/match/empoli-fc/rimini-calcio/200935780,2009,25,serie_b
+Mantova,Cittadella,2-1,https://www.besoccer.com/match/ac-mantova/as-cittadella/200935781,2009,25,serie_b
+Parma,Grosseto,4-0,https://www.besoccer.com/match/parma-fc/us-grosseto/200935782,2009,25,serie_b
+Piacenza,Ancona,2-0,https://www.besoccer.com/match/piacenza/ancona/200935783,2009,25,serie_b
+Pisa,Livorno,2-1,https://www.besoccer.com/match/pisa-calcio/livorno/200935784,2009,25,serie_b
+Treviso,Frosinone,1-2,https://www.besoccer.com/match/treviso/frosinone-calcio/200935787,2009,25,serie_b
+AlbinoLeffe,Sassuolo,1-0,https://www.besoccer.com/match/uc-albinoleffe/us-sassuolo-calcio/200935788,2009,26,serie_b
+Ascoli,Mantova,2-0,https://www.besoccer.com/match/ascoli/ac-mantova/200935789,2009,26,serie_b
+Brescia,Ancona,3-0,https://www.besoccer.com/match/brescia/ancona/200935790,2009,26,serie_b
+Cittadella,Treviso,1-1,https://www.besoccer.com/match/as-cittadella/treviso/200935791,2009,26,serie_b
+Frosinone,Parma,1-2,https://www.besoccer.com/match/frosinone-calcio/parma-fc/200935792,2009,26,serie_b
+Grosseto,Avellino,3-2,https://www.besoccer.com/match/us-grosseto/us-avellino/200935793,2009,26,serie_b
+Livorno,SSC Bari,1-1,https://www.besoccer.com/match/livorno/as-bari/200935794,2009,26,serie_b
+Modena,Empoli,3-0,https://www.besoccer.com/match/modena-fc/empoli-fc/200935795,2009,26,serie_b
+Rimini,Piacenza,0-2,https://www.besoccer.com/match/rimini-calcio/piacenza/200935796,2009,26,serie_b
+Triestina ,Salernitana,3-1,https://www.besoccer.com/match/us-triestina-calcio/salernitana-calcio-1919/200935797,2009,26,serie_b
+Vicenza ,Pisa,0-0,https://www.besoccer.com/match/vicenza-calcio/pisa-calcio/200935798,2009,26,serie_b
+Avellino,Vicenza ,1-0,https://www.besoccer.com/match/us-avellino/vicenza-calcio/200935800,2009,27,serie_b
+SSC Bari,Ascoli,2-2,https://www.besoccer.com/match/as-bari/ascoli/200935801,2009,27,serie_b
+Empoli,Cittadella,0-1,https://www.besoccer.com/match/empoli-fc/as-cittadella/200935802,2009,27,serie_b
+Grosseto,Livorno,2-3,https://www.besoccer.com/match/us-grosseto/livorno/200935803,2009,27,serie_b
+Mantova,Triestina ,0-1,https://www.besoccer.com/match/ac-mantova/us-triestina-calcio/200935804,2009,27,serie_b
+Piacenza,AlbinoLeffe,1-2,https://www.besoccer.com/match/piacenza/uc-albinoleffe/200935806,2009,27,serie_b
+Sassuolo,Rimini,1-0,https://www.besoccer.com/match/us-sassuolo-calcio/rimini-calcio/200935808,2009,27,serie_b
+Treviso,Modena,0-1,https://www.besoccer.com/match/treviso/modena-fc/200935809,2009,27,serie_b
+Parma,Brescia,1-0,https://www.besoccer.com/match/parma-fc/brescia/200935805,2009,27,serie_b
+Ancona,Frosinone,1-4,https://www.besoccer.com/match/ancona/frosinone-calcio/200935799,2009,27,serie_b
+Pisa,Salernitana,0-0,https://www.besoccer.com/match/pisa-calcio/salernitana-calcio-1919/200935807,2009,27,serie_b
+Livorno,Empoli,0-0,https://www.besoccer.com/match/livorno/empoli-fc/200935813,2009,28,serie_b
+Ascoli,Avellino,2-1,https://www.besoccer.com/match/ascoli/us-avellino/200935811,2009,28,serie_b
+Frosinone,Brescia,0-3,https://www.besoccer.com/match/frosinone-calcio/brescia/200935812,2009,28,serie_b
+Mantova,SSC Bari,0-2,https://www.besoccer.com/match/ac-mantova/as-bari/200935814,2009,28,serie_b
+Modena,Parma,2-2,https://www.besoccer.com/match/modena-fc/parma-fc/200935815,2009,28,serie_b
+Rimini,Ancona,2-1,https://www.besoccer.com/match/rimini-calcio/ancona/200935816,2009,28,serie_b
+Salernitana,Piacenza,0-1,https://www.besoccer.com/match/salernitana-calcio-1919/piacenza/200935817,2009,28,serie_b
+Treviso,Sassuolo,2-3,https://www.besoccer.com/match/treviso/us-sassuolo-calcio/200935818,2009,28,serie_b
+Triestina ,Pisa,1-0,https://www.besoccer.com/match/us-triestina-calcio/pisa-calcio/200935819,2009,28,serie_b
+Vicenza ,Cittadella,1-1,https://www.besoccer.com/match/vicenza-calcio/as-cittadella/200935820,2009,28,serie_b
+AlbinoLeffe,Grosseto,4-1,https://www.besoccer.com/match/uc-albinoleffe/us-grosseto/200935810,2009,28,serie_b
+Cittadella,Triestina ,0-3,https://www.besoccer.com/match/as-cittadella/us-triestina-calcio/200935824,2009,29,serie_b
+Ancona,Vicenza ,3-2,https://www.besoccer.com/match/ancona/vicenza-calcio/200935821,2009,29,serie_b
+Brescia,Rimini,0-1,https://www.besoccer.com/match/brescia/rimini-calcio/200935823,2009,29,serie_b
+Empoli,Salernitana,2-0,https://www.besoccer.com/match/empoli-fc/salernitana-calcio-1919/200935825,2009,29,serie_b
+Frosinone,Livorno,1-1,https://www.besoccer.com/match/frosinone-calcio/livorno/200935826,2009,29,serie_b
+Grosseto,Ascoli,1-0,https://www.besoccer.com/match/us-grosseto/ascoli/200935827,2009,29,serie_b
+Parma,Treviso,0-0,https://www.besoccer.com/match/parma-fc/treviso/200935828,2009,29,serie_b
+Piacenza,Modena,1-0,https://www.besoccer.com/match/piacenza/modena-fc/200935829,2009,29,serie_b
+Pisa,AlbinoLeffe,2-0,https://www.besoccer.com/match/pisa-calcio/uc-albinoleffe/200935830,2009,29,serie_b
+Sassuolo,SSC Bari,1-3,https://www.besoccer.com/match/us-sassuolo-calcio/as-bari/200935831,2009,29,serie_b
+Avellino,Mantova,1-1,https://www.besoccer.com/match/us-avellino/ac-mantova/200935822,2009,29,serie_b
+Ascoli,Piacenza,2-0,https://www.besoccer.com/match/ascoli/piacenza/200935832,2009,30,serie_b
+Empoli,Parma,1-4,https://www.besoccer.com/match/empoli-fc/parma-fc/200935834,2009,30,serie_b
+SSC Bari,Avellino,3-0,https://www.besoccer.com/match/as-bari/us-avellino/200935833,2009,30,serie_b
+Livorno,Cittadella,1-1,https://www.besoccer.com/match/livorno/as-cittadella/200935835,2009,30,serie_b
+Mantova,Sassuolo,1-1,https://www.besoccer.com/match/ac-mantova/us-sassuolo-calcio/200935836,2009,30,serie_b
+Modena,Ancona,1-0,https://www.besoccer.com/match/modena-fc/ancona/200935837,2009,30,serie_b
+Rimini,Frosinone,0-0,https://www.besoccer.com/match/rimini-calcio/frosinone-calcio/200935838,2009,30,serie_b
+Salernitana,Grosseto,2-0,https://www.besoccer.com/match/salernitana-calcio-1919/us-grosseto/200935839,2009,30,serie_b
+Treviso,Pisa,0-2,https://www.besoccer.com/match/treviso/pisa-calcio/200935840,2009,30,serie_b
+Triestina ,Brescia,1-2,https://www.besoccer.com/match/us-triestina-calcio/brescia/200935841,2009,30,serie_b
+Vicenza ,AlbinoLeffe,0-3,https://www.besoccer.com/match/vicenza-calcio/uc-albinoleffe/200935842,2009,30,serie_b
+AlbinoLeffe,Triestina ,2-1,https://www.besoccer.com/match/uc-albinoleffe/us-triestina-calcio/200935843,2009,31,serie_b
+Ancona,Salernitana,3-1,https://www.besoccer.com/match/ancona/salernitana-calcio-1919/200935844,2009,31,serie_b
+Brescia,Modena,1-1,https://www.besoccer.com/match/brescia/modena-fc/200935845,2009,31,serie_b
+Cittadella,Ascoli,0-0,https://www.besoccer.com/match/as-cittadella/ascoli/200935846,2009,31,serie_b
+Frosinone,Avellino,2-0,https://www.besoccer.com/match/frosinone-calcio/us-avellino/200935847,2009,31,serie_b
+Grosseto,SSC Bari,1-1,https://www.besoccer.com/match/us-grosseto/as-bari/200935848,2009,31,serie_b
+Parma,Mantova,1-0,https://www.besoccer.com/match/parma-fc/ac-mantova/200935849,2009,31,serie_b
+Piacenza,Treviso,2-0,https://www.besoccer.com/match/piacenza/treviso/200935850,2009,31,serie_b
+Pisa,Empoli,2-0,https://www.besoccer.com/match/pisa-calcio/empoli-fc/200935851,2009,31,serie_b
+Rimini,Livorno,1-1,https://www.besoccer.com/match/rimini-calcio/livorno/200935852,2009,31,serie_b
+Sassuolo,Vicenza ,0-0,https://www.besoccer.com/match/us-sassuolo-calcio/vicenza-calcio/200935853,2009,31,serie_b
+Ascoli,AlbinoLeffe,2-2,https://www.besoccer.com/match/ascoli/uc-albinoleffe/200935854,2009,32,serie_b
+Avellino,Pisa,2-0,https://www.besoccer.com/match/us-avellino/pisa-calcio/200935855,2009,32,serie_b
+SSC Bari,Cittadella,2-0,https://www.besoccer.com/match/as-bari/as-cittadella/200935856,2009,32,serie_b
+Empoli,Sassuolo,3-2,https://www.besoccer.com/match/empoli-fc/us-sassuolo-calcio/200935857,2009,32,serie_b
+Livorno,Ancona,2-3,https://www.besoccer.com/match/livorno/ancona/200935858,2009,32,serie_b
+Mantova,Rimini,1-0,https://www.besoccer.com/match/ac-mantova/rimini-calcio/200935859,2009,32,serie_b
+Modena,Vicenza ,3-1,https://www.besoccer.com/match/modena-fc/vicenza-calcio/200935860,2009,32,serie_b
+Piacenza,Frosinone,3-0,https://www.besoccer.com/match/piacenza/frosinone-calcio/200935861,2009,32,serie_b
+Triestina ,Parma,0-3,https://www.besoccer.com/match/us-triestina-calcio/parma-fc/200935864,2009,32,serie_b
+Treviso,Grosseto,1-0,https://www.besoccer.com/match/treviso/us-grosseto/200935863,2009,32,serie_b
+Salernitana,Brescia,3-0,https://www.besoccer.com/match/salernitana-calcio-1919/brescia/200935862,2009,32,serie_b
+AlbinoLeffe,Treviso,2-0,https://www.besoccer.com/match/uc-albinoleffe/treviso/200935865,2009,33,serie_b
+Ancona,Empoli,1-2,https://www.besoccer.com/match/ancona/empoli-fc/200935866,2009,33,serie_b
+Brescia,Livorno,2-2,https://www.besoccer.com/match/brescia/livorno/200935867,2009,33,serie_b
+Cittadella,Modena,4-0,https://www.besoccer.com/match/as-cittadella/modena-fc/200935868,2009,33,serie_b
+Frosinone,Triestina ,2-2,https://www.besoccer.com/match/frosinone-calcio/us-triestina-calcio/200935869,2009,33,serie_b
+Grosseto,Mantova,1-1,https://www.besoccer.com/match/us-grosseto/ac-mantova/200935870,2009,33,serie_b
+Parma,Piacenza,1-1,https://www.besoccer.com/match/parma-fc/piacenza/200935871,2009,33,serie_b
+Vicenza ,Salernitana,2-0,https://www.besoccer.com/match/vicenza-calcio/salernitana-calcio-1919/200935875,2009,33,serie_b
+Pisa,SSC Bari,0-1,https://www.besoccer.com/match/pisa-calcio/as-bari/200935872,2009,33,serie_b
+Rimini,Ascoli,0-1,https://www.besoccer.com/match/rimini-calcio/ascoli/200935873,2009,33,serie_b
+Sassuolo,Avellino,1-1,https://www.besoccer.com/match/us-sassuolo-calcio/us-avellino/200935874,2009,33,serie_b
+Mantova,AlbinoLeffe,1-0,https://www.besoccer.com/match/ac-mantova/uc-albinoleffe/200935882,2009,34,serie_b
+Empoli,Frosinone,1-1,https://www.besoccer.com/match/empoli-fc/frosinone-calcio/200935880,2009,34,serie_b
+Ascoli,Pisa,1-0,https://www.besoccer.com/match/ascoli/pisa-calcio/200935876,2009,34,serie_b
+Avellino,Ancona,3-0,https://www.besoccer.com/match/us-avellino/ancona/200935877,2009,34,serie_b
+SSC Bari,Parma,0-2,https://www.besoccer.com/match/as-bari/parma-fc/200935878,2009,34,serie_b
+Cittadella,Sassuolo,1-1,https://www.besoccer.com/match/as-cittadella/us-sassuolo-calcio/200935879,2009,34,serie_b
+Livorno,Vicenza ,1-1,https://www.besoccer.com/match/livorno/vicenza-calcio/200935881,2009,34,serie_b
+Modena,Grosseto,1-1,https://www.besoccer.com/match/modena-fc/us-grosseto/200935883,2009,34,serie_b
+Piacenza,Brescia,2-2,https://www.besoccer.com/match/piacenza/brescia/200935884,2009,34,serie_b
+Salernitana,Treviso,2-2,https://www.besoccer.com/match/salernitana-calcio-1919/treviso/200935885,2009,34,serie_b
+Triestina ,Rimini,4-0,https://www.besoccer.com/match/us-triestina-calcio/rimini-calcio/200935886,2009,34,serie_b
+Vicenza ,Triestina ,1-0,https://www.besoccer.com/match/vicenza-calcio/us-triestina-calcio/200935897,2009,35,serie_b
+AlbinoLeffe,Cittadella,2-0,https://www.besoccer.com/match/uc-albinoleffe/as-cittadella/200935887,2009,35,serie_b
+Ancona,SSC Bari,0-3,https://www.besoccer.com/match/ancona/as-bari/200935888,2009,35,serie_b
+Brescia,Avellino,3-0,https://www.besoccer.com/match/brescia/us-avellino/200935889,2009,35,serie_b
+Frosinone,Modena,1-0,https://www.besoccer.com/match/frosinone-calcio/modena-fc/200935890,2009,35,serie_b
+Grosseto,Empoli,2-2,https://www.besoccer.com/match/us-grosseto/empoli-fc/200935891,2009,35,serie_b
+Parma,Ascoli,2-0,https://www.besoccer.com/match/parma-fc/ascoli/200935892,2009,35,serie_b
+Pisa,Mantova,1-1,https://www.besoccer.com/match/pisa-calcio/ac-mantova/200935893,2009,35,serie_b
+Rimini,Salernitana,2-0,https://www.besoccer.com/match/rimini-calcio/salernitana-calcio-1919/200935894,2009,35,serie_b
+Sassuolo,Piacenza,2-1,https://www.besoccer.com/match/us-sassuolo-calcio/piacenza/200935895,2009,35,serie_b
+Treviso,Livorno,0-4,https://www.besoccer.com/match/treviso/livorno/200935896,2009,35,serie_b
+Triestina ,Grosseto,2-3,https://www.besoccer.com/match/us-triestina-calcio/us-grosseto/200935907,2009,36,serie_b
+Ascoli,Frosinone,2-1,https://www.besoccer.com/match/ascoli/frosinone-calcio/200935898,2009,36,serie_b
+Avellino,Piacenza,1-1,https://www.besoccer.com/match/us-avellino/piacenza/200935899,2009,36,serie_b
+SSC Bari,Rimini,3-0,https://www.besoccer.com/match/as-bari/rimini-calcio/200935900,2009,36,serie_b
+Cittadella,Pisa,1-0,https://www.besoccer.com/match/as-cittadella/pisa-calcio/200935901,2009,36,serie_b
+Empoli,Treviso,2-1,https://www.besoccer.com/match/empoli-fc/treviso/200935902,2009,36,serie_b
+Livorno,Parma,2-2,https://www.besoccer.com/match/livorno/parma-fc/200935903,2009,36,serie_b
+Mantova,Ancona,2-2,https://www.besoccer.com/match/ac-mantova/ancona/200935904,2009,36,serie_b
+Modena,Sassuolo,2-0,https://www.besoccer.com/match/modena-fc/us-sassuolo-calcio/200935905,2009,36,serie_b
+Salernitana,AlbinoLeffe,4-2,https://www.besoccer.com/match/salernitana-calcio-1919/uc-albinoleffe/200935906,2009,36,serie_b
+Vicenza ,Brescia,1-2,https://www.besoccer.com/match/vicenza-calcio/brescia/200935908,2009,36,serie_b
+AlbinoLeffe,SSC Bari,1-4,https://www.besoccer.com/match/uc-albinoleffe/as-bari/200935909,2009,37,serie_b
+Brescia,Mantova,0-0,https://www.besoccer.com/match/brescia/ac-mantova/200935911,2009,37,serie_b
+Frosinone,Pisa,1-1,https://www.besoccer.com/match/frosinone-calcio/pisa-calcio/200935912,2009,37,serie_b
+Grosseto,Vicenza ,2-1,https://www.besoccer.com/match/us-grosseto/vicenza-calcio/200935913,2009,37,serie_b
+Livorno,Modena,1-2,https://www.besoccer.com/match/livorno/modena-fc/200935914,2009,37,serie_b
+Piacenza,Empoli,1-1,https://www.besoccer.com/match/piacenza/empoli-fc/200935916,2009,37,serie_b
+Rimini,Avellino,2-3,https://www.besoccer.com/match/rimini-calcio/us-avellino/200935917,2009,37,serie_b
+Sassuolo,Ascoli,1-0,https://www.besoccer.com/match/us-sassuolo-calcio/ascoli/200935918,2009,37,serie_b
+Treviso,Triestina ,1-0,https://www.besoccer.com/match/treviso/us-triestina-calcio/200935919,2009,37,serie_b
+Ancona,Cittadella,1-2,https://www.besoccer.com/match/ancona/as-cittadella/200935910,2009,37,serie_b
+Parma,Salernitana,0-0,https://www.besoccer.com/match/parma-fc/salernitana-calcio-1919/200935915,2009,37,serie_b
+Vicenza ,Rimini,2-0,https://www.besoccer.com/match/vicenza-calcio/rimini-calcio/200935930,2009,38,serie_b
+AlbinoLeffe,Brescia,1-1,https://www.besoccer.com/match/uc-albinoleffe/brescia/200935920,2009,38,serie_b
+Ascoli,Modena,1-2,https://www.besoccer.com/match/ascoli/modena-fc/200935921,2009,38,serie_b
+Avellino,Parma,3-3,https://www.besoccer.com/match/us-avellino/parma-fc/200935922,2009,38,serie_b
+Cittadella,Grosseto,0-2,https://www.besoccer.com/match/as-cittadella/us-grosseto/200935924,2009,38,serie_b
+Mantova,Treviso,3-1,https://www.besoccer.com/match/ac-mantova/treviso/200935925,2009,38,serie_b
+Pisa,Ancona,2-0,https://www.besoccer.com/match/pisa-calcio/ancona/200935926,2009,38,serie_b
+Salernitana,Livorno,0-2,https://www.besoccer.com/match/salernitana-calcio-1919/livorno/200935927,2009,38,serie_b
+Sassuolo,Frosinone,1-1,https://www.besoccer.com/match/us-sassuolo-calcio/frosinone-calcio/200935928,2009,38,serie_b
+Triestina ,Piacenza,0-0,https://www.besoccer.com/match/us-triestina-calcio/piacenza/200935929,2009,38,serie_b
+SSC Bari,Empoli,0-0,https://www.besoccer.com/match/as-bari/empoli-fc/200935923,2009,38,serie_b
+Livorno,Triestina ,0-1,https://www.besoccer.com/match/livorno/us-triestina-calcio/200935935,2009,39,serie_b
+Ancona,Sassuolo,2-1,https://www.besoccer.com/match/ancona/us-sassuolo-calcio/200935931,2009,39,serie_b
+Brescia,Cittadella,0-0,https://www.besoccer.com/match/brescia/as-cittadella/200935932,2009,39,serie_b
+Empoli,Ascoli,3-0,https://www.besoccer.com/match/empoli-fc/ascoli/200935933,2009,39,serie_b
+Frosinone,AlbinoLeffe,2-0,https://www.besoccer.com/match/frosinone-calcio/uc-albinoleffe/200935934,2009,39,serie_b
+Modena,Mantova,1-0,https://www.besoccer.com/match/modena-fc/ac-mantova/200935936,2009,39,serie_b
+Parma,Pisa,2-0,https://www.besoccer.com/match/parma-fc/pisa-calcio/200935937,2009,39,serie_b
+Piacenza,SSC Bari,2-2,https://www.besoccer.com/match/piacenza/as-bari/200935938,2009,39,serie_b
+Rimini,Grosseto,2-0,https://www.besoccer.com/match/rimini-calcio/us-grosseto/200935939,2009,39,serie_b
+Salernitana,Avellino,1-0,https://www.besoccer.com/match/salernitana-calcio-1919/us-avellino/200935940,2009,39,serie_b
+Treviso,Vicenza ,0-1,https://www.besoccer.com/match/treviso/vicenza-calcio/200935941,2009,39,serie_b
+Pisa,Piacenza,1-3,https://www.besoccer.com/match/pisa-calcio/piacenza/200935949,2009,40,serie_b
+AlbinoLeffe,Rimini,1-2,https://www.besoccer.com/match/uc-albinoleffe/rimini-calcio/200935942,2009,40,serie_b
+Ascoli,Salernitana,0-2,https://www.besoccer.com/match/ascoli/salernitana-calcio-1919/200935943,2009,40,serie_b
+Avellino,Treviso,1-0,https://www.besoccer.com/match/us-avellino/treviso/200935944,2009,40,serie_b
+SSC Bari,Modena,4-1,https://www.besoccer.com/match/as-bari/modena-fc/200935945,2009,40,serie_b
+Cittadella,Parma,2-2,https://www.besoccer.com/match/as-cittadella/parma-fc/200935946,2009,40,serie_b
+Grosseto,Brescia,2-1,https://www.besoccer.com/match/us-grosseto/brescia/200935947,2009,40,serie_b
+Mantova,Empoli,1-1,https://www.besoccer.com/match/ac-mantova/empoli-fc/200935948,2009,40,serie_b
+Sassuolo,Livorno,2-3,https://www.besoccer.com/match/us-sassuolo-calcio/livorno/200935950,2009,40,serie_b
+Triestina ,Ancona,1-0,https://www.besoccer.com/match/us-triestina-calcio/ancona/200935951,2009,40,serie_b
+Vicenza ,Frosinone,0-1,https://www.besoccer.com/match/vicenza-calcio/frosinone-calcio/200935952,2009,40,serie_b
+Ancona,Grosseto,1-1,https://www.besoccer.com/match/ancona/us-grosseto/200935953,2009,41,serie_b
+Brescia,Sassuolo,4-2,https://www.besoccer.com/match/brescia/us-sassuolo-calcio/200935954,2009,41,serie_b
+Empoli,Triestina ,4-0,https://www.besoccer.com/match/empoli-fc/us-triestina-calcio/200935955,2009,41,serie_b
+Frosinone,Cittadella,1-0,https://www.besoccer.com/match/frosinone-calcio/as-cittadella/200935956,2009,41,serie_b
+Livorno,AlbinoLeffe,0-1,https://www.besoccer.com/match/livorno/uc-albinoleffe/200935957,2009,41,serie_b
+Modena,Avellino,2-1,https://www.besoccer.com/match/modena-fc/us-avellino/200935958,2009,41,serie_b
+Parma,Vicenza ,4-0,https://www.besoccer.com/match/parma-fc/vicenza-calcio/200935959,2009,41,serie_b
+Piacenza,Mantova,1-2,https://www.besoccer.com/match/piacenza/ac-mantova/200935960,2009,41,serie_b
+Rimini,Pisa,1-1,https://www.besoccer.com/match/rimini-calcio/pisa-calcio/200935961,2009,41,serie_b
+Salernitana,SSC Bari,3-2,https://www.besoccer.com/match/salernitana-calcio-1919/as-bari/200935962,2009,41,serie_b
+Treviso,Ascoli,1-1,https://www.besoccer.com/match/treviso/ascoli/200935963,2009,41,serie_b
+AlbinoLeffe,Ancona,3-4,https://www.besoccer.com/match/uc-albinoleffe/ancona/200935964,2009,42,serie_b
+Ascoli,Livorno,2-3,https://www.besoccer.com/match/ascoli/livorno/200935965,2009,42,serie_b
+Avellino,Empoli,0-1,https://www.besoccer.com/match/us-avellino/empoli-fc/200935966,2009,42,serie_b
+SSC Bari,Treviso,4-1,https://www.besoccer.com/match/as-bari/treviso/200935967,2009,42,serie_b
+Cittadella,Rimini,2-0,https://www.besoccer.com/match/as-cittadella/rimini-calcio/200935968,2009,42,serie_b
+Grosseto,Frosinone,2-1,https://www.besoccer.com/match/us-grosseto/frosinone-calcio/200935969,2009,42,serie_b
+Mantova,Salernitana,1-1,https://www.besoccer.com/match/ac-mantova/salernitana-calcio-1919/200935970,2009,42,serie_b
+Pisa,Brescia,0-1,https://www.besoccer.com/match/pisa-calcio/brescia/200935971,2009,42,serie_b
+Sassuolo,Parma,2-2,https://www.besoccer.com/match/us-sassuolo-calcio/parma-fc/200935972,2009,42,serie_b
+Triestina ,Modena,0-1,https://www.besoccer.com/match/us-triestina-calcio/modena-fc/200935973,2009,42,serie_b
+Vicenza ,Piacenza,1-2,https://www.besoccer.com/match/vicenza-calcio/piacenza/200935974,2009,42,serie_b

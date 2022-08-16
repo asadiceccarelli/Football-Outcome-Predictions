@@ -1,0 +1,463 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Arsenal,Norwich City,2-4,https://www.besoccer.com/match/arsenal/norwich-city-fc/19934513,1993,1,premier_league
+Chelsea,Oldham Athletic AFC,1-1,https://www.besoccer.com/match/chelsea-fc/oldham-athletic-afc/19934514,1993,1,premier_league
+Coventry City,Middlesbrough,2-1,https://www.besoccer.com/match/coventry-city/middlesbrough-fc/19934515,1993,1,premier_league
+Crystal Palace,Blackburn Rovers,3-3,https://www.besoccer.com/match/crystal-palace-fc/blackburn-rovers-fc/19934516,1993,1,premier_league
+Everton,Sheffield Wednesday,1-1,https://www.besoccer.com/match/everton-fc/sheffield-wednesday-fc/19934517,1993,1,premier_league
+Ipswich Town,Aston Villa,1-1,https://www.besoccer.com/match/ipswich-town-fc/aston-villa-fc/19934518,1993,1,premier_league
+Leeds United,Wimbledon FC,2-1,https://www.besoccer.com/match/leeds-united-afc/wimbledon-fc/19934519,1993,1,premier_league
+Sheffield United,Man. Utd,2-1,https://www.besoccer.com/match/sheffield-united/manchester-united-fc/19934520,1993,1,premier_league
+Southampton,Tottenham Hotspur,0-0,https://www.besoccer.com/match/southampton-fc/tottenham-hotspur-fc/19934521,1993,1,premier_league
+Nottingham Forest,Liverpool,1-0,https://www.besoccer.com/match/nottingham-forest-fc/liverpool/19934522,1993,1,premier_league
+Man. City,Queens Park Rangers,1-1,https://www.besoccer.com/match/manchester-city-fc/queens-park-rangers-fc/19934523,1993,1,premier_league
+Blackburn Rovers,Arsenal,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/arsenal/19934524,1993,2,premier_league
+Wimbledon FC,Ipswich Town,0-1,https://www.besoccer.com/match/wimbledon-fc/ipswich-town-fc/19934525,1993,2,premier_league
+Aston Villa,Leeds United,1-1,https://www.besoccer.com/match/aston-villa-fc/leeds-united-afc/19934526,1993,2,premier_league
+Liverpool,Sheffield United,2-1,https://www.besoccer.com/match/liverpool/sheffield-united/19934527,1993,2,premier_league
+Man. Utd,Everton,0-3,https://www.besoccer.com/match/manchester-united-fc/everton-fc/19934528,1993,2,premier_league
+Middlesbrough,Man. City,2-0,https://www.besoccer.com/match/middlesbrough-fc/manchester-city-fc/19934529,1993,2,premier_league
+Norwich City,Chelsea,2-1,https://www.besoccer.com/match/norwich-city-fc/chelsea-fc/19934530,1993,2,premier_league
+Oldham Athletic AFC,Crystal Palace,1-1,https://www.besoccer.com/match/oldham-athletic-afc/crystal-palace-fc/19934531,1993,2,premier_league
+Queens Park Rangers,Southampton,3-1,https://www.besoccer.com/match/queens-park-rangers-fc/southampton-fc/19934532,1993,2,premier_league
+Sheffield Wednesday,Nottingham Forest,2-0,https://www.besoccer.com/match/sheffield-wednesday-fc/nottingham-forest-fc/19934533,1993,2,premier_league
+Tottenham Hotspur,Coventry City,0-2,https://www.besoccer.com/match/tottenham-hotspur-fc/coventry-city/19934534,1993,2,premier_league
+Aston Villa,Southampton,1-1,https://www.besoccer.com/match/aston-villa-fc/southampton-fc/19934535,1993,3,premier_league
+Blackburn Rovers,Man. City,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/manchester-city-fc/19934536,1993,3,premier_league
+Man. Utd,Ipswich Town,1-1,https://www.besoccer.com/match/manchester-united-fc/ipswich-town-fc/19934537,1993,3,premier_league
+Middlesbrough,Leeds United,4-1,https://www.besoccer.com/match/middlesbrough-fc/leeds-united-afc/19934538,1993,3,premier_league
+Norwich City,Everton,1-1,https://www.besoccer.com/match/norwich-city-fc/everton-fc/19934539,1993,3,premier_league
+Oldham Athletic AFC,Nottingham Forest,5-3,https://www.besoccer.com/match/oldham-athletic-afc/nottingham-forest-fc/19934540,1993,3,premier_league
+Queens Park Rangers,Sheffield United,3-2,https://www.besoccer.com/match/queens-park-rangers-fc/sheffield-united/19934541,1993,3,premier_league
+Sheffield Wednesday,Chelsea,3-3,https://www.besoccer.com/match/sheffield-wednesday-fc/chelsea-fc/19934542,1993,3,premier_league
+Tottenham Hotspur,Crystal Palace,2-2,https://www.besoccer.com/match/tottenham-hotspur-fc/crystal-palace-fc/19934543,1993,3,premier_league
+Wimbledon FC,Coventry City,1-2,https://www.besoccer.com/match/wimbledon-fc/coventry-city/19934544,1993,3,premier_league
+Liverpool,Arsenal,0-2,https://www.besoccer.com/match/liverpool/arsenal/19934545,1993,3,premier_league
+Southampton,Man. Utd,0-1,https://www.besoccer.com/match/southampton-fc/manchester-united-fc/19934546,1993,4,premier_league
+Crystal Palace,Sheffield Wednesday,1-1,https://www.besoccer.com/match/crystal-palace-fc/sheffield-wednesday-fc/19934547,1993,4,premier_league
+Everton,Aston Villa,1-0,https://www.besoccer.com/match/everton-fc/aston-villa-fc/19934548,1993,4,premier_league
+Ipswich Town,Liverpool,2-2,https://www.besoccer.com/match/ipswich-town-fc/liverpool/19934549,1993,4,premier_league
+Leeds United,Tottenham Hotspur,5-0,https://www.besoccer.com/match/leeds-united-afc/tottenham-hotspur-fc/19934550,1993,4,premier_league
+Sheffield United,Wimbledon FC,2-2,https://www.besoccer.com/match/sheffield-united/wimbledon-fc/19934551,1993,4,premier_league
+Arsenal,Oldham Athletic AFC,2-0,https://www.besoccer.com/match/arsenal/oldham-athletic-afc/19934552,1993,4,premier_league
+Chelsea,Blackburn Rovers,0-0,https://www.besoccer.com/match/chelsea-fc/blackburn-rovers-fc/19934553,1993,4,premier_league
+Coventry City,Queens Park Rangers,0-1,https://www.besoccer.com/match/coventry-city/queens-park-rangers-fc/19934554,1993,4,premier_league
+Man. City,Norwich City,3-1,https://www.besoccer.com/match/manchester-city-fc/norwich-city-fc/19934555,1993,4,premier_league
+Nottingham Forest,Middlesbrough,1-0,https://www.besoccer.com/match/nottingham-forest-fc/middlesbrough-fc/19934556,1993,4,premier_league
+Arsenal,Sheffield Wednesday,2-1,https://www.besoccer.com/match/arsenal/sheffield-wednesday-fc/19934557,1993,5,premier_league
+Chelsea,Queens Park Rangers,1-0,https://www.besoccer.com/match/chelsea-fc/queens-park-rangers-fc/19934558,1993,5,premier_league
+Coventry City,Blackburn Rovers,0-2,https://www.besoccer.com/match/coventry-city/blackburn-rovers-fc/19934559,1993,5,premier_league
+Crystal Palace,Norwich City,1-2,https://www.besoccer.com/match/crystal-palace-fc/norwich-city-fc/19934560,1993,5,premier_league
+Everton,Wimbledon FC,0-0,https://www.besoccer.com/match/everton-fc/wimbledon-fc/19934561,1993,5,premier_league
+Leeds United,Liverpool,2-2,https://www.besoccer.com/match/leeds-united-afc/liverpool/19934562,1993,5,premier_league
+Man. City,Oldham Athletic AFC,3-3,https://www.besoccer.com/match/manchester-city-fc/oldham-athletic-afc/19934563,1993,5,premier_league
+Nottingham Forest,Man. Utd,0-2,https://www.besoccer.com/match/nottingham-forest-fc/manchester-united-fc/19934564,1993,5,premier_league
+Sheffield United,Aston Villa,0-2,https://www.besoccer.com/match/sheffield-united/aston-villa-fc/19934565,1993,5,premier_league
+Southampton,Middlesbrough,2-1,https://www.besoccer.com/match/southampton-fc/middlesbrough-fc/19934566,1993,5,premier_league
+Ipswich Town,Tottenham Hotspur,1-1,https://www.besoccer.com/match/ipswich-town-fc/tottenham-hotspur-fc/19934567,1993,5,premier_league
+Norwich City,Nottingham Forest,3-1,https://www.besoccer.com/match/norwich-city-fc/nottingham-forest-fc/19934568,1993,6,premier_league
+Liverpool,Southampton,1-1,https://www.besoccer.com/match/liverpool/southampton-fc/19934569,1993,6,premier_league
+Middlesbrough,Ipswich Town,2-2,https://www.besoccer.com/match/middlesbrough-fc/ipswich-town-fc/19934570,1993,6,premier_league
+Oldham Athletic AFC,Leeds United,2-2,https://www.besoccer.com/match/oldham-athletic-afc/leeds-united-afc/19934571,1993,6,premier_league
+Wimbledon FC,Man. City,0-1,https://www.besoccer.com/match/wimbledon-fc/manchester-city-fc/19934572,1993,6,premier_league
+Aston Villa,Chelsea,1-3,https://www.besoccer.com/match/aston-villa-fc/chelsea-fc/19934573,1993,6,premier_league
+Man. Utd,Crystal Palace,1-0,https://www.besoccer.com/match/manchester-united-fc/crystal-palace-fc/19934574,1993,6,premier_league
+Queens Park Rangers,Arsenal,0-0,https://www.besoccer.com/match/queens-park-rangers-fc/arsenal/19934575,1993,6,premier_league
+Sheffield Wednesday,Coventry City,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/coventry-city/19934576,1993,6,premier_league
+Tottenham Hotspur,Sheffield United,2-0,https://www.besoccer.com/match/tottenham-hotspur-fc/sheffield-united/19934577,1993,6,premier_league
+Blackburn Rovers,Everton,2-3,https://www.besoccer.com/match/blackburn-rovers-fc/everton-fc/19934578,1993,6,premier_league
+Aston Villa,Crystal Palace,3-0,https://www.besoccer.com/match/aston-villa-fc/crystal-palace-fc/19934579,1993,7,premier_league
+Blackburn Rovers,Nottingham Forest,4-1,https://www.besoccer.com/match/blackburn-rovers-fc/nottingham-forest-fc/19934580,1993,7,premier_league
+Liverpool,Chelsea,2-1,https://www.besoccer.com/match/liverpool/chelsea-fc/19934581,1993,7,premier_league
+Middlesbrough,Sheffield United,2-0,https://www.besoccer.com/match/middlesbrough-fc/sheffield-united/19934582,1993,7,premier_league
+Norwich City,Southampton,1-0,https://www.besoccer.com/match/norwich-city-fc/southampton-fc/19934583,1993,7,premier_league
+Oldham Athletic AFC,Coventry City,0-1,https://www.besoccer.com/match/oldham-athletic-afc/coventry-city/19934584,1993,7,premier_league
+Queens Park Rangers,Ipswich Town,0-0,https://www.besoccer.com/match/queens-park-rangers-fc/ipswich-town-fc/19934585,1993,7,premier_league
+Sheffield Wednesday,Man. City,0-3,https://www.besoccer.com/match/sheffield-wednesday-fc/manchester-city-fc/19934586,1993,7,premier_league
+Tottenham Hotspur,Everton,2-1,https://www.besoccer.com/match/tottenham-hotspur-fc/everton-fc/19934587,1993,7,premier_league
+Wimbledon FC,Arsenal,3-2,https://www.besoccer.com/match/wimbledon-fc/arsenal/19934588,1993,7,premier_league
+Man. Utd,Leeds United,2-0,https://www.besoccer.com/match/manchester-united-fc/leeds-united-afc/19934589,1993,7,premier_league
+Arsenal,Blackburn Rovers,0-1,https://www.besoccer.com/match/arsenal/blackburn-rovers-fc/19934590,1993,8,premier_league
+Chelsea,Norwich City,2-3,https://www.besoccer.com/match/chelsea-fc/norwich-city-fc/19934591,1993,8,premier_league
+Crystal Palace,Oldham Athletic AFC,2-2,https://www.besoccer.com/match/crystal-palace-fc/oldham-athletic-afc/19934592,1993,8,premier_league
+Everton,Man. Utd,0-2,https://www.besoccer.com/match/everton-fc/manchester-united-fc/19934593,1993,8,premier_league
+Ipswich Town,Wimbledon FC,2-1,https://www.besoccer.com/match/ipswich-town-fc/wimbledon-fc/19934594,1993,8,premier_league
+Man. City,Middlesbrough,0-1,https://www.besoccer.com/match/manchester-city-fc/middlesbrough-fc/19934595,1993,8,premier_league
+Nottingham Forest,Sheffield Wednesday,1-2,https://www.besoccer.com/match/nottingham-forest-fc/sheffield-wednesday-fc/19934596,1993,8,premier_league
+Sheffield United,Liverpool,1-0,https://www.besoccer.com/match/sheffield-united/liverpool/19934597,1993,8,premier_league
+Southampton,Queens Park Rangers,1-2,https://www.besoccer.com/match/southampton-fc/queens-park-rangers-fc/19934598,1993,8,premier_league
+Leeds United,Aston Villa,1-1,https://www.besoccer.com/match/leeds-united-afc/aston-villa-fc/19934599,1993,8,premier_league
+Coventry City,Tottenham Hotspur,1-0,https://www.besoccer.com/match/coventry-city/tottenham-hotspur-fc/19934600,1993,8,premier_league
+Aston Villa,Liverpool,4-2,https://www.besoccer.com/match/aston-villa-fc/liverpool/19934601,1993,9,premier_league
+Everton,Crystal Palace,0-2,https://www.besoccer.com/match/everton-fc/crystal-palace-fc/19934602,1993,9,premier_league
+Norwich City,Sheffield Wednesday,1-0,https://www.besoccer.com/match/norwich-city-fc/sheffield-wednesday-fc/19934603,1993,9,premier_league
+Oldham Athletic AFC,Ipswich Town,4-2,https://www.besoccer.com/match/oldham-athletic-afc/ipswich-town-fc/19934604,1993,9,premier_league
+Queens Park Rangers,Middlesbrough,3-3,https://www.besoccer.com/match/queens-park-rangers-fc/middlesbrough-fc/19934605,1993,9,premier_league
+Sheffield United,Arsenal,1-1,https://www.besoccer.com/match/sheffield-united/arsenal/19934606,1993,9,premier_league
+Southampton,Leeds United,1-1,https://www.besoccer.com/match/southampton-fc/leeds-united-afc/19934607,1993,9,premier_league
+Tottenham Hotspur,Man. Utd,1-1,https://www.besoccer.com/match/tottenham-hotspur-fc/manchester-united-fc/19934608,1993,9,premier_league
+Wimbledon FC,Blackburn Rovers,1-1,https://www.besoccer.com/match/wimbledon-fc/blackburn-rovers-fc/19934609,1993,9,premier_league
+Man. City,Chelsea,0-1,https://www.besoccer.com/match/manchester-city-fc/chelsea-fc/19934610,1993,9,premier_league
+Nottingham Forest,Coventry City,1-1,https://www.besoccer.com/match/nottingham-forest-fc/coventry-city/19934611,1993,9,premier_league
+Blackburn Rovers,Oldham Athletic AFC,2-0,https://www.besoccer.com/match/blackburn-rovers-fc/oldham-athletic-afc/19934612,1993,10,premier_league
+Chelsea,Nottingham Forest,0-0,https://www.besoccer.com/match/chelsea-fc/nottingham-forest-fc/19934613,1993,10,premier_league
+Coventry City,Norwich City,1-1,https://www.besoccer.com/match/coventry-city/norwich-city-fc/19934614,1993,10,premier_league
+Crystal Palace,Southampton,1-2,https://www.besoccer.com/match/crystal-palace-fc/southampton-fc/19934615,1993,10,premier_league
+Ipswich Town,Sheffield United,0-0,https://www.besoccer.com/match/ipswich-town-fc/sheffield-united/19934616,1993,10,premier_league
+Leeds United,Everton,2-0,https://www.besoccer.com/match/leeds-united-afc/everton-fc/19934617,1993,10,premier_league
+Liverpool,Wimbledon FC,2-3,https://www.besoccer.com/match/liverpool/wimbledon-fc/19934618,1993,10,premier_league
+Man. Utd,Queens Park Rangers,0-0,https://www.besoccer.com/match/manchester-united-fc/queens-park-rangers-fc/19934619,1993,10,premier_league
+Middlesbrough,Aston Villa,2-3,https://www.besoccer.com/match/middlesbrough-fc/aston-villa-fc/19934620,1993,10,premier_league
+Sheffield Wednesday,Tottenham Hotspur,2-0,https://www.besoccer.com/match/sheffield-wednesday-fc/tottenham-hotspur-fc/19934621,1993,10,premier_league
+Arsenal,Man. City,1-0,https://www.besoccer.com/match/arsenal/manchester-city-fc/19934622,1993,10,premier_league
+Arsenal,Chelsea,2-1,https://www.besoccer.com/match/arsenal/chelsea-fc/19934623,1993,11,premier_league
+Blackburn Rovers,Norwich City,7-1,https://www.besoccer.com/match/blackburn-rovers-fc/norwich-city-fc/19934624,1993,11,premier_league
+Coventry City,Crystal Palace,2-2,https://www.besoccer.com/match/coventry-city/crystal-palace-fc/19934625,1993,11,premier_league
+Ipswich Town,Leeds United,4-2,https://www.besoccer.com/match/ipswich-town-fc/leeds-united-afc/19934626,1993,11,premier_league
+Liverpool,Sheffield Wednesday,1-0,https://www.besoccer.com/match/liverpool/sheffield-wednesday-fc/19934627,1993,11,premier_league
+Man. City,Nottingham Forest,2-2,https://www.besoccer.com/match/manchester-city-fc/nottingham-forest-fc/19934628,1993,11,premier_league
+Middlesbrough,Man. Utd,1-1,https://www.besoccer.com/match/middlesbrough-fc/manchester-united-fc/19934629,1993,11,premier_league
+Queens Park Rangers,Tottenham Hotspur,4-1,https://www.besoccer.com/match/queens-park-rangers-fc/tottenham-hotspur-fc/19934630,1993,11,premier_league
+Sheffield United,Southampton,2-0,https://www.besoccer.com/match/sheffield-united/southampton-fc/19934631,1993,11,premier_league
+Wimbledon FC,Aston Villa,2-3,https://www.besoccer.com/match/wimbledon-fc/aston-villa-fc/19934632,1993,11,premier_league
+Oldham Athletic AFC,Everton,1-0,https://www.besoccer.com/match/oldham-athletic-afc/everton-fc/19934633,1993,11,premier_league
+Chelsea,Ipswich Town,2-1,https://www.besoccer.com/match/chelsea-fc/ipswich-town-fc/19934634,1993,12,premier_league
+Crystal Palace,Man. City,0-0,https://www.besoccer.com/match/crystal-palace-fc/manchester-city-fc/19934635,1993,12,premier_league
+Everton,Coventry City,1-1,https://www.besoccer.com/match/everton-fc/coventry-city/19934636,1993,12,premier_league
+Leeds United,Sheffield United,3-1,https://www.besoccer.com/match/leeds-united-afc/sheffield-united/19934637,1993,12,premier_league
+Norwich City,Queens Park Rangers,2-1,https://www.besoccer.com/match/norwich-city-fc/queens-park-rangers-fc/19934638,1993,12,premier_league
+Nottingham Forest,Arsenal,0-1,https://www.besoccer.com/match/nottingham-forest-fc/arsenal/19934639,1993,12,premier_league
+Sheffield Wednesday,Oldham Athletic AFC,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/oldham-athletic-afc/19934640,1993,12,premier_league
+Southampton,Wimbledon FC,2-2,https://www.besoccer.com/match/southampton-fc/wimbledon-fc/19934641,1993,12,premier_league
+Tottenham Hotspur,Middlesbrough,2-2,https://www.besoccer.com/match/tottenham-hotspur-fc/middlesbrough-fc/19934642,1993,12,premier_league
+Man. Utd,Liverpool,2-2,https://www.besoccer.com/match/manchester-united-fc/liverpool/19934643,1993,12,premier_league
+Aston Villa,Blackburn Rovers,0-0,https://www.besoccer.com/match/aston-villa-fc/blackburn-rovers-fc/19934644,1993,12,premier_league
+Arsenal,Everton,2-0,https://www.besoccer.com/match/arsenal/everton-fc/19934645,1993,13,premier_league
+Blackburn Rovers,Man. Utd,0-0,https://www.besoccer.com/match/blackburn-rovers-fc/manchester-united-fc/19934646,1993,13,premier_league
+Coventry City,Chelsea,1-2,https://www.besoccer.com/match/coventry-city/chelsea-fc/19934647,1993,13,premier_league
+Ipswich Town,Crystal Palace,2-2,https://www.besoccer.com/match/ipswich-town-fc/crystal-palace-fc/19934648,1993,13,premier_league
+Man. City,Southampton,1-0,https://www.besoccer.com/match/manchester-city-fc/southampton-fc/19934649,1993,13,premier_league
+Middlesbrough,Sheffield Wednesday,1-1,https://www.besoccer.com/match/middlesbrough-fc/sheffield-wednesday-fc/19934650,1993,13,premier_league
+Oldham Athletic AFC,Aston Villa,1-1,https://www.besoccer.com/match/oldham-athletic-afc/aston-villa-fc/19934651,1993,13,premier_league
+Queens Park Rangers,Leeds United,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/leeds-united-afc/19934652,1993,13,premier_league
+Sheffield United,Nottingham Forest,0-0,https://www.besoccer.com/match/sheffield-united/nottingham-forest-fc/19934653,1993,13,premier_league
+Liverpool,Norwich City,4-1,https://www.besoccer.com/match/liverpool/norwich-city-fc/19934654,1993,13,premier_league
+Wimbledon FC,Tottenham Hotspur,1-1,https://www.besoccer.com/match/wimbledon-fc/tottenham-hotspur-fc/19934655,1993,13,premier_league
+Chelsea,Sheffield United,1-2,https://www.besoccer.com/match/chelsea-fc/sheffield-united/19934656,1993,14,premier_league
+Everton,Man. City,1-3,https://www.besoccer.com/match/everton-fc/manchester-city-fc/19934657,1993,14,premier_league
+Leeds United,Coventry City,2-2,https://www.besoccer.com/match/leeds-united-afc/coventry-city/19934658,1993,14,premier_league
+Man. Utd,Wimbledon FC,0-1,https://www.besoccer.com/match/manchester-united-fc/wimbledon-fc/19934659,1993,14,premier_league
+Norwich City,Middlesbrough,1-1,https://www.besoccer.com/match/norwich-city-fc/middlesbrough-fc/19934660,1993,14,premier_league
+Nottingham Forest,Ipswich Town,0-1,https://www.besoccer.com/match/nottingham-forest-fc/ipswich-town-fc/19934661,1993,14,premier_league
+Sheffield Wednesday,Blackburn Rovers,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/blackburn-rovers-fc/19934662,1993,14,premier_league
+Southampton,Oldham Athletic AFC,1-0,https://www.besoccer.com/match/southampton-fc/oldham-athletic-afc/19934663,1993,14,premier_league
+Tottenham Hotspur,Liverpool,2-0,https://www.besoccer.com/match/tottenham-hotspur-fc/liverpool/19934664,1993,14,premier_league
+Aston Villa,Queens Park Rangers,2-0,https://www.besoccer.com/match/aston-villa-fc/queens-park-rangers-fc/19934665,1993,14,premier_league
+Crystal Palace,Arsenal,1-2,https://www.besoccer.com/match/crystal-palace-fc/arsenal/19934666,1993,14,premier_league
+Arsenal,Coventry City,3-0,https://www.besoccer.com/match/arsenal/coventry-city/19934667,1993,15,premier_league
+Aston Villa,Man. Utd,1-0,https://www.besoccer.com/match/aston-villa-fc/manchester-united-fc/19934668,1993,15,premier_league
+Blackburn Rovers,Tottenham Hotspur,0-2,https://www.besoccer.com/match/blackburn-rovers-fc/tottenham-hotspur-fc/19934669,1993,15,premier_league
+Chelsea,Crystal Palace,3-1,https://www.besoccer.com/match/chelsea-fc/crystal-palace-fc/19934670,1993,15,premier_league
+Ipswich Town,Southampton,0-0,https://www.besoccer.com/match/ipswich-town-fc/southampton-fc/19934671,1993,15,premier_league
+Liverpool,Middlesbrough,4-1,https://www.besoccer.com/match/liverpool/middlesbrough-fc/19934672,1993,15,premier_league
+Man. City,Leeds United,4-0,https://www.besoccer.com/match/manchester-city-fc/leeds-united-afc/19934673,1993,15,premier_league
+Nottingham Forest,Everton,0-1,https://www.besoccer.com/match/nottingham-forest-fc/everton-fc/19934674,1993,15,premier_league
+Wimbledon FC,Queens Park Rangers,0-2,https://www.besoccer.com/match/wimbledon-fc/queens-park-rangers-fc/19934675,1993,15,premier_league
+Sheffield United,Sheffield Wednesday,1-1,https://www.besoccer.com/match/sheffield-united/sheffield-wednesday-fc/19934676,1993,15,premier_league
+Oldham Athletic AFC,Norwich City,2-3,https://www.besoccer.com/match/oldham-athletic-afc/norwich-city-fc/19934677,1993,15,premier_league
+Coventry City,Man. City,2-3,https://www.besoccer.com/match/coventry-city/manchester-city-fc/19934678,1993,16,premier_league
+Crystal Palace,Nottingham Forest,1-1,https://www.besoccer.com/match/crystal-palace-fc/nottingham-forest-fc/19934679,1993,16,premier_league
+Everton,Chelsea,0-1,https://www.besoccer.com/match/everton-fc/chelsea-fc/19934680,1993,16,premier_league
+Leeds United,Arsenal,3-0,https://www.besoccer.com/match/leeds-united-afc/arsenal/19934681,1993,16,premier_league
+Man. Utd,Oldham Athletic AFC,3-0,https://www.besoccer.com/match/manchester-united-fc/oldham-athletic-afc/19934682,1993,16,premier_league
+Middlesbrough,Wimbledon FC,2-0,https://www.besoccer.com/match/middlesbrough-fc/wimbledon-fc/19934683,1993,16,premier_league
+Norwich City,Sheffield United,2-1,https://www.besoccer.com/match/norwich-city-fc/sheffield-united/19934684,1993,16,premier_league
+Sheffield Wednesday,Ipswich Town,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/ipswich-town-fc/19934685,1993,16,premier_league
+Tottenham Hotspur,Aston Villa,0-0,https://www.besoccer.com/match/tottenham-hotspur-fc/aston-villa-fc/19934686,1993,16,premier_league
+Southampton,Blackburn Rovers,1-1,https://www.besoccer.com/match/southampton-fc/blackburn-rovers-fc/19934687,1993,16,premier_league
+Queens Park Rangers,Liverpool,0-1,https://www.besoccer.com/match/queens-park-rangers-fc/liverpool/19934688,1993,16,premier_league
+Arsenal,Man. Utd,0-1,https://www.besoccer.com/match/arsenal/manchester-united-fc/19934689,1993,17,premier_league
+Aston Villa,Norwich City,2-3,https://www.besoccer.com/match/aston-villa-fc/norwich-city-fc/19934690,1993,17,premier_league
+Blackburn Rovers,Queens Park Rangers,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/queens-park-rangers-fc/19934691,1993,17,premier_league
+Ipswich Town,Everton,1-0,https://www.besoccer.com/match/ipswich-town-fc/everton-fc/19934692,1993,17,premier_league
+Liverpool,Crystal Palace,5-0,https://www.besoccer.com/match/liverpool/crystal-palace-fc/19934693,1993,17,premier_league
+Man. City,Tottenham Hotspur,0-1,https://www.besoccer.com/match/manchester-city-fc/tottenham-hotspur-fc/19934694,1993,17,premier_league
+Nottingham Forest,Southampton,1-2,https://www.besoccer.com/match/nottingham-forest-fc/southampton-fc/19934695,1993,17,premier_league
+Oldham Athletic AFC,Middlesbrough,4-1,https://www.besoccer.com/match/oldham-athletic-afc/middlesbrough-fc/19934696,1993,17,premier_league
+Sheffield United,Coventry City,1-1,https://www.besoccer.com/match/sheffield-united/coventry-city/19934697,1993,17,premier_league
+Wimbledon FC,Sheffield Wednesday,1-1,https://www.besoccer.com/match/wimbledon-fc/sheffield-wednesday-fc/19934698,1993,17,premier_league
+Chelsea,Leeds United,1-0,https://www.besoccer.com/match/chelsea-fc/leeds-united-afc/19934699,1993,17,premier_league
+Coventry City,Ipswich Town,2-2,https://www.besoccer.com/match/coventry-city/ipswich-town-fc/19934700,1993,18,premier_league
+Crystal Palace,Sheffield United,2-0,https://www.besoccer.com/match/crystal-palace-fc/sheffield-united/19934701,1993,18,premier_league
+Leeds United,Nottingham Forest,1-4,https://www.besoccer.com/match/leeds-united-afc/nottingham-forest-fc/19934702,1993,18,premier_league
+Middlesbrough,Blackburn Rovers,3-2,https://www.besoccer.com/match/middlesbrough-fc/blackburn-rovers-fc/19934703,1993,18,premier_league
+Norwich City,Wimbledon FC,2-1,https://www.besoccer.com/match/norwich-city-fc/wimbledon-fc/19934704,1993,18,premier_league
+Queens Park Rangers,Oldham Athletic AFC,3-2,https://www.besoccer.com/match/queens-park-rangers-fc/oldham-athletic-afc/19934705,1993,18,premier_league
+Sheffield Wednesday,Aston Villa,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/aston-villa-fc/19934706,1993,18,premier_league
+Southampton,Arsenal,2-0,https://www.besoccer.com/match/southampton-fc/arsenal/19934707,1993,18,premier_league
+Tottenham Hotspur,Chelsea,1-2,https://www.besoccer.com/match/tottenham-hotspur-fc/chelsea-fc/19934708,1993,18,premier_league
+Man. Utd,Man. City,2-1,https://www.besoccer.com/match/manchester-united-fc/manchester-city-fc/19934709,1993,18,premier_league
+Everton,Liverpool,2-1,https://www.besoccer.com/match/everton-fc/liverpool/19934710,1993,18,premier_league
+Middlesbrough,Chelsea,0-0,https://www.besoccer.com/match/middlesbrough-fc/chelsea-fc/19934711,1993,19,premier_league
+Aston Villa,Nottingham Forest,2-1,https://www.besoccer.com/match/aston-villa-fc/nottingham-forest-fc/19934712,1993,19,premier_league
+Ipswich Town,Man. City,3-1,https://www.besoccer.com/match/ipswich-town-fc/manchester-city-fc/19934713,1993,19,premier_league
+Leeds United,Sheffield Wednesday,3-1,https://www.besoccer.com/match/leeds-united-afc/sheffield-wednesday-fc/19934714,1993,19,premier_league
+Man. Utd,Norwich City,1-0,https://www.besoccer.com/match/manchester-united-fc/norwich-city-fc/19934715,1993,19,premier_league
+Queens Park Rangers,Crystal Palace,1-3,https://www.besoccer.com/match/queens-park-rangers-fc/crystal-palace-fc/19934716,1993,19,premier_league
+Sheffield United,Everton,1-0,https://www.besoccer.com/match/sheffield-united/everton-fc/19934717,1993,19,premier_league
+Southampton,Coventry City,2-2,https://www.besoccer.com/match/southampton-fc/coventry-city/19934718,1993,19,premier_league
+Tottenham Hotspur,Arsenal,1-0,https://www.besoccer.com/match/tottenham-hotspur-fc/arsenal/19934719,1993,19,premier_league
+Wimbledon FC,Oldham Athletic AFC,5-2,https://www.besoccer.com/match/wimbledon-fc/oldham-athletic-afc/19934720,1993,19,premier_league
+Liverpool,Blackburn Rovers,2-1,https://www.besoccer.com/match/liverpool/blackburn-rovers-fc/19934721,1993,19,premier_league
+Arsenal,Middlesbrough,1-1,https://www.besoccer.com/match/arsenal/middlesbrough-fc/19934722,1993,20,premier_league
+Blackburn Rovers,Sheffield United,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/sheffield-united/19934723,1993,20,premier_league
+Chelsea,Man. Utd,1-1,https://www.besoccer.com/match/chelsea-fc/manchester-united-fc/19934724,1993,20,premier_league
+Coventry City,Liverpool,5-1,https://www.besoccer.com/match/coventry-city/liverpool/19934725,1993,20,premier_league
+Everton,Southampton,2-1,https://www.besoccer.com/match/everton-fc/southampton-fc/19934726,1993,20,premier_league
+Man. City,Aston Villa,1-1,https://www.besoccer.com/match/manchester-city-fc/aston-villa-fc/19934727,1993,20,premier_league
+Oldham Athletic AFC,Tottenham Hotspur,2-1,https://www.besoccer.com/match/oldham-athletic-afc/tottenham-hotspur-fc/19934728,1993,20,premier_league
+Sheffield Wednesday,Queens Park Rangers,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/queens-park-rangers-fc/19934729,1993,20,premier_league
+Crystal Palace,Leeds United,1-0,https://www.besoccer.com/match/crystal-palace-fc/leeds-united-afc/19934730,1993,20,premier_league
+Nottingham Forest,Wimbledon FC,1-1,https://www.besoccer.com/match/nottingham-forest-fc/wimbledon-fc/19934731,1993,20,premier_league
+Norwich City,Ipswich Town,0-2,https://www.besoccer.com/match/norwich-city-fc/ipswich-town-fc/19934732,1993,20,premier_league
+Arsenal,Ipswich Town,0-0,https://www.besoccer.com/match/arsenal/ipswich-town-fc/19934733,1993,21,premier_league
+Blackburn Rovers,Leeds United,3-1,https://www.besoccer.com/match/blackburn-rovers-fc/leeds-united-afc/19934734,1993,21,premier_league
+Chelsea,Southampton,1-1,https://www.besoccer.com/match/chelsea-fc/southampton-fc/19934735,1993,21,premier_league
+Coventry City,Aston Villa,3-0,https://www.besoccer.com/match/coventry-city/aston-villa-fc/19934736,1993,21,premier_league
+Crystal Palace,Wimbledon FC,2-0,https://www.besoccer.com/match/crystal-palace-fc/wimbledon-fc/19934737,1993,21,premier_league
+Everton,Middlesbrough,2-2,https://www.besoccer.com/match/everton-fc/middlesbrough-fc/19934738,1993,21,premier_league
+Man. City,Sheffield United,2-0,https://www.besoccer.com/match/manchester-city-fc/sheffield-united/19934739,1993,21,premier_league
+Norwich City,Tottenham Hotspur,0-0,https://www.besoccer.com/match/norwich-city-fc/tottenham-hotspur-fc/19934740,1993,21,premier_league
+Sheffield Wednesday,Man. Utd,3-3,https://www.besoccer.com/match/sheffield-wednesday-fc/manchester-united-fc/19934741,1993,21,premier_league
+Nottingham Forest,Queens Park Rangers,1-0,https://www.besoccer.com/match/nottingham-forest-fc/queens-park-rangers-fc/19934742,1993,21,premier_league
+Oldham Athletic AFC,Liverpool,3-2,https://www.besoccer.com/match/oldham-athletic-afc/liverpool/19934743,1993,21,premier_league
+Aston Villa,Arsenal,1-0,https://www.besoccer.com/match/aston-villa-fc/arsenal/19934744,1993,22,premier_league
+Ipswich Town,Blackburn Rovers,2-1,https://www.besoccer.com/match/ipswich-town-fc/blackburn-rovers-fc/19934745,1993,22,premier_league
+Leeds United,Norwich City,0-0,https://www.besoccer.com/match/leeds-united-afc/norwich-city-fc/19934746,1993,22,premier_league
+Liverpool,Man. City,1-1,https://www.besoccer.com/match/liverpool/manchester-city-fc/19934747,1993,22,premier_league
+Man. Utd,Coventry City,5-0,https://www.besoccer.com/match/manchester-united-fc/coventry-city/19934748,1993,22,premier_league
+Middlesbrough,Crystal Palace,0-1,https://www.besoccer.com/match/middlesbrough-fc/crystal-palace-fc/19934749,1993,22,premier_league
+Queens Park Rangers,Everton,4-2,https://www.besoccer.com/match/queens-park-rangers-fc/everton-fc/19934750,1993,22,premier_league
+Southampton,Sheffield Wednesday,1-2,https://www.besoccer.com/match/southampton-fc/sheffield-wednesday-fc/19934751,1993,22,premier_league
+Tottenham Hotspur,Nottingham Forest,2-1,https://www.besoccer.com/match/tottenham-hotspur-fc/nottingham-forest-fc/19934752,1993,22,premier_league
+Wimbledon FC,Chelsea,0-0,https://www.besoccer.com/match/wimbledon-fc/chelsea-fc/19934753,1993,22,premier_league
+Sheffield United,Oldham Athletic AFC,2-0,https://www.besoccer.com/match/sheffield-united/oldham-athletic-afc/19934754,1993,22,premier_league
+Arsenal,Sheffield United,1-1,https://www.besoccer.com/match/arsenal/sheffield-united/19934755,1993,23,premier_league
+Blackburn Rovers,Wimbledon FC,0-0,https://www.besoccer.com/match/blackburn-rovers-fc/wimbledon-fc/19934756,1993,23,premier_league
+Chelsea,Man. City,2-4,https://www.besoccer.com/match/chelsea-fc/manchester-city-fc/19934757,1993,23,premier_league
+Coventry City,Nottingham Forest,0-1,https://www.besoccer.com/match/coventry-city/nottingham-forest-fc/19934758,1993,23,premier_league
+Crystal Palace,Everton,0-2,https://www.besoccer.com/match/crystal-palace-fc/everton-fc/19934759,1993,23,premier_league
+Ipswich Town,Oldham Athletic AFC,1-2,https://www.besoccer.com/match/ipswich-town-fc/oldham-athletic-afc/19934760,1993,23,premier_league
+Leeds United,Southampton,2-1,https://www.besoccer.com/match/leeds-united-afc/southampton-fc/19934761,1993,23,premier_league
+Liverpool,Aston Villa,1-2,https://www.besoccer.com/match/liverpool/aston-villa-fc/19934762,1993,23,premier_league
+Man. Utd,Tottenham Hotspur,4-1,https://www.besoccer.com/match/manchester-united-fc/tottenham-hotspur-fc/19934763,1993,23,premier_league
+Middlesbrough,Queens Park Rangers,0-1,https://www.besoccer.com/match/middlesbrough-fc/queens-park-rangers-fc/19934764,1993,23,premier_league
+Sheffield Wednesday,Norwich City,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/norwich-city-fc/19934765,1993,23,premier_league
+Everton,Leeds United,2-0,https://www.besoccer.com/match/everton-fc/leeds-united-afc/19934766,1993,24,premier_league
+Man. City,Arsenal,0-1,https://www.besoccer.com/match/manchester-city-fc/arsenal/19934767,1993,24,premier_league
+Norwich City,Coventry City,1-1,https://www.besoccer.com/match/norwich-city-fc/coventry-city/19934768,1993,24,premier_league
+Nottingham Forest,Chelsea,3-0,https://www.besoccer.com/match/nottingham-forest-fc/chelsea-fc/19934769,1993,24,premier_league
+Oldham Athletic AFC,Blackburn Rovers,0-1,https://www.besoccer.com/match/oldham-athletic-afc/blackburn-rovers-fc/19934770,1993,24,premier_league
+Sheffield United,Ipswich Town,3-0,https://www.besoccer.com/match/sheffield-united/ipswich-town-fc/19934771,1993,24,premier_league
+Southampton,Crystal Palace,1-0,https://www.besoccer.com/match/southampton-fc/crystal-palace-fc/19934772,1993,24,premier_league
+Tottenham Hotspur,Sheffield Wednesday,0-2,https://www.besoccer.com/match/tottenham-hotspur-fc/sheffield-wednesday-fc/19934773,1993,24,premier_league
+Wimbledon FC,Liverpool,2-0,https://www.besoccer.com/match/wimbledon-fc/liverpool/19934774,1993,24,premier_league
+Aston Villa,Middlesbrough,5-1,https://www.besoccer.com/match/aston-villa-fc/middlesbrough-fc/19934775,1993,24,premier_league
+Queens Park Rangers,Man. Utd,1-3,https://www.besoccer.com/match/queens-park-rangers-fc/manchester-united-fc/19934776,1993,24,premier_league
+Blackburn Rovers,Coventry City,2-5,https://www.besoccer.com/match/blackburn-rovers-fc/coventry-city/19934777,1993,25,premier_league
+Middlesbrough,Southampton,2-1,https://www.besoccer.com/match/middlesbrough-fc/southampton-fc/19934778,1993,25,premier_league
+Oldham Athletic AFC,Man. City,0-1,https://www.besoccer.com/match/oldham-athletic-afc/manchester-city-fc/19934779,1993,25,premier_league
+Wimbledon FC,Everton,1-3,https://www.besoccer.com/match/wimbledon-fc/everton-fc/19934780,1993,25,premier_league
+Aston Villa,Sheffield United,3-1,https://www.besoccer.com/match/aston-villa-fc/sheffield-united/19934781,1993,25,premier_league
+Man. Utd,Nottingham Forest,2-0,https://www.besoccer.com/match/manchester-united-fc/nottingham-forest-fc/19934782,1993,25,premier_league
+Norwich City,Crystal Palace,4-2,https://www.besoccer.com/match/norwich-city-fc/crystal-palace-fc/19934783,1993,25,premier_league
+Queens Park Rangers,Chelsea,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/chelsea-fc/19934784,1993,25,premier_league
+Tottenham Hotspur,Ipswich Town,0-2,https://www.besoccer.com/match/tottenham-hotspur-fc/ipswich-town-fc/19934785,1993,25,premier_league
+Liverpool,Leeds United,2-0,https://www.besoccer.com/match/liverpool/leeds-united-afc/19934786,1993,25,premier_league
+Sheffield Wednesday,Arsenal,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/arsenal/19934787,1993,25,premier_league
+Chelsea,Sheffield Wednesday,0-2,https://www.besoccer.com/match/chelsea-fc/sheffield-wednesday-fc/19934788,1993,26,premier_league
+Coventry City,Wimbledon FC,0-2,https://www.besoccer.com/match/coventry-city/wimbledon-fc/19934789,1993,26,premier_league
+Crystal Palace,Tottenham Hotspur,1-3,https://www.besoccer.com/match/crystal-palace-fc/tottenham-hotspur-fc/19934790,1993,26,premier_league
+Everton,Norwich City,0-1,https://www.besoccer.com/match/everton-fc/norwich-city-fc/19934791,1993,26,premier_league
+Ipswich Town,Man. Utd,2-1,https://www.besoccer.com/match/ipswich-town-fc/manchester-united-fc/19934792,1993,26,premier_league
+Leeds United,Middlesbrough,3-0,https://www.besoccer.com/match/leeds-united-afc/middlesbrough-fc/19934793,1993,26,premier_league
+Man. City,Blackburn Rovers,3-2,https://www.besoccer.com/match/manchester-city-fc/blackburn-rovers-fc/19934794,1993,26,premier_league
+Nottingham Forest,Oldham Athletic AFC,2-0,https://www.besoccer.com/match/nottingham-forest-fc/oldham-athletic-afc/19934795,1993,26,premier_league
+Sheffield United,Queens Park Rangers,1-2,https://www.besoccer.com/match/sheffield-united/queens-park-rangers-fc/19934796,1993,26,premier_league
+Southampton,Aston Villa,2-0,https://www.besoccer.com/match/southampton-fc/aston-villa-fc/19934797,1993,26,premier_league
+Arsenal,Liverpool,0-1,https://www.besoccer.com/match/arsenal/liverpool/19934798,1993,26,premier_league
+Blackburn Rovers,Crystal Palace,1-2,https://www.besoccer.com/match/blackburn-rovers-fc/crystal-palace-fc/19934799,1993,27,premier_league
+Aston Villa,Ipswich Town,2-0,https://www.besoccer.com/match/aston-villa-fc/ipswich-town-fc/19934800,1993,27,premier_league
+Liverpool,Nottingham Forest,0-0,https://www.besoccer.com/match/liverpool/nottingham-forest-fc/19934801,1993,27,premier_league
+Man. Utd,Sheffield United,2-1,https://www.besoccer.com/match/manchester-united-fc/sheffield-united/19934802,1993,27,premier_league
+Middlesbrough,Coventry City,0-2,https://www.besoccer.com/match/middlesbrough-fc/coventry-city/19934803,1993,27,premier_league
+Oldham Athletic AFC,Chelsea,3-1,https://www.besoccer.com/match/oldham-athletic-afc/chelsea-fc/19934804,1993,27,premier_league
+Queens Park Rangers,Man. City,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/manchester-city-fc/19934805,1993,27,premier_league
+Sheffield Wednesday,Everton,3-1,https://www.besoccer.com/match/sheffield-wednesday-fc/everton-fc/19934806,1993,27,premier_league
+Wimbledon FC,Leeds United,1-0,https://www.besoccer.com/match/wimbledon-fc/leeds-united-afc/19934807,1993,27,premier_league
+Tottenham Hotspur,Southampton,4-2,https://www.besoccer.com/match/tottenham-hotspur-fc/southampton-fc/19934808,1993,27,premier_league
+Norwich City,Arsenal,1-1,https://www.besoccer.com/match/norwich-city-fc/arsenal/19934809,1993,27,premier_league
+Coventry City,Oldham Athletic AFC,3-0,https://www.besoccer.com/match/coventry-city/oldham-athletic-afc/19934810,1993,28,premier_league
+Leeds United,Man. Utd,0-0,https://www.besoccer.com/match/leeds-united-afc/manchester-united-fc/19934811,1993,28,premier_league
+Ipswich Town,Queens Park Rangers,1-1,https://www.besoccer.com/match/ipswich-town-fc/queens-park-rangers-fc/19934812,1993,28,premier_league
+Sheffield United,Middlesbrough,2-0,https://www.besoccer.com/match/sheffield-united/middlesbrough-fc/19934813,1993,28,premier_league
+Arsenal,Wimbledon FC,0-1,https://www.besoccer.com/match/arsenal/wimbledon-fc/19934814,1993,28,premier_league
+Chelsea,Liverpool,0-0,https://www.besoccer.com/match/chelsea-fc/liverpool/19934815,1993,28,premier_league
+Crystal Palace,Aston Villa,1-0,https://www.besoccer.com/match/crystal-palace-fc/aston-villa-fc/19934816,1993,28,premier_league
+Everton,Tottenham Hotspur,1-2,https://www.besoccer.com/match/everton-fc/tottenham-hotspur-fc/19934817,1993,28,premier_league
+Southampton,Norwich City,3-0,https://www.besoccer.com/match/southampton-fc/norwich-city-fc/19934818,1993,28,premier_league
+Man. City,Sheffield Wednesday,1-2,https://www.besoccer.com/match/manchester-city-fc/sheffield-wednesday-fc/19934819,1993,28,premier_league
+Nottingham Forest,Blackburn Rovers,1-3,https://www.besoccer.com/match/nottingham-forest-fc/blackburn-rovers-fc/19934820,1993,28,premier_league
+Chelsea,Aston Villa,0-1,https://www.besoccer.com/match/chelsea-fc/aston-villa-fc/19934821,1993,29,premier_league
+Leeds United,Oldham Athletic AFC,2-0,https://www.besoccer.com/match/leeds-united-afc/oldham-athletic-afc/19934822,1993,29,premier_league
+Southampton,Liverpool,2-1,https://www.besoccer.com/match/southampton-fc/liverpool/19934823,1993,29,premier_league
+Ipswich Town,Middlesbrough,0-1,https://www.besoccer.com/match/ipswich-town-fc/middlesbrough-fc/19934824,1993,29,premier_league
+Sheffield United,Tottenham Hotspur,6-0,https://www.besoccer.com/match/sheffield-united/tottenham-hotspur-fc/19934825,1993,29,premier_league
+Coventry City,Sheffield Wednesday,1-0,https://www.besoccer.com/match/coventry-city/sheffield-wednesday-fc/19934826,1993,29,premier_league
+Everton,Blackburn Rovers,2-1,https://www.besoccer.com/match/everton-fc/blackburn-rovers-fc/19934827,1993,29,premier_league
+Nottingham Forest,Norwich City,0-3,https://www.besoccer.com/match/nottingham-forest-fc/norwich-city-fc/19934828,1993,29,premier_league
+Crystal Palace,Man. Utd,0-2,https://www.besoccer.com/match/crystal-palace-fc/manchester-united-fc/19934829,1993,29,premier_league
+Man. City,Wimbledon FC,1-1,https://www.besoccer.com/match/manchester-city-fc/wimbledon-fc/19934830,1993,29,premier_league
+Arsenal,Queens Park Rangers,0-0,https://www.besoccer.com/match/arsenal/queens-park-rangers-fc/19934831,1993,29,premier_league
+Aston Villa,Everton,2-1,https://www.besoccer.com/match/aston-villa-fc/everton-fc/19934832,1993,30,premier_league
+Liverpool,Ipswich Town,0-0,https://www.besoccer.com/match/liverpool/ipswich-town-fc/19934833,1993,30,premier_league
+Man. Utd,Southampton,2-1,https://www.besoccer.com/match/manchester-united-fc/southampton-fc/19934834,1993,30,premier_league
+Middlesbrough,Nottingham Forest,1-2,https://www.besoccer.com/match/middlesbrough-fc/nottingham-forest-fc/19934835,1993,30,premier_league
+Norwich City,Man. City,2-1,https://www.besoccer.com/match/norwich-city-fc/manchester-city-fc/19934836,1993,30,premier_league
+Oldham Athletic AFC,Arsenal,0-1,https://www.besoccer.com/match/oldham-athletic-afc/arsenal/19934837,1993,30,premier_league
+Queens Park Rangers,Coventry City,2-0,https://www.besoccer.com/match/queens-park-rangers-fc/coventry-city/19934838,1993,30,premier_league
+Sheffield Wednesday,Crystal Palace,2-1,https://www.besoccer.com/match/sheffield-wednesday-fc/crystal-palace-fc/19934839,1993,30,premier_league
+Tottenham Hotspur,Leeds United,4-0,https://www.besoccer.com/match/tottenham-hotspur-fc/leeds-united-afc/19934840,1993,30,premier_league
+Wimbledon FC,Sheffield United,2-0,https://www.besoccer.com/match/wimbledon-fc/sheffield-united/19934841,1993,30,premier_league
+Blackburn Rovers,Chelsea,2-0,https://www.besoccer.com/match/blackburn-rovers-fc/chelsea-fc/19934842,1993,30,premier_league
+Aston Villa,Wimbledon FC,1-0,https://www.besoccer.com/match/aston-villa-fc/wimbledon-fc/19934843,1993,31,premier_league
+Crystal Palace,Coventry City,0-0,https://www.besoccer.com/match/crystal-palace-fc/coventry-city/19934844,1993,31,premier_league
+Everton,Oldham Athletic AFC,2-2,https://www.besoccer.com/match/everton-fc/oldham-athletic-afc/19934845,1993,31,premier_league
+Leeds United,Ipswich Town,1-0,https://www.besoccer.com/match/leeds-united-afc/ipswich-town-fc/19934846,1993,31,premier_league
+Man. Utd,Middlesbrough,3-0,https://www.besoccer.com/match/manchester-united-fc/middlesbrough-fc/19934847,1993,31,premier_league
+Nottingham Forest,Man. City,0-2,https://www.besoccer.com/match/nottingham-forest-fc/manchester-city-fc/19934848,1993,31,premier_league
+Sheffield Wednesday,Liverpool,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/liverpool/19934849,1993,31,premier_league
+Southampton,Sheffield United,3-2,https://www.besoccer.com/match/southampton-fc/sheffield-united/19934850,1993,31,premier_league
+Tottenham Hotspur,Queens Park Rangers,3-2,https://www.besoccer.com/match/tottenham-hotspur-fc/queens-park-rangers-fc/19934851,1993,31,premier_league
+Norwich City,Blackburn Rovers,0-0,https://www.besoccer.com/match/norwich-city-fc/blackburn-rovers-fc/19934852,1993,31,premier_league
+Chelsea,Arsenal,1-0,https://www.besoccer.com/match/chelsea-fc/arsenal/19934853,1993,31,premier_league
+Arsenal,Leeds United,0-0,https://www.besoccer.com/match/arsenal/leeds-united-afc/19934854,1993,32,premier_league
+Nottingham Forest,Crystal Palace,1-1,https://www.besoccer.com/match/nottingham-forest-fc/crystal-palace-fc/19934855,1993,32,premier_league
+Blackburn Rovers,Southampton,0-0,https://www.besoccer.com/match/blackburn-rovers-fc/southampton-fc/19934856,1993,32,premier_league
+Oldham Athletic AFC,Man. Utd,1-0,https://www.besoccer.com/match/oldham-athletic-afc/manchester-united-fc/19934857,1993,32,premier_league
+Wimbledon FC,Middlesbrough,2-0,https://www.besoccer.com/match/wimbledon-fc/middlesbrough-fc/19934858,1993,32,premier_league
+Aston Villa,Tottenham Hotspur,0-0,https://www.besoccer.com/match/aston-villa-fc/tottenham-hotspur-fc/19934859,1993,32,premier_league
+Chelsea,Everton,2-1,https://www.besoccer.com/match/chelsea-fc/everton-fc/19934860,1993,32,premier_league
+Ipswich Town,Sheffield Wednesday,0-1,https://www.besoccer.com/match/ipswich-town-fc/sheffield-wednesday-fc/19934861,1993,32,premier_league
+Liverpool,Queens Park Rangers,1-0,https://www.besoccer.com/match/liverpool/queens-park-rangers-fc/19934862,1993,32,premier_league
+Man. City,Coventry City,1-0,https://www.besoccer.com/match/manchester-city-fc/coventry-city/19934863,1993,32,premier_league
+Sheffield United,Norwich City,0-1,https://www.besoccer.com/match/sheffield-united/norwich-city-fc/19934864,1993,32,premier_league
+Liverpool,Man. Utd,1-2,https://www.besoccer.com/match/liverpool/manchester-united-fc/19934865,1993,33,premier_league
+Queens Park Rangers,Norwich City,3-1,https://www.besoccer.com/match/queens-park-rangers-fc/norwich-city-fc/19934866,1993,33,premier_league
+Wimbledon FC,Southampton,1-2,https://www.besoccer.com/match/wimbledon-fc/southampton-fc/19934867,1993,33,premier_league
+Coventry City,Everton,0-1,https://www.besoccer.com/match/coventry-city/everton-fc/19934868,1993,33,premier_league
+Ipswich Town,Chelsea,1-1,https://www.besoccer.com/match/ipswich-town-fc/chelsea-fc/19934869,1993,33,premier_league
+Sheffield United,Leeds United,2-1,https://www.besoccer.com/match/sheffield-united/leeds-united-afc/19934870,1993,33,premier_league
+Oldham Athletic AFC,Sheffield Wednesday,1-1,https://www.besoccer.com/match/oldham-athletic-afc/sheffield-wednesday-fc/19934871,1993,33,premier_league
+Middlesbrough,Tottenham Hotspur,3-0,https://www.besoccer.com/match/middlesbrough-fc/tottenham-hotspur-fc/19934872,1993,33,premier_league
+Arsenal,Nottingham Forest,1-1,https://www.besoccer.com/match/arsenal/nottingham-forest-fc/19934873,1993,33,premier_league
+Blackburn Rovers,Aston Villa,3-0,https://www.besoccer.com/match/blackburn-rovers-fc/aston-villa-fc/19934874,1993,33,premier_league
+Man. City,Crystal Palace,0-0,https://www.besoccer.com/match/manchester-city-fc/crystal-palace-fc/19934875,1993,33,premier_league
+Coventry City,Arsenal,0-2,https://www.besoccer.com/match/coventry-city/arsenal/19934876,1993,34,premier_league
+Everton,Nottingham Forest,3-0,https://www.besoccer.com/match/everton-fc/nottingham-forest-fc/19934877,1993,34,premier_league
+Leeds United,Man. City,1-0,https://www.besoccer.com/match/leeds-united-afc/manchester-city-fc/19934878,1993,34,premier_league
+Middlesbrough,Liverpool,1-2,https://www.besoccer.com/match/middlesbrough-fc/liverpool/19934879,1993,34,premier_league
+Norwich City,Oldham Athletic AFC,1-0,https://www.besoccer.com/match/norwich-city-fc/oldham-athletic-afc/19934880,1993,34,premier_league
+Queens Park Rangers,Wimbledon FC,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/wimbledon-fc/19934881,1993,34,premier_league
+Southampton,Ipswich Town,4-3,https://www.besoccer.com/match/southampton-fc/ipswich-town-fc/19934882,1993,34,premier_league
+Man. Utd,Aston Villa,1-1,https://www.besoccer.com/match/manchester-united-fc/aston-villa-fc/19934883,1993,34,premier_league
+Crystal Palace,Chelsea,1-1,https://www.besoccer.com/match/crystal-palace-fc/chelsea-fc/19934884,1993,34,premier_league
+Sheffield Wednesday,Sheffield United,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/sheffield-united/19934885,1993,34,premier_league
+Tottenham Hotspur,Blackburn Rovers,1-2,https://www.besoccer.com/match/tottenham-hotspur-fc/blackburn-rovers-fc/19934886,1993,34,premier_league
+Arsenal,Southampton,4-3,https://www.besoccer.com/match/arsenal/southampton-fc/19934887,1993,35,premier_league
+Aston Villa,Sheffield Wednesday,2-0,https://www.besoccer.com/match/aston-villa-fc/sheffield-wednesday-fc/19934888,1993,35,premier_league
+Blackburn Rovers,Middlesbrough,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/middlesbrough-fc/19934889,1993,35,premier_league
+Chelsea,Tottenham Hotspur,1-1,https://www.besoccer.com/match/chelsea-fc/tottenham-hotspur-fc/19934890,1993,35,premier_league
+Ipswich Town,Coventry City,0-0,https://www.besoccer.com/match/ipswich-town-fc/coventry-city/19934891,1993,35,premier_league
+Liverpool,Everton,1-0,https://www.besoccer.com/match/liverpool/everton-fc/19934892,1993,35,premier_league
+Man. City,Man. Utd,1-1,https://www.besoccer.com/match/manchester-city-fc/manchester-united-fc/19934893,1993,35,premier_league
+Oldham Athletic AFC,Queens Park Rangers,2-2,https://www.besoccer.com/match/oldham-athletic-afc/queens-park-rangers-fc/19934894,1993,35,premier_league
+Sheffield United,Crystal Palace,0-1,https://www.besoccer.com/match/sheffield-united/crystal-palace-fc/19934895,1993,35,premier_league
+Wimbledon FC,Norwich City,3-0,https://www.besoccer.com/match/wimbledon-fc/norwich-city-fc/19934896,1993,35,premier_league
+Nottingham Forest,Leeds United,1-1,https://www.besoccer.com/match/nottingham-forest-fc/leeds-united-afc/19934897,1993,35,premier_league
+Middlesbrough,Oldham Athletic AFC,2-3,https://www.besoccer.com/match/middlesbrough-fc/oldham-athletic-afc/19934898,1993,36,premier_league
+Crystal Palace,Liverpool,1-1,https://www.besoccer.com/match/crystal-palace-fc/liverpool/19934899,1993,36,premier_league
+Coventry City,Sheffield United,1-3,https://www.besoccer.com/match/coventry-city/sheffield-united/19934900,1993,36,premier_league
+Everton,Ipswich Town,3-0,https://www.besoccer.com/match/everton-fc/ipswich-town-fc/19934901,1993,36,premier_league
+Leeds United,Chelsea,1-1,https://www.besoccer.com/match/leeds-united-afc/chelsea-fc/19934902,1993,36,premier_league
+Man. Utd,Arsenal,0-0,https://www.besoccer.com/match/manchester-united-fc/arsenal/19934903,1993,36,premier_league
+Norwich City,Aston Villa,1-0,https://www.besoccer.com/match/norwich-city-fc/aston-villa-fc/19934904,1993,36,premier_league
+Queens Park Rangers,Blackburn Rovers,0-3,https://www.besoccer.com/match/queens-park-rangers-fc/blackburn-rovers-fc/19934905,1993,36,premier_league
+Sheffield Wednesday,Wimbledon FC,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/wimbledon-fc/19934906,1993,36,premier_league
+Southampton,Nottingham Forest,1-2,https://www.besoccer.com/match/southampton-fc/nottingham-forest-fc/19934907,1993,36,premier_league
+Tottenham Hotspur,Man. City,3-1,https://www.besoccer.com/match/tottenham-hotspur-fc/manchester-city-fc/19934908,1993,36,premier_league
+Blackburn Rovers,Liverpool,4-1,https://www.besoccer.com/match/blackburn-rovers-fc/liverpool/19934909,1993,37,premier_league
+Chelsea,Middlesbrough,4-0,https://www.besoccer.com/match/chelsea-fc/middlesbrough-fc/19934910,1993,37,premier_league
+Coventry City,Southampton,2-0,https://www.besoccer.com/match/coventry-city/southampton-fc/19934911,1993,37,premier_league
+Crystal Palace,Queens Park Rangers,1-1,https://www.besoccer.com/match/crystal-palace-fc/queens-park-rangers-fc/19934912,1993,37,premier_league
+Man. City,Ipswich Town,3-1,https://www.besoccer.com/match/manchester-city-fc/ipswich-town-fc/19934913,1993,37,premier_league
+Oldham Athletic AFC,Wimbledon FC,6-2,https://www.besoccer.com/match/oldham-athletic-afc/wimbledon-fc/19934914,1993,37,premier_league
+Nottingham Forest,Aston Villa,0-1,https://www.besoccer.com/match/nottingham-forest-fc/aston-villa-fc/19934915,1993,37,premier_league
+Norwich City,Man. Utd,1-3,https://www.besoccer.com/match/norwich-city-fc/manchester-united-fc/19934916,1993,37,premier_league
+Everton,Sheffield United,0-2,https://www.besoccer.com/match/everton-fc/sheffield-united/19934917,1993,37,premier_league
+Sheffield Wednesday,Leeds United,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/leeds-united-afc/19934918,1993,37,premier_league
+Arsenal,Tottenham Hotspur,1-3,https://www.besoccer.com/match/arsenal/tottenham-hotspur-fc/19934919,1993,37,premier_league
+Sheffield United,Man. City,1-1,https://www.besoccer.com/match/sheffield-united/manchester-city-fc/19934920,1993,38,premier_league
+Tottenham Hotspur,Norwich City,5-1,https://www.besoccer.com/match/tottenham-hotspur-fc/norwich-city-fc/19934921,1993,38,premier_league
+Wimbledon FC,Crystal Palace,4-0,https://www.besoccer.com/match/wimbledon-fc/crystal-palace-fc/19934922,1993,38,premier_league
+Aston Villa,Coventry City,0-0,https://www.besoccer.com/match/aston-villa-fc/coventry-city/19934923,1993,38,premier_league
+Ipswich Town,Arsenal,1-2,https://www.besoccer.com/match/ipswich-town-fc/arsenal/19934924,1993,38,premier_league
+Leeds United,Blackburn Rovers,5-2,https://www.besoccer.com/match/leeds-united-afc/blackburn-rovers-fc/19934925,1993,38,premier_league
+Liverpool,Oldham Athletic AFC,1-0,https://www.besoccer.com/match/liverpool/oldham-athletic-afc/19934926,1993,38,premier_league
+Man. Utd,Sheffield Wednesday,2-1,https://www.besoccer.com/match/manchester-united-fc/sheffield-wednesday-fc/19934927,1993,38,premier_league
+Middlesbrough,Everton,1-2,https://www.besoccer.com/match/middlesbrough-fc/everton-fc/19934928,1993,38,premier_league
+Queens Park Rangers,Nottingham Forest,4-3,https://www.besoccer.com/match/queens-park-rangers-fc/nottingham-forest-fc/19934929,1993,38,premier_league
+Southampton,Chelsea,1-0,https://www.besoccer.com/match/southampton-fc/chelsea-fc/19934930,1993,38,premier_league
+Arsenal,Aston Villa,0-1,https://www.besoccer.com/match/arsenal/aston-villa-fc/19934931,1993,39,premier_league
+Blackburn Rovers,Ipswich Town,2-1,https://www.besoccer.com/match/blackburn-rovers-fc/ipswich-town-fc/19934932,1993,39,premier_league
+Chelsea,Wimbledon FC,4-2,https://www.besoccer.com/match/chelsea-fc/wimbledon-fc/19934933,1993,39,premier_league
+Coventry City,Man. Utd,0-1,https://www.besoccer.com/match/coventry-city/manchester-united-fc/19934934,1993,39,premier_league
+Crystal Palace,Middlesbrough,4-1,https://www.besoccer.com/match/crystal-palace-fc/middlesbrough-fc/19934935,1993,39,premier_league
+Everton,Queens Park Rangers,3-5,https://www.besoccer.com/match/everton-fc/queens-park-rangers-fc/19934936,1993,39,premier_league
+Man. City,Liverpool,1-1,https://www.besoccer.com/match/manchester-city-fc/liverpool/19934937,1993,39,premier_league
+Nottingham Forest,Tottenham Hotspur,2-1,https://www.besoccer.com/match/nottingham-forest-fc/tottenham-hotspur-fc/19934938,1993,39,premier_league
+Sheffield Wednesday,Southampton,5-2,https://www.besoccer.com/match/sheffield-wednesday-fc/southampton-fc/19934939,1993,39,premier_league
+Oldham Athletic AFC,Sheffield United,1-1,https://www.besoccer.com/match/oldham-athletic-afc/sheffield-united/19934940,1993,39,premier_league
+Norwich City,Leeds United,4-2,https://www.besoccer.com/match/norwich-city-fc/leeds-united-afc/19934941,1993,39,premier_league
+Middlesbrough,Arsenal,1-0,https://www.besoccer.com/match/middlesbrough-fc/arsenal/19934942,1993,40,premier_league
+Leeds United,Crystal Palace,0-0,https://www.besoccer.com/match/leeds-united-afc/crystal-palace-fc/19934943,1993,40,premier_league
+Liverpool,Coventry City,4-0,https://www.besoccer.com/match/liverpool/coventry-city/19934944,1993,40,premier_league
+Man. Utd,Chelsea,3-0,https://www.besoccer.com/match/manchester-united-fc/chelsea-fc/19934945,1993,40,premier_league
+Sheffield United,Blackburn Rovers,1-3,https://www.besoccer.com/match/sheffield-united/blackburn-rovers-fc/19934946,1993,40,premier_league
+Southampton,Everton,0-0,https://www.besoccer.com/match/southampton-fc/everton-fc/19934947,1993,40,premier_league
+Tottenham Hotspur,Oldham Athletic AFC,4-1,https://www.besoccer.com/match/tottenham-hotspur-fc/oldham-athletic-afc/19934948,1993,40,premier_league
+Wimbledon FC,Nottingham Forest,1-0,https://www.besoccer.com/match/wimbledon-fc/nottingham-forest-fc/19934949,1993,40,premier_league
+Aston Villa,Man. City,3-1,https://www.besoccer.com/match/aston-villa-fc/manchester-city-fc/19934950,1993,40,premier_league
+Ipswich Town,Norwich City,3-1,https://www.besoccer.com/match/ipswich-town-fc/norwich-city-fc/19934951,1993,40,premier_league
+Queens Park Rangers,Sheffield Wednesday,3-1,https://www.besoccer.com/match/queens-park-rangers-fc/sheffield-wednesday-fc/19934952,1993,40,premier_league
+Chelsea,Coventry City,2-1,https://www.besoccer.com/match/chelsea-fc/coventry-city/19934953,1993,41,premier_league
+Crystal Palace,Ipswich Town,3-1,https://www.besoccer.com/match/crystal-palace-fc/ipswich-town-fc/19934954,1993,41,premier_league
+Everton,Arsenal,0-0,https://www.besoccer.com/match/everton-fc/arsenal/19934955,1993,41,premier_league
+Leeds United,Queens Park Rangers,1-1,https://www.besoccer.com/match/leeds-united-afc/queens-park-rangers-fc/19934956,1993,41,premier_league
+Norwich City,Liverpool,1-0,https://www.besoccer.com/match/norwich-city-fc/liverpool/19934957,1993,41,premier_league
+Nottingham Forest,Sheffield United,0-2,https://www.besoccer.com/match/nottingham-forest-fc/sheffield-united/19934958,1993,41,premier_league
+Sheffield Wednesday,Middlesbrough,2-3,https://www.besoccer.com/match/sheffield-wednesday-fc/middlesbrough-fc/19934959,1993,41,premier_league
+Southampton,Man. City,0-1,https://www.besoccer.com/match/southampton-fc/manchester-city-fc/19934960,1993,41,premier_league
+Tottenham Hotspur,Wimbledon FC,1-1,https://www.besoccer.com/match/tottenham-hotspur-fc/wimbledon-fc/19934961,1993,41,premier_league
+Aston Villa,Oldham Athletic AFC,0-1,https://www.besoccer.com/match/aston-villa-fc/oldham-athletic-afc/19934962,1993,41,premier_league
+Man. Utd,Blackburn Rovers,3-1,https://www.besoccer.com/match/manchester-united-fc/blackburn-rovers-fc/19934963,1993,41,premier_league
+Arsenal,Crystal Palace,3-0,https://www.besoccer.com/match/arsenal/crystal-palace-fc/19934964,1993,42,premier_league
+Blackburn Rovers,Sheffield Wednesday,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/sheffield-wednesday-fc/19934965,1993,42,premier_league
+Coventry City,Leeds United,3-3,https://www.besoccer.com/match/coventry-city/leeds-united-afc/19934966,1993,42,premier_league
+Ipswich Town,Nottingham Forest,2-1,https://www.besoccer.com/match/ipswich-town-fc/nottingham-forest-fc/19934967,1993,42,premier_league
+Liverpool,Tottenham Hotspur,6-2,https://www.besoccer.com/match/liverpool/tottenham-hotspur-fc/19934968,1993,42,premier_league
+Man. City,Everton,2-5,https://www.besoccer.com/match/manchester-city-fc/everton-fc/19934969,1993,42,premier_league
+Middlesbrough,Norwich City,3-3,https://www.besoccer.com/match/middlesbrough-fc/norwich-city-fc/19934970,1993,42,premier_league
+Oldham Athletic AFC,Southampton,4-3,https://www.besoccer.com/match/oldham-athletic-afc/southampton-fc/19934971,1993,42,premier_league
+Sheffield United,Chelsea,4-2,https://www.besoccer.com/match/sheffield-united/chelsea-fc/19934972,1993,42,premier_league
+Queens Park Rangers,Aston Villa,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/aston-villa-fc/19934973,1993,42,premier_league
+Wimbledon FC,Man. Utd,1-2,https://www.besoccer.com/match/wimbledon-fc/manchester-united-fc/19934974,1993,42,premier_league

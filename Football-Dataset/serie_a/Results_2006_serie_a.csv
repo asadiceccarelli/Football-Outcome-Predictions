@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Livorno,Lecce,2-1,https://www.besoccer.com/match/livorno/lecce/20062,2006,1,serie_a
+Fiorentina,Sampdoria,2-1,https://www.besoccer.com/match/fiorentina/sampdoria/20061,2006,1,serie_a
+Ascoli,Milan,1-1,https://www.besoccer.com/match/ascoli/milan/20063,2006,1,serie_a
+Inter,Treviso,3-0,https://www.besoccer.com/match/internazionale/treviso/20064,2006,1,serie_a
+Lazio,Messina,1-0,https://www.besoccer.com/match/lazio/messina/20066,2006,1,serie_a
+Parma,Palermo FC,1-1,https://www.besoccer.com/match/parma-fc/palermo/20067,2006,1,serie_a
+Reggina,Roma,0-3,https://www.besoccer.com/match/reggina/roma/20068,2006,1,serie_a
+Siena,Cagliari,2-1,https://www.besoccer.com/match/siena/cagliari/20069,2006,1,serie_a
+Udinese,Empoli,1-0,https://www.besoccer.com/match/udinese/empoli-fc/200610,2006,1,serie_a
+Juventus,Chievo,1-0,https://www.besoccer.com/match/juventus-fc/chievo/20065,2006,1,serie_a
+Palermo FC,Inter,3-2,https://www.besoccer.com/match/palermo/internazionale/200612,2006,2,serie_a
+Milan,Siena,3-1,https://www.besoccer.com/match/milan/siena/200611,2006,2,serie_a
+Roma,Udinese,0-1,https://www.besoccer.com/match/roma/udinese/200613,2006,2,serie_a
+Chievo,Parma,1-0,https://www.besoccer.com/match/chievo/parma-fc/200615,2006,2,serie_a
+Empoli,Juventus,0-4,https://www.besoccer.com/match/empoli-fc/juventus-fc/200616,2006,2,serie_a
+Lecce,Ascoli,0-0,https://www.besoccer.com/match/lecce/ascoli/200617,2006,2,serie_a
+Messina,Fiorentina,2-2,https://www.besoccer.com/match/messina/fiorentina/200618,2006,2,serie_a
+Sampdoria,Reggina,3-2,https://www.besoccer.com/match/sampdoria/reggina/200619,2006,2,serie_a
+Treviso,Livorno,0-1,https://www.besoccer.com/match/treviso/livorno/200620,2006,2,serie_a
+Cagliari,Lazio,1-1,https://www.besoccer.com/match/cagliari/lazio/200614,2006,2,serie_a
+Parma,Empoli,1-0,https://www.besoccer.com/match/parma-fc/empoli-fc/200622,2006,3,serie_a
+Inter,Lecce,3-0,https://www.besoccer.com/match/internazionale/lecce/200621,2006,3,serie_a
+Cagliari,Messina,1-1,https://www.besoccer.com/match/cagliari/messina/200623,2006,3,serie_a
+Fiorentina,Udinese,4-2,https://www.besoccer.com/match/fiorentina/udinese/200624,2006,3,serie_a
+Juventus,Ascoli,2-1,https://www.besoccer.com/match/juventus-fc/ascoli/200625,2006,3,serie_a
+Lazio,Treviso,3-1,https://www.besoccer.com/match/lazio/treviso/200626,2006,3,serie_a
+Reggina,Chievo,1-3,https://www.besoccer.com/match/reggina/chievo/200628,2006,3,serie_a
+Sampdoria,Milan,2-1,https://www.besoccer.com/match/sampdoria/milan/200629,2006,3,serie_a
+Siena,Palermo FC,1-2,https://www.besoccer.com/match/siena/palermo/200630,2006,3,serie_a
+Livorno,Roma,0-0,https://www.besoccer.com/match/livorno/roma/200627,2006,3,serie_a
+Milan,Lazio,2-0,https://www.besoccer.com/match/milan/lazio/200631,2006,4,serie_a
+Roma,Parma,4-1,https://www.besoccer.com/match/roma/parma-fc/200632,2006,4,serie_a
+Ascoli,Siena,1-1,https://www.besoccer.com/match/ascoli/siena/200633,2006,4,serie_a
+Chievo,Inter,0-1,https://www.besoccer.com/match/chievo/internazionale/200634,2006,4,serie_a
+Empoli,Cagliari,3-1,https://www.besoccer.com/match/empoli-fc/cagliari/200635,2006,4,serie_a
+Lecce,Fiorentina,1-3,https://www.besoccer.com/match/lecce/fiorentina/200636,2006,4,serie_a
+Messina,Livorno,0-0,https://www.besoccer.com/match/messina/livorno/200637,2006,4,serie_a
+Palermo FC,Reggina,1-0,https://www.besoccer.com/match/palermo/reggina/200638,2006,4,serie_a
+Treviso,Sampdoria,0-2,https://www.besoccer.com/match/treviso/sampdoria/200639,2006,4,serie_a
+Udinese,Juventus,0-1,https://www.besoccer.com/match/udinese/juventus-fc/200640,2006,4,serie_a
+Reggina,Udinese,2-0,https://www.besoccer.com/match/reggina/udinese/200642,2006,5,serie_a
+Parma,Juventus,1-2,https://www.besoccer.com/match/parma-fc/juventus-fc/200641,2006,5,serie_a
+Cagliari,Roma,0-0,https://www.besoccer.com/match/cagliari/roma/200643,2006,5,serie_a
+Empoli,Lecce,1-0,https://www.besoccer.com/match/empoli-fc/lecce/200644,2006,5,serie_a
+Lazio,Palermo FC,4-2,https://www.besoccer.com/match/lazio/palermo/200646,2006,5,serie_a
+Livorno,Ascoli,2-0,https://www.besoccer.com/match/livorno/ascoli/200647,2006,5,serie_a
+Sampdoria,Chievo,1-2,https://www.besoccer.com/match/sampdoria/chievo/200648,2006,5,serie_a
+Siena,Messina,4-2,https://www.besoccer.com/match/siena/messina/200649,2006,5,serie_a
+Treviso,Milan,0-2,https://www.besoccer.com/match/treviso/milan/200650,2006,5,serie_a
+Inter,Fiorentina,1-0,https://www.besoccer.com/match/internazionale/fiorentina/200645,2006,5,serie_a
+Chievo,Treviso,0-0,https://www.besoccer.com/match/chievo/treviso/200651,2006,6,serie_a
+Udinese,Lazio,3-0,https://www.besoccer.com/match/udinese/lazio/200652,2006,6,serie_a
+Milan,Reggina,2-1,https://www.besoccer.com/match/milan/reggina/200653,2006,6,serie_a
+Roma,Siena,2-3,https://www.besoccer.com/match/roma/siena/200654,2006,6,serie_a
+Ascoli,Parma,3-1,https://www.besoccer.com/match/ascoli/parma-fc/200655,2006,6,serie_a
+Fiorentina,Livorno,3-2,https://www.besoccer.com/match/fiorentina/livorno/200656,2006,6,serie_a
+Lecce,Cagliari,3-0,https://www.besoccer.com/match/lecce/cagliari/200658,2006,6,serie_a
+Messina,Sampdoria,1-4,https://www.besoccer.com/match/messina/sampdoria/200659,2006,6,serie_a
+Palermo FC,Empoli,2-2,https://www.besoccer.com/match/palermo/empoli-fc/200660,2006,6,serie_a
+Juventus,Inter,2-0,https://www.besoccer.com/match/juventus-fc/internazionale/200657,2006,6,serie_a
+Siena,Udinese,2-3,https://www.besoccer.com/match/siena/udinese/200662,2006,7,serie_a
+Juventus,Messina,1-0,https://www.besoccer.com/match/juventus-fc/messina/200661,2006,7,serie_a
+Ascoli,Sampdoria,2-1,https://www.besoccer.com/match/ascoli/sampdoria/200663,2006,7,serie_a
+Empoli,Roma,1-0,https://www.besoccer.com/match/empoli-fc/roma/200665,2006,7,serie_a
+Inter,Livorno,5-0,https://www.besoccer.com/match/internazionale/livorno/200666,2006,7,serie_a
+Lazio,Fiorentina,1-0,https://www.besoccer.com/match/lazio/fiorentina/200667,2006,7,serie_a
+Palermo FC,Chievo,2-2,https://www.besoccer.com/match/palermo/chievo/200668,2006,7,serie_a
+Parma,Treviso,1-1,https://www.besoccer.com/match/parma-fc/treviso/200669,2006,7,serie_a
+Reggina,Lecce,2-0,https://www.besoccer.com/match/reggina/lecce/200670,2006,7,serie_a
+Cagliari,Milan,0-2,https://www.besoccer.com/match/cagliari/milan/200664,2006,7,serie_a
+Messina,Ascoli,1-1,https://www.besoccer.com/match/messina/ascoli/200672,2006,8,serie_a
+Fiorentina,Parma,4-1,https://www.besoccer.com/match/fiorentina/parma-fc/200671,2006,8,serie_a
+Milan,Palermo FC,2-1,https://www.besoccer.com/match/milan/palermo/200673,2006,8,serie_a
+Chievo,Cagliari,2-1,https://www.besoccer.com/match/chievo/cagliari/200675,2006,8,serie_a
+Lecce,Juventus,0-3,https://www.besoccer.com/match/lecce/juventus-fc/200676,2006,8,serie_a
+Livorno,Reggina,1-0,https://www.besoccer.com/match/livorno/reggina/200677,2006,8,serie_a
+Sampdoria,Siena,3-3,https://www.besoccer.com/match/sampdoria/siena/200678,2006,8,serie_a
+Treviso,Empoli,1-2,https://www.besoccer.com/match/treviso/empoli-fc/200679,2006,8,serie_a
+Udinese,Inter,0-1,https://www.besoccer.com/match/udinese/internazionale/200680,2006,8,serie_a
+Roma,Lazio,1-1,https://www.besoccer.com/match/roma/lazio/200674,2006,8,serie_a
+Ascoli,Udinese,1-1,https://www.besoccer.com/match/ascoli/udinese/200681,2006,9,serie_a
+Cagliari,Livorno,1-1,https://www.besoccer.com/match/cagliari/livorno/200682,2006,9,serie_a
+Empoli,Milan,1-3,https://www.besoccer.com/match/empoli-fc/milan/200683,2006,9,serie_a
+Inter,Roma,2-3,https://www.besoccer.com/match/internazionale/roma/200684,2006,9,serie_a
+Juventus,Sampdoria,2-0,https://www.besoccer.com/match/juventus-fc/sampdoria/200685,2006,9,serie_a
+Lazio,Chievo,2-2,https://www.besoccer.com/match/lazio/chievo/200686,2006,9,serie_a
+Palermo FC,Lecce,3-0,https://www.besoccer.com/match/palermo/lecce/200687,2006,9,serie_a
+Parma,Messina,1-1,https://www.besoccer.com/match/parma-fc/messina/200688,2006,9,serie_a
+Reggina,Treviso,1-2,https://www.besoccer.com/match/reggina/treviso/200689,2006,9,serie_a
+Siena,Fiorentina,0-2,https://www.besoccer.com/match/siena/fiorentina/200690,2006,9,serie_a
+Sampdoria,Inter,2-2,https://www.besoccer.com/match/sampdoria/internazionale/200692,2006,10,serie_a
+Milan,Juventus,3-1,https://www.besoccer.com/match/milan/juventus-fc/200691,2006,10,serie_a
+Roma,Ascoli,2-1,https://www.besoccer.com/match/roma/ascoli/200693,2006,10,serie_a
+Chievo,Empoli,2-2,https://www.besoccer.com/match/chievo/empoli-fc/200694,2006,10,serie_a
+Fiorentina,Cagliari,2-1,https://www.besoccer.com/match/fiorentina/cagliari/200695,2006,10,serie_a
+Lecce,Messina,0-2,https://www.besoccer.com/match/lecce/messina/200696,2006,10,serie_a
+Livorno,Parma,2-0,https://www.besoccer.com/match/livorno/parma-fc/200697,2006,10,serie_a
+Reggina,Lazio,1-0,https://www.besoccer.com/match/reggina/lazio/200698,2006,10,serie_a
+Treviso,Siena,0-1,https://www.besoccer.com/match/treviso/siena/200699,2006,10,serie_a
+Udinese,Palermo FC,0-0,https://www.besoccer.com/match/udinese/palermo/2006100,2006,10,serie_a
+Empoli,Reggina,3-0,https://www.besoccer.com/match/empoli-fc/reggina/2006101,2006,11,serie_a
+Lazio,Inter,0-0,https://www.besoccer.com/match/lazio/internazionale/2006102,2006,11,serie_a
+Milan,Udinese,5-1,https://www.besoccer.com/match/milan/udinese/2006103,2006,11,serie_a
+Ascoli,Fiorentina,0-2,https://www.besoccer.com/match/ascoli/fiorentina/2006104,2006,11,serie_a
+Cagliari,Treviso,0-0,https://www.besoccer.com/match/cagliari/treviso/2006105,2006,11,serie_a
+Juventus,Livorno,3-0,https://www.besoccer.com/match/juventus-fc/livorno/2006106,2006,11,serie_a
+Messina,Roma,0-2,https://www.besoccer.com/match/messina/roma/2006107,2006,11,serie_a
+Parma,Lecce,2-0,https://www.besoccer.com/match/parma-fc/lecce/2006109,2006,11,serie_a
+Siena,Chievo,0-1,https://www.besoccer.com/match/siena/chievo/2006110,2006,11,serie_a
+Palermo FC,Sampdoria,0-2,https://www.besoccer.com/match/palermo/sampdoria/2006108,2006,11,serie_a
+Udinese,Messina,1-0,https://www.besoccer.com/match/udinese/messina/2006112,2006,12,serie_a
+Roma,Juventus,1-4,https://www.besoccer.com/match/roma/juventus-fc/2006111,2006,12,serie_a
+Chievo,Ascoli,1-1,https://www.besoccer.com/match/chievo/ascoli/2006113,2006,12,serie_a
+Fiorentina,Milan,3-1,https://www.besoccer.com/match/fiorentina/milan/2006114,2006,12,serie_a
+Lecce,Siena,3-0,https://www.besoccer.com/match/lecce/siena/2006116,2006,12,serie_a
+Livorno,Empoli,2-0,https://www.besoccer.com/match/livorno/empoli-fc/2006117,2006,12,serie_a
+Reggina,Cagliari,3-1,https://www.besoccer.com/match/reggina/cagliari/2006118,2006,12,serie_a
+Sampdoria,Lazio,2-0,https://www.besoccer.com/match/sampdoria/lazio/2006119,2006,12,serie_a
+Treviso,Palermo FC,2-2,https://www.besoccer.com/match/treviso/palermo/2006120,2006,12,serie_a
+Inter,Parma,2-0,https://www.besoccer.com/match/internazionale/parma-fc/2006115,2006,12,serie_a
+Livorno,Chievo,0-0,https://www.besoccer.com/match/livorno/chievo/2006122,2006,13,serie_a
+Milan,Lecce,2-1,https://www.besoccer.com/match/milan/lecce/2006121,2006,13,serie_a
+Ascoli,Palermo FC,1-1,https://www.besoccer.com/match/ascoli/palermo/2006124,2006,13,serie_a
+Cagliari,Sampdoria,2-0,https://www.besoccer.com/match/cagliari/sampdoria/2006125,2006,13,serie_a
+Empoli,Lazio,2-3,https://www.besoccer.com/match/empoli-fc/lazio/2006126,2006,13,serie_a
+Juventus,Treviso,3-1,https://www.besoccer.com/match/juventus-fc/treviso/2006127,2006,13,serie_a
+Messina,Inter,1-2,https://www.besoccer.com/match/messina/internazionale/2006128,2006,13,serie_a
+Parma,Udinese,1-2,https://www.besoccer.com/match/parma-fc/udinese/2006129,2006,13,serie_a
+Siena,Reggina,0-0,https://www.besoccer.com/match/siena/reggina/2006130,2006,13,serie_a
+Roma,Fiorentina,1-1,https://www.besoccer.com/match/roma/fiorentina/2006123,2006,13,serie_a
+Chievo,Milan,2-1,https://www.besoccer.com/match/chievo/milan/2006131,2006,14,serie_a
+Inter,Ascoli,1-0,https://www.besoccer.com/match/internazionale/ascoli/2006132,2006,14,serie_a
+Fiorentina,Juventus,1-2,https://www.besoccer.com/match/fiorentina/juventus-fc/2006133,2006,14,serie_a
+Lazio,Siena,3-2,https://www.besoccer.com/match/lazio/siena/2006134,2006,14,serie_a
+Palermo FC,Cagliari,2-2,https://www.besoccer.com/match/palermo/cagliari/2006136,2006,14,serie_a
+Reggina,Parma,2-1,https://www.besoccer.com/match/reggina/parma-fc/2006137,2006,14,serie_a
+Sampdoria,Empoli,2-0,https://www.besoccer.com/match/sampdoria/empoli-fc/2006138,2006,14,serie_a
+Treviso,Messina,0-0,https://www.besoccer.com/match/treviso/messina/2006139,2006,14,serie_a
+Udinese,Livorno,0-2,https://www.besoccer.com/match/udinese/livorno/2006140,2006,14,serie_a
+Lecce,Roma,2-2,https://www.besoccer.com/match/lecce/roma/2006135,2006,14,serie_a
+Siena,Empoli,1-0,https://www.besoccer.com/match/siena/empoli-fc/2006142,2006,15,serie_a
+Fiorentina,Treviso,1-0,https://www.besoccer.com/match/fiorentina/treviso/2006141,2006,15,serie_a
+Roma,Palermo FC,1-2,https://www.besoccer.com/match/roma/palermo/2006143,2006,15,serie_a
+Ascoli,Reggina,1-1,https://www.besoccer.com/match/ascoli/reggina/2006144,2006,15,serie_a
+Juventus,Cagliari,4-0,https://www.besoccer.com/match/juventus-fc/cagliari/2006146,2006,15,serie_a
+Livorno,Lazio,2-1,https://www.besoccer.com/match/livorno/lazio/2006147,2006,15,serie_a
+Messina,Chievo,2-0,https://www.besoccer.com/match/messina/chievo/2006148,2006,15,serie_a
+Parma,Sampdoria,1-1,https://www.besoccer.com/match/parma-fc/sampdoria/2006149,2006,15,serie_a
+Udinese,Lecce,1-2,https://www.besoccer.com/match/udinese/lecce/2006150,2006,15,serie_a
+Inter,Milan,3-2,https://www.besoccer.com/match/internazionale/milan/2006145,2006,15,serie_a
+Treviso,Lecce,2-1,https://www.besoccer.com/match/treviso/lecce/2006152,2006,16,serie_a
+Lazio,Juventus,1-1,https://www.besoccer.com/match/lazio/juventus-fc/2006151,2006,16,serie_a
+Milan,Messina,4-0,https://www.besoccer.com/match/milan/messina/2006153,2006,16,serie_a
+Cagliari,Ascoli,2-1,https://www.besoccer.com/match/cagliari/ascoli/2006154,2006,16,serie_a
+Chievo,Udinese,2-0,https://www.besoccer.com/match/chievo/udinese/2006155,2006,16,serie_a
+Empoli,Fiorentina,1-1,https://www.besoccer.com/match/empoli-fc/fiorentina/2006156,2006,16,serie_a
+Palermo FC,Livorno,0-2,https://www.besoccer.com/match/palermo/livorno/2006157,2006,16,serie_a
+Reggina,Inter,0-4,https://www.besoccer.com/match/reggina/internazionale/2006158,2006,16,serie_a
+Siena,Parma,2-2,https://www.besoccer.com/match/siena/parma-fc/2006160,2006,16,serie_a
+Sampdoria,Roma,1-1,https://www.besoccer.com/match/sampdoria/roma/2006159,2006,16,serie_a
+Roma,Chievo,4-0,https://www.besoccer.com/match/roma/chievo/2006161,2006,17,serie_a
+Ascoli,Treviso,1-0,https://www.besoccer.com/match/ascoli/treviso/2006162,2006,17,serie_a
+Fiorentina,Palermo FC,1-0,https://www.besoccer.com/match/fiorentina/palermo/2006163,2006,17,serie_a
+Inter,Empoli,4-1,https://www.besoccer.com/match/internazionale/empoli-fc/2006164,2006,17,serie_a
+Juventus,Siena,2-0,https://www.besoccer.com/match/juventus-fc/siena/2006165,2006,17,serie_a
+Lecce,Lazio,0-0,https://www.besoccer.com/match/lecce/lazio/2006166,2006,17,serie_a
+Livorno,Milan,0-3,https://www.besoccer.com/match/livorno/milan/2006167,2006,17,serie_a
+Messina,Reggina,1-1,https://www.besoccer.com/match/messina/reggina/2006168,2006,17,serie_a
+Parma,Cagliari,1-0,https://www.besoccer.com/match/parma-fc/cagliari/2006169,2006,17,serie_a
+Udinese,Sampdoria,2-0,https://www.besoccer.com/match/udinese/sampdoria/2006170,2006,17,serie_a
+Reggina,Fiorentina,1-1,https://www.besoccer.com/match/reggina/fiorentina/2006172,2006,18,serie_a
+Palermo FC,Juventus,1-2,https://www.besoccer.com/match/palermo/juventus-fc/2006171,2006,18,serie_a
+Cagliari,Udinese,2-1,https://www.besoccer.com/match/cagliari/udinese/2006174,2006,18,serie_a
+Chievo,Lecce,3-1,https://www.besoccer.com/match/chievo/lecce/2006175,2006,18,serie_a
+Empoli,Messina,1-3,https://www.besoccer.com/match/empoli-fc/messina/2006176,2006,18,serie_a
+Lazio,Ascoli,4-1,https://www.besoccer.com/match/lazio/ascoli/2006177,2006,18,serie_a
+Sampdoria,Livorno,0-2,https://www.besoccer.com/match/sampdoria/livorno/2006178,2006,18,serie_a
+Siena,Inter,0-0,https://www.besoccer.com/match/siena/internazionale/2006179,2006,18,serie_a
+Treviso,Roma,0-1,https://www.besoccer.com/match/treviso/roma/2006180,2006,18,serie_a
+Milan,Parma,4-3,https://www.besoccer.com/match/milan/parma-fc/2006173,2006,18,serie_a
+Lecce,Sampdoria,0-3,https://www.besoccer.com/match/lecce/sampdoria/2006181,2006,19,serie_a
+Messina,Palermo FC,0-0,https://www.besoccer.com/match/messina/palermo/2006182,2006,19,serie_a
+Juventus,Reggina,1-0,https://www.besoccer.com/match/juventus-fc/reggina/2006187,2006,19,serie_a
+Ascoli,Empoli,3-1,https://www.besoccer.com/match/ascoli/empoli-fc/2006184,2006,19,serie_a
+Fiorentina,Chievo,2-1,https://www.besoccer.com/match/fiorentina/chievo/2006185,2006,19,serie_a
+Inter,Cagliari,3-2,https://www.besoccer.com/match/internazionale/cagliari/2006186,2006,19,serie_a
+Livorno,Siena,2-2,https://www.besoccer.com/match/livorno/siena/2006188,2006,19,serie_a
+Parma,Lazio,1-1,https://www.besoccer.com/match/parma-fc/lazio/2006189,2006,19,serie_a
+Udinese,Treviso,2-2,https://www.besoccer.com/match/udinese/treviso/2006190,2006,19,serie_a
+Roma,Milan,1-0,https://www.besoccer.com/match/roma/milan/2006183,2006,19,serie_a
+Milan,Ascoli,1-0,https://www.besoccer.com/match/milan/ascoli/2006191,2006,20,serie_a
+Roma,Reggina,3-1,https://www.besoccer.com/match/roma/reggina/2006192,2006,20,serie_a
+Cagliari,Siena,1-0,https://www.besoccer.com/match/cagliari/siena/2006193,2006,20,serie_a
+Chievo,Juventus,1-1,https://www.besoccer.com/match/chievo/juventus-fc/2006194,2006,20,serie_a
+Empoli,Udinese,1-1,https://www.besoccer.com/match/empoli-fc/udinese/2006195,2006,20,serie_a
+Lecce,Livorno,0-0,https://www.besoccer.com/match/lecce/livorno/2006196,2006,20,serie_a
+Messina,Lazio,1-1,https://www.besoccer.com/match/messina/lazio/2006197,2006,20,serie_a
+Palermo FC,Parma,4-2,https://www.besoccer.com/match/palermo/parma-fc/2006198,2006,20,serie_a
+Sampdoria,Fiorentina,3-1,https://www.besoccer.com/match/sampdoria/fiorentina/2006199,2006,20,serie_a
+Treviso,Inter,0-1,https://www.besoccer.com/match/treviso/internazionale/2006200,2006,20,serie_a
+Lazio,Cagliari,1-1,https://www.besoccer.com/match/lazio/cagliari/2006202,2006,21,serie_a
+Inter,Palermo FC,3-0,https://www.besoccer.com/match/internazionale/palermo/2006201,2006,21,serie_a
+Reggina,Sampdoria,2-1,https://www.besoccer.com/match/reggina/sampdoria/2006208,2006,21,serie_a
+Ascoli,Lecce,2-0,https://www.besoccer.com/match/ascoli/lecce/2006203,2006,21,serie_a
+Juventus,Empoli,2-1,https://www.besoccer.com/match/juventus-fc/empoli-fc/2006205,2006,21,serie_a
+Livorno,Treviso,1-1,https://www.besoccer.com/match/livorno/treviso/2006206,2006,21,serie_a
+Parma,Chievo,2-1,https://www.besoccer.com/match/parma-fc/chievo/2006207,2006,21,serie_a
+Siena,Milan,0-3,https://www.besoccer.com/match/siena/milan/2006209,2006,21,serie_a
+Udinese,Roma,1-4,https://www.besoccer.com/match/udinese/roma/2006210,2006,21,serie_a
+Fiorentina,Messina,2-0,https://www.besoccer.com/match/fiorentina/messina/2006204,2006,21,serie_a
+Palermo FC,Siena,1-3,https://www.besoccer.com/match/palermo/siena/2006212,2006,22,serie_a
+Milan,Sampdoria,1-1,https://www.besoccer.com/match/milan/sampdoria/2006211,2006,22,serie_a
+Roma,Livorno,3-0,https://www.besoccer.com/match/roma/livorno/2006213,2006,22,serie_a
+Ascoli,Juventus,1-3,https://www.besoccer.com/match/ascoli/juventus-fc/2006214,2006,22,serie_a
+Chievo,Reggina,4-0,https://www.besoccer.com/match/chievo/reggina/2006215,2006,22,serie_a
+Empoli,Parma,1-2,https://www.besoccer.com/match/empoli-fc/parma-fc/2006216,2006,22,serie_a
+Messina,Cagliari,1-0,https://www.besoccer.com/match/messina/cagliari/2006218,2006,22,serie_a
+Treviso,Lazio,0-1,https://www.besoccer.com/match/treviso/lazio/2006219,2006,22,serie_a
+Udinese,Fiorentina,0-0,https://www.besoccer.com/match/udinese/fiorentina/2006220,2006,22,serie_a
+Lecce,Inter,0-2,https://www.besoccer.com/match/lecce/internazionale/2006217,2006,22,serie_a
+Siena,Ascoli,1-1,https://www.besoccer.com/match/siena/ascoli/2006222,2006,23,serie_a
+Parma,Roma,0-3,https://www.besoccer.com/match/parma-fc/roma/2006221,2006,23,serie_a
+Cagliari,Empoli,4-1,https://www.besoccer.com/match/cagliari/empoli-fc/2006223,2006,23,serie_a
+Fiorentina,Lecce,1-0,https://www.besoccer.com/match/fiorentina/lecce/2006224,2006,23,serie_a
+Inter,Chievo,1-0,https://www.besoccer.com/match/internazionale/chievo/2006225,2006,23,serie_a
+Juventus,Udinese,1-0,https://www.besoccer.com/match/juventus-fc/udinese/2006226,2006,23,serie_a
+Livorno,Messina,2-2,https://www.besoccer.com/match/livorno/messina/2006228,2006,23,serie_a
+Reggina,Palermo FC,2-2,https://www.besoccer.com/match/reggina/palermo/2006229,2006,23,serie_a
+Sampdoria,Treviso,1-1,https://www.besoccer.com/match/sampdoria/treviso/2006230,2006,23,serie_a
+Lazio,Milan,0-0,https://www.besoccer.com/match/lazio/milan/2006227,2006,23,serie_a
+Milan,Treviso,5-0,https://www.besoccer.com/match/milan/treviso/2006231,2006,24,serie_a
+Roma,Cagliari,4-3,https://www.besoccer.com/match/roma/cagliari/2006232,2006,24,serie_a
+Ascoli,Livorno,0-0,https://www.besoccer.com/match/ascoli/livorno/2006233,2006,24,serie_a
+Chievo,Sampdoria,1-1,https://www.besoccer.com/match/chievo/sampdoria/2006234,2006,24,serie_a
+Fiorentina,Inter,2-1,https://www.besoccer.com/match/fiorentina/internazionale/2006235,2006,24,serie_a
+Juventus,Parma,1-1,https://www.besoccer.com/match/juventus-fc/parma-fc/2006236,2006,24,serie_a
+Lecce,Empoli,1-2,https://www.besoccer.com/match/lecce/empoli-fc/2006237,2006,24,serie_a
+Messina,Siena,0-0,https://www.besoccer.com/match/messina/siena/2006238,2006,24,serie_a
+Palermo FC,Lazio,3-1,https://www.besoccer.com/match/palermo/lazio/2006239,2006,24,serie_a
+Udinese,Reggina,1-2,https://www.besoccer.com/match/udinese/reggina/2006240,2006,24,serie_a
+Treviso,Chievo,1-2,https://www.besoccer.com/match/treviso/chievo/2006242,2006,25,serie_a
+Lazio,Udinese,1-1,https://www.besoccer.com/match/lazio/udinese/2006241,2006,25,serie_a
+Cagliari,Lecce,0-0,https://www.besoccer.com/match/cagliari/lecce/2006243,2006,25,serie_a
+Empoli,Palermo FC,0-1,https://www.besoccer.com/match/empoli-fc/palermo/2006244,2006,25,serie_a
+Livorno,Fiorentina,2-0,https://www.besoccer.com/match/livorno/fiorentina/2006246,2006,25,serie_a
+Parma,Ascoli,0-0,https://www.besoccer.com/match/parma-fc/ascoli/2006247,2006,25,serie_a
+Reggina,Milan,1-4,https://www.besoccer.com/match/reggina/milan/2006248,2006,25,serie_a
+Sampdoria,Messina,4-2,https://www.besoccer.com/match/sampdoria/messina/2006249,2006,25,serie_a
+Siena,Roma,0-2,https://www.besoccer.com/match/siena/roma/2006250,2006,25,serie_a
+Inter,Juventus,1-2,https://www.besoccer.com/match/internazionale/juventus-fc/2006245,2006,25,serie_a
+Livorno,Inter,0-0,https://www.besoccer.com/match/livorno/internazionale/2006252,2006,26,serie_a
+Messina,Juventus,2-2,https://www.besoccer.com/match/messina/juventus-fc/2006253,2006,26,serie_a
+Milan,Cagliari,1-0,https://www.besoccer.com/match/milan/cagliari/2006251,2006,26,serie_a
+Roma,Empoli,1-0,https://www.besoccer.com/match/roma/empoli-fc/2006254,2006,26,serie_a
+Chievo,Palermo FC,0-0,https://www.besoccer.com/match/chievo/palermo/2006255,2006,26,serie_a
+Fiorentina,Lazio,1-2,https://www.besoccer.com/match/fiorentina/lazio/2006256,2006,26,serie_a
+Lecce,Reggina,0-0,https://www.besoccer.com/match/lecce/reggina/2006257,2006,26,serie_a
+Sampdoria,Ascoli,1-2,https://www.besoccer.com/match/sampdoria/ascoli/2006258,2006,26,serie_a
+Treviso,Parma,0-1,https://www.besoccer.com/match/treviso/parma-fc/2006259,2006,26,serie_a
+Udinese,Siena,1-2,https://www.besoccer.com/match/udinese/siena/2006260,2006,26,serie_a
+Reggina,Livorno,1-1,https://www.besoccer.com/match/reggina/livorno/2006262,2006,27,serie_a
+Parma,Fiorentina,2-4,https://www.besoccer.com/match/parma-fc/fiorentina/2006261,2006,27,serie_a
+Ascoli,Messina,1-0,https://www.besoccer.com/match/ascoli/messina/2006263,2006,27,serie_a
+Cagliari,Chievo,2-2,https://www.besoccer.com/match/cagliari/chievo/2006264,2006,27,serie_a
+Empoli,Treviso,1-1,https://www.besoccer.com/match/empoli-fc/treviso/2006265,2006,27,serie_a
+Inter,Udinese,3-1,https://www.besoccer.com/match/internazionale/udinese/2006266,2006,27,serie_a
+Juventus,Lecce,3-1,https://www.besoccer.com/match/juventus-fc/lecce/2006267,2006,27,serie_a
+Palermo FC,Milan,0-2,https://www.besoccer.com/match/palermo/milan/2006269,2006,27,serie_a
+Siena,Sampdoria,1-0,https://www.besoccer.com/match/siena/sampdoria/2006270,2006,27,serie_a
+Lazio,Roma,0-2,https://www.besoccer.com/match/lazio/roma/2006268,2006,27,serie_a
+Milan,Empoli,3-0,https://www.besoccer.com/match/milan/empoli-fc/2006271,2006,28,serie_a
+Sampdoria,Juventus,0-1,https://www.besoccer.com/match/sampdoria/juventus-fc/2006272,2006,28,serie_a
+Messina,Parma,0-1,https://www.besoccer.com/match/messina/parma-fc/2006278,2006,28,serie_a
+Chievo,Lazio,2-2,https://www.besoccer.com/match/chievo/lazio/2006274,2006,28,serie_a
+Fiorentina,Siena,2-1,https://www.besoccer.com/match/fiorentina/siena/2006275,2006,28,serie_a
+Lecce,Palermo FC,2-0,https://www.besoccer.com/match/lecce/palermo/2006276,2006,28,serie_a
+Livorno,Cagliari,0-1,https://www.besoccer.com/match/livorno/cagliari/2006277,2006,28,serie_a
+Treviso,Reggina,0-1,https://www.besoccer.com/match/treviso/reggina/2006279,2006,28,serie_a
+Udinese,Ascoli,1-1,https://www.besoccer.com/match/udinese/ascoli/2006280,2006,28,serie_a
+Roma,Inter,1-1,https://www.besoccer.com/match/roma/internazionale/2006273,2006,28,serie_a
+Siena,Treviso,1-0,https://www.besoccer.com/match/siena/treviso/2006282,2006,29,serie_a
+Inter,Sampdoria,1-0,https://www.besoccer.com/match/internazionale/sampdoria/2006281,2006,29,serie_a
+Ascoli,Roma,3-2,https://www.besoccer.com/match/ascoli/roma/2006283,2006,29,serie_a
+Empoli,Chievo,2-1,https://www.besoccer.com/match/empoli-fc/chievo/2006284,2006,29,serie_a
+Lazio,Reggina,3-1,https://www.besoccer.com/match/lazio/reggina/2006286,2006,29,serie_a
+Messina,Lecce,2-1,https://www.besoccer.com/match/messina/lecce/2006287,2006,29,serie_a
+Palermo FC,Udinese,2-0,https://www.besoccer.com/match/palermo/udinese/2006288,2006,29,serie_a
+Parma,Livorno,2-1,https://www.besoccer.com/match/parma-fc/livorno/2006289,2006,29,serie_a
+Cagliari,Fiorentina,0-0,https://www.besoccer.com/match/cagliari/fiorentina/2006290,2006,29,serie_a
+Juventus,Milan,0-0,https://www.besoccer.com/match/juventus-fc/milan/2006285,2006,29,serie_a
+Livorno,Juventus,1-3,https://www.besoccer.com/match/livorno/juventus-fc/2006291,2006,30,serie_a
+Treviso,Cagliari,1-2,https://www.besoccer.com/match/treviso/cagliari/2006292,2006,30,serie_a
+Roma,Messina,2-1,https://www.besoccer.com/match/roma/messina/2006293,2006,30,serie_a
+Chievo,Siena,4-1,https://www.besoccer.com/match/chievo/siena/2006294,2006,30,serie_a
+Fiorentina,Ascoli,3-1,https://www.besoccer.com/match/fiorentina/ascoli/2006295,2006,30,serie_a
+Inter,Lazio,3-1,https://www.besoccer.com/match/internazionale/lazio/2006296,2006,30,serie_a
+Lecce,Parma,1-2,https://www.besoccer.com/match/lecce/parma-fc/2006297,2006,30,serie_a
+Reggina,Empoli,0-2,https://www.besoccer.com/match/reggina/empoli-fc/2006298,2006,30,serie_a
+Sampdoria,Palermo FC,0-2,https://www.besoccer.com/match/sampdoria/palermo/2006299,2006,30,serie_a
+Udinese,Milan,0-4,https://www.besoccer.com/match/udinese/milan/2006300,2006,30,serie_a
+Juventus,Roma,1-1,https://www.besoccer.com/match/juventus-fc/roma/2006302,2006,31,serie_a
+Parma,Inter,1-0,https://www.besoccer.com/match/parma-fc/internazionale/2006303,2006,31,serie_a
+Milan,Fiorentina,3-1,https://www.besoccer.com/match/milan/fiorentina/2006301,2006,31,serie_a
+Ascoli,Chievo,2-2,https://www.besoccer.com/match/ascoli/chievo/2006304,2006,31,serie_a
+Cagliari,Reggina,0-2,https://www.besoccer.com/match/cagliari/reggina/2006305,2006,31,serie_a
+Empoli,Livorno,2-1,https://www.besoccer.com/match/empoli-fc/livorno/2006306,2006,31,serie_a
+Lazio,Sampdoria,2-0,https://www.besoccer.com/match/lazio/sampdoria/2006307,2006,31,serie_a
+Messina,Udinese,1-1,https://www.besoccer.com/match/messina/udinese/2006308,2006,31,serie_a
+Palermo FC,Treviso,1-0,https://www.besoccer.com/match/palermo/treviso/2006309,2006,31,serie_a
+Siena,Lecce,1-2,https://www.besoccer.com/match/siena/lecce/2006310,2006,31,serie_a
+Inter,Messina,3-0,https://www.besoccer.com/match/internazionale/messina/2006311,2006,32,serie_a
+Lecce,Milan,1-0,https://www.besoccer.com/match/lecce/milan/2006312,2006,32,serie_a
+Treviso,Juventus,0-0,https://www.besoccer.com/match/treviso/juventus-fc/2006313,2006,32,serie_a
+Chievo,Livorno,2-1,https://www.besoccer.com/match/chievo/livorno/2006314,2006,32,serie_a
+Fiorentina,Roma,1-1,https://www.besoccer.com/match/fiorentina/roma/2006315,2006,32,serie_a
+Lazio,Empoli,3-3,https://www.besoccer.com/match/lazio/empoli-fc/2006316,2006,32,serie_a
+Palermo FC,Ascoli,1-1,https://www.besoccer.com/match/palermo/ascoli/2006317,2006,32,serie_a
+Reggina,Siena,1-1,https://www.besoccer.com/match/reggina/siena/2006318,2006,32,serie_a
+Sampdoria,Cagliari,1-1,https://www.besoccer.com/match/sampdoria/cagliari/2006319,2006,32,serie_a
+Udinese,Parma,2-0,https://www.besoccer.com/match/udinese/parma-fc/2006320,2006,32,serie_a
+Ascoli,Inter,1-2,https://www.besoccer.com/match/ascoli/internazionale/2006321,2006,33,serie_a
+Livorno,Udinese,0-2,https://www.besoccer.com/match/livorno/udinese/2006322,2006,33,serie_a
+Milan,Chievo,4-1,https://www.besoccer.com/match/milan/chievo/2006323,2006,33,serie_a
+Roma,Lecce,3-1,https://www.besoccer.com/match/roma/lecce/2006324,2006,33,serie_a
+Cagliari,Palermo FC,1-1,https://www.besoccer.com/match/cagliari/palermo/2006325,2006,33,serie_a
+Empoli,Sampdoria,2-1,https://www.besoccer.com/match/empoli-fc/sampdoria/2006326,2006,33,serie_a
+Juventus,Fiorentina,1-1,https://www.besoccer.com/match/juventus-fc/fiorentina/2006327,2006,33,serie_a
+Messina,Treviso,3-1,https://www.besoccer.com/match/messina/treviso/2006328,2006,33,serie_a
+Parma,Reggina,4-0,https://www.besoccer.com/match/parma-fc/reggina/2006329,2006,33,serie_a
+Siena,Lazio,2-3,https://www.besoccer.com/match/siena/lazio/2006330,2006,33,serie_a
+Milan,Inter,1-0,https://www.besoccer.com/match/milan/internazionale/2006331,2006,34,serie_a
+Cagliari,Juventus,1-1,https://www.besoccer.com/match/cagliari/juventus-fc/2006332,2006,34,serie_a
+Chievo,Messina,2-0,https://www.besoccer.com/match/chievo/messina/2006333,2006,34,serie_a
+Empoli,Siena,2-1,https://www.besoccer.com/match/empoli-fc/siena/2006334,2006,34,serie_a
+Lazio,Livorno,3-1,https://www.besoccer.com/match/lazio/livorno/2006335,2006,34,serie_a
+Lecce,Udinese,1-2,https://www.besoccer.com/match/lecce/udinese/2006336,2006,34,serie_a
+Palermo FC,Roma,3-3,https://www.besoccer.com/match/palermo/roma/2006337,2006,34,serie_a
+Reggina,Ascoli,2-0,https://www.besoccer.com/match/reggina/ascoli/2006338,2006,34,serie_a
+Sampdoria,Parma,1-2,https://www.besoccer.com/match/sampdoria/parma-fc/2006339,2006,34,serie_a
+Treviso,Fiorentina,1-3,https://www.besoccer.com/match/treviso/fiorentina/2006340,2006,34,serie_a
+Roma,Sampdoria,0-0,https://www.besoccer.com/match/roma/sampdoria/2006341,2006,35,serie_a
+Ascoli,Cagliari,2-2,https://www.besoccer.com/match/ascoli/cagliari/2006342,2006,35,serie_a
+Fiorentina,Empoli,2-1,https://www.besoccer.com/match/fiorentina/empoli-fc/2006343,2006,35,serie_a
+Inter,Reggina,4-0,https://www.besoccer.com/match/internazionale/reggina/2006344,2006,35,serie_a
+Juventus,Lazio,1-1,https://www.besoccer.com/match/juventus-fc/lazio/2006345,2006,35,serie_a
+Lecce,Treviso,1-1,https://www.besoccer.com/match/lecce/treviso/2006346,2006,35,serie_a
+Livorno,Palermo FC,3-1,https://www.besoccer.com/match/livorno/palermo/2006347,2006,35,serie_a
+Messina,Milan,1-3,https://www.besoccer.com/match/messina/milan/2006348,2006,35,serie_a
+Parma,Siena,1-1,https://www.besoccer.com/match/parma-fc/siena/2006349,2006,35,serie_a
+Udinese,Chievo,1-1,https://www.besoccer.com/match/udinese/chievo/2006350,2006,35,serie_a
+Milan,Livorno,2-0,https://www.besoccer.com/match/milan/livorno/2006351,2006,36,serie_a
+Cagliari,Parma,3-1,https://www.besoccer.com/match/cagliari/parma-fc/2006352,2006,36,serie_a
+Chievo,Roma,4-4,https://www.besoccer.com/match/chievo/roma/2006353,2006,36,serie_a
+Empoli,Inter,1-0,https://www.besoccer.com/match/empoli-fc/internazionale/2006354,2006,36,serie_a
+Lazio,Lecce,1-0,https://www.besoccer.com/match/lazio/lecce/2006355,2006,36,serie_a
+Palermo FC,Fiorentina,1-0,https://www.besoccer.com/match/palermo/fiorentina/2006356,2006,36,serie_a
+Reggina,Messina,3-0,https://www.besoccer.com/match/reggina/messina/2006357,2006,36,serie_a
+Sampdoria,Udinese,1-1,https://www.besoccer.com/match/sampdoria/udinese/2006358,2006,36,serie_a
+Siena,Juventus,0-3,https://www.besoccer.com/match/siena/juventus-fc/2006359,2006,36,serie_a
+Treviso,Ascoli,2-2,https://www.besoccer.com/match/treviso/ascoli/2006360,2006,36,serie_a
+Roma,Treviso,1-0,https://www.besoccer.com/match/roma/treviso/2006361,2006,37,serie_a
+Ascoli,Lazio,1-4,https://www.besoccer.com/match/ascoli/lazio/2006362,2006,37,serie_a
+Fiorentina,Reggina,5-2,https://www.besoccer.com/match/fiorentina/reggina/2006363,2006,37,serie_a
+Inter,Siena,1-1,https://www.besoccer.com/match/internazionale/siena/2006364,2006,37,serie_a
+Juventus,Palermo FC,2-1,https://www.besoccer.com/match/juventus-fc/palermo/2006365,2006,37,serie_a
+Lecce,Chievo,0-0,https://www.besoccer.com/match/lecce/chievo/2006366,2006,37,serie_a
+Livorno,Sampdoria,0-0,https://www.besoccer.com/match/livorno/sampdoria/2006367,2006,37,serie_a
+Messina,Empoli,0-3,https://www.besoccer.com/match/messina/empoli-fc/2006368,2006,37,serie_a
+Parma,Milan,2-3,https://www.besoccer.com/match/parma-fc/milan/2006369,2006,37,serie_a
+Udinese,Cagliari,2-0,https://www.besoccer.com/match/udinese/cagliari/2006370,2006,37,serie_a
+Milan,Roma,2-1,https://www.besoccer.com/match/milan/roma/2006371,2006,38,serie_a
+Cagliari,Inter,2-2,https://www.besoccer.com/match/cagliari/internazionale/2006372,2006,38,serie_a
+Chievo,Fiorentina,0-2,https://www.besoccer.com/match/chievo/fiorentina/2006373,2006,38,serie_a
+Empoli,Ascoli,1-2,https://www.besoccer.com/match/empoli-fc/ascoli/2006374,2006,38,serie_a
+Lazio,Parma,1-0,https://www.besoccer.com/match/lazio/parma-fc/2006375,2006,38,serie_a
+Palermo FC,Messina,1-0,https://www.besoccer.com/match/palermo/messina/2006376,2006,38,serie_a
+Reggina,Juventus,0-2,https://www.besoccer.com/match/reggina/juventus-fc/2006377,2006,38,serie_a
+Sampdoria,Lecce,1-3,https://www.besoccer.com/match/sampdoria/lecce/2006378,2006,38,serie_a
+Siena,Livorno,0-0,https://www.besoccer.com/match/siena/livorno/2006379,2006,38,serie_a
+Treviso,Udinese,2-1,https://www.besoccer.com/match/treviso/udinese/2006380,2006,38,serie_a

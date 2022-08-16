@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Parma,Juventus,0-1,https://www.besoccer.com/match/parma-fc/juventus-fc/2020133901,2020,1,serie_a
+Fiorentina,Napoli,3-4,https://www.besoccer.com/match/fiorentina/napoli/2020133899,2020,1,serie_a
+Udinese,Milan,1-0,https://www.besoccer.com/match/udinese/milan/2020133905,2020,1,serie_a
+Roma,Genoa,3-3,https://www.besoccer.com/match/roma/genoa/2020133897,2020,1,serie_a
+Cagliari,Brescia,0-1,https://www.besoccer.com/match/cagliari/brescia/2020133898,2020,1,serie_a
+Sampdoria,Lazio,0-3,https://www.besoccer.com/match/sampdoria/lazio/2020133902,2020,1,serie_a
+SPAL,Atalanta,2-3,https://www.besoccer.com/match/spal-1907/atalanta/2020133903,2020,1,serie_a
+Torino,Sassuolo,2-1,https://www.besoccer.com/match/torino-fc/us-sassuolo-calcio/2020133904,2020,1,serie_a
+Hellas Verona,Bologna,1-1,https://www.besoccer.com/match/hellas-verona-fc/bologna/2020133906,2020,1,serie_a
+Inter,Lecce,4-0,https://www.besoccer.com/match/internazionale/lecce/2020133900,2020,1,serie_a
+Bologna,SPAL,1-0,https://www.besoccer.com/match/bologna/spal-1907/2020133909,2020,2,serie_a
+Milan,Brescia,1-0,https://www.besoccer.com/match/milan/brescia/2020133907,2020,2,serie_a
+Juventus,Napoli,4-3,https://www.besoccer.com/match/juventus-fc/napoli/2020133912,2020,2,serie_a
+Lazio,Roma,1-1,https://www.besoccer.com/match/lazio/roma/2020133913,2020,2,serie_a
+Atalanta,Torino,2-3,https://www.besoccer.com/match/atalanta/torino-fc/2020133908,2020,2,serie_a
+Cagliari,Inter,1-2,https://www.besoccer.com/match/cagliari/internazionale/2020133910,2020,2,serie_a
+Genoa,Fiorentina,2-1,https://www.besoccer.com/match/genoa/fiorentina/2020133911,2020,2,serie_a
+Lecce,Hellas Verona,0-1,https://www.besoccer.com/match/lecce/hellas-verona-fc/2020133914,2020,2,serie_a
+Sassuolo,Sampdoria,4-1,https://www.besoccer.com/match/us-sassuolo-calcio/sampdoria/2020133915,2020,2,serie_a
+Udinese,Parma,1-3,https://www.besoccer.com/match/udinese/parma-fc/2020133916,2020,2,serie_a
+Fiorentina,Juventus,0-0,https://www.besoccer.com/match/fiorentina/juventus-fc/2020133919,2020,3,serie_a
+Napoli,Sampdoria,2-0,https://www.besoccer.com/match/napoli/sampdoria/2020133922,2020,3,serie_a
+Inter,Udinese,1-0,https://www.besoccer.com/match/internazionale/udinese/2020133921,2020,3,serie_a
+Genoa,Atalanta,1-2,https://www.besoccer.com/match/genoa/atalanta/2020133920,2020,3,serie_a
+Brescia,Bologna,3-4,https://www.besoccer.com/match/brescia/bologna/2020133918,2020,3,serie_a
+Parma,Cagliari,1-3,https://www.besoccer.com/match/parma-fc/cagliari/2020133923,2020,3,serie_a
+SPAL,Lazio,2-1,https://www.besoccer.com/match/spal-1907/lazio/2020133924,2020,3,serie_a
+Roma,Sassuolo,4-2,https://www.besoccer.com/match/roma/us-sassuolo-calcio/2020133917,2020,3,serie_a
+Hellas Verona,Milan,0-1,https://www.besoccer.com/match/hellas-verona-fc/milan/2020133926,2020,3,serie_a
+Torino,Lecce,1-2,https://www.besoccer.com/match/torino-fc/lecce/2020133925,2020,3,serie_a
+Cagliari,Genoa,3-1,https://www.besoccer.com/match/cagliari/genoa/2020133930,2020,4,serie_a
+Udinese,Brescia,0-1,https://www.besoccer.com/match/udinese/brescia/2020133936,2020,4,serie_a
+Juventus,Hellas Verona,2-1,https://www.besoccer.com/match/juventus-fc/hellas-verona-fc/2020133931,2020,4,serie_a
+Milan,Inter,0-2,https://www.besoccer.com/match/milan/internazionale/2020133927,2020,4,serie_a
+Sassuolo,SPAL,3-0,https://www.besoccer.com/match/us-sassuolo-calcio/spal-1907/2020133935,2020,4,serie_a
+Bologna,Roma,1-2,https://www.besoccer.com/match/bologna/roma/2020133929,2020,4,serie_a
+Lecce,Napoli,1-4,https://www.besoccer.com/match/lecce/napoli/2020133933,2020,4,serie_a
+Sampdoria,Torino,1-0,https://www.besoccer.com/match/sampdoria/torino-fc/2020133934,2020,4,serie_a
+Atalanta,Fiorentina,2-2,https://www.besoccer.com/match/atalanta/fiorentina/2020133928,2020,4,serie_a
+Lazio,Parma,2-0,https://www.besoccer.com/match/lazio/parma-fc/2020133932,2020,4,serie_a
+Hellas Verona,Udinese,0-0,https://www.besoccer.com/match/hellas-verona-fc/udinese/2020133946,2020,5,serie_a
+Brescia,Juventus,1-2,https://www.besoccer.com/match/brescia/juventus-fc/2020133938,2020,5,serie_a
+Roma,Atalanta,0-2,https://www.besoccer.com/match/roma/atalanta/2020133937,2020,5,serie_a
+Fiorentina,Sampdoria,2-1,https://www.besoccer.com/match/fiorentina/sampdoria/2020133939,2020,5,serie_a
+Genoa,Bologna,0-0,https://www.besoccer.com/match/genoa/bologna/2020133940,2020,5,serie_a
+Inter,Lazio,1-0,https://www.besoccer.com/match/internazionale/lazio/2020133941,2020,5,serie_a
+Napoli,Cagliari,0-1,https://www.besoccer.com/match/napoli/cagliari/2020133942,2020,5,serie_a
+Parma,Sassuolo,1-0,https://www.besoccer.com/match/parma-fc/us-sassuolo-calcio/2020133943,2020,5,serie_a
+SPAL,Lecce,1-3,https://www.besoccer.com/match/spal-1907/lecce/2020133944,2020,5,serie_a
+Torino,Milan,2-1,https://www.besoccer.com/match/torino-fc/milan/2020133945,2020,5,serie_a
+Juventus,SPAL,2-0,https://www.besoccer.com/match/juventus-fc/spal-1907/2020133949,2020,6,serie_a
+Sampdoria,Inter,1-3,https://www.besoccer.com/match/sampdoria/internazionale/2020133954,2020,6,serie_a
+Sassuolo,Atalanta,1-4,https://www.besoccer.com/match/us-sassuolo-calcio/atalanta/2020133955,2020,6,serie_a
+Napoli,Brescia,2-1,https://www.besoccer.com/match/napoli/brescia/2020133952,2020,6,serie_a
+Lazio,Genoa,4-0,https://www.besoccer.com/match/lazio/genoa/2020133950,2020,6,serie_a
+Lecce,Roma,0-1,https://www.besoccer.com/match/lecce/roma/2020133951,2020,6,serie_a
+Udinese,Bologna,1-0,https://www.besoccer.com/match/udinese/bologna/2020133956,2020,6,serie_a
+Cagliari,Hellas Verona,1-1,https://www.besoccer.com/match/cagliari/hellas-verona-fc/2020133948,2020,6,serie_a
+Milan,Fiorentina,1-3,https://www.besoccer.com/match/milan/fiorentina/2020133947,2020,6,serie_a
+Parma,Torino,3-2,https://www.besoccer.com/match/parma-fc/torino-fc/2020133953,2020,6,serie_a
+SPAL,Parma,1-0,https://www.besoccer.com/match/spal-1907/parma-fc/2020133964,2020,7,serie_a
+Hellas Verona,Sampdoria,2-0,https://www.besoccer.com/match/hellas-verona-fc/sampdoria/2020133966,2020,7,serie_a
+Genoa,Milan,1-2,https://www.besoccer.com/match/genoa/milan/2020133962,2020,7,serie_a
+Fiorentina,Udinese,1-0,https://www.besoccer.com/match/fiorentina/udinese/2020133961,2020,7,serie_a
+Roma,Cagliari,1-1,https://www.besoccer.com/match/roma/cagliari/2020133957,2020,7,serie_a
+Atalanta,Lecce,3-1,https://www.besoccer.com/match/atalanta/lecce/2020133958,2020,7,serie_a
+Bologna,Lazio,2-2,https://www.besoccer.com/match/bologna/lazio/2020133959,2020,7,serie_a
+Torino,Napoli,0-0,https://www.besoccer.com/match/torino-fc/napoli/2020133965,2020,7,serie_a
+Inter,Juventus,1-2,https://www.besoccer.com/match/internazionale/juventus-fc/2020133963,2020,7,serie_a
+Brescia,Sassuolo,0-2,https://www.besoccer.com/match/brescia/us-sassuolo-calcio/2020133960,2020,7,serie_a
+Lazio,Atalanta,3-3,https://www.besoccer.com/match/lazio/atalanta/2020133971,2020,8,serie_a
+Napoli,Hellas Verona,2-0,https://www.besoccer.com/match/napoli/hellas-verona-fc/2020133972,2020,8,serie_a
+Juventus,Bologna,2-1,https://www.besoccer.com/match/juventus-fc/bologna/2020133970,2020,8,serie_a
+Sassuolo,Inter,3-4,https://www.besoccer.com/match/us-sassuolo-calcio/internazionale/2020133975,2020,8,serie_a
+Cagliari,SPAL,2-0,https://www.besoccer.com/match/cagliari/spal-1907/2020133969,2020,8,serie_a
+Sampdoria,Roma,0-0,https://www.besoccer.com/match/sampdoria/roma/2020133974,2020,8,serie_a
+Udinese,Torino,1-0,https://www.besoccer.com/match/udinese/torino-fc/2020133976,2020,8,serie_a
+Parma,Genoa,5-1,https://www.besoccer.com/match/parma-fc/genoa/2020133973,2020,8,serie_a
+Milan,Lecce,2-2,https://www.besoccer.com/match/milan/lecce/2020133967,2020,8,serie_a
+Brescia,Fiorentina,0-0,https://www.besoccer.com/match/brescia/fiorentina/2020133968,2020,8,serie_a
+Hellas Verona,Sassuolo,0-1,https://www.besoccer.com/match/hellas-verona-fc/us-sassuolo-calcio/2020133986,2020,9,serie_a
+Lecce,Juventus,1-1,https://www.besoccer.com/match/lecce/juventus-fc/2020133983,2020,9,serie_a
+Inter,Parma,2-2,https://www.besoccer.com/match/internazionale/parma-fc/2020133982,2020,9,serie_a
+Genoa,Brescia,3-1,https://www.besoccer.com/match/genoa/brescia/2020133981,2020,9,serie_a
+Bologna,Sampdoria,2-1,https://www.besoccer.com/match/bologna/sampdoria/2020133979,2020,9,serie_a
+Atalanta,Udinese,7-1,https://www.besoccer.com/match/atalanta/udinese/2020133978,2020,9,serie_a
+SPAL,Napoli,1-1,https://www.besoccer.com/match/spal-1907/napoli/2020133984,2020,9,serie_a
+Torino,Cagliari,1-1,https://www.besoccer.com/match/torino-fc/cagliari/2020133985,2020,9,serie_a
+Roma,Milan,2-1,https://www.besoccer.com/match/roma/milan/2020133977,2020,9,serie_a
+Fiorentina,Lazio,1-2,https://www.besoccer.com/match/fiorentina/lazio/2020133980,2020,9,serie_a
+Parma,Hellas Verona,0-1,https://www.besoccer.com/match/parma-fc/hellas-verona-fc/2020133993,2020,10,serie_a
+Brescia,Inter,1-2,https://www.besoccer.com/match/brescia/internazionale/2020133988,2020,10,serie_a
+Napoli,Atalanta,2-2,https://www.besoccer.com/match/napoli/atalanta/2020133992,2020,10,serie_a
+Cagliari,Bologna,3-2,https://www.besoccer.com/match/cagliari/bologna/2020133989,2020,10,serie_a
+Juventus,Genoa,2-1,https://www.besoccer.com/match/juventus-fc/genoa/2020133990,2020,10,serie_a
+Lazio,Torino,4-0,https://www.besoccer.com/match/lazio/torino-fc/2020133991,2020,10,serie_a
+Sampdoria,Lecce,1-1,https://www.besoccer.com/match/sampdoria/lecce/2020133994,2020,10,serie_a
+Sassuolo,Fiorentina,1-2,https://www.besoccer.com/match/us-sassuolo-calcio/fiorentina/2020133995,2020,10,serie_a
+Udinese,Roma,0-4,https://www.besoccer.com/match/udinese/roma/2020133996,2020,10,serie_a
+Milan,SPAL,1-0,https://www.besoccer.com/match/milan/spal-1907/2020133987,2020,10,serie_a
+Roma,Napoli,2-1,https://www.besoccer.com/match/roma/napoli/2020133998,2020,11,serie_a
+Bologna,Inter,1-2,https://www.besoccer.com/match/bologna/internazionale/2020134000,2020,11,serie_a
+Torino,Juventus,0-1,https://www.besoccer.com/match/torino-fc/juventus-fc/2020134005,2020,11,serie_a
+Atalanta,Cagliari,0-2,https://www.besoccer.com/match/atalanta/cagliari/2020133999,2020,11,serie_a
+Genoa,Udinese,1-3,https://www.besoccer.com/match/genoa/udinese/2020134002,2020,11,serie_a
+Lecce,Sassuolo,2-2,https://www.besoccer.com/match/lecce/us-sassuolo-calcio/2020134003,2020,11,serie_a
+Hellas Verona,Brescia,2-1,https://www.besoccer.com/match/hellas-verona-fc/brescia/2020134006,2020,11,serie_a
+Fiorentina,Parma,1-1,https://www.besoccer.com/match/fiorentina/parma-fc/2020134001,2020,11,serie_a
+Milan,Lazio,1-2,https://www.besoccer.com/match/milan/lazio/2020133997,2020,11,serie_a
+SPAL,Sampdoria,0-1,https://www.besoccer.com/match/spal-1907/sampdoria/2020134004,2020,11,serie_a
+Sassuolo,Bologna,3-1,https://www.besoccer.com/match/us-sassuolo-calcio/bologna/2020134015,2020,12,serie_a
+Brescia,Torino,0-4,https://www.besoccer.com/match/brescia/torino-fc/2020134007,2020,12,serie_a
+Inter,Hellas Verona,2-1,https://www.besoccer.com/match/internazionale/hellas-verona-fc/2020134009,2020,12,serie_a
+Napoli,Genoa,0-0,https://www.besoccer.com/match/napoli/genoa/2020134012,2020,12,serie_a
+Cagliari,Fiorentina,5-2,https://www.besoccer.com/match/cagliari/fiorentina/2020134008,2020,12,serie_a
+Lazio,Lecce,4-2,https://www.besoccer.com/match/lazio/lecce/2020134011,2020,12,serie_a
+Sampdoria,Atalanta,0-0,https://www.besoccer.com/match/sampdoria/atalanta/2020134014,2020,12,serie_a
+Udinese,SPAL,0-0,https://www.besoccer.com/match/udinese/spal-1907/2020134016,2020,12,serie_a
+Parma,Roma,2-0,https://www.besoccer.com/match/parma-fc/roma/2020134013,2020,12,serie_a
+Juventus,Milan,1-0,https://www.besoccer.com/match/juventus-fc/milan/2020134010,2020,12,serie_a
+Atalanta,Juventus,1-3,https://www.besoccer.com/match/atalanta/juventus-fc/2020134019,2020,13,serie_a
+Milan,Napoli,1-1,https://www.besoccer.com/match/milan/napoli/2020134017,2020,13,serie_a
+Torino,Inter,0-3,https://www.besoccer.com/match/torino-fc/internazionale/2020134025,2020,13,serie_a
+Bologna,Parma,2-2,https://www.besoccer.com/match/bologna/parma-fc/2020134020,2020,13,serie_a
+Roma,Brescia,3-0,https://www.besoccer.com/match/roma/brescia/2020134018,2020,13,serie_a
+Sassuolo,Lazio,1-2,https://www.besoccer.com/match/us-sassuolo-calcio/lazio/2020134023,2020,13,serie_a
+Hellas Verona,Fiorentina,1-0,https://www.besoccer.com/match/hellas-verona-fc/fiorentina/2020134026,2020,13,serie_a
+Sampdoria,Udinese,2-1,https://www.besoccer.com/match/sampdoria/udinese/2020134022,2020,13,serie_a
+Lecce,Cagliari,2-2,https://www.besoccer.com/match/lecce/cagliari/2020134021,2020,13,serie_a
+SPAL,Genoa,1-1,https://www.besoccer.com/match/spal-1907/genoa/2020134024,2020,13,serie_a
+Brescia,Atalanta,0-3,https://www.besoccer.com/match/brescia/atalanta/2020134027,2020,14,serie_a
+Genoa,Torino,0-1,https://www.besoccer.com/match/genoa/torino-fc/2020134030,2020,14,serie_a
+Fiorentina,Lecce,0-1,https://www.besoccer.com/match/fiorentina/lecce/2020134029,2020,14,serie_a
+Juventus,Sassuolo,2-2,https://www.besoccer.com/match/juventus-fc/us-sassuolo-calcio/2020134032,2020,14,serie_a
+Inter,SPAL,2-1,https://www.besoccer.com/match/internazionale/spal-1907/2020134031,2020,14,serie_a
+Lazio,Udinese,3-0,https://www.besoccer.com/match/lazio/udinese/2020134033,2020,14,serie_a
+Parma,Milan,0-1,https://www.besoccer.com/match/parma-fc/milan/2020134035,2020,14,serie_a
+Napoli,Bologna,1-2,https://www.besoccer.com/match/napoli/bologna/2020134034,2020,14,serie_a
+Hellas Verona,Roma,1-3,https://www.besoccer.com/match/hellas-verona-fc/roma/2020134036,2020,14,serie_a
+Cagliari,Sampdoria,4-3,https://www.besoccer.com/match/cagliari/sampdoria/2020134028,2020,14,serie_a
+Inter,Roma,0-0,https://www.besoccer.com/match/internazionale/roma/2020134039,2020,15,serie_a
+Atalanta,Hellas Verona,3-2,https://www.besoccer.com/match/atalanta/hellas-verona-fc/2020134037,2020,15,serie_a
+Udinese,Napoli,1-1,https://www.besoccer.com/match/udinese/napoli/2020134046,2020,15,serie_a
+Lazio,Juventus,3-1,https://www.besoccer.com/match/lazio/juventus-fc/2020134040,2020,15,serie_a
+Lecce,Genoa,2-2,https://www.besoccer.com/match/lecce/genoa/2020134041,2020,15,serie_a
+Sassuolo,Cagliari,2-2,https://www.besoccer.com/match/us-sassuolo-calcio/cagliari/2020134043,2020,15,serie_a
+SPAL,Brescia,0-1,https://www.besoccer.com/match/spal-1907/brescia/2020134044,2020,15,serie_a
+Torino,Fiorentina,2-1,https://www.besoccer.com/match/torino-fc/fiorentina/2020134045,2020,15,serie_a
+Sampdoria,Parma,0-1,https://www.besoccer.com/match/sampdoria/parma-fc/2020134042,2020,15,serie_a
+Bologna,Milan,2-3,https://www.besoccer.com/match/bologna/milan/2020134038,2020,15,serie_a
+Brescia,Lecce,3-0,https://www.besoccer.com/match/brescia/lecce/2020134050,2020,16,serie_a
+Napoli,Parma,1-2,https://www.besoccer.com/match/napoli/parma-fc/2020134055,2020,16,serie_a
+Genoa,Sampdoria,0-1,https://www.besoccer.com/match/genoa/sampdoria/2020134053,2020,16,serie_a
+Hellas Verona,Torino,3-3,https://www.besoccer.com/match/hellas-verona-fc/torino-fc/2020134056,2020,16,serie_a
+Milan,Sassuolo,0-0,https://www.besoccer.com/match/milan/us-sassuolo-calcio/2020134047,2020,16,serie_a
+Bologna,Atalanta,2-1,https://www.besoccer.com/match/bologna/atalanta/2020134049,2020,16,serie_a
+Juventus,Udinese,3-1,https://www.besoccer.com/match/juventus-fc/udinese/2020134054,2020,16,serie_a
+Roma,SPAL,3-1,https://www.besoccer.com/match/roma/spal-1907/2020134048,2020,16,serie_a
+Fiorentina,Inter,1-1,https://www.besoccer.com/match/fiorentina/internazionale/2020134052,2020,16,serie_a
+Cagliari,Lazio,1-2,https://www.besoccer.com/match/cagliari/lazio/2020134051,2020,16,serie_a
+Sampdoria,Juventus,1-2,https://www.besoccer.com/match/sampdoria/juventus-fc/2020134063,2020,17,serie_a
+Fiorentina,Roma,1-4,https://www.besoccer.com/match/fiorentina/roma/2020134058,2020,17,serie_a
+Udinese,Cagliari,2-1,https://www.besoccer.com/match/udinese/cagliari/2020134066,2020,17,serie_a
+Inter,Genoa,4-0,https://www.besoccer.com/match/internazionale/genoa/2020134059,2020,17,serie_a
+Torino,SPAL,1-2,https://www.besoccer.com/match/torino-fc/spal-1907/2020134065,2020,17,serie_a
+Atalanta,Milan,5-0,https://www.besoccer.com/match/atalanta/milan/2020134057,2020,17,serie_a
+Lecce,Bologna,2-3,https://www.besoccer.com/match/lecce/bologna/2020134061,2020,17,serie_a
+Parma,Brescia,1-1,https://www.besoccer.com/match/parma-fc/brescia/2020134062,2020,17,serie_a
+Sassuolo,Napoli,1-2,https://www.besoccer.com/match/us-sassuolo-calcio/napoli/2020134064,2020,17,serie_a
+Lazio,Hellas Verona,0-0,https://www.besoccer.com/match/lazio/hellas-verona-fc/2020134060,2020,17,serie_a
+Brescia,Lazio,1-2,https://www.besoccer.com/match/brescia/lazio/2020134071,2020,18,serie_a
+SPAL,Hellas Verona,0-2,https://www.besoccer.com/match/spal-1907/hellas-verona-fc/2020134076,2020,18,serie_a
+Genoa,Sassuolo,2-1,https://www.besoccer.com/match/genoa/us-sassuolo-calcio/2020134072,2020,18,serie_a
+Roma,Torino,0-2,https://www.besoccer.com/match/roma/torino-fc/2020134068,2020,18,serie_a
+Bologna,Fiorentina,1-1,https://www.besoccer.com/match/bologna/fiorentina/2020134070,2020,18,serie_a
+Milan,Sampdoria,0-0,https://www.besoccer.com/match/milan/sampdoria/2020134067,2020,18,serie_a
+Atalanta,Parma,5-0,https://www.besoccer.com/match/atalanta/parma-fc/2020134069,2020,18,serie_a
+Juventus,Cagliari,4-0,https://www.besoccer.com/match/juventus-fc/cagliari/2020134073,2020,18,serie_a
+Lecce,Udinese,0-1,https://www.besoccer.com/match/lecce/udinese/2020134074,2020,18,serie_a
+Napoli,Inter,1-3,https://www.besoccer.com/match/napoli/internazionale/2020134075,2020,18,serie_a
+Cagliari,Milan,0-2,https://www.besoccer.com/match/cagliari/milan/2020134078,2020,19,serie_a
+Lazio,Napoli,1-0,https://www.besoccer.com/match/lazio/napoli/2020134081,2020,19,serie_a
+Inter,Atalanta,1-1,https://www.besoccer.com/match/internazionale/atalanta/2020134080,2020,19,serie_a
+Udinese,Sassuolo,3-0,https://www.besoccer.com/match/udinese/us-sassuolo-calcio/2020134085,2020,19,serie_a
+Fiorentina,SPAL,1-0,https://www.besoccer.com/match/fiorentina/spal-1907/2020134079,2020,19,serie_a
+Sampdoria,Brescia,5-1,https://www.besoccer.com/match/sampdoria/brescia/2020134083,2020,19,serie_a
+Torino,Bologna,1-0,https://www.besoccer.com/match/torino-fc/bologna/2020134084,2020,19,serie_a
+Hellas Verona,Genoa,2-1,https://www.besoccer.com/match/hellas-verona-fc/genoa/2020134086,2020,19,serie_a
+Roma,Juventus,1-2,https://www.besoccer.com/match/roma/juventus-fc/2020134077,2020,19,serie_a
+Parma,Lecce,2-0,https://www.besoccer.com/match/parma-fc/lecce/2020134082,2020,19,serie_a
+Lazio,Sampdoria,5-1,https://www.besoccer.com/match/lazio/sampdoria/2020134093,2020,20,serie_a
+Sassuolo,Torino,2-1,https://www.besoccer.com/match/us-sassuolo-calcio/torino-fc/2020134096,2020,20,serie_a
+Napoli,Fiorentina,0-2,https://www.besoccer.com/match/napoli/fiorentina/2020134095,2020,20,serie_a
+Milan,Udinese,3-2,https://www.besoccer.com/match/milan/udinese/2020134087,2020,20,serie_a
+Bologna,Hellas Verona,1-1,https://www.besoccer.com/match/bologna/hellas-verona-fc/2020134089,2020,20,serie_a
+Brescia,Cagliari,2-2,https://www.besoccer.com/match/brescia/cagliari/2020134090,2020,20,serie_a
+Lecce,Inter,1-1,https://www.besoccer.com/match/lecce/internazionale/2020134094,2020,20,serie_a
+Genoa,Roma,1-3,https://www.besoccer.com/match/genoa/roma/2020134091,2020,20,serie_a
+Juventus,Parma,2-1,https://www.besoccer.com/match/juventus-fc/parma-fc/2020134092,2020,20,serie_a
+Atalanta,SPAL,1-2,https://www.besoccer.com/match/atalanta/spal-1907/2020134088,2020,20,serie_a
+Brescia,Milan,0-1,https://www.besoccer.com/match/brescia/milan/2020134098,2020,21,serie_a
+SPAL,Bologna,1-3,https://www.besoccer.com/match/spal-1907/bologna/2020134104,2020,21,serie_a
+Fiorentina,Genoa,0-0,https://www.besoccer.com/match/fiorentina/genoa/2020134099,2020,21,serie_a
+Torino,Atalanta,0-7,https://www.besoccer.com/match/torino-fc/atalanta/2020134105,2020,21,serie_a
+Inter,Cagliari,1-1,https://www.besoccer.com/match/internazionale/cagliari/2020134100,2020,21,serie_a
+Parma,Udinese,2-0,https://www.besoccer.com/match/parma-fc/udinese/2020134102,2020,21,serie_a
+Sampdoria,Sassuolo,0-0,https://www.besoccer.com/match/sampdoria/us-sassuolo-calcio/2020134103,2020,21,serie_a
+Hellas Verona,Lecce,3-0,https://www.besoccer.com/match/hellas-verona-fc/lecce/2020134106,2020,21,serie_a
+Roma,Lazio,1-1,https://www.besoccer.com/match/roma/lazio/2020134097,2020,21,serie_a
+Napoli,Juventus,2-1,https://www.besoccer.com/match/napoli/juventus-fc/2020134101,2020,21,serie_a
+Bologna,Brescia,2-1,https://www.besoccer.com/match/bologna/brescia/2020134109,2020,22,serie_a
+Cagliari,Parma,2-2,https://www.besoccer.com/match/cagliari/parma-fc/2020134110,2020,22,serie_a
+Sassuolo,Roma,4-2,https://www.besoccer.com/match/us-sassuolo-calcio/roma/2020134115,2020,22,serie_a
+Juventus,Fiorentina,3-0,https://www.besoccer.com/match/juventus-fc/fiorentina/2020134111,2020,22,serie_a
+Milan,Hellas Verona,1-1,https://www.besoccer.com/match/milan/hellas-verona-fc/2020134107,2020,22,serie_a
+Atalanta,Genoa,2-2,https://www.besoccer.com/match/atalanta/genoa/2020134108,2020,22,serie_a
+Lazio,SPAL,5-1,https://www.besoccer.com/match/lazio/spal-1907/2020134112,2020,22,serie_a
+Lecce,Torino,4-0,https://www.besoccer.com/match/lecce/torino-fc/2020134113,2020,22,serie_a
+Udinese,Inter,0-2,https://www.besoccer.com/match/udinese/internazionale/2020134116,2020,22,serie_a
+Sampdoria,Napoli,2-4,https://www.besoccer.com/match/sampdoria/napoli/2020134114,2020,22,serie_a
+Roma,Bologna,2-3,https://www.besoccer.com/match/roma/bologna/2020134117,2020,23,serie_a
+Fiorentina,Atalanta,1-2,https://www.besoccer.com/match/fiorentina/atalanta/2020134119,2020,23,serie_a
+Torino,Sampdoria,1-3,https://www.besoccer.com/match/torino-fc/sampdoria/2020134125,2020,23,serie_a
+Hellas Verona,Juventus,2-1,https://www.besoccer.com/match/hellas-verona-fc/juventus-fc/2020134126,2020,23,serie_a
+SPAL,Sassuolo,1-2,https://www.besoccer.com/match/spal-1907/us-sassuolo-calcio/2020134124,2020,23,serie_a
+Brescia,Udinese,1-1,https://www.besoccer.com/match/brescia/udinese/2020134118,2020,23,serie_a
+Genoa,Cagliari,1-0,https://www.besoccer.com/match/genoa/cagliari/2020134120,2020,23,serie_a
+Napoli,Lecce,2-3,https://www.besoccer.com/match/napoli/lecce/2020134122,2020,23,serie_a
+Parma,Lazio,0-1,https://www.besoccer.com/match/parma-fc/lazio/2020134123,2020,23,serie_a
+Inter,Milan,4-2,https://www.besoccer.com/match/internazionale/milan/2020134121,2020,23,serie_a
+Lecce,SPAL,2-1,https://www.besoccer.com/match/lecce/spal-1907/2020134133,2020,24,serie_a
+Bologna,Genoa,0-3,https://www.besoccer.com/match/bologna/genoa/2020134129,2020,24,serie_a
+Atalanta,Roma,2-1,https://www.besoccer.com/match/atalanta/roma/2020134128,2020,24,serie_a
+Udinese,Hellas Verona,0-0,https://www.besoccer.com/match/udinese/hellas-verona-fc/2020134136,2020,24,serie_a
+Juventus,Brescia,2-0,https://www.besoccer.com/match/juventus-fc/brescia/2020134131,2020,24,serie_a
+Sampdoria,Fiorentina,1-5,https://www.besoccer.com/match/sampdoria/fiorentina/2020134134,2020,24,serie_a
+Sassuolo,Parma,0-1,https://www.besoccer.com/match/us-sassuolo-calcio/parma-fc/2020134135,2020,24,serie_a
+Cagliari,Napoli,0-1,https://www.besoccer.com/match/cagliari/napoli/2020134130,2020,24,serie_a
+Lazio,Inter,2-1,https://www.besoccer.com/match/lazio/internazionale/2020134132,2020,24,serie_a
+Milan,Torino,1-0,https://www.besoccer.com/match/milan/torino-fc/2020134127,2020,24,serie_a
+Brescia,Napoli,1-2,https://www.besoccer.com/match/brescia/napoli/2020134140,2020,25,serie_a
+Bologna,Udinese,1-1,https://www.besoccer.com/match/bologna/udinese/2020134139,2020,25,serie_a
+SPAL,Juventus,1-2,https://www.besoccer.com/match/spal-1907/juventus-fc/2020134144,2020,25,serie_a
+Fiorentina,Milan,1-1,https://www.besoccer.com/match/fiorentina/milan/2020134141,2020,25,serie_a
+Genoa,Lazio,2-3,https://www.besoccer.com/match/genoa/lazio/2020134142,2020,25,serie_a
+Roma,Lecce,4-0,https://www.besoccer.com/match/roma/lecce/2020134137,2020,25,serie_a
+Torino,Parma,1-1,https://www.besoccer.com/match/torino-fc/parma-fc/2020134145,2020,25,serie_a
+Hellas Verona,Cagliari,2-1,https://www.besoccer.com/match/hellas-verona-fc/cagliari/2020134146,2020,25,serie_a
+Atalanta,Sassuolo,4-1,https://www.besoccer.com/match/atalanta/us-sassuolo-calcio/2020134138,2020,25,serie_a
+Inter,Sampdoria,2-1,https://www.besoccer.com/match/internazionale/sampdoria/2020134143,2020,25,serie_a
+Lazio,Bologna,2-0,https://www.besoccer.com/match/lazio/bologna/2020134150,2020,26,serie_a
+Napoli,Torino,2-1,https://www.besoccer.com/match/napoli/torino-fc/2020134152,2020,26,serie_a
+Lecce,Atalanta,2-7,https://www.besoccer.com/match/lecce/atalanta/2020134151,2020,26,serie_a
+Cagliari,Roma,3-4,https://www.besoccer.com/match/cagliari/roma/2020134148,2020,26,serie_a
+Parma,SPAL,0-1,https://www.besoccer.com/match/parma-fc/spal-1907/2020134153,2020,26,serie_a
+Milan,Genoa,1-2,https://www.besoccer.com/match/milan/genoa/2020134147,2020,26,serie_a
+Sampdoria,Hellas Verona,2-1,https://www.besoccer.com/match/sampdoria/hellas-verona-fc/2020134154,2020,26,serie_a
+Udinese,Fiorentina,0-0,https://www.besoccer.com/match/udinese/fiorentina/2020134156,2020,26,serie_a
+Juventus,Inter,2-0,https://www.besoccer.com/match/juventus-fc/internazionale/2020134149,2020,26,serie_a
+Sassuolo,Brescia,3-0,https://www.besoccer.com/match/us-sassuolo-calcio/brescia/2020134155,2020,26,serie_a
+Lecce,Milan,1-4,https://www.besoccer.com/match/lecce/milan/2020134163,2020,27,serie_a
+Fiorentina,Brescia,1-1,https://www.besoccer.com/match/fiorentina/brescia/2020134160,2020,27,serie_a
+Bologna,Juventus,0-2,https://www.besoccer.com/match/bologna/juventus-fc/2020134159,2020,27,serie_a
+SPAL,Cagliari,0-1,https://www.besoccer.com/match/spal-1907/cagliari/2020134164,2020,27,serie_a
+Hellas Verona,Napoli,0-2,https://www.besoccer.com/match/hellas-verona-fc/napoli/2020134166,2020,27,serie_a
+Genoa,Parma,1-4,https://www.besoccer.com/match/genoa/parma-fc/2020134161,2020,27,serie_a
+Torino,Udinese,1-0,https://www.besoccer.com/match/torino-fc/udinese/2020134165,2020,27,serie_a
+Inter,Sassuolo,3-3,https://www.besoccer.com/match/internazionale/us-sassuolo-calcio/2020134162,2020,27,serie_a
+Roma,Sampdoria,2-1,https://www.besoccer.com/match/roma/sampdoria/2020134157,2020,27,serie_a
+Atalanta,Lazio,3-2,https://www.besoccer.com/match/atalanta/lazio/2020134158,2020,27,serie_a
+Juventus,Lecce,4-0,https://www.besoccer.com/match/juventus-fc/lecce/2020134170,2020,28,serie_a
+Brescia,Genoa,2-2,https://www.besoccer.com/match/brescia/genoa/2020134168,2020,28,serie_a
+Cagliari,Torino,4-2,https://www.besoccer.com/match/cagliari/torino-fc/2020134169,2020,28,serie_a
+Lazio,Fiorentina,2-1,https://www.besoccer.com/match/lazio/fiorentina/2020134171,2020,28,serie_a
+Milan,Roma,2-0,https://www.besoccer.com/match/milan/roma/2020134167,2020,28,serie_a
+Napoli,SPAL,3-1,https://www.besoccer.com/match/napoli/spal-1907/2020134172,2020,28,serie_a
+Sampdoria,Bologna,1-2,https://www.besoccer.com/match/sampdoria/bologna/2020134174,2020,28,serie_a
+Sassuolo,Hellas Verona,3-3,https://www.besoccer.com/match/us-sassuolo-calcio/hellas-verona-fc/2020134175,2020,28,serie_a
+Udinese,Atalanta,2-3,https://www.besoccer.com/match/udinese/atalanta/2020134176,2020,28,serie_a
+Parma,Inter,1-2,https://www.besoccer.com/match/parma-fc/internazionale/2020134173,2020,28,serie_a
+Torino,Lazio,1-2,https://www.besoccer.com/match/torino-fc/lazio/2020134185,2020,29,serie_a
+Genoa,Juventus,1-3,https://www.besoccer.com/match/genoa/juventus-fc/2020134181,2020,29,serie_a
+Bologna,Cagliari,1-1,https://www.besoccer.com/match/bologna/cagliari/2020134179,2020,29,serie_a
+Inter,Brescia,6-0,https://www.besoccer.com/match/internazionale/brescia/2020134182,2020,29,serie_a
+Fiorentina,Sassuolo,1-3,https://www.besoccer.com/match/fiorentina/us-sassuolo-calcio/2020134180,2020,29,serie_a
+Lecce,Sampdoria,1-2,https://www.besoccer.com/match/lecce/sampdoria/2020134183,2020,29,serie_a
+SPAL,Milan,2-2,https://www.besoccer.com/match/spal-1907/milan/2020134184,2020,29,serie_a
+Hellas Verona,Parma,3-2,https://www.besoccer.com/match/hellas-verona-fc/parma-fc/2020134186,2020,29,serie_a
+Atalanta,Napoli,2-0,https://www.besoccer.com/match/atalanta/napoli/2020134178,2020,29,serie_a
+Roma,Udinese,0-2,https://www.besoccer.com/match/roma/udinese/2020134177,2020,29,serie_a
+Juventus,Torino,4-1,https://www.besoccer.com/match/juventus-fc/torino-fc/2020134190,2020,30,serie_a
+Sassuolo,Lecce,4-2,https://www.besoccer.com/match/us-sassuolo-calcio/lecce/2020134195,2020,30,serie_a
+Lazio,Milan,0-3,https://www.besoccer.com/match/lazio/milan/2020134191,2020,30,serie_a
+Inter,Bologna,1-2,https://www.besoccer.com/match/internazionale/bologna/2020134189,2020,30,serie_a
+Brescia,Hellas Verona,2-0,https://www.besoccer.com/match/brescia/hellas-verona-fc/2020134187,2020,30,serie_a
+Cagliari,Atalanta,0-1,https://www.besoccer.com/match/cagliari/atalanta/2020134188,2020,30,serie_a
+Parma,Fiorentina,1-2,https://www.besoccer.com/match/parma-fc/fiorentina/2020134193,2020,30,serie_a
+Sampdoria,SPAL,3-0,https://www.besoccer.com/match/sampdoria/spal-1907/2020134194,2020,30,serie_a
+Udinese,Genoa,2-2,https://www.besoccer.com/match/udinese/genoa/2020134196,2020,30,serie_a
+Napoli,Roma,2-1,https://www.besoccer.com/match/napoli/roma/2020134192,2020,30,serie_a
+Lecce,Lazio,2-1,https://www.besoccer.com/match/lecce/lazio/2020134203,2020,31,serie_a
+Milan,Juventus,4-2,https://www.besoccer.com/match/milan/juventus-fc/2020134197,2020,31,serie_a
+Fiorentina,Cagliari,0-0,https://www.besoccer.com/match/fiorentina/cagliari/2020134201,2020,31,serie_a
+Genoa,Napoli,1-2,https://www.besoccer.com/match/genoa/napoli/2020134202,2020,31,serie_a
+Roma,Parma,2-1,https://www.besoccer.com/match/roma/parma-fc/2020134198,2020,31,serie_a
+Atalanta,Sampdoria,2-0,https://www.besoccer.com/match/atalanta/sampdoria/2020134199,2020,31,serie_a
+Bologna,Sassuolo,1-2,https://www.besoccer.com/match/bologna/us-sassuolo-calcio/2020134200,2020,31,serie_a
+Torino,Brescia,3-1,https://www.besoccer.com/match/torino-fc/brescia/2020134205,2020,31,serie_a
+SPAL,Udinese,0-3,https://www.besoccer.com/match/spal-1907/udinese/2020134204,2020,31,serie_a
+Hellas Verona,Inter,2-2,https://www.besoccer.com/match/hellas-verona-fc/internazionale/2020134206,2020,31,serie_a
+Lazio,Sassuolo,1-2,https://www.besoccer.com/match/lazio/us-sassuolo-calcio/2020134213,2020,32,serie_a
+Brescia,Roma,0-3,https://www.besoccer.com/match/brescia/roma/2020134207,2020,32,serie_a
+Juventus,Atalanta,2-2,https://www.besoccer.com/match/juventus-fc/atalanta/2020134212,2020,32,serie_a
+Genoa,SPAL,2-0,https://www.besoccer.com/match/genoa/spal-1907/2020134210,2020,32,serie_a
+Cagliari,Lecce,0-0,https://www.besoccer.com/match/cagliari/lecce/2020134208,2020,32,serie_a
+Fiorentina,Hellas Verona,1-1,https://www.besoccer.com/match/fiorentina/hellas-verona-fc/2020134209,2020,32,serie_a
+Parma,Bologna,2-2,https://www.besoccer.com/match/parma-fc/bologna/2020134215,2020,32,serie_a
+Udinese,Sampdoria,1-3,https://www.besoccer.com/match/udinese/sampdoria/2020134216,2020,32,serie_a
+Napoli,Milan,2-2,https://www.besoccer.com/match/napoli/milan/2020134214,2020,32,serie_a
+Inter,Torino,3-1,https://www.besoccer.com/match/internazionale/torino-fc/2020134211,2020,32,serie_a
+Atalanta,Brescia,6-2,https://www.besoccer.com/match/atalanta/brescia/2020134219,2020,33,serie_a
+Milan,Parma,3-1,https://www.besoccer.com/match/milan/parma-fc/2020134217,2020,33,serie_a
+Bologna,Napoli,1-1,https://www.besoccer.com/match/bologna/napoli/2020134220,2020,33,serie_a
+Sampdoria,Cagliari,3-0,https://www.besoccer.com/match/sampdoria/cagliari/2020134222,2020,33,serie_a
+Roma,Hellas Verona,2-1,https://www.besoccer.com/match/roma/hellas-verona-fc/2020134218,2020,33,serie_a
+Lecce,Fiorentina,1-3,https://www.besoccer.com/match/lecce/fiorentina/2020134221,2020,33,serie_a
+Sassuolo,Juventus,3-3,https://www.besoccer.com/match/us-sassuolo-calcio/juventus-fc/2020134223,2020,33,serie_a
+Udinese,Lazio,0-0,https://www.besoccer.com/match/udinese/lazio/2020134226,2020,33,serie_a
+Torino,Genoa,3-0,https://www.besoccer.com/match/torino-fc/genoa/2020134225,2020,33,serie_a
+SPAL,Inter,0-4,https://www.besoccer.com/match/spal-1907/internazionale/2020134224,2020,33,serie_a
+Hellas Verona,Atalanta,1-1,https://www.besoccer.com/match/hellas-verona-fc/atalanta/2020134236,2020,34,serie_a
+Cagliari,Sassuolo,1-1,https://www.besoccer.com/match/cagliari/us-sassuolo-calcio/2020134230,2020,34,serie_a
+Milan,Bologna,5-1,https://www.besoccer.com/match/milan/bologna/2020134227,2020,34,serie_a
+Parma,Sampdoria,2-3,https://www.besoccer.com/match/parma-fc/sampdoria/2020134235,2020,34,serie_a
+Brescia,SPAL,2-1,https://www.besoccer.com/match/brescia/spal-1907/2020134229,2020,34,serie_a
+Fiorentina,Torino,2-0,https://www.besoccer.com/match/fiorentina/torino-fc/2020134231,2020,34,serie_a
+Genoa,Lecce,2-1,https://www.besoccer.com/match/genoa/lecce/2020134232,2020,34,serie_a
+Napoli,Udinese,2-1,https://www.besoccer.com/match/napoli/udinese/2020134234,2020,34,serie_a
+Roma,Inter,2-2,https://www.besoccer.com/match/roma/internazionale/2020134228,2020,34,serie_a
+Juventus,Lazio,2-1,https://www.besoccer.com/match/juventus-fc/lazio/2020134233,2020,34,serie_a
+Atalanta,Bologna,1-0,https://www.besoccer.com/match/atalanta/bologna/2020134237,2020,35,serie_a
+Sassuolo,Milan,1-2,https://www.besoccer.com/match/us-sassuolo-calcio/milan/2020134243,2020,35,serie_a
+Parma,Napoli,2-1,https://www.besoccer.com/match/parma-fc/napoli/2020134241,2020,35,serie_a
+Inter,Fiorentina,0-0,https://www.besoccer.com/match/internazionale/fiorentina/2020134238,2020,35,serie_a
+Lecce,Brescia,3-1,https://www.besoccer.com/match/lecce/brescia/2020134240,2020,35,serie_a
+Sampdoria,Genoa,1-2,https://www.besoccer.com/match/sampdoria/genoa/2020134242,2020,35,serie_a
+SPAL,Roma,1-6,https://www.besoccer.com/match/spal-1907/roma/2020134244,2020,35,serie_a
+Torino,Hellas Verona,1-1,https://www.besoccer.com/match/torino-fc/hellas-verona-fc/2020134245,2020,35,serie_a
+Udinese,Juventus,2-1,https://www.besoccer.com/match/udinese/juventus-fc/2020134246,2020,35,serie_a
+Lazio,Cagliari,2-1,https://www.besoccer.com/match/lazio/cagliari/2020134239,2020,35,serie_a
+Milan,Atalanta,1-1,https://www.besoccer.com/match/milan/atalanta/2020134247,2020,36,serie_a
+Brescia,Parma,1-2,https://www.besoccer.com/match/brescia/parma-fc/2020134250,2020,36,serie_a
+Genoa,Inter,0-3,https://www.besoccer.com/match/genoa/internazionale/2020134252,2020,36,serie_a
+Napoli,Sassuolo,2-0,https://www.besoccer.com/match/napoli/us-sassuolo-calcio/2020134254,2020,36,serie_a
+Bologna,Lecce,3-2,https://www.besoccer.com/match/bologna/lecce/2020134249,2020,36,serie_a
+Roma,Fiorentina,2-1,https://www.besoccer.com/match/roma/fiorentina/2020134248,2020,36,serie_a
+Cagliari,Udinese,0-1,https://www.besoccer.com/match/cagliari/udinese/2020134251,2020,36,serie_a
+SPAL,Torino,1-1,https://www.besoccer.com/match/spal-1907/torino-fc/2020134255,2020,36,serie_a
+Hellas Verona,Lazio,1-5,https://www.besoccer.com/match/hellas-verona-fc/lazio/2020134256,2020,36,serie_a
+Juventus,Sampdoria,2-0,https://www.besoccer.com/match/juventus-fc/sampdoria/2020134253,2020,36,serie_a
+Parma,Atalanta,1-2,https://www.besoccer.com/match/parma-fc/atalanta/2020134261,2020,37,serie_a
+Inter,Napoli,2-0,https://www.besoccer.com/match/internazionale/napoli/2020134259,2020,37,serie_a
+Lazio,Brescia,2-0,https://www.besoccer.com/match/lazio/brescia/2020134260,2020,37,serie_a
+Sampdoria,Milan,1-4,https://www.besoccer.com/match/sampdoria/milan/2020134262,2020,37,serie_a
+Sassuolo,Genoa,5-0,https://www.besoccer.com/match/us-sassuolo-calcio/genoa/2020134263,2020,37,serie_a
+Udinese,Lecce,1-2,https://www.besoccer.com/match/udinese/lecce/2020134265,2020,37,serie_a
+Hellas Verona,SPAL,3-0,https://www.besoccer.com/match/hellas-verona-fc/spal-1907/2020134266,2020,37,serie_a
+Cagliari,Juventus,2-0,https://www.besoccer.com/match/cagliari/juventus-fc/2020134257,2020,37,serie_a
+Fiorentina,Bologna,4-0,https://www.besoccer.com/match/fiorentina/bologna/2020134258,2020,37,serie_a
+Torino,Roma,2-3,https://www.besoccer.com/match/torino-fc/roma/2020134264,2020,37,serie_a
+Brescia,Sampdoria,1-1,https://www.besoccer.com/match/brescia/sampdoria/2020134270,2020,38,serie_a
+Milan,Cagliari,3-0,https://www.besoccer.com/match/milan/cagliari/2020134267,2020,38,serie_a
+Atalanta,Inter,0-2,https://www.besoccer.com/match/atalanta/internazionale/2020134268,2020,38,serie_a
+Juventus,Roma,1-3,https://www.besoccer.com/match/juventus-fc/roma/2020134272,2020,38,serie_a
+Napoli,Lazio,3-1,https://www.besoccer.com/match/napoli/lazio/2020134274,2020,38,serie_a
+SPAL,Fiorentina,1-3,https://www.besoccer.com/match/spal-1907/fiorentina/2020134276,2020,38,serie_a
+Bologna,Torino,1-1,https://www.besoccer.com/match/bologna/torino-fc/2020134269,2020,38,serie_a
+Genoa,Hellas Verona,3-0,https://www.besoccer.com/match/genoa/hellas-verona-fc/2020134271,2020,38,serie_a
+Lecce,Parma,3-4,https://www.besoccer.com/match/lecce/parma-fc/2020134273,2020,38,serie_a
+Sassuolo,Udinese,0-1,https://www.besoccer.com/match/us-sassuolo-calcio/udinese/2020134275,2020,38,serie_a

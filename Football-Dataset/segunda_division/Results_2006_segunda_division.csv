@@ -1,0 +1,463 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Xerez,RM Castilla,2-1,https://www.besoccer.com/match/xerez/rm-castilla/200610088,2006,1,segunda_division
+Levante,Poli Ejido,2-0,https://www.besoccer.com/match/levante/ejido/200610087,2006,1,segunda_division
+Tenerife,Gimnàstic Tarragona,3-1,https://www.besoccer.com/match/tenerife/gimnastic-tarragona/200610086,2006,1,segunda_division
+Real Sporting,Albacete,2-0,https://www.besoccer.com/match/sporting-gijon/albacete/200610085,2006,1,segunda_division
+Ciudad de Murcia,Recreativo,3-1,https://www.besoccer.com/match/ciudad-de-murcia/recreativo/200610084,2006,1,segunda_division
+Lorca Deportiva,Racing Ferrol,1-1,https://www.besoccer.com/match/lorca-deportiva-cf-sad/racing-club-ferrol/200610083,2006,1,segunda_division
+Eibar,Elche,1-2,https://www.besoccer.com/match/eibar/elche/200610082,2006,1,segunda_division
+Lleida,CD Castellón,1-0,https://www.besoccer.com/match/ue-lleida/cd-castellon/200610078,2006,1,segunda_division
+Real Valladolid,Real Murcia,1-0,https://www.besoccer.com/match/valladolid/real-murcia/200610079,2006,1,segunda_division
+Hércules,At. Malagueño,1-1,https://www.besoccer.com/match/hercules/atletico-malagueno/200610080,2006,1,segunda_division
+Numancia,Almería,3-0,https://www.besoccer.com/match/numancia/almeria/200610081,2006,1,segunda_division
+CD Castellón,Numancia,0-1,https://www.besoccer.com/match/cd-castellon/numancia/200610075,2006,2,segunda_division
+Recreativo,Tenerife,3-1,https://www.besoccer.com/match/recreativo/tenerife/200610076,2006,2,segunda_division
+Racing Ferrol,Levante,1-2,https://www.besoccer.com/match/racing-club-ferrol/levante/200610077,2006,2,segunda_division
+Almería,Xerez,3-0,https://www.besoccer.com/match/almeria/xerez/200610071,2006,2,segunda_division
+At. Malagueño,Ciudad de Murcia,0-1,https://www.besoccer.com/match/atletico-malagueno/ciudad-de-murcia/200610072,2006,2,segunda_division
+Gimnàstic Tarragona,Real Sporting,0-4,https://www.besoccer.com/match/gimnastic-tarragona/sporting-gijon/200610073,2006,2,segunda_division
+Poli Ejido,Lleida,2-1,https://www.besoccer.com/match/ejido/ue-lleida/200610074,2006,2,segunda_division
+RM Castilla,Hércules,3-0,https://www.besoccer.com/match/rm-castilla/hercules/200610068,2006,2,segunda_division
+Real Murcia,Eibar,1-0,https://www.besoccer.com/match/real-murcia/eibar/200610069,2006,2,segunda_division
+Elche,Lorca Deportiva,1-3,https://www.besoccer.com/match/elche/lorca-deportiva-cf-sad/200610070,2006,2,segunda_division
+Albacete,Real Valladolid,2-3,https://www.besoccer.com/match/albacete/valladolid/200610067,2006,2,segunda_division
+Lleida,Numancia,5-0,https://www.besoccer.com/match/ue-lleida/numancia/200610064,2006,3,segunda_division
+Eibar,Albacete,1-1,https://www.besoccer.com/match/eibar/albacete/200610065,2006,3,segunda_division
+Real Valladolid,Gimnàstic Tarragona,0-2,https://www.besoccer.com/match/valladolid/gimnastic-tarragona/200610063,2006,3,segunda_division
+Hércules,Almería,2-2,https://www.besoccer.com/match/hercules/almeria/200610066,2006,3,segunda_division
+Levante,Elche,1-0,https://www.besoccer.com/match/levante/elche/200610062,2006,3,segunda_division
+Real Sporting,Recreativo,1-1,https://www.besoccer.com/match/sporting-gijon/recreativo/200610058,2006,3,segunda_division
+Xerez,CD Castellón,2-1,https://www.besoccer.com/match/xerez/cd-castellon/200610059,2006,3,segunda_division
+Poli Ejido,Racing Ferrol,4-2,https://www.besoccer.com/match/ejido/racing-club-ferrol/200610060,2006,3,segunda_division
+Tenerife,At. Malagueño,3-2,https://www.besoccer.com/match/tenerife/atletico-malagueno/200610061,2006,3,segunda_division
+Lorca Deportiva,Real Murcia,0-1,https://www.besoccer.com/match/lorca-deportiva-cf-sad/real-murcia/200610056,2006,3,segunda_division
+Ciudad de Murcia,RM Castilla,2-1,https://www.besoccer.com/match/ciudad-de-murcia/rm-castilla/200610057,2006,3,segunda_division
+RM Castilla,Tenerife,1-2,https://www.besoccer.com/match/rm-castilla/tenerife/200610053,2006,4,segunda_division
+Almería,Ciudad de Murcia,1-0,https://www.besoccer.com/match/almeria/ciudad-de-murcia/200610052,2006,4,segunda_division
+At. Malagueño,Real Sporting,1-0,https://www.besoccer.com/match/atletico-malagueno/sporting-gijon/200610054,2006,4,segunda_division
+CD Castellón,Hércules,1-2,https://www.besoccer.com/match/cd-castellon/hercules/200610055,2006,4,segunda_division
+Recreativo,Real Valladolid,2-0,https://www.besoccer.com/match/recreativo/valladolid/200610051,2006,4,segunda_division
+Racing Ferrol,Lleida,0-0,https://www.besoccer.com/match/racing-club-ferrol/ue-lleida/200610049,2006,4,segunda_division
+Numancia,Xerez,1-1,https://www.besoccer.com/match/numancia/xerez/200610050,2006,4,segunda_division
+Gimnàstic Tarragona,Eibar,1-0,https://www.besoccer.com/match/gimnastic-tarragona/eibar/200610047,2006,4,segunda_division
+Albacete,Lorca Deportiva,1-0,https://www.besoccer.com/match/albacete/lorca-deportiva-cf-sad/200610048,2006,4,segunda_division
+Elche,Poli Ejido,2-0,https://www.besoccer.com/match/elche/ejido/200610046,2006,4,segunda_division
+Real Murcia,Levante,0-0,https://www.besoccer.com/match/real-murcia/levante/200610045,2006,4,segunda_division
+Lleida,Xerez,0-1,https://www.besoccer.com/match/ue-lleida/xerez/200610042,2006,5,segunda_division
+Eibar,Recreativo,2-1,https://www.besoccer.com/match/eibar/recreativo/200610043,2006,5,segunda_division
+Racing Ferrol,Elche,2-1,https://www.besoccer.com/match/racing-club-ferrol/elche/200610044,2006,5,segunda_division
+Hércules,Numancia,4-0,https://www.besoccer.com/match/hercules/numancia/200610041,2006,5,segunda_division
+Levante,Albacete,1-1,https://www.besoccer.com/match/levante/albacete/200610040,2006,5,segunda_division
+Real Valladolid,At. Malagueño,1-1,https://www.besoccer.com/match/valladolid/atletico-malagueno/200610038,2006,5,segunda_division
+Real Sporting,RM Castilla,1-1,https://www.besoccer.com/match/sporting-gijon/rm-castilla/200610039,2006,5,segunda_division
+Tenerife,Almería,2-1,https://www.besoccer.com/match/tenerife/almeria/200610035,2006,5,segunda_division
+Poli Ejido,Real Murcia,0-3,https://www.besoccer.com/match/ejido/real-murcia/200610037,2006,5,segunda_division
+Lorca Deportiva,Gimnàstic Tarragona,1-0,https://www.besoccer.com/match/lorca-deportiva-cf-sad/gimnastic-tarragona/200610034,2006,5,segunda_division
+Ciudad de Murcia,CD Castellón,0-0,https://www.besoccer.com/match/ciudad-de-murcia/cd-castellon/200610036,2006,5,segunda_division
+Gimnàstic Tarragona,Levante,1-0,https://www.besoccer.com/match/gimnastic-tarragona/levante/200610033,2006,6,segunda_division
+RM Castilla,Real Valladolid,2-3,https://www.besoccer.com/match/rm-castilla/valladolid/200610031,2006,6,segunda_division
+CD Castellón,Tenerife,1-0,https://www.besoccer.com/match/cd-castellon/tenerife/200610032,2006,6,segunda_division
+Numancia,Ciudad de Murcia,1-1,https://www.besoccer.com/match/numancia/ciudad-de-murcia/200610030,2006,6,segunda_division
+Albacete,Poli Ejido,1-0,https://www.besoccer.com/match/albacete/ejido/200610027,2006,6,segunda_division
+Real Murcia,Racing Ferrol,2-1,https://www.besoccer.com/match/real-murcia/racing-club-ferrol/200610028,2006,6,segunda_division
+Xerez,Hércules,1-0,https://www.besoccer.com/match/xerez/hercules/200610029,2006,6,segunda_division
+Almería,Real Sporting,3-0,https://www.besoccer.com/match/almeria/sporting-gijon/200610026,2006,6,segunda_division
+Elche,Lleida,3-2,https://www.besoccer.com/match/elche/ue-lleida/200610025,2006,6,segunda_division
+Recreativo,Lorca Deportiva,2-1,https://www.besoccer.com/match/recreativo/lorca-deportiva-cf-sad/200610024,2006,6,segunda_division
+At. Malagueño,Eibar,1-1,https://www.besoccer.com/match/atletico-malagueno/eibar/200610023,2006,6,segunda_division
+Racing Ferrol,Albacete,2-3,https://www.besoccer.com/match/racing-club-ferrol/albacete/200610020,2006,7,segunda_division
+Poli Ejido,Gimnàstic Tarragona,2-0,https://www.besoccer.com/match/ejido/gimnastic-tarragona/200610021,2006,7,segunda_division
+Lleida,Hércules,0-1,https://www.besoccer.com/match/ue-lleida/hercules/200610022,2006,7,segunda_division
+Tenerife,Numancia,2-1,https://www.besoccer.com/match/tenerife/numancia/200610019,2006,7,segunda_division
+Real Valladolid,Almería,1-0,https://www.besoccer.com/match/valladolid/almeria/200610015,2006,7,segunda_division
+Real Sporting,CD Castellón,2-0,https://www.besoccer.com/match/sporting-gijon/cd-castellon/200610016,2006,7,segunda_division
+Levante,Recreativo,1-3,https://www.besoccer.com/match/levante/recreativo/200610018,2006,7,segunda_division
+Lorca Deportiva,At. Malagueño,1-0,https://www.besoccer.com/match/lorca-deportiva-cf-sad/atletico-malagueno/200610013,2006,7,segunda_division
+Eibar,RM Castilla,1-3,https://www.besoccer.com/match/eibar/rm-castilla/200610014,2006,7,segunda_division
+Elche,Real Murcia,1-1,https://www.besoccer.com/match/elche/real-murcia/200610017,2006,7,segunda_division
+Ciudad de Murcia,Xerez,2-6,https://www.besoccer.com/match/ciudad-de-murcia/xerez/200610012,2006,7,segunda_division
+Recreativo,Poli Ejido,2-2,https://www.besoccer.com/match/recreativo/ejido/200610009,2006,8,segunda_division
+At. Malagueño,Levante,0-0,https://www.besoccer.com/match/atletico-malagueno/levante/200610008,2006,8,segunda_division
+Gimnàstic Tarragona,Racing Ferrol,1-2,https://www.besoccer.com/match/gimnastic-tarragona/racing-club-ferrol/200610010,2006,8,segunda_division
+CD Castellón,Real Valladolid,0-0,https://www.besoccer.com/match/cd-castellon/valladolid/200610011,2006,8,segunda_division
+Albacete,Elche,1-2,https://www.besoccer.com/match/albacete/elche/200610007,2006,8,segunda_division
+Hércules,Ciudad de Murcia,2-1,https://www.besoccer.com/match/hercules/ciudad-de-murcia/200610001,2006,8,segunda_division
+Xerez,Tenerife,3-1,https://www.besoccer.com/match/xerez/tenerife/200610006,2006,8,segunda_division
+RM Castilla,Lorca Deportiva,1-2,https://www.besoccer.com/match/rm-castilla/lorca-deportiva-cf-sad/200610003,2006,8,segunda_division
+Real Murcia,Lleida,2-0,https://www.besoccer.com/match/real-murcia/ue-lleida/200610004,2006,8,segunda_division
+Numancia,Real Sporting,1-0,https://www.besoccer.com/match/numancia/sporting-gijon/200610005,2006,8,segunda_division
+Almería,Eibar,1-1,https://www.besoccer.com/match/almeria/eibar/200610002,2006,8,segunda_division
+Poli Ejido,At. Malagueño,1-2,https://www.besoccer.com/match/ejido/atletico-malagueno/200610000,2006,9,segunda_division
+Elche,Gimnàstic Tarragona,1-0,https://www.besoccer.com/match/elche/gimnastic-tarragona/20069999,2006,9,segunda_division
+Real Murcia,Albacete,2-0,https://www.besoccer.com/match/real-murcia/albacete/20069998,2006,9,segunda_division
+Eibar,CD Castellón,2-0,https://www.besoccer.com/match/eibar/cd-castellon/20069996,2006,9,segunda_division
+Real Valladolid,Numancia,3-1,https://www.besoccer.com/match/valladolid/numancia/20069997,2006,9,segunda_division
+Levante,RM Castilla,3-0,https://www.besoccer.com/match/levante/rm-castilla/20069995,2006,9,segunda_division
+Real Sporting,Xerez,1-1,https://www.besoccer.com/match/sporting-gijon/xerez/20069990,2006,9,segunda_division
+Tenerife,Hércules,0-0,https://www.besoccer.com/match/tenerife/hercules/20069991,2006,9,segunda_division
+Racing Ferrol,Recreativo,0-3,https://www.besoccer.com/match/racing-club-ferrol/recreativo/20069992,2006,9,segunda_division
+Lleida,Ciudad de Murcia,1-2,https://www.besoccer.com/match/ue-lleida/ciudad-de-murcia/20069993,2006,9,segunda_division
+Lorca Deportiva,Almería,1-1,https://www.besoccer.com/match/lorca-deportiva-cf-sad/almeria/20069994,2006,9,segunda_division
+Gimnàstic Tarragona,Real Murcia,3-1,https://www.besoccer.com/match/gimnastic-tarragona/real-murcia/20069987,2006,10,segunda_division
+Ciudad de Murcia,Tenerife,3-0,https://www.besoccer.com/match/ciudad-de-murcia/tenerife/20069988,2006,10,segunda_division
+Almería,Levante,5-1,https://www.besoccer.com/match/almeria/levante/20069989,2006,10,segunda_division
+Hércules,Real Sporting,3-2,https://www.besoccer.com/match/hercules/sporting-gijon/20069986,2006,10,segunda_division
+Xerez,Real Valladolid,0-0,https://www.besoccer.com/match/xerez/valladolid/20069985,2006,10,segunda_division
+At. Malagueño,Racing Ferrol,0-1,https://www.besoccer.com/match/atletico-malagueno/racing-club-ferrol/20069984,2006,10,segunda_division
+Albacete,Lleida,1-0,https://www.besoccer.com/match/albacete/ue-lleida/20069980,2006,10,segunda_division
+Numancia,Eibar,1-2,https://www.besoccer.com/match/numancia/eibar/20069981,2006,10,segunda_division
+CD Castellón,Lorca Deportiva,0-0,https://www.besoccer.com/match/cd-castellon/lorca-deportiva-cf-sad/20069982,2006,10,segunda_division
+RM Castilla,Poli Ejido,2-0,https://www.besoccer.com/match/rm-castilla/ejido/20069983,2006,10,segunda_division
+Recreativo,Elche,2-0,https://www.besoccer.com/match/recreativo/elche/20069979,2006,10,segunda_division
+Albacete,Gimnàstic Tarragona,1-4,https://www.besoccer.com/match/albacete/gimnastic-tarragona/20069976,2006,11,segunda_division
+Eibar,Xerez,0-1,https://www.besoccer.com/match/eibar/xerez/20069975,2006,11,segunda_division
+Levante,CD Castellón,3-2,https://www.besoccer.com/match/levante/cd-castellon/20069977,2006,11,segunda_division
+Lleida,Tenerife,2-1,https://www.besoccer.com/match/ue-lleida/tenerife/20069978,2006,11,segunda_division
+Real Murcia,Recreativo,0-2,https://www.besoccer.com/match/real-murcia/recreativo/20069974,2006,11,segunda_division
+Real Valladolid,Hércules,1-1,https://www.besoccer.com/match/valladolid/hercules/20069970,2006,11,segunda_division
+Real Sporting,Ciudad de Murcia,2-2,https://www.besoccer.com/match/sporting-gijon/ciudad-de-murcia/20069971,2006,11,segunda_division
+Racing Ferrol,RM Castilla,0-0,https://www.besoccer.com/match/racing-club-ferrol/rm-castilla/20069972,2006,11,segunda_division
+Lorca Deportiva,Numancia,1-1,https://www.besoccer.com/match/lorca-deportiva-cf-sad/numancia/20069973,2006,11,segunda_division
+Elche,At. Malagueño,2-0,https://www.besoccer.com/match/elche/atletico-malagueno/20069968,2006,11,segunda_division
+Poli Ejido,Almería,0-1,https://www.besoccer.com/match/ejido/almeria/20069969,2006,11,segunda_division
+Recreativo,Albacete,1-1,https://www.besoccer.com/match/recreativo/albacete/20069965,2006,12,segunda_division
+Gimnàstic Tarragona,Lleida,0-2,https://www.besoccer.com/match/gimnastic-tarragona/ue-lleida/20069966,2006,12,segunda_division
+Hércules,Eibar,1-1,https://www.besoccer.com/match/hercules/eibar/20069967,2006,12,segunda_division
+Xerez,Lorca Deportiva,3-0,https://www.besoccer.com/match/xerez/lorca-deportiva-cf-sad/20069960,2006,12,segunda_division
+CD Castellón,Poli Ejido,2-1,https://www.besoccer.com/match/cd-castellon/ejido/20069961,2006,12,segunda_division
+RM Castilla,Elche,4-0,https://www.besoccer.com/match/rm-castilla/elche/20069963,2006,12,segunda_division
+At. Malagueño,Real Murcia,2-0,https://www.besoccer.com/match/atletico-malagueno/real-murcia/20069964,2006,12,segunda_division
+Numancia,Levante,0-1,https://www.besoccer.com/match/numancia/levante/20069959,2006,12,segunda_division
+Tenerife,Real Sporting,1-3,https://www.besoccer.com/match/tenerife/sporting-gijon/20069958,2006,12,segunda_division
+Almería,Racing Ferrol,2-1,https://www.besoccer.com/match/almeria/racing-club-ferrol/20069962,2006,12,segunda_division
+Ciudad de Murcia,Real Valladolid,0-2,https://www.besoccer.com/match/ciudad-de-murcia/valladolid/20069957,2006,12,segunda_division
+Lleida,Real Sporting,0-1,https://www.besoccer.com/match/ue-lleida/sporting-gijon/20069955,2006,13,segunda_division
+Real Valladolid,Tenerife,1-1,https://www.besoccer.com/match/valladolid/tenerife/20069956,2006,13,segunda_division
+Elche,Almería,0-0,https://www.besoccer.com/match/elche/almeria/20069954,2006,13,segunda_division
+Levante,Xerez,2-3,https://www.besoccer.com/match/levante/xerez/20069953,2006,13,segunda_division
+Gimnàstic Tarragona,Recreativo,0-0,https://www.besoccer.com/match/gimnastic-tarragona/recreativo/20069947,2006,13,segunda_division
+Real Murcia,RM Castilla,1-1,https://www.besoccer.com/match/real-murcia/rm-castilla/20069948,2006,13,segunda_division
+Racing Ferrol,CD Castellón,1-1,https://www.besoccer.com/match/racing-club-ferrol/cd-castellon/20069949,2006,13,segunda_division
+Poli Ejido,Numancia,0-1,https://www.besoccer.com/match/ejido/numancia/20069950,2006,13,segunda_division
+Lorca Deportiva,Hércules,4-0,https://www.besoccer.com/match/lorca-deportiva-cf-sad/hercules/20069951,2006,13,segunda_division
+Eibar,Ciudad de Murcia,0-0,https://www.besoccer.com/match/eibar/ciudad-de-murcia/20069952,2006,13,segunda_division
+Albacete,At. Malagueño,0-1,https://www.besoccer.com/match/albacete/atletico-malagueno/20069946,2006,13,segunda_division
+Tenerife,Eibar,1-1,https://www.besoccer.com/match/tenerife/eibar/20069943,2006,14,segunda_division
+Hércules,Levante,3-0,https://www.besoccer.com/match/hercules/levante/20069944,2006,14,segunda_division
+Xerez,Poli Ejido,1-1,https://www.besoccer.com/match/xerez/ejido/20069945,2006,14,segunda_division
+Almería,Real Murcia,2-0,https://www.besoccer.com/match/almeria/real-murcia/20069941,2006,14,segunda_division
+At. Malagueño,Gimnàstic Tarragona,1-2,https://www.besoccer.com/match/atletico-malagueno/gimnastic-tarragona/20069942,2006,14,segunda_division
+Recreativo,Lleida,3-2,https://www.besoccer.com/match/recreativo/ue-lleida/20069936,2006,14,segunda_division
+Real Sporting,Real Valladolid,1-1,https://www.besoccer.com/match/sporting-gijon/valladolid/20069937,2006,14,segunda_division
+Ciudad de Murcia,Lorca Deportiva,1-0,https://www.besoccer.com/match/ciudad-de-murcia/lorca-deportiva-cf-sad/20069938,2006,14,segunda_division
+Numancia,Racing Ferrol,1-1,https://www.besoccer.com/match/numancia/racing-club-ferrol/20069939,2006,14,segunda_division
+RM Castilla,Albacete,3-0,https://www.besoccer.com/match/rm-castilla/albacete/20069940,2006,14,segunda_division
+CD Castellón,Elche,1-1,https://www.besoccer.com/match/cd-castellon/elche/20069935,2006,14,segunda_division
+Lleida,Real Valladolid,0-4,https://www.besoccer.com/match/ue-lleida/valladolid/20069933,2006,15,segunda_division
+Racing Ferrol,Xerez,1-1,https://www.besoccer.com/match/racing-club-ferrol/xerez/20069932,2006,15,segunda_division
+Real Murcia,CD Castellón,4-1,https://www.besoccer.com/match/real-murcia/cd-castellon/20069931,2006,15,segunda_division
+Lorca Deportiva,Tenerife,1-1,https://www.besoccer.com/match/lorca-deportiva-cf-sad/tenerife/20069934,2006,15,segunda_division
+Levante,Ciudad de Murcia,6-0,https://www.besoccer.com/match/levante/ciudad-de-murcia/20069930,2006,15,segunda_division
+Gimnàstic Tarragona,RM Castilla,0-1,https://www.besoccer.com/match/gimnastic-tarragona/rm-castilla/20069926,2006,15,segunda_division
+Poli Ejido,Hércules,3-1,https://www.besoccer.com/match/ejido/hercules/20069927,2006,15,segunda_division
+Eibar,Real Sporting,0-1,https://www.besoccer.com/match/eibar/sporting-gijon/20069928,2006,15,segunda_division
+Recreativo,At. Malagueño,0-0,https://www.besoccer.com/match/recreativo/atletico-malagueno/20069929,2006,15,segunda_division
+Albacete,Almería,3-1,https://www.besoccer.com/match/albacete/almeria/20069924,2006,15,segunda_division
+Elche,Numancia,4-1,https://www.besoccer.com/match/elche/numancia/20069925,2006,15,segunda_division
+RM Castilla,Recreativo,1-2,https://www.besoccer.com/match/rm-castilla/recreativo/20069923,2006,16,segunda_division
+Hércules,Racing Ferrol,1-1,https://www.besoccer.com/match/hercules/racing-club-ferrol/20069922,2006,16,segunda_division
+Xerez,Elche,1-2,https://www.besoccer.com/match/xerez/elche/20069921,2006,16,segunda_division
+Real Sporting,Lorca Deportiva,1-0,https://www.besoccer.com/match/sporting-gijon/lorca-deportiva-cf-sad/20069917,2006,16,segunda_division
+Numancia,Real Murcia,0-0,https://www.besoccer.com/match/numancia/real-murcia/20069918,2006,16,segunda_division
+CD Castellón,Albacete,0-0,https://www.besoccer.com/match/cd-castellon/albacete/20069919,2006,16,segunda_division
+Real Valladolid,Eibar,0-0,https://www.besoccer.com/match/valladolid/eibar/20069920,2006,16,segunda_division
+Ciudad de Murcia,Poli Ejido,0-1,https://www.besoccer.com/match/ciudad-de-murcia/ejido/20069916,2006,16,segunda_division
+Tenerife,Levante,0-1,https://www.besoccer.com/match/tenerife/levante/20069914,2006,16,segunda_division
+Almería,Gimnàstic Tarragona,0-1,https://www.besoccer.com/match/almeria/gimnastic-tarragona/20069915,2006,16,segunda_division
+At. Malagueño,Lleida,0-1,https://www.besoccer.com/match/atletico-malagueno/ue-lleida/20069913,2006,16,segunda_division
+Lleida,Eibar,0-0,https://www.besoccer.com/match/ue-lleida/eibar/20069910,2006,17,segunda_division
+Racing Ferrol,Ciudad de Murcia,1-1,https://www.besoccer.com/match/racing-club-ferrol/ciudad-de-murcia/20069912,2006,17,segunda_division
+Albacete,Numancia,0-0,https://www.besoccer.com/match/albacete/numancia/20069906,2006,17,segunda_division
+Real Murcia,Xerez,0-1,https://www.besoccer.com/match/real-murcia/xerez/20069907,2006,17,segunda_division
+Poli Ejido,Tenerife,2-0,https://www.besoccer.com/match/ejido/tenerife/20069908,2006,17,segunda_division
+Levante,Real Sporting,0-0,https://www.besoccer.com/match/levante/sporting-gijon/20069909,2006,17,segunda_division
+At. Malagueño,RM Castilla,0-1,https://www.besoccer.com/match/atletico-malagueno/rm-castilla/20069911,2006,17,segunda_division
+Elche,Hércules,1-1,https://www.besoccer.com/match/elche/hercules/20069905,2006,17,segunda_division
+Gimnàstic Tarragona,CD Castellón,1-1,https://www.besoccer.com/match/gimnastic-tarragona/cd-castellon/20069903,2006,17,segunda_division
+Lorca Deportiva,Real Valladolid,2-0,https://www.besoccer.com/match/lorca-deportiva-cf-sad/valladolid/20069904,2006,17,segunda_division
+Recreativo,Almería,2-0,https://www.besoccer.com/match/recreativo/almeria/20069902,2006,17,segunda_division
+RM Castilla,Lleida,0-0,https://www.besoccer.com/match/rm-castilla/ue-lleida/20069901,2006,18,segunda_division
+Tenerife,Racing Ferrol,1-2,https://www.besoccer.com/match/tenerife/racing-club-ferrol/20069900,2006,18,segunda_division
+Real Valladolid,Levante,3-3,https://www.besoccer.com/match/valladolid/levante/20069899,2006,18,segunda_division
+Ciudad de Murcia,Elche,4-1,https://www.besoccer.com/match/ciudad-de-murcia/elche/20069897,2006,18,segunda_division
+Numancia,Gimnàstic Tarragona,0-1,https://www.besoccer.com/match/numancia/gimnastic-tarragona/20069898,2006,18,segunda_division
+Real Sporting,Poli Ejido,1-1,https://www.besoccer.com/match/sporting-gijon/ejido/20069896,2006,18,segunda_division
+Hércules,Real Murcia,1-1,https://www.besoccer.com/match/hercules/real-murcia/20069895,2006,18,segunda_division
+Almería,At. Malagueño,2-1,https://www.besoccer.com/match/almeria/atletico-malagueno/20069894,2006,18,segunda_division
+Xerez,Albacete,3-1,https://www.besoccer.com/match/xerez/albacete/20069893,2006,18,segunda_division
+Eibar,Lorca Deportiva,0-3,https://www.besoccer.com/match/eibar/lorca-deportiva-cf-sad/20069892,2006,18,segunda_division
+CD Castellón,Recreativo,2-0,https://www.besoccer.com/match/cd-castellon/recreativo/20069891,2006,18,segunda_division
+Elche,Tenerife,2-2,https://www.besoccer.com/match/elche/tenerife/20069888,2006,19,segunda_division
+Racing Ferrol,Real Sporting,0-0,https://www.besoccer.com/match/racing-club-ferrol/sporting-gijon/20069889,2006,19,segunda_division
+Gimnàstic Tarragona,Xerez,0-3,https://www.besoccer.com/match/gimnastic-tarragona/xerez/20069890,2006,19,segunda_division
+Lleida,Lorca Deportiva,2-2,https://www.besoccer.com/match/ue-lleida/lorca-deportiva-cf-sad/20069884,2006,19,segunda_division
+Real Murcia,Ciudad de Murcia,0-0,https://www.besoccer.com/match/real-murcia/ciudad-de-murcia/20069886,2006,19,segunda_division
+At. Malagueño,CD Castellón,1-2,https://www.besoccer.com/match/atletico-malagueno/cd-castellon/20069887,2006,19,segunda_division
+Albacete,Hércules,2-0,https://www.besoccer.com/match/albacete/hercules/20069881,2006,19,segunda_division
+Poli Ejido,Real Valladolid,1-1,https://www.besoccer.com/match/ejido/valladolid/20069882,2006,19,segunda_division
+Levante,Eibar,0-0,https://www.besoccer.com/match/levante/eibar/20069883,2006,19,segunda_division
+Recreativo,Numancia,1-1,https://www.besoccer.com/match/recreativo/numancia/20069885,2006,19,segunda_division
+RM Castilla,Almería,0-1,https://www.besoccer.com/match/rm-castilla/almeria/20069880,2006,19,segunda_division
+Ciudad de Murcia,Albacete,0-0,https://www.besoccer.com/match/ciudad-de-murcia/albacete/20069877,2006,20,segunda_division
+Hércules,Gimnàstic Tarragona,0-1,https://www.besoccer.com/match/hercules/gimnastic-tarragona/20069878,2006,20,segunda_division
+Eibar,Poli Ejido,3-1,https://www.besoccer.com/match/eibar/ejido/20069879,2006,20,segunda_division
+Lleida,Almería,1-0,https://www.besoccer.com/match/ue-lleida/almeria/20069873,2006,20,segunda_division
+Xerez,Recreativo,1-1,https://www.besoccer.com/match/xerez/recreativo/20069871,2006,20,segunda_division
+CD Castellón,RM Castilla,3-1,https://www.besoccer.com/match/cd-castellon/rm-castilla/20069872,2006,20,segunda_division
+Lorca Deportiva,Levante,1-1,https://www.besoccer.com/match/lorca-deportiva-cf-sad/levante/20069874,2006,20,segunda_division
+Real Valladolid,Racing Ferrol,3-3,https://www.besoccer.com/match/valladolid/racing-club-ferrol/20069875,2006,20,segunda_division
+Real Sporting,Elche,2-2,https://www.besoccer.com/match/sporting-gijon/elche/20069876,2006,20,segunda_division
+Numancia,At. Malagueño,2-1,https://www.besoccer.com/match/numancia/atletico-malagueno/20069870,2006,20,segunda_division
+Tenerife,Real Murcia,3-1,https://www.besoccer.com/match/tenerife/real-murcia/20069869,2006,20,segunda_division
+Levante,Lleida,2-0,https://www.besoccer.com/match/levante/ue-lleida/20069866,2006,21,segunda_division
+Real Murcia,Real Sporting,1-0,https://www.besoccer.com/match/real-murcia/sporting-gijon/20069865,2006,21,segunda_division
+At. Malagueño,Xerez,0-0,https://www.besoccer.com/match/atletico-malagueno/xerez/20069867,2006,21,segunda_division
+Albacete,Tenerife,3-2,https://www.besoccer.com/match/albacete/tenerife/20069868,2006,21,segunda_division
+Elche,Real Valladolid,0-2,https://www.besoccer.com/match/elche/valladolid/20069864,2006,21,segunda_division
+Racing Ferrol,Eibar,4-0,https://www.besoccer.com/match/racing-club-ferrol/eibar/20069860,2006,21,segunda_division
+Poli Ejido,Lorca Deportiva,2-3,https://www.besoccer.com/match/ejido/lorca-deportiva-cf-sad/20069861,2006,21,segunda_division
+Recreativo,Hércules,1-0,https://www.besoccer.com/match/recreativo/hercules/20069862,2006,21,segunda_division
+Gimnàstic Tarragona,Ciudad de Murcia,2-0,https://www.besoccer.com/match/gimnastic-tarragona/ciudad-de-murcia/20069863,2006,21,segunda_division
+RM Castilla,Numancia,1-1,https://www.besoccer.com/match/rm-castilla/numancia/20069859,2006,21,segunda_division
+Almería,CD Castellón,2-1,https://www.besoccer.com/match/almeria/cd-castellon/20069858,2006,21,segunda_division
+RM Castilla,Xerez,4-3,https://www.besoccer.com/match/rm-castilla/xerez/20069855,2006,22,segunda_division
+Poli Ejido,Levante,0-0,https://www.besoccer.com/match/ejido/levante/20069854,2006,22,segunda_division
+At. Malagueño,Hércules,1-1,https://www.besoccer.com/match/atletico-malagueno/hercules/20069856,2006,22,segunda_division
+Gimnàstic Tarragona,Tenerife,0-0,https://www.besoccer.com/match/gimnastic-tarragona/tenerife/20069857,2006,22,segunda_division
+Real Murcia,Real Valladolid,2-2,https://www.besoccer.com/match/real-murcia/valladolid/20069850,2006,22,segunda_division
+Racing Ferrol,Lorca Deportiva,0-3,https://www.besoccer.com/match/racing-club-ferrol/lorca-deportiva-cf-sad/20069851,2006,22,segunda_division
+CD Castellón,Lleida,0-3,https://www.besoccer.com/match/cd-castellon/ue-lleida/20069852,2006,22,segunda_division
+Elche,Eibar,1-1,https://www.besoccer.com/match/elche/eibar/20069848,2006,22,segunda_division
+Recreativo,Ciudad de Murcia,1-0,https://www.besoccer.com/match/recreativo/ciudad-de-murcia/20069849,2006,22,segunda_division
+Almería,Numancia,1-2,https://www.besoccer.com/match/almeria/numancia/20069853,2006,22,segunda_division
+Albacete,Real Sporting,1-0,https://www.besoccer.com/match/albacete/sporting-gijon/20069847,2006,22,segunda_division
+Real Valladolid,Albacete,0-1,https://www.besoccer.com/match/valladolid/albacete/20069844,2006,23,segunda_division
+Hércules,RM Castilla,0-1,https://www.besoccer.com/match/hercules/rm-castilla/20069843,2006,23,segunda_division
+Real Sporting,Gimnàstic Tarragona,0-1,https://www.besoccer.com/match/sporting-gijon/gimnastic-tarragona/20069845,2006,23,segunda_division
+Tenerife,Recreativo,1-0,https://www.besoccer.com/match/tenerife/recreativo/20069846,2006,23,segunda_division
+Xerez,Almería,0-0,https://www.besoccer.com/match/xerez/almeria/20069842,2006,23,segunda_division
+Ciudad de Murcia,At. Malagueño,5-0,https://www.besoccer.com/match/ciudad-de-murcia/atletico-malagueno/20069837,2006,23,segunda_division
+Numancia,CD Castellón,2-1,https://www.besoccer.com/match/numancia/cd-castellon/20069838,2006,23,segunda_division
+Lleida,Poli Ejido,1-0,https://www.besoccer.com/match/ue-lleida/ejido/20069839,2006,23,segunda_division
+Lorca Deportiva,Elche,2-1,https://www.besoccer.com/match/lorca-deportiva-cf-sad/elche/20069840,2006,23,segunda_division
+Eibar,Real Murcia,0-0,https://www.besoccer.com/match/eibar/real-murcia/20069841,2006,23,segunda_division
+Levante,Racing Ferrol,2-1,https://www.besoccer.com/match/levante/racing-club-ferrol/20069836,2006,23,segunda_division
+At. Malagueño,Tenerife,1-4,https://www.besoccer.com/match/atletico-malagueno/tenerife/20069835,2006,24,segunda_division
+Elche,Levante,0-1,https://www.besoccer.com/match/elche/levante/20069834,2006,24,segunda_division
+Numancia,Lleida,1-0,https://www.besoccer.com/match/numancia/ue-lleida/20069828,2006,24,segunda_division
+Recreativo,Real Sporting,0-0,https://www.besoccer.com/match/recreativo/sporting-gijon/20069833,2006,24,segunda_division
+Racing Ferrol,Poli Ejido,0-1,https://www.besoccer.com/match/racing-club-ferrol/ejido/20069827,2006,24,segunda_division
+RM Castilla,Ciudad de Murcia,0-1,https://www.besoccer.com/match/rm-castilla/ciudad-de-murcia/20069829,2006,24,segunda_division
+Gimnàstic Tarragona,Real Valladolid,3-2,https://www.besoccer.com/match/gimnastic-tarragona/valladolid/20069830,2006,24,segunda_division
+Albacete,Eibar,2-1,https://www.besoccer.com/match/albacete/eibar/20069831,2006,24,segunda_division
+Real Murcia,Lorca Deportiva,0-1,https://www.besoccer.com/match/real-murcia/lorca-deportiva-cf-sad/20069832,2006,24,segunda_division
+CD Castellón,Xerez,3-2,https://www.besoccer.com/match/cd-castellon/xerez/20069826,2006,24,segunda_division
+Almería,Hércules,1-0,https://www.besoccer.com/match/almeria/hercules/20069825,2006,24,segunda_division
+Lorca Deportiva,Albacete,3-0,https://www.besoccer.com/match/lorca-deportiva-cf-sad/albacete/20069822,2006,25,segunda_division
+Real Sporting,At. Malagueño,0-0,https://www.besoccer.com/match/sporting-gijon/atletico-malagueno/20069823,2006,25,segunda_division
+Ciudad de Murcia,Almería,0-0,https://www.besoccer.com/match/ciudad-de-murcia/almeria/20069824,2006,25,segunda_division
+Hércules,CD Castellón,1-0,https://www.besoccer.com/match/hercules/cd-castellon/20069820,2006,25,segunda_division
+Eibar,Gimnàstic Tarragona,0-1,https://www.besoccer.com/match/eibar/gimnastic-tarragona/20069821,2006,25,segunda_division
+Lleida,Racing Ferrol,1-1,https://www.besoccer.com/match/ue-lleida/racing-club-ferrol/20069818,2006,25,segunda_division
+Xerez,Numancia,1-1,https://www.besoccer.com/match/xerez/numancia/20069815,2006,25,segunda_division
+Poli Ejido,Elche,2-1,https://www.besoccer.com/match/ejido/elche/20069816,2006,25,segunda_division
+Levante,Real Murcia,1-0,https://www.besoccer.com/match/levante/real-murcia/20069817,2006,25,segunda_division
+Real Valladolid,Recreativo,0-1,https://www.besoccer.com/match/valladolid/recreativo/20069819,2006,25,segunda_division
+Tenerife,RM Castilla,0-1,https://www.besoccer.com/match/tenerife/rm-castilla/20069814,2006,25,segunda_division
+At. Malagueño,Real Valladolid,2-1,https://www.besoccer.com/match/atletico-malagueno/valladolid/20069813,2006,26,segunda_division
+Almería,Tenerife,2-0,https://www.besoccer.com/match/almeria/tenerife/20069809,2006,26,segunda_division
+RM Castilla,Real Sporting,1-1,https://www.besoccer.com/match/rm-castilla/sporting-gijon/20069810,2006,26,segunda_division
+Recreativo,Eibar,0-0,https://www.besoccer.com/match/recreativo/eibar/20069811,2006,26,segunda_division
+Albacete,Levante,1-1,https://www.besoccer.com/match/albacete/levante/20069812,2006,26,segunda_division
+Gimnàstic Tarragona,Lorca Deportiva,2-0,https://www.besoccer.com/match/gimnastic-tarragona/lorca-deportiva-cf-sad/20069808,2006,26,segunda_division
+Elche,Racing Ferrol,1-0,https://www.besoccer.com/match/elche/racing-club-ferrol/20069805,2006,26,segunda_division
+Real Murcia,Poli Ejido,0-0,https://www.besoccer.com/match/real-murcia/ejido/20069807,2006,26,segunda_division
+Xerez,Lleida,0-1,https://www.besoccer.com/match/xerez/ue-lleida/20069804,2006,26,segunda_division
+CD Castellón,Ciudad de Murcia,1-2,https://www.besoccer.com/match/cd-castellon/ciudad-de-murcia/20069806,2006,26,segunda_division
+Numancia,Hércules,1-0,https://www.besoccer.com/match/numancia/hercules/20069803,2006,26,segunda_division
+Tenerife,CD Castellón,1-1,https://www.besoccer.com/match/tenerife/cd-castellon/20069802,2006,27,segunda_division
+Lleida,Elche,0-0,https://www.besoccer.com/match/ue-lleida/elche/20069800,2006,27,segunda_division
+Racing Ferrol,Real Murcia,2-2,https://www.besoccer.com/match/racing-club-ferrol/real-murcia/20069799,2006,27,segunda_division
+Real Sporting,Almería,1-0,https://www.besoccer.com/match/sporting-gijon/almeria/20069801,2006,27,segunda_division
+Lorca Deportiva,Recreativo,2-1,https://www.besoccer.com/match/lorca-deportiva-cf-sad/recreativo/20069798,2006,27,segunda_division
+Poli Ejido,Albacete,2-0,https://www.besoccer.com/match/ejido/albacete/20069794,2006,27,segunda_division
+Levante,Gimnàstic Tarragona,1-1,https://www.besoccer.com/match/levante/gimnastic-tarragona/20069795,2006,27,segunda_division
+Eibar,At. Malagueño,1-1,https://www.besoccer.com/match/eibar/atletico-malagueno/20069796,2006,27,segunda_division
+Ciudad de Murcia,Numancia,0-1,https://www.besoccer.com/match/ciudad-de-murcia/numancia/20069797,2006,27,segunda_division
+Real Valladolid,RM Castilla,1-0,https://www.besoccer.com/match/valladolid/rm-castilla/20069793,2006,27,segunda_division
+Hércules,Xerez,0-3,https://www.besoccer.com/match/hercules/xerez/20069792,2006,27,segunda_division
+Numancia,Tenerife,2-0,https://www.besoccer.com/match/numancia/tenerife/20069787,2006,28,segunda_division
+CD Castellón,Real Sporting,1-0,https://www.besoccer.com/match/cd-castellon/sporting-gijon/20069788,2006,28,segunda_division
+Almería,Real Valladolid,2-1,https://www.besoccer.com/match/almeria/valladolid/20069789,2006,28,segunda_division
+RM Castilla,Eibar,1-0,https://www.besoccer.com/match/rm-castilla/eibar/20069790,2006,28,segunda_division
+At. Malagueño,Lorca Deportiva,2-1,https://www.besoccer.com/match/atletico-malagueno/lorca-deportiva-cf-sad/20069791,2006,28,segunda_division
+Hércules,Lleida,2-1,https://www.besoccer.com/match/hercules/ue-lleida/20069786,2006,28,segunda_division
+Recreativo,Levante,4-1,https://www.besoccer.com/match/recreativo/levante/20069785,2006,28,segunda_division
+Gimnàstic Tarragona,Poli Ejido,2-0,https://www.besoccer.com/match/gimnastic-tarragona/ejido/20069782,2006,28,segunda_division
+Albacete,Racing Ferrol,1-2,https://www.besoccer.com/match/albacete/racing-club-ferrol/20069783,2006,28,segunda_division
+Real Murcia,Elche,1-0,https://www.besoccer.com/match/real-murcia/elche/20069784,2006,28,segunda_division
+Xerez,Ciudad de Murcia,0-0,https://www.besoccer.com/match/xerez/ciudad-de-murcia/20069781,2006,28,segunda_division
+Poli Ejido,Recreativo,0-0,https://www.besoccer.com/match/ejido/recreativo/20069776,2006,29,segunda_division
+Lleida,Real Murcia,1-1,https://www.besoccer.com/match/ue-lleida/real-murcia/20069777,2006,29,segunda_division
+Tenerife,Xerez,3-1,https://www.besoccer.com/match/tenerife/xerez/20069778,2006,29,segunda_division
+Ciudad de Murcia,Hércules,1-0,https://www.besoccer.com/match/ciudad-de-murcia/hercules/20069779,2006,29,segunda_division
+Elche,Albacete,4-3,https://www.besoccer.com/match/elche/albacete/20069780,2006,29,segunda_division
+Lorca Deportiva,RM Castilla,2-1,https://www.besoccer.com/match/lorca-deportiva-cf-sad/rm-castilla/20069775,2006,29,segunda_division
+Racing Ferrol,Gimnàstic Tarragona,1-1,https://www.besoccer.com/match/racing-club-ferrol/gimnastic-tarragona/20069773,2006,29,segunda_division
+Real Valladolid,CD Castellón,1-0,https://www.besoccer.com/match/valladolid/cd-castellon/20069774,2006,29,segunda_division
+Eibar,Almería,0-1,https://www.besoccer.com/match/eibar/almeria/20069772,2006,29,segunda_division
+Levante,At. Malagueño,2-1,https://www.besoccer.com/match/levante/atletico-malagueno/20069771,2006,29,segunda_division
+Real Sporting,Numancia,1-0,https://www.besoccer.com/match/sporting-gijon/numancia/20069770,2006,29,segunda_division
+Hércules,Tenerife,1-0,https://www.besoccer.com/match/hercules/tenerife/20069769,2006,30,segunda_division
+Almería,Lorca Deportiva,1-0,https://www.besoccer.com/match/almeria/lorca-deportiva-cf-sad/20069765,2006,30,segunda_division
+Gimnàstic Tarragona,Elche,1-0,https://www.besoccer.com/match/gimnastic-tarragona/elche/20069766,2006,30,segunda_division
+Albacete,Real Murcia,0-0,https://www.besoccer.com/match/albacete/real-murcia/20069767,2006,30,segunda_division
+Ciudad de Murcia,Lleida,3-1,https://www.besoccer.com/match/ciudad-de-murcia/ue-lleida/20069768,2006,30,segunda_division
+RM Castilla,Levante,0-0,https://www.besoccer.com/match/rm-castilla/levante/20069764,2006,30,segunda_division
+Xerez,Real Sporting,0-0,https://www.besoccer.com/match/xerez/sporting-gijon/20069763,2006,30,segunda_division
+Numancia,Real Valladolid,3-2,https://www.besoccer.com/match/numancia/valladolid/20069760,2006,30,segunda_division
+At. Malagueño,Poli Ejido,0-1,https://www.besoccer.com/match/atletico-malagueno/ejido/20069761,2006,30,segunda_division
+Recreativo,Racing Ferrol,3-0,https://www.besoccer.com/match/recreativo/racing-club-ferrol/20069762,2006,30,segunda_division
+CD Castellón,Eibar,2-0,https://www.besoccer.com/match/cd-castellon/eibar/20069759,2006,30,segunda_division
+Eibar,Numancia,1-2,https://www.besoccer.com/match/eibar/numancia/20069756,2006,31,segunda_division
+Poli Ejido,RM Castilla,0-3,https://www.besoccer.com/match/ejido/rm-castilla/20069755,2006,31,segunda_division
+Real Sporting,Hércules,1-1,https://www.besoccer.com/match/sporting-gijon/hercules/20069757,2006,31,segunda_division
+Tenerife,Ciudad de Murcia,0-1,https://www.besoccer.com/match/tenerife/ciudad-de-murcia/20069758,2006,31,segunda_division
+Lleida,Albacete,3-0,https://www.besoccer.com/match/ue-lleida/albacete/20069750,2006,31,segunda_division
+Levante,Almería,2-4,https://www.besoccer.com/match/levante/almeria/20069754,2006,31,segunda_division
+Racing Ferrol,At. Malagueño,2-1,https://www.besoccer.com/match/racing-club-ferrol/atletico-malagueno/20069753,2006,31,segunda_division
+Elche,Recreativo,1-1,https://www.besoccer.com/match/elche/recreativo/20069752,2006,31,segunda_division
+Lorca Deportiva,CD Castellón,3-2,https://www.besoccer.com/match/lorca-deportiva-cf-sad/cd-castellon/20069751,2006,31,segunda_division
+Real Valladolid,Xerez,3-1,https://www.besoccer.com/match/valladolid/xerez/20069748,2006,31,segunda_division
+Real Murcia,Gimnàstic Tarragona,0-1,https://www.besoccer.com/match/real-murcia/gimnastic-tarragona/20069749,2006,31,segunda_division
+RM Castilla,Racing Ferrol,1-0,https://www.besoccer.com/match/rm-castilla/racing-club-ferrol/20069747,2006,32,segunda_division
+Ciudad de Murcia,Real Sporting,1-0,https://www.besoccer.com/match/ciudad-de-murcia/sporting-gijon/20069745,2006,32,segunda_division
+CD Castellón,Levante,0-0,https://www.besoccer.com/match/cd-castellon/levante/20069744,2006,32,segunda_division
+Xerez,Eibar,2-1,https://www.besoccer.com/match/xerez/eibar/20069746,2006,32,segunda_division
+Recreativo,Real Murcia,1-0,https://www.besoccer.com/match/recreativo/real-murcia/20069743,2006,32,segunda_division
+Almería,Poli Ejido,1-2,https://www.besoccer.com/match/almeria/ejido/20069742,2006,32,segunda_division
+Gimnàstic Tarragona,Albacete,4-1,https://www.besoccer.com/match/gimnastic-tarragona/albacete/20069741,2006,32,segunda_division
+Numancia,Lorca Deportiva,1-0,https://www.besoccer.com/match/numancia/lorca-deportiva-cf-sad/20069738,2006,32,segunda_division
+At. Malagueño,Elche,1-3,https://www.besoccer.com/match/atletico-malagueno/elche/20069739,2006,32,segunda_division
+Hércules,Real Valladolid,2-0,https://www.besoccer.com/match/hercules/valladolid/20069740,2006,32,segunda_division
+Tenerife,Lleida,2-2,https://www.besoccer.com/match/tenerife/ue-lleida/20069737,2006,32,segunda_division
+Real Sporting,Tenerife,2-2,https://www.besoccer.com/match/sporting-gijon/tenerife/20069736,2006,33,segunda_division
+Albacete,Recreativo,1-0,https://www.besoccer.com/match/albacete/recreativo/20069734,2006,33,segunda_division
+Lleida,Gimnàstic Tarragona,1-2,https://www.besoccer.com/match/ue-lleida/gimnastic-tarragona/20069733,2006,33,segunda_division
+Elche,RM Castilla,2-1,https://www.besoccer.com/match/elche/rm-castilla/20069735,2006,33,segunda_division
+Levante,Numancia,1-0,https://www.besoccer.com/match/levante/numancia/20069732,2006,33,segunda_division
+Racing Ferrol,Almería,1-1,https://www.besoccer.com/match/racing-club-ferrol/almeria/20069731,2006,33,segunda_division
+Eibar,Hércules,0-1,https://www.besoccer.com/match/eibar/hercules/20069729,2006,33,segunda_division
+Poli Ejido,CD Castellón,0-2,https://www.besoccer.com/match/ejido/cd-castellon/20069730,2006,33,segunda_division
+Lorca Deportiva,Xerez,1-1,https://www.besoccer.com/match/lorca-deportiva-cf-sad/xerez/20069727,2006,33,segunda_division
+Real Valladolid,Ciudad de Murcia,0-2,https://www.besoccer.com/match/valladolid/ciudad-de-murcia/20069728,2006,33,segunda_division
+Real Murcia,At. Malagueño,4-1,https://www.besoccer.com/match/real-murcia/atletico-malagueno/20069726,2006,33,segunda_division
+RM Castilla,Real Murcia,1-0,https://www.besoccer.com/match/rm-castilla/real-murcia/20069723,2006,34,segunda_division
+Ciudad de Murcia,Eibar,0-2,https://www.besoccer.com/match/ciudad-de-murcia/eibar/20069724,2006,34,segunda_division
+Xerez,Levante,0-1,https://www.besoccer.com/match/xerez/levante/20069725,2006,34,segunda_division
+At. Malagueño,Albacete,1-1,https://www.besoccer.com/match/atletico-malagueno/albacete/20069722,2006,34,segunda_division
+Recreativo,Gimnàstic Tarragona,3-0,https://www.besoccer.com/match/recreativo/gimnastic-tarragona/20069721,2006,34,segunda_division
+Hércules,Lorca Deportiva,0-2,https://www.besoccer.com/match/hercules/lorca-deportiva-cf-sad/20069720,2006,34,segunda_division
+CD Castellón,Racing Ferrol,1-0,https://www.besoccer.com/match/cd-castellon/racing-club-ferrol/20069716,2006,34,segunda_division
+Almería,Elche,2-0,https://www.besoccer.com/match/almeria/elche/20069717,2006,34,segunda_division
+Numancia,Poli Ejido,1-2,https://www.besoccer.com/match/numancia/ejido/20069719,2006,34,segunda_division
+Real Sporting,Lleida,2-0,https://www.besoccer.com/match/sporting-gijon/ue-lleida/20069718,2006,34,segunda_division
+Tenerife,Real Valladolid,2-1,https://www.besoccer.com/match/tenerife/valladolid/20069715,2006,34,segunda_division
+Eibar,Tenerife,0-1,https://www.besoccer.com/match/eibar/tenerife/20069712,2006,35,segunda_division
+Levante,Hércules,2-0,https://www.besoccer.com/match/levante/hercules/20069711,2006,35,segunda_division
+Real Valladolid,Real Sporting,1-3,https://www.besoccer.com/match/valladolid/sporting-gijon/20069713,2006,35,segunda_division
+Real Murcia,Almería,1-0,https://www.besoccer.com/match/real-murcia/almeria/20069714,2006,35,segunda_division
+Lorca Deportiva,Ciudad de Murcia,2-2,https://www.besoccer.com/match/lorca-deportiva-cf-sad/ciudad-de-murcia/20069710,2006,35,segunda_division
+Albacete,RM Castilla,1-0,https://www.besoccer.com/match/albacete/rm-castilla/20069709,2006,35,segunda_division
+Lleida,Recreativo,0-4,https://www.besoccer.com/match/ue-lleida/recreativo/20069706,2006,35,segunda_division
+Elche,CD Castellón,1-2,https://www.besoccer.com/match/elche/cd-castellon/20069707,2006,35,segunda_division
+Racing Ferrol,Numancia,1-3,https://www.besoccer.com/match/racing-club-ferrol/numancia/20069708,2006,35,segunda_division
+Gimnàstic Tarragona,At. Malagueño,3-2,https://www.besoccer.com/match/gimnastic-tarragona/atletico-malagueno/20069705,2006,35,segunda_division
+Poli Ejido,Xerez,4-1,https://www.besoccer.com/match/ejido/xerez/20069704,2006,35,segunda_division
+Tenerife,Lorca Deportiva,2-3,https://www.besoccer.com/match/tenerife/lorca-deportiva-cf-sad/20069701,2006,36,segunda_division
+Almería,Albacete,1-2,https://www.besoccer.com/match/almeria/albacete/20069700,2006,36,segunda_division
+Numancia,Elche,3-1,https://www.besoccer.com/match/numancia/elche/20069702,2006,36,segunda_division
+CD Castellón,Real Murcia,2-1,https://www.besoccer.com/match/cd-castellon/real-murcia/20069703,2006,36,segunda_division
+Real Sporting,Eibar,1-1,https://www.besoccer.com/match/sporting-gijon/eibar/20069699,2006,36,segunda_division
+RM Castilla,Gimnàstic Tarragona,1-0,https://www.besoccer.com/match/rm-castilla/gimnastic-tarragona/20069698,2006,36,segunda_division
+Ciudad de Murcia,Levante,2-1,https://www.besoccer.com/match/ciudad-de-murcia/levante/20069697,2006,36,segunda_division
+Real Valladolid,Lleida,3-2,https://www.besoccer.com/match/valladolid/ue-lleida/20069695,2006,36,segunda_division
+Hércules,Poli Ejido,1-0,https://www.besoccer.com/match/hercules/ejido/20069696,2006,36,segunda_division
+Xerez,Racing Ferrol,2-0,https://www.besoccer.com/match/xerez/racing-club-ferrol/20069694,2006,36,segunda_division
+At. Malagueño,Recreativo,0-2,https://www.besoccer.com/match/atletico-malagueno/recreativo/20069693,2006,36,segunda_division
+Recreativo,RM Castilla,4-1,https://www.besoccer.com/match/recreativo/rm-castilla/20069690,2006,37,segunda_division
+Lorca Deportiva,Real Sporting,1-0,https://www.besoccer.com/match/lorca-deportiva-cf-sad/sporting-gijon/20069689,2006,37,segunda_division
+Racing Ferrol,Hércules,1-1,https://www.besoccer.com/match/racing-club-ferrol/hercules/20069691,2006,37,segunda_division
+Levante,Tenerife,1-0,https://www.besoccer.com/match/levante/tenerife/20069692,2006,37,segunda_division
+Gimnàstic Tarragona,Almería,1-0,https://www.besoccer.com/match/gimnastic-tarragona/almeria/20069688,2006,37,segunda_division
+Elche,Xerez,1-0,https://www.besoccer.com/match/elche/xerez/20069687,2006,37,segunda_division
+Lleida,At. Malagueño,0-0,https://www.besoccer.com/match/ue-lleida/atletico-malagueno/20069685,2006,37,segunda_division
+Albacete,CD Castellón,1-1,https://www.besoccer.com/match/albacete/cd-castellon/20069686,2006,37,segunda_division
+Real Murcia,Numancia,3-1,https://www.besoccer.com/match/real-murcia/numancia/20069684,2006,37,segunda_division
+Eibar,Real Valladolid,0-1,https://www.besoccer.com/match/eibar/valladolid/20069682,2006,37,segunda_division
+Poli Ejido,Ciudad de Murcia,2-3,https://www.besoccer.com/match/ejido/ciudad-de-murcia/20069683,2006,37,segunda_division
+Ciudad de Murcia,Racing Ferrol,2-1,https://www.besoccer.com/match/ciudad-de-murcia/racing-club-ferrol/20069681,2006,38,segunda_division
+Eibar,Lleida,1-1,https://www.besoccer.com/match/eibar/ue-lleida/20069680,2006,38,segunda_division
+Hércules,Elche,0-0,https://www.besoccer.com/match/hercules/elche/20069679,2006,38,segunda_division
+Numancia,Albacete,1-0,https://www.besoccer.com/match/numancia/albacete/20069678,2006,38,segunda_division
+Tenerife,Poli Ejido,2-1,https://www.besoccer.com/match/tenerife/ejido/20069677,2006,38,segunda_division
+Almería,Recreativo,2-1,https://www.besoccer.com/match/almeria/recreativo/20069676,2006,38,segunda_division
+RM Castilla,At. Malagueño,4-1,https://www.besoccer.com/match/rm-castilla/atletico-malagueno/20069675,2006,38,segunda_division
+Real Valladolid,Lorca Deportiva,1-1,https://www.besoccer.com/match/valladolid/lorca-deportiva-cf-sad/20069673,2006,38,segunda_division
+CD Castellón,Gimnàstic Tarragona,0-2,https://www.besoccer.com/match/cd-castellon/gimnastic-tarragona/20069674,2006,38,segunda_division
+Real Sporting,Levante,0-2,https://www.besoccer.com/match/sporting-gijon/levante/20069671,2006,38,segunda_division
+Xerez,Real Murcia,2-0,https://www.besoccer.com/match/xerez/real-murcia/20069672,2006,38,segunda_division
+Racing Ferrol,Tenerife,2-3,https://www.besoccer.com/match/racing-club-ferrol/tenerife/20069670,2006,39,segunda_division
+At. Malagueño,Almería,3-1,https://www.besoccer.com/match/atletico-malagueno/almeria/20069669,2006,39,segunda_division
+Real Murcia,Hércules,3-1,https://www.besoccer.com/match/real-murcia/hercules/20069668,2006,39,segunda_division
+Lorca Deportiva,Eibar,1-0,https://www.besoccer.com/match/lorca-deportiva-cf-sad/eibar/20069667,2006,39,segunda_division
+Levante,Real Valladolid,2-1,https://www.besoccer.com/match/levante/valladolid/20069666,2006,39,segunda_division
+Lleida,RM Castilla,2-1,https://www.besoccer.com/match/ue-lleida/rm-castilla/20069664,2006,39,segunda_division
+Recreativo,CD Castellón,2-2,https://www.besoccer.com/match/recreativo/cd-castellon/20069665,2006,39,segunda_division
+Gimnàstic Tarragona,Numancia,1-0,https://www.besoccer.com/match/gimnastic-tarragona/numancia/20069660,2006,39,segunda_division
+Albacete,Xerez,2-0,https://www.besoccer.com/match/albacete/xerez/20069661,2006,39,segunda_division
+Elche,Ciudad de Murcia,0-0,https://www.besoccer.com/match/elche/ciudad-de-murcia/20069662,2006,39,segunda_division
+Poli Ejido,Real Sporting,1-0,https://www.besoccer.com/match/ejido/sporting-gijon/20069663,2006,39,segunda_division
+Real Sporting,Racing Ferrol,3-1,https://www.besoccer.com/match/sporting-gijon/racing-club-ferrol/20069657,2006,40,segunda_division
+Tenerife,Elche,0-0,https://www.besoccer.com/match/tenerife/elche/20069658,2006,40,segunda_division
+Xerez,Gimnàstic Tarragona,0-0,https://www.besoccer.com/match/xerez/gimnastic-tarragona/20069659,2006,40,segunda_division
+Ciudad de Murcia,Real Murcia,1-0,https://www.besoccer.com/match/ciudad-de-murcia/real-murcia/20069656,2006,40,segunda_division
+Numancia,Recreativo,0-3,https://www.besoccer.com/match/numancia/recreativo/20069655,2006,40,segunda_division
+Real Valladolid,Poli Ejido,0-1,https://www.besoccer.com/match/valladolid/ejido/20069653,2006,40,segunda_division
+Hércules,Albacete,2-1,https://www.besoccer.com/match/hercules/albacete/20069654,2006,40,segunda_division
+Eibar,Levante,1-1,https://www.besoccer.com/match/eibar/levante/20069651,2006,40,segunda_division
+Almería,RM Castilla,3-2,https://www.besoccer.com/match/almeria/rm-castilla/20069652,2006,40,segunda_division
+Lorca Deportiva,Lleida,1-2,https://www.besoccer.com/match/lorca-deportiva-cf-sad/ue-lleida/20069649,2006,40,segunda_division
+CD Castellón,At. Malagueño,2-2,https://www.besoccer.com/match/cd-castellon/atletico-malagueno/20069650,2006,40,segunda_division
+At. Malagueño,Numancia,5-4,https://www.besoccer.com/match/atletico-malagueno/numancia/20069644,2006,41,segunda_division
+Recreativo,Xerez,1-2,https://www.besoccer.com/match/recreativo/xerez/20069645,2006,41,segunda_division
+Real Murcia,Tenerife,2-2,https://www.besoccer.com/match/real-murcia/tenerife/20069646,2006,41,segunda_division
+Elche,Real Sporting,0-0,https://www.besoccer.com/match/elche/sporting-gijon/20069647,2006,41,segunda_division
+RM Castilla,CD Castellón,1-2,https://www.besoccer.com/match/rm-castilla/cd-castellon/20069648,2006,41,segunda_division
+Racing Ferrol,Real Valladolid,0-1,https://www.besoccer.com/match/racing-club-ferrol/valladolid/20069643,2006,41,segunda_division
+Levante,Lorca Deportiva,0-0,https://www.besoccer.com/match/levante/lorca-deportiva-cf-sad/20069642,2006,41,segunda_division
+Gimnàstic Tarragona,Hércules,1-1,https://www.besoccer.com/match/gimnastic-tarragona/hercules/20069641,2006,41,segunda_division
+Albacete,Ciudad de Murcia,2-2,https://www.besoccer.com/match/albacete/ciudad-de-murcia/20069638,2006,41,segunda_division
+Poli Ejido,Eibar,0-1,https://www.besoccer.com/match/ejido/eibar/20069639,2006,41,segunda_division
+Almería,Lleida,3-1,https://www.besoccer.com/match/almeria/ue-lleida/20069640,2006,41,segunda_division
+Eibar,Racing Ferrol,1-1,https://www.besoccer.com/match/eibar/racing-club-ferrol/20069634,2006,42,segunda_division
+Real Sporting,Real Murcia,1-0,https://www.besoccer.com/match/sporting-gijon/real-murcia/20069635,2006,42,segunda_division
+Numancia,RM Castilla,3-2,https://www.besoccer.com/match/numancia/rm-castilla/20069636,2006,42,segunda_division
+CD Castellón,Almería,2-0,https://www.besoccer.com/match/cd-castellon/almeria/20069637,2006,42,segunda_division
+Real Valladolid,Elche,2-2,https://www.besoccer.com/match/valladolid/elche/20069628,2006,42,segunda_division
+Tenerife,Albacete,1-1,https://www.besoccer.com/match/tenerife/albacete/20069629,2006,42,segunda_division
+Ciudad de Murcia,Gimnàstic Tarragona,2-0,https://www.besoccer.com/match/ciudad-de-murcia/gimnastic-tarragona/20069630,2006,42,segunda_division
+Xerez,At. Malagueño,4-2,https://www.besoccer.com/match/xerez/atletico-malagueno/20069631,2006,42,segunda_division
+Lleida,Levante,0-1,https://www.besoccer.com/match/ue-lleida/levante/20069632,2006,42,segunda_division
+Lorca Deportiva,Poli Ejido,0-0,https://www.besoccer.com/match/lorca-deportiva-cf-sad/ejido/20069633,2006,42,segunda_division
+Hércules,Recreativo,0-2,https://www.besoccer.com/match/hercules/recreativo/20069627,2006,42,segunda_division

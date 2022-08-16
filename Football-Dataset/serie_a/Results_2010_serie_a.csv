@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Bologna,Fiorentina,1-1,https://www.besoccer.com/match/bologna/fiorentina/201017184,2010,1,serie_a
+Siena,Milan,1-2,https://www.besoccer.com/match/siena/milan/201017182,2010,1,serie_a
+Inter,SSC Bari,1-1,https://www.besoccer.com/match/internazionale/as-bari/201017177,2010,1,serie_a
+Catania,Sampdoria,1-2,https://www.besoccer.com/match/catania/sampdoria/201017175,2010,1,serie_a
+Genoa,Roma,3-2,https://www.besoccer.com/match/genoa/roma/201017176,2010,1,serie_a
+Juventus,Chievo,1-0,https://www.besoccer.com/match/juventus-fc/chievo/201017178,2010,1,serie_a
+Lazio,Atalanta,1-0,https://www.besoccer.com/match/lazio/atalanta/201017179,2010,1,serie_a
+Livorno,Cagliari,0-0,https://www.besoccer.com/match/livorno/cagliari/201017180,2010,1,serie_a
+Palermo FC,Napoli,2-1,https://www.besoccer.com/match/palermo/napoli/201017181,2010,1,serie_a
+Udinese,Parma,2-2,https://www.besoccer.com/match/udinese/parma-fc/201017183,2010,1,serie_a
+SSC Bari,Bologna,0-0,https://www.besoccer.com/match/as-bari/bologna/201017188,2010,2,serie_a
+Milan,Inter,0-4,https://www.besoccer.com/match/milan/internazionale/201017185,2010,2,serie_a
+Roma,Juventus,1-3,https://www.besoccer.com/match/roma/juventus-fc/201017186,2010,2,serie_a
+Atalanta,Genoa,0-1,https://www.besoccer.com/match/atalanta/genoa/201017187,2010,2,serie_a
+Cagliari,Siena,1-3,https://www.besoccer.com/match/cagliari/siena/201017189,2010,2,serie_a
+Chievo,Lazio,1-2,https://www.besoccer.com/match/chievo/lazio/201017190,2010,2,serie_a
+Fiorentina,Palermo FC,1-0,https://www.besoccer.com/match/fiorentina/palermo/201017191,2010,2,serie_a
+Napoli,Livorno,3-1,https://www.besoccer.com/match/napoli/livorno/201017192,2010,2,serie_a
+Parma,Catania,2-1,https://www.besoccer.com/match/parma-fc/catania/201017193,2010,2,serie_a
+Sampdoria,Udinese,3-1,https://www.besoccer.com/match/sampdoria/udinese/201017194,2010,2,serie_a
+Livorno,Milan,0-0,https://www.besoccer.com/match/livorno/milan/201017201,2010,3,serie_a
+Lazio,Juventus,0-2,https://www.besoccer.com/match/lazio/juventus-fc/201017200,2010,3,serie_a
+Atalanta,Sampdoria,0-1,https://www.besoccer.com/match/atalanta/sampdoria/201017195,2010,3,serie_a
+Bologna,Chievo,0-2,https://www.besoccer.com/match/bologna/chievo/201017196,2010,3,serie_a
+Fiorentina,Cagliari,1-0,https://www.besoccer.com/match/fiorentina/cagliari/201017197,2010,3,serie_a
+Inter,Parma,2-0,https://www.besoccer.com/match/internazionale/parma-fc/201017199,2010,3,serie_a
+Palermo FC,SSC Bari,1-1,https://www.besoccer.com/match/palermo/as-bari/201017202,2010,3,serie_a
+Siena,Roma,1-2,https://www.besoccer.com/match/siena/roma/201017203,2010,3,serie_a
+Udinese,Catania,4-2,https://www.besoccer.com/match/udinese/catania/201017204,2010,3,serie_a
+Genoa,Napoli,4-1,https://www.besoccer.com/match/genoa/napoli/201017198,2010,3,serie_a
+Napoli,Udinese,0-0,https://www.besoccer.com/match/napoli/udinese/201017211,2010,4,serie_a
+Juventus,Livorno,2-0,https://www.besoccer.com/match/juventus-fc/livorno/201017209,2010,4,serie_a
+SSC Bari,Atalanta,4-1,https://www.besoccer.com/match/as-bari/atalanta/201017205,2010,4,serie_a
+Cagliari,Inter,1-2,https://www.besoccer.com/match/cagliari/internazionale/201017206,2010,4,serie_a
+Catania,Lazio,1-1,https://www.besoccer.com/match/catania/lazio/201017207,2010,4,serie_a
+Chievo,Genoa,3-1,https://www.besoccer.com/match/chievo/genoa/201017208,2010,4,serie_a
+Milan,Bologna,1-0,https://www.besoccer.com/match/milan/bologna/201017210,2010,4,serie_a
+Parma,Palermo FC,1-0,https://www.besoccer.com/match/parma-fc/palermo/201017212,2010,4,serie_a
+Sampdoria,Siena,4-1,https://www.besoccer.com/match/sampdoria/siena/201017214,2010,4,serie_a
+Roma,Fiorentina,3-1,https://www.besoccer.com/match/roma/fiorentina/201017213,2010,4,serie_a
+Atalanta,Catania,0-0,https://www.besoccer.com/match/atalanta/catania/201017215,2010,5,serie_a
+SSC Bari,Cagliari,0-1,https://www.besoccer.com/match/as-bari/cagliari/201017216,2010,5,serie_a
+Bologna,Livorno,2-0,https://www.besoccer.com/match/bologna/livorno/201017217,2010,5,serie_a
+Fiorentina,Sampdoria,2-0,https://www.besoccer.com/match/fiorentina/sampdoria/201017218,2010,5,serie_a
+Inter,Napoli,3-1,https://www.besoccer.com/match/internazionale/napoli/201017220,2010,5,serie_a
+Lazio,Parma,1-2,https://www.besoccer.com/match/lazio/parma-fc/201017221,2010,5,serie_a
+Palermo FC,Roma,3-3,https://www.besoccer.com/match/palermo/roma/201017222,2010,5,serie_a
+Siena,Chievo,0-0,https://www.besoccer.com/match/siena/chievo/201017223,2010,5,serie_a
+Udinese,Milan,1-0,https://www.besoccer.com/match/udinese/milan/201017224,2010,5,serie_a
+Genoa,Juventus,2-2,https://www.besoccer.com/match/genoa/juventus-fc/201017219,2010,5,serie_a
+Sampdoria,Inter,1-0,https://www.besoccer.com/match/sampdoria/internazionale/201017233,2010,6,serie_a
+Livorno,Fiorentina,0-1,https://www.besoccer.com/match/livorno/fiorentina/201017229,2010,6,serie_a
+Catania,Roma,1-1,https://www.besoccer.com/match/catania/roma/201017225,2010,6,serie_a
+Chievo,Atalanta,1-1,https://www.besoccer.com/match/chievo/atalanta/201017226,2010,6,serie_a
+Juventus,Bologna,1-1,https://www.besoccer.com/match/juventus-fc/bologna/201017227,2010,6,serie_a
+Lazio,Palermo FC,1-1,https://www.besoccer.com/match/lazio/palermo/201017228,2010,6,serie_a
+Napoli,Siena,2-1,https://www.besoccer.com/match/napoli/siena/201017231,2010,6,serie_a
+Parma,Cagliari,0-2,https://www.besoccer.com/match/parma-fc/cagliari/201017232,2010,6,serie_a
+Udinese,Genoa,2-0,https://www.besoccer.com/match/udinese/genoa/201017234,2010,6,serie_a
+Milan,SSC Bari,0-0,https://www.besoccer.com/match/milan/as-bari/201017230,2010,6,serie_a
+SSC Bari,Catania,0-0,https://www.besoccer.com/match/as-bari/catania/201017236,2010,7,serie_a
+Inter,Udinese,2-1,https://www.besoccer.com/match/internazionale/udinese/201017240,2010,7,serie_a
+Atalanta,Milan,1-1,https://www.besoccer.com/match/atalanta/milan/201017235,2010,7,serie_a
+Bologna,Genoa,1-3,https://www.besoccer.com/match/bologna/genoa/201017237,2010,7,serie_a
+Cagliari,Chievo,1-2,https://www.besoccer.com/match/cagliari/chievo/201017238,2010,7,serie_a
+Fiorentina,Lazio,0-0,https://www.besoccer.com/match/fiorentina/lazio/201017239,2010,7,serie_a
+Roma,Napoli,2-1,https://www.besoccer.com/match/roma/napoli/201017242,2010,7,serie_a
+Sampdoria,Parma,1-1,https://www.besoccer.com/match/sampdoria/parma-fc/201017243,2010,7,serie_a
+Siena,Livorno,0-0,https://www.besoccer.com/match/siena/livorno/201017244,2010,7,serie_a
+Palermo FC,Juventus,2-0,https://www.besoccer.com/match/palermo/juventus-fc/201017241,2010,7,serie_a
+Juventus,Fiorentina,1-1,https://www.besoccer.com/match/juventus-fc/fiorentina/201017248,2010,8,serie_a
+Genoa,Inter,0-5,https://www.besoccer.com/match/genoa/internazionale/201017247,2010,8,serie_a
+Catania,Cagliari,2-1,https://www.besoccer.com/match/catania/cagliari/201017245,2010,8,serie_a
+Chievo,SSC Bari,1-2,https://www.besoccer.com/match/chievo/as-bari/201017246,2010,8,serie_a
+Lazio,Sampdoria,1-1,https://www.besoccer.com/match/lazio/sampdoria/201017249,2010,8,serie_a
+Livorno,Palermo FC,1-2,https://www.besoccer.com/match/livorno/palermo/201017250,2010,8,serie_a
+Napoli,Bologna,2-1,https://www.besoccer.com/match/napoli/bologna/201017252,2010,8,serie_a
+Parma,Siena,1-0,https://www.besoccer.com/match/parma-fc/siena/201017253,2010,8,serie_a
+Udinese,Atalanta,1-3,https://www.besoccer.com/match/udinese/atalanta/201017254,2010,8,serie_a
+Milan,Roma,2-1,https://www.besoccer.com/match/milan/roma/201017251,2010,8,serie_a
+Sampdoria,Bologna,4-1,https://www.besoccer.com/match/sampdoria/bologna/201017263,2010,9,serie_a
+Inter,Catania,2-1,https://www.besoccer.com/match/internazionale/catania/201017260,2010,9,serie_a
+Atalanta,Parma,3-1,https://www.besoccer.com/match/atalanta/parma-fc/201017255,2010,9,serie_a
+SSC Bari,Lazio,2-0,https://www.besoccer.com/match/as-bari/lazio/201017256,2010,9,serie_a
+Cagliari,Genoa,3-2,https://www.besoccer.com/match/cagliari/genoa/201017257,2010,9,serie_a
+Fiorentina,Napoli,0-1,https://www.besoccer.com/match/fiorentina/napoli/201017259,2010,9,serie_a
+Palermo FC,Udinese,1-0,https://www.besoccer.com/match/palermo/udinese/201017261,2010,9,serie_a
+Roma,Livorno,0-1,https://www.besoccer.com/match/roma/livorno/201017262,2010,9,serie_a
+Siena,Juventus,0-1,https://www.besoccer.com/match/siena/juventus-fc/201017264,2010,9,serie_a
+Chievo,Milan,1-2,https://www.besoccer.com/match/chievo/milan/201017258,2010,9,serie_a
+Bologna,Siena,2-1,https://www.besoccer.com/match/bologna/siena/201017265,2010,10,serie_a
+Catania,Chievo,1-2,https://www.besoccer.com/match/catania/chievo/201017266,2010,10,serie_a
+Genoa,Fiorentina,2-1,https://www.besoccer.com/match/genoa/fiorentina/201017267,2010,10,serie_a
+Juventus,Sampdoria,5-1,https://www.besoccer.com/match/juventus-fc/sampdoria/201017269,2010,10,serie_a
+Lazio,Cagliari,0-1,https://www.besoccer.com/match/lazio/cagliari/201017270,2010,10,serie_a
+Livorno,Atalanta,1-0,https://www.besoccer.com/match/livorno/atalanta/201017271,2010,10,serie_a
+Napoli,Milan,2-2,https://www.besoccer.com/match/napoli/milan/201017272,2010,10,serie_a
+Parma,SSC Bari,2-0,https://www.besoccer.com/match/parma-fc/as-bari/201017273,2010,10,serie_a
+Udinese,Roma,2-1,https://www.besoccer.com/match/udinese/roma/201017274,2010,10,serie_a
+Inter,Palermo FC,5-3,https://www.besoccer.com/match/internazionale/palermo/201017268,2010,10,serie_a
+Juventus,Napoli,2-3,https://www.besoccer.com/match/juventus-fc/napoli/201017278,2010,11,serie_a
+Milan,Parma,2-0,https://www.besoccer.com/match/milan/parma-fc/201017280,2010,11,serie_a
+Cagliari,Atalanta,3-0,https://www.besoccer.com/match/cagliari/atalanta/201017275,2010,11,serie_a
+Chievo,Udinese,1-1,https://www.besoccer.com/match/chievo/udinese/201017276,2010,11,serie_a
+Fiorentina,Catania,3-1,https://www.besoccer.com/match/fiorentina/catania/201017277,2010,11,serie_a
+Livorno,Inter,0-2,https://www.besoccer.com/match/livorno/internazionale/201017279,2010,11,serie_a
+Roma,Bologna,2-1,https://www.besoccer.com/match/roma/bologna/201017282,2010,11,serie_a
+Sampdoria,SSC Bari,0-0,https://www.besoccer.com/match/sampdoria/as-bari/201017283,2010,11,serie_a
+Siena,Lazio,1-1,https://www.besoccer.com/match/siena/lazio/201017284,2010,11,serie_a
+Palermo FC,Genoa,0-0,https://www.besoccer.com/match/palermo/genoa/201017281,2010,11,serie_a
+Catania,Napoli,0-0,https://www.besoccer.com/match/catania/napoli/201017289,2010,12,serie_a
+Atalanta,Juventus,2-5,https://www.besoccer.com/match/atalanta/juventus-fc/201017285,2010,12,serie_a
+SSC Bari,Livorno,1-0,https://www.besoccer.com/match/as-bari/livorno/201017286,2010,12,serie_a
+Bologna,Palermo FC,3-1,https://www.besoccer.com/match/bologna/palermo/201017287,2010,12,serie_a
+Cagliari,Sampdoria,2-0,https://www.besoccer.com/match/cagliari/sampdoria/201017288,2010,12,serie_a
+Genoa,Siena,4-2,https://www.besoccer.com/match/genoa/siena/201017290,2010,12,serie_a
+Lazio,Milan,1-2,https://www.besoccer.com/match/lazio/milan/201017292,2010,12,serie_a
+Parma,Chievo,2-0,https://www.besoccer.com/match/parma-fc/chievo/201017293,2010,12,serie_a
+Udinese,Fiorentina,0-1,https://www.besoccer.com/match/udinese/fiorentina/201017294,2010,12,serie_a
+Inter,Roma,1-1,https://www.besoccer.com/match/internazionale/roma/201017291,2010,12,serie_a
+Bologna,Inter,1-3,https://www.besoccer.com/match/bologna/internazionale/201017295,2010,13,serie_a
+Fiorentina,Parma,2-3,https://www.besoccer.com/match/fiorentina/parma-fc/201017296,2010,13,serie_a
+Livorno,Genoa,2-1,https://www.besoccer.com/match/livorno/genoa/201017298,2010,13,serie_a
+Milan,Cagliari,4-3,https://www.besoccer.com/match/milan/cagliari/201017299,2010,13,serie_a
+Napoli,Lazio,0-0,https://www.besoccer.com/match/napoli/lazio/201017300,2010,13,serie_a
+Palermo FC,Catania,1-1,https://www.besoccer.com/match/palermo/catania/201017301,2010,13,serie_a
+Roma,SSC Bari,3-1,https://www.besoccer.com/match/roma/as-bari/201017302,2010,13,serie_a
+Sampdoria,Chievo,2-1,https://www.besoccer.com/match/sampdoria/chievo/201017303,2010,13,serie_a
+Siena,Atalanta,0-2,https://www.besoccer.com/match/siena/atalanta/201017304,2010,13,serie_a
+Juventus,Udinese,1-0,https://www.besoccer.com/match/juventus-fc/udinese/201017297,2010,13,serie_a
+Udinese,Livorno,2-0,https://www.besoccer.com/match/udinese/livorno/201017314,2010,14,serie_a
+Genoa,Sampdoria,3-0,https://www.besoccer.com/match/genoa/sampdoria/201017310,2010,14,serie_a
+Atalanta,Roma,1-2,https://www.besoccer.com/match/atalanta/roma/201017305,2010,14,serie_a
+SSC Bari,Siena,2-1,https://www.besoccer.com/match/as-bari/siena/201017306,2010,14,serie_a
+Cagliari,Juventus,2-0,https://www.besoccer.com/match/cagliari/juventus-fc/201017307,2010,14,serie_a
+Chievo,Palermo FC,1-0,https://www.besoccer.com/match/chievo/palermo/201017309,2010,14,serie_a
+Inter,Fiorentina,1-0,https://www.besoccer.com/match/internazionale/fiorentina/201017311,2010,14,serie_a
+Lazio,Bologna,0-0,https://www.besoccer.com/match/lazio/bologna/201017312,2010,14,serie_a
+Parma,Napoli,1-1,https://www.besoccer.com/match/parma-fc/napoli/201017313,2010,14,serie_a
+Catania,Milan,0-2,https://www.besoccer.com/match/catania/milan/201017308,2010,14,serie_a
+Milan,Sampdoria,3-0,https://www.besoccer.com/match/milan/sampdoria/201017320,2010,15,serie_a
+Juventus,Inter,2-1,https://www.besoccer.com/match/juventus-fc/internazionale/201017318,2010,15,serie_a
+Bologna,Udinese,2-1,https://www.besoccer.com/match/bologna/udinese/201017315,2010,15,serie_a
+Fiorentina,Atalanta,2-0,https://www.besoccer.com/match/fiorentina/atalanta/201017316,2010,15,serie_a
+Genoa,Parma,2-2,https://www.besoccer.com/match/genoa/parma-fc/201017317,2010,15,serie_a
+Livorno,Chievo,0-2,https://www.besoccer.com/match/livorno/chievo/201017319,2010,15,serie_a
+Napoli,SSC Bari,3-2,https://www.besoccer.com/match/napoli/as-bari/201017321,2010,15,serie_a
+Palermo FC,Cagliari,2-1,https://www.besoccer.com/match/palermo/cagliari/201017322,2010,15,serie_a
+Siena,Catania,3-2,https://www.besoccer.com/match/siena/catania/201017324,2010,15,serie_a
+Roma,Lazio,1-0,https://www.besoccer.com/match/roma/lazio/201017323,2010,15,serie_a
+Cagliari,Napoli,3-3,https://www.besoccer.com/match/cagliari/napoli/201017327,2010,16,serie_a
+SSC Bari,Juventus,3-1,https://www.besoccer.com/match/as-bari/juventus-fc/201017326,2010,16,serie_a
+Atalanta,Inter,1-1,https://www.besoccer.com/match/atalanta/internazionale/201017325,2010,16,serie_a
+Catania,Livorno,0-1,https://www.besoccer.com/match/catania/livorno/201017328,2010,16,serie_a
+Chievo,Fiorentina,2-1,https://www.besoccer.com/match/chievo/fiorentina/201017329,2010,16,serie_a
+Lazio,Genoa,1-0,https://www.besoccer.com/match/lazio/genoa/201017330,2010,16,serie_a
+Milan,Palermo FC,0-2,https://www.besoccer.com/match/milan/palermo/201017331,2010,16,serie_a
+Parma,Bologna,2-1,https://www.besoccer.com/match/parma-fc/bologna/201017332,2010,16,serie_a
+Siena,Udinese,2-1,https://www.besoccer.com/match/siena/udinese/201017334,2010,16,serie_a
+Sampdoria,Roma,0-0,https://www.besoccer.com/match/sampdoria/roma/201017333,2010,16,serie_a
+Juventus,Catania,1-2,https://www.besoccer.com/match/juventus-fc/catania/201017339,2010,17,serie_a
+Livorno,Sampdoria,3-1,https://www.besoccer.com/match/livorno/sampdoria/201017340,2010,17,serie_a
+Napoli,Chievo,2-0,https://www.besoccer.com/match/napoli/chievo/201017341,2010,17,serie_a
+Palermo FC,Siena,1-0,https://www.besoccer.com/match/palermo/siena/201017342,2010,17,serie_a
+Roma,Parma,2-0,https://www.besoccer.com/match/roma/parma-fc/201017343,2010,17,serie_a
+Inter,Lazio,1-0,https://www.besoccer.com/match/internazionale/lazio/201017338,2010,17,serie_a
+Bologna,Atalanta,2-2,https://www.besoccer.com/match/bologna/atalanta/201017335,2010,17,serie_a
+Genoa,SSC Bari,1-1,https://www.besoccer.com/match/genoa/as-bari/201017337,2010,17,serie_a
+Fiorentina,Milan,1-2,https://www.besoccer.com/match/fiorentina/milan/201017336,2010,17,serie_a
+Udinese,Cagliari,2-1,https://www.besoccer.com/match/udinese/cagliari/201017344,2010,17,serie_a
+Chievo,Inter,0-1,https://www.besoccer.com/match/chievo/internazionale/201017349,2010,18,serie_a
+Atalanta,Napoli,0-2,https://www.besoccer.com/match/atalanta/napoli/201017345,2010,18,serie_a
+SSC Bari,Udinese,2-0,https://www.besoccer.com/match/as-bari/udinese/201017346,2010,18,serie_a
+Cagliari,Roma,2-2,https://www.besoccer.com/match/cagliari/roma/201017347,2010,18,serie_a
+Catania,Bologna,1-0,https://www.besoccer.com/match/catania/bologna/201017348,2010,18,serie_a
+Lazio,Livorno,4-1,https://www.besoccer.com/match/lazio/livorno/201017350,2010,18,serie_a
+Parma,Juventus,1-2,https://www.besoccer.com/match/parma-fc/juventus-fc/201017352,2010,18,serie_a
+Sampdoria,Palermo FC,1-1,https://www.besoccer.com/match/sampdoria/palermo/201017353,2010,18,serie_a
+Siena,Fiorentina,1-5,https://www.besoccer.com/match/siena/fiorentina/201017354,2010,18,serie_a
+Milan,Genoa,5-2,https://www.besoccer.com/match/milan/genoa/201017351,2010,18,serie_a
+Roma,Chievo,1-0,https://www.besoccer.com/match/roma/chievo/201017363,2010,19,serie_a
+Inter,Siena,4-3,https://www.besoccer.com/match/internazionale/siena/201017358,2010,19,serie_a
+Bologna,Cagliari,0-1,https://www.besoccer.com/match/bologna/cagliari/201017355,2010,19,serie_a
+Fiorentina,SSC Bari,2-1,https://www.besoccer.com/match/fiorentina/as-bari/201017356,2010,19,serie_a
+Genoa,Catania,2-0,https://www.besoccer.com/match/genoa/catania/201017357,2010,19,serie_a
+Livorno,Parma,2-1,https://www.besoccer.com/match/livorno/parma-fc/201017360,2010,19,serie_a
+Napoli,Sampdoria,1-0,https://www.besoccer.com/match/napoli/sampdoria/201017361,2010,19,serie_a
+Palermo FC,Atalanta,1-0,https://www.besoccer.com/match/palermo/atalanta/201017362,2010,19,serie_a
+Udinese,Lazio,1-1,https://www.besoccer.com/match/udinese/lazio/201017364,2010,19,serie_a
+Juventus,Milan,0-3,https://www.besoccer.com/match/juventus-fc/milan/201017359,2010,19,serie_a
+Cagliari,Livorno,3-0,https://www.besoccer.com/match/cagliari/livorno/201017370,2010,20,serie_a
+SSC Bari,Inter,2-2,https://www.besoccer.com/match/as-bari/internazionale/201017367,2010,20,serie_a
+Sampdoria,Catania,1-1,https://www.besoccer.com/match/sampdoria/catania/201017365,2010,20,serie_a
+Roma,Genoa,3-0,https://www.besoccer.com/match/roma/genoa/201017366,2010,20,serie_a
+Chievo,Juventus,1-0,https://www.besoccer.com/match/chievo/juventus-fc/201017368,2010,20,serie_a
+Atalanta,Lazio,3-0,https://www.besoccer.com/match/atalanta/lazio/201017369,2010,20,serie_a
+Milan,Siena,4-0,https://www.besoccer.com/match/milan/siena/201017372,2010,20,serie_a
+Parma,Udinese,0-0,https://www.besoccer.com/match/parma-fc/udinese/201017373,2010,20,serie_a
+Fiorentina,Bologna,1-2,https://www.besoccer.com/match/fiorentina/bologna/201017374,2010,20,serie_a
+Napoli,Palermo FC,0-0,https://www.besoccer.com/match/napoli/palermo/201017371,2010,20,serie_a
+Catania,Parma,3-0,https://www.besoccer.com/match/catania/parma-fc/201017383,2010,21,serie_a
+Juventus,Roma,1-2,https://www.besoccer.com/match/juventus-fc/roma/201017376,2010,21,serie_a
+Genoa,Atalanta,2-0,https://www.besoccer.com/match/genoa/atalanta/201017377,2010,21,serie_a
+Bologna,SSC Bari,2-1,https://www.besoccer.com/match/bologna/as-bari/201017378,2010,21,serie_a
+Siena,Cagliari,1-1,https://www.besoccer.com/match/siena/cagliari/201017379,2010,21,serie_a
+Lazio,Chievo,1-1,https://www.besoccer.com/match/lazio/chievo/201017380,2010,21,serie_a
+Palermo FC,Fiorentina,3-0,https://www.besoccer.com/match/palermo/fiorentina/201017381,2010,21,serie_a
+Livorno,Napoli,0-2,https://www.besoccer.com/match/livorno/napoli/201017382,2010,21,serie_a
+Udinese,Sampdoria,2-3,https://www.besoccer.com/match/udinese/sampdoria/201017384,2010,21,serie_a
+Inter,Milan,2-0,https://www.besoccer.com/match/internazionale/milan/201017375,2010,21,serie_a
+SSC Bari,Palermo FC,4-2,https://www.besoccer.com/match/as-bari/palermo/201017392,2010,22,serie_a
+Napoli,Genoa,0-0,https://www.besoccer.com/match/napoli/genoa/201017388,2010,22,serie_a
+Sampdoria,Atalanta,2-0,https://www.besoccer.com/match/sampdoria/atalanta/201017385,2010,22,serie_a
+Chievo,Bologna,1-1,https://www.besoccer.com/match/chievo/bologna/201017386,2010,22,serie_a
+Cagliari,Fiorentina,2-2,https://www.besoccer.com/match/cagliari/fiorentina/201017387,2010,22,serie_a
+Milan,Livorno,1-1,https://www.besoccer.com/match/milan/livorno/201017391,2010,22,serie_a
+Roma,Siena,2-1,https://www.besoccer.com/match/roma/siena/201017393,2010,22,serie_a
+Catania,Udinese,1-1,https://www.besoccer.com/match/catania/udinese/201017394,2010,22,serie_a
+Juventus,Lazio,1-1,https://www.besoccer.com/match/juventus-fc/lazio/201017390,2010,22,serie_a
+Parma,Inter,1-1,https://www.besoccer.com/match/parma-fc/internazionale/201017389,2010,22,serie_a
+Palermo FC,Parma,2-1,https://www.besoccer.com/match/palermo/parma-fc/201017402,2010,23,serie_a
+Livorno,Juventus,1-1,https://www.besoccer.com/match/livorno/juventus-fc/201017399,2010,23,serie_a
+Atalanta,SSC Bari,1-0,https://www.besoccer.com/match/atalanta/as-bari/201017395,2010,23,serie_a
+Inter,Cagliari,3-0,https://www.besoccer.com/match/internazionale/cagliari/201017396,2010,23,serie_a
+Lazio,Catania,0-1,https://www.besoccer.com/match/lazio/catania/201017397,2010,23,serie_a
+Genoa,Chievo,1-0,https://www.besoccer.com/match/genoa/chievo/201017398,2010,23,serie_a
+Bologna,Milan,0-0,https://www.besoccer.com/match/bologna/milan/201017400,2010,23,serie_a
+Udinese,Napoli,3-1,https://www.besoccer.com/match/udinese/napoli/201017401,2010,23,serie_a
+Siena,Sampdoria,1-2,https://www.besoccer.com/match/siena/sampdoria/201017404,2010,23,serie_a
+Fiorentina,Roma,0-1,https://www.besoccer.com/match/fiorentina/roma/201017403,2010,23,serie_a
+Milan,Udinese,3-2,https://www.besoccer.com/match/milan/udinese/201017414,2010,24,serie_a
+Roma,Palermo FC,4-1,https://www.besoccer.com/match/roma/palermo/201017412,2010,24,serie_a
+Sampdoria,Fiorentina,2-0,https://www.besoccer.com/match/sampdoria/fiorentina/201017408,2010,24,serie_a
+Catania,Atalanta,0-0,https://www.besoccer.com/match/catania/atalanta/201017405,2010,24,serie_a
+Cagliari,SSC Bari,3-1,https://www.besoccer.com/match/cagliari/as-bari/201017406,2010,24,serie_a
+Livorno,Bologna,0-1,https://www.besoccer.com/match/livorno/bologna/201017407,2010,24,serie_a
+Juventus,Genoa,3-2,https://www.besoccer.com/match/juventus-fc/genoa/201017409,2010,24,serie_a
+Parma,Lazio,0-2,https://www.besoccer.com/match/parma-fc/lazio/201017411,2010,24,serie_a
+Chievo,Siena,0-1,https://www.besoccer.com/match/chievo/siena/201017413,2010,24,serie_a
+Napoli,Inter,0-0,https://www.besoccer.com/match/napoli/internazionale/201017410,2010,24,serie_a
+Genoa,Udinese,3-0,https://www.besoccer.com/match/genoa/udinese/201017424,2010,25,serie_a
+Inter,Sampdoria,0-0,https://www.besoccer.com/match/internazionale/sampdoria/201017423,2010,25,serie_a
+Roma,Catania,1-0,https://www.besoccer.com/match/roma/catania/201017415,2010,25,serie_a
+Atalanta,Chievo,0-1,https://www.besoccer.com/match/atalanta/chievo/201017416,2010,25,serie_a
+Bologna,Juventus,1-2,https://www.besoccer.com/match/bologna/juventus-fc/201017417,2010,25,serie_a
+Palermo FC,Lazio,3-1,https://www.besoccer.com/match/palermo/lazio/201017418,2010,25,serie_a
+Fiorentina,Livorno,2-1,https://www.besoccer.com/match/fiorentina/livorno/201017419,2010,25,serie_a
+Siena,Napoli,0-0,https://www.besoccer.com/match/siena/napoli/201017421,2010,25,serie_a
+Cagliari,Parma,2-0,https://www.besoccer.com/match/cagliari/parma-fc/201017422,2010,25,serie_a
+SSC Bari,Milan,0-2,https://www.besoccer.com/match/as-bari/milan/201017420,2010,25,serie_a
+Catania,SSC Bari,4-0,https://www.besoccer.com/match/catania/as-bari/201017426,2010,26,serie_a
+Lazio,Fiorentina,1-1,https://www.besoccer.com/match/lazio/fiorentina/201017429,2010,26,serie_a
+Milan,Atalanta,3-1,https://www.besoccer.com/match/milan/atalanta/201017425,2010,26,serie_a
+Genoa,Bologna,3-4,https://www.besoccer.com/match/genoa/bologna/201017427,2010,26,serie_a
+Chievo,Cagliari,2-1,https://www.besoccer.com/match/chievo/cagliari/201017428,2010,26,serie_a
+Udinese,Inter,2-3,https://www.besoccer.com/match/udinese/internazionale/201017430,2010,26,serie_a
+Napoli,Roma,2-2,https://www.besoccer.com/match/napoli/roma/201017432,2010,26,serie_a
+Parma,Sampdoria,1-0,https://www.besoccer.com/match/parma-fc/sampdoria/201017433,2010,26,serie_a
+Livorno,Siena,1-2,https://www.besoccer.com/match/livorno/siena/201017434,2010,26,serie_a
+Juventus,Palermo FC,0-2,https://www.besoccer.com/match/juventus-fc/palermo/201017431,2010,26,serie_a
+Fiorentina,Juventus,1-2,https://www.besoccer.com/match/fiorentina/juventus-fc/201017438,2010,27,serie_a
+Roma,Milan,0-0,https://www.besoccer.com/match/roma/milan/201017441,2010,27,serie_a
+Cagliari,Catania,2-2,https://www.besoccer.com/match/cagliari/catania/201017435,2010,27,serie_a
+SSC Bari,Chievo,1-0,https://www.besoccer.com/match/as-bari/chievo/201017436,2010,27,serie_a
+Sampdoria,Lazio,2-1,https://www.besoccer.com/match/sampdoria/lazio/201017439,2010,27,serie_a
+Palermo FC,Livorno,1-0,https://www.besoccer.com/match/palermo/livorno/201017440,2010,27,serie_a
+Bologna,Napoli,2-1,https://www.besoccer.com/match/bologna/napoli/201017442,2010,27,serie_a
+Siena,Parma,1-1,https://www.besoccer.com/match/siena/parma-fc/201017443,2010,27,serie_a
+Atalanta,Udinese,0-0,https://www.besoccer.com/match/atalanta/udinese/201017444,2010,27,serie_a
+Inter,Genoa,0-0,https://www.besoccer.com/match/internazionale/genoa/201017437,2010,27,serie_a
+Catania,Inter,3-1,https://www.besoccer.com/match/catania/internazionale/201017450,2010,28,serie_a
+Napoli,Fiorentina,1-3,https://www.besoccer.com/match/napoli/fiorentina/201017449,2010,28,serie_a
+Parma,Atalanta,1-0,https://www.besoccer.com/match/parma-fc/atalanta/201017445,2010,28,serie_a
+Lazio,SSC Bari,0-2,https://www.besoccer.com/match/lazio/as-bari/201017446,2010,28,serie_a
+Genoa,Cagliari,5-3,https://www.besoccer.com/match/genoa/cagliari/201017447,2010,28,serie_a
+Udinese,Palermo FC,3-2,https://www.besoccer.com/match/udinese/palermo/201017451,2010,28,serie_a
+Livorno,Roma,3-3,https://www.besoccer.com/match/livorno/roma/201017452,2010,28,serie_a
+Bologna,Sampdoria,1-1,https://www.besoccer.com/match/bologna/sampdoria/201017453,2010,28,serie_a
+Juventus,Siena,3-3,https://www.besoccer.com/match/juventus-fc/siena/201017454,2010,28,serie_a
+Milan,Chievo,1-0,https://www.besoccer.com/match/milan/chievo/201017448,2010,28,serie_a
+Fiorentina,Genoa,3-0,https://www.besoccer.com/match/fiorentina/genoa/201017457,2010,29,serie_a
+Palermo FC,Inter,1-1,https://www.besoccer.com/match/palermo/internazionale/201017458,2010,29,serie_a
+Roma,Udinese,4-2,https://www.besoccer.com/match/roma/udinese/201017464,2010,29,serie_a
+Siena,Bologna,1-0,https://www.besoccer.com/match/siena/bologna/201017455,2010,29,serie_a
+Chievo,Catania,1-1,https://www.besoccer.com/match/chievo/catania/201017456,2010,29,serie_a
+Cagliari,Lazio,0-2,https://www.besoccer.com/match/cagliari/lazio/201017460,2010,29,serie_a
+Atalanta,Livorno,3-0,https://www.besoccer.com/match/atalanta/livorno/201017461,2010,29,serie_a
+Milan,Napoli,1-1,https://www.besoccer.com/match/milan/napoli/201017462,2010,29,serie_a
+SSC Bari,Parma,1-1,https://www.besoccer.com/match/as-bari/parma-fc/201017463,2010,29,serie_a
+Sampdoria,Juventus,1-0,https://www.besoccer.com/match/sampdoria/juventus-fc/201017459,2010,29,serie_a
+Atalanta,Cagliari,3-1,https://www.besoccer.com/match/atalanta/cagliari/201017465,2010,30,serie_a
+Udinese,Chievo,0-0,https://www.besoccer.com/match/udinese/chievo/201017466,2010,30,serie_a
+Catania,Fiorentina,1-0,https://www.besoccer.com/match/catania/fiorentina/201017467,2010,30,serie_a
+Inter,Livorno,3-0,https://www.besoccer.com/match/internazionale/livorno/201017469,2010,30,serie_a
+Parma,Milan,1-0,https://www.besoccer.com/match/parma-fc/milan/201017470,2010,30,serie_a
+Genoa,Palermo FC,2-2,https://www.besoccer.com/match/genoa/palermo/201017471,2010,30,serie_a
+Bologna,Roma,0-2,https://www.besoccer.com/match/bologna/roma/201017472,2010,30,serie_a
+SSC Bari,Sampdoria,2-1,https://www.besoccer.com/match/as-bari/sampdoria/201017473,2010,30,serie_a
+Lazio,Siena,2-0,https://www.besoccer.com/match/lazio/siena/201017474,2010,30,serie_a
+Napoli,Juventus,3-1,https://www.besoccer.com/match/napoli/juventus-fc/201017468,2010,30,serie_a
+Roma,Inter,2-1,https://www.besoccer.com/match/roma/internazionale/201017481,2010,31,serie_a
+Palermo FC,Bologna,3-1,https://www.besoccer.com/match/palermo/bologna/201017477,2010,31,serie_a
+Juventus,Atalanta,2-1,https://www.besoccer.com/match/juventus-fc/atalanta/201017475,2010,31,serie_a
+Livorno,SSC Bari,1-1,https://www.besoccer.com/match/livorno/as-bari/201017476,2010,31,serie_a
+Sampdoria,Cagliari,1-1,https://www.besoccer.com/match/sampdoria/cagliari/201017478,2010,31,serie_a
+Napoli,Catania,1-0,https://www.besoccer.com/match/napoli/catania/201017479,2010,31,serie_a
+Siena,Genoa,0-0,https://www.besoccer.com/match/siena/genoa/201017480,2010,31,serie_a
+Chievo,Parma,0-0,https://www.besoccer.com/match/chievo/parma-fc/201017483,2010,31,serie_a
+Fiorentina,Udinese,4-1,https://www.besoccer.com/match/fiorentina/udinese/201017484,2010,31,serie_a
+Milan,Lazio,1-1,https://www.besoccer.com/match/milan/lazio/201017482,2010,31,serie_a
+Inter,Bologna,3-0,https://www.besoccer.com/match/internazionale/bologna/201017485,2010,32,serie_a
+Parma,Fiorentina,1-1,https://www.besoccer.com/match/parma-fc/fiorentina/201017486,2010,32,serie_a
+Genoa,Livorno,1-1,https://www.besoccer.com/match/genoa/livorno/201017488,2010,32,serie_a
+Cagliari,Milan,2-3,https://www.besoccer.com/match/cagliari/milan/201017489,2010,32,serie_a
+Lazio,Napoli,1-1,https://www.besoccer.com/match/lazio/napoli/201017490,2010,32,serie_a
+SSC Bari,Roma,0-1,https://www.besoccer.com/match/as-bari/roma/201017492,2010,32,serie_a
+Chievo,Sampdoria,1-2,https://www.besoccer.com/match/chievo/sampdoria/201017493,2010,32,serie_a
+Atalanta,Siena,2-0,https://www.besoccer.com/match/atalanta/siena/201017494,2010,32,serie_a
+Catania,Palermo FC,2-0,https://www.besoccer.com/match/catania/palermo/201017491,2010,32,serie_a
+Udinese,Juventus,3-0,https://www.besoccer.com/match/udinese/juventus-fc/201017487,2010,32,serie_a
+Napoli,Parma,2-3,https://www.besoccer.com/match/napoli/parma-fc/201017503,2010,33,serie_a
+Fiorentina,Inter,2-2,https://www.besoccer.com/match/fiorentina/internazionale/201017501,2010,33,serie_a
+Roma,Atalanta,2-1,https://www.besoccer.com/match/roma/atalanta/201017495,2010,33,serie_a
+Siena,SSC Bari,3-2,https://www.besoccer.com/match/siena/as-bari/201017496,2010,33,serie_a
+Juventus,Cagliari,1-0,https://www.besoccer.com/match/juventus-fc/cagliari/201017497,2010,33,serie_a
+Milan,Catania,2-2,https://www.besoccer.com/match/milan/catania/201017498,2010,33,serie_a
+Palermo FC,Chievo,3-1,https://www.besoccer.com/match/palermo/chievo/201017499,2010,33,serie_a
+Bologna,Lazio,2-3,https://www.besoccer.com/match/bologna/lazio/201017502,2010,33,serie_a
+Livorno,Udinese,0-2,https://www.besoccer.com/match/livorno/udinese/201017504,2010,33,serie_a
+Sampdoria,Genoa,1-0,https://www.besoccer.com/match/sampdoria/genoa/201017500,2010,33,serie_a
+Inter,Juventus,2-0,https://www.besoccer.com/match/internazionale/juventus-fc/201017508,2010,34,serie_a
+Chievo,Livorno,2-0,https://www.besoccer.com/match/chievo/livorno/201017509,2010,34,serie_a
+Udinese,Bologna,1-1,https://www.besoccer.com/match/udinese/bologna/201017505,2010,34,serie_a
+Atalanta,Fiorentina,2-1,https://www.besoccer.com/match/atalanta/fiorentina/201017506,2010,34,serie_a
+Parma,Genoa,2-3,https://www.besoccer.com/match/parma-fc/genoa/201017507,2010,34,serie_a
+Sampdoria,Milan,2-1,https://www.besoccer.com/match/sampdoria/milan/201017510,2010,34,serie_a
+SSC Bari,Napoli,1-2,https://www.besoccer.com/match/as-bari/napoli/201017511,2010,34,serie_a
+Cagliari,Palermo FC,2-2,https://www.besoccer.com/match/cagliari/palermo/201017512,2010,34,serie_a
+Catania,Siena,2-2,https://www.besoccer.com/match/catania/siena/201017514,2010,34,serie_a
+Lazio,Roma,1-2,https://www.besoccer.com/match/lazio/roma/201017513,2010,34,serie_a
+Inter,Atalanta,3-1,https://www.besoccer.com/match/internazionale/atalanta/201017515,2010,35,serie_a
+Palermo FC,Milan,3-1,https://www.besoccer.com/match/palermo/milan/201017521,2010,35,serie_a
+Juventus,SSC Bari,3-0,https://www.besoccer.com/match/juventus-fc/as-bari/201017516,2010,35,serie_a
+Napoli,Cagliari,0-0,https://www.besoccer.com/match/napoli/cagliari/201017517,2010,35,serie_a
+Livorno,Catania,3-1,https://www.besoccer.com/match/livorno/catania/201017518,2010,35,serie_a
+Fiorentina,Chievo,0-2,https://www.besoccer.com/match/fiorentina/chievo/201017519,2010,35,serie_a
+Genoa,Lazio,1-2,https://www.besoccer.com/match/genoa/lazio/201017520,2010,35,serie_a
+Bologna,Parma,2-1,https://www.besoccer.com/match/bologna/parma-fc/201017522,2010,35,serie_a
+Udinese,Siena,4-1,https://www.besoccer.com/match/udinese/siena/201017524,2010,35,serie_a
+Roma,Sampdoria,1-2,https://www.besoccer.com/match/roma/sampdoria/201017523,2010,35,serie_a
+Parma,Roma,1-2,https://www.besoccer.com/match/parma-fc/roma/201017533,2010,36,serie_a
+Milan,Fiorentina,1-0,https://www.besoccer.com/match/milan/fiorentina/201017526,2010,36,serie_a
+Atalanta,Bologna,1-1,https://www.besoccer.com/match/atalanta/bologna/201017525,2010,36,serie_a
+SSC Bari,Genoa,3-0,https://www.besoccer.com/match/as-bari/genoa/201017527,2010,36,serie_a
+Catania,Juventus,1-1,https://www.besoccer.com/match/catania/juventus-fc/201017529,2010,36,serie_a
+Sampdoria,Livorno,2-0,https://www.besoccer.com/match/sampdoria/livorno/201017530,2010,36,serie_a
+Chievo,Napoli,1-2,https://www.besoccer.com/match/chievo/napoli/201017531,2010,36,serie_a
+Siena,Palermo FC,1-2,https://www.besoccer.com/match/siena/palermo/201017532,2010,36,serie_a
+Cagliari,Udinese,2-2,https://www.besoccer.com/match/cagliari/udinese/201017534,2010,36,serie_a
+Lazio,Inter,0-2,https://www.besoccer.com/match/lazio/internazionale/201017528,2010,36,serie_a
+Napoli,Atalanta,2-0,https://www.besoccer.com/match/napoli/atalanta/201017535,2010,37,serie_a
+Udinese,SSC Bari,3-3,https://www.besoccer.com/match/udinese/as-bari/201017536,2010,37,serie_a
+Roma,Cagliari,2-1,https://www.besoccer.com/match/roma/cagliari/201017537,2010,37,serie_a
+Bologna,Catania,1-1,https://www.besoccer.com/match/bologna/catania/201017538,2010,37,serie_a
+Inter,Chievo,4-3,https://www.besoccer.com/match/internazionale/chievo/201017539,2010,37,serie_a
+Livorno,Lazio,1-2,https://www.besoccer.com/match/livorno/lazio/201017540,2010,37,serie_a
+Genoa,Milan,1-0,https://www.besoccer.com/match/genoa/milan/201017541,2010,37,serie_a
+Juventus,Parma,2-3,https://www.besoccer.com/match/juventus-fc/parma-fc/201017542,2010,37,serie_a
+Palermo FC,Sampdoria,1-1,https://www.besoccer.com/match/palermo/sampdoria/201017543,2010,37,serie_a
+Fiorentina,Siena,1-1,https://www.besoccer.com/match/fiorentina/siena/201017544,2010,37,serie_a
+Milan,Juventus,3-0,https://www.besoccer.com/match/milan/juventus-fc/201017549,2010,38,serie_a
+Lazio,Udinese,3-1,https://www.besoccer.com/match/lazio/udinese/201017554,2010,38,serie_a
+Cagliari,Bologna,1-1,https://www.besoccer.com/match/cagliari/bologna/201017545,2010,38,serie_a
+SSC Bari,Fiorentina,2-0,https://www.besoccer.com/match/as-bari/fiorentina/201017546,2010,38,serie_a
+Catania,Genoa,1-0,https://www.besoccer.com/match/catania/genoa/201017547,2010,38,serie_a
+Siena,Inter,0-1,https://www.besoccer.com/match/siena/internazionale/201017548,2010,38,serie_a
+Parma,Livorno,4-1,https://www.besoccer.com/match/parma-fc/livorno/201017550,2010,38,serie_a
+Sampdoria,Napoli,1-0,https://www.besoccer.com/match/sampdoria/napoli/201017551,2010,38,serie_a
+Atalanta,Palermo FC,1-2,https://www.besoccer.com/match/atalanta/palermo/201017552,2010,38,serie_a
+Chievo,Roma,0-2,https://www.besoccer.com/match/chievo/roma/201017553,2010,38,serie_a

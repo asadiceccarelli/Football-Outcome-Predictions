@@ -1,0 +1,463 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Sheffield United,Swindon Town,3-1,https://www.besoccer.com/match/sheffield-united/swindon-town/19945454,1994,1,premier_league
+Arsenal,Coventry City,0-3,https://www.besoccer.com/match/arsenal/coventry-city/19945455,1994,1,premier_league
+Southampton,Everton,0-2,https://www.besoccer.com/match/southampton-fc/everton-fc/19945456,1994,1,premier_league
+Oldham Athletic AFC,Ipswich Town,0-3,https://www.besoccer.com/match/oldham-athletic-afc/ipswich-town-fc/19945457,1994,1,premier_league
+Newcastle,Tottenham Hotspur,0-1,https://www.besoccer.com/match/newcastle-united-fc/tottenham-hotspur-fc/19945458,1994,1,premier_league
+Man. City,Leeds United,1-1,https://www.besoccer.com/match/manchester-city-fc/leeds-united-afc/19945459,1994,1,premier_league
+Liverpool,Sheffield Wednesday,2-0,https://www.besoccer.com/match/liverpool/sheffield-wednesday-fc/19945460,1994,1,premier_league
+Chelsea,Blackburn Rovers,1-2,https://www.besoccer.com/match/chelsea-fc/blackburn-rovers-fc/19945461,1994,1,premier_league
+Aston Villa,Queens Park Rangers,4-1,https://www.besoccer.com/match/aston-villa-fc/queens-park-rangers-fc/19945462,1994,1,premier_league
+West Ham,Wimbledon FC,0-2,https://www.besoccer.com/match/west-ham-united/wimbledon-fc/19945463,1994,1,premier_league
+Norwich City,Man. Utd,0-2,https://www.besoccer.com/match/norwich-city-fc/manchester-united-fc/19945464,1994,1,premier_league
+Tottenham Hotspur,Arsenal,0-1,https://www.besoccer.com/match/tottenham-hotspur-fc/arsenal/19945465,1994,2,premier_league
+Leeds United,West Ham,1-0,https://www.besoccer.com/match/leeds-united-afc/west-ham-united/19945466,1994,2,premier_league
+Ipswich Town,Southampton,1-0,https://www.besoccer.com/match/ipswich-town-fc/southampton-fc/19945467,1994,2,premier_league
+Everton,Man. City,1-0,https://www.besoccer.com/match/everton-fc/manchester-city-fc/19945468,1994,2,premier_league
+Wimbledon FC,Chelsea,1-1,https://www.besoccer.com/match/wimbledon-fc/chelsea-fc/19945469,1994,2,premier_league
+Man. Utd,Sheffield United,3-0,https://www.besoccer.com/match/manchester-united-fc/sheffield-united/19945470,1994,2,premier_league
+Blackburn Rovers,Norwich City,2-3,https://www.besoccer.com/match/blackburn-rovers-fc/norwich-city-fc/19945471,1994,2,premier_league
+Swindon Town,Oldham Athletic AFC,0-1,https://www.besoccer.com/match/swindon-town/oldham-athletic-afc/19945472,1994,2,premier_league
+Queens Park Rangers,Liverpool,1-3,https://www.besoccer.com/match/queens-park-rangers-fc/liverpool/19945473,1994,2,premier_league
+Coventry City,Newcastle,2-1,https://www.besoccer.com/match/coventry-city/newcastle-united-fc/19945474,1994,2,premier_league
+Sheffield Wednesday,Aston Villa,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/aston-villa-fc/19945475,1994,2,premier_league
+Leeds United,Norwich City,0-4,https://www.besoccer.com/match/leeds-united-afc/norwich-city-fc/19945476,1994,3,premier_league
+Wimbledon FC,Aston Villa,2-2,https://www.besoccer.com/match/wimbledon-fc/aston-villa-fc/19945477,1994,3,premier_league
+Tottenham Hotspur,Man. City,1-0,https://www.besoccer.com/match/tottenham-hotspur-fc/manchester-city-fc/19945478,1994,3,premier_league
+Sheffield Wednesday,Arsenal,0-1,https://www.besoccer.com/match/sheffield-wednesday-fc/arsenal/19945479,1994,3,premier_league
+Man. Utd,Newcastle,1-1,https://www.besoccer.com/match/manchester-united-fc/newcastle-united-fc/19945480,1994,3,premier_league
+Ipswich Town,Chelsea,1-0,https://www.besoccer.com/match/ipswich-town-fc/chelsea-fc/19945481,1994,3,premier_league
+Everton,Sheffield United,4-2,https://www.besoccer.com/match/everton-fc/sheffield-united/19945482,1994,3,premier_league
+Coventry City,West Ham,1-1,https://www.besoccer.com/match/coventry-city/west-ham-united/19945483,1994,3,premier_league
+Blackburn Rovers,Oldham Athletic AFC,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/oldham-athletic-afc/19945484,1994,3,premier_league
+Queens Park Rangers,Southampton,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/southampton-fc/19945485,1994,3,premier_league
+Swindon Town,Liverpool,0-5,https://www.besoccer.com/match/swindon-town/liverpool/19945486,1994,3,premier_league
+Aston Villa,Man. Utd,1-2,https://www.besoccer.com/match/aston-villa-fc/manchester-united-fc/19945487,1994,4,premier_league
+Oldham Athletic AFC,Coventry City,3-3,https://www.besoccer.com/match/oldham-athletic-afc/coventry-city/19945488,1994,4,premier_league
+Man. City,Blackburn Rovers,0-2,https://www.besoccer.com/match/manchester-city-fc/blackburn-rovers-fc/19945489,1994,4,premier_league
+Arsenal,Leeds United,2-1,https://www.besoccer.com/match/arsenal/leeds-united-afc/19945490,1994,4,premier_league
+Sheffield United,Wimbledon FC,2-1,https://www.besoccer.com/match/sheffield-united/wimbledon-fc/19945491,1994,4,premier_league
+Chelsea,Queens Park Rangers,2-0,https://www.besoccer.com/match/chelsea-fc/queens-park-rangers-fc/19945492,1994,4,premier_league
+Newcastle,Everton,1-0,https://www.besoccer.com/match/newcastle-united-fc/everton-fc/19945493,1994,4,premier_league
+West Ham,Sheffield Wednesday,2-0,https://www.besoccer.com/match/west-ham-united/sheffield-wednesday-fc/19945494,1994,4,premier_league
+Norwich City,Ipswich Town,1-0,https://www.besoccer.com/match/norwich-city-fc/ipswich-town-fc/19945495,1994,4,premier_league
+Liverpool,Tottenham Hotspur,1-2,https://www.besoccer.com/match/liverpool/tottenham-hotspur-fc/19945496,1994,4,premier_league
+Southampton,Swindon Town,5-1,https://www.besoccer.com/match/southampton-fc/swindon-town/19945497,1994,4,premier_league
+Man. City,Coventry City,1-1,https://www.besoccer.com/match/manchester-city-fc/coventry-city/19945498,1994,5,premier_league
+Liverpool,Leeds United,2-0,https://www.besoccer.com/match/liverpool/leeds-united-afc/19945499,1994,5,premier_league
+West Ham,Queens Park Rangers,0-4,https://www.besoccer.com/match/west-ham-united/queens-park-rangers-fc/19945500,1994,5,premier_league
+Southampton,Man. Utd,1-3,https://www.besoccer.com/match/southampton-fc/manchester-united-fc/19945501,1994,5,premier_league
+Sheffield United,Ipswich Town,1-1,https://www.besoccer.com/match/sheffield-united/ipswich-town-fc/19945502,1994,5,premier_league
+Norwich City,Swindon Town,0-0,https://www.besoccer.com/match/norwich-city-fc/swindon-town/19945503,1994,5,premier_league
+Chelsea,Sheffield Wednesday,1-1,https://www.besoccer.com/match/chelsea-fc/sheffield-wednesday-fc/19945504,1994,5,premier_league
+Aston Villa,Tottenham Hotspur,1-0,https://www.besoccer.com/match/aston-villa-fc/tottenham-hotspur-fc/19945505,1994,5,premier_league
+Arsenal,Everton,2-0,https://www.besoccer.com/match/arsenal/everton-fc/19945506,1994,5,premier_league
+Oldham Athletic AFC,Wimbledon FC,1-1,https://www.besoccer.com/match/oldham-athletic-afc/wimbledon-fc/19945507,1994,5,premier_league
+Newcastle,Blackburn Rovers,1-1,https://www.besoccer.com/match/newcastle-united-fc/blackburn-rovers-fc/19945508,1994,5,premier_league
+Wimbledon FC,Southampton,1-0,https://www.besoccer.com/match/wimbledon-fc/southampton-fc/19945509,1994,6,premier_league
+Ipswich Town,Newcastle,1-1,https://www.besoccer.com/match/ipswich-town-fc/newcastle-united-fc/19945510,1994,6,premier_league
+Everton,Aston Villa,0-1,https://www.besoccer.com/match/everton-fc/aston-villa-fc/19945511,1994,6,premier_league
+Leeds United,Oldham Athletic AFC,1-0,https://www.besoccer.com/match/leeds-united-afc/oldham-athletic-afc/19945512,1994,6,premier_league
+Blackburn Rovers,Arsenal,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/arsenal/19945513,1994,6,premier_league
+Swindon Town,Man. City,1-3,https://www.besoccer.com/match/swindon-town/manchester-city-fc/19945514,1994,6,premier_league
+Sheffield Wednesday,Norwich City,3-3,https://www.besoccer.com/match/sheffield-wednesday-fc/norwich-city-fc/19945515,1994,6,premier_league
+Queens Park Rangers,Sheffield United,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/sheffield-united/19945516,1994,6,premier_league
+Tottenham Hotspur,Chelsea,1-1,https://www.besoccer.com/match/tottenham-hotspur-fc/chelsea-fc/19945517,1994,6,premier_league
+Man. Utd,West Ham,3-0,https://www.besoccer.com/match/manchester-united-fc/west-ham-united/19945518,1994,6,premier_league
+Coventry City,Liverpool,1-0,https://www.besoccer.com/match/coventry-city/liverpool/19945519,1994,6,premier_league
+Norwich City,Wimbledon FC,0-1,https://www.besoccer.com/match/norwich-city-fc/wimbledon-fc/19945520,1994,7,premier_league
+West Ham,Swindon Town,0-0,https://www.besoccer.com/match/west-ham-united/swindon-town/19945521,1994,7,premier_league
+Southampton,Leeds United,0-2,https://www.besoccer.com/match/southampton-fc/leeds-united-afc/19945522,1994,7,premier_league
+Oldham Athletic AFC,Everton,0-1,https://www.besoccer.com/match/oldham-athletic-afc/everton-fc/19945523,1994,7,premier_league
+Man. City,Queens Park Rangers,3-0,https://www.besoccer.com/match/manchester-city-fc/queens-park-rangers-fc/19945524,1994,7,premier_league
+Chelsea,Man. Utd,1-0,https://www.besoccer.com/match/chelsea-fc/manchester-united-fc/19945525,1994,7,premier_league
+Aston Villa,Coventry City,0-0,https://www.besoccer.com/match/aston-villa-fc/coventry-city/19945526,1994,7,premier_league
+Arsenal,Ipswich Town,4-0,https://www.besoccer.com/match/arsenal/ipswich-town-fc/19945527,1994,7,premier_league
+Sheffield United,Tottenham Hotspur,2-2,https://www.besoccer.com/match/sheffield-united/tottenham-hotspur-fc/19945528,1994,7,premier_league
+Liverpool,Blackburn Rovers,0-1,https://www.besoccer.com/match/liverpool/blackburn-rovers-fc/19945529,1994,7,premier_league
+Newcastle,Sheffield Wednesday,4-2,https://www.besoccer.com/match/newcastle-united-fc/sheffield-wednesday-fc/19945530,1994,7,premier_league
+Sheffield Wednesday,Southampton,2-0,https://www.besoccer.com/match/sheffield-wednesday-fc/southampton-fc/19945531,1994,8,premier_league
+Coventry City,Chelsea,1-1,https://www.besoccer.com/match/coventry-city/chelsea-fc/19945532,1994,8,premier_league
+Tottenham Hotspur,Oldham Athletic AFC,5-0,https://www.besoccer.com/match/tottenham-hotspur-fc/oldham-athletic-afc/19945533,1994,8,premier_league
+Swindon Town,Newcastle,2-2,https://www.besoccer.com/match/swindon-town/newcastle-united-fc/19945534,1994,8,premier_league
+Leeds United,Sheffield United,2-1,https://www.besoccer.com/match/leeds-united-afc/sheffield-united/19945535,1994,8,premier_league
+Blackburn Rovers,West Ham,0-2,https://www.besoccer.com/match/blackburn-rovers-fc/west-ham-united/19945536,1994,8,premier_league
+Everton,Liverpool,2-0,https://www.besoccer.com/match/everton-fc/liverpool/19945537,1994,8,premier_league
+Ipswich Town,Aston Villa,1-2,https://www.besoccer.com/match/ipswich-town-fc/aston-villa-fc/19945538,1994,8,premier_league
+Queens Park Rangers,Norwich City,2-2,https://www.besoccer.com/match/queens-park-rangers-fc/norwich-city-fc/19945539,1994,8,premier_league
+Man. Utd,Arsenal,1-0,https://www.besoccer.com/match/manchester-united-fc/arsenal/19945540,1994,8,premier_league
+Wimbledon FC,Man. City,1-0,https://www.besoccer.com/match/wimbledon-fc/manchester-city-fc/19945541,1994,8,premier_league
+Everton,Norwich City,1-5,https://www.besoccer.com/match/everton-fc/norwich-city-fc/19945542,1994,9,premier_league
+Sheffield United,Man. City,0-1,https://www.besoccer.com/match/sheffield-united/manchester-city-fc/19945543,1994,9,premier_league
+Oldham Athletic AFC,Aston Villa,1-1,https://www.besoccer.com/match/oldham-athletic-afc/aston-villa-fc/19945544,1994,9,premier_league
+Man. Utd,Swindon Town,4-2,https://www.besoccer.com/match/manchester-united-fc/swindon-town/19945545,1994,9,premier_league
+Coventry City,Leeds United,0-2,https://www.besoccer.com/match/coventry-city/leeds-united-afc/19945546,1994,9,premier_league
+Chelsea,Liverpool,1-0,https://www.besoccer.com/match/chelsea-fc/liverpool/19945547,1994,9,premier_league
+Blackburn Rovers,Sheffield Wednesday,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/sheffield-wednesday-fc/19945548,1994,9,premier_league
+Arsenal,Southampton,1-0,https://www.besoccer.com/match/arsenal/southampton-fc/19945549,1994,9,premier_league
+Newcastle,West Ham,2-0,https://www.besoccer.com/match/newcastle-united-fc/west-ham-united/19945550,1994,9,premier_league
+Ipswich Town,Tottenham Hotspur,2-2,https://www.besoccer.com/match/ipswich-town-fc/tottenham-hotspur-fc/19945551,1994,9,premier_league
+Wimbledon FC,Queens Park Rangers,1-1,https://www.besoccer.com/match/wimbledon-fc/queens-park-rangers-fc/19945552,1994,9,premier_league
+Swindon Town,Blackburn Rovers,1-3,https://www.besoccer.com/match/swindon-town/blackburn-rovers-fc/19945553,1994,10,premier_league
+Queens Park Rangers,Ipswich Town,3-0,https://www.besoccer.com/match/queens-park-rangers-fc/ipswich-town-fc/19945554,1994,10,premier_league
+West Ham,Chelsea,1-0,https://www.besoccer.com/match/west-ham-united/chelsea-fc/19945555,1994,10,premier_league
+Aston Villa,Newcastle,0-2,https://www.besoccer.com/match/aston-villa-fc/newcastle-united-fc/19945556,1994,10,premier_league
+Norwich City,Coventry City,1-0,https://www.besoccer.com/match/norwich-city-fc/coventry-city/19945557,1994,10,premier_league
+Liverpool,Arsenal,0-0,https://www.besoccer.com/match/liverpool/arsenal/19945558,1994,10,premier_league
+Leeds United,Wimbledon FC,4-0,https://www.besoccer.com/match/leeds-united-afc/wimbledon-fc/19945559,1994,10,premier_league
+Southampton,Sheffield United,3-3,https://www.besoccer.com/match/southampton-fc/sheffield-united/19945560,1994,10,premier_league
+Sheffield Wednesday,Man. Utd,2-3,https://www.besoccer.com/match/sheffield-wednesday-fc/manchester-united-fc/19945561,1994,10,premier_league
+Tottenham Hotspur,Everton,3-2,https://www.besoccer.com/match/tottenham-hotspur-fc/everton-fc/19945562,1994,10,premier_league
+Man. City,Oldham Athletic AFC,1-1,https://www.besoccer.com/match/manchester-city-fc/oldham-athletic-afc/19945563,1994,10,premier_league
+Man. Utd,Tottenham Hotspur,2-1,https://www.besoccer.com/match/manchester-united-fc/tottenham-hotspur-fc/19945564,1994,11,premier_league
+West Ham,Aston Villa,0-0,https://www.besoccer.com/match/west-ham-united/aston-villa-fc/19945565,1994,11,premier_league
+Swindon Town,Everton,1-1,https://www.besoccer.com/match/swindon-town/everton-fc/19945566,1994,11,premier_league
+Newcastle,Queens Park Rangers,1-2,https://www.besoccer.com/match/newcastle-united-fc/queens-park-rangers-fc/19945567,1994,11,premier_league
+Liverpool,Oldham Athletic AFC,2-1,https://www.besoccer.com/match/liverpool/oldham-athletic-afc/19945568,1994,11,premier_league
+Coventry City,Southampton,1-1,https://www.besoccer.com/match/coventry-city/southampton-fc/19945569,1994,11,premier_league
+Chelsea,Norwich City,1-2,https://www.besoccer.com/match/chelsea-fc/norwich-city-fc/19945570,1994,11,premier_league
+Arsenal,Man. City,0-0,https://www.besoccer.com/match/arsenal/manchester-city-fc/19945571,1994,11,premier_league
+Sheffield Wednesday,Wimbledon FC,2-2,https://www.besoccer.com/match/sheffield-wednesday-fc/wimbledon-fc/19945572,1994,11,premier_league
+Ipswich Town,Leeds United,0-0,https://www.besoccer.com/match/ipswich-town-fc/leeds-united-afc/19945573,1994,11,premier_league
+Blackburn Rovers,Sheffield United,0-0,https://www.besoccer.com/match/blackburn-rovers-fc/sheffield-united/19945574,1994,11,premier_league
+Queens Park Rangers,Coventry City,5-1,https://www.besoccer.com/match/queens-park-rangers-fc/coventry-city/19945575,1994,12,premier_league
+Tottenham Hotspur,Swindon Town,1-1,https://www.besoccer.com/match/tottenham-hotspur-fc/swindon-town/19945576,1994,12,premier_league
+Sheffield United,Sheffield Wednesday,1-1,https://www.besoccer.com/match/sheffield-united/sheffield-wednesday-fc/19945577,1994,12,premier_league
+Norwich City,West Ham,0-0,https://www.besoccer.com/match/norwich-city-fc/west-ham-united/19945578,1994,12,premier_league
+Man. City,Liverpool,1-1,https://www.besoccer.com/match/manchester-city-fc/liverpool/19945579,1994,12,premier_league
+Leeds United,Blackburn Rovers,3-3,https://www.besoccer.com/match/leeds-united-afc/blackburn-rovers-fc/19945580,1994,12,premier_league
+Aston Villa,Chelsea,1-0,https://www.besoccer.com/match/aston-villa-fc/chelsea-fc/19945581,1994,12,premier_league
+Everton,Man. Utd,0-1,https://www.besoccer.com/match/everton-fc/manchester-united-fc/19945582,1994,12,premier_league
+Oldham Athletic AFC,Arsenal,0-0,https://www.besoccer.com/match/oldham-athletic-afc/arsenal/19945583,1994,12,premier_league
+Southampton,Newcastle,2-1,https://www.besoccer.com/match/southampton-fc/newcastle-united-fc/19945584,1994,12,premier_league
+Wimbledon FC,Ipswich Town,0-2,https://www.besoccer.com/match/wimbledon-fc/ipswich-town-fc/19945585,1994,12,premier_league
+Swindon Town,Aston Villa,1-2,https://www.besoccer.com/match/swindon-town/aston-villa-fc/19945586,1994,13,premier_league
+Sheffield Wednesday,Leeds United,3-3,https://www.besoccer.com/match/sheffield-wednesday-fc/leeds-united-afc/19945587,1994,13,premier_league
+Newcastle,Wimbledon FC,4-0,https://www.besoccer.com/match/newcastle-united-fc/wimbledon-fc/19945588,1994,13,premier_league
+Liverpool,Southampton,4-2,https://www.besoccer.com/match/liverpool/southampton-fc/19945589,1994,13,premier_league
+Ipswich Town,Everton,0-2,https://www.besoccer.com/match/ipswich-town-fc/everton-fc/19945590,1994,13,premier_league
+Chelsea,Oldham Athletic AFC,0-1,https://www.besoccer.com/match/chelsea-fc/oldham-athletic-afc/19945591,1994,13,premier_league
+Blackburn Rovers,Tottenham Hotspur,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/tottenham-hotspur-fc/19945592,1994,13,premier_league
+Arsenal,Norwich City,0-0,https://www.besoccer.com/match/arsenal/norwich-city-fc/19945593,1994,13,premier_league
+Man. Utd,Queens Park Rangers,2-1,https://www.besoccer.com/match/manchester-united-fc/queens-park-rangers-fc/19945594,1994,13,premier_league
+Coventry City,Sheffield United,0-0,https://www.besoccer.com/match/coventry-city/sheffield-united/19945595,1994,13,premier_league
+West Ham,Man. City,3-1,https://www.besoccer.com/match/west-ham-united/manchester-city-fc/19945596,1994,13,premier_league
+Sheffield United,Norwich City,1-2,https://www.besoccer.com/match/sheffield-united/norwich-city-fc/19945597,1994,14,premier_league
+Queens Park Rangers,Blackburn Rovers,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/blackburn-rovers-fc/19945598,1994,14,premier_league
+Liverpool,West Ham,2-0,https://www.besoccer.com/match/liverpool/west-ham-united/19945599,1994,14,premier_league
+Arsenal,Aston Villa,1-2,https://www.besoccer.com/match/arsenal/aston-villa-fc/19945600,1994,14,premier_league
+Southampton,Tottenham Hotspur,1-0,https://www.besoccer.com/match/southampton-fc/tottenham-hotspur-fc/19945601,1994,14,premier_league
+Leeds United,Chelsea,4-1,https://www.besoccer.com/match/leeds-united-afc/chelsea-fc/19945602,1994,14,premier_league
+Ipswich Town,Sheffield Wednesday,1-4,https://www.besoccer.com/match/ipswich-town-fc/sheffield-wednesday-fc/19945603,1994,14,premier_league
+Coventry City,Everton,2-1,https://www.besoccer.com/match/coventry-city/everton-fc/19945604,1994,14,premier_league
+Wimbledon FC,Swindon Town,3-0,https://www.besoccer.com/match/wimbledon-fc/swindon-town/19945605,1994,14,premier_league
+Man. City,Man. Utd,2-3,https://www.besoccer.com/match/manchester-city-fc/manchester-united-fc/19945606,1994,14,premier_league
+Oldham Athletic AFC,Newcastle,1-3,https://www.besoccer.com/match/oldham-athletic-afc/newcastle-united-fc/19945607,1994,14,premier_league
+West Ham,Oldham Athletic AFC,2-0,https://www.besoccer.com/match/west-ham-united/oldham-athletic-afc/19945608,1994,15,premier_league
+Swindon Town,Ipswich Town,2-2,https://www.besoccer.com/match/swindon-town/ipswich-town-fc/19945609,1994,15,premier_league
+Chelsea,Arsenal,0-2,https://www.besoccer.com/match/chelsea-fc/arsenal/19945610,1994,15,premier_league
+Tottenham Hotspur,Leeds United,1-1,https://www.besoccer.com/match/tottenham-hotspur-fc/leeds-united-afc/19945611,1994,15,premier_league
+Man. Utd,Wimbledon FC,3-1,https://www.besoccer.com/match/manchester-united-fc/wimbledon-fc/19945612,1994,15,premier_league
+Aston Villa,Sheffield United,1-0,https://www.besoccer.com/match/aston-villa-fc/sheffield-united/19945613,1994,15,premier_league
+Everton,Queens Park Rangers,0-3,https://www.besoccer.com/match/everton-fc/queens-park-rangers-fc/19945614,1994,15,premier_league
+Sheffield Wednesday,Coventry City,0-0,https://www.besoccer.com/match/sheffield-wednesday-fc/coventry-city/19945615,1994,15,premier_league
+Blackburn Rovers,Southampton,2-0,https://www.besoccer.com/match/blackburn-rovers-fc/southampton-fc/19945616,1994,15,premier_league
+Norwich City,Man. City,1-1,https://www.besoccer.com/match/norwich-city-fc/manchester-city-fc/19945617,1994,15,premier_league
+Newcastle,Liverpool,3-0,https://www.besoccer.com/match/newcastle-united-fc/liverpool/19945618,1994,15,premier_league
+Chelsea,Man. City,0-0,https://www.besoccer.com/match/chelsea-fc/manchester-city-fc/19945619,1994,16,premier_league
+Everton,Leeds United,1-1,https://www.besoccer.com/match/everton-fc/leeds-united-afc/19945620,1994,16,premier_league
+Blackburn Rovers,Coventry City,2-1,https://www.besoccer.com/match/blackburn-rovers-fc/coventry-city/19945621,1994,16,premier_league
+Man. Utd,Ipswich Town,0-0,https://www.besoccer.com/match/manchester-united-fc/ipswich-town-fc/19945622,1994,16,premier_league
+West Ham,Arsenal,0-0,https://www.besoccer.com/match/west-ham-united/arsenal/19945623,1994,16,premier_league
+Tottenham Hotspur,Wimbledon FC,1-1,https://www.besoccer.com/match/tottenham-hotspur-fc/wimbledon-fc/19945624,1994,16,premier_league
+Swindon Town,Queens Park Rangers,1-0,https://www.besoccer.com/match/swindon-town/queens-park-rangers-fc/19945625,1994,16,premier_league
+Newcastle,Sheffield United,4-0,https://www.besoccer.com/match/newcastle-united-fc/sheffield-united/19945626,1994,16,premier_league
+Aston Villa,Southampton,0-2,https://www.besoccer.com/match/aston-villa-fc/southampton-fc/19945627,1994,16,premier_league
+Sheffield Wednesday,Oldham Athletic AFC,3-0,https://www.besoccer.com/match/sheffield-wednesday-fc/oldham-athletic-afc/19945628,1994,16,premier_league
+Norwich City,Liverpool,2-2,https://www.besoccer.com/match/norwich-city-fc/liverpool/19945629,1994,16,premier_league
+Sheffield United,Chelsea,1-0,https://www.besoccer.com/match/sheffield-united/chelsea-fc/19945630,1994,17,premier_league
+Wimbledon FC,Everton,1-1,https://www.besoccer.com/match/wimbledon-fc/everton-fc/19945631,1994,17,premier_league
+Queens Park Rangers,Tottenham Hotspur,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/tottenham-hotspur-fc/19945632,1994,17,premier_league
+Arsenal,Newcastle,2-1,https://www.besoccer.com/match/arsenal/newcastle-united-fc/19945633,1994,17,premier_league
+Man. City,Sheffield Wednesday,1-3,https://www.besoccer.com/match/manchester-city-fc/sheffield-wednesday-fc/19945634,1994,17,premier_league
+Leeds United,Swindon Town,3-0,https://www.besoccer.com/match/leeds-united-afc/swindon-town/19945635,1994,17,premier_league
+Ipswich Town,Blackburn Rovers,1-0,https://www.besoccer.com/match/ipswich-town-fc/blackburn-rovers-fc/19945636,1994,17,premier_league
+Coventry City,Man. Utd,0-1,https://www.besoccer.com/match/coventry-city/manchester-united-fc/19945637,1994,17,premier_league
+Oldham Athletic AFC,Norwich City,2-1,https://www.besoccer.com/match/oldham-athletic-afc/norwich-city-fc/19945638,1994,17,premier_league
+Liverpool,Aston Villa,2-1,https://www.besoccer.com/match/liverpool/aston-villa-fc/19945639,1994,17,premier_league
+Southampton,West Ham,0-2,https://www.besoccer.com/match/southampton-fc/west-ham-united/19945640,1994,17,premier_league
+Coventry City,Arsenal,1-0,https://www.besoccer.com/match/coventry-city/arsenal/19945641,1994,18,premier_league
+Queens Park Rangers,Aston Villa,2-2,https://www.besoccer.com/match/queens-park-rangers-fc/aston-villa-fc/19945642,1994,18,premier_league
+Wimbledon FC,West Ham,1-2,https://www.besoccer.com/match/wimbledon-fc/west-ham-united/19945643,1994,18,premier_league
+Tottenham Hotspur,Newcastle,1-2,https://www.besoccer.com/match/tottenham-hotspur-fc/newcastle-united-fc/19945644,1994,18,premier_league
+Sheffield Wednesday,Liverpool,3-1,https://www.besoccer.com/match/sheffield-wednesday-fc/liverpool/19945645,1994,18,premier_league
+Man. Utd,Norwich City,2-2,https://www.besoccer.com/match/manchester-united-fc/norwich-city-fc/19945646,1994,18,premier_league
+Leeds United,Man. City,3-2,https://www.besoccer.com/match/leeds-united-afc/manchester-city-fc/19945647,1994,18,premier_league
+Ipswich Town,Oldham Athletic AFC,0-0,https://www.besoccer.com/match/ipswich-town-fc/oldham-athletic-afc/19945648,1994,18,premier_league
+Everton,Southampton,1-0,https://www.besoccer.com/match/everton-fc/southampton-fc/19945649,1994,18,premier_league
+Swindon Town,Sheffield United,0-0,https://www.besoccer.com/match/swindon-town/sheffield-united/19945650,1994,18,premier_league
+Blackburn Rovers,Chelsea,2-0,https://www.besoccer.com/match/blackburn-rovers-fc/chelsea-fc/19945651,1994,18,premier_league
+Arsenal,Tottenham Hotspur,1-1,https://www.besoccer.com/match/arsenal/tottenham-hotspur-fc/19945652,1994,19,premier_league
+Oldham Athletic AFC,Swindon Town,2-1,https://www.besoccer.com/match/oldham-athletic-afc/swindon-town/19945653,1994,19,premier_league
+Sheffield United,Man. Utd,0-3,https://www.besoccer.com/match/sheffield-united/manchester-united-fc/19945654,1994,19,premier_league
+Southampton,Ipswich Town,0-1,https://www.besoccer.com/match/southampton-fc/ipswich-town-fc/19945655,1994,19,premier_league
+West Ham,Leeds United,0-1,https://www.besoccer.com/match/west-ham-united/leeds-united-afc/19945656,1994,19,premier_league
+Man. City,Everton,1-0,https://www.besoccer.com/match/manchester-city-fc/everton-fc/19945657,1994,19,premier_league
+Liverpool,Queens Park Rangers,3-2,https://www.besoccer.com/match/liverpool/queens-park-rangers-fc/19945658,1994,19,premier_league
+Aston Villa,Sheffield Wednesday,2-2,https://www.besoccer.com/match/aston-villa-fc/sheffield-wednesday-fc/19945659,1994,19,premier_league
+Norwich City,Blackburn Rovers,2-2,https://www.besoccer.com/match/norwich-city-fc/blackburn-rovers-fc/19945660,1994,19,premier_league
+Newcastle,Coventry City,4-0,https://www.besoccer.com/match/newcastle-united-fc/coventry-city/19945661,1994,19,premier_league
+Chelsea,Wimbledon FC,2-0,https://www.besoccer.com/match/chelsea-fc/wimbledon-fc/19945662,1994,19,premier_league
+Oldham Athletic AFC,Blackburn Rovers,1-2,https://www.besoccer.com/match/oldham-athletic-afc/blackburn-rovers-fc/19945663,1994,20,premier_league
+West Ham,Coventry City,3-2,https://www.besoccer.com/match/west-ham-united/coventry-city/19945664,1994,20,premier_league
+Southampton,Queens Park Rangers,0-1,https://www.besoccer.com/match/southampton-fc/queens-park-rangers-fc/19945665,1994,20,premier_league
+Newcastle,Man. Utd,1-1,https://www.besoccer.com/match/newcastle-united-fc/manchester-united-fc/19945666,1994,20,premier_league
+Sheffield United,Everton,0-0,https://www.besoccer.com/match/sheffield-united/everton-fc/19945667,1994,20,premier_league
+Aston Villa,Wimbledon FC,0-1,https://www.besoccer.com/match/aston-villa-fc/wimbledon-fc/19945668,1994,20,premier_league
+Man. City,Tottenham Hotspur,0-2,https://www.besoccer.com/match/manchester-city-fc/tottenham-hotspur-fc/19945669,1994,20,premier_league
+Liverpool,Swindon Town,2-2,https://www.besoccer.com/match/liverpool/swindon-town/19945670,1994,20,premier_league
+Chelsea,Ipswich Town,1-1,https://www.besoccer.com/match/chelsea-fc/ipswich-town-fc/19945671,1994,20,premier_league
+Arsenal,Sheffield Wednesday,1-0,https://www.besoccer.com/match/arsenal/sheffield-wednesday-fc/19945672,1994,20,premier_league
+Norwich City,Leeds United,2-1,https://www.besoccer.com/match/norwich-city-fc/leeds-united-afc/19945673,1994,20,premier_league
+Tottenham Hotspur,Liverpool,3-3,https://www.besoccer.com/match/tottenham-hotspur-fc/liverpool/19945674,1994,21,premier_league
+Sheffield Wednesday,West Ham,5-0,https://www.besoccer.com/match/sheffield-wednesday-fc/west-ham-united/19945675,1994,21,premier_league
+Blackburn Rovers,Man. City,2-0,https://www.besoccer.com/match/blackburn-rovers-fc/manchester-city-fc/19945676,1994,21,premier_league
+Wimbledon FC,Sheffield United,2-0,https://www.besoccer.com/match/wimbledon-fc/sheffield-united/19945677,1994,21,premier_league
+Swindon Town,Southampton,2-1,https://www.besoccer.com/match/swindon-town/southampton-fc/19945678,1994,21,premier_league
+Leeds United,Arsenal,2-1,https://www.besoccer.com/match/leeds-united-afc/arsenal/19945679,1994,21,premier_league
+Ipswich Town,Norwich City,2-1,https://www.besoccer.com/match/ipswich-town-fc/norwich-city-fc/19945680,1994,21,premier_league
+Everton,Newcastle,0-2,https://www.besoccer.com/match/everton-fc/newcastle-united-fc/19945681,1994,21,premier_league
+Coventry City,Oldham Athletic AFC,1-1,https://www.besoccer.com/match/coventry-city/oldham-athletic-afc/19945682,1994,21,premier_league
+Man. Utd,Aston Villa,3-1,https://www.besoccer.com/match/manchester-united-fc/aston-villa-fc/19945683,1994,21,premier_league
+Queens Park Rangers,Chelsea,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/chelsea-fc/19945684,1994,21,premier_league
+Newcastle,Leeds United,1-1,https://www.besoccer.com/match/newcastle-united-fc/leeds-united-afc/19945685,1994,22,premier_league
+Man. Utd,Blackburn Rovers,1-1,https://www.besoccer.com/match/manchester-united-fc/blackburn-rovers-fc/19945686,1994,22,premier_league
+Wimbledon FC,Coventry City,1-2,https://www.besoccer.com/match/wimbledon-fc/coventry-city/19945687,1994,22,premier_league
+Sheffield United,Liverpool,0-0,https://www.besoccer.com/match/sheffield-united/liverpool/19945688,1994,22,premier_league
+Ipswich Town,West Ham,1-1,https://www.besoccer.com/match/ipswich-town-fc/west-ham-united/19945689,1994,22,premier_league
+Tottenham Hotspur,Norwich City,1-3,https://www.besoccer.com/match/tottenham-hotspur-fc/norwich-city-fc/19945690,1994,22,premier_league
+Swindon Town,Arsenal,0-4,https://www.besoccer.com/match/swindon-town/arsenal/19945691,1994,22,premier_league
+Southampton,Chelsea,3-1,https://www.besoccer.com/match/southampton-fc/chelsea-fc/19945692,1994,22,premier_league
+Queens Park Rangers,Oldham Athletic AFC,2-0,https://www.besoccer.com/match/queens-park-rangers-fc/oldham-athletic-afc/19945693,1994,22,premier_league
+Everton,Sheffield Wednesday,0-2,https://www.besoccer.com/match/everton-fc/sheffield-wednesday-fc/19945694,1994,22,premier_league
+Aston Villa,Man. City,0-0,https://www.besoccer.com/match/aston-villa-fc/manchester-city-fc/19945695,1994,22,premier_league
+Chelsea,Newcastle,1-0,https://www.besoccer.com/match/chelsea-fc/newcastle-united-fc/19945696,1994,23,premier_league
+West Ham,Tottenham Hotspur,1-3,https://www.besoccer.com/match/west-ham-united/tottenham-hotspur-fc/19945697,1994,23,premier_league
+Liverpool,Wimbledon FC,1-1,https://www.besoccer.com/match/liverpool/wimbledon-fc/19945698,1994,23,premier_league
+Man. City,Southampton,1-1,https://www.besoccer.com/match/manchester-city-fc/southampton-fc/19945699,1994,23,premier_league
+Sheffield Wednesday,Swindon Town,3-3,https://www.besoccer.com/match/sheffield-wednesday-fc/swindon-town/19945700,1994,23,premier_league
+Oldham Athletic AFC,Man. Utd,2-5,https://www.besoccer.com/match/oldham-athletic-afc/manchester-united-fc/19945701,1994,23,premier_league
+Blackburn Rovers,Everton,2-0,https://www.besoccer.com/match/blackburn-rovers-fc/everton-fc/19945702,1994,23,premier_league
+Leeds United,Queens Park Rangers,1-1,https://www.besoccer.com/match/leeds-united-afc/queens-park-rangers-fc/19945703,1994,23,premier_league
+Arsenal,Sheffield United,3-0,https://www.besoccer.com/match/arsenal/sheffield-united/19945704,1994,23,premier_league
+Norwich City,Aston Villa,1-2,https://www.besoccer.com/match/norwich-city-fc/aston-villa-fc/19945705,1994,23,premier_league
+Coventry City,Ipswich Town,1-0,https://www.besoccer.com/match/coventry-city/ipswich-town-fc/19945706,1994,23,premier_league
+Tottenham Hotspur,Coventry City,1-2,https://www.besoccer.com/match/tottenham-hotspur-fc/coventry-city/19945707,1994,24,premier_league
+Man. Utd,Leeds United,0-0,https://www.besoccer.com/match/manchester-united-fc/leeds-united-afc/19945708,1994,24,premier_league
+Swindon Town,Chelsea,1-3,https://www.besoccer.com/match/swindon-town/chelsea-fc/19945709,1994,24,premier_league
+Wimbledon FC,Arsenal,0-3,https://www.besoccer.com/match/wimbledon-fc/arsenal/19945710,1994,24,premier_league
+Southampton,Norwich City,0-1,https://www.besoccer.com/match/southampton-fc/norwich-city-fc/19945711,1994,24,premier_league
+Queens Park Rangers,Sheffield Wednesday,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/sheffield-wednesday-fc/19945712,1994,24,premier_league
+Aston Villa,Blackburn Rovers,0-1,https://www.besoccer.com/match/aston-villa-fc/blackburn-rovers-fc/19945713,1994,24,premier_league
+Newcastle,Man. City,2-0,https://www.besoccer.com/match/newcastle-united-fc/manchester-city-fc/19945714,1994,24,premier_league
+Sheffield United,Oldham Athletic AFC,2-1,https://www.besoccer.com/match/sheffield-united/oldham-athletic-afc/19945715,1994,24,premier_league
+Everton,West Ham,0-1,https://www.besoccer.com/match/everton-fc/west-ham-united/19945716,1994,24,premier_league
+Ipswich Town,Liverpool,1-2,https://www.besoccer.com/match/ipswich-town-fc/liverpool/19945717,1994,24,premier_league
+Chelsea,Everton,4-2,https://www.besoccer.com/match/chelsea-fc/everton-fc/19945718,1994,25,premier_league
+West Ham,Sheffield United,0-0,https://www.besoccer.com/match/west-ham-united/sheffield-united/19945719,1994,25,premier_league
+Coventry City,Swindon Town,1-1,https://www.besoccer.com/match/coventry-city/swindon-town/19945720,1994,25,premier_league
+Arsenal,Queens Park Rangers,0-0,https://www.besoccer.com/match/arsenal/queens-park-rangers-fc/19945721,1994,25,premier_league
+Sheffield Wednesday,Tottenham Hotspur,1-0,https://www.besoccer.com/match/sheffield-wednesday-fc/tottenham-hotspur-fc/19945722,1994,25,premier_league
+Norwich City,Newcastle,1-2,https://www.besoccer.com/match/norwich-city-fc/newcastle-united-fc/19945723,1994,25,premier_league
+Liverpool,Man. Utd,3-3,https://www.besoccer.com/match/liverpool/manchester-united-fc/19945724,1994,25,premier_league
+Leeds United,Aston Villa,2-0,https://www.besoccer.com/match/leeds-united-afc/aston-villa-fc/19945725,1994,25,premier_league
+Ipswich Town,Man. City,2-2,https://www.besoccer.com/match/ipswich-town-fc/manchester-city-fc/19945726,1994,25,premier_league
+Wimbledon FC,Blackburn Rovers,4-1,https://www.besoccer.com/match/wimbledon-fc/blackburn-rovers-fc/19945727,1994,25,premier_league
+Southampton,Oldham Athletic AFC,1-3,https://www.besoccer.com/match/southampton-fc/oldham-athletic-afc/19945728,1994,25,premier_league
+Oldham Athletic AFC,Liverpool,0-3,https://www.besoccer.com/match/oldham-athletic-afc/liverpool/19945729,1994,26,premier_league
+Sheffield United,Blackburn Rovers,1-2,https://www.besoccer.com/match/sheffield-united/blackburn-rovers-fc/19945730,1994,26,premier_league
+Wimbledon FC,Sheffield Wednesday,2-1,https://www.besoccer.com/match/wimbledon-fc/sheffield-wednesday-fc/19945731,1994,26,premier_league
+Tottenham Hotspur,Man. Utd,0-1,https://www.besoccer.com/match/tottenham-hotspur-fc/manchester-united-fc/19945732,1994,26,premier_league
+Norwich City,Chelsea,1-1,https://www.besoccer.com/match/norwich-city-fc/chelsea-fc/19945733,1994,26,premier_league
+Aston Villa,West Ham,3-1,https://www.besoccer.com/match/aston-villa-fc/west-ham-united/19945734,1994,26,premier_league
+Man. City,Arsenal,0-0,https://www.besoccer.com/match/manchester-city-fc/arsenal/19945735,1994,26,premier_league
+Leeds United,Ipswich Town,0-0,https://www.besoccer.com/match/leeds-united-afc/ipswich-town-fc/19945736,1994,26,premier_league
+Everton,Swindon Town,6-2,https://www.besoccer.com/match/everton-fc/swindon-town/19945737,1994,26,premier_league
+Southampton,Coventry City,1-0,https://www.besoccer.com/match/southampton-fc/coventry-city/19945738,1994,26,premier_league
+Queens Park Rangers,Newcastle,1-2,https://www.besoccer.com/match/queens-park-rangers-fc/newcastle-united-fc/19945739,1994,26,premier_league
+Liverpool,Man. City,2-1,https://www.besoccer.com/match/liverpool/manchester-city-fc/19945740,1994,27,premier_league
+Swindon Town,Tottenham Hotspur,2-1,https://www.besoccer.com/match/swindon-town/tottenham-hotspur-fc/19945741,1994,27,premier_league
+Sheffield Wednesday,Sheffield United,3-1,https://www.besoccer.com/match/sheffield-wednesday-fc/sheffield-united/19945742,1994,27,premier_league
+Man. Utd,Everton,1-0,https://www.besoccer.com/match/manchester-united-fc/everton-fc/19945743,1994,27,premier_league
+Ipswich Town,Wimbledon FC,0-0,https://www.besoccer.com/match/ipswich-town-fc/wimbledon-fc/19945744,1994,27,premier_league
+Coventry City,Queens Park Rangers,0-1,https://www.besoccer.com/match/coventry-city/queens-park-rangers-fc/19945745,1994,27,premier_league
+Chelsea,Aston Villa,1-1,https://www.besoccer.com/match/chelsea-fc/aston-villa-fc/19945746,1994,27,premier_league
+Arsenal,Oldham Athletic AFC,1-1,https://www.besoccer.com/match/arsenal/oldham-athletic-afc/19945747,1994,27,premier_league
+Newcastle,Southampton,1-2,https://www.besoccer.com/match/newcastle-united-fc/southampton-fc/19945748,1994,27,premier_league
+Blackburn Rovers,Leeds United,2-1,https://www.besoccer.com/match/blackburn-rovers-fc/leeds-united-afc/19945749,1994,27,premier_league
+West Ham,Norwich City,3-3,https://www.besoccer.com/match/west-ham-united/norwich-city-fc/19945750,1994,27,premier_league
+Tottenham Hotspur,Sheffield Wednesday,1-3,https://www.besoccer.com/match/tottenham-hotspur-fc/sheffield-wednesday-fc/19945751,1994,28,premier_league
+Swindon Town,Coventry City,3-1,https://www.besoccer.com/match/swindon-town/coventry-city/19945752,1994,28,premier_league
+Man. City,Ipswich Town,2-1,https://www.besoccer.com/match/manchester-city-fc/ipswich-town-fc/19945753,1994,28,premier_league
+Blackburn Rovers,Wimbledon FC,3-0,https://www.besoccer.com/match/blackburn-rovers-fc/wimbledon-fc/19945754,1994,28,premier_league
+Everton,Chelsea,4-2,https://www.besoccer.com/match/everton-fc/chelsea-fc/19945755,1994,28,premier_league
+Oldham Athletic AFC,Southampton,2-1,https://www.besoccer.com/match/oldham-athletic-afc/southampton-fc/19945756,1994,28,premier_league
+Aston Villa,Leeds United,1-0,https://www.besoccer.com/match/aston-villa-fc/leeds-united-afc/19945757,1994,28,premier_league
+Sheffield United,West Ham,3-2,https://www.besoccer.com/match/sheffield-united/west-ham-united/19945758,1994,28,premier_league
+Newcastle,Norwich City,3-0,https://www.besoccer.com/match/newcastle-united-fc/norwich-city-fc/19945759,1994,28,premier_league
+Man. Utd,Liverpool,1-0,https://www.besoccer.com/match/manchester-united-fc/liverpool/19945760,1994,28,premier_league
+Queens Park Rangers,Arsenal,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/arsenal/19945761,1994,28,premier_league
+Queens Park Rangers,Man. Utd,2-3,https://www.besoccer.com/match/queens-park-rangers-fc/manchester-united-fc/19945762,1994,29,premier_league
+Aston Villa,Swindon Town,5-0,https://www.besoccer.com/match/aston-villa-fc/swindon-town/19945763,1994,29,premier_league
+Wimbledon FC,Newcastle,4-2,https://www.besoccer.com/match/wimbledon-fc/newcastle-united-fc/19945764,1994,29,premier_league
+Tottenham Hotspur,Blackburn Rovers,0-2,https://www.besoccer.com/match/tottenham-hotspur-fc/blackburn-rovers-fc/19945765,1994,29,premier_league
+Oldham Athletic AFC,Chelsea,2-1,https://www.besoccer.com/match/oldham-athletic-afc/chelsea-fc/19945766,1994,29,premier_league
+Man. City,West Ham,0-0,https://www.besoccer.com/match/manchester-city-fc/west-ham-united/19945767,1994,29,premier_league
+Everton,Ipswich Town,0-0,https://www.besoccer.com/match/everton-fc/ipswich-town-fc/19945768,1994,29,premier_league
+Sheffield United,Coventry City,0-0,https://www.besoccer.com/match/sheffield-united/coventry-city/19945769,1994,29,premier_league
+Norwich City,Arsenal,1-1,https://www.besoccer.com/match/norwich-city-fc/arsenal/19945770,1994,29,premier_league
+Southampton,Liverpool,4-2,https://www.besoccer.com/match/southampton-fc/liverpool/19945771,1994,29,premier_league
+Leeds United,Sheffield Wednesday,2-2,https://www.besoccer.com/match/leeds-united-afc/sheffield-wednesday-fc/19945772,1994,29,premier_league
+Everton,Arsenal,1-1,https://www.besoccer.com/match/everton-fc/arsenal/19945773,1994,30,premier_league
+Leeds United,Liverpool,2-0,https://www.besoccer.com/match/leeds-united-afc/liverpool/19945774,1994,30,premier_league
+Coventry City,Man. City,4-0,https://www.besoccer.com/match/coventry-city/manchester-city-fc/19945775,1994,30,premier_league
+Swindon Town,Norwich City,3-3,https://www.besoccer.com/match/swindon-town/norwich-city-fc/19945776,1994,30,premier_league
+Blackburn Rovers,Newcastle,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/newcastle-united-fc/19945777,1994,30,premier_league
+Ipswich Town,Sheffield United,3-2,https://www.besoccer.com/match/ipswich-town-fc/sheffield-united/19945778,1994,30,premier_league
+Tottenham Hotspur,Aston Villa,1-1,https://www.besoccer.com/match/tottenham-hotspur-fc/aston-villa-fc/19945779,1994,30,premier_league
+Sheffield Wednesday,Chelsea,3-1,https://www.besoccer.com/match/sheffield-wednesday-fc/chelsea-fc/19945780,1994,30,premier_league
+Wimbledon FC,Oldham Athletic AFC,3-0,https://www.besoccer.com/match/wimbledon-fc/oldham-athletic-afc/19945781,1994,30,premier_league
+Queens Park Rangers,West Ham,0-0,https://www.besoccer.com/match/queens-park-rangers-fc/west-ham-united/19945782,1994,30,premier_league
+Man. Utd,Southampton,2-0,https://www.besoccer.com/match/manchester-united-fc/southampton-fc/19945783,1994,30,premier_league
+West Ham,Man. Utd,2-2,https://www.besoccer.com/match/west-ham-united/manchester-united-fc/19945784,1994,31,premier_league
+Southampton,Wimbledon FC,1-0,https://www.besoccer.com/match/southampton-fc/wimbledon-fc/19945785,1994,31,premier_league
+Man. City,Swindon Town,2-1,https://www.besoccer.com/match/manchester-city-fc/swindon-town/19945786,1994,31,premier_league
+Liverpool,Coventry City,1-0,https://www.besoccer.com/match/liverpool/coventry-city/19945787,1994,31,premier_league
+Arsenal,Blackburn Rovers,1-0,https://www.besoccer.com/match/arsenal/blackburn-rovers-fc/19945788,1994,31,premier_league
+Norwich City,Sheffield Wednesday,1-1,https://www.besoccer.com/match/norwich-city-fc/sheffield-wednesday-fc/19945789,1994,31,premier_league
+Chelsea,Tottenham Hotspur,4-3,https://www.besoccer.com/match/chelsea-fc/tottenham-hotspur-fc/19945790,1994,31,premier_league
+Oldham Athletic AFC,Leeds United,1-1,https://www.besoccer.com/match/oldham-athletic-afc/leeds-united-afc/19945791,1994,31,premier_league
+Sheffield United,Queens Park Rangers,1-1,https://www.besoccer.com/match/sheffield-united/queens-park-rangers-fc/19945792,1994,31,premier_league
+Newcastle,Ipswich Town,2-0,https://www.besoccer.com/match/newcastle-united-fc/ipswich-town-fc/19945793,1994,31,premier_league
+Aston Villa,Everton,0-0,https://www.besoccer.com/match/aston-villa-fc/everton-fc/19945794,1994,31,premier_league
+Tottenham Hotspur,Sheffield United,2-2,https://www.besoccer.com/match/tottenham-hotspur-fc/sheffield-united/19945795,1994,32,premier_league
+Man. Utd,Chelsea,0-1,https://www.besoccer.com/match/manchester-united-fc/chelsea-fc/19945796,1994,32,premier_league
+Swindon Town,West Ham,1-1,https://www.besoccer.com/match/swindon-town/west-ham-united/19945797,1994,32,premier_league
+Sheffield Wednesday,Newcastle,0-1,https://www.besoccer.com/match/sheffield-wednesday-fc/newcastle-united-fc/19945798,1994,32,premier_league
+Queens Park Rangers,Man. City,1-1,https://www.besoccer.com/match/queens-park-rangers-fc/manchester-city-fc/19945799,1994,32,premier_league
+Ipswich Town,Arsenal,1-5,https://www.besoccer.com/match/ipswich-town-fc/arsenal/19945800,1994,32,premier_league
+Everton,Oldham Athletic AFC,2-1,https://www.besoccer.com/match/everton-fc/oldham-athletic-afc/19945801,1994,32,premier_league
+Leeds United,Southampton,0-0,https://www.besoccer.com/match/leeds-united-afc/southampton-fc/19945802,1994,32,premier_league
+Wimbledon FC,Norwich City,3-1,https://www.besoccer.com/match/wimbledon-fc/norwich-city-fc/19945803,1994,32,premier_league
+Blackburn Rovers,Liverpool,2-0,https://www.besoccer.com/match/blackburn-rovers-fc/liverpool/19945804,1994,32,premier_league
+Coventry City,Aston Villa,0-1,https://www.besoccer.com/match/coventry-city/aston-villa-fc/19945805,1994,32,premier_league
+Man. City,Wimbledon FC,0-1,https://www.besoccer.com/match/manchester-city-fc/wimbledon-fc/19945806,1994,33,premier_league
+Southampton,Sheffield Wednesday,1-1,https://www.besoccer.com/match/southampton-fc/sheffield-wednesday-fc/19945807,1994,33,premier_league
+Newcastle,Swindon Town,7-1,https://www.besoccer.com/match/newcastle-united-fc/swindon-town/19945808,1994,33,premier_league
+Aston Villa,Ipswich Town,0-1,https://www.besoccer.com/match/aston-villa-fc/ipswich-town-fc/19945809,1994,33,premier_league
+Norwich City,Queens Park Rangers,3-4,https://www.besoccer.com/match/norwich-city-fc/queens-park-rangers-fc/19945810,1994,33,premier_league
+Liverpool,Everton,2-1,https://www.besoccer.com/match/liverpool/everton-fc/19945811,1994,33,premier_league
+Sheffield United,Leeds United,2-2,https://www.besoccer.com/match/sheffield-united/leeds-united-afc/19945812,1994,33,premier_league
+Arsenal,Man. Utd,2-2,https://www.besoccer.com/match/arsenal/manchester-united-fc/19945813,1994,33,premier_league
+West Ham,Blackburn Rovers,1-2,https://www.besoccer.com/match/west-ham-united/blackburn-rovers-fc/19945814,1994,33,premier_league
+Chelsea,Coventry City,1-2,https://www.besoccer.com/match/chelsea-fc/coventry-city/19945815,1994,33,premier_league
+Oldham Athletic AFC,Tottenham Hotspur,0-2,https://www.besoccer.com/match/oldham-athletic-afc/tottenham-hotspur-fc/19945816,1994,33,premier_league
+Aston Villa,Oldham Athletic AFC,1-2,https://www.besoccer.com/match/aston-villa-fc/oldham-athletic-afc/19945817,1994,34,premier_league
+Man. City,Sheffield United,0-0,https://www.besoccer.com/match/manchester-city-fc/sheffield-united/19945818,1994,34,premier_league
+West Ham,Newcastle,2-4,https://www.besoccer.com/match/west-ham-united/newcastle-united-fc/19945819,1994,34,premier_league
+Tottenham Hotspur,Ipswich Town,1-1,https://www.besoccer.com/match/tottenham-hotspur-fc/ipswich-town-fc/19945820,1994,34,premier_league
+Swindon Town,Man. Utd,2-2,https://www.besoccer.com/match/swindon-town/manchester-united-fc/19945821,1994,34,premier_league
+Southampton,Arsenal,0-4,https://www.besoccer.com/match/southampton-fc/arsenal/19945822,1994,34,premier_league
+Leeds United,Coventry City,1-0,https://www.besoccer.com/match/leeds-united-afc/coventry-city/19945823,1994,34,premier_league
+Liverpool,Chelsea,2-1,https://www.besoccer.com/match/liverpool/chelsea-fc/19945824,1994,34,premier_league
+Queens Park Rangers,Wimbledon FC,1-0,https://www.besoccer.com/match/queens-park-rangers-fc/wimbledon-fc/19945825,1994,34,premier_league
+Sheffield Wednesday,Blackburn Rovers,1-2,https://www.besoccer.com/match/sheffield-wednesday-fc/blackburn-rovers-fc/19945826,1994,34,premier_league
+Norwich City,Everton,3-0,https://www.besoccer.com/match/norwich-city-fc/everton-fc/19945827,1994,34,premier_league
+Wimbledon FC,Leeds United,1-0,https://www.besoccer.com/match/wimbledon-fc/leeds-united-afc/19945828,1994,34,premier_league
+Man. Utd,Sheffield Wednesday,5-0,https://www.besoccer.com/match/manchester-united-fc/sheffield-wednesday-fc/19945829,1994,35,premier_league
+Sheffield United,Southampton,0-0,https://www.besoccer.com/match/sheffield-united/southampton-fc/19945830,1994,35,premier_league
+Oldham Athletic AFC,Man. City,0-0,https://www.besoccer.com/match/oldham-athletic-afc/manchester-city-fc/19945831,1994,35,premier_league
+Ipswich Town,Queens Park Rangers,1-3,https://www.besoccer.com/match/ipswich-town-fc/queens-park-rangers-fc/19945832,1994,35,premier_league
+Everton,Tottenham Hotspur,0-1,https://www.besoccer.com/match/everton-fc/tottenham-hotspur-fc/19945833,1994,35,premier_league
+Chelsea,West Ham,2-0,https://www.besoccer.com/match/chelsea-fc/west-ham-united/19945834,1994,35,premier_league
+Arsenal,Liverpool,1-0,https://www.besoccer.com/match/arsenal/liverpool/19945835,1994,35,premier_league
+Coventry City,Norwich City,2-1,https://www.besoccer.com/match/coventry-city/norwich-city-fc/19945836,1994,35,premier_league
+Blackburn Rovers,Swindon Town,3-1,https://www.besoccer.com/match/blackburn-rovers-fc/swindon-town/19945837,1994,35,premier_league
+Newcastle,Aston Villa,5-1,https://www.besoccer.com/match/newcastle-united-fc/aston-villa-fc/19945838,1994,35,premier_league
+Leeds United,Newcastle,1-1,https://www.besoccer.com/match/leeds-united-afc/newcastle-united-fc/19945839,1994,36,premier_league
+Chelsea,Southampton,2-0,https://www.besoccer.com/match/chelsea-fc/southampton-fc/19945840,1994,36,premier_league
+West Ham,Ipswich Town,2-1,https://www.besoccer.com/match/west-ham-united/ipswich-town-fc/19945841,1994,36,premier_league
+Sheffield Wednesday,Everton,5-1,https://www.besoccer.com/match/sheffield-wednesday-fc/everton-fc/19945842,1994,36,premier_league
+Oldham Athletic AFC,Queens Park Rangers,4-1,https://www.besoccer.com/match/oldham-athletic-afc/queens-park-rangers-fc/19945843,1994,36,premier_league
+Norwich City,Tottenham Hotspur,1-2,https://www.besoccer.com/match/norwich-city-fc/tottenham-hotspur-fc/19945844,1994,36,premier_league
+Coventry City,Wimbledon FC,1-2,https://www.besoccer.com/match/coventry-city/wimbledon-fc/19945845,1994,36,premier_league
+Blackburn Rovers,Man. Utd,2-0,https://www.besoccer.com/match/blackburn-rovers-fc/manchester-united-fc/19945846,1994,36,premier_league
+Arsenal,Swindon Town,1-1,https://www.besoccer.com/match/arsenal/swindon-town/19945847,1994,36,premier_league
+Liverpool,Sheffield United,1-2,https://www.besoccer.com/match/liverpool/sheffield-united/19945848,1994,36,premier_league
+Man. City,Aston Villa,3-0,https://www.besoccer.com/match/manchester-city-fc/aston-villa-fc/19945849,1994,36,premier_league
+Man. Utd,Oldham Athletic AFC,3-2,https://www.besoccer.com/match/manchester-united-fc/oldham-athletic-afc/19945850,1994,37,premier_league
+Wimbledon FC,Liverpool,1-1,https://www.besoccer.com/match/wimbledon-fc/liverpool/19945851,1994,37,premier_league
+Tottenham Hotspur,West Ham,1-4,https://www.besoccer.com/match/tottenham-hotspur-fc/west-ham-united/19945852,1994,37,premier_league
+Swindon Town,Sheffield Wednesday,0-1,https://www.besoccer.com/match/swindon-town/sheffield-wednesday-fc/19945853,1994,37,premier_league
+Southampton,Man. City,0-1,https://www.besoccer.com/match/southampton-fc/manchester-city-fc/19945854,1994,37,premier_league
+Sheffield United,Arsenal,1-1,https://www.besoccer.com/match/sheffield-united/arsenal/19945855,1994,37,premier_league
+Ipswich Town,Coventry City,0-2,https://www.besoccer.com/match/ipswich-town-fc/coventry-city/19945856,1994,37,premier_league
+Everton,Blackburn Rovers,0-3,https://www.besoccer.com/match/everton-fc/blackburn-rovers-fc/19945857,1994,37,premier_league
+Aston Villa,Norwich City,0-0,https://www.besoccer.com/match/aston-villa-fc/norwich-city-fc/19945858,1994,37,premier_league
+Queens Park Rangers,Leeds United,0-4,https://www.besoccer.com/match/queens-park-rangers-fc/leeds-united-afc/19945859,1994,37,premier_league
+Newcastle,Chelsea,0-0,https://www.besoccer.com/match/newcastle-united-fc/chelsea-fc/19945860,1994,37,premier_league
+Sheffield Wednesday,Queens Park Rangers,3-1,https://www.besoccer.com/match/sheffield-wednesday-fc/queens-park-rangers-fc/19945861,1994,38,premier_league
+West Ham,Everton,0-1,https://www.besoccer.com/match/west-ham-united/everton-fc/19945862,1994,38,premier_league
+Norwich City,Southampton,4-5,https://www.besoccer.com/match/norwich-city-fc/southampton-fc/19945863,1994,38,premier_league
+Man. City,Newcastle,2-1,https://www.besoccer.com/match/manchester-city-fc/newcastle-united-fc/19945864,1994,38,premier_league
+Liverpool,Ipswich Town,1-0,https://www.besoccer.com/match/liverpool/ipswich-town-fc/19945865,1994,38,premier_league
+Coventry City,Tottenham Hotspur,1-0,https://www.besoccer.com/match/coventry-city/tottenham-hotspur-fc/19945866,1994,38,premier_league
+Blackburn Rovers,Aston Villa,1-0,https://www.besoccer.com/match/blackburn-rovers-fc/aston-villa-fc/19945867,1994,38,premier_league
+Arsenal,Wimbledon FC,1-1,https://www.besoccer.com/match/arsenal/wimbledon-fc/19945868,1994,38,premier_league
+Chelsea,Swindon Town,2-0,https://www.besoccer.com/match/chelsea-fc/swindon-town/19945869,1994,38,premier_league
+Leeds United,Man. Utd,0-2,https://www.besoccer.com/match/leeds-united-afc/manchester-united-fc/19945870,1994,38,premier_league
+Oldham Athletic AFC,Sheffield United,1-1,https://www.besoccer.com/match/oldham-athletic-afc/sheffield-united/19945871,1994,38,premier_league
+Queens Park Rangers,Everton,2-1,https://www.besoccer.com/match/queens-park-rangers-fc/everton-fc/19945872,1994,39,premier_league
+Arsenal,Chelsea,1-0,https://www.besoccer.com/match/arsenal/chelsea-fc/19945873,1994,39,premier_league
+Southampton,Blackburn Rovers,3-1,https://www.besoccer.com/match/southampton-fc/blackburn-rovers-fc/19945874,1994,39,premier_league
+Wimbledon FC,Man. Utd,1-0,https://www.besoccer.com/match/wimbledon-fc/manchester-united-fc/19945875,1994,39,premier_league
+Coventry City,Sheffield Wednesday,1-1,https://www.besoccer.com/match/coventry-city/sheffield-wednesday-fc/19945876,1994,39,premier_league
+Liverpool,Newcastle,0-2,https://www.besoccer.com/match/liverpool/newcastle-united-fc/19945877,1994,39,premier_league
+Oldham Athletic AFC,West Ham,1-2,https://www.besoccer.com/match/oldham-athletic-afc/west-ham-united/19945878,1994,39,premier_league
+Man. City,Norwich City,1-1,https://www.besoccer.com/match/manchester-city-fc/norwich-city-fc/19945879,1994,39,premier_league
+Ipswich Town,Swindon Town,1-1,https://www.besoccer.com/match/ipswich-town-fc/swindon-town/19945880,1994,39,premier_league
+Sheffield United,Aston Villa,1-2,https://www.besoccer.com/match/sheffield-united/aston-villa-fc/19945881,1994,39,premier_league
+Leeds United,Tottenham Hotspur,2-0,https://www.besoccer.com/match/leeds-united-afc/tottenham-hotspur-fc/19945882,1994,39,premier_league
+Tottenham Hotspur,Southampton,3-0,https://www.besoccer.com/match/tottenham-hotspur-fc/southampton-fc/19945883,1994,40,premier_league
+West Ham,Liverpool,1-2,https://www.besoccer.com/match/west-ham-united/liverpool/19945884,1994,40,premier_league
+Man. Utd,Man. City,2-0,https://www.besoccer.com/match/manchester-united-fc/manchester-city-fc/19945885,1994,40,premier_league
+Sheffield Wednesday,Ipswich Town,5-0,https://www.besoccer.com/match/sheffield-wednesday-fc/ipswich-town-fc/19945886,1994,40,premier_league
+Norwich City,Sheffield United,0-1,https://www.besoccer.com/match/norwich-city-fc/sheffield-united/19945887,1994,40,premier_league
+Newcastle,Oldham Athletic AFC,3-2,https://www.besoccer.com/match/newcastle-united-fc/oldham-athletic-afc/19945888,1994,40,premier_league
+Everton,Coventry City,0-0,https://www.besoccer.com/match/everton-fc/coventry-city/19945889,1994,40,premier_league
+Chelsea,Leeds United,1-1,https://www.besoccer.com/match/chelsea-fc/leeds-united-afc/19945890,1994,40,premier_league
+Aston Villa,Arsenal,1-2,https://www.besoccer.com/match/aston-villa-fc/arsenal/19945891,1994,40,premier_league
+Swindon Town,Wimbledon FC,2-4,https://www.besoccer.com/match/swindon-town/wimbledon-fc/19945892,1994,40,premier_league
+Blackburn Rovers,Queens Park Rangers,1-1,https://www.besoccer.com/match/blackburn-rovers-fc/queens-park-rangers-fc/19945893,1994,40,premier_league
+Liverpool,Norwich City,0-1,https://www.besoccer.com/match/liverpool/norwich-city-fc/19945894,1994,41,premier_league
+Wimbledon FC,Tottenham Hotspur,2-1,https://www.besoccer.com/match/wimbledon-fc/tottenham-hotspur-fc/19945895,1994,41,premier_league
+Southampton,Aston Villa,4-1,https://www.besoccer.com/match/southampton-fc/aston-villa-fc/19945896,1994,41,premier_league
+Sheffield United,Newcastle,2-0,https://www.besoccer.com/match/sheffield-united/newcastle-united-fc/19945897,1994,41,premier_league
+Queens Park Rangers,Swindon Town,1-3,https://www.besoccer.com/match/queens-park-rangers-fc/swindon-town/19945898,1994,41,premier_league
+Leeds United,Everton,3-0,https://www.besoccer.com/match/leeds-united-afc/everton-fc/19945899,1994,41,premier_league
+Arsenal,West Ham,0-2,https://www.besoccer.com/match/arsenal/west-ham-united/19945900,1994,41,premier_league
+Oldham Athletic AFC,Sheffield Wednesday,0-0,https://www.besoccer.com/match/oldham-athletic-afc/sheffield-wednesday-fc/19945901,1994,41,premier_league
+Man. City,Chelsea,2-2,https://www.besoccer.com/match/manchester-city-fc/chelsea-fc/19945902,1994,41,premier_league
+Ipswich Town,Man. Utd,1-2,https://www.besoccer.com/match/ipswich-town-fc/manchester-united-fc/19945903,1994,41,premier_league
+Coventry City,Blackburn Rovers,2-1,https://www.besoccer.com/match/coventry-city/blackburn-rovers-fc/19945904,1994,41,premier_league
+Sheffield Wednesday,Man. City,1-1,https://www.besoccer.com/match/sheffield-wednesday-fc/manchester-city-fc/19945905,1994,42,premier_league
+West Ham,Southampton,3-3,https://www.besoccer.com/match/west-ham-united/southampton-fc/19945906,1994,42,premier_league
+Tottenham Hotspur,Queens Park Rangers,1-2,https://www.besoccer.com/match/tottenham-hotspur-fc/queens-park-rangers-fc/19945907,1994,42,premier_league
+Swindon Town,Leeds United,0-5,https://www.besoccer.com/match/swindon-town/leeds-united-afc/19945908,1994,42,premier_league
+Newcastle,Arsenal,2-0,https://www.besoccer.com/match/newcastle-united-fc/arsenal/19945909,1994,42,premier_league
+Everton,Wimbledon FC,3-2,https://www.besoccer.com/match/everton-fc/wimbledon-fc/19945910,1994,42,premier_league
+Chelsea,Sheffield United,3-2,https://www.besoccer.com/match/chelsea-fc/sheffield-united/19945911,1994,42,premier_league
+Aston Villa,Liverpool,2-1,https://www.besoccer.com/match/aston-villa-fc/liverpool/19945912,1994,42,premier_league
+Blackburn Rovers,Ipswich Town,0-0,https://www.besoccer.com/match/blackburn-rovers-fc/ipswich-town-fc/19945913,1994,42,premier_league
+Norwich City,Oldham Athletic AFC,1-1,https://www.besoccer.com/match/norwich-city-fc/oldham-athletic-afc/19945914,1994,42,premier_league
+Man. Utd,Coventry City,0-0,https://www.besoccer.com/match/manchester-united-fc/coventry-city/19945915,1994,42,premier_league
