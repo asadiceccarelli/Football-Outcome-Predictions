@@ -56,7 +56,7 @@ The number of rounds in each season for each league is plotted as a function of 
   >
 </p>
 
-This leave 127978 rows of data from 12 leagues to analyse, and brings the number of unique home teams and away teams to 499 and 498 respectively.
+This leave 127416 rows of data from 12 leagues to analyse, and brings the number of unique home teams and away teams to 499 and 498 respectively.
 
 ### Analysis
 
@@ -116,6 +116,35 @@ elo_dict = pickle.load(open('elo_dict.pkl', 'rb'))
 elo_df = pd.DataFrame.from_dict(elo_dict)
 elo_df = elo_df.transpose().reset_index().rename(columns={'index': 'Link'})
 ```
+
+### Goals Scored So Far
+
+As stated in the hypothesis, the number of goals scored that season by a team prior to the fixture taking place is likely to influence the number of goals scored by said team, and hence the outcome of the match. Calculating this is relatively simply, but to create a singular function that will iterate over the entire ```main_df``` dataframe is a little more complex and will require several nested ```for``` loops.
+- Initially, one club was looked at from a singular season in order to establish the inner most ```for``` loop. Goals scored by this team so far in the competition was calculated by creating a dictionary with the key as the club name, and the value as a list of goals scored. The next value of the list is calculated by summing the previous two values.
+
+  ```python
+  season_df = goals_df[(goals_df['season'] == i) & (goals_df.league == league) & ((goals_df.home_team == team) | (goals_df.away_team == team))]
+  scored_sofar_dict = {}
+  scored_sofar_dict[team] = [0]
+  for j in season_df['round'].unique():
+    match = season_df.loc[(season_df['round'] == j) & ((season_df['home_team'] == team) | (season_df['away_team'] == team))]
+    if match.home_team.item() == team:
+        scored_sofar_dict[team].append(match.home_goals.item())
+        scored_sofar_dict[team][j] += scored_sofar_dict[team][j-1]
+    else:
+        scored_sofar_dict[team].append(match.away_goals.item())
+        scored_sofar_dict[team][j] += scored_sofar_dict[team][j-1]
+  ```
+
+- These value are then inserted into ```main_df```.
+- Then, this loop is iterated over all teams in the current season, before being iterated over all seasons in the league before finally being iterated over all leagues in the dataframe.
+
+
+### Goals Conceeded So Far
+
+### Goal Difference So Far
+
+### Points So Far
 
 ## Milestone 4: Uploading to a Database
 
