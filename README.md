@@ -119,8 +119,8 @@ elo_df = elo_df.transpose().reset_index().rename(columns={'index': 'Link'})
 
 ### Goals Scored So Far
 
-As stated in the hypothesis, the number of goals scored that season by a team prior to the fixture taking place is likely to influence the number of goals scored by said team, and hence the outcome of the match. Calculating this is relatively simply, but to create a singular function that will iterate over the entire ```main_df``` dataframe is a little more complex and will require several nested ```for``` loops.
-- Initially, one club was looked at from a singular season in order to establish the inner most ```for``` loop. Goals scored by this team so far in the competition was calculated by creating a dictionary with the key as the club name, and the value as a list of goals scored. The next value of the list is calculated by summing the previous two values.
+As stated in the hypothesis, the number of goals scored that season by a team prior to the fixture taking place is highly likely to influence the number of goals scored by said team and hence, the outcome of the match. Calculating this is relatively simply, but to create a singular function that will iterate over the entire ```main_df``` dataframe is a little more complex and will require several nested ```for``` loops.
+- Initially, one club was looked at from a singular season in order to establish the inner most ```for``` loop.  The goals scored by this team so far in the competition was calculated by creating a dictionary with the key as the club name, and the value as a list of goals scored. The next value of the list is calculated by summing the previous two values.
 
   ```python
   season_df = goals_df[(goals_df['season'] == i) & (goals_df.league == league) & ((goals_df.home_team == team) | (goals_df.away_team == team))]
@@ -141,6 +141,15 @@ As stated in the hypothesis, the number of goals scored that season by a team pr
 
 
 ### Goals Conceeded So Far
+
+Simlarly, the goals conceeded by a team in the games prior will be a good indicator of the number of goals a team is likely to conceede in an upcoming game. This is calculated almost identically to goals scored so far, simply accessed the away teams goals scored for goals conceeded by the home team, and vice versa. The two features care calculated in a single function, ```calculate_goals_so_far()```.
+
+```python
+scored_sofar_dict[team].append(match.home_goals.item())
+conceeded_sofar_dict[team].append(match.away_goals.item())
+```
+
+This function takes an incredibly long time to iterate through the 140k rows (upwards of 2 hours), but it only needs to one once. This dataframe with the two new features is saved as ```main_df_goals_so_far.csv```.
 
 ### Goal Difference So Far
 

@@ -1,3 +1,4 @@
+import logging
 import glob
 import pickle
 import pandas as pd
@@ -7,6 +8,7 @@ import plotly.express as px
 def concatenate_data():
     """Combine all dataframes into one singular dataframe, main_df."""
     global main_df
+    logging.info('Concatenating data...')
     paths = glob.glob('Football-Dataset/*/*')
     pd_list = []
     for path in paths:
@@ -33,7 +35,8 @@ def concatenate_data():
 
 
 def clean_data():
-    """Cleans the dataframe by dropping unnecessary columns, removing duplicates and cleaning referee and capacity data."""
+    """Further cleans the dataframe by dropping unnecessary columns, removing duplicates and cleaning referee and capacity data."""
+    logging.info('Cleaning data...')
     main_df.columns= main_df.columns.str.lower()
     main_df.drop(['link_x', 'link_y', 'team'], axis=1, inplace=True)
     main_df.drop_duplicates('clean_link', inplace=True)
@@ -122,9 +125,6 @@ def get_main_df():
     clean_data()
     create_outcome()
     return main_df
-
-def test():
-    pass
 
 
 if __name__ == '__main__':
