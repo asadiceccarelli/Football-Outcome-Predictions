@@ -6,7 +6,7 @@ import plotly.express as px
 
 
 def concatenate_data():
-    """Combine all dataframes into one singular dataframe, main_df."""
+    """Combine all dataframes into one singular dataframe, main_df. Saved as a .csv file."""
     global main_df
     logging.info('Concatenating data...')
     paths = glob.glob('Football-Dataset/*/*')
@@ -32,6 +32,9 @@ def concatenate_data():
     match_df = pd.merge(raw_df, match_info_df, left_on='clean_link', right_on='Link')
     mach_elo_df = pd.merge(match_df, elo_df, left_on='Link_x', right_on='Link', how='left')
     main_df = pd.merge(mach_elo_df, team_info_df, left_on='Home_Team', right_on='Team', how='left')
+
+    main_df.to_csv('project/main_df')
+
 
 
 def clean_data():
