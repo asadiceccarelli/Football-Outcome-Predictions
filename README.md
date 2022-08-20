@@ -119,41 +119,68 @@ elo_df = elo_df.transpose().reset_index().rename(columns={'index': 'Link'})
 
 ### Goals Scored So Far
 
-As stated in the hypothesis, the number of goals scored that season by a team prior to the fixture taking place is highly likely to influence the number of goals scored by said team and hence, the outcome of the match. Calculating this is relatively simply, but to create a singular function that will iterate over the entire ```main_df``` dataframe is a little more complex and will require several nested ```for``` loops.
-- Initially, one club was looked at from a singular season in order to establish the inner most ```for``` loop.  The goals scored by this team so far in the competition was calculated by creating a dictionary with the key as the club name, and the value as a list of goals scored. The next value of the list is calculated by summing the previous two values.
+As stated in the hypothesis, the number of goals scored that season by a team prior to the fixture taking place is highly likely to influence the number of goals scored by said team and hence, the outcome of the match. Calculating this is relatively simply, but to create a singular function that will iterate over the entire ```main_df``` dataframe is a little more complex and requires several nested ```for``` loops.
 
-  ```python
-  season_df = goals_df[(goals_df['season'] == i) & (goals_df.league == league) & ((goals_df.home_team == team) | (goals_df.away_team == team))]
-  scored_sofar_dict = {}
-  scored_sofar_dict[team] = [0]
+- Initially, one club was looked at in a dataframe from a singular season (```season_df```) in order to establish the innermost ```for``` loop.  The goals scored by this team so far was calculated by creating a list with an initial value of 0. The next value is calculated by summing the previous two values, and so the number of goals scored by the team after round 1 will correspond to the value of index 1 in the list.
+
+    ```python
   for j in season_df['round'].unique():
     match = season_df.loc[(season_df['round'] == j) & ((season_df['home_team'] == team) | (season_df['away_team'] == team))]
     if match.home_team.item() == team:
-        scored_sofar_dict[team].append(match.home_goals.item())
-        scored_sofar_dict[team][j] += scored_sofar_dict[team][j-1]
-    else:
-        scored_sofar_dict[team].append(match.away_goals.item())
-        scored_sofar_dict[team][j] += scored_sofar_dict[team][j-1]
-  ```
+        scored_list.append(match.home_goals.item())
+        scored_list[j] += scored_list[j-1]
+    ```
+    > Calculating the total goals scored by one team in the competition.
 
 - These value are then inserted into ```main_df```.
-- Then, this loop is iterated over all teams in the current season, before being iterated over all seasons in the league before finally being iterated over all leagues in the dataframe.
-
+- This loop is iterated over all teams in the current season, before being iterated over all seasons in the league before finally over all leagues in the dataframe.
 
 ### Goals Conceeded So Far
 
-Simlarly, the goals conceeded by a team in the games prior will be a good indicator of the number of goals a team is likely to conceede in an upcoming game. This is calculated almost identically to goals scored so far, simply accessed the away teams goals scored for goals conceeded by the home team, and vice versa. The two features care calculated in a single function, ```calculate_goals_so_far()```.
+Simlarly, the goals conceeded by a team in the games prior will be a good indicator of the number of goals a team is likely to conceede in an upcoming game. This is calculated almost identically to goals scored so far, simply accessed the away teams goals scored for goals conceeded by the home team, and vice versa. The two features are calculated in a single function, ```calculate_goals_sofar()```.
 
 ```python
-scored_sofar_dict[team].append(match.home_goals.item())
-conceeded_sofar_dict[team].append(match.away_goals.item())
+if match.home_team.item() == team:
+  conceeded_list.append(match.away_goals.item())
+  conceeded_list[j] += conceeded_list[j-1]
 ```
+> Calculating the goals conceeded by the home team.
 
-This function takes an incredibly long time to iterate through the 140k rows (upwards of 2 hours), but it only needs to one once. This dataframe with the two new features is saved as ```main_df_goals_so_far.csv```.
+This function takes an incredibly long time to iterate through the 140k rows (upwards of 2 hours), but it only needs to run once. This dataframe with the two new features is saved as ```main_df_goals_sofar.csv```.
 
 ### Goal Difference So Far
 
 ### Points So Far
+
+Accumulated oints so far is calculated over the course of the season for each team. 3 points are awarded for a win, 1 for a draw and 0 for a loss.
+
+```python
+if match.outcome.item() == 1:
+    points_sofar_list.append(3)
+elif match.outcome.item() == 0:
+    points_sofar_list.append(1)
+else:
+    points_sofar_list.append(0)
+points_sofar_list[j] += points_sofar_list[j-1]
+```
+
+This information is saved as ```main_df_points_sofar.csv```.
+
+### Form
+
+Form is calculated over the past 5 games for each team and inserted into ```main_df``` under the columns, ```home_form``` or ```away_form```. This is given as a string object, e.g. ```'WWDLW'```.
+
+```python
+form = '-----'
+if match.outcome.item() == 1:
+  form = form[1:] + 'W'
+elif match.outcome.item() == 0:
+  form = form[1:] + 'D'
+else:
+  form = form[1:] + 'L'
+```
+
+This is saved as ```main_df_form.csv```.
 
 ## Milestone 4: Uploading to a Database
 
