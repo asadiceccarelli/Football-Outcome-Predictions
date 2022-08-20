@@ -182,6 +182,32 @@ else:
 
 This is saved as ```main_df_form.csv```.
 
+### Pipeline
+
+The function ```create_cleaned_dataset()``` will read the ```.csv``` files containing the features to be inspected and merge them into one dataframe which we can use to train a model. Using the ```.join``` method, we can merge these dataframes on index and save it as a new ```.csv``` file.
+
+```python
+cleaned_dataset = goals_sofar.join(points_sofar).join(form)
+cleaned_dataset.to_csv('project/cleaned_dataset.csv')
+```
+> The ```create_cleaned_dataset()``` function in ```feature_engineering.py```.
+
+A new file ```pipeline.py``` is created which can be run whenever new data is added to the datasets and create the clean dataframe ```cleaned_dataset.csv```.
+
+```python
+if __name__ == '__main__':
+    eda.concatenate_data()
+    eda.clean_data()
+    eda.create_outcome()
+    eda.main_df.to_csv('project/main_df.csv')
+    main_df = pd.read_csv('project/main_df.csv')
+    feature_engineering.calculate_goals_sofar()
+    feature_engineering.calculate_points_sofar()
+    feature_engineering.calculate_form()
+    feature_engineering.create_cleaned_dataset()
+```
+> The pipeline used to automatically create a cleaned dataframe.
+
 ## Milestone 4: Uploading to a Database
 
 ## Milestone 5: Model Training

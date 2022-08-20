@@ -1,9 +1,8 @@
 import logging
 import pandas as pd
-from eda import get_main_df
 
-# main_df = get_main_df()
 main_df = pd.read_csv('project/main_df.csv')
+
 
 def calculate_goals_sofar():
     """Iterate through the dataframe and insert the goals scored/conceeded
@@ -18,8 +17,7 @@ def calculate_goals_sofar():
                 season_length = len(main_df.loc[
                         (main_df['league'] == league)
                         & (main_df['season'] == i)
-                        & ((main_df['home_team'] == team) | (main_df['away_team'] == team)), 'round'
-                        ])
+                        & ((main_df['home_team'] == team) | (main_df['away_team'] == team)), 'round'])
                 main_df.loc[
                         (main_df['league'] == league)
                         & (main_df['season'] == i)
@@ -81,8 +79,7 @@ def calculate_points_sofar():
                 season_length = len(main_df.loc[
                         (main_df['league'] == league)
                         & (main_df['season'] == i)
-                        & ((main_df['home_team'] == team) | (main_df['away_team'] == team)), 'round'
-                        ])
+                        & ((main_df['home_team'] == team) | (main_df['away_team'] == team)), 'round'])
                 main_df.loc[
                         (main_df['league'] == league)
                         & (main_df['season'] == i)
@@ -144,8 +141,7 @@ def calculate_form():
                 season_length = len(main_df.loc[
                         (main_df['league'] == league)
                         & (main_df['season'] == i)
-                        & ((main_df['home_team'] == team) | (main_df['away_team'] == team)), 'round'
-                        ])
+                        & ((main_df['home_team'] == team) | (main_df['away_team'] == team)), 'round'])
                 main_df.loc[
                         (main_df['league'] == league)
                         & (main_df['season'] == i)
@@ -190,4 +186,16 @@ def calculate_form():
 
     main_df.to_csv('project/main_df_form.csv')
 
-calculate_form()
+
+def create_cleaned_dataset():
+    goals_sofar = pd.read_csv('project/main_df_goals_sofar.csv')
+    points_sofar = pd.read_csv('project/main_df_points_sofar.csv')[['home_points_sofar', 'away_points_sofar']]
+    form = pd.read_csv('project/main_df_form.csv')[['home_form', 'away_form']]
+    goals_sofar[[
+        'home_team', 'away_team', 'season', 'round', 'league', 'date_new', 'elo_home',
+        'elo_away', 'home_goals', 'away_goals', 'outcome', 'home_scored_sofar',
+        'home_conceeded_sofar', 'away_scored_sofar', 'away_conceeded_sofar']]
+    cleaned_dataset = goals_sofar.join(points_sofar).join(form)  # Join on index
+    cleaned_dataset.to_csv('project/cleaned_dataset.csv')
+
+create_cleaned_dataset()
