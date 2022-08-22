@@ -1,6 +1,8 @@
 import logging
 import pandas as pd
 
+logging.basicConfig(level=logging.INFO)
+
 main_df = pd.read_csv('project/main_df.csv')
 
 
@@ -64,7 +66,7 @@ def calculate_goals_sofar():
                             & ((main_df['home_team'] == team) | (main_df['away_team'] == team)), 'away_conceeded_sofar'
                             ] = conceeded_list[j]
     
-    main_df.to_csv('project/main_df_goals_sofar.csv')
+    main_df.to_csv('project/dataframes/main_df_goals_sofar.csv')
     
 
 def calculate_points_sofar():
@@ -124,7 +126,7 @@ def calculate_points_sofar():
                             & ((main_df['home_team'] == team) | (main_df['away_team'] == team)), 'away_points_sofar'
                             ] = points_sofar_list[j]
 
-    main_df.to_csv('project/main_df_points_sofar.csv')
+    main_df.to_csv('project/dataframes/main_df_points_sofar.csv')
 
 
 def calculate_form():
@@ -191,11 +193,9 @@ def create_cleaned_dataset():
     goals_sofar = pd.read_csv('project/main_df_goals_sofar.csv')
     points_sofar = pd.read_csv('project/main_df_points_sofar.csv')[['home_points_sofar', 'away_points_sofar']]
     form = pd.read_csv('project/main_df_form.csv')[['home_form', 'away_form']]
-    goals_sofar[[
+    goals_sofar = goals_sofar[[
         'home_team', 'away_team', 'season', 'round', 'league', 'date_new', 'elo_home',
         'elo_away', 'home_goals', 'away_goals', 'outcome', 'home_scored_sofar',
         'home_conceeded_sofar', 'away_scored_sofar', 'away_conceeded_sofar']]
     cleaned_dataset = goals_sofar.join(points_sofar).join(form)  # Join on index
-    cleaned_dataset.to_csv('project/cleaned_dataset.csv')
-
-create_cleaned_dataset()
+    cleaned_dataset.to_csv('project/dataframes/cleaned_dataset.csv')
