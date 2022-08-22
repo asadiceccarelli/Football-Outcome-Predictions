@@ -56,7 +56,7 @@ The number of rounds in each season for each league is plotted as a function of 
   >
 </p>
 
-This leave 127978 rows of data from 12 leagues to analyse, and brings the number of unique home teams and away teams to 499 and 498 respectively.
+This leave 127416 rows of data from 12 leagues to analyse, and brings the number of unique home teams and away teams to 499 and 498 respectively.
 
 ### Analysis
 
@@ -104,8 +104,109 @@ Other data that could be looked at is the frequency of cards given by each refer
 - The features that will affect the yellow and red cards in a game will be the past number of cards the club has received and the referee of that game.
 - Stadium size will have a impact on both these labels - the larger the stadium the larger the liklelihood of a home win and less cards received. 
 
+More features will be added and inspected as the project progresses.
 
 ## Milestone 3: Feature Engineering
+
+### ELO
+
+The ELO is a points system which is given to each team in relation their previous results where the stronger a team is, the greater their ELO value. This value is calculated automatically by a predetermined algorithm after each game, but comparing the two teams score will almost certainly be a key feature in predicting the outcome of games. This data is loaded using ```pickle``` and merged into the main dataframe.
+```python 
+elo_dict = pickle.load(open('elo_dict.pkl', 'rb'))
+elo_df = pd.DataFrame.from_dict(elo_dict)
+elo_df = elo_df.transpose().reset_index().rename(columns={'index': 'Link'})
+```
+
+### Goals Scored So Far
+
+As stated in the hypothesis, the number of goals scored that season by a team prior to the fixture taking place is highly likely to influence the number of goals scored by said team and hence, the outcome of the match. Calculating this is relatively simply, but to create a singular function that will iterate over the entire ```main_df``` dataframe is a little more complex and requires several nested ```for``` loops.
+
+- Initially, one club was looked at in a dataframe from a singular season (```season_df```) in order to establish the innermost ```for``` loop.  The goals scored by this team so far was calculated by creating a list with an initial value of 0. The next value is calculated by summing the previous two values, and so the number of goals scored by the team after round 1 will correspond to the value of index 1 in the list.
+
+    ```python
+  for j in season_df['round'].unique():
+    match = season_df.loc[(season_df['round'] == j) & ((season_df['home_team'] == team) | (season_df['away_team'] == team))]
+    if match.home_team.item() == team:
+        scored_list.append(match.home_goals.item())
+        scored_list[j] += scored_list[j-1]
+    ```
+    > Calculating the total goals scored by one team in the competition.
+
+- These value are then inserted into ```main_df```.
+- This loop is iterated over all teams in the current season, before being iterated over all seasons in the league before finally over all leagues in the dataframe.
+
+### Goals Conceeded So Far
+
+Simlarly, the goals conceeded by a team in the games prior will be a good indicator of the number of goals a team is likely to conceede in an upcoming game. This is calculated almost identically to goals scored so far, simply accessed the away teams goals scored for goals conceeded by the home team, and vice versa. The two features are calculated in a single function, ```calculate_goals_sofar()```.
+
+```python
+if match.home_team.item() == team:
+  conceeded_list.append(match.away_goals.item())
+  conceeded_list[j] += conceeded_list[j-1]
+```
+> Calculating the goals conceeded by the home team.
+
+This function takes an incredibly long time to iterate through the 140k rows (upwards of 2 hours), but it only needs to run once. This dataframe with the two new features is saved as ```main_df_goals_sofar.csv```.
+
+### Goal Difference So Far
+
+### Points So Far
+
+Accumulated oints so far is calculated over the course of the season for each team. 3 points are awarded for a win, 1 for a draw and 0 for a loss.
+
+```python
+if match.outcome.item() == 1:
+    points_sofar_list.append(3)
+elif match.outcome.item() == 0:
+    points_sofar_list.append(1)
+else:
+    points_sofar_list.append(0)
+points_sofar_list[j] += points_sofar_list[j-1]
+```
+
+This information is saved as ```main_df_points_sofar.csv```.
+
+### Form
+
+Form is calculated over the past 5 games for each team and inserted into ```main_df``` under the columns, ```home_form``` or ```away_form```. This is given as a string object, e.g. ```'WWDLW'```.
+
+```python
+form = '-----'
+if match.outcome.item() == 1:
+  form = form[1:] + 'W'
+elif match.outcome.item() == 0:
+  form = form[1:] + 'D'
+else:
+  form = form[1:] + 'L'
+```
+
+This is saved as ```main_df_form.csv```.
+
+### Pipeline
+
+The function ```create_cleaned_dataset()``` will read the ```.csv``` files containing the features to be inspected and merge them into one dataframe which we can use to train a model. Using the ```.join``` method, we can merge these dataframes on index and save it as a new ```.csv``` file.
+
+```python
+cleaned_dataset = goals_sofar.join(points_sofar).join(form)
+cleaned_dataset.to_csv('project/cleaned_dataset.csv')
+```
+> The ```create_cleaned_dataset()``` function in ```feature_engineering.py```.
+
+A new file ```pipeline.py``` is created which can be run whenever new data is added to the datasets and create the clean dataframe ```cleaned_dataset.csv```.
+
+```python
+if __name__ == '__main__':
+    eda.concatenate_data()
+    eda.clean_data()
+    eda.create_outcome()
+    eda.main_df.to_csv('project/main_df.csv')
+    main_df = pd.read_csv('project/main_df.csv')
+    feature_engineering.calculate_goals_sofar()
+    feature_engineering.calculate_points_sofar()
+    feature_engineering.calculate_form()
+    feature_engineering.create_cleaned_dataset()
+```
+> The pipeline used to automatically create a cleaned dataframe.
 
 ## Milestone 4: Uploading to a Database
 
