@@ -13,7 +13,7 @@ def initial_data_pipeline():
     upload_initial_data()
 
 
-def upload_new_data(dataset_path, elo_path):
+def additional_data_pipeline(dataset_path, elo_path):
     """Perfoms EDA, calculates goals, points and form so far for
     home and away teams from new data and appends DataFrame to the
     pre-existing database in the cloud.
