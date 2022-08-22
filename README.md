@@ -148,8 +148,6 @@ if match.home_team.item() == team:
 
 This function takes an incredibly long time to iterate through the 140k rows (upwards of 2 hours), but it only needs to run once. This dataframe with the two new features is saved as ```main_df_goals_sofar.csv```.
 
-### Goal Difference So Far
-
 ### Points So Far
 
 Accumulated oints so far is calculated over the course of the season for each team. 3 points are awarded for a win, 1 for a draw and 0 for a loss.
@@ -209,6 +207,36 @@ if __name__ == '__main__':
 > The pipeline used to automatically create a cleaned dataframe.
 
 ## Milestone 4: Uploading to a Database
+
+### RDS
+
+Creating a relational database in the cloud means the data can be accessed by more than just a local machine.
+
+- Using Amazon's RDS, a new PostgreSQL database ```football-predictions``` is set up with public access.
+- A ```.env``` file is created to store the hostname and password securely and the engine is connected to with the ```rds_connect()``` function using the packages ```sqlalchemy``` and ```psycopg2```.
+
+```python
+def rds_connect():
+    DATABASE_TYPE = 'postgresql'
+    DBAPI = 'psycopg2'
+    HOST = os.environ['DB_HOST']
+    USER = 'postgres'
+    PASSWORD = os.environ['DB_PASSWORD']
+    DATABASE = 'football-predictions'
+    PORT = 5432
+    return create_engine(f"{DATABASE_TYPE}+{DBAPI}://{USER}:{PASSWORD}@{HOST}:{PORT}/{DATABASE}")
+```
+> This function creates a connection with the database in the cloud.
+
+- The cleaned dataframe is then uploaded with this connection.
+
+```python
+df_name = 'match-results'
+clean_dataset.to_sql(df_name, engine, if_exists='replace', index=False)
+```
+> Uploading ```cleaned_dataset.csv``` to the database.
+
+### Developing the Pipeline
 
 ## Milestone 5: Model Training
 
