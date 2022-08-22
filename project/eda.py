@@ -4,6 +4,8 @@ import pickle
 import pandas as pd
 import plotly.express as px
 
+logging.basicConfig(level=logging.INFO)
+
 
 def concatenate_data():
     """Combine all dataframes into one singular dataframe, main_df. Saved as a .csv file."""
