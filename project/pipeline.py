@@ -1,16 +1,23 @@
-import pandas as pd
+from eda import perform_eda
+from feature_engineering import create_cleaned_dataset
+from rds import upload_initial_data, upload_additional_data
 
-import eda
-import feature_engineering
+
+def initial_data_pipeline():
+    """Perfoms EDA, calculates goals, points and form so far for
+    home and away teams and uploads DataFrame to a database in 
+    the cloud.
+    """
+    main_df = perform_eda('Football-Dataset/*/*', 'Additional-Data/elo_dict.pkl')
+    create_cleaned_dataset(main_df).to_csv('project/dataframes/cleaned_dataset.csv')
+    upload_initial_data()
 
 
-if __name__ == '__main__':
-    eda.concatenate_data()
-    eda.clean_data()
-    eda.create_outcome()
-    eda.main_df.to_csv('project/dataframes/main_df.csv')
-    main_df = pd.read_csv('project/dataframes/main_df.csv')
-    feature_engineering.calculate_goals_sofar()
-    feature_engineering.calculate_points_sofar()
-    feature_engineering.calculate_form()
-    feature_engineering.create_cleaned_dataset()
+def additional_data_pipeline(dataset_path, elo_path):
+    """Perfoms EDA, calculates goals, points and form so far for
+    home and away teams from new data and appends DataFrame to the
+    pre-existing database in the cloud.
+    """
+    main_df_additional = perform_eda(dataset_path, elo_path, 'additional')
+    create_cleaned_dataset(main_df_additional).to_csv('project/dataframes/cleaned_dataset_additional.csv')
+    upload_additional_data()
