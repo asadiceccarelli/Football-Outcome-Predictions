@@ -18,6 +18,6 @@ def additional_data_pipeline(dataset_path, elo_path):
     home and away teams from new data and appends DataFrame to the
     pre-existing database in the cloud.
     """
-    main_df_additional = perform_eda(dataset_path, elo_path, 'additional')
+    main_df_additional = perform_eda(dataset_path, elo_path)
     create_cleaned_dataset(main_df_additional).to_csv('project/dataframes/cleaned_dataset_additional.csv')
     upload_additional_data()

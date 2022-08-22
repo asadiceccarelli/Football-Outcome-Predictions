@@ -1,9 +1,9 @@
 # Football Outcome Predictions
-My forth and final project for AiCore. Building a machine learning model to make predictions for upcoming games and set odds for betting companies to maximise profit.
+My forth and final project for AiCore. Building a machine learning model to make predictions for upcoming football matches.
 
 ## Milestone 1: Project Setup
 
-- A new conda environment has been set up with the name ```football-env``` from which the package requirements needed for the projects can be created in a ```requirements.txt``` file. Git branches will be used throughout the project following the Gitflow branching model.
+- A new conda environment is set up with the name ```football-env``` so that the package requirements needed for the project can be written to ```requirements.txt``` with ease. Git branches will be used throughout the project following the Gitflow branching model.
 
 <p align='center'>
   <img 
@@ -16,7 +16,7 @@ My forth and final project for AiCore. Building a machine learning model to make
 
 ## Milestone 2: Data Cleaning and EDA
 
-Exploratory Data Analysis (EDA) is the first step that must be undertaken before creating any form of model. It involves validating that the data provided is clean and free of missing values so as not to cause problems when working with such large quanities of data later down the line. By exploring this data, a rough understanding of the underlying trends between the variables can begin to be established.
+Exploratory Data Analysis (EDA) is the first step that must be undertaken before creating any form of model. It involves validating that the data provided is clean and free of missing values so as not to cause problems when working with this large quanity of data later. By exploring this data, a rough understanding of the underlying trends between the variables can begin to be established.
 
 ### Data Cleaning
 
@@ -47,7 +47,7 @@ df['capacity'] = df['capacity'].apply(lambda x: int(x.replace(',', '')) if type(
 ```
 > Cleaning the ```referee``` and ```capacity``` column using ```lambda``` functions and the ```apply()``` method.
 
-The number of rounds in each season for each league is plotted as a function of time. While this figure is a little convoluted, it is useful to observe potential gaps in the dataset. It is to be expected that each league plays 30-46 rounds, so it is evident the Championship is a problmeatic dataset. After inspecting, it can be seen that there is incomplete data for the years 1990-1994 and 1998 (which will be dropped), and missing data between 2006 and 2020. The drop in rounds in the 2. Bundesliga in 1992 may initially be understood as incomplete data, however after futher research it is apparent that this is due to the league being briefly split in two after teams from East Germany joined the league. The majority of the data for the Eerste Divisie and Segunda Liga is missing as each season only contains information on the first round. As a result of this, little usefeul information can be able to be extracted so data from these two leagues will be dropped. The final dip in total rounds played can be explained by the data being collected while the 2021 campaign was still in progression.
+The number of rounds in each season for each league is plotted as a function of time. While this figure is a little convoluted, it is useful to observe potential gaps in the dataset.
 
 <p align='center'>
   <img 
@@ -55,6 +55,8 @@ The number of rounds in each season for each league is plotted as a function of 
     src='README-images/rounds.png'
   >
 </p>
+
+It is to be expected that each league plays 30-46 rounds, so it is evident the Championship is a problematic dataset. After inspecting, it can be seen that there is incomplete data for the years 1990-1994 and 1998 (which will be dropped), and missing data between 2006 and 2020. The drop in rounds in the 2. Bundesliga in 1992 may initially be understood as incomplete data, however after futher research it is apparent that this is due to the league being briefly split in two after teams from East Germany joined the league. The majority of the data for the Eerste Divisie and Segunda Liga is missing as each season only contains information on the first round. As a result of this, little usefeul information can be able to be extracted so data from these two leagues will be dropped. The final two dips in total rounds played can be explained by a reduction in the number of matches during the COVID-19 pandemic and the data being collected while the 2021 campaign was still in progression.
 
 This leave 127416 rows of data from 12 leagues to analyse, and brings the number of unique home teams and away teams to 499 and 498 respectively.
 
@@ -69,7 +71,7 @@ Combining the home and away goals, a bar chart can be produced to show the avera
   >
 </p>
 
-By creating a new column in the dataframe and assigning each home win, draw and away win a score of 1, 0 and 1 respectively, a line graph can be plotted to see how the average outcome of all leagues has changed over the years. In theory, this value would remain at 0 indicating the same number of home and away wins, however in reality we that the earlier years had a heavy bias towards home wins. What is interesting is that over the years, this bias is reducing leading to a much more equal probability of the away team winning especially in recent years.
+By creating a new column in the dataframe and assigning each home win, draw and away win a score of 1, 0 and 1 respectively, a line graph can be plotted to see how the average outcome of all leagues has changed over the years. In theory, this value would remain at 0 indicating an equal number of home and away wins, however in reality it is shown that earlier years have a heavy bias towards home wins. What is interesting is that over the years, this bias is reducing leading to a much more equal probability of the away team winning especially in recent years.
 
 <p align='center'>
   <img 
@@ -78,7 +80,7 @@ By creating a new column in the dataframe and assigning each home win, draw and 
   >
 </p>
 
-In order to investigate the effect that the stadium size has on the outcome of a game, a scatter graph has been plotted with an ordinary least squared regression trendline. The positive gradient of this line demonstrates that the home team is more likely to win when their stadium is larger, however this may partly be a result of stronger teams having larger capacity stadiums.
+In order to investigate the effect that the stadium size has on the outcome of a game, a scatter graph has been plotted with an ordinary least squared (OLS) regression trendline. The positive gradient of this line demonstrates that the home team is more likely to win when their stadium is larger, however this may partly be a result of stronger teams having larger capacity stadiums.
 
 <p align='center'>
   <img 
@@ -110,7 +112,7 @@ More features will be added and inspected as the project progresses.
 
 ### ELO
 
-The ELO is a points system which is given to each team in relation their previous results where the stronger a team is, the greater their ELO value. This value is calculated automatically by a predetermined algorithm after each game, but comparing the two teams score will almost certainly be a key feature in predicting the outcome of games. This data is loaded using ```pickle``` and merged into the main dataframe.
+The ELO is a points system which is given to each team in relation their previous results where the stronger a team is, the greater their ELO value. This value is calculated by a predetermined third party algorithm after each game, but comparing the two teams score will almost certainly be a key feature in predicting the outcome of games. This data is loaded using ```pickle``` and merged into the main dataframe.
 ```python 
 elo_dict = pickle.load(open('elo_dict.pkl', 'rb'))
 elo_df = pd.DataFrame.from_dict(elo_dict)
@@ -180,32 +182,6 @@ else:
 
 This is saved as ```main_df_form.csv```.
 
-### Pipeline
-
-The function ```create_cleaned_dataset()``` will read the ```.csv``` files containing the features to be inspected and merge them into one dataframe which we can use to train a model. Using the ```.join``` method, we can merge these dataframes on index and save it as a new ```.csv``` file.
-
-```python
-cleaned_dataset = goals_sofar.join(points_sofar).join(form)
-cleaned_dataset.to_csv('project/cleaned_dataset.csv')
-```
-> The ```create_cleaned_dataset()``` function in ```feature_engineering.py```.
-
-A new file ```pipeline.py``` is created which can be run whenever new data is added to the datasets and create the clean dataframe ```cleaned_dataset.csv```.
-
-```python
-if __name__ == '__main__':
-    eda.concatenate_data()
-    eda.clean_data()
-    eda.create_outcome()
-    eda.main_df.to_csv('project/main_df.csv')
-    main_df = pd.read_csv('project/main_df.csv')
-    feature_engineering.calculate_goals_sofar()
-    feature_engineering.calculate_points_sofar()
-    feature_engineering.calculate_form()
-    feature_engineering.create_cleaned_dataset()
-```
-> The pipeline used to automatically create a cleaned dataframe.
-
 ## Milestone 4: Uploading to a Database
 
 ### RDS
@@ -228,15 +204,36 @@ def rds_connect():
 ```
 > This function creates a connection with the database in the cloud.
 
-- The cleaned dataframe is then uploaded with this connection.
+- The cleaned dataframe is then uploaded to the AWS database with this connection.
 
 ```python
-df_name = 'match-results'
-clean_dataset.to_sql(df_name, engine, if_exists='replace', index=False)
+def upload_initial_data():
+    engine = rds_connect()
+    clean_dataset = pd.read_csv('project/dataframes/cleaned_dataset.csv', index_col=0)
+    df_name = 'match-results'
+    clean_dataset.to_sql(df_name, engine, if_exists='replace', index=False)
 ```
-> Uploading ```cleaned_dataset.csv``` to the database.
+> The ```upload_initial_data()``` function.
 
 ### Developing the Pipeline
+
+The function ```create_cleaned_dataset()``` will read the ```.csv``` files containing the features to be inspected and merge them into one dataframe which we can use to train a model. Using the ```.join``` method, we can merge these dataframes on index and save it as a new ```.csv``` file.
+
+```python
+cleaned_dataset = goals_sofar.join(points_sofar).join(form)
+cleaned_dataset.to_csv('project/dataframes/cleaned_dataset.csv')
+```
+> The ```create_cleaned_dataset()``` function in ```feature_engineering.py```.
+
+A new file ```pipeline.py``` is created in which the function ```additional_data_pipeline()``` can be run whenever new data is added. This takes in the path to additional match and ELO data, merges them with ```match_info.csv``` and ```team_info.csv``` with a left join before calculating the features to be used in the training of the model. Finally, it appends this DataFrame to the PostgreSQL table in the cloud.
+
+```python
+def additional_data_pipeline(dataset_path, elo_path):
+  main_df_additional = perform_eda(dataset_path, elo_path)
+  create_cleaned_dataset(main_df_additional).to_csv('project/dataframes/cleaned_dataset_additional.csv')
+  upload_additional_data()
+```
+> The pipeline used to automatically add new data to the AWS database in the cloud.
 
 ## Milestone 5: Model Training
 
