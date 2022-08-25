@@ -246,17 +246,74 @@ As this is a multiclass classification problem, the output of the model is inter
 To estimate how well a model performs on unseen data, the initial dataset into two: one for training and the other for testing. This testing set is used for evaluating whether a model meets necessary requirements and estimating real world performance. A test size of 0.2 will be used to represent the proportion of the dataset to be included in the test split, giving 24117 testing values which is more than enough. ```random_state``` will be set to an artbitrary integer for reproducible results.
 
 ```python
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-log_reg = LogisticRegression(multi_class='multinomial', solver='newton-cg')
-log_reg.fit(X_train, y_train)
-y_pred = log_reg.predict(X_test)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=13)
+model = LogisticRegression(multi_class='multinomial', solver='newton-cg')
+model.fit(X_train, y_train)
+y_pred = model.predict(X_test)
 print(accuracy_score(y_test, y_pred))
 ```
 > Calculating the accuracy score of the baseline model.
 
-The model is then saved with ```joblib.dump(log_reg, 'model/baseline.joblib')``` which is an efficient way of storing large numpy arrays internally. This gives a baseline score of 0.48903263258282537.
+The model is then saved with ```joblib.dump(model, 'model/baseline.joblib')``` which is an efficient way of storing large numpy arrays internally. This gives a baseline score of 0.4939669113073765.
 
 ### Feature Selection
+
+To train an optimal model, only the essential feature should be used. Too few features will mean the model does not have enough information to be effectively trained, and too many leads to the model capturing unimportant patterns as it learns from noise. Feature Selection is the method of reducing the input variable to your model by using only relevant data and getting rid of noise in data. As we have numerical input and categorical output information either the ANOVA correlation coefficient (linear) or the Kendall’s rank coefficient (nonlinear) model will be used.
+
+Regression coefficients describe the size and direction of the relationship between a predictor and the response variable. The large this magnitude, the greater the significance of this feature on the outcome term. It does not, however, dictate whether a term is statistically significant as variation in the response data is not taken into account.
+
+```python
+model.classes_  # array([-1,  0,  1])
+home_win_coefficients = model.coef_[0]
+draw_coefficients = model.coef_[1]
+away_win_coefficients = model.coef_[2]
+```
+> Calculating the feature coefficients of each outcome.
+
+<p align='center'>
+  <img 
+    width='400'
+    src='README-images/home_win_coefficients.png'
+  >
+</p>
+
+<p align='center'>
+  <img 
+    width='400'
+    src='README-images/draw_coefficients.png'
+  >
+</p>
+
+<p align='center'>
+  <img 
+    width='400'
+    src='README-images/away_win_coefficients.png'
+  >
+</p>
+
+The key takeaways from these graphs are:
+- For home/away wins, the ELO rating of each team has the highest significance, and points accumulated so far has the lowest significance.
+- For draws, the round coefficient is the most significant - it is large and positive revealing that as the season goes on, draws between teams become more likely.
+
+The Classification and Regression Tree (CART) algorithm is used by fitting a ```DecisionTreeRegressor``` which can calculate the importance scores of each feature.
+
+<p align='center'>
+  <img 
+    width='400'
+    src='README-images/importance_coefficients.png'
+  >
+</p>
+
+This plot explains that all the features currently in the ```cleaned_dataset``` are important, with round and team form the least important features, albeit not by much.
+
+<p align='center'>
+  <img 
+    width='400'
+    src='README-images/feature-removal.png'
+  >
+</p>
+
+By plotting the accuracy score of various combinations of features removed from the ```cleaned_dataset``` DataFrame, the significance of each combination can be understood. Interestingly, removing just the points accumulated by the home and away team features produces the most accurate model, with an accuracy of 0.4940083758344736. However, this is only a 0.0000839% increase in accuracy.
 
 ### Training multiple methods
 
