@@ -3,7 +3,7 @@ My forth and final project for AiCore. Building a machine learning model to make
 
 ## Milestone 1: Project Setup
 
-- A new conda environment is set up with the name ```football-env``` so that the package requirements needed for the project can be written to ```requirements.txt``` with ease. Git branches will be used throughout the project following the Gitflow branching model.
+- A new conda environment ```football-env``` is set up so the package requirements needed for the project can be written to ```requirements.txt``` in order for other uses to downloade these with ease. Git branches will be used throughout the project following the Gitflow branching model.
 
 <p align='center'>
   <img 
@@ -123,7 +123,7 @@ elo_df = elo_df.transpose().reset_index().rename(columns={'index': 'Link'})
 
 As stated in the hypothesis, the number of goals scored that season by a team prior to the fixture taking place is highly likely to influence the number of goals scored by said team and hence, the outcome of the match. Calculating this is relatively simply, but to create a singular function that will iterate over the entire ```main_df``` dataframe is a little more complex and requires several nested ```for``` loops.
 
-- Initially, one club was looked at in a dataframe from a singular season (```season_df```) in order to establish the innermost ```for``` loop.  The goals scored by this team so far was calculated by creating a list with an initial value of 0. The next value is calculated by summing the previous two values, and so the number of goals scored by the team after round 1 will correspond to the value of index 1 in the list.
+- Initially, one club was looked at in a dataframe from a singular season (```season_df```) in order to establish the innermost ```for``` loop.  The goals scored by this team so far was calculated by creating a list with an initial value of 0. The next value is calculated by summing the previous two values, and so the number of goals scored by the team before their fixture will correspond to the previous indexed value in the list. It is important that the goals scored during that round are not included in this value, as when training a model there cannot be information from the 'future' as this will not be availbile when testing on games that have not yet taken place, so every team will have a value of 0 goals score so far in the first round.
 
     ```python
   for j in season_df['round'].unique():
@@ -152,7 +152,7 @@ This function takes an incredibly long time to iterate through the 140k rows (up
 
 ### Points So Far
 
-Accumulated oints so far is calculated over the course of the season for each team. 3 points are awarded for a win, 1 for a draw and 0 for a loss.
+Accumulated points so far is calculated over the course of the season for each team. 3 points are awarded for a win, 1 for a draw and 0 for a loss.
 
 ```python
 if match.outcome.item() == 1:
@@ -163,22 +163,24 @@ else:
     points_sofar_list.append(0)
 points_sofar_list[j] += points_sofar_list[j-1]
 ```
+> Calculating the points so far for the home team.
 
 This information is saved as ```main_df_points_sofar.csv```.
 
 ### Form
 
-Form is calculated over the past 5 games for each team and inserted into ```main_df``` under the columns, ```home_form``` or ```away_form```. This is given as a string object, e.g. ```'WWDLW'```.
+Form is calculated over the past 5 games for each team and inserted into ```main_df``` under the columns, ```home_form``` or ```away_form```. This is given as a numerical points value, with 3 points for a win, 1 for a draw and 0 for a loss..
 
 ```python
-form = '-----'
+form = [0, 0, 0, 0, 0]
 if match.outcome.item() == 1:
-  form = form[1:] + 'W'
+  form = form[1:] + [3]
 elif match.outcome.item() == 0:
-  form = form[1:] + 'D'
+  form = form[1:] + [1]
 else:
-  form = form[1:] + 'L'
+  form = form[1:] + [0]
 ```
+> Calculating the form for the home team.
 
 This is saved as ```main_df_form.csv```.
 
@@ -243,7 +245,7 @@ First, a simple model is trained to obtain an initial base score which can be im
 
 As this is a multiclass classification problem, the output of the model is interpreted as confidence that the output belongs to a certain class (-1, 0 or 1). Logistic regression will be used as the model for this baseline score, which is a simple linear model for classification.
 
-To estimate how well a model performs on unseen data, the initial dataset into two: one for training and the other for testing. This testing set is used for evaluating whether a model meets necessary requirements and estimating real world performance. A test size of 0.2 will be used to represent the proportion of the dataset to be included in the test split, giving 24117 testing values which is more than enough. ```random_state``` will be set to an artbitrary integer for reproducible results.
+To estimate how well a model performs on unseen data, the initial dataset into two: one for training and the other for testing. This testing set is used for evaluating whether a model meets necessary requirements and estimating real world performance. A test size of 0.2 will be used to represent the proportion of the dataset to be included in the test split, giving 24117 testing values which is more than enough. The ```random_state``` argument will be set to an artbitrary integer for reproducible results.
 
 ```python
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=13)
@@ -259,6 +261,8 @@ The model is then saved with ```joblib.dump(model, 'model/baseline.joblib')``` w
 ### Feature Selection
 
 To train an optimal model, only the essential feature should be used. Too few features will mean the model does not have enough information to be effectively trained, and too many leads to the model capturing unimportant patterns as it learns from noise. Feature Selection is the method of reducing the input variable to your model by using only relevant data and getting rid of noise in data. As we have numerical input and categorical output information either the ANOVA correlation coefficient (linear) or the Kendall’s rank coefficient (nonlinear) model will be used.
+
+### Regression Coefficients
 
 Regression coefficients describe the size and direction of the relationship between a predictor and the response variable. The large this magnitude, the greater the significance of this feature on the outcome term. It does not, however, dictate whether a term is statistically significant as variation in the response data is not taken into account.
 
@@ -295,6 +299,8 @@ The key takeaways from these graphs are:
 - For home/away wins, the ELO rating of each team has the highest significance, and points accumulated so far has the lowest significance.
 - For draws, the round coefficient is the most significant - it is large and positive revealing that as the season goes on, draws between teams become more likely.
 
+### Importance Scores
+
 The Classification and Regression Tree (CART) algorithm is used by fitting a ```DecisionTreeRegressor``` which can calculate the importance scores of each feature.
 
 <p align='center'>
@@ -313,7 +319,7 @@ This plot explains that all the features currently in the ```cleaned_dataset``` 
   >
 </p>
 
-By plotting the accuracy score of various combinations of features removed from the ```cleaned_dataset``` DataFrame, the significance of each combination can be understood. Interestingly, removing just the points accumulated by the home and away team features produces the most accurate model, with an accuracy of 0.4940083758344736. However, this is only a 0.0000839% increase in accuracy.
+By plotting the accuracy score of various combinations of features removed from the ```cleaned_dataset``` DataFrame, the significance of each combination can be understood. Interestingly, removing just the points accumulated by the home and away team features produces the most accurate model, with an accuracy of 0.4940083758344736. However, this is only a 0.0000839% increase in accuracy, and so all features will remain in the design matrix for now.
 
 ### Training multiple methods
 
