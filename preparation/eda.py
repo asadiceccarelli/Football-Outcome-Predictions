@@ -182,7 +182,7 @@ def perform_eda(dataset_path, pickle_path):
 
 
 if __name__ == '__main__':
-    perform_eda('Football-Dataset/*/*', 'Additional-Data/elo_dict.pkl').to_csv('project/dataframes/main_df.csv')
+    perform_eda('Football-Dataset/*/*', 'Additional-Data/elo_dict.pkl').to_csv('preparation/dataframes/main_df.csv')
     # # plot_rounds(main_df)
     # plot_outcome(main_df)
     # plot_goals(main_df)
