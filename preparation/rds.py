@@ -28,7 +28,7 @@ def upload_initial_data():
     logging.info('Connecting to RDS...')
     engine = rds_connect()
     logging.info('Uploading initial dataset to RDS...')
-    clean_dataset = pd.read_csv('project/dataframes/cleaned_dataset.csv', index_col=0)
+    clean_dataset = pd.read_csv('preparation/dataframes/cleaned_dataset.csv', index_col=0)
     df_name = 'match-results'
     clean_dataset.to_sql(df_name, engine, if_exists='replace', index=False)
 

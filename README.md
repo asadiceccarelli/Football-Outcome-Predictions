@@ -241,6 +241,8 @@ def additional_data_pipeline(dataset_path, elo_path):
 
 First, a simple model is trained to obtain an initial base score which can be improved upon later. The design matrix ```X``` contains samples represented as rows and samples represented as rows, making it of size (120581, 10). The target values ```y``` represent the discrete set of values for classification, in this case a 1D array of length 120581 with values 1, 0 or -1.
 
+As this is a multiclass classification problem, the output of the model is interpreted as confidence that the output belongs to a certain class (-1, 0 or 1). Logistic regression will be used as the model for this baseline score, which is a simple linear model for classification.
+
 To estimate how well a model performs on unseen data, the initial dataset into two: one for training and the other for testing. This testing set is used for evaluating whether a model meets necessary requirements and estimating real world performance. A test size of 0.2 will be used to represent the proportion of the dataset to be included in the test split, giving 24117 testing values which is more than enough. ```random_state``` will be set to an artbitrary integer for reproducible results.
 
 ```python
@@ -252,7 +254,7 @@ print(accuracy_score(y_test, y_pred))
 ```
 > Calculating the accuracy score of the baseline model.
 
-This gives a baseline score of 0.48903263258282537.
+The model is then saved with ```joblib.dump(log_reg, 'model/baseline.joblib')``` which is an efficient way of storing large numpy arrays internally. This gives a baseline score of 0.48903263258282537.
 
 ### Feature Selection
 
