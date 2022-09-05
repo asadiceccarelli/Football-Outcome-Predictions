@@ -62,6 +62,7 @@ def clean_data(df):
     df.drop(df[(df.league == 'ligue_1') & (df.season == 1990)].index, inplace=True)
     df['referee'] = df.referee.apply(lambda x: x.split('\r\n')[1][9:] if type(x)==str else x)
     df['capacity'] = df.capacity.apply(lambda x: int(x.replace(',', '')) if type(x)==str else x)
+    df['date_new'] = pd.to_datetime(df['date_new'])
     return df
 
 

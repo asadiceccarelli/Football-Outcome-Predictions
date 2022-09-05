@@ -275,10 +275,8 @@ away_win_coefficients = model.coef_[2]
 > Calculating the feature coefficients of each outcome.
 
 <p align='center'>
-  <img 
-    width='400'
-    src='README-images/home_win_coefficients.png'
-  >
+  <img src='README-images/home_win_coefficients.png' width='400'>
+  <img src='README-images/away_win_coefficients.png' width='400'>
 </p>
 
 <p align='center'>
@@ -288,12 +286,6 @@ away_win_coefficients = model.coef_[2]
   >
 </p>
 
-<p align='center'>
-  <img 
-    width='400'
-    src='README-images/away_win_coefficients.png'
-  >
-</p>
 
 The key takeaways from these graphs are:
 - For home/away wins, the ELO rating of each team has the highest significance, and points accumulated so far has the lowest significance.
@@ -322,6 +314,8 @@ This plot explains that all the features currently in the ```cleaned_dataset``` 
 By plotting the accuracy score of various combinations of features removed from the ```cleaned_dataset``` DataFrame, the significance of each combination can be understood. Interestingly, removing just the points accumulated by the home and away team features produces the most accurate model, with an accuracy of 0.4940083758344736. However, this is only a 0.0000839% increase in accuracy, and so all features will remain in the design matrix for now.
 
 ### Training multiple methods
+
+The supervised models tested used the K-Nearest Neighbour algorithm, Decision Classification Trees and Support Vector Machines (SVMs).
 
 ### Picking the best method
 
