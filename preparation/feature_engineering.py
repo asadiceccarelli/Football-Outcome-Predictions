@@ -1,83 +1,44 @@
 import logging
-import pandas as pd
 
 logging.basicConfig(level=logging.INFO)
 
 
-def calculate_goals_sofar(df):
-    """Iterate through the dataframe and insert the goals scored/conceeded
-    so far over the course of the season into the main dataframe. Saved as a .csv file.
+def calculate_average_goals(df):
+    """Iterate through the dataframe and insert the average goals scored/conceeded
+    over the club's past 10 matches into the main dataframe.
     Args:
         df (DataFrame): DataFrame to be calculated from.
     Returns:
-        df (DataFrame): DataFrame with goals_sofar columns for home and away.
+        df (DataFrame): DataFrame with average_recent_scored/conceeded columns for home and away.
     """
-    for league in df.league.unique():
-        all_seasons_df = df[df.league == league]
-        for i in all_seasons_df.season.unique():
-            logging.info(f'Iterating through {league} {i}...')
-            for team in df[(df.season == i) & (df.league == league)].home_team.unique():
-                season_length = len(df.loc[
-                        (df['league'] == league)
-                        & (df['season'] == i)
-                        & ((df['home_team'] == team) | (df['away_team'] == team)), 'round'
-                        ])
-                df.loc[
-                        (df['league'] == league)
-                        & (df['season'] == i)
-                        & ((df['home_team'] == team) | (df['away_team'] == team)), 'round'
-                        ] = [x for x in range(1, season_length + 1)]  # Renumbers rounds in case of double gameweeks. Possibly move to data-cleaning
-
-                season_df = df[(df['season'] == i) & (df.league == league) & ((df.home_team == team) | (df.away_team == team))]
-                scored_list = [0]
-                conceeded_list = [0]
-                for j in season_df['round'].unique():
-                    match = season_df.loc[(season_df['round'] == j) & ((season_df['home_team'] == team) | (season_df['away_team'] == team))]
-                    if match.home_team.item() == team:
-                        scored_list.append(match.home_goals.item())
-                        conceeded_list.append(match.away_goals.item())
-                        scored_list[j] += scored_list[j-1]
-                        conceeded_list[j] += conceeded_list[j-1]
-                        df.loc[
-                            (df['league'] == league)
-                            & (df['season'] == i)
-                            & (df['round'] == j)
-                            & ((df['home_team'] == team) | (df['away_team'] == team)), 'home_scored_sofar'
-                            ] = scored_list[j-1]
-                        df.loc[
-                            (df['league'] == league)
-                            & (df['season'] == i)
-                            & (df['round'] == j)
-                            & ((df['home_team'] == team) | (df['away_team'] == team)), 'home_conceeded_sofar'
-                            ] = conceeded_list[j-1]
-                    else:
-                        scored_list.append(match.away_goals.item())
-                        conceeded_list.append(match.home_goals.item())
-                        scored_list[j] += scored_list[j-1]
-                        conceeded_list[j] += conceeded_list[j-1]
-                        df.loc[
-                            (df['league'] == league)
-                            & (df['season'] == i)
-                            & (df['round'] == j)
-                            & ((df['home_team'] == team) | (df['away_team'] == team)), 'away_scored_sofar'
-                            ] = scored_list[j-1]
-                        df.loc[
-                            (df['league'] == league)
-                            & (df['season'] == i)
-                            & (df['round'] == j)
-                            & ((df['home_team'] == team) | (df['away_team'] == team)), 'away_conceeded_sofar'
-                            ] = conceeded_list[j-1]
+    df.sort_values('date_new')
+    for team in df.home_team.unique():
+        logging.info(f"Calculating {team}'s recent goals...")
+        goals_scored = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        goals_conceeded = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        for index, match in df.iterrows():
+            if match.home_team == team:
+                df.loc[index, 'average_recent_home_scored'] = sum(goals_scored) / len(goals_scored)
+                df.loc[index, 'average_recent_home_conceeded'] = sum(goals_conceeded) / len(goals_conceeded)
+                goals_scored = goals_scored[1:] + [match.home_goals]
+                goals_conceeded = goals_conceeded[1:] + [match.away_goals]
+            elif match.away_team == team:
+                df.loc[index, 'average_recent_away_scored'] = sum(goals_scored) / len(goals_scored)
+                df.loc[index, 'average_recent_away_conceeded'] = sum(goals_conceeded) / len(goals_conceeded)
+                goals_scored = goals_scored[1:] + [match.away_goals]
+                goals_conceeded = goals_conceeded[1:] + [match.home_goals]
     return df
     
 
 def calculate_points_sofar(df):
     """Iterate through dataframe and create new column with the points
-    accumulated over the season so far. Saved as a .csv file.
+    accumulated over the season so far.
     Args:
         df (DataFrame): DataFrame to be calculated from.
     Returns:
         df (DataFrame): DataFrame with points_sofar columns for home and away.
     """
+    df.sort_values('date_new')
     for league in df.league.unique():
         all_seasons_df = df[df.league == league]
         for i in all_seasons_df.season.unique():
@@ -136,64 +97,32 @@ def calculate_points_sofar(df):
 
 def calculate_form(df):
     """Iterate through dataframe and create new column with form over the past
-    5 games of the season as a string object, e.g. 'WWDLD'. Saved as a .csv
-    file.
+    5 games by calculating the sum of the last 5 outcomes.
     Args:
         df (DataFrame): DataFrame to be calculated from.
     Returns:
         df (DataFrame): DataFrame with form columns for home and away.
     """
-    for league in df.league.unique():
-        all_seasons_df = df[df.league == league]
-        for i in all_seasons_df.season.unique():
-            logging.info(f'Iterating through {league} {i}...')
-            for team in df[(df.season == i) & (df.league == league)].home_team.unique():
-                season_length = len(df.loc[
-                        (df['league'] == league)
-                        & (df['season'] == i)
-                        & ((df['home_team'] == team) | (df['away_team'] == team)), 'round'
-                        ])
-                df.loc[
-                        (df['league'] == league)
-                        & (df['season'] == i)
-                        & ((df['home_team'] == team) | (df['away_team'] == team)), 'round'
-                        ] = [x for x in range(1, season_length + 1)]  # Renumbers rounds in case of double gameweeks. Possibly move to data-cleaning
-
-                season_df = df[
-                    (df['season'] == i)
-                    & (df.league == league)
-                    & ((df.home_team == team) | (df.away_team == team))]
-                form = [0, 0, 0, 0, 0]
-                for j in season_df['round'].unique():
-                    match = season_df.loc[
-                        (season_df['round'] == j)
-                        & ((season_df['home_team'] == team) | (season_df['away_team'] == team))]
-                    if match.home_team.item() == team:
-                        df.loc[
-                            (df['league'] == league)
-                            & (df['season'] == i)
-                            & (df['round'] == j)
-                            & ((df['home_team'] == team) | (df['away_team'] == team)), 'home_form'
-                            ] = sum(form)
-                        if match.outcome.item() == 1:
-                            form = form[1:] + [3]
-                        elif match.outcome.item() == 0:
-                            form = form[1:] + [1]
-                        else:
-                            form = form[1:] + [0]
-                    else:
-                        df.loc[
-                            (df['league'] == league)
-                            & (df['season'] == i)
-                            & (df['round'] == j)
-                            & ((df['home_team'] == team) | (df['away_team'] == team)), 'away_form'
-                            ] = sum(form)
-                        if match.outcome.item() == 1:
-                            form = form[1:] + [0]
-                        elif match.outcome.item() == 0:
-                            form = form[1:] + [1]
-                        else:
-                            form = form[1:] + [3]
+    for team in df.home_team.unique():
+        logging.info(f"Calculating {team}'s form...")
+        form = [0, 0, 0, 0, 0]
+        for index, match in df.iterrows():
+            if match.home_team == team:
+                df.loc[index, 'home_form'] = sum(form)
+                if match.outcome == 1:
+                    form = form[1:] + [1]
+                elif match.outcome == -1:
+                    form = form[1:] + [-1]
+                else:
+                    form = form[1:] + [0]
+            elif match.away_team == team:
+                df.loc[index, 'away_form'] = sum(form)
+                if match.outcome == 1:
+                    form = form[1:] + [-1]
+                elif match.outcome == -1:
+                    form = form[1:] + [1]
+                else:
+                    form = form[1:] + [0]
     return df
 
 
@@ -205,13 +134,23 @@ def create_cleaned_dataset(df):
         cleaned_dataset (DataFrame): DataFrame with only relevant columns
             reading for modelling.
     """
-    goals_sofar = calculate_goals_sofar(df)
+    goals_sofar = calculate_average_goals(df)
     points_sofar = calculate_points_sofar(df)[['home_points_sofar', 'away_points_sofar']]
     form = calculate_form(df)[['home_form', 'away_form']]
     goals_sofar = goals_sofar[[
-        'home_team', 'away_team', 'season', 'round', 'league', 'elo_home',
-        'elo_away', 'home_goals', 'away_goals', 'outcome', 'home_scored_sofar',
-        'home_conceeded_sofar', 'away_scored_sofar', 'away_conceeded_sofar'
+        'round', 'elo_home', 'elo_away', 'outcome', 'average_recent_home_scored',
+        'average_recent_home_conceeded',  'average_recent_away_scored',  'average_recent_away_conceeded'
         ]]
     cleaned_dataset = goals_sofar.join(points_sofar).join(form)  # Join on index
     return cleaned_dataset
+
+
+import pandas as pd
+goals_sofar = pd.read_csv('preparation/dataframes/main_df_average_goals.csv')
+points_sofar = pd.read_csv('preparation/dataframes/main_df_points_sofar.csv')[['home_points_sofar', 'away_points_sofar']]
+form = pd.read_csv('preparation/dataframes/main_df_form.csv')[['home_form', 'away_form']]
+goals_sofar = goals_sofar[[
+    'elo_home', 'elo_away', 'outcome', 'average_recent_home_scored',
+    'average_recent_home_conceeded',  'average_recent_away_scored',  'average_recent_away_conceeded'
+    ]]
+cleaned_dataset = goals_sofar.join(points_sofar).join(form).to_csv('preparation/dataframes/cleaned_dataset.csv')  # Join on index
