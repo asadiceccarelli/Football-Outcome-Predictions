@@ -1,9 +1,9 @@
 # Football Outcome Predictions
-My forth and final project for AiCore. Building a machine learning model to make predictions for upcoming games and set odds for betting companies to maximise profit.
+My forth and final project for AiCore. Building a machine learning model to make predictions for upcoming football matches.
 
 ## Milestone 1: Project Setup
 
-- A new conda environment has been set up with the name ```football-env``` from which the package requirements needed for the projects can be created in a ```requirements.txt``` file. Git branches will be used throughout the project following the Gitflow branching model.
+- A new conda environment ```football-env``` is set up so the package requirements needed for the project can be written to ```requirements.txt``` in order for other uses to downloade these with ease. Git branches will be used throughout the project following the Gitflow branching model.
 
 <p align='center'>
   <img 
@@ -16,7 +16,7 @@ My forth and final project for AiCore. Building a machine learning model to make
 
 ## Milestone 2: Data Cleaning and EDA
 
-Exploratory Data Analysis (EDA) is the first step that must be undertaken before creating any form of model. It involves validating that the data provided is clean and free of missing values so as not to cause problems when working with such large quanities of data later down the line. By exploring this data, a rough understanding of the underlying trends between the variables can begin to be established.
+Exploratory Data Analysis (EDA) is the first step that must be undertaken before creating any form of model. It involves validating that the data provided is clean and free of missing values so as not to cause problems when working with this large quanity of data later. By exploring this data, a rough understanding of the underlying trends between the variables can begin to be established.
 
 ### Data Cleaning
 
@@ -47,7 +47,7 @@ df['capacity'] = df['capacity'].apply(lambda x: int(x.replace(',', '')) if type(
 ```
 > Cleaning the ```referee``` and ```capacity``` column using ```lambda``` functions and the ```apply()``` method.
 
-The number of rounds in each season for each league is plotted as a function of time. While this figure is a little convoluted, it is useful to observe potential gaps in the dataset. It is to be expected that each league plays 30-46 rounds, so it is evident the Championship is a problmeatic dataset. After inspecting, it can be seen that there is incomplete data for the years 1990-1994 and 1998 (which will be dropped), and missing data between 2006 and 2020. The drop in rounds in the 2. Bundesliga in 1992 may initially be understood as incomplete data, however after futher research it is apparent that this is due to the league being briefly split in two after teams from East Germany joined the league. The majority of the data for the Eerste Divisie and Segunda Liga is missing as each season only contains information on the first round. As a result of this, little usefeul information can be able to be extracted so data from these two leagues will be dropped. The final dip in total rounds played can be explained by the data being collected while the 2021 campaign was still in progression.
+The number of rounds in each season for each league is plotted as a function of time. While this figure is a little convoluted, it is useful to observe potential gaps in the dataset.
 
 <p align='center'>
   <img 
@@ -55,6 +55,8 @@ The number of rounds in each season for each league is plotted as a function of 
     src='README-images/rounds.png'
   >
 </p>
+
+It is to be expected that each league plays 30-46 rounds, so it is evident the Championship is a problematic dataset. After inspecting, it can be seen that there is incomplete data for the years 1990-1994 and 1998 (which will be dropped), and missing data between 2006 and 2020. The drop in rounds in the 2. Bundesliga in 1992 may initially be understood as incomplete data, however after futher research it is apparent that this is due to the league being briefly split in two after teams from East Germany joined the league. The majority of the data for the Eerste Divisie and Segunda Liga is missing as each season only contains information on the first round. As a result of this, little usefeul information can be able to be extracted so data from these two leagues will be dropped. The final two dips in total rounds played can be explained by a reduction in the number of matches during the COVID-19 pandemic and the data being collected while the 2021 campaign was still in progression.
 
 This leave 127416 rows of data from 12 leagues to analyse, and brings the number of unique home teams and away teams to 499 and 498 respectively.
 
@@ -69,7 +71,7 @@ Combining the home and away goals, a bar chart can be produced to show the avera
   >
 </p>
 
-By creating a new column in the dataframe and assigning each home win, draw and away win a score of 1, 0 and 1 respectively, a line graph can be plotted to see how the average outcome of all leagues has changed over the years. In theory, this value would remain at 0 indicating the same number of home and away wins, however in reality we that the earlier years had a heavy bias towards home wins. What is interesting is that over the years, this bias is reducing leading to a much more equal probability of the away team winning especially in recent years.
+By creating a new column in the dataframe and assigning each home win, draw and away win a score of 1, 0 and 1 respectively, a line graph can be plotted to see how the average outcome of all leagues has changed over the years. In theory, this value would remain at 0 indicating an equal number of home and away wins, however in reality it is shown that earlier years have a heavy bias towards home wins. What is interesting is that over the years, this bias is reducing leading to a much more equal probability of the away team winning especially in recent years.
 
 <p align='center'>
   <img 
@@ -78,7 +80,7 @@ By creating a new column in the dataframe and assigning each home win, draw and 
   >
 </p>
 
-In order to investigate the effect that the stadium size has on the outcome of a game, a scatter graph has been plotted with an ordinary least squared regression trendline. The positive gradient of this line demonstrates that the home team is more likely to win when their stadium is larger, however this may partly be a result of stronger teams having larger capacity stadiums.
+In order to investigate the effect that the stadium size has on the outcome of a game, a scatter graph has been plotted with an ordinary least squared (OLS) regression trendline. The positive gradient of this line demonstrates that the home team is more likely to win when their stadium is larger, however this may partly be a result of stronger teams having larger capacity stadiums.
 
 <p align='center'>
   <img 
@@ -110,7 +112,7 @@ More features will be added and inspected as the project progresses.
 
 ### ELO
 
-The ELO is a points system which is given to each team in relation their previous results where the stronger a team is, the greater their ELO value. This value is calculated automatically by a predetermined algorithm after each game, but comparing the two teams score will almost certainly be a key feature in predicting the outcome of games. This data is loaded using ```pickle``` and merged into the main dataframe.
+The ELO is a points system which is given to each team in relation their previous results where the stronger a team is, the greater their ELO value. This value is calculated by a predetermined third party algorithm after each game, but comparing the two teams score will almost certainly be a key feature in predicting the outcome of games. This data is loaded using ```pickle``` and merged into the main dataframe.
 ```python 
 elo_dict = pickle.load(open('elo_dict.pkl', 'rb'))
 elo_df = pd.DataFrame.from_dict(elo_dict)
@@ -121,7 +123,7 @@ elo_df = elo_df.transpose().reset_index().rename(columns={'index': 'Link'})
 
 As stated in the hypothesis, the number of goals scored that season by a team prior to the fixture taking place is highly likely to influence the number of goals scored by said team and hence, the outcome of the match. Calculating this is relatively simply, but to create a singular function that will iterate over the entire ```main_df``` dataframe is a little more complex and requires several nested ```for``` loops.
 
-- Initially, one club was looked at in a dataframe from a singular season (```season_df```) in order to establish the innermost ```for``` loop.  The goals scored by this team so far was calculated by creating a list with an initial value of 0. The next value is calculated by summing the previous two values, and so the number of goals scored by the team after round 1 will correspond to the value of index 1 in the list.
+- Initially, one club was looked at in a dataframe from a singular season (```season_df```) in order to establish the innermost ```for``` loop.  The goals scored by this team so far was calculated by creating a list with an initial value of 0. The next value is calculated by summing the previous two values, and so the number of goals scored by the team before their fixture will correspond to the previous indexed value in the list. It is important that the goals scored during that round are not included in this value, as when training a model there cannot be information from the 'future' as this will not be availbile when testing on games that have not yet taken place, so every team will have a value of 0 goals score so far in the first round.
 
     ```python
   for j in season_df['round'].unique():
@@ -148,11 +150,9 @@ if match.home_team.item() == team:
 
 This function takes an incredibly long time to iterate through the 140k rows (upwards of 2 hours), but it only needs to run once. This dataframe with the two new features is saved as ```main_df_goals_sofar.csv```.
 
-### Goal Difference So Far
-
 ### Points So Far
 
-Accumulated oints so far is calculated over the course of the season for each team. 3 points are awarded for a win, 1 for a draw and 0 for a loss.
+Accumulated points so far is calculated over the course of the season for each team. 3 points are awarded for a win, 1 for a draw and 0 for a loss.
 
 ```python
 if match.outcome.item() == 1:
@@ -163,53 +163,162 @@ else:
     points_sofar_list.append(0)
 points_sofar_list[j] += points_sofar_list[j-1]
 ```
+> Calculating the points so far for the home team.
 
 This information is saved as ```main_df_points_sofar.csv```.
 
 ### Form
 
-Form is calculated over the past 5 games for each team and inserted into ```main_df``` under the columns, ```home_form``` or ```away_form```. This is given as a string object, e.g. ```'WWDLW'```.
+Form is calculated over the past 5 games for each team and inserted into ```main_df``` under the columns, ```home_form``` or ```away_form```. This is given as a numerical points value, with 3 points for a win, 1 for a draw and 0 for a loss..
 
 ```python
-form = '-----'
+form = [0, 0, 0, 0, 0]
 if match.outcome.item() == 1:
-  form = form[1:] + 'W'
+  form = form[1:] + [3]
 elif match.outcome.item() == 0:
-  form = form[1:] + 'D'
+  form = form[1:] + [1]
 else:
-  form = form[1:] + 'L'
+  form = form[1:] + [0]
 ```
+> Calculating the form for the home team.
 
 This is saved as ```main_df_form.csv```.
 
-### Pipeline
+## Milestone 4: Uploading to a Database
+
+### RDS
+
+Creating a relational database in the cloud means the data can be accessed by more than just a local machine.
+
+- Using Amazon's RDS, a new PostgreSQL database ```football-predictions``` is set up with public access.
+- A ```.env``` file is created to store the hostname and password securely and the engine is connected to with the ```rds_connect()``` function using the packages ```sqlalchemy``` and ```psycopg2```.
+
+```python
+def rds_connect():
+    DATABASE_TYPE = 'postgresql'
+    DBAPI = 'psycopg2'
+    HOST = os.environ['DB_HOST']
+    USER = 'postgres'
+    PASSWORD = os.environ['DB_PASSWORD']
+    DATABASE = 'football-predictions'
+    PORT = 5432
+    return create_engine(f"{DATABASE_TYPE}+{DBAPI}://{USER}:{PASSWORD}@{HOST}:{PORT}/{DATABASE}")
+```
+> This function creates a connection with the database in the cloud.
+
+- The cleaned dataframe is then uploaded to the AWS database with this connection.
+
+```python
+def upload_initial_data():
+    engine = rds_connect()
+    clean_dataset = pd.read_csv('project/dataframes/cleaned_dataset.csv', index_col=0)
+    df_name = 'match-results'
+    clean_dataset.to_sql(df_name, engine, if_exists='replace', index=False)
+```
+> The ```upload_initial_data()``` function.
+
+### Developing the Pipeline
 
 The function ```create_cleaned_dataset()``` will read the ```.csv``` files containing the features to be inspected and merge them into one dataframe which we can use to train a model. Using the ```.join``` method, we can merge these dataframes on index and save it as a new ```.csv``` file.
 
 ```python
 cleaned_dataset = goals_sofar.join(points_sofar).join(form)
-cleaned_dataset.to_csv('project/cleaned_dataset.csv')
+cleaned_dataset.to_csv('project/dataframes/cleaned_dataset.csv')
 ```
 > The ```create_cleaned_dataset()``` function in ```feature_engineering.py```.
 
-A new file ```pipeline.py``` is created which can be run whenever new data is added to the datasets and create the clean dataframe ```cleaned_dataset.csv```.
+A new file ```pipeline.py``` is created in which the function ```additional_data_pipeline()``` can be run whenever new data is added. This takes in the path to additional match and ELO data, merges them with ```match_info.csv``` and ```team_info.csv``` with a left join before calculating the features to be used in the training of the model. Finally, it appends this DataFrame to the PostgreSQL table in the cloud.
 
 ```python
-if __name__ == '__main__':
-    eda.concatenate_data()
-    eda.clean_data()
-    eda.create_outcome()
-    eda.main_df.to_csv('project/main_df.csv')
-    main_df = pd.read_csv('project/main_df.csv')
-    feature_engineering.calculate_goals_sofar()
-    feature_engineering.calculate_points_sofar()
-    feature_engineering.calculate_form()
-    feature_engineering.create_cleaned_dataset()
+def additional_data_pipeline(dataset_path, elo_path):
+  main_df_additional = perform_eda(dataset_path, elo_path)
+  create_cleaned_dataset(main_df_additional).to_csv('project/dataframes/cleaned_dataset_additional.csv')
+  upload_additional_data()
 ```
-> The pipeline used to automatically create a cleaned dataframe.
-
-## Milestone 4: Uploading to a Database
+> The pipeline used to automatically add new data to the AWS database in the cloud.
 
 ## Milestone 5: Model Training
+
+### Baseline Score
+
+First, a simple model is trained to obtain an initial base score which can be improved upon later. The design matrix ```X``` contains samples represented as rows and samples represented as rows, making it of size (120581, 10). The target values ```y``` represent the discrete set of values for classification, in this case a 1D array of length 120581 with values 1, 0 or -1.
+
+As this is a multiclass classification problem, the output of the model is interpreted as confidence that the output belongs to a certain class (-1, 0 or 1). Logistic regression will be used as the model for this baseline score, which is a simple linear model for classification.
+
+To estimate how well a model performs on unseen data, the initial dataset into two: one for training and the other for testing. This testing set is used for evaluating whether a model meets necessary requirements and estimating real world performance. A test size of 0.2 will be used to represent the proportion of the dataset to be included in the test split, giving 24117 testing values which is more than enough. The ```random_state``` argument will be set to an artbitrary integer for reproducible results.
+
+```python
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=13)
+model = LogisticRegression(multi_class='multinomial', solver='newton-cg')
+model.fit(X_train, y_train)
+y_pred = model.predict(X_test)
+print(accuracy_score(y_test, y_pred))
+```
+> Calculating the accuracy score of the baseline model.
+
+The model is then saved with ```joblib.dump(model, 'model/baseline.joblib')``` which is an efficient way of storing large numpy arrays internally. This gives a baseline score of 0.4939669113073765.
+
+### Feature Selection
+
+To train an optimal model, only the essential feature should be used. Too few features will mean the model does not have enough information to be effectively trained, and too many leads to the model capturing unimportant patterns as it learns from noise. Feature Selection is the method of reducing the input variable to your model by using only relevant data and getting rid of noise in data. As we have numerical input and categorical output information either the ANOVA correlation coefficient (linear) or the Kendall’s rank coefficient (nonlinear) model will be used.
+
+### Regression Coefficients
+
+Regression coefficients describe the size and direction of the relationship between a predictor and the response variable. The large this magnitude, the greater the significance of this feature on the outcome term. It does not, however, dictate whether a term is statistically significant as variation in the response data is not taken into account.
+
+```python
+model.classes_  # array([-1,  0,  1])
+home_win_coefficients = model.coef_[0]
+draw_coefficients = model.coef_[1]
+away_win_coefficients = model.coef_[2]
+```
+> Calculating the feature coefficients of each outcome.
+
+<p align='center'>
+  <img src='README-images/home_win_coefficients.png' width='400'>
+  <img src='README-images/away_win_coefficients.png' width='400'>
+</p>
+
+<p align='center'>
+  <img 
+    width='400'
+    src='README-images/draw_coefficients.png'
+  >
+</p>
+
+
+The key takeaways from these graphs are:
+- For home/away wins, the ELO rating of each team has the highest significance, and points accumulated so far has the lowest significance.
+- For draws, the round coefficient is the most significant - it is large and positive revealing that as the season goes on, draws between teams become more likely.
+
+### Importance Scores
+
+The Classification and Regression Tree (CART) algorithm is used by fitting a ```DecisionTreeRegressor``` which can calculate the importance scores of each feature.
+
+<p align='center'>
+  <img 
+    width='400'
+    src='README-images/importance_coefficients.png'
+  >
+</p>
+
+This plot explains that all the features currently in the ```cleaned_dataset``` are important, with round and team form the least important features, albeit not by much.
+
+<p align='center'>
+  <img 
+    width='400'
+    src='README-images/feature-removal.png'
+  >
+</p>
+
+By plotting the accuracy score of various combinations of features removed from the ```cleaned_dataset``` DataFrame, the significance of each combination can be understood. Interestingly, removing just the points accumulated by the home and away team features produces the most accurate model, with an accuracy of 0.4940083758344736. However, this is only a 0.0000839% increase in accuracy, and so all features will remain in the design matrix for now.
+
+### Training multiple methods
+
+The supervised models tested used the K-Nearest Neighbour algorithm, Decision Classification Trees and Support Vector Machines (SVMs).
+
+### Picking the best method
+
+### Testing model on testing set
 
 ## Milestone 6: Inference
