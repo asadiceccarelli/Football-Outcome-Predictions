@@ -315,7 +315,18 @@ By plotting the accuracy score of various combinations of features removed from 
 
 ### Training multiple methods
 
-The supervised models tested used the K-Nearest Neighbour algorithm, Decision Classification Trees and Support Vector Machines (SVMs).
+The simple supervised models tested use the K-Nearest Neighbour algorithm, Decision Classification Trees. Support Vector Machines (SVMs) will not be used as they are more suited to smaller datasets. These models will be compared using four evaluation metrics:
+1. Accuracy score
+2. Precision score
+3. Recall score
+4. F1 score
+
+- Accuracy is simply a measure of the percentage of correct predictions in the testing set. The downsides of accuracy arise when there is an inbalance in our dataset, e.g. if the dataset has 90 '```-1```' values and 10 '```1```' values but model always predicts '```-1```', the model will be shown to have 90% accuracy. This shows us we need to monitor other metrics as well.
+- Precision is a ratio of correctly predicted positives to the total number of predicted positives. It is useful to answer the question: When our model predicts true - how often is it correct? E.g. Of all the home wins predicted, how many were actually home wins? It is a useful metric to consider when false positives are costly.
+- Recall, also known as sensitivity, is the ratio of the correctly predicted positives to the total number of positives in the dataset. Perfect recall is when there are no false negatives. It answers: What proportion of the true labelled examples does the model correctly predict? E.g. What proportion of total home wins did the model correctly identify? It is a useful measure to consider when false negatives are more costly than false positives.
+- The F1 score, also known as the F-score or F-measure, takes the harmonic mean of our precision and recall. Therefore maximising the F1 score accounts for both precision and recall simultaneously.
+
+As such, accuracy will be the primary evalution metric when tuning the hyperparameters of each model, but the other three will also be used as a comparison.
 
 ### Picking the best method
 
