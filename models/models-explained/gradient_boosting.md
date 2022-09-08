@@ -45,4 +45,4 @@ base_log_odds + (learning_rate * predicted residual value)
         - Gradient boosting is fairly robust to over-fitting so a large number usually results in better performance
 4. `max_depth`
         - The maximum depth of the individual regression estimators
-        - he maximum depth limits the number of nodes in the tree
+        - The maximum depth limits the number of nodes in the tree
