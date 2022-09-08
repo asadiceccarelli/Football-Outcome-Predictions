@@ -45,6 +45,7 @@ Disadvantages:
 4. ```bootstrap```
         - Whether bootstrap samples are used when building trees
         - If ```True```, bagging is used and each tree is trained on a subset of the training data
-        - If ```False```, the whole training dataset is used to build each tree
+                Samples are drawn with replacement and combined (aggregated) by taking their average
+        - If ```False```, the whole training dataset is used to build each tree and samples are drawn without replacement
 5. ```max_samples```
         - The number of samples to draw from X to train each base estimator if bootstrap is ```True```
