@@ -92,7 +92,7 @@ def plot_outcome(df):
         df (DataFrame): DataFrame containing all data.
     """
     outcome_line = px.line(df.groupby('season')['outcome'].mean(), title='Outcome of matches over time')
-    outcome_line.update_layout(showlegend=False)
+    outcome_line.update_layout(template='plotly_dark', showlegend=False)
     outcome_line.write_image('README-images/outcome-over-time.png')
 
 
@@ -105,8 +105,12 @@ def plot_goals(df):
     df['home_goals'] = df.home_goals.astype('int64')
     df['away_goals'] = df.away_goals.astype('int64')
     df['total_goals'] = df[['home_goals','away_goals']].apply(lambda x: x['home_goals'] + x['away_goals'], axis=1)
-    goals_bar = px.bar(df.groupby('league')['total_goals'].mean(), title='Average number of goals per game')
-    goals_bar.update_layout(showlegend=False)
+    goals_bar = px.bar(
+        df.groupby('league')['total_goals'].mean(),
+        color=df.groupby('league')['total_goals'].mean(),
+        labels={'value:' 'average goals per game'},
+        title='Average number of goals per game')
+    goals_bar.update_layout(template='plotly_dark', showlegend=False, xaxis={'categoryorder':'total descending'})
     goals_bar.write_image('README-images/average_goals.png')
 
 
@@ -125,6 +129,7 @@ def plot_rounds(df):
         title='Rounds per season for each league',
         color_discrete_sequence=px.colors.qualitative.Light24
         )
+    rounds_line.update_layout(template='plotly_dark')
     rounds_line.write_image('README-images/rounds.png')
 
 def plot_capacity(df):
@@ -143,6 +148,7 @@ def plot_capacity(df):
         labels={'x': 'capacity', 'y': 'average outcome'},
         title='The effect of stadium size on the outcome of a match'
         )
+    capcity_outcome_scatter.update_layout(template='plotly_dark')
     capcity_outcome_scatter.write_image('README-images/capacity.png')
 
 
@@ -164,6 +170,7 @@ def plot_cards(df):
         labels={'x': 'capacity', 'y': 'average no. cards per game'},
         title='The effect of stadium size on the number of cards in a match'
         )
+    capacity_cards_scatter.update_layout(template='plotly_dark')
     capacity_cards_scatter.write_image('README-images/cards.png')
 
 
@@ -183,8 +190,9 @@ def perform_eda(dataset_path, pickle_path):
 
 
 if __name__ == '__main__':
-    perform_eda('Football-Dataset/*/*', 'Additional-Data/elo_dict.pkl').to_csv('preparation/dataframes/main_df.csv')
-    # # plot_rounds(main_df)
-    # plot_outcome(main_df)
-    # plot_goals(main_df)
-    # plot_capacity(main_df)
+    # perform_eda('Football-Dataset/*/*', 'Additional-Data/elo_dict.pkl').to_csv('preparation/dataframes/main_df.csv')
+    # plot_rounds(clean_data(concatenate_data('Football-Dataset/*/*', 'Additional-Data/elo_dict.pkl')))
+    # plot_outcome(pd.read_csv('preparation/dataframes/main_df.csv'))
+    plot_goals(pd.read_csv('preparation/dataframes/main_df.csv'))
+    # plot_capacity(pd.read_csv('preparation/dataframes/main_df.csv'))
+    # plot_cards(pd.read_csv('preparation/dataframes/main_df.csv'))
