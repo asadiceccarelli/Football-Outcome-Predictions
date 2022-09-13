@@ -1,4 +1,5 @@
 import logging
+import pandas as pd
 
 logging.basicConfig(level=logging.INFO)
 
@@ -145,12 +146,25 @@ def create_cleaned_dataset(df):
     return cleaned_dataset
 
 
-import pandas as pd
-goals_sofar = pd.read_csv('preparation/dataframes/main_df_average_goals.csv')
-points_sofar = pd.read_csv('preparation/dataframes/main_df_points_sofar.csv')[['home_points_sofar', 'away_points_sofar']]
-form = pd.read_csv('preparation/dataframes/main_df_form.csv')[['home_form', 'away_form']]
-goals_sofar = goals_sofar[[
-    'elo_home', 'elo_away', 'outcome', 'average_recent_home_scored',
-    'average_recent_home_conceeded',  'average_recent_away_scored',  'average_recent_away_conceeded'
-    ]]
-cleaned_dataset = goals_sofar.join(points_sofar).join(form).to_csv('preparation/dataframes/cleaned_dataset.csv')  # Join on index
+def create_recent_dataset(year):
+    """Creates a dataset containing matches played after a certain date.
+    Args:
+        year (str): Output dataset will contain matches played after this date.
+    Returns:
+        cleaned_dataset_recent (DataFram): DataFrame with only relevant columns
+            reading for modelling after a certain date.
+    """
+    goals_sofar = pd.read_csv('preparation/dataframes/main_df_average_goals.csv')
+    points_sofar = pd.read_csv('preparation/dataframes/main_df_points_sofar.csv')[['home_points_sofar', 'away_points_sofar']]
+    form = pd.read_csv('preparation/dataframes/main_df_form.csv')[['home_form', 'away_form']]
+    goals_sofar = goals_sofar[[
+        'elo_home', 'elo_away', 'outcome', 'average_recent_home_scored',
+        'average_recent_home_conceeded',  'average_recent_away_scored',  'average_recent_away_conceeded', 'date_new']]
+    cleaned_dataset = goals_sofar.join(points_sofar).join(form)
+    mask = (cleaned_dataset['date_new'] > year)
+    cleaned_dataset_recent = cleaned_dataset.loc[mask].drop('date_new', axis=1)
+    return cleaned_dataset_recent
+
+
+if __name__ == '__main__':
+    create_recent_dataset('2000').to_csv('preparation/dataframes/cleaned_dataset_2000.csv')
