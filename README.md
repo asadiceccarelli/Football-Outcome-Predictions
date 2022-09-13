@@ -92,6 +92,14 @@ Similarly, the number of cards per game a home team receives is plotted as a fun
 
 Other data that could be looked at is the frequency of cards given by each referee, the number of draws per league and if the time of year affects the goals/outcome.
 
+These can all be presented on a dashboard using the data visualisation software Tableau.
+
+<p align='center'>
+  <img src='README-images/initial-tableau.png' width='800'>
+</p>
+
+> A tableau dashboard to show the initial insights into the data.
+
 ### Hypothesis
 
 - The feature with the greatest impact on the result will be the past results of each club. Other important features will be the past number of goals score and conceeded and the stadium size.
